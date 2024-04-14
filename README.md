@@ -51,16 +51,14 @@ Most of the transcripts should look something like this (i've chose Brazilian Po
 
 When any object containing a string is read from the live game, its name is converted to lower case, has its spaces and puctuation removed and becomes the search key (the string on the beggining of each line on the previous example).
 
-<div style="overflow: auto;">
-    <img src="https://oldschool.runescape.wiki/images/thumb/Bronze_sword_equipped_male.png/132px-Bronze_sword_equipped_male.png?273ac" alt="Descrição da imagem" style="float: left; margin-right: 10px;">
-    <p>As an example, we came across a <a href="https://oldschool.runescape.wiki/w/Bronze_sword">bronze sword</a> in our inventory, when we examine it, the game should prompt you with:</p>
-    <blockquote>A razor sharp sword.</blockquote>
-    <p>After this initial text processing the key should be:</p>
-    <blockquote>"arazorsharpsword"</blockquote>
-    <p>The plugin uses this key to search through its transcription files, among many different object categories to check if there is a corresponding translation for the current object, as for <a href="#what-are-these-transcripts">the previous example</a>, for Brazilian Portuguese we can find a corresponding string as:</p>
-    <blockquote>"Uma espada bem afiada."</blockquote>
-</div>
+As an example, we came across a [bronze sword](https://oldschool.runescape.wiki/w/Bronze_sword) in our inventory, when we examine it, the game should prompt you with:
+> A razor sharp sword.
 
+After this initial text processing the key should be:
+> "arazorsharpsword"
+
+The plugin uses this key to search through its transcription files, among many different object categories to check if there is a corresponding translation for the current object, as for [the previous example](#what-are-these-transcripts), for Brazilian Portuguese we can find a corresponding string as:
+> "Uma espada bem afiada.
 
 The new string is then sent to the original widget, replacing the original text even before it is shown to the player, so they can experience the game as being in Brazilian Portuguese!
 
