@@ -13,7 +13,7 @@
 
 Welcome to the transcript sources repository for the [RuneLingual translation plugin](https://github.com/IaKee/RuneLingual-Plugin)! This repository aims to be a [contributor hub](https://discord.gg/ehwKcVdBGS) with everything related to the main RuneLingual plugin's source files, [for the main plugin repository click here](https://github.com/IaKee/RuneLingual-Plugin).
 
-RuneLingual is a community-maintained [plugin](https://runelite.net/plugin-hub) for the officially supported game client [RuneLite](https://runelite.net) of [OldSchool Runescape](https://oldschool.runescape.com), you can read more about them on their links. 
+RuneLingual is a community-maintained [plugin](https://runelite.net/plugin-hub) for the [officially supported](https://secure.runescape.com/m=news/third-party-clients-update?oldschool=1) [game client RuneLite](https://runelite.net), for [OldSchool Runescape](https://oldschool.runescape.com), you can read more about them on their links here. 
 
 Our goal is to unite the community by providing accessible translations in multiple languages, ensuring that every player can enjoy the game in their preferred language.
 
@@ -51,14 +51,14 @@ Most of the transcripts should look something like this (i've chose Brazilian Po
 
 When any object containing a string is read from the live game, its name is converted to lower case, has its spaces and puctuation removed and becomes the search key (the string on the beggining of each line on the previous example).
 
-As an example, we came across a [bronze sword](https://oldschool.runescape.wiki/w/Bronze_sword) in our inventory, when we examine it, the game should prompt you with:
-> A razor sharp sword.
+As an example, if we have a [bronze sword](https://oldschool.runescape.wiki/w/Bronze_sword) in our inventory when we examine it, the game should prompt you with:
+> "A razor sharp sword."
 
 After this initial text processing the key should be:
 > "arazorsharpsword"
 
 The plugin uses this key to search through its transcription files, among many different object categories to check if there is a corresponding translation for the current object, as for [the previous example](#what-are-these-transcripts), for Brazilian Portuguese we can find a corresponding string as:
-> "Uma espada bem afiada.
+> "Uma espada bem afiada."
 
 The new string is then sent to the original widget, replacing the original text even before it is shown to the player, so they can experience the game as being in Brazilian Portuguese!
 
@@ -71,20 +71,27 @@ If you would like to contribute in any way, please first consider the following:
 
 If you want to contribute improving our translations packs follow these steps:
 1. [Select your working language on the top of this page](#choose-your-preferred-language), to acess its corresponding branch.
-2. [Create your own fork of this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+
+> **NOTE**: It's important to note that each language pack should have its own branch, as well as two sub-branches:
+`main` - the main branch for the given language pack, where the latest stable version used on the main plugin is stored.
+`dev` - the development branch, where the latest unstable version of the transcripts are stored.
+
+2. [Create your own fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of the development branch of the language pack you intend to work with.
 3. Tweak your version to your liking.
-4. [Submit a pull request with your changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), so it later can be reviewed and [merged with the main branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request).
+4. [Submit a pull request with your changes](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
+5. Please wait so your changes can be reviewed and [merged with the main branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request).
 
 If you would like to see your language supported, but feel like you can't currently contribute, please consider reaching out to your friends and clanmates sharing this project!
 
 As of yet we currently don't have a translation tool to recomend contributors to work with, after the initial brute data processing, it is mostly manual entries. 
 
-> So far I highly recommend using [Visual Studio Code](https://code.visualstudio.com) with [split screen](https://stackoverflow.com/questions/40709351/visual-studio-code-how-to-split-the-editor-vertically) along with the [Sync Scroll extension](https://marketplace.visualstudio.com/items?itemName=dqisme.sync-scroll), so your workspace can look like this:
+> So far I highly recommend using [Visual Studio Code](https://code.visualstudio.com) (which is basically a [text editor like that one windows notepad](https://en.wikipedia.org/wiki/Windows_Notepad), with extra tools for coding) with [split screen](https://stackoverflow.com/questions/40709351/visual-studio-code-how-to-split-the-editor-vertically) along with the [Sync Scroll extension](https://marketplace.visualstudio.com/items?itemName=dqisme.sync-scroll), so your workspace can look like this:
 ![preview](https://i.imgur.com/mMJt8jZ.png)
+The sync scroll extension will make sure that the two editors are synced, so you can scroll through the code and the text editor will scroll with you, showing corresponding entries in the other editor.
 
 ## Disclaimer
 
-This repository is a part of the RuneLingual project, a third-party plugin under development. It is not affiliated with Jagex, the creators of OldSchool RuneScape or RuneLite. Use this repository at your own risk.
+This repository is a part of the [RuneLingual project](https://github.com/IaKee/RuneLingual-Plugin), a third-party plugin under development. It is not affiliated with Jagex, the creators of OldSchool RuneScape or RuneLite. 
 
 ## Contact us
 
