@@ -1,10 +1,9 @@
 import os
-import sys
 from PIL import Image, ImageDraw, ImageFont
 import unicodedata
 import math
-import shutil
 import common_func
+import zipfile
 
 """
 edit below to add/remove languages
@@ -203,6 +202,17 @@ def process_directory_to_opaque(directory):
             image_path = os.path.join(directory, file)
             make_image_opaque(image_path)
 
+def zip_char_img(zip_file_name, target_folder_path):
+    #zip_file_name = './repos/char.zip'
+    #folder_path = './repos/char'
+    with zipfile.ZipFile(zip_file_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
+        for root, dirs, files in os.walk(target_folder_path):
+            for file in files:
+                # Create a proper path for each file to be stored in the zip
+                file_path = os.path.join(root, file)
+                # Adding file to zip
+                zipf.write(file_path, os.path.relpath(file_path, os.path.dirname(target_folder_path)))
+
 if __name__ == '__main__':
     print("enter a number;")
     for i, lang in enumerate(LANG):
@@ -226,4 +236,5 @@ if __name__ == '__main__':
 
     create_images(chars_list, font_path, output_dir_base, TEXTCOLOR)
     process_directory_to_opaque(output_dir_base)
+    zip_char_img(zip_file_name="../draft/" + language + "/char.zip", target_folder_path=output_dir_base)
     #list_image_names(output_dir_base)
