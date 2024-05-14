@@ -4,16 +4,7 @@ import unicodedata
 import math
 import common_func
 import zipfile
-
-"""
-edit below to add/remove languages
-"""
-# must mach lang code in LangCodeSelectableList.java
-LANG = ['pt_br', 'no','jp']
-
-"""
-dont edit anything else below (unless you know what youre doing)
-"""
+from common_func import LANG
 
 TEXTCOLOR = [(60, 60,60, 255), (255, 255, 0, 255), (255, 0, 0, 255)
                     , (255, 165, 0, 255), (255, 255, 255, 255), (0, 255, 255, 255), (0, 255, 0, 255), (0, 0, 255, 255)]#blue was 0,0,255
@@ -229,12 +220,12 @@ if __name__ == '__main__':
     font_num = int(input("to select font for character images generated: "))
     font_path = font_candidates[font_num]
 
-    output_dir_base = "../draft/" + language + "/char"
+    output_dir_base = "../draft/" + language + "/char_" + language
     common_func.remove_existing_dir(directory_path="../draft/" + language,folder_name="char")
     common_func.create_directories_if_not_exist(output_dir_base=output_dir_base)
 
 
     create_images(chars_list, font_path, output_dir_base, TEXTCOLOR)
     process_directory_to_opaque(output_dir_base)
-    zip_char_img(zip_file_name="../draft/" + language + "/char.zip", target_folder_path=output_dir_base)
+    zip_char_img(zip_file_name="../draft/" + language + "/char_"  + language + ".zip", target_folder_path=output_dir_base)
     #list_image_names(output_dir_base)

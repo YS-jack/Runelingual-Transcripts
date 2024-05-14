@@ -1,6 +1,16 @@
 import os
 import shutil
 
+"""
+edit below to add/remove languages
+"""
+# must mach lang code in LangCodeSelectableList.java
+LANG = ['pt_br', 'no','jp','kr']
+
+"""
+dont edit anything else below (unless you know what youre doing)
+"""
+
 def remove_existing_dir(directory_path, folder_name):
     # Construct the path to the folder
     folder_path = os.path.join(directory_path, folder_name)
