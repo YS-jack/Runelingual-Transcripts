@@ -38,4 +38,4 @@ def create_directories_if_not_exist(output_dir_base):
             os.makedirs(current_path)
             print(f"Created directory: {current_path}")
         else:
-            print(f"Directory already exists: {current_path}")
+            print(f"Directory already exists: {current_path}") 
