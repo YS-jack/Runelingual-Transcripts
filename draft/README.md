@@ -1,4 +1,4 @@
-This is the draft directory, which means edits should be made here before its ready to be published to all RuneLingual users.
+Any edits to any transcripts should be made here before its ready to be published to all RuneLingual users.
 
 Steps:
 1. commit to "draft" directory
