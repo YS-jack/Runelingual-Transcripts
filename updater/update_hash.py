@@ -38,7 +38,7 @@ def process_directory(lang_code):
     files_under_target_path = common_func.get_list_files_in_directory(target_path=target_path)
     with open(output_file, 'w') as out:
         for file in files_under_target_path:
-            if (file == output_file):
+            if (os.path.basename(file) == os.path.basename(output_file)):
                 continue
             filepath = os.path.join(target_path, file)
             hash_value = hash_file(filepath)
