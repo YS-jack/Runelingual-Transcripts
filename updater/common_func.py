@@ -6,6 +6,7 @@ edit below to add/remove languages
 """
 # must mach lang code in LangCodeSelectableList.java
 LANG = ['pt_br', 'no','jp','kr']
+DRAFT_DIR = "../draft" # path to the folder where all language's transcript folders are contained
 
 """
 dont edit anything else below (unless you know what youre doing)
@@ -38,4 +39,9 @@ def create_directories_if_not_exist(output_dir_base):
             os.makedirs(current_path)
             print(f"Created directory: {current_path}")
         else:
-            print(f"Directory already exists: {current_path}") 
+            print(f"Directory already exists: {current_path}")
+
+def get_list_files_in_directory(target_path:str) -> list:
+    entries = os.listdir(target_path)
+    files = [entry for entry in entries if os.path.isfile(os.path.join(target_path,entry))]
+    return files

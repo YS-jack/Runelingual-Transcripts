@@ -3,6 +3,7 @@ import os
 import hashlib
 from pathlib import Path
 import zipfile
+import common_func
 
 def strip_first_directory(path):
     """Strip the first directory from the path."""
@@ -30,43 +31,29 @@ def hash_directory(directory):
                     sha256_hash.update(byte_block)
     return sha256_hash.hexdigest()
 
-def process_directory(root_directory, output_file):
+def process_directory(lang_code):
+    target_path = common_func.DRAFT_DIR + "/" + lang_code
+    output_file = target_path + "/hashList_" + lang_code + ".txt"
     """Process each file and directory under the root directory."""
+    files_under_target_path = common_func.get_list_files_in_directory(target_path=target_path)
     with open(output_file, 'w') as out:
-        for dirpath, dirnames, filenames in os.walk(root_directory):
-            # Check for special 'char' directory
-            if 'char' in dirnames:
-                char_path = os.path.join(dirpath, 'char')
-                hash_value = hash_directory(char_path)
-                out.write(f"char|{hash_value}\n")
-                dirnames.remove('char')  # Avoid processing 'char' directory again
-
-            # Process regular files
-            for filename in filenames:
-                filepath = os.path.join(dirpath, filename)
-                hash_value = hash_file(filepath)
-                no_first_dir = strip_first_directory(filepath)
-                out.write(f"{no_first_dir}|{hash_value}\n")
-
-def zip_char_img():
-    zip_file_name = './repos/char.zip'
-    folder_path = './repos/char'
-    with zipfile.ZipFile(zip_file_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
-        for root, dirs, files in os.walk(folder_path):
-            for file in files:
-                # Create a proper path for each file to be stored in the zip
-                file_path = os.path.join(root, file)
-                # Adding file to zip
-                zipf.write(file_path, os.path.relpath(file_path, os.path.dirname(folder_path)))
+        for file in files_under_target_path:
+            if (os.path.basename(file) == os.path.basename(output_file)):
+                continue
+            filepath = os.path.join(target_path, file)
+            hash_value = hash_file(filepath)
+            no_first_dir = strip_first_directory(filepath)
+            out.write(f"{no_first_dir}|{hash_value}\n")
+            print(f"hash value for {no_first_dir} = {hash_value}")
 
 def main():
-    directory_path = sys.argv[1]
-    process_directory(directory_path, "hashList.txt")
-    zip_char_img()
+    for lang_code in common_func.LANG:
+        try:
+            process_directory(lang_code)
+        except FileNotFoundError:
+            continue
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        print("use: python create_hash.py <folder to create hash of>")
-        sys.exit(1)
+    print(f"will generate hash for all languages in {common_func.DRAFT_DIR}")
     main()
