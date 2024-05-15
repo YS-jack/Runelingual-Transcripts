@@ -9,14 +9,14 @@
 - If you'd like to contribute or request support for another language that isn't listed, please [contact us](#contact-us).
 - Feel free to tweak our language packs to your liking. We aim to support multiple language pack variants to accommodate different preferences.
 
+## Working with the "draft" Directory
+The "draft" directory is the workspace for translators. All edits should be made here before they are ready to be published to all RuneLingual users. Here are the steps:
 
-## About this "draft" directory
-This is the draft directory, which means edits should be made here before its ready to be published to all RuneLingual users.
+1. Commit your changes to the "draft" directory.
+2. Verify there are no issues and that your changes are ready to be published.
+3. Copy your changes from the "draft" directory to the "public" directory.
 
-Steps:
-1. commit to "draft" directory
-2. check there are no problems, and is ready to be published
-3. copy from draft directory to "public" directory (here)
+This process ensures that all translations are reviewed and refined before they are made available to the RuneLingual community.
 
 
 # RuneLingual Transcript Sources

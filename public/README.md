@@ -1,22 +1,24 @@
-# RuneLingual Transcript Sources - Public Directory
+# *Public* Directory for RuneLingual Transcript Sources
 
-Welcome to the public directory of the RuneLingual Transcript Sources. This directory contains the finalized and published versions of our transcripts. These are the versions that are distributed to all RuneLingual users.
+> :warning: **IMPORTANT:** This directory is for **final versions only**. All players using RuneLingual will download files from here. Ensure that all transcripts are error-free before adding them here. Any mistakes could lead to a poor user experience for all RuneLingual users.
 
+Welcome to the public directory of the RuneLingual Transcript Sources. This directory holds the finalized, published versions of our transcripts.
+
+Welcome to the public directory of the RuneLingual Transcript Sources. This directory holds the finalized, published versions of our transcripts.
 ## Guidelines for the Public Directory
 
-Please adhere to the following steps to maintain the integrity of the public directory:
+Follow these steps to maintain the integrity of the public directory:
 
-1. Make initial edits and drafts in the "draft" directory.
-2. Ensure there are no issues with the draft and that it's ready to be published.
-3. Copy the finalized version from the draft directory to this public directory.
+1. Make initial edits in the "draft" directory.
+2. Review the draft thoroughly. Resolve any issues. This step is critical.
+3. Once the draft is error-free, copy it to this public directory.
 
-**Note:** Only add final versions to this directory. Files here will be downloaded by all players using RuneLingual. Ensure that the version you're adding is the latest and ready for players to use.
+Remember, only add final versions here. The version you add should be the latest and ready for use.
 
 ## Contributing
 
-We welcome contributions to expand our language support. If you'd like to contribute or request support for another language that isn't listed, please refer to the main [README.md](../README.md) file for more information.
+We welcome contributions to expand our language support. If you'd like to contribute or request support for another language, refer to the main [README.md](../README.md) file.
 
 ## License
 
 This project is licensed under the [MIT License](../LICENSE).
-
