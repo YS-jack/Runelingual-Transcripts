@@ -5,7 +5,7 @@ import shutil
 edit below to add/remove languages
 """
 # must mach lang code in LangCodeSelectableList.java
-LANG = ['pt_br', 'no','jp','kr']
+LANG = ['pt_br', 'no','jp'] # add language codes here to add new language, then use update_nonEn_transcripts.py (and update_char_images.py if its non alphabet characters)
 DRAFT_DIR = "../draft" # path to the folder where all language's transcript folders are contained
 
 """
