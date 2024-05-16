@@ -156,6 +156,7 @@ def get_target_language():
             print("Invalid input. Please enter a valid number.")
 
 if __name__ == '__main__':
+    print('tip: use ctr-c to force exit')
     english_dir_path = "../draft/en"
     english_json_file_paths = get_file_list(english_dir_path, ".json")   
 

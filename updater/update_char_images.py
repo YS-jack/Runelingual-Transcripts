@@ -5,6 +5,7 @@ import math
 import common_func
 import zipfile
 from common_func import LANG
+import update_hash
 
 TEXTCOLOR = [(60, 60,60, 255), (255, 255, 0, 255), (255, 0, 0, 255)
                     , (255, 165, 0, 255), (255, 255, 255, 255), (0, 255, 255, 255), (0, 255, 0, 255), (0, 0, 255, 255)]#blue was 0,0,255
@@ -229,3 +230,6 @@ if __name__ == '__main__':
     process_directory_to_opaque(output_dir_base)
     zip_char_img(zip_file_name="../draft/" + language + "/char_"  + language + ".zip", target_folder_path=output_dir_base)
     #list_image_names(output_dir_base)
+
+    print('\nupdating hash files for all languages')
+    update_hash.main()
