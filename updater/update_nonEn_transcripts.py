@@ -4,6 +4,7 @@ import os
 import json
 import shutil
 import datetime
+import update_hash
 
 def get_file_list(target_dir_path: str, file_extension: str) -> list:
     """
@@ -141,12 +142,16 @@ def get_target_language():
     """
     while True:
         print("Enter a number:")
+        print("0 for every languages")
         for i, lang in enumerate(LANG):
-            print(f"{i} for {lang}")
+            print(f"{i+1} for {lang}")
         target_language_num = input("For the language you wish to update/create transcript files: ")
-        if target_language_num.isdigit() and int(target_language_num) < len(LANG) and int(target_language_num) > -1:
-            target_language = LANG[int(target_language_num)]
-            return target_language
+        if target_language_num.isdigit() and int(target_language_num) < len(LANG) + 1 and int(target_language_num) > -1:
+            if int(target_language_num) == 0:
+                return 0
+            else:
+                target_language = LANG[int(target_language_num)-1]
+                return target_language
         else:
             print("Invalid input. Please enter a valid number.")
 
@@ -157,7 +162,13 @@ if __name__ == '__main__':
     target_language = get_target_language()
     
     use_english_transcript = ask_if_insert_english_transcript()
-
-    target_json_full_paths = get_target_json_paths(english_json_file_paths, target_language)
-
-    update_target_files(english_json_file_paths, target_json_full_paths, use_english_transcript, target_language)
+    if target_language == 0:
+        for l in LANG:
+            target_json_full_paths = get_target_json_paths(english_json_file_paths, l)
+            update_target_files(english_json_file_paths, target_json_full_paths, use_english_transcript, l)
+    else:
+        target_json_full_paths = get_target_json_paths(english_json_file_paths, target_language)
+        update_target_files(english_json_file_paths, target_json_full_paths, use_english_transcript, target_language)
+    
+    print('\nupdating hash files for all languages')
+    update_hash.main()

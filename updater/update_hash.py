@@ -1,8 +1,6 @@
-import sys
 import os
 import hashlib
 from pathlib import Path
-import zipfile
 import common_func
 
 def strip_first_directory(path):
