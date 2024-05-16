@@ -1,27 +1,6 @@
-## Choose your preferred language
-<div style="text-align: center;">
-
-**Original transcripts :uk:** | [Español Argentino :argentina:](https://github.com/IaKee/Runelingual-Transcripts/tree/espanol-argentino-main) | [Português Brasileiro :brazil:](https://github.com/IaKee/Runelingual-Transcripts/tree/portugues-brasileiro-main) | [Norsk :norway:](https://github.com/IaKee/Runelingual-Transcripts/tree/norsk-main)
-
-</div>
-
-- These are the languages we working with and support so far. 
-- If you'd like to contribute or request support for another language that isn't listed, please [contact us](#contact-us).
-- Feel free to tweak our language packs to your liking. We aim to support multiple language pack variants to accommodate different preferences.
-
-## Working with the "draft" Directory
-The "draft" directory is the workspace for translators. All edits should be made here before they are ready to be published to all RuneLingual users. Here are the steps:
-
-1. Commit your changes to the "draft" directory.
-2. Verify there are no issues and that your changes are ready to be published.
-3. Copy your changes from the "draft" directory to the "public" directory.
-
-This process ensures that all translations are reviewed and refined before they are made available to the RuneLingual community.
-
-
 # RuneLingual Transcript Sources
 
-Welcome to the transcript sources repository for the [RuneLingual translation plugin](https://github.com/IaKee/RuneLingual-Plugin)! This repository aims to be a [contributor hub](https://discord.gg/ehwKcVdBGS) with everything related to the main RuneLingual plugin's source files, [for the main plugin repository click here](https://github.com/IaKee/RuneLingual-Plugin).
+Welcome to the transcript sources repository for the [RuneLingual translation plugin](https://github.com/IaKee/RuneLingual-Plugin) for RuneLite! This repository aims to be a [contributor hub](https://discord.gg/ehwKcVdBGS) with everything related to the main RuneLingual plugin's source files, [for the main plugin repository click here](https://github.com/IaKee/RuneLingual-Plugin).
 
 RuneLingual is a community-maintained [plugin](https://runelite.net/plugin-hub) for the [officially supported](https://secure.runescape.com/m=news/third-party-clients-update?oldschool=1) [game client RuneLite](https://runelite.net), for [OldSchool Runescape](https://oldschool.runescape.com), you can read more about them on their links here. 
 
@@ -29,6 +8,29 @@ Our goal is to unite the community by providing accessible translations in multi
 
 [Contributions are greatly appreciated!](#how-can-i-contribute) 
 
+## Supported Languages
+
+We currently support the following languages:
+
+- [Español Argentino :argentina:](./es_ag/)
+- [Português Brasileiro :brazil:](./pt_br/)
+- [Norsk :norway:](./no/)
+- [日本語 :jp:](./jp/)
+
+If your preferred language isn't listed, we'd love to hear from you. Please [contact us](#contact-us) to request support or contribute a new language pack.
+
+Feel free to customize our language packs to suit your needs. We aim to accommodate a variety of language preferences.
+
+## Working with the "draft" Directory
+The "draft" directory is the workspace for translators. All edits should be made here before they are ready to be published to all RuneLingual users. Here are the steps:
+1. If your language isn't supported, [reach out to us](#contact-us). We'll create a dedicated folder for your language.
+2. Download the transcripts you wish to translate.
+3. Begin translating.
+4. Once you've made progress or completed the translation, contact one of our developers. They can upload the file for you, or you can create a pull request to our draft directory if you're familiar with the process.
+5. Wait for a reviewer to verify your changes and confirm they're ready for publication.
+6. The reviewer will then move your translated transcript from the "draft" directory to the "public" directory.
+
+This process allows any language to be supported through RuneLingual, and ensures that all translations are reviewed and refined before they are made available to the RuneLingual community.
 
 ## F.A.Q.
 

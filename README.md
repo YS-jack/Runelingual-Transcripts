@@ -2,6 +2,19 @@
 
 Welcome to the RuneLingual Transcripts project. This project contains the source files for the RuneLingual translation plugin's transcripts.
 
+## What this repository is for 
+You might be wondering why transcripts aren't just included in the plugin itself as resources. That's because RuneLite has a limit of 10MiB per plugin, and the total size of the transcripts significantly exceeds this limit.
+
+So, when you download RuneLingual from the plugin hub through RuneLite, it won't have any translation data. To solve this issue, RuneLingual downloads the transcripts from this GitHub repository, unpacks them, and uses them to translate everything in-game.
+
+To make this work, we need:
+
+- 'Hash files' (`hashList_??.txt`): These contain compressed versions of transcripts. If two files share the same hash value, they're identical. This is a reliable way to detect changes in the files.
+- Character images: For languages with non-English alphabets, we create emojis for each character to display them in-game.
+- Key input to alphabet: If a language uses character images, we need a file mapping keyboard inputs to these characters. This ensures correct display of the language in-game.
+
+steps  on how the RuneLingual plugin uses these files will be covered in the readme of its repository.
+
 ## Directory Structure
 
 This project is organized into three main directories:
@@ -11,6 +24,7 @@ This project is organized into three main directories:
 - [`draft/`](./draft/): This directory is where edits should be made before they're ready to be published to all RuneLingual users. Once you've made your edits and checked that there are no problems, you can copy your changes from the draft directory to the [`public`](./public) directory.
 
 - [`updater/`](./updater/): This directory contains scripts and utilities to update and maintain the transcripts. These scripts fetch the latest transcripts from the source, compare the current transcripts with the latest versions, and update the transcripts in the public directory if necessary. For more information, please refer to the [README](./updater/README.md) in the updater directory.
+
 
 ## Contributing
 

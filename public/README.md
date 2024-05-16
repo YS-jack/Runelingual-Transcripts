@@ -3,8 +3,6 @@
 > :warning: **IMPORTANT:** This directory is for **final versions only**. All players using RuneLingual will download files from here. Ensure that all transcripts are error-free before adding them here. Any mistakes could lead to a poor user experience for all RuneLingual users.
 
 Welcome to the public directory of the RuneLingual Transcript Sources. This directory holds the finalized, published versions of our transcripts.
-
-Welcome to the public directory of the RuneLingual Transcript Sources. This directory holds the finalized, published versions of our transcripts.
 ## Guidelines for the Public Directory
 
 Follow these steps to maintain the integrity of the public directory:

@@ -2,18 +2,37 @@
 
 Welcome to the updater directory of the RuneLingual Transcript Sources. This directory contains scripts and utilities to update and maintain the transcripts used by the RuneLingual plugin.
 
-## What programs in Updater Does
+## Overview of Updater Programs
 
-There are four programs in the updater directory which perform tasks to maintain and update every transcript.
-Here is the description of what each programs do:
-･ update_En_transcript.py : updates the English transcript from source.
-･ update_nonEn_transcripts.py : adds JSON key-value pairs that exist in the English transcripts but not in other languages' transcripts. The new value can be either an empty string or the original (English) string. The user will be able to choose whether to between an empty string or the original string before the progarm updates transcripts. 
-･ update_hash.py : Creates hash files for all languages. This hash file is necessary for the RuneLingual plugin to know whether the local file is up-to-date or not. An example of hash file can be seen here .
+The `Updater` directory contains five distinct programs, each designed to perform specific tasks for maintaining and updating transcripts. Below is a detailed description of each program's functionality:
 
+1. [`update_En_transcript.java`](./update_En_transcripts.java): This program is responsible for updating the English transcript from the source.
 
-In the RuneLingual plugin, downloads outdated/new files in the RuneLingual transcript repository compared to the player's local files. This is done by comparing the hash files in the RuneLingual transcript repository and local files, updating files that have different hash values, and if a file is missing in the local hash file but exists in the repository's hash file, simply download it. Finally, replace the local hash file with the repository's hash file.
+2. [`update_nonEn_transcripts.py`](./update_nonEn_transcripts.py): This program enriches non-English transcripts by adding JSON key-value pairs that exist in the English transcripts but are absent in other languages' transcripts. It provides the user with the option to populate the new values with either an empty string or the original English string prior to updating the transcripts.
 
-## How to Use programs in the Updater
+3. [`update_char_images.py`](./update_char_images.py): This program creates character images for insertion like emojis in the RuneLite client. This is particularly useful for languages whose alphabets differ significantly from English and cannot be displayed directly through conventional means.
+
+4. [`update_hash.py`](./update_hash.py): This program generates hash files for all languages. These hash files are crucial for the RuneLingual plugin to determine if the local file is current.
+
+5. [`switch_English_and_emptyString.py`](./switch_English_and_emptyString.py): This program modifies an existing transcript file by either replacing all instances of an empty string ("") with the original English string or vice versa.
+
+For a deeper understanding of why these scripts are essential, please refer to the [README](./RuneLingual/transcript/README.md) in the top directory.
+
+# Steps for Adding a New Language
+
+Follow these steps to add a new language:
+
+1. Run the programs in the order listed above (1-4).
+
+    - Program 3 [`update_char_images.py`](./update_char_images.py) is unnecessary if the language uses the English alphabet, including characters with accents (like those in Spanish, Portuguese, Norwegian). If you're unsure, ask one of our developers and we'll be able to test it for you.
+
+2. Use [`switch_English_and_emptyString.py`](./switch_English_and_emtpyString.py) if you wish to switch between English and an empty string ("") for untranslated values.
+
+## What to Do After New Items/NPCs etc. Are Added
+
+Use programs 1, 2, 4 in this order. It's recommended that all non-English transcripts should be up-to-date before doing this, or you're likely to encounter problems when merging changes.
+
+## How to Run programs in the Updater
 
 Follow these steps to use the updater:
 
@@ -32,6 +51,10 @@ Follow these steps to use the updater:
 ## Contributing
 
 We welcome contributions to improve our updater scripts. If you'd like to contribute, please refer to the main [README.md](../README.md) file for more information.
+
+## Let's Chat!
+
+Need a hand or have a question? Join us on our [Discord server](https://discord.gg/ehwKcVdBGS). We're here to help and love hearing from you!
 
 ## License
 
