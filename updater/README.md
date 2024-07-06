@@ -6,47 +6,45 @@ Welcome to the updater directory of the RuneLingual Transcript Sources. This dir
 
 The `Updater` directory contains five distinct programs, each designed to perform specific tasks for maintaining and updating transcripts. Below is a detailed description of each program's functionality:
 
-1. [`update_En_transcript.java`](./update_En_transcripts.java): This program is responsible for updating the English transcript from the source.
+1. [`main_generate_English_transcript.py`](update_english_transcript/main_generate_English_transcript.py): This program is responsible for updating the English transcript from the source. Read the [explanation](update_english_transcript/readme.md) for more detail.
 
-2. [`update_nonEn_transcripts.py`](./update_nonEn_transcripts.py): This program enriches non-English transcripts by adding JSON key-value pairs that exist in the English transcripts but are absent in other languages' transcripts. It provides the user with the option to populate the new values with either an empty string or the original English string prior to updating the transcripts.
+2. [`update_nonEn_transcripts.py`](./update_nonEn_transcripts.py): This program reads data from the [English transcript database](transcript.db), and updates all other language's transcript to include records that are not included in that those files. If a translation file doesn't exist, it will create a copy of the English transcript, and add a column for translation
 
 3. [`update_char_images.py`](./update_char_images.py): This program creates character images for insertion like emojis in the RuneLite client. This is particularly useful for languages whose alphabets differ significantly from English and cannot be displayed directly through conventional means.
 
 4. [`update_hash.py`](./update_hash.py): This program generates hash files for all languages. These hash files are crucial for the RuneLingual plugin to determine if the local file is current.
 
-5. [`switch_English_and_emptyString.py`](./switch_English_and_emptyString.py): This program modifies an existing transcript file by either replacing all instances of an empty string ("") with the original English string or vice versa.
 
 For a deeper understanding of why these scripts are essential, please refer to the [README](./RuneLingual/transcript/README.md) in the top directory.
 
-# Steps for Adding a New Language
+## How to create a Transcript for New Language
 
-Follow these steps to add a new language:
+Firstly clone this repository, and install python to your system. (ask Chat-GPT for mor info, it's very informative!)
+Then, to add a new language, simply run the programs in the order listed above (1-4).
 
-1. Run the programs in the order listed above (1-4).
+Program 3 [`update_char_images.py`](./update_char_images.py) is unnecessary if the language uses the English alphabet, including characters with accents (like those in Spanish, Portuguese, Norwegian). But for languages such as Japanese, Russian, it must be configured and ran. If you're unsure, ask one of our developers and we'll be able to test it for you.
 
-    - Program 3 [`update_char_images.py`](./update_char_images.py) is unnecessary if the language uses the English alphabet, including characters with accents (like those in Spanish, Portuguese, Norwegian). If you're unsure, ask one of our developers and we'll be able to test it for you.
+## How to Update Foriegn Transcripts After an OSRS Update
+Firstly clone this repository, and install python to your system. (ask Chat-GPT for mor info, it's very informative!)
+Then, to update transcripts in language other than English, run program [1](update_english_transcript/main_generate_English_transcript.py), [2](./update_nonEn_transcripts.py) and [4](./update_hash.py).
 
-2. Use [`switch_English_and_emptyString.py`](./switch_English_and_emtpyString.py) if you wish to switch between English and an empty string ("") for untranslated values.
+If the English transcript is already up to date, run program [2](./update_nonEn_transcripts.py) and [4](./update_hash.py).
 
-## What to Do After New Items/NPCs etc. Are Added
+## What to Do after Obtaining a Transcript
+After cloning this repository and executing some codes, inside the [draft folder](../draft/), there should be a transcript for each language stated in [common_func.py](common_func.py).
 
-Use programs 1, 2, 4 in this order. It's recommended that all non-English transcripts should be up-to-date before doing this, or you're likely to encounter problems when merging changes.
+The transcript file will be in Excel format. You can simply start adding translations in the language's column.
 
-## How to Run programs in the Updater
+After you've made progress and want to update the plugin, you can either send the file to one of the developers in our [Discord server](https://discord.gg/ehwKcVdBGS), or add the language's folder in [draft folder](../draft/) and make a pull request to the GitHub repository.
 
-Follow these steps to use the updater:
+## Developers: after receiving translated transcript
+1. Clone the whole repository to your local machine
+2. Run translatedExcel_to_TSV.py
+3. Check inside the target language in [draft folder](../draft/) that there is a TSV version of the newly obtained translation.
+4. Copy the TSV version to the language's folder in [public folder](../public/). If it already exists, replace it.
+5. Check that no files have been deleted in other languages' folder.
+6. After you are sure correct files are in each folder of [public folder](../public/), make a pull request, and have someone accept it.
 
-1. Get a GitHub account if you don't have one already and login.
-2. Fork this repository to your own account.
-3. Clone the repository to your local machine.
-4. Set up an environment to run Python.
-5. Run the desired script in this directory.
-6. Input as the prompt requires.
-7. Stage your changes with `git add .`.
-8. Commit your changes with `git commit`.
-9. Push your changes with `git push`.
-10. Create a pull request from the webpage of your fork to the main RuneLingual repository.
-11. Wait for someone to review and merge it.
 
 ## Contributing
 
