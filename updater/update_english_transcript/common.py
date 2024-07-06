@@ -1,10 +1,17 @@
 from datetime import datetime
+import os
+
 TODAYS_DATE = datetime.today().strftime('%Y-%m-%d')
 
-CACHE_OUTPUT_PATH = "cache_viewer_files/Cache Viewer.html"
-CACHE_UPDATED_PATH = "cache_viewer_files/cacheData_formatted.txt"
-DATABASE_PATH = "transcript.db"
-CSV_FILE_DIR = "./manual_data/"
+# Absolute path of the current file
+current_file_path = os.path.abspath(__file__)
+# Absolute path of the folder containing the current file
+current_folder_path = os.path.dirname(current_file_path)
+parent_folder_path = os.path.dirname(current_folder_path)
+
+DATABASE_PATH = os.path.join(parent_folder_path,"transcript.db")
+CSV_FILE_DIR = os.path.join(current_folder_path,"manual_data/")
+
 TABLE_NAME = "transcript"
 
 # KEYs are the values in column

@@ -192,19 +192,28 @@ def dictListToSQL(dict_data,
     conn.commit()
     
 
-def addAllTSVToSQL(csvDir):
+def addAllTSVToSQL(TSVDir):
     conn, c = connect_to_db(common.DATABASE_PATH)
+    create_table(c)
+    
     # iterate through all csv files in the directory
-    for file in os.listdir(csvDir):
+    for file in os.listdir(TSVDir):
+        print("Adding file:", file)
         # open each files
-        with open(csvDir + file, 'r') as f:
+        with open(TSVDir + file, 'r') as f:
             for i,line in enumerate(f):
+                if line in ['', None, '\n']: # skip empty lines
+                    continue
                 line = line.strip().split('\t')
                 if i == 0: # the first line is the column names
                     column_names = line
                 else: # the rest of the lines are records
                     record = {key : value for key, value in zip(column_names, line)}
-                    insert_record(c, record)
+                    record.update({common.COLUMN_NAME_DATE_MODIFIED:common.TODAYS_DATE})
+                    if not check_record_exists(c, {common.COLUMN_NAME_ENGLISH:record[common.COLUMN_NAME_ENGLISH],
+                                                    common.COLUMN_NAME_CATEGORY:record[common.COLUMN_NAME_CATEGORY],
+                                                    common.COLUMN_NAME_SUB_CATEGORY:record[common.COLUMN_NAME_SUB_CATEGORY]}):
+                        insert_record(c, record)
     conn.commit()
     print("Added all manually created CSV files to SQL")
 
