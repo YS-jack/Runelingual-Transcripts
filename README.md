@@ -13,7 +13,7 @@ To make this work, we need:
 - Character images: For languages with non-English alphabets, we create emojis for each character to display them in-game.
 - Key input to alphabet: If a language uses character images, we need a file mapping keyboard inputs to these characters. This ensures correct display of the language in-game.
 
-steps  on how the RuneLingual plugin uses these files will be covered in the readme of its repository.
+steps  on how the [RuneLingual](https://github.com/IaKee/RuneLingual-Plugin) plugin uses these files will be covered in the readme of its repository.
 
 ## Directory Structure
 
@@ -21,7 +21,7 @@ This project is organized into three main directories:
 
 - [`public/`](./public/): This directory contains the finalized and published versions of our transcripts. These are the versions that are distributed to all RuneLingual users. Please do not make direct edits in this directory. Instead, make your edits in the "draft" directory and follow the steps outlined in the [draft directory README](draft/README.md) to publish your changes.
 
-- [`draft/`](./draft/): This directory is where edits should be made before they're ready to be published to all RuneLingual users. Once you've made your edits and checked that there are no problems, you can copy your changes from the draft directory to the [`public`](./public) directory.
+- [`draft/`](./draft/): This directory is where edits should be made before they're ready to be published to all RuneLingual users. Once you've made your edits and checked that there are no problems, you can ask one of the developers to copy your changes from the draft directory to the [`public`](./public) directory.
 
 - [`updater/`](./updater/): This directory contains scripts and utilities to update and maintain the transcripts. These scripts fetch the latest transcripts from the source, compare the current transcripts with the latest versions, and update the transcripts in the public directory if necessary. For more information, please refer to the [README](./updater/README.md) in the updater directory.
 
