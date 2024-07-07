@@ -1,5 +1,5 @@
 from datetime import datetime
-import os
+import os, send2trash
 
 TODAYS_DATE = datetime.today().strftime('%Y-%m-%d')
 
@@ -74,3 +74,10 @@ CHISEL_CATEGORY_NAME = {'item' : 'items', 'npc' : 'npcs', 'object' : 'objects', 
 WIKI_SEARCH_BASE_URL = {"npc" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=NPC+ID&value=",
                         "object" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=Object+ID&value=",
                         "item" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=Item+ID&value="}
+
+def delete_file(file_path):
+    if os.path.exists(file_path):
+        send2trash.send2trash(file_path)
+        print(f"File {file_path} has been moved to recycle bin.")
+    else:
+        print(f"File not found: {file_path}")

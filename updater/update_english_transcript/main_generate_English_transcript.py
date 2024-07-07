@@ -3,6 +3,9 @@ import common
 
 
 def main():
+    # delete all data in the database
+    common.delete_file(common.DATABASE_PATH)
+
     item_names, item_examines, item_options \
         = webScraper.scrape_chisel(common.CHISEL_URL["item_main"], common.CHISEL_URL["item_main"])
     npc_names, npc_examines, npc_options \

@@ -237,6 +237,7 @@ def scrape_chisel(url, examine_url):
     if response.status_code != 200:
         print(f"Failed to fetch the webpage content for {url}.")
         return []
+    print("fetching from : ", url)
     soup = BeautifulSoup(response.text, 'html.parser')
     text = soup.text
     

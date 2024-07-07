@@ -15,6 +15,7 @@ def read_english_transcript(db_path=common_func.TRANSCRIPT_PATH):
     return df
 
 def update_language_transcripts(english_df, target_lang_code):
+    print(f'Updating {target_lang_code} transcript...')
     draft_dir = common_func.DRAFT_DIR
     draft_lang_dir = os.path.join(draft_dir, target_lang_code)
 
