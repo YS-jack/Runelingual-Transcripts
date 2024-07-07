@@ -8,8 +8,9 @@ Welcome to the public directory of the RuneLingual Transcript Sources. This dire
 Follow these steps to maintain the integrity of the public directory:
 
 1. Make initial edits in the "draft" directory.
-2. Review the draft thoroughly. Resolve any issues. This step is critical.
-3. Once the draft is error-free, copy it to this public directory.
+2. Run the code as stated in [README for updater](../updater/README.md).
+3. Review the draft thoroughly. Resolve any issues. This step is critical.
+4. Once the draft is error-free, copy it to this public directory.
 
 Remember, only add final versions here. The version you add should be the latest and ready for use.
 

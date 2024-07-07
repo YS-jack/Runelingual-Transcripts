@@ -8,7 +8,7 @@ You might be wondering why transcripts aren't just included in the plugin itself
 So, when you download RuneLingual from the plugin hub through RuneLite, it won't have any translation data. To solve this issue, RuneLingual downloads the transcripts from this GitHub repository, unpacks them, and uses them to translate everything in-game.
 
 To make this work, we need:
-
+- The translation file itself: The file with translation for many many texts found in OSRS, from English to other language.
 - 'Hash files' (`hashList_??.txt`): These contain compressed versions of transcripts. If two files share the same hash value, they're identical. This is a reliable way to detect changes in the files.
 - Character images: For languages with non-English alphabets, we create emojis for each character to display them in-game.
 - Key input to alphabet: If a language uses character images, we need a file mapping keyboard inputs to these characters. This ensures correct display of the language in-game.
