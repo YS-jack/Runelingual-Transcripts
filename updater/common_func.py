@@ -6,11 +6,49 @@ edit below to add/remove languages
 """
 # must mach lang code in LangCodeSelectableList.java
 LANG = ['pt_br', 'no', 'es_ag', 'jp'] # add language codes here to add new language, then use update_nonEn_transcripts.py (and update_char_images.py if its non alphabet characters)
-DRAFT_DIR = "../draft" # path to the folder where all language's transcript folders are contained
+
+# files not to list on hash file
+EXTENSION_IGNORE = ['.xlsx']
 
 """
 dont edit anything else below (unless you know what youre doing)
 """
+
+current_dir = os.path.dirname(os.path.realpath(__file__))
+parent_dir = os.path.dirname(current_dir)
+DRAFT_DIR = os.path.join(parent_dir, 'draft')
+TRANSCRIPT_PATH = os.path.join(current_dir, 'transcript.db')
+
+
+def get_target_language():
+    """
+    This function prompts the user to select a target language from a list of languages.
+
+    It first prints a list of languages with corresponding numbers. Then, it asks the user to enter
+    a number corresponding to the language they wish to update/create transcript files for. It returns
+    the selected language.
+
+    Args:
+        LANG (list): A list of languages.
+
+    Returns:
+        target_language (str): The selected target language, declared in common_func.py.
+    """
+    while True:
+        print("Enter a number:")
+        print("0 for every languages")
+        for i, lang in enumerate(LANG):
+            print(f"{i+1} for {lang}")
+        target_language_num = input("For the language you wish to update/create transcript files: ")
+        if target_language_num.isdigit() and int(target_language_num) < len(LANG) + 1 and int(target_language_num) > -1:
+            if int(target_language_num) == 0:
+                return 0
+            else:
+                target_language = LANG[int(target_language_num)-1]
+                return target_language
+        else:
+            print("Invalid input. Please enter a valid number.")
+
 
 def remove_existing_dir(directory_path, folder_name):
     # Construct the path to the folder

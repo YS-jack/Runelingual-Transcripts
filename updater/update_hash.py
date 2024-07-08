@@ -36,11 +36,13 @@ def process_directory(lang_code):
     files_under_target_path = common_func.get_list_files_in_directory(target_path=target_path)
     with open(output_file, 'w') as out:
         for file in files_under_target_path:
+            if os.path.splitext(file)[1] == common_func.EXTENSION_IGNORE:
+                continue
             if (os.path.basename(file) == os.path.basename(output_file)):
                 continue
             filepath = os.path.join(target_path, file)
             hash_value = hash_file(filepath)
-            no_first_dir = strip_first_directory(filepath)
+            no_first_dir = os.path.basename(filepath)
             out.write(f"{no_first_dir}|{hash_value}\n")
             print(f"hash value for {no_first_dir} = {hash_value}")
 
