@@ -37,6 +37,7 @@ LEVEL_UP_VAR_NAME = "lvl_up_msg"
 
 #COLUMN_NAMEs are the column names in the database
 COLUMN_NAME_ENGLISH = "english"
+COLUMN_NAME_TRANSLATION = "translation"
 COLUMN_NAME_CATEGORY = "category"
 COLUMN_NAME_SUB_CATEGORY = "sub_category"
 COLUMN_NAME_SOURCE = "source"

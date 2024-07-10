@@ -1,26 +1,7 @@
 import os
 import json
 import sqlite3
-import common
-
-def delete_all_data(db_path):
-    # Connect to the SQLite database
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    
-    # Find all tables in the database
-    cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-    tables = cursor.fetchall()
-    
-    # Delete data from each table
-    for table_name in tables:
-        print(f"Deleting data from table: {table_name[0]}")
-        cursor.execute(f"DELETE FROM {table_name[0]}")
-    
-    # Commit changes and close the connection
-    conn.commit()
-    conn.close()
-    print("Deleted data in ", os.path.basename(db_path))
+from . import common
 
     
 def connect_to_db(db_file):
@@ -33,6 +14,7 @@ def create_table(cursor):
         CREATE TABLE IF NOT EXISTS transcript (
             key INTEGER PRIMARY KEY, 
             {common.COLUMN_NAME_ENGLISH} TEXT,
+            {common.COLUMN_NAME_TRANSLATION} TEXT,
             {common.COLUMN_NAME_CATEGORY} TEXT,
             {common.COLUMN_NAME_SUB_CATEGORY} TEXT,
             {common.COLUMN_NAME_SOURCE} TEXT,
@@ -189,7 +171,8 @@ def insert_record(c, record):
 
 def dictListToSQL(dict_data, 
                   skip_if_same_value_in_column = [common.COLUMN_NAME_ENGLISH, common.COLUMN_NAME_CATEGORY,
-                                                common.COLUMN_NAME_SUB_CATEGORY, common.COLUMN_NAME_SOURCE]):
+                                                common.COLUMN_NAME_SUB_CATEGORY, common.COLUMN_NAME_SOURCE],
+                                                database_path = common.DATABASE_PATH):
     """
     inserts given data to transcript table
     args:
@@ -198,7 +181,7 @@ def dictListToSQL(dict_data,
     skip_if_same_value_in_column: list of column names to check if the record already exists in the table
                                 will only store if no records matches all values in the stated column
     """
-    conn, c = connect_to_db(common.DATABASE_PATH)
+    conn, c = connect_to_db(database_path)
 
     #create_table if it doesn't exist
     create_table(c)

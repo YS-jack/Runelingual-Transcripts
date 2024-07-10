@@ -19,6 +19,37 @@ parent_dir = os.path.dirname(current_dir)
 DRAFT_DIR = os.path.join(parent_dir, 'draft')
 TRANSCRIPT_PATH = os.path.join(current_dir, 'transcript.db')
 
+import shutil
+from datetime import datetime
+import os
+
+def create_backup(file_path):
+    """
+    Creates a backup of a file in a 'backup' folder within the same directory as the original file.
+    The backup file is named with the original filename and the datetime of the backup.
+    
+    Args:
+    - file_path (str): The path to the file to back up.
+    """
+    # Extract directory and filename from the file_path
+    directory, filename = os.path.split(file_path)
+    file_name_no_ext, file_extension = os.path.splitext(filename)
+
+    # Create a 'backup' folder if it doesn't exist
+    backup_dir = os.path.join(directory, 'backup')
+    if not os.path.exists(backup_dir):
+        os.makedirs(backup_dir)
+    
+    # Format the current datetime to append to the backup filename
+    datetime_str = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    backup_filename = f"{file_name_no_ext}_{datetime_str}{file_extension}"
+    
+    # Construct the backup file path
+    backup_file_path = os.path.join(backup_dir, backup_filename)
+    
+    # Copy the original file to the backup location
+    shutil.copy(file_path, backup_file_path)
+    print(f"Backup created at: {backup_file_path}")
 
 def get_target_language():
     """
