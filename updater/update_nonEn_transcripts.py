@@ -238,6 +238,7 @@ def xliff_to_dataframe(xliff_file_path):
     # Iterate through each trans-unit, adjusting for namespace
     for trans_unit in body_element.findall('.//xliff:trans-unit', nsmap):
         source = trans_unit.find('.//xliff:source',nsmap).text
+        translation = trans_unit.find('.//xliff:target',nsmap).text
         note = trans_unit.find('.//xliff:note',nsmap).text
 
         # Parse the note text
@@ -247,6 +248,7 @@ def xliff_to_dataframe(xliff_file_path):
         # Create a dictionary for the current trans-unit
         trans_dict = {
             'english': source,
+            'translation': translation,
             'category': note_dict.get('category',''),
             'sub_category': note_dict.get('sub_category',''),
             'source': note_dict.get('source','')
@@ -296,6 +298,18 @@ def generate_xliff_transcript(english_df, target_std_lang_code, output_file):
     tree = etree.ElementTree(xliff)
     tree.write(output_file, pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
+
+def get_update_file_type():
+    while True:
+        print("to update the excel transcript, enter 'e'")
+        print("to update the xliff transcript, enter 'x'")
+        update_type = input("Enter the type of transcript to update: ").lower()
+        if update_type in ['e', 'x']:
+            break
+        else:
+            print("Invalid input.")
+    return update_type
+
 def main():
     """
     reads data from the [English transcript database](transcript.db), 
@@ -316,14 +330,8 @@ def main():
             break
 
     # ask whether to update excel or xliff transcript
-    while True:
-        print("to update the excel transcript, enter 'e'")
-        print("to update the xliff transcript, enter 'x'")
-        update_type = input("Enter the type of transcript to update: ").lower()
-        if update_type in ['e', 'x']:
-            break
-        else:
-            print("Invalid input.")
+    update_type = get_update_file_type()
+
     
     if update_type == 'e':
         update_excel_transcript(target_lang_code)
