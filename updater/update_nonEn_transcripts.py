@@ -1,3 +1,5 @@
+import shutil
+import time
 from common_func import LANG
 import common_func
 import os
@@ -11,7 +13,7 @@ import pandas as pd
 import json
 import os
 from lxml import etree
-
+import xml.etree.ElementTree as ET
 
 def read_english_transcript(db_path=common_func.TRANSCRIPT_PATH):
     conn = sqlite3.connect(db_path)
@@ -83,6 +85,34 @@ def update_excel_transcript(target_lang_code, fill_translation_bool=False):
                 final_df.to_excel(writer, sheet_name=category, index=False)
     print(f'{target_lang_code} excel transcript updated successfully.')
 
+def get_standard_lang_code(target_lang_code):
+    """
+    Convert the target language code to standard code.
+    If the target language code is not in the list of standard codes, return the original code.
+    """
+    if target_lang_code in LANG:
+        target_lang_std_code_i = LANG.index(target_lang_code)
+        target_lang_std_code = common_func.LANG_CODE_STANDARD[target_lang_std_code_i]
+    else:
+        target_lang_std_code = target_lang_code
+    return target_lang_std_code
+
+def print_sql(conn):
+    c = conn.cursor()
+
+    # Execute a query to fetch all rows from the table
+    c.execute("SELECT * FROM transcript")
+
+    # Fetch all rows from the cursor
+    rows = c.fetchall()
+
+    # Print the rows
+    for i, row in enumerate(rows):
+        print(row)
+        if i > 10:
+            break
+
+
 def update_xliff_transcript(target_lang_code):
     """
     Update the target language's xliff transcript file to contain all values in the English transcript file (transcript.db).
@@ -95,29 +125,96 @@ def update_xliff_transcript(target_lang_code):
     print(f'Updating {target_lang_code} xliff transcript...')
     
     # convert the target language code to standard code
-    if target_lang_code in common_func.LANG:
-        target_lang_std_code_i = common_func.LANG.index(target_lang_code)
-        target_lang_std_code = common_func.LANG_CODE_STANDARD[target_lang_std_code_i]
-    else:
-        target_lang_std_code = target_lang_code
-
+    target_lang_std_code = get_standard_lang_code(target_lang_code)
+    # create a copy of the original sql dabase (.db) file
+    
+    shutil.copy(common_func.TRANSCRIPT_PATH, os.path.dirname(get_target_excel_path(target_lang_code)) + '/transcript_temp.db')
+    # for each category in the English transcript
     for category in english_df['category'].unique():
         category_df = english_df[english_df['category'] == category]
-        file_path = get_target_excel_path(target_lang_code, extension=f'_{category}.xliff')
-
+        xliff_file_path = get_target_excel_path(target_lang_code, extension=f'_{category}.xliff')
         # Check if the file does not exist to create a new one
-        if not os.path.exists(file_path):
-            print('file name: ' + os.path.basename(file_path) + ' does not exist, creating...')
-            generate_xliff_transcript(category_df, target_lang_std_code, file_path)
+        if not os.path.exists(xliff_file_path):
+            print('file name: ' + os.path.basename(xliff_file_path) + ' does not exist, creating...')
+            generate_xliff_transcript(category_df, target_lang_std_code, xliff_file_path)
         # Update existing file
         else:
             # get data as df from xliff file
-            target_category_df = xliff_to_dataframe(file_path)
-            # delete records in category_df if it has same value in columns that exist in target_category_df
-            for index, row in category_df.iterrows():
-                if row['english'] in target_category_df['english'].values:
-                    category_df.drop(index, inplace=True) #may not be correct
+            target_category_df = xliff_to_dataframe(xliff_file_path)
+            conn = sqlite3.connect(os.path.dirname(xliff_file_path) + '/transcript_temp.db')
+            c = conn.cursor()
+            category_col_value = get_category_col_value(xliff_file_path)
+            # iterate through the target_category_df, and if the record is found in the copy of the sql database, delete it from the db
+            for index, row in target_category_df.iterrows():
+                # set query dynamically
+                query = "DELETE FROM transcript WHERE "
+                params = []
+                for col in ['english', 'category', 'sub_category', 'source']:
+                    if row[col] is None:
+                        query += f"{col} IS NULL AND "
+                    else:
+                        query += f"{col} = ? AND "
+                        params.append(row[col])
+                query = query[:-5]  # Remove the last ' AND '
+                # delete records that have same values from the db
+                c.execute(query, params)
+            conn.commit()
+            # this will leave only the records that are not in the db
+            # after that, append the remaining records to the xliff file
+            query = 'SELECT english, category, sub_category, source, wiki_url FROM transcript WHERE category = ?'
+            df_filtered = pd.read_sql_query(query, conn, params=(category_col_value,))
+            conn.close()
+            if len(df_filtered) > 0:
+                print(f'adding {len(df_filtered)} missing records to {os.path.basename(xliff_file_path)}')
+                append_df_to_xliff(xliff_file_path, df_filtered)
+            else:
+                print(f'no missing records found for {os.path.basename(xliff_file_path)}')
+    if os.path.exists(xliff_file_path):
+        try:
+            time.sleep(3)
+            os.remove(xliff_file_path)
+        except PermissionError as e:
+            print(f"Error deleting file {xliff_file_path}: {e}. File may be in use.")
+    
+def get_category_col_value(xliff_file_path):
+    xliff_file_name = os.path.basename(xliff_file_path)
+    col_name = xliff_file_name.split('_')[-1].split('.')[0]
+    return col_name
 
+
+def append_df_to_xliff(xliff_file_path, df_to_append):
+    """
+    Append records from a pandas DataFrame to an XLIFF file.
+    
+    Args:
+    - xliff_file_path (str): Path to the XLIFF file.
+    - df_to_append (pd.DataFrame): DataFrame to append to the XLIFF file.
+    """
+    # Parse the XLIFF file
+    tree = etree.parse(xliff_file_path)
+    xliff_ns = 'urn:oasis:names:tc:xliff:document:1.2'
+    nsmap = {'xliff': xliff_ns}
+    body = tree.find('.//xliff:body', nsmap)
+    
+    # Iterate through each row in the DataFrame
+    for index, row in df_to_append.iterrows():
+        # Create a new trans-unit element with a unique ID
+        trans_unit = etree.SubElement(body, f"{{{xliff_ns}}}trans-unit", nsmap=nsmap)
+        
+        # Set the source element
+        source = etree.SubElement(trans_unit, f"{{{xliff_ns}}}source", nsmap=nsmap)
+        source.text = row['english']
+        
+        # Leave the target text empty
+        target = etree.SubElement(trans_unit, f"{{{xliff_ns}}}target", nsmap=nsmap)
+        
+        # Set the note element with combined information
+        note = etree.SubElement(trans_unit, f"{{{xliff_ns}}}note", nsmap=nsmap)
+        note_text = f"category: {row.get('category', '')}\nsub_category: {row.get('sub_category', '')}\nsource: {row.get('source', '')}\nwiki_url: {row.get('wiki_url', '')}"
+        note.text = note_text
+    
+    # Save the modified XML back to the file
+    tree.write(xliff_file_path, pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
 def xliff_to_dataframe(xliff_file_path):
     """
@@ -129,21 +226,23 @@ def xliff_to_dataframe(xliff_file_path):
     Returns:
     - pd.DataFrame: DataFrame containing the extracted information.
     """
+    # Load and parse the XLIFF file
     # Parse the XLIFF file
     tree = etree.parse(xliff_file_path)
-    root = tree.getroot()
-    body = root.find('{urn:oasis:names:tc:xliff:document:1.2}body')
-
+    xliff_ns = 'urn:oasis:names:tc:xliff:document:1.2'
+    nsmap = {'xliff': xliff_ns}
+    body_element = tree.find('.//xliff:body', nsmap)
     # List to hold dictionaries for each trans-unit
     data = []
 
-    # Iterate through each trans-unit
-    for trans_unit in body.findall('{urn:oasis:names:tc:xliff:document:1.2}trans-unit'):
-        source = trans_unit.find('{urn:oasis:names:tc:xliff:document:1.2}source').text
-        note = trans_unit.find('{urn:oasis:names:tc:xliff:document:1.2}note').text
+    # Iterate through each trans-unit, adjusting for namespace
+    for trans_unit in body_element.findall('.//xliff:trans-unit', nsmap):
+        source = trans_unit.find('.//xliff:source',nsmap).text
+        note = trans_unit.find('.//xliff:note',nsmap).text
 
         # Parse the note text
-        note_dict = dict(item.split(": ", 1) for item in note.split("\n") if ": " in item)
+        note_dict = dict(item.split(": ", 1) for item in note.split("\n"))
+        # Assuming you do something with note_dict here to add it to `data`
         
         # Create a dictionary for the current trans-unit
         trans_dict = {
@@ -152,6 +251,10 @@ def xliff_to_dataframe(xliff_file_path):
             'sub_category': note_dict.get('sub_category',''),
             'source': note_dict.get('source','')
         }
+        # replace 'None' to None in transdict, except 'english'
+        for key, val in trans_dict.items():
+            if key != 'english' and val == 'None':
+                trans_dict[key] = None
         data.append(trans_dict)
 
     # Convert the list of dictionaries to a DataFrame
@@ -169,23 +272,27 @@ def generate_xliff_transcript(english_df, target_std_lang_code, output_file):
     english_df: pandas dataframe, the english transcript
     target_std_lang_code: str, the standard ISO standard code for languages (listed in common_func.py)
     """
-    # Create the root element
-    xliff = etree.Element('xliff', version="1.2")
-    file_element = etree.SubElement(xliff, 'file', **{'source-language': "en", 'target-language': target_std_lang_code, 'datatype': "plaintext", 'original': "transcript.db"})
-    body = etree.SubElement(file_element, 'body')
+    # Define the XLIFF namespace
+    xliff_ns = "urn:oasis:names:tc:xliff:document:1.2"
+    nsmap = {'xliff': xliff_ns}
+
+    # Create the root element with the namespace
+    xliff = etree.Element(f"{{{xliff_ns}}}xliff", version="1.2", nsmap=nsmap)
+    file_element = etree.SubElement(xliff, f"{{{xliff_ns}}}file", **{'source-language': "en", 'target-language': "target_std_lang_code", 'datatype': "plaintext", 'original': "transcript.db"})
+    body = etree.SubElement(file_element, f"{{{xliff_ns}}}body")
 
     # Iterate through the DataFrame and create trans-unit elements
     for index, row in english_df.iterrows():
-        trans_unit = etree.SubElement(body, 'trans-unit', id=str(index + 1))
-        source = etree.SubElement(trans_unit, 'source')
+        trans_unit = etree.SubElement(body, f"{{{xliff_ns}}}trans-unit")
+        source = etree.SubElement(trans_unit, f"{{{xliff_ns}}}source")
         source.text = row['english']
-        target = etree.SubElement(trans_unit, 'target')
+        target = etree.SubElement(trans_unit, f"{{{xliff_ns}}}target")
         # Leave the target text empty
-        note = etree.SubElement(trans_unit, 'note')
+        note = etree.SubElement(trans_unit, f"{{{xliff_ns}}}note")
         note_text = f"category: {row['category']}\nsub_category: {row['sub_category']}\nsource: {row['source']}\nwiki_url: {row['wiki_url']}"
         note.text = note_text
 
-    # Convert the tree to a string
+    # Convert the tree to a string and write to file
     tree = etree.ElementTree(xliff)
     tree.write(output_file, pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
