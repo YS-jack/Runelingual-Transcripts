@@ -196,10 +196,16 @@ def append_df_to_xliff(xliff_file_path, df_to_append):
     nsmap = {'xliff': xliff_ns}
     body = tree.find('.//xliff:body', nsmap)
     
+    # Find the last trans-unit and its id
+    last_trans_unit = body.findall(f".//{{{xliff_ns}}}trans-unit", nsmap)[-1]
+    last_id = int(last_trans_unit.get('id')) if last_trans_unit is not None else 0
+
+
     # Iterate through each row in the DataFrame
     for index, row in df_to_append.iterrows():
         # Create a new trans-unit element with a unique ID
-        trans_unit = etree.SubElement(body, f"{{{xliff_ns}}}trans-unit", nsmap=nsmap)
+        trans_unit_id = str(last_id + index + 1)
+        trans_unit = etree.SubElement(body, f"{{{xliff_ns}}}trans-unit", id=trans_unit_id, nsmap=nsmap)
         
         # Set the source element
         source = etree.SubElement(trans_unit, f"{{{xliff_ns}}}source", nsmap=nsmap)
@@ -280,12 +286,13 @@ def generate_xliff_transcript(english_df, target_std_lang_code, output_file):
 
     # Create the root element with the namespace
     xliff = etree.Element(f"{{{xliff_ns}}}xliff", version="1.2", nsmap=nsmap)
-    file_element = etree.SubElement(xliff, f"{{{xliff_ns}}}file", **{'source-language': "en", 'target-language': "target_std_lang_code", 'datatype': "plaintext", 'original': "transcript.db"})
+    file_element = etree.SubElement(xliff, f"{{{xliff_ns}}}file", **{'source-language': "en", 'target-language': target_std_lang_code, 'datatype': "plaintext", 'original': "transcript.db"})
     body = etree.SubElement(file_element, f"{{{xliff_ns}}}body")
 
     # Iterate through the DataFrame and create trans-unit elements
     for index, row in english_df.iterrows():
-        trans_unit = etree.SubElement(body, f"{{{xliff_ns}}}trans-unit")
+        trans_unit_id = str(index + 1)
+        trans_unit = etree.SubElement(body, f"{{{xliff_ns}}}trans-unit", id=trans_unit_id)
         source = etree.SubElement(trans_unit, f"{{{xliff_ns}}}source")
         source.text = row['english']
         target = etree.SubElement(trans_unit, f"{{{xliff_ns}}}target")
