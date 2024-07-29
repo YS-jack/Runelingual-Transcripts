@@ -131,51 +131,73 @@ def update_xliff_transcript(target_lang_code):
     shutil.copy(common_func.TRANSCRIPT_PATH, os.path.dirname(get_target_excel_path(target_lang_code)) + '/transcript_temp.db')
     # for each category in the English transcript
     for category in english_df['category'].unique():
-        category_df = english_df[english_df['category'] == category]
-        xliff_file_path = get_target_excel_path(target_lang_code, extension=f'_{category}.xliff')
-        # Check if the file does not exist to create a new one
-        if not os.path.exists(xliff_file_path):
-            print('file name: ' + os.path.basename(xliff_file_path) + ' does not exist, creating...')
-            generate_xliff_transcript(category_df, target_lang_std_code, xliff_file_path)
-        # Update existing file
+        # if category is 'name' or 'examine', iterate through the subcategories
+        sub_category_list = ['item', 'npc', 'object']
+        if category in ['name', 'examine']:
+            category_df_list = [english_df[(english_df['category'] == category) & 
+                                (english_df['sub_category'] == sub_category)] 
+                                for sub_category in sub_category_list]
+            xliff_file_path_list = [get_target_excel_path(target_lang_code, extension=f'_{category}_{sub_category}.xliff') for sub_category in sub_category_list]
         else:
-            # get data as df from xliff file
-            target_category_df = xliff_to_dataframe(xliff_file_path)
-            conn = sqlite3.connect(os.path.dirname(xliff_file_path) + '/transcript_temp.db')
-            c = conn.cursor()
-            category_col_value = get_category_col_value(xliff_file_path)
-            # iterate through the target_category_df, and if the record is found in the copy of the sql database, delete it from the db
-            for index, row in target_category_df.iterrows():
-                # set query dynamically
-                query = "DELETE FROM transcript WHERE "
-                params = []
-                for col in ['english', 'category', 'sub_category', 'source']:
-                    if row[col] is None:
-                        query += f"{col} IS NULL AND "
-                    else:
-                        query += f"{col} = ? AND "
-                        params.append(row[col])
-                query = query[:-5]  # Remove the last ' AND '
-                # delete records that have same values from the db
-                c.execute(query, params)
-            conn.commit()
-            # this will leave only the records that are not in the db
-            # after that, append the remaining records to the xliff file
-            query = 'SELECT english, category, sub_category, source, wiki_url FROM transcript WHERE category = ?'
-            df_filtered = pd.read_sql_query(query, conn, params=(category_col_value,))
-            conn.close()
-            if len(df_filtered) > 0:
-                print(f'adding {len(df_filtered)} missing records to {os.path.basename(xliff_file_path)}')
-                append_df_to_xliff(xliff_file_path, df_filtered)
+            category_df_list = [english_df[english_df['category'] == category]]
+            xliff_file_path_list = [get_target_excel_path(target_lang_code, extension=f'_{category}.xliff')]
+        
+        for sub_category, xliff_file_path, category_df in zip(sub_category_list, xliff_file_path_list, category_df_list):
+            # Check if the file does not exist to create a new one
+            if not os.path.exists(xliff_file_path):
+                print('file name: ' + os.path.basename(xliff_file_path) + ' does not exist, creating...')
+                generate_xliff_transcript(category_df, target_lang_std_code, xliff_file_path)
+            # Update existing file
             else:
-                print(f'no missing records found for {os.path.basename(xliff_file_path)}')
-    if os.path.exists(xliff_file_path):
+                # get data as df from xliff file
+                target_category_df = xliff_to_dataframe(xliff_file_path)
+                conn = sqlite3.connect(os.path.dirname(xliff_file_path) + '/transcript_temp.db')
+                c = conn.cursor()
+                category_col_value = get_category_col_value(xliff_file_path)
+                # iterate through the target_category_df, and if the record is found in the copy of the sql database, delete it from the db
+                for index, row in target_category_df.iterrows():
+                    # set query dynamically
+                    query = "DELETE FROM transcript WHERE "
+                    params = []
+                    for col in ['english', 'category', 'sub_category', 'source']:
+                        if row[col] is None:
+                            query += f"{col} IS NULL AND "
+                        else:
+                            query += f"{col} = ? AND "
+                            params.append(row[col])
+                    query = query[:-5]  # Remove the last ' AND '
+                    # delete records that have same values from the db
+                    c.execute(query, params)
+                conn.commit()
+                # this will leave only the records that are not in the db
+                # after that, append the remaining records to the xliff file
+                
+                # check if the category is name or examine, and set the query accordingly (consider sub category)
+                if len(xliff_file_path_list) > 1:
+                    query = 'SELECT english, category, sub_category, source, wiki_url FROM transcript WHERE category = ? AND sub_category = ?'
+                    df_filtered = pd.read_sql_query(query, conn, params=(category, sub_category))
+                else:
+                    query = 'SELECT english, category, sub_category, source, wiki_url FROM transcript WHERE category = ?'
+                    df_filtered = pd.read_sql_query(query, conn, params=(category_col_value,))
+
+                conn.close()
+                if len(df_filtered) > 0:
+                    print(f'adding {len(df_filtered)} missing records to {os.path.basename(xliff_file_path)}')
+                    append_df_to_xliff(xliff_file_path, df_filtered)
+                else:
+                    print(f'no missing records found for {os.path.basename(xliff_file_path)}')
+    
+    # remove the copy of the sql database
+    remove_file(get_target_excel_path(target_lang_code) + '/transcript_temp.db')
+
+def remove_file(file_path):
+    if os.path.exists(file_path):
         try:
             time.sleep(3)
-            os.remove(xliff_file_path)
+            os.remove(file_path)
         except PermissionError as e:
-            print(f"Error deleting file {xliff_file_path}: {e}. File may be in use.")
-    
+            print(f"Error deleting file {file_path}: {e}. File may be in use.")
+
 def get_category_col_value(xliff_file_path):
     xliff_file_name = os.path.basename(xliff_file_path)
     col_name = xliff_file_name.split('_')[-1].split('.')[0]
