@@ -14,6 +14,7 @@ import json
 import os
 from lxml import etree
 import xml.etree.ElementTree as ET
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def read_english_transcript(db_path=common_func.TRANSCRIPT_PATH):
     conn = sqlite3.connect(db_path)

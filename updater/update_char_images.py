@@ -1,4 +1,5 @@
 import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 from PIL import Image, ImageDraw, ImageFont
 import unicodedata
 import math
@@ -6,6 +7,8 @@ import common_func
 import zipfile
 from common_func import LANG
 import update_hash
+
+
 
 TEXTCOLOR = [(60, 60,60, 255), (255, 255, 0, 255), (255, 0, 0, 255)
                     , (255, 165, 0, 255), (255, 255, 255, 255), (0, 255, 255, 255), (0, 255, 0, 255), (0, 0, 255, 255)]#blue was 0,0,255

@@ -3,6 +3,7 @@ import os
 import common_func
 import update_hash
 import update_nonEn_transcripts
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def xlsx_to_tsv(xlsx_file_path, target_dir, columns=None):
 	# Load the Excel file
@@ -66,6 +67,7 @@ def manyXLIFF_to_manyTSV(target_lang_code):
 
 def main():
 	print('tip: use ctr-c to force exit')
+	print('This program will create .tsv files from either excel or xliff files')
 	target_lang_code = common_func.get_target_language()
 	update_type = update_nonEn_transcripts.get_update_file_type()
 	if update_type == 'e':

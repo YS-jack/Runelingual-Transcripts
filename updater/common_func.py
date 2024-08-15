@@ -70,7 +70,7 @@ def get_target_language():
         print("0 for every languages")
         for i, lang in enumerate(LANG):
             print(f"{i+1} for {lang}")
-        target_language_num = input("For the language you wish to update/create transcript files: ")
+        target_language_num = input("to choose the target language: ")
         if target_language_num.isdigit() and int(target_language_num) < len(LANG) + 1 and int(target_language_num) > -1:
             if int(target_language_num) == 0:
                 return 0
