@@ -833,7 +833,7 @@ Miss Schism	スキズムさん	name	npc	Miss Schism
 Market Guard	市場の衛兵	name	npc	Market Guard
 Bank guard	銀行の衛兵	name	npc	Bank guard
 Badger	アナグマ	name	npc	Badger
-Tiles	タイルズ	name	npc	Tiles
+Tiles		name	npc	Tiles
 Aisles	アイルズ	name	npc	Aisles
 Lorelai	ロレライ	name	npc	Lorelai
 Rory	ロリー	name	npc	Rory
@@ -994,7 +994,7 @@ Shanomi	シャノミ	name	npc	Shanomi
 Lidio	リヂオ	name	npc	Lidio
 Lilly	リリー	name	npc	Lilly
 Anton	アントン	name	npc	Anton
-Jade	ジェイド	name	npc	Jade
+Jade	ヒスイ	name	npc	Jade
 Sloane	スロアンヌ	name	npc	Sloane
 Catablepon	カタブレポン	name	npc	Catablepon
 Giant spider	巨大なクモ	name	npc	Giant spider
@@ -1123,7 +1123,7 @@ Prissy Scilla	プリシー・スシラ	name	npc	Prissy Scilla
 Imiago	イミアゴ	name	npc	Imiago
 Liliwen	リリウェン	name	npc	Liliwen
 Cool Mom227	Cool Mom227	name	npc	Cool Mom227
-Reach	リーチ	name	npc	Reach
+Reach	を掴む	name	npc	Reach
 Hirko	ヒーコ	name	npc	Hirko
 Holoy	ホロイ	name	npc	Holoy
 Hura	フラ	name	npc	Hura
@@ -1335,7 +1335,7 @@ Gardener	庭師	name	npc	Gardener
 Apprentice workman	弟子の作業員	name	npc	Apprentice workman
 Cuffs	カフス	name	npc	Cuffs
 Narf	ナーフ	name	npc	Narf
-Rusty	ラスティー	name	npc	Rusty
+Rusty		name	npc	Rusty
 Jeff	ジェフ	name	npc	Jeff
 Hengel	ヘンゲル	name	npc	Hengel
 Anja	アンジャ	name	npc	Anja
@@ -1388,7 +1388,7 @@ Zombies Champion	ゾンビのチャンピオン	name	npc	Zombies Champion
 Leon d'Cour	レオン・ドクール	name	npc	Leon d'Cour
 Litara	リタラ	name	npc	Litara
 Stankers	スタンカーズ	name	npc	Stankers
-Angel	アンゲル	name	npc	Angel
+Angel		name	npc	Angel
 Elemental balance	均衡のエレメンタル	name	npc	Elemental balance
 Mountain Dwarf	山ドワーフ	name	npc	Mountain Dwarf
 Awowogei	アウォウォゲイ	name	npc	Awowogei
@@ -1673,7 +1673,7 @@ Dark beast	暗黒獣	name	npc	Dark beast
 Thorgel	ソーゲル	name	npc	Thorgel
 Bill Teach	ビル・ティーチ	name	npc	Bill Teach
 Charley	チャーリー	name	npc	Charley
-Smith	スミス	name	npc	Smith
+Smith	鍛える	name	npc	Smith
 Mama	ママ	name	npc	Mama
 Mike	マイク	name	npc	Mike
 Grail Maiden	聖杯の乙女	name	npc	Grail Maiden
@@ -2044,7 +2044,7 @@ Local Gnome	地元のノーム	name	npc	Local Gnome
 Kalron	カルロン	name	npc	Kalron
 Spirit tree	精霊樹	name	npc	Spirit tree
 Dimintheis	ディミンセシス	name	npc	Dimintheis
-Boot	ブート	name	npc	Boot
+Boot		name	npc	Boot
 Chronozon	クロノゾン	name	npc	Chronozon
 Wizard Grayzag	魔法使いグレイザグ	name	npc	Wizard Grayzag
 Juliet	ジュリエット	name	npc	Juliet
@@ -2100,7 +2100,7 @@ Captain Lawgof	ラウゴフ隊長	name	npc	Captain Lawgof
 Baby green dragon	幼い緑竜	name	npc	Baby green dragon
 Charlie the Tramp	浮浪者チャーリー	name	npc	Charlie the Tramp
 Katrine	カトリンヌ	name	npc	Katrine
-Weaponsmaster	ウェポンズマスター	name	npc	Weaponsmaster
+Weaponsmaster	武器の達人	name	npc	Weaponsmaster
 Straven	ストレーヴン	name	npc	Straven
 Jonny the beard	髭のジョニー	name	npc	Jonny the beard
 Curator Haig Halen	館長のハイグ・ハレン	name	npc	Curator Haig Halen
@@ -2277,8 +2277,8 @@ Immenizz	イメニズ	name	npc	Immenizz
 Fairy Aeryka	妖精アエリカ	name	npc	Fairy Aeryka
 Wandering impling	さまよう子悪魔	name	npc	Wandering impling
 Imp defender	子悪魔の守護者	name	npc	Imp defender
-Penance Queen	クイーン・ペナンス	name	npc	Penance Queen
-Queen spawn	クイーンの腹子	name	npc	Queen spawn
+Penance Queen	女王ペナンス	name	npc	Penance Queen
+Queen spawn	女王の腹子	name	npc	Queen spawn
 Giant Mole	巨大モグラ	name	npc	Giant Mole
 Baby Mole	幼いモグラ	name	npc	Baby Mole
 Juna	ジューナ	name	npc	Juna
@@ -2335,7 +2335,7 @@ Skullball	スカルボール	name	npc	Skullball
 Skullball Boss	スカルボールのボス	name	npc	Skullball Boss
 Agility Boss	アジリティのボス	name	npc	Agility Boss
 Skullball Trainer	スカルボールのトレーナー	name	npc	Skullball Trainer
-Agility Trainer	アジリティのトレーナー	name	npc	Agility Trainer
+Agility Trainer	運動神経のトレーナー	name	npc	Agility Trainer
 Sand Crab	砂ガニ	name	npc	Sand Crab
 Sandy rocks	砂まみれの岩	name	npc	Sandy rocks
 Jarvald	ジャーヴァルド	name	npc	Jarvald
@@ -2498,7 +2498,7 @@ Rommik	ロンミック	name	npc	Rommik
 Blurberry	ブラーベリー	name	npc	Blurberry
 Romily Weaklax	ロミリー・ウィークラックス	name	npc	Romily Weaklax
 Prospector Percy	探鉱者パーシー	name	npc	Prospector Percy
-Pay-dirt	有望な鉱脈	name	npc	Pay-dirt
+Pay-dirt		name	npc	Pay-dirt
 Runite Minor	Runite Minor	name	npc	Runite Minor
 Sherlock	シャーロック	name	npc	Sherlock
 Armadylean guard	アーマディルの番人	name	npc	Armadylean guard
@@ -2560,7 +2560,7 @@ Lammy Langle	ラミー・ラングル	name	npc	Lammy Langle
 Gee	ギー	name	npc	Gee
 Great blue heron	アオサギ	name	npc	Great blue heron
 Wounded soldier	負傷兵	name	npc	Wounded soldier
-Look-out	見張り人	name	npc	Look-out
+Look-out	見張り所	name	npc	Look-out
 General Salara	サララ将軍	name	npc	General Salara
 General Babacus	ババカス将軍	name	npc	General Babacus
 General Kilian	キリアン将軍	name	npc	General Kilian
@@ -2653,7 +2653,7 @@ Trossa	トロッサ	name	npc	Trossa
 Tower Mage	塔の魔術師	name	npc	Tower Mage
 Rassain	ラサイン	name	npc	Rassain
 Mofina	モフィナ	name	npc	Mofina
-Novice	ノヴァイス	name	npc	Novice
+Novice		name	npc	Novice
 Regath	レガス	name	npc	Regath
 Batt Mellamy	バット・メラミ	name	npc	Batt Mellamy
 Freald	フリールド	name	npc	Freald
@@ -2938,8 +2938,8 @@ Lava beast	溶岩の獣	name	npc	Lava beast
 Dusk	ダスク	name	npc	Dusk
 Dawn	ドーン	name	npc	Dawn
 Revenant imp	幽鬼の小悪魔	name	npc	Revenant imp
-Midnight	ミッドナイト	name	npc	Midnight
-Noon	ヌーン	name	npc	Noon
+Midnight		name	npc	Midnight
+Noon		name	npc	Noon
 Sand Snake (hard)	砂ヘビ（上級）	name	npc	Sand Snake (hard)
 Sand Snake	砂ヘビ	name	npc	Sand Snake
 Artur Hosidius	アルテゥル・ホシディアス	name	npc	Artur Hosidius
@@ -3405,7 +3405,7 @@ Lumiere	ルミエール	name	npc	Lumiere
 Daer Krand	ダエー・クランド	name	npc	Daer Krand
 Strong Ronny	強者ロニー	name	npc	Strong Ronny
 Shura	シュラ	name	npc	Shura
-Acorn	エイコーン	name	npc	Acorn
+Acorn		name	npc	Acorn
 Totem	トーテム	name	npc	Totem
 Parasite	寄生虫	name	npc	Parasite
 Husk	ハスク	name	npc	Husk
@@ -3580,7 +3580,7 @@ Dusuri	ヅスリ	name	npc	Dusuri
 Star Sprite	スター・スプライト	name	npc	Star Sprite
 Baby Mole-rat	幼いモグラ・ネズミ	name	npc	Baby Mole-rat
 Ancient Guardian	古代の守護者	name	npc	Ancient Guardian
-Willow	ウィロウ	name	npc	Willow
+Willow		name	npc	Willow
 Marley	マーレイ	name	npc	Marley
 Checkal	チェッカル	name	npc	Checkal
 Atlas	アトラス	name	npc	Atlas
@@ -3597,7 +3597,7 @@ Flawed Golem	欠陥のあるゴーレム	name	npc	Flawed Golem
 Zamorakian recruiter	ザモラックのスカウト	name	npc	Zamorakian recruiter
 Meredith	メレジス	name	npc	Meredith
 Raqueel	ラキール	name	npc	Raqueel
-Gem	ジェム	name	npc	Gem
+Gem		name	npc	Gem
 Gardener Jay Jr.	庭師のジェイ・Jr.	name	npc	Gardener Jay Jr.
 Lil' Maiden	小っちゃな乙女	name	npc	Lil' Maiden
 Lil' Bloat	小っちゃな膨張	name	npc	Lil' Bloat
@@ -3614,7 +3614,7 @@ Councillor Andrews	評議員アンドリューズ	name	npc	Councillor Andrews
 David Andrews	デイビッド・アンドリューズ	name	npc	David Andrews
 Cabin Boy Herbert	キャビンボーイのハーバート	name	npc	Cabin Boy Herbert
 Judge of Yama	ヤマの裁判官	name	npc	Judge of Yama
-Fire Wave	火の波	name	npc	Fire Wave
+Fire Wave		name	npc	Fire Wave
 Councillor Orson	評議員オーソン	name	npc	Councillor Orson
 Xamphur	ザンフー	name	npc	Xamphur
 Phantom Hand	ファントム・ハンド	name	npc	Phantom Hand
@@ -3722,7 +3722,7 @@ Coenus	コエナス	name	npc	Coenus
 Jabari	ジャバリ	name	npc	Jabari
 Pharaoh Kemesis	ファラオ・ケメシス	name	npc	Pharaoh Kemesis
 Menaphite Guard	メナファイトの衛兵	name	npc	Menaphite Guard
-Roger	ロジャー	name	npc	Roger
+Roger		name	npc	Roger
 Head Menaphite Guard	メナファイトの衛兵長	name	npc	Head Menaphite Guard
 Citizen	市民	name	npc	Citizen
 Lady Keli	レディー・ケリ	name	npc	Lady Keli
@@ -3734,7 +3734,7 @@ Amascut	アマスカット	name	npc	Amascut
 Worker	労働者	name	npc	Worker
 Raetul	ラエツル	name	npc	Raetul
 Lanthus	ランサス	name	npc	Lanthus
-Hannibal	ハンニバル	name	npc	Hannibal
+Hannibal		name	npc	Hannibal
 Tumeken's Guardian	ツメケンの守護者	name	npc	Tumeken's Guardian
 Elidinis' Guardian	エリディニスの守護者	name	npc	Elidinis' Guardian
 Apmeken	アプメケン	name	npc	Apmeken
@@ -3775,7 +3775,7 @@ Arcane Scarab	神秘のスカラベ	name	npc	Arcane Scarab
 Agile Scarab	俊敏なスカラベ	name	npc	Agile Scarab
 Zebak's Tail	ゼバックの尻尾	name	npc	Zebak's Tail
 Jug	水差し	name	npc	Jug
-Wave	波	name	npc	Wave
+Wave		name	npc	Wave
 Bloody Wave	血の波	name	npc	Bloody Wave
 Blood Cloud	血の雲	name	npc	Blood Cloud
 Elidinis' Warden	エリディニスの監視者	name	npc	Elidinis' Warden

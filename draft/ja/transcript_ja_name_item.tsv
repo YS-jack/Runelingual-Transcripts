@@ -955,7 +955,7 @@ Amulet of defence	守備力のアミュレット	name	item	Amulet of defence
 Amulet of power	力のアミュレット	name	item	Amulet of power
 Needle	針	name	item	Needle
 Thread	糸	name	item	Thread
-Shears	鋏	name	item	Shears
+Shears		name	item	Shears
 Wool	羊毛	name	item	Wool
 Cowhide	牛革	name	item	Cowhide
 Leather	革	name	item	Leather
@@ -1083,7 +1083,7 @@ Pastry dough	ペストリーの生地	name	item	Pastry dough
 Cooking apple	調理用リンゴ	name	item	Cooking apple
 Onion	玉ねぎ	name	item	Onion
 Pumpkin	カボチャ	name	item	Pumpkin
-Easter egg	イースターの卵	name	item	Easter egg
+Easter egg	イースターエッグ	name	item	Easter egg
 Banana	バナナ	name	item	Banana
 Cabbage	キャベツ	name	item	Cabbage
 Spinach roll	ほうれん草ロール	name	item	Spinach roll
@@ -1368,7 +1368,7 @@ Ring of forging	鍛造の指輪	name	item	Ring of forging
 Ring of life	命の指輪	name	item	Ring of life
 Ring of wealth	富の指輪	name	item	Ring of wealth
 Sextant	六分儀	name	item	Sextant
-Watch	時計	name	item	Watch
+Watch	を眺める	name	item	Watch
 Chart	図	name	item	Chart
 Ranger boots	射手の靴	name	item	Ranger boots
 Wizard boots	魔法使いの靴	name	item	Wizard boots
@@ -3394,7 +3394,7 @@ Chopped tuna		name	item	Chopped tuna
 Burnt egg		name	item	Burnt egg
 Burnt onion		name	item	Burnt onion
 Burnt mushroom		name	item	Burnt mushroom
-Gunpowder		name	item	Gunpowder
+Gunpowder	火薬	name	item	Gunpowder
 Fuse	導火線	name	item	Fuse
 Stripy pirate shirt		name	item	Stripy pirate shirt
 Pirate bandana		name	item	Pirate bandana

@@ -419,7 +419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14410">
         <xliff:source>Sail</xliff:source>
-        <xliff:target state="translated">帆</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sail
@@ -1667,7 +1667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14566">
         <xliff:source>Sink</xliff:source>
-        <xliff:target state="translated">シンク</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sink
@@ -1739,7 +1739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14575">
         <xliff:source>Cross</xliff:source>
-        <xliff:target state="translated">バツ印</xliff:target>
+        <xliff:target state="translated">を渡る</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cross
@@ -3923,7 +3923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14848">
         <xliff:source>Swings</xliff:source>
-        <xliff:target state="translated">ブランコ</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Swings
@@ -5691,7 +5691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15069">
         <xliff:source>Shell</xliff:source>
-        <xliff:target state="translated">シェル</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Shell
@@ -5795,7 +5795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15082">
         <xliff:source>Scoreboard</xliff:source>
-        <xliff:target state="translated">得点版</xliff:target>
+        <xliff:target state="translated">得点板</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Scoreboard
@@ -10003,7 +10003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15608">
         <xliff:source>Coke</xliff:source>
-        <xliff:target state="translated">コーク</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Coke
@@ -11267,7 +11267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15766">
         <xliff:source>Light</xliff:source>
-        <xliff:target state="translated">灯り</xliff:target>
+        <xliff:target state="translated">灯す</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Light
@@ -11659,7 +11659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15815">
         <xliff:source>Hurdle</xliff:source>
-        <xliff:target state="translated">ハードル</xliff:target>
+        <xliff:target state="translated">飛び越える</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Hurdle
@@ -12803,7 +12803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15958">
         <xliff:source>Icon of Saradomin</xliff:source>
-        <xliff:target state="translated">サラドミンのアイコン</xliff:target>
+        <xliff:target state="translated">サラドミンの肖像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icon of Saradomin
@@ -12811,7 +12811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15959">
         <xliff:source>Icon of Zamorak</xliff:source>
-        <xliff:target state="translated">ザモラックのアイコン</xliff:target>
+        <xliff:target state="translated">ザモラックの肖像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icon of Zamorak
@@ -12819,7 +12819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15960">
         <xliff:source>Icon of Guthix</xliff:source>
-        <xliff:target state="translated">ガシックスのアイコン</xliff:target>
+        <xliff:target state="translated">ガシックスの肖像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icon of Guthix
@@ -12827,7 +12827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15961">
         <xliff:source>Icon of Bob</xliff:source>
-        <xliff:target state="translated">ボブのアイコン</xliff:target>
+        <xliff:target state="translated">ボブの肖像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icon of Bob
@@ -14619,7 +14619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16185">
         <xliff:source>Icon space</xliff:source>
-        <xliff:target state="translated">アイコンのスペース</xliff:target>
+        <xliff:target state="translated">肖像のスペース</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icon space
@@ -28803,7 +28803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17958">
         <xliff:source>Pack</xliff:source>
-        <xliff:target state="translated">パック</xliff:target>
+        <xliff:target state="translated">詰める</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pack
@@ -30059,7 +30059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18115">
         <xliff:source>Caged Prisoner</xliff:source>
-        <xliff:target state="translated">檻に入れられた囚人</xliff:target>
+        <xliff:target state="translated">檻に捕らわれた囚人</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Caged Prisoner
@@ -32219,7 +32219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18385">
         <xliff:source>Cell tile (broken)</xliff:source>
-        <xliff:target state="translated">セルのタイル（損傷）</xliff:target>
+        <xliff:target state="translated">セルのタイル（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cell tile (broken)
@@ -33763,7 +33763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18578">
         <xliff:source>Giants' Foundry Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨人の鋳造所の展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Giants' Foundry Display
@@ -33771,7 +33771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18579">
         <xliff:source>Emir's Arena Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エミアのアリーナの展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Emir's Arena Display
@@ -33779,7 +33779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18580">
         <xliff:source>Unranked Group Ironman Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">無ランクの鉄人グループの展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Unranked Group Ironman Display
@@ -33787,7 +33787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18581">
         <xliff:source>Phantom Muspah Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ファントム・マスパの展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Phantom Muspah Display
@@ -33795,7 +33795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18582">
         <xliff:source>Quest Speedrunning Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クエスト・タイムアタックの展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Quest Speedrunning Display
@@ -33803,7 +33803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18583">
         <xliff:source>Wilderness Boss Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィルダネス・ボスの展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Wilderness Boss Display
@@ -33811,7 +33811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18584">
         <xliff:source>Tombs of Amascut Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アマスカットの墓の展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tombs of Amascut Display
@@ -33819,7 +33819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18585">
         <xliff:source>Tombs of Amascut</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アマスカットの墓</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tombs of Amascut
@@ -33827,7 +33827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18586">
         <xliff:source>Yommi tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヨミー木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Yommi tree
@@ -33835,7 +33835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18587">
         <xliff:source>Bounty Hunter portal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バウンティ・ハンターのポータル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Bounty Hunter portal
@@ -33843,7 +33843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18588">
         <xliff:source>Fabric rolls</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">布地ロール</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fabric rolls
@@ -33851,7 +33851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18589">
         <xliff:source>Hairstyles Poster</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">髪型ポスター</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Hairstyles Poster
@@ -33859,7 +33859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18590">
         <xliff:source>Rio the Parrot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">オウムのリオ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rio the Parrot
@@ -33867,7 +33867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18591">
         <xliff:source>Portraits</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肖像画</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Portraits
@@ -33875,7 +33875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18592">
         <xliff:source>Vanity dresser</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">化粧台</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Vanity dresser
@@ -33883,7 +33883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18593">
         <xliff:source>Tree roots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木の根</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tree roots
@@ -33891,7 +33891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18594">
         <xliff:source>Anima-infused Tree roots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">生命力付与された木の根</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Anima-infused Tree roots
@@ -33899,7 +33899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18595">
         <xliff:source>Struggling sapling</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">もがく若木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Struggling sapling
@@ -33907,7 +33907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18596">
         <xliff:source>Thriving sapling</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">成長している若木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Thriving sapling
@@ -33915,7 +33915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18597">
         <xliff:source>Rotting leaves</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">腐っていく葉</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rotting leaves
@@ -33923,7 +33923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18598">
         <xliff:source>Green leaves</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">緑の葉</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Green leaves
@@ -33931,7 +33931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18599">
         <xliff:source>Droppings</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Droppings
@@ -33939,7 +33939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18600">
         <xliff:source>Wild mushrooms</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">野生のキノコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Wild mushrooms
@@ -33947,7 +33947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18601">
         <xliff:source>Splintered bark</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">裂けた樹皮</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Splintered bark
@@ -33963,7 +33963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18603">
         <xliff:source>Salt Deposit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">塩の堆積物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Salt Deposit
@@ -33971,7 +33971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18604">
         <xliff:source>Musca mushrooms</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ベニテングタケ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Musca mushrooms
@@ -33979,7 +33979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18605">
         <xliff:source>Holos mushrooms</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ホロスタケ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Holos mushrooms
@@ -33987,7 +33987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18606">
         <xliff:source>Arder mushrooms</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アーダータケ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Arder mushrooms
@@ -33995,7 +33995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18607">
         <xliff:source>Resper mushrooms</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">レスパーダケ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Resper mushrooms
@@ -34003,7 +34003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18608">
         <xliff:source>Fermentation Vat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">発酵槽</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fermentation Vat
@@ -34027,7 +34027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18611">
         <xliff:source>Corrupted seed</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">変異した種</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Corrupted seed
@@ -34051,7 +34051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18614">
         <xliff:source>Broken Pillar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた柱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken Pillar
@@ -34059,7 +34059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18615">
         <xliff:source>Ancient Tablet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代のタブレット</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ancient Tablet
@@ -34067,7 +34067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18616">
         <xliff:source>Tendril</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ツル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tendril
@@ -34075,7 +34075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18617">
         <xliff:source>Pan</xliff:source>
-        <xliff:target state="translated">でフルイにかける</xliff:target>
+        <xliff:target state="translated">フライパン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pan
@@ -34083,7 +34083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18618">
         <xliff:source>Kiln</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">窯</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kiln
@@ -34091,7 +34091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18619">
         <xliff:source>Distillation Kit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">蒸留装置セット</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Distillation Kit
@@ -34099,7 +34099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18620">
         <xliff:source>Large Vial</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">大きな試薬瓶</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Large Vial
@@ -34115,7 +34115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18622">
         <xliff:source>Lab Table</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">実験台</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lab Table
@@ -34123,7 +34123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18623">
         <xliff:source>Mortuary Table</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">遺体安置台</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mortuary Table
@@ -34131,7 +34131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18624">
         <xliff:source>Weapons Barrel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">武器の樽</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Weapons Barrel
@@ -34139,7 +34139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18625">
         <xliff:source>Plant Pot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">植木鉢</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Plant Pot
@@ -34147,7 +34147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18626">
         <xliff:source>Church Brazier</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">教会の火鉢</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Church Brazier
@@ -34155,7 +34155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18627">
         <xliff:source>Ancient banner</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代のバナー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ancient banner
@@ -34163,7 +34163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18628">
         <xliff:source>Iron maiden</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">鉄の処女</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Iron maiden
@@ -34171,7 +34171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18629">
         <xliff:source>Puddle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水たまり</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Puddle
@@ -34179,7 +34179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18630">
         <xliff:source>Teleporter</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ワープ装置</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Teleporter
@@ -34187,7 +34187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18631">
         <xliff:source>Shadow Blocker</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">影無効化装置</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Shadow Blocker
@@ -34195,7 +34195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18632">
         <xliff:source>Revitalising Idol</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">再生の偶像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Revitalising Idol
@@ -34203,7 +34203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18633">
         <xliff:source>Anima Portal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">生命力のポータル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Anima Portal
@@ -34211,7 +34211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18634">
         <xliff:source>Remnant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">残余</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Remnant
@@ -34219,7 +34219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18635">
         <xliff:source>Sunken Steeple</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">沈んだ尖塔</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sunken Steeple
@@ -34227,7 +34227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18636">
         <xliff:source>Ominous bubbles</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">不吉な泡</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ominous bubbles
@@ -34235,7 +34235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18637">
         <xliff:source>Strangled Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絡まった木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Strangled Tree
@@ -34243,7 +34243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18638">
         <xliff:source>Pine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">松</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pine
@@ -34251,7 +34251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18639">
         <xliff:source>Dead Bear</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死んだクマ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dead Bear
@@ -34259,7 +34259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18640">
         <xliff:source>Dead Boar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死んだイノシシ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dead Boar
@@ -34267,7 +34267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18641">
         <xliff:source>Dead Goat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死んだヤギ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dead Goat
@@ -34275,7 +34275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18642">
         <xliff:source>Dead Lynx</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">死んだオオヤマネコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dead Lynx
@@ -34283,7 +34283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18643">
         <xliff:source>Ruined Monument</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">荒廃した記念碑</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ruined Monument
@@ -34291,7 +34291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18644">
         <xliff:source>Strangled Plant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絡まった植物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Strangled Plant
@@ -34299,7 +34299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18645">
         <xliff:source>Strangled Fern</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絡まったシダ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Strangled Fern
@@ -34307,7 +34307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18646">
         <xliff:source>Stangled Plant</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絡まった植物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stangled Plant
@@ -34315,7 +34315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18647">
         <xliff:source>Strangled Tent</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">絡まったテント</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Strangled Tent
@@ -34323,7 +34323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18648">
         <xliff:source>Broken Boaty</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた船</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken Boaty
@@ -34331,7 +34331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18649">
         <xliff:source>Surface</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">表面</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Surface
@@ -34339,7 +34339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18650">
         <xliff:source>Old campfire</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古いキャンプファイアー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Old campfire
@@ -34347,7 +34347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18651">
         <xliff:source>Argian bush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アーギアンの低木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Argian bush
@@ -34355,7 +34355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18652">
         <xliff:source>Korbal herbs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">コーバルの薬草</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Korbal herbs
@@ -34363,7 +34363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18653">
         <xliff:source>Explosive satchel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">爆薬サッチェル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Explosive satchel
@@ -34371,7 +34371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18654">
         <xliff:source>Stone chest (locked)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">石の宝箱（閉）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stone chest (locked)
@@ -34379,7 +34379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18655">
         <xliff:source>Stone chest (empty)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">石の宝箱（空）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stone chest (empty)
@@ -34387,7 +34387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18656">
         <xliff:source>Horn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">角笛</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Horn
@@ -34395,7 +34395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18657">
         <xliff:source>Elder Horn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">長老の角笛</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Elder Horn
@@ -34411,7 +34411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18659">
         <xliff:source>Ancient Icon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代の肖像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ancient Icon
@@ -34419,7 +34419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18660">
         <xliff:source>Wheelchair</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">車いす</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Wheelchair
@@ -34427,7 +34427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18661">
         <xliff:source>Harness</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハーネス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Harness
@@ -34435,7 +34435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18662">
         <xliff:source>Sapphire Gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">サファイアの門</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sapphire Gate
@@ -34443,7 +34443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18663">
         <xliff:source>Emerald Gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エメラルドの門</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Emerald Gate
@@ -34451,7 +34451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18664">
         <xliff:source>Ruby Gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルビーの門</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ruby Gate
@@ -34459,7 +34459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18665">
         <xliff:source>Diamond Gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダイヤの門</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Diamond Gate
@@ -34467,7 +34467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18666">
         <xliff:source>Dragonstone Gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">竜石の門</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dragonstone Gate
@@ -34475,7 +34475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18667">
         <xliff:source>Onyx Gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">オニキスの門</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Onyx Gate
@@ -34483,7 +34483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18668">
         <xliff:source>Ice Block</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">氷ブロック </xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ice Block
@@ -34491,7 +34491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18669">
         <xliff:source>Abyssal Tether</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵のつなぎ縄</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Abyssal Tether
@@ -34499,7 +34499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18670">
         <xliff:source>Nerve Ending (Earth)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経の終端（土）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve Ending (Earth)
@@ -34507,7 +34507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18671">
         <xliff:source>Nerve Ending (Air)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経の終端（大気）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve Ending (Air)
@@ -34515,7 +34515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18672">
         <xliff:source>Nerve Ending (Water)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経の終端（水）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve Ending (Water)
@@ -34523,7 +34523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18673">
         <xliff:source>Nerve Ending (Fire)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経の終端（火）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve Ending (Fire)
@@ -34531,7 +34531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18674">
         <xliff:source>Nerve Ending (Mind)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経の終端（心）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve Ending (Mind)
@@ -34539,7 +34539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18675">
         <xliff:source>Broken Nerve Ending</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた神経の終端</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken Nerve Ending
@@ -34547,7 +34547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18676">
         <xliff:source>Empty Nerve Ending</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空の神経の終端</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty Nerve Ending
@@ -34555,7 +34555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18677">
         <xliff:source>Closed Passage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">閉められた通路</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Closed Passage
@@ -34563,7 +34563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18678">
         <xliff:source>Abyssal Portal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵のポータル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Abyssal Portal
@@ -34571,7 +34571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18679">
         <xliff:source>Broken Boat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れたボート</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken Boat
@@ -34579,7 +34579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18680">
         <xliff:source>Brain matter</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">脳実質</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Brain matter
@@ -34587,7 +34587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18681">
         <xliff:source>Nerve</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve
@@ -34595,7 +34595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18682">
         <xliff:source>Nerves</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerves
@@ -34603,7 +34603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18683">
         <xliff:source>Nerve formation</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経の形成</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nerve formation
@@ -34611,7 +34611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18684">
         <xliff:source>Air Bubble</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空気の泡</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Air Bubble
@@ -34619,7 +34619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18685">
         <xliff:source>Abyssal Growth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵の生産物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Abyssal Growth
@@ -34627,7 +34627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18686">
         <xliff:source>Abyssal Stem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深淵の茎</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Abyssal Stem
@@ -34635,7 +34635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18687">
         <xliff:source>Radiant Vein</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">輝く静脈</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Radiant Vein
@@ -34643,7 +34643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18688">
         <xliff:source>Crimson Vein</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">深紅の静脈</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Crimson Vein
@@ -34651,7 +34651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18689">
         <xliff:source>Fleshy Pillar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肉質の支柱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fleshy Pillar
@@ -34659,7 +34659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18690">
         <xliff:source>Neural Gateway</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経のゲートウェイ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Neural Gateway
@@ -34667,7 +34667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18691">
         <xliff:source>Fleshy Strand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肉質のより糸</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fleshy Strand
@@ -34675,7 +34675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18692">
         <xliff:source>Neural Teleporter</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">神経のワープ装置</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Neural Teleporter
@@ -34683,7 +34683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18693">
         <xliff:source>Shipwreck</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">難船</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Shipwreck
@@ -34691,7 +34691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18694">
         <xliff:source>Gunpowder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火薬</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Gunpowder
@@ -34699,7 +34699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18695">
         <xliff:source>Damaged Growth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">損傷した生産物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Damaged Growth
@@ -34707,7 +34707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18696">
         <xliff:source>Luminescent Growth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">発光性の生産物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Luminescent Growth
@@ -34715,7 +34715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18697">
         <xliff:source>Fleshy growth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">肉質の生産物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fleshy growth
@@ -34723,7 +34723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18698">
         <xliff:source>Water Axon Terminal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">水の軸索終末</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Water Axon Terminal
@@ -34731,7 +34731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18699">
         <xliff:source>Fire Axon Terminal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火のの軸索終末</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fire Axon Terminal
@@ -34739,7 +34739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18700">
         <xliff:source>Nature Axon Terminal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">自然のの軸索終末</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Nature Axon Terminal
@@ -34747,7 +34747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18701">
         <xliff:source>Cosmic Axon Terminal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宇宙のの軸索終末</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cosmic Axon Terminal
@@ -34755,7 +34755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18702">
         <xliff:source>Triggered Axon Terminal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">発動した軸索終末</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Triggered Axon Terminal
@@ -34763,7 +34763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18703">
         <xliff:source>Smoke Nerve Ending (Broken)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">煙の神経の終端（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Smoke Nerve Ending (Broken)
@@ -34771,7 +34771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18704">
         <xliff:source>Steam Nerve Ending (Broken)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">蒸気の神経の終端（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Steam Nerve Ending (Broken)
@@ -34779,7 +34779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18705">
         <xliff:source>Dust Nerve Ending (Broken)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">塵の神経の終端（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dust Nerve Ending (Broken)
@@ -34787,7 +34787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18706">
         <xliff:source>Lava Nerve Ending (Broken)</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">溶岩の神経の終端（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lava Nerve Ending (Broken)
@@ -34795,7 +34795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18707">
         <xliff:source>Pulsing Nerve Ending</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">脈打つの神経の終端</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pulsing Nerve Ending
@@ -34803,7 +34803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18708">
         <xliff:source>Summoning Circle</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">召喚の陣</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Summoning Circle
@@ -34811,7 +34811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18709">
         <xliff:source>Debug Block</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">デバッグ・ブロック</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Debug Block
@@ -34819,7 +34819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18710">
         <xliff:source>Strange Pool</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">不思議な液溜まり</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Strange Pool
@@ -34827,7 +34827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18711">
         <xliff:source>Entrails</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">内臓</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Entrails
@@ -34835,7 +34835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18712">
         <xliff:source>Breach</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブリーチ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Breach
@@ -34843,7 +34843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18713">
         <xliff:source>Boss Spawn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボスのスポーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Boss Spawn
@@ -34851,7 +34851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18714">
         <xliff:source>Deposit pot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壺型の金庫</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Deposit pot
@@ -34867,7 +34867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18716">
         <xliff:source>Human food</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">人間の食べ物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Human food
@@ -34883,7 +34883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18718">
         <xliff:source>Alarm button</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アラームのボタン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Alarm button
@@ -34891,7 +34891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18719">
         <xliff:source>Yewnock's machine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ユーノックの機械</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Yewnock's machine
@@ -34899,7 +34899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18720">
         <xliff:source>Yewnock's exchanger</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ユーノックの交換器</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Yewnock's exchanger
@@ -34907,7 +34907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18721">
         <xliff:source>Sewer exit</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">下水の出口</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sewer exit
@@ -34915,7 +34915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18722">
         <xliff:source>Gas</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ガス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Gas
@@ -34923,7 +34923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18723">
         <xliff:source>Gas jet</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ガスジェット</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Gas jet
@@ -34931,7 +34931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18724">
         <xliff:source>Sewer entrance</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">下水の入口</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sewer entrance
@@ -34939,7 +34939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18725">
         <xliff:source>Secure door</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">固定されたドア</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Secure door
@@ -34947,7 +34947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18726">
         <xliff:source>Warped tree roots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">歪んだ木の根</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Warped tree roots
@@ -34955,7 +34955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18727">
         <xliff:source>Parted tree roots</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">裂けた木の根</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Parted tree roots
@@ -34963,7 +34963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18728">
         <xliff:source>Amalgamation</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">融合物</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Amalgamation
@@ -34971,7 +34971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18729">
         <xliff:source>Ventriculus opening</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">異の開口部</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ventriculus opening
@@ -34979,7 +34979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18730">
         <xliff:source>Extract orifice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">抽出口</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Extract orifice
@@ -34987,7 +34987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18731">
         <xliff:source>Essence orifice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エッセンスの開口部</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Essence orifice
@@ -34995,7 +34995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18732">
         <xliff:source>Forester's Campfire</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">森林官のキャンプファイアー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Forester's Campfire
@@ -35003,7 +35003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18733">
         <xliff:source>End of Rainbow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">虹のふもと</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: End of Rainbow
@@ -35011,7 +35011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18734">
         <xliff:source>Clovers</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クローバー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Clovers
@@ -35019,7 +35019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18735">
         <xliff:source>Pheasant Nest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キジの巣</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pheasant Nest
@@ -35027,7 +35027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18736">
         <xliff:source>Fiery Ornate Pool of Rejuvenation</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火の華麗な再生の飲み場</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fiery Ornate Pool of Rejuvenation
@@ -35035,7 +35035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18737">
         <xliff:source>Info Board</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">情報掲示板</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Info Board
@@ -35043,7 +35043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18738">
         <xliff:source>Snow shark</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">雪サメ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Snow shark
@@ -35051,7 +35051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18739">
         <xliff:source>Varrock Census</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バロックの都市調査</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Varrock Census
@@ -35059,7 +35059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18740">
         <xliff:source>Red mist</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">赤い霧</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Red mist
@@ -35067,7 +35067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18741">
         <xliff:source>Balcony</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バルコニー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Balcony
@@ -35075,7 +35075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18742">
         <xliff:source>Imposing doors</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">印象的なドア</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Imposing doors
@@ -35083,7 +35083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18743">
         <xliff:source>Scroll holders</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巻物入れ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Scroll holders
@@ -35091,7 +35091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18744">
         <xliff:source>Broken scroll holders</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた巻物入れ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken scroll holders
@@ -35099,7 +35099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18745">
         <xliff:source>Cave-in</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">陥没</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cave-in
@@ -35107,7 +35107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18746">
         <xliff:source>Dais</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ダイス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dais
@@ -35115,7 +35115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18747">
         <xliff:source>Decorations</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">装飾</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Decorations
@@ -35123,7 +35123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18748">
         <xliff:source>Stone boat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">石のボート</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stone boat
@@ -35131,7 +35131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18749">
         <xliff:source>Uninviting hole</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魅力的でない穴</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Uninviting hole
@@ -35139,7 +35139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18750">
         <xliff:source>Blue tile</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">青いタイル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blue tile
@@ -35147,7 +35147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18751">
         <xliff:source>Red tile</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">赤いタイル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Red tile
@@ -35155,7 +35155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18752">
         <xliff:source>Green tile</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">緑のタイル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Green tile
@@ -35163,7 +35163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18753">
         <xliff:source>Yellow tile</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黄色いタイル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Yellow tile
@@ -35171,7 +35171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18754">
         <xliff:source>Blue block</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">青いブロック</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blue block
@@ -35179,7 +35179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18755">
         <xliff:source>Red block</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">赤いブロック</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Red block
@@ -35187,7 +35187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18756">
         <xliff:source>Green block</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">緑のブロック</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Green block
@@ -35195,7 +35195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18757">
         <xliff:source>Yellow block</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">黄色ブロック</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Yellow block
@@ -35203,7 +35203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18758">
         <xliff:source>Regal chair</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">豪華な椅子</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Regal chair
@@ -35211,7 +35211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18759">
         <xliff:source>Spiced wine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">香辛料入りワイン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Spiced wine
@@ -35219,7 +35219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18760">
         <xliff:source>Broken jug</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた水差し</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken jug
@@ -35227,7 +35227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18761">
         <xliff:source>Pot of wheat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">麦の土鍋</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pot of wheat
@@ -35235,7 +35235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18762">
         <xliff:source>Broken pot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた鍋</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken pot
@@ -35243,7 +35243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18763">
         <xliff:source>Regal table</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">豪華なテーブル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Regal table
@@ -35251,7 +35251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18764">
         <xliff:source>Statue base</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">像のベース</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue base
@@ -35259,7 +35259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18765">
         <xliff:source>Ushabti</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウシャブティ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ushabti
@@ -35267,7 +35267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18766">
         <xliff:source>Amascut statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アマスカット像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Amascut statue
@@ -35275,7 +35275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18767">
         <xliff:source>Apmeken statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アプメケン像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Apmeken statue
@@ -35283,7 +35283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18768">
         <xliff:source>Crondis statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クロンジス像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Crondis statue
@@ -35291,7 +35291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18769">
         <xliff:source>Het statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヘット像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Het statue
@@ -35299,7 +35299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18770">
         <xliff:source>Icthlarin statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イクスラリンの像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icthlarin statue
@@ -35307,7 +35307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18771">
         <xliff:source>Scabaras statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スカラバス像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Scabaras statue
@@ -35315,7 +35315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18772">
         <xliff:source>Broken statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">壊れた像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Broken statue
@@ -35323,7 +35323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18773">
         <xliff:source>Tumeken statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ツメケン像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tumeken statue
@@ -35331,7 +35331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18774">
         <xliff:source>Sconce</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">照明器具</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Sconce
@@ -35339,7 +35339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18775">
         <xliff:source>Barrel stack</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">積まれた樽</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Barrel stack
@@ -35347,7 +35347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18776">
         <xliff:source>Blackstone</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブラックストーン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blackstone
@@ -35355,7 +35355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18777">
         <xliff:source>Weapon table</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">武器のテーブル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Weapon table
@@ -35363,7 +35363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18778">
         <xliff:source>Human detection spell</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">人間検知の魔法</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Human detection spell
@@ -35371,7 +35371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18779">
         <xliff:source>Caged Killerwatt</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">檻に捕らわれたキラーワット</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Caged Killerwatt
@@ -35379,7 +35379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18780">
         <xliff:source>Mounted Dizana's Max Cape</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">装着されたディザナのマックス・マント</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Mounted Dizana's Max Cape
@@ -35387,7 +35387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18781">
         <xliff:source>Civitas illa Fortis Portal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">シビリタス・イラ・フォーチスのポータル</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Civitas illa Fortis Portal
@@ -35395,7 +35395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18782">
         <xliff:source>Molten Sand</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">融解した砂</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Molten Sand
@@ -35403,7 +35403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18783">
         <xliff:source>Colosseum scoreboard</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">闘技場の得点板</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Colosseum scoreboard
@@ -35411,7 +35411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18784">
         <xliff:source>Colosseum entrance</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">闘技場の入口</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Colosseum entrance
@@ -35419,7 +35419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18785">
         <xliff:source>Building Supplies</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">建築資材</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Building Supplies
@@ -35427,7 +35427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18786">
         <xliff:source>Camp spot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キャンプのスポット</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Camp spot
@@ -35435,7 +35435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18787">
         <xliff:source>Landing Site</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">着陸地点</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Landing Site
@@ -35443,7 +35443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18788">
         <xliff:source>Pile of equipment</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">装備品の山</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pile of equipment
@@ -35451,7 +35451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18789">
         <xliff:source>Lily pad</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">スイレンの葉</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lily pad
@@ -35459,7 +35459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18790">
         <xliff:source>Capybara Dung</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カピバラのフン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Capybara Dung
@@ -35467,7 +35467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18791">
         <xliff:source>Moonfire</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ムーンファイアー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Moonfire
@@ -35475,7 +35475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18792">
         <xliff:source>Blue Moon Brazier</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブルームーンの火鉢</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blue Moon Brazier
@@ -35483,7 +35483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18793">
         <xliff:source>Lunar Chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ルーナの宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lunar Chest
@@ -35491,7 +35491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18794">
         <xliff:source>Lizard trap</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トカゲの罠</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Lizard trap
@@ -35499,7 +35499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18795">
         <xliff:source>Cooking stove</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">料理ストーブ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cooking stove
@@ -35507,7 +35507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18796">
         <xliff:source>Camp barrier</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キャンプバリア</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Camp barrier
@@ -35515,7 +35515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18797">
         <xliff:source>Grubby sapling</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">汚い若木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Grubby sapling
@@ -35523,7 +35523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18798">
         <xliff:source>Stream</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">川</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stream
@@ -35531,7 +35531,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18799">
         <xliff:source>Supply crates</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">物資箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Supply crates
@@ -35539,7 +35539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18800">
         <xliff:source>Monolith</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">モノリス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Monolith
@@ -35547,7 +35547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18801">
         <xliff:source>Blood Mural</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">血の壁画</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blood Mural
@@ -35555,7 +35555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18802">
         <xliff:source>Ancient gate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古のゲート</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ancient gate
@@ -35563,7 +35563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18803">
         <xliff:source>Blue Mural</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">青い壁画</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blue Mural
@@ -35571,7 +35571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18804">
         <xliff:source>Eclipse Mural</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">月食の壁画</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Eclipse Mural
@@ -35579,7 +35579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18805">
         <xliff:source>Ancient fountainhead</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古代の水源</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ancient fountainhead
@@ -35587,7 +35587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18806">
         <xliff:source>Calcified rocks</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">石炭化した石</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Calcified rocks
@@ -35595,7 +35595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18807">
         <xliff:source>Forge</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">炉</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Forge
@@ -35603,7 +35603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18808">
         <xliff:source>Dispenser</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ディスペンサー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dispenser
@@ -35611,7 +35611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18809">
         <xliff:source>Herbalist stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">漢方医の屋台</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Herbalist stall
@@ -35619,7 +35619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18810">
         <xliff:source>Pickaxe stall</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ツルハシの屋台</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pickaxe stall
@@ -35627,7 +35627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18811">
         <xliff:source>Barrel of ale</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エールの樽</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Barrel of ale
@@ -35635,7 +35635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18812">
         <xliff:source>The Lost Pickaxe</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">失われたツルハシ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: The Lost Pickaxe
@@ -35643,7 +35643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18813">
         <xliff:source>Posters &amp; notices</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ポスターと通知</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Posters &amp; notices
@@ -35651,7 +35651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18814">
         <xliff:source>Pickaxe of the Lost</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">失われし者のツルハシ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pickaxe of the Lost
@@ -35659,7 +35659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18815">
         <xliff:source>Moonlight Antelope Trophy</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">月光アンテロープのトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Moonlight Antelope Trophy
@@ -35667,7 +35667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18816">
         <xliff:source>Guildmaster's chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ギルドマスターの宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Guildmaster's chest
@@ -35675,7 +35675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18817">
         <xliff:source>Beer taps</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハチトラップ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Beer taps
@@ -35683,7 +35683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18818">
         <xliff:source>Food basket</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">食べ物カゴ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Food basket
@@ -35691,7 +35691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18819">
         <xliff:source>Empty Food basket</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空の食べ物カゴ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty Food basket
@@ -35699,7 +35699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18820">
         <xliff:source>Empty Food Pot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空の食糧鍋</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty Food Pot
@@ -35707,7 +35707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18821">
         <xliff:source>Empty Food Barrel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空の食糧樽</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty Food Barrel
@@ -35715,7 +35715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18822">
         <xliff:source>Quetzal Nest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クエッツァルの巣</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Quetzal Nest
@@ -35723,7 +35723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18823">
         <xliff:source>Landing Spot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">着地地点</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Landing Spot
@@ -35731,7 +35731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18824">
         <xliff:source>Acacia tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アカシアの木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Acacia tree
@@ -35739,7 +35739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18825">
         <xliff:source>Stonepine tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">カラカサマツの木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stonepine tree
@@ -35747,7 +35747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18826">
         <xliff:source>Spikey bush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トゲの低木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Spikey bush
@@ -35755,7 +35755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18827">
         <xliff:source>Stolen cabbage</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">盗まれたキャベツ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stolen cabbage
@@ -35763,7 +35763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18828">
         <xliff:source>Ravine</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">渓谷</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ravine
@@ -35771,7 +35771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18829">
         <xliff:source>Wolf Den</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">オオカミの巣</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Wolf Den
@@ -35779,7 +35779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18830">
         <xliff:source>Statue of Quoatlos</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">コアトロス像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Quoatlos
@@ -35787,7 +35787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18831">
         <xliff:source>Statue of Xerna</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ゼーナ像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Xerna
@@ -35795,7 +35795,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18832">
         <xliff:source>Statue of Atlazora</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アトラゾラ像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Atlazora
@@ -35803,7 +35803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18833">
         <xliff:source>Statue of Marhuitz</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マーフイッツ像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Marhuitz
@@ -35811,7 +35811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18834">
         <xliff:source>Statue of Dizana</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ディザナ像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Dizana
@@ -35819,7 +35819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18835">
         <xliff:source>Statue of Taur</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トー像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Taur
@@ -35827,7 +35827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18836">
         <xliff:source>Glass case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ガラスケース</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Glass case
@@ -35835,7 +35835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18837">
         <xliff:source>Jewellery case</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">宝石ケース</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Jewellery case
@@ -35843,7 +35843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18838">
         <xliff:source>Bird bath</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">バードバス</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Bird bath
@@ -35851,7 +35851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18839">
         <xliff:source>Shrine of Ralos</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラロスの聖堂</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Shrine of Ralos
@@ -35859,7 +35859,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18840">
         <xliff:source>Shrine of Ranul</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラヌルの聖堂</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Shrine of Ranul
@@ -35867,7 +35867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18841">
         <xliff:source>Ale Barrel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エールの樽</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Ale Barrel
@@ -35875,7 +35875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18842">
         <xliff:source>Boardgame</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボードゲーム</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Boardgame
@@ -35883,7 +35883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18843">
         <xliff:source>Pillows</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">枕</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pillows
@@ -35891,7 +35891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18844">
         <xliff:source>Cypress Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イトスギの木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cypress Tree
@@ -35899,7 +35899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18845">
         <xliff:source>Potted fan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">植木鉢のスカエボラ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Potted fan
@@ -35907,7 +35907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18846">
         <xliff:source>Royal throne</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">王座</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Royal throne
@@ -35915,7 +35915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18847">
         <xliff:source>Beds</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ベッド</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Beds
@@ -35923,7 +35923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18848">
         <xliff:source>Dairy Buffalo</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">乳バッファロー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dairy Buffalo
@@ -35931,7 +35931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18849">
         <xliff:source>Plushie</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ぬいぐるみ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Plushie
@@ -35939,7 +35939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18850">
         <xliff:source>Fishing boat</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">釣りのボート</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fishing boat
@@ -35947,7 +35947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18851">
         <xliff:source>Empty display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空の展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty display
@@ -35955,7 +35955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18852">
         <xliff:source>Dizana's Quiver</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ディザナの矢筒</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Dizana's Quiver
@@ -35963,7 +35963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18853">
         <xliff:source>Crown of Ralos</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラロスの冠</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Crown of Ralos
@@ -35971,7 +35971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18854">
         <xliff:source>Cloak of Ranul</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラヌルのマント</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cloak of Ranul
@@ -35979,7 +35979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18855">
         <xliff:source>Empty Display</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">空の展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Empty Display
@@ -35987,7 +35987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18856">
         <xliff:source>Kualti Daggers</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クアルチの短剣</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kualti Daggers
@@ -35995,7 +35995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18857">
         <xliff:source>Kualti Dagger</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クアルチの短剣</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kualti Dagger
@@ -36003,7 +36003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18858">
         <xliff:source>Kourend Shield</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クーレンドの盾</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kourend Shield
@@ -36011,7 +36011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18859">
         <xliff:source>Royal Accord of Twill</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ツイルの王室協定</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Royal Accord of Twill
@@ -36019,7 +36019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18860">
         <xliff:source>Icon of Ralos</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラオスの偶像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Icon of Ralos
@@ -36027,7 +36027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18861">
         <xliff:source>Column of Kourend</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クーレンドの柱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Column of Kourend
@@ -36035,7 +36035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18862">
         <xliff:source>Column of Imafore's Betrayal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イマフォーの裏切りの柱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Column of Imafore's Betrayal
@@ -36043,7 +36043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18863">
         <xliff:source>Armour of the Cloud Titan</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">クラウド・タイタンの鎧</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Armour of the Cloud Titan
@@ -36051,7 +36051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18864">
         <xliff:source>Old One Statue</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">古いモノの像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Old One Statue
@@ -36059,7 +36059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18865">
         <xliff:source>Fang of the Colossal Wyrm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大ヒドラの牙</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Fang of the Colossal Wyrm
@@ -36067,7 +36067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18866">
         <xliff:source>Statue of King Maximus</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">マクシマス王の像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of King Maximus
@@ -36075,7 +36075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18867">
         <xliff:source>Statue of Queen Zyanyi</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジアニー女王の像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Queen Zyanyi
@@ -36083,7 +36083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18868">
         <xliff:source>Statue of Prince Itzla</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イツズラ王子の像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Prince Itzla
@@ -36091,7 +36091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18869">
         <xliff:source>Statue of Freja</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレジャの像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Freja
@@ -36099,7 +36099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18870">
         <xliff:source>Statue of Emperor Imafore</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イマフォー皇帝の像</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Statue of Emperor Imafore
@@ -36107,7 +36107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18871">
         <xliff:source>Libation bowl</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">献酒のボール</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Libation bowl
@@ -36115,7 +36115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18872">
         <xliff:source>Exposed altar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">露出した祭壇</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Exposed altar
@@ -36123,7 +36123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18873">
         <xliff:source>Unbuilt Landing Site</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">未建築の着陸地点</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Unbuilt Landing Site
@@ -36131,7 +36131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18874">
         <xliff:source>Cat bed</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ネコのベッド</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Cat bed
@@ -36139,7 +36139,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18875">
         <xliff:source>Leafy bush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">葉がたくさん茂る低木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Leafy bush
@@ -36147,7 +36147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18876">
         <xliff:source>Rough-looking bush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">荒々しそうな低木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rough-looking bush
@@ -36155,7 +36155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18877">
         <xliff:source>Crypt staircase</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">地下への階段</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Crypt staircase
@@ -36163,7 +36163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18878">
         <xliff:source>Unlit brazier</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">未点火の火鉢</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Unlit brazier
@@ -36171,7 +36171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18879">
         <xliff:source>Trail of chocolate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チョコレートの跡</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Trail of chocolate
@@ -36179,7 +36179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18880">
         <xliff:source>Pile of chocolate</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">チョコレートの山</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pile of chocolate
@@ -36187,7 +36187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18881">
         <xliff:source>Easter egg rock</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イースターエッグの岩</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Easter egg rock
@@ -36195,7 +36195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18882">
         <xliff:source>Easter mine cart</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イースターのトロッコ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Easter mine cart
@@ -36203,7 +36203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18883">
         <xliff:source>Pile of eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">卵の山</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pile of eggs
@@ -36211,7 +36211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18884">
         <xliff:source>Giant egg</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大な卵</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Giant egg
@@ -36219,7 +36219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18885">
         <xliff:source>Stolen Eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">盗まれた卵</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Stolen Eggs
@@ -36227,7 +36227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18886">
         <xliff:source>Pile of fake eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">偽の卵の山</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Pile of fake eggs
@@ -36235,7 +36235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18887">
         <xliff:source>Giant display egg</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">巨大な卵の展示</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Giant display egg
@@ -36243,7 +36243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18888">
         <xliff:source>Display Eggs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">展示用卵</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Display Eggs
@@ -36251,7 +36251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18889">
         <xliff:source>Easter tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イースターの木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Easter tree
@@ -36259,7 +36259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18890">
         <xliff:source>Egg Plinth</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">卵の台座</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Egg Plinth
@@ -36267,7 +36267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18891">
         <xliff:source>Zombie Pirate's Locker</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">海賊ゾンビのロッカー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Zombie Pirate's Locker
@@ -36275,7 +36275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18892">
         <xliff:source>Agility dispenser</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">トレーニング・ディスペンサー</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Agility dispenser
@@ -36283,7 +36283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18893">
         <xliff:source>Heavy chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">思い宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Heavy chest
@@ -36291,7 +36291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18894">
         <xliff:source>Scuffed chest</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">こすり傷の付いた宝箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Scuffed chest
@@ -36299,7 +36299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18895">
         <xliff:source>Kit's boxes</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キットの箱</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kit's boxes
@@ -36307,7 +36307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18896">
         <xliff:source>Kit's books</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キットの本</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kit's books
@@ -36315,7 +36315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18897">
         <xliff:source>Kit's bag</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">キットのカバン</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Kit's bag

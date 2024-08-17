@@ -51,7 +51,7 @@ Lamp	ランプ	name	object	Lamp
 Candles	ロウソク	name	object	Candles
 Chandelier	シャンデリア	name	object	Chandelier
 Ice Light	氷の灯り	name	object	Ice Light
-Sail	帆	name	object	Sail
+Sail		name	object	Sail
 Figurehead	船首像	name	object	Figurehead
 Pile of rope	ロープの山	name	object	Pile of rope
 Ship's ladder	船のハシゴ	name	object	Ship's ladder
@@ -207,7 +207,7 @@ Flagpole	旗のポール	name	object	Flagpole
 Totem Pole	トーテム・ポール	name	object	Totem Pole
 Bath pipes	風呂パイプ	name	object	Bath pipes
 Large sewer pipe	大きな下水管	name	object	Large sewer pipe
-Sink	シンク	name	object	Sink
+Sink		name	object	Sink
 Bath	バス	name	object	Bath
 Well	井戸	name	object	Well
 Manhole	マンホール	name	object	Manhole
@@ -216,7 +216,7 @@ Portrait	肖像画	name	object	Portrait
 Painting	絵画	name	object	Painting
 Landscape	風景画	name	object	Landscape
 Star chart	星図	name	object	Star chart
-Cross	バツ印	name	object	Cross
+Cross	を渡る	name	object	Cross
 Hanging banner	掛けられたバナー	name	object	Hanging banner
 Unicorn's head	ユニコーンの頭部	name	object	Unicorn's head
 Dragon's head	竜の頭部	name	object	Dragon's head
@@ -489,7 +489,7 @@ Hellhound	ヘルハウンド	name	object	Hellhound
 Chart	図	name	object	Chart
 Dead bat	死んだコウモリ	name	object	Dead bat
 Herbs	薬草	name	object	Herbs
-Swings	ブランコ	name	object	Swings
+Swings		name	object	Swings
 Washing line	洗濯干しのロープ	name	object	Washing line
 Toy bricks	おもちゃのレンガ	name	object	Toy bricks
 Toy weapons	おもちゃの武器	name	object	Toy weapons
@@ -710,7 +710,7 @@ Abandoned Cart	放置されたカート	name	object	Abandoned Cart
 Pottery Oven	陶芸窯	name	object	Pottery Oven
 Spinning wheel	糸車	name	object	Spinning wheel
 Potter's Wheel	ろくろ	name	object	Potter's Wheel
-Shell	シェル	name	object	Shell
+Shell		name	object	Shell
 Bowl	ボール	name	object	Bowl
 Standard Stand	普通のスタンド	name	object	Standard Stand
 Iron ladder	鉄のハシゴ	name	object	Iron ladder
@@ -723,7 +723,7 @@ Broken door	壊れたドア	name	object	Broken door
 Battlements	胸壁	name	object	Battlements
 Cave wall	洞窟の壁	name	object	Cave wall
 Energy Barrier	エネルギーのバリア	name	object	Energy Barrier
-Scoreboard	得点版	name	object	Scoreboard
+Scoreboard	得点板	name	object	Scoreboard
 Pigeon	ハト	name	object	Pigeon
 Kurask head	クラスクの頭部	name	object	Kurask head
 Mounted swordfish	カジキの標本	name	object	Mounted swordfish
@@ -1249,7 +1249,7 @@ rune casket	ルーンの木箱	name	object	rune casket
 Hanging dye	吊るされた染物	name	object	Hanging dye
 Dye Pots	染料の容器	name	object	Dye Pots
 Stove	ストーブ	name	object	Stove
-Coke	コーク	name	object	Coke
+Coke		name	object	Coke
 Temperature gauge	温度計測器	name	object	Temperature gauge
 Pump	ポンプ	name	object	Pump
 Bars	延べ棒	name	object	Bars
@@ -1407,7 +1407,7 @@ Magic barrier	魔法のバリア	name	object	Magic barrier
 Brazier	火鉢	name	object	Brazier
 Stone Ladder	石のハシゴ	name	object	Stone Ladder
 Secret entrance	秘密の入口	name	object	Secret entrance
-Light	灯り	name	object	Light
+Light	灯す	name	object	Light
 Magic spell	かけられた魔法	name	object	Magic spell
 Treated patch	処理された小区画	name	object	Treated patch
 Cave rocks	洞窟の岩	name	object	Cave rocks
@@ -1456,7 +1456,7 @@ Grandfather clock	振り子時計	name	object	Grandfather clock
 Longhall door	長い広場のドア	name	object	Longhall door
 Small Table	小さなテーブル	name	object	Small Table
 Roof top beams	屋根上のハリ	name	object	Roof top beams
-Hurdle	ハードル	name	object	Hurdle
+Hurdle	飛び越える	name	object	Hurdle
 Zip line	ジップライン	name	object	Zip line
 Goal	ゴール	name	object	Goal
 Tower ladder	塔のハシゴ	name	object	Tower ladder
@@ -1599,10 +1599,10 @@ Shaving stand	髭剃りスタンド	name	object	Shaving stand
 Symbol of Saradomin	サラドミンの印	name	object	Symbol of Saradomin
 Symbol of Zamorak	ザモラックの印	name	object	Symbol of Zamorak
 Symbol of Guthix	ガシックスの印	name	object	Symbol of Guthix
-Icon of Saradomin	サラドミンのアイコン	name	object	Icon of Saradomin
-Icon of Zamorak	ザモラックのアイコン	name	object	Icon of Zamorak
-Icon of Guthix	ガシックスのアイコン	name	object	Icon of Guthix
-Icon of Bob	ボブのアイコン	name	object	Icon of Bob
+Icon of Saradomin	サラドミンの肖像	name	object	Icon of Saradomin
+Icon of Zamorak	ザモラックの肖像	name	object	Icon of Zamorak
+Icon of Guthix	ガシックスの肖像	name	object	Icon of Guthix
+Icon of Bob	ボブの肖像	name	object	Icon of Bob
 Incense burner	香炉	name	object	Incense burner
 Windchimes	風鈴	name	object	Windchimes
 Bells	ベル	name	object	Bells
@@ -1826,7 +1826,7 @@ Bed space	ベッドスペース	name	object	Bed space
 Wardrobe space	タンス	name	object	Wardrobe space
 Dresser space	ドレッサーのスペース	name	object	Dresser space
 Corner space	コーナのスペース	name	object	Corner space
-Icon space	アイコンのスペース	name	object	Icon space
+Icon space	肖像のスペース	name	object	Icon space
 Altar space	祭壇のスペース	name	object	Altar space
 Lamp space	ランプのスペース	name	object	Lamp space
 Statue space	像のスペース	name	object	Statue space
@@ -3599,7 +3599,7 @@ Soft clay rocks	軟らかい粘土の岩	name	object	Soft clay rocks
 Statue of Baxtorian	バクストリアン像	name	object	Statue of Baxtorian
 Statue Plinth	像の台座	name	object	Statue Plinth
 Crystal Dispenser	水晶のディスペンサー	name	object	Crystal Dispenser
-Pack	パック	name	object	Pack
+Pack	詰める	name	object	Pack
 Floating Book	飛ぶ本	name	object	Floating Book
 Book Cart	本のカート	name	object	Book Cart
 Seal of Cadarn	カダーンの証印	name	object	Seal of Cadarn
@@ -3756,7 +3756,7 @@ Holy Barrier	聖なるバリア	name	object	Holy Barrier
 Daeyalt Essence	ダエヤルトの素	name	object	Daeyalt Essence
 Blood Tithe	血の税収	name	object	Blood Tithe
 Corpse cart	遺体カート	name	object	Corpse cart
-Caged Prisoner	檻に入れられた囚人	name	object	Caged Prisoner
+Caged Prisoner	檻に捕らわれた囚人	name	object	Caged Prisoner
 Cracked wall	ひびが入った壁	name	object	Cracked wall
 Castle Gates	城の門	name	object	Castle Gates
 Planter	プランター	name	object	Planter
@@ -4026,7 +4026,7 @@ Essence pile (elemental)	素の山（エレメンタル）	name	object	Essence p
 Essence pile (catalytic)	素の山（触媒）	name	object	Essence pile (catalytic)
 Uncharged cells	無チャージなセル	name	object	Uncharged cells
 Weak cells	弱いセル	name	object	Weak cells
-Cell tile (broken)	セルのタイル（損傷）	name	object	Cell tile (broken)
+Cell tile (broken)	セルのタイル（壊）	name	object	Cell tile (broken)
 Inactive cell tile	無効なセルのタイル	name	object	Inactive cell tile
 Weak cell tile	弱いセルのタイル	name	object	Weak cell tile
 Medium cell tile	普通のセルのタイル	name	object	Medium cell tile
@@ -4219,323 +4219,323 @@ A Goblin	ゴブリン	name	object	A Goblin
 Phosani's Nightmare Display	フォサニの悪夢の展示	name	object	Phosani's Nightmare Display
 Revenant Maledictus Display	幽鬼のマレディクタスの展示	name	object	Revenant Maledictus Display
 Guardians of the Rift Display	裂け目の守護者の展示	name	object	Guardians of the Rift Display
-Giants' Foundry Display		name	object	Giants' Foundry Display
-Emir's Arena Display		name	object	Emir's Arena Display
-Unranked Group Ironman Display		name	object	Unranked Group Ironman Display
-Phantom Muspah Display		name	object	Phantom Muspah Display
-Quest Speedrunning Display		name	object	Quest Speedrunning Display
-Wilderness Boss Display		name	object	Wilderness Boss Display
-Tombs of Amascut Display		name	object	Tombs of Amascut Display
-Tombs of Amascut		name	object	Tombs of Amascut
-Yommi tree		name	object	Yommi tree
-Bounty Hunter portal		name	object	Bounty Hunter portal
-Fabric rolls		name	object	Fabric rolls
-Hairstyles Poster		name	object	Hairstyles Poster
-Rio the Parrot		name	object	Rio the Parrot
-Portraits		name	object	Portraits
-Vanity dresser		name	object	Vanity dresser
-Tree roots		name	object	Tree roots
-Anima-infused Tree roots		name	object	Anima-infused Tree roots
-Struggling sapling		name	object	Struggling sapling
-Thriving sapling		name	object	Thriving sapling
-Rotting leaves		name	object	Rotting leaves
-Green leaves		name	object	Green leaves
-Droppings		name	object	Droppings
-Wild mushrooms		name	object	Wild mushrooms
-Splintered bark		name	object	Splintered bark
+Giants' Foundry Display	巨人の鋳造所の展示	name	object	Giants' Foundry Display
+Emir's Arena Display	エミアのアリーナの展示	name	object	Emir's Arena Display
+Unranked Group Ironman Display	無ランクの鉄人グループの展示	name	object	Unranked Group Ironman Display
+Phantom Muspah Display	ファントム・マスパの展示	name	object	Phantom Muspah Display
+Quest Speedrunning Display	クエスト・タイムアタックの展示	name	object	Quest Speedrunning Display
+Wilderness Boss Display	ウィルダネス・ボスの展示	name	object	Wilderness Boss Display
+Tombs of Amascut Display	アマスカットの墓の展示	name	object	Tombs of Amascut Display
+Tombs of Amascut	アマスカットの墓	name	object	Tombs of Amascut
+Yommi tree	ヨミー木	name	object	Yommi tree
+Bounty Hunter portal	バウンティ・ハンターのポータル	name	object	Bounty Hunter portal
+Fabric rolls	布地ロール	name	object	Fabric rolls
+Hairstyles Poster	髪型ポスター	name	object	Hairstyles Poster
+Rio the Parrot	オウムのリオ	name	object	Rio the Parrot
+Portraits	肖像画	name	object	Portraits
+Vanity dresser	化粧台	name	object	Vanity dresser
+Tree roots	木の根	name	object	Tree roots
+Anima-infused Tree roots	生命力付与された木の根	name	object	Anima-infused Tree roots
+Struggling sapling	もがく若木	name	object	Struggling sapling
+Thriving sapling	成長している若木	name	object	Thriving sapling
+Rotting leaves	腐っていく葉	name	object	Rotting leaves
+Green leaves	緑の葉	name	object	Green leaves
+Droppings	フン	name	object	Droppings
+Wild mushrooms	野生のキノコ	name	object	Wild mushrooms
+Splintered bark	裂けた樹皮	name	object	Splintered bark
 Chisel	ノミ	name	object	Chisel
-Salt Deposit		name	object	Salt Deposit
-Musca mushrooms		name	object	Musca mushrooms
-Holos mushrooms		name	object	Holos mushrooms
-Arder mushrooms		name	object	Arder mushrooms
-Resper mushrooms		name	object	Resper mushrooms
-Fermentation Vat		name	object	Fermentation Vat
+Salt Deposit	塩の堆積物	name	object	Salt Deposit
+Musca mushrooms	ベニテングタケ	name	object	Musca mushrooms
+Holos mushrooms	ホロスタケ	name	object	Holos mushrooms
+Arder mushrooms	アーダータケ	name	object	Arder mushrooms
+Resper mushrooms	レスパーダケ	name	object	Resper mushrooms
+Fermentation Vat	発酵槽	name	object	Fermentation Vat
 Extremity		name	object	Extremity
 Pestle and mortar	杵と臼	name	object	Pestle and mortar
-Corrupted seed		name	object	Corrupted seed
+Corrupted seed	変異した種	name	object	Corrupted seed
 Floating Column	浮く柱	name	object	Floating Column
 Tentacle	触手	name	object	Tentacle
-Broken Pillar		name	object	Broken Pillar
-Ancient Tablet		name	object	Ancient Tablet
-Tendril		name	object	Tendril
-Pan	でフルイにかける	name	object	Pan
-Kiln		name	object	Kiln
-Distillation Kit		name	object	Distillation Kit
-Large Vial		name	object	Large Vial
+Broken Pillar	壊れた柱	name	object	Broken Pillar
+Ancient Tablet	古代のタブレット	name	object	Ancient Tablet
+Tendril	ツル	name	object	Tendril
+Pan	フライパン	name	object	Pan
+Kiln	窯	name	object	Kiln
+Distillation Kit	蒸留装置セット	name	object	Distillation Kit
+Large Vial	大きな試薬瓶	name	object	Large Vial
 Book	本	name	object	Book
-Lab Table		name	object	Lab Table
-Mortuary Table		name	object	Mortuary Table
-Weapons Barrel		name	object	Weapons Barrel
-Plant Pot		name	object	Plant Pot
-Church Brazier		name	object	Church Brazier
-Ancient banner		name	object	Ancient banner
-Iron maiden		name	object	Iron maiden
-Puddle		name	object	Puddle
-Teleporter		name	object	Teleporter
-Shadow Blocker		name	object	Shadow Blocker
-Revitalising Idol		name	object	Revitalising Idol
-Anima Portal		name	object	Anima Portal
-Remnant		name	object	Remnant
-Sunken Steeple		name	object	Sunken Steeple
-Ominous bubbles		name	object	Ominous bubbles
-Strangled Tree		name	object	Strangled Tree
-Pine		name	object	Pine
-Dead Bear		name	object	Dead Bear
-Dead Boar		name	object	Dead Boar
-Dead Goat		name	object	Dead Goat
-Dead Lynx		name	object	Dead Lynx
-Ruined Monument		name	object	Ruined Monument
-Strangled Plant		name	object	Strangled Plant
-Strangled Fern		name	object	Strangled Fern
-Stangled Plant		name	object	Stangled Plant
-Strangled Tent		name	object	Strangled Tent
-Broken Boaty		name	object	Broken Boaty
-Surface		name	object	Surface
-Old campfire		name	object	Old campfire
-Argian bush		name	object	Argian bush
-Korbal herbs		name	object	Korbal herbs
-Explosive satchel		name	object	Explosive satchel
-Stone chest (locked)		name	object	Stone chest (locked)
-Stone chest (empty)		name	object	Stone chest (empty)
-Horn		name	object	Horn
-Elder Horn		name	object	Elder Horn
+Lab Table	実験台	name	object	Lab Table
+Mortuary Table	遺体安置台	name	object	Mortuary Table
+Weapons Barrel	武器の樽	name	object	Weapons Barrel
+Plant Pot	植木鉢	name	object	Plant Pot
+Church Brazier	教会の火鉢	name	object	Church Brazier
+Ancient banner	古代のバナー	name	object	Ancient banner
+Iron maiden	鉄の処女	name	object	Iron maiden
+Puddle	水たまり	name	object	Puddle
+Teleporter	ワープ装置	name	object	Teleporter
+Shadow Blocker	影無効化装置	name	object	Shadow Blocker
+Revitalising Idol	再生の偶像	name	object	Revitalising Idol
+Anima Portal	生命力のポータル	name	object	Anima Portal
+Remnant	残余	name	object	Remnant
+Sunken Steeple	沈んだ尖塔	name	object	Sunken Steeple
+Ominous bubbles	不吉な泡	name	object	Ominous bubbles
+Strangled Tree	絡まった木	name	object	Strangled Tree
+Pine	松	name	object	Pine
+Dead Bear	死んだクマ	name	object	Dead Bear
+Dead Boar	死んだイノシシ	name	object	Dead Boar
+Dead Goat	死んだヤギ	name	object	Dead Goat
+Dead Lynx	死んだオオヤマネコ	name	object	Dead Lynx
+Ruined Monument	荒廃した記念碑	name	object	Ruined Monument
+Strangled Plant	絡まった植物	name	object	Strangled Plant
+Strangled Fern	絡まったシダ	name	object	Strangled Fern
+Stangled Plant	絡まった植物	name	object	Stangled Plant
+Strangled Tent	絡まったテント	name	object	Strangled Tent
+Broken Boaty	壊れた船	name	object	Broken Boaty
+Surface	表面	name	object	Surface
+Old campfire	古いキャンプファイアー	name	object	Old campfire
+Argian bush	アーギアンの低木	name	object	Argian bush
+Korbal herbs	コーバルの薬草	name	object	Korbal herbs
+Explosive satchel	爆薬サッチェル	name	object	Explosive satchel
+Stone chest (locked)	石の宝箱（閉）	name	object	Stone chest (locked)
+Stone chest (empty)	石の宝箱（空）	name	object	Stone chest (empty)
+Horn	角笛	name	object	Horn
+Elder Horn	長老の角笛	name	object	Elder Horn
 Golem	ゴーレム	name	object	Golem
-Ancient Icon		name	object	Ancient Icon
-Wheelchair		name	object	Wheelchair
-Harness		name	object	Harness
-Sapphire Gate		name	object	Sapphire Gate
-Emerald Gate		name	object	Emerald Gate
-Ruby Gate		name	object	Ruby Gate
-Diamond Gate		name	object	Diamond Gate
-Dragonstone Gate		name	object	Dragonstone Gate
-Onyx Gate		name	object	Onyx Gate
-Ice Block		name	object	Ice Block
-Abyssal Tether		name	object	Abyssal Tether
-Nerve Ending (Earth)		name	object	Nerve Ending (Earth)
-Nerve Ending (Air)		name	object	Nerve Ending (Air)
-Nerve Ending (Water)		name	object	Nerve Ending (Water)
-Nerve Ending (Fire)		name	object	Nerve Ending (Fire)
-Nerve Ending (Mind)		name	object	Nerve Ending (Mind)
-Broken Nerve Ending		name	object	Broken Nerve Ending
-Empty Nerve Ending		name	object	Empty Nerve Ending
-Closed Passage		name	object	Closed Passage
-Abyssal Portal		name	object	Abyssal Portal
-Broken Boat		name	object	Broken Boat
-Brain matter		name	object	Brain matter
-Nerve		name	object	Nerve
-Nerves		name	object	Nerves
-Nerve formation		name	object	Nerve formation
-Air Bubble		name	object	Air Bubble
-Abyssal Growth		name	object	Abyssal Growth
-Abyssal Stem		name	object	Abyssal Stem
-Radiant Vein		name	object	Radiant Vein
-Crimson Vein		name	object	Crimson Vein
-Fleshy Pillar		name	object	Fleshy Pillar
-Neural Gateway		name	object	Neural Gateway
-Fleshy Strand		name	object	Fleshy Strand
-Neural Teleporter		name	object	Neural Teleporter
-Shipwreck		name	object	Shipwreck
-Gunpowder		name	object	Gunpowder
-Damaged Growth		name	object	Damaged Growth
-Luminescent Growth		name	object	Luminescent Growth
-Fleshy growth		name	object	Fleshy growth
-Water Axon Terminal		name	object	Water Axon Terminal
-Fire Axon Terminal		name	object	Fire Axon Terminal
-Nature Axon Terminal		name	object	Nature Axon Terminal
-Cosmic Axon Terminal		name	object	Cosmic Axon Terminal
-Triggered Axon Terminal		name	object	Triggered Axon Terminal
-Smoke Nerve Ending (Broken)		name	object	Smoke Nerve Ending (Broken)
-Steam Nerve Ending (Broken)		name	object	Steam Nerve Ending (Broken)
-Dust Nerve Ending (Broken)		name	object	Dust Nerve Ending (Broken)
-Lava Nerve Ending (Broken)		name	object	Lava Nerve Ending (Broken)
-Pulsing Nerve Ending		name	object	Pulsing Nerve Ending
-Summoning Circle		name	object	Summoning Circle
-Debug Block		name	object	Debug Block
-Strange Pool		name	object	Strange Pool
-Entrails		name	object	Entrails
-Breach		name	object	Breach
-Boss Spawn		name	object	Boss Spawn
-Deposit pot		name	object	Deposit pot
+Ancient Icon	古代の肖像	name	object	Ancient Icon
+Wheelchair	車いす	name	object	Wheelchair
+Harness	ハーネス	name	object	Harness
+Sapphire Gate	サファイアの門	name	object	Sapphire Gate
+Emerald Gate	エメラルドの門	name	object	Emerald Gate
+Ruby Gate	ルビーの門	name	object	Ruby Gate
+Diamond Gate	ダイヤの門	name	object	Diamond Gate
+Dragonstone Gate	竜石の門	name	object	Dragonstone Gate
+Onyx Gate	オニキスの門	name	object	Onyx Gate
+Ice Block	氷ブロック 	name	object	Ice Block
+Abyssal Tether	深淵のつなぎ縄	name	object	Abyssal Tether
+Nerve Ending (Earth)	神経の終端（土）	name	object	Nerve Ending (Earth)
+Nerve Ending (Air)	神経の終端（大気）	name	object	Nerve Ending (Air)
+Nerve Ending (Water)	神経の終端（水）	name	object	Nerve Ending (Water)
+Nerve Ending (Fire)	神経の終端（火）	name	object	Nerve Ending (Fire)
+Nerve Ending (Mind)	神経の終端（心）	name	object	Nerve Ending (Mind)
+Broken Nerve Ending	壊れた神経の終端	name	object	Broken Nerve Ending
+Empty Nerve Ending	空の神経の終端	name	object	Empty Nerve Ending
+Closed Passage	閉められた通路	name	object	Closed Passage
+Abyssal Portal	深淵のポータル	name	object	Abyssal Portal
+Broken Boat	壊れたボート	name	object	Broken Boat
+Brain matter	脳実質	name	object	Brain matter
+Nerve	神経	name	object	Nerve
+Nerves	神経	name	object	Nerves
+Nerve formation	神経の形成	name	object	Nerve formation
+Air Bubble	空気の泡	name	object	Air Bubble
+Abyssal Growth	深淵の生産物	name	object	Abyssal Growth
+Abyssal Stem	深淵の茎	name	object	Abyssal Stem
+Radiant Vein	輝く静脈	name	object	Radiant Vein
+Crimson Vein	深紅の静脈	name	object	Crimson Vein
+Fleshy Pillar	肉質の支柱	name	object	Fleshy Pillar
+Neural Gateway	神経のゲートウェイ	name	object	Neural Gateway
+Fleshy Strand	肉質のより糸	name	object	Fleshy Strand
+Neural Teleporter	神経のワープ装置	name	object	Neural Teleporter
+Shipwreck	難船	name	object	Shipwreck
+Gunpowder	火薬	name	object	Gunpowder
+Damaged Growth	損傷した生産物	name	object	Damaged Growth
+Luminescent Growth	発光性の生産物	name	object	Luminescent Growth
+Fleshy growth	肉質の生産物	name	object	Fleshy growth
+Water Axon Terminal	水の軸索終末	name	object	Water Axon Terminal
+Fire Axon Terminal	火のの軸索終末	name	object	Fire Axon Terminal
+Nature Axon Terminal	自然のの軸索終末	name	object	Nature Axon Terminal
+Cosmic Axon Terminal	宇宙のの軸索終末	name	object	Cosmic Axon Terminal
+Triggered Axon Terminal	発動した軸索終末	name	object	Triggered Axon Terminal
+Smoke Nerve Ending (Broken)	煙の神経の終端（壊）	name	object	Smoke Nerve Ending (Broken)
+Steam Nerve Ending (Broken)	蒸気の神経の終端（壊）	name	object	Steam Nerve Ending (Broken)
+Dust Nerve Ending (Broken)	塵の神経の終端（壊）	name	object	Dust Nerve Ending (Broken)
+Lava Nerve Ending (Broken)	溶岩の神経の終端（壊）	name	object	Lava Nerve Ending (Broken)
+Pulsing Nerve Ending	脈打つの神経の終端	name	object	Pulsing Nerve Ending
+Summoning Circle	召喚の陣	name	object	Summoning Circle
+Debug Block	デバッグ・ブロック	name	object	Debug Block
+Strange Pool	不思議な液溜まり	name	object	Strange Pool
+Entrails	内臓	name	object	Entrails
+Breach	ブリーチ	name	object	Breach
+Boss Spawn	ボスのスポーン	name	object	Boss Spawn
+Deposit pot	壺型の金庫	name	object	Deposit pot
 Cute Creature	カワイイ生物	name	object	Cute Creature
-Human food		name	object	Human food
+Human food	人間の食べ物	name	object	Human food
 Advisor	顧問	name	object	Advisor
-Alarm button		name	object	Alarm button
-Yewnock's machine		name	object	Yewnock's machine
-Yewnock's exchanger		name	object	Yewnock's exchanger
-Sewer exit		name	object	Sewer exit
-Gas		name	object	Gas
-Gas jet		name	object	Gas jet
-Sewer entrance		name	object	Sewer entrance
-Secure door		name	object	Secure door
-Warped tree roots		name	object	Warped tree roots
-Parted tree roots		name	object	Parted tree roots
-Amalgamation		name	object	Amalgamation
-Ventriculus opening		name	object	Ventriculus opening
-Extract orifice		name	object	Extract orifice
-Essence orifice		name	object	Essence orifice
-Forester's Campfire		name	object	Forester's Campfire
-End of Rainbow		name	object	End of Rainbow
-Clovers		name	object	Clovers
-Pheasant Nest		name	object	Pheasant Nest
-Fiery Ornate Pool of Rejuvenation		name	object	Fiery Ornate Pool of Rejuvenation
-Info Board		name	object	Info Board
-Snow shark		name	object	Snow shark
-Varrock Census		name	object	Varrock Census
-Red mist		name	object	Red mist
-Balcony		name	object	Balcony
-Imposing doors		name	object	Imposing doors
-Scroll holders		name	object	Scroll holders
-Broken scroll holders		name	object	Broken scroll holders
-Cave-in		name	object	Cave-in
-Dais		name	object	Dais
-Decorations		name	object	Decorations
-Stone boat		name	object	Stone boat
-Uninviting hole		name	object	Uninviting hole
-Blue tile		name	object	Blue tile
-Red tile		name	object	Red tile
-Green tile		name	object	Green tile
-Yellow tile		name	object	Yellow tile
-Blue block		name	object	Blue block
-Red block		name	object	Red block
-Green block		name	object	Green block
-Yellow block		name	object	Yellow block
-Regal chair		name	object	Regal chair
-Spiced wine		name	object	Spiced wine
-Broken jug		name	object	Broken jug
-Pot of wheat		name	object	Pot of wheat
-Broken pot		name	object	Broken pot
-Regal table		name	object	Regal table
-Statue base		name	object	Statue base
-Ushabti		name	object	Ushabti
-Amascut statue		name	object	Amascut statue
-Apmeken statue		name	object	Apmeken statue
-Crondis statue		name	object	Crondis statue
-Het statue		name	object	Het statue
-Icthlarin statue		name	object	Icthlarin statue
-Scabaras statue		name	object	Scabaras statue
-Broken statue		name	object	Broken statue
-Tumeken statue		name	object	Tumeken statue
-Sconce		name	object	Sconce
-Barrel stack		name	object	Barrel stack
-Blackstone		name	object	Blackstone
-Weapon table		name	object	Weapon table
-Human detection spell		name	object	Human detection spell
-Caged Killerwatt		name	object	Caged Killerwatt
-Mounted Dizana's Max Cape		name	object	Mounted Dizana's Max Cape
-Civitas illa Fortis Portal		name	object	Civitas illa Fortis Portal
-Molten Sand		name	object	Molten Sand
-Colosseum scoreboard		name	object	Colosseum scoreboard
-Colosseum entrance		name	object	Colosseum entrance
-Building Supplies		name	object	Building Supplies
-Camp spot		name	object	Camp spot
-Landing Site		name	object	Landing Site
-Pile of equipment		name	object	Pile of equipment
-Lily pad		name	object	Lily pad
-Capybara Dung		name	object	Capybara Dung
-Moonfire		name	object	Moonfire
-Blue Moon Brazier		name	object	Blue Moon Brazier
-Lunar Chest		name	object	Lunar Chest
-Lizard trap		name	object	Lizard trap
-Cooking stove		name	object	Cooking stove
-Camp barrier		name	object	Camp barrier
-Grubby sapling		name	object	Grubby sapling
-Stream		name	object	Stream
-Supply crates		name	object	Supply crates
-Monolith		name	object	Monolith
-Blood Mural		name	object	Blood Mural
-Ancient gate		name	object	Ancient gate
-Blue Mural		name	object	Blue Mural
-Eclipse Mural		name	object	Eclipse Mural
-Ancient fountainhead		name	object	Ancient fountainhead
-Calcified rocks		name	object	Calcified rocks
-Forge		name	object	Forge
-Dispenser		name	object	Dispenser
-Herbalist stall		name	object	Herbalist stall
-Pickaxe stall		name	object	Pickaxe stall
-Barrel of ale		name	object	Barrel of ale
-The Lost Pickaxe		name	object	The Lost Pickaxe
-Posters & notices		name	object	Posters & notices
-Pickaxe of the Lost		name	object	Pickaxe of the Lost
-Moonlight Antelope Trophy		name	object	Moonlight Antelope Trophy
-Guildmaster's chest		name	object	Guildmaster's chest
-Beer taps		name	object	Beer taps
-Food basket		name	object	Food basket
-Empty Food basket		name	object	Empty Food basket
-Empty Food Pot		name	object	Empty Food Pot
-Empty Food Barrel		name	object	Empty Food Barrel
-Quetzal Nest		name	object	Quetzal Nest
-Landing Spot		name	object	Landing Spot
-Acacia tree		name	object	Acacia tree
-Stonepine tree		name	object	Stonepine tree
-Spikey bush		name	object	Spikey bush
-Stolen cabbage		name	object	Stolen cabbage
-Ravine		name	object	Ravine
-Wolf Den		name	object	Wolf Den
-Statue of Quoatlos		name	object	Statue of Quoatlos
-Statue of Xerna		name	object	Statue of Xerna
-Statue of Atlazora		name	object	Statue of Atlazora
-Statue of Marhuitz		name	object	Statue of Marhuitz
-Statue of Dizana		name	object	Statue of Dizana
-Statue of Taur		name	object	Statue of Taur
-Glass case		name	object	Glass case
-Jewellery case		name	object	Jewellery case
-Bird bath		name	object	Bird bath
-Shrine of Ralos		name	object	Shrine of Ralos
-Shrine of Ranul		name	object	Shrine of Ranul
-Ale Barrel		name	object	Ale Barrel
-Boardgame		name	object	Boardgame
-Pillows		name	object	Pillows
-Cypress Tree		name	object	Cypress Tree
-Potted fan		name	object	Potted fan
-Royal throne		name	object	Royal throne
-Beds		name	object	Beds
-Dairy Buffalo		name	object	Dairy Buffalo
-Plushie		name	object	Plushie
-Fishing boat		name	object	Fishing boat
-Empty display		name	object	Empty display
-Dizana's Quiver		name	object	Dizana's Quiver
-Crown of Ralos		name	object	Crown of Ralos
-Cloak of Ranul		name	object	Cloak of Ranul
-Empty Display		name	object	Empty Display
-Kualti Daggers		name	object	Kualti Daggers
-Kualti Dagger		name	object	Kualti Dagger
-Kourend Shield		name	object	Kourend Shield
-Royal Accord of Twill		name	object	Royal Accord of Twill
-Icon of Ralos		name	object	Icon of Ralos
-Column of Kourend		name	object	Column of Kourend
-Column of Imafore's Betrayal		name	object	Column of Imafore's Betrayal
-Armour of the Cloud Titan		name	object	Armour of the Cloud Titan
-Old One Statue		name	object	Old One Statue
-Fang of the Colossal Wyrm		name	object	Fang of the Colossal Wyrm
-Statue of King Maximus		name	object	Statue of King Maximus
-Statue of Queen Zyanyi		name	object	Statue of Queen Zyanyi
-Statue of Prince Itzla		name	object	Statue of Prince Itzla
-Statue of Freja		name	object	Statue of Freja
-Statue of Emperor Imafore		name	object	Statue of Emperor Imafore
-Libation bowl		name	object	Libation bowl
-Exposed altar		name	object	Exposed altar
-Unbuilt Landing Site		name	object	Unbuilt Landing Site
-Cat bed		name	object	Cat bed
-Leafy bush		name	object	Leafy bush
-Rough-looking bush		name	object	Rough-looking bush
-Crypt staircase		name	object	Crypt staircase
-Unlit brazier		name	object	Unlit brazier
-Trail of chocolate		name	object	Trail of chocolate
-Pile of chocolate		name	object	Pile of chocolate
-Easter egg rock		name	object	Easter egg rock
-Easter mine cart		name	object	Easter mine cart
-Pile of eggs		name	object	Pile of eggs
-Giant egg		name	object	Giant egg
-Stolen Eggs		name	object	Stolen Eggs
-Pile of fake eggs		name	object	Pile of fake eggs
-Giant display egg		name	object	Giant display egg
-Display Eggs		name	object	Display Eggs
-Easter tree		name	object	Easter tree
-Egg Plinth		name	object	Egg Plinth
-Zombie Pirate's Locker		name	object	Zombie Pirate's Locker
-Agility dispenser		name	object	Agility dispenser
-Heavy chest		name	object	Heavy chest
-Scuffed chest		name	object	Scuffed chest
-Kit's boxes		name	object	Kit's boxes
-Kit's books		name	object	Kit's books
-Kit's bag		name	object	Kit's bag
+Alarm button	アラームのボタン	name	object	Alarm button
+Yewnock's machine	ユーノックの機械	name	object	Yewnock's machine
+Yewnock's exchanger	ユーノックの交換器	name	object	Yewnock's exchanger
+Sewer exit	下水の出口	name	object	Sewer exit
+Gas	ガス	name	object	Gas
+Gas jet	ガスジェット	name	object	Gas jet
+Sewer entrance	下水の入口	name	object	Sewer entrance
+Secure door	固定されたドア	name	object	Secure door
+Warped tree roots	歪んだ木の根	name	object	Warped tree roots
+Parted tree roots	裂けた木の根	name	object	Parted tree roots
+Amalgamation	融合物	name	object	Amalgamation
+Ventriculus opening	異の開口部	name	object	Ventriculus opening
+Extract orifice	抽出口	name	object	Extract orifice
+Essence orifice	エッセンスの開口部	name	object	Essence orifice
+Forester's Campfire	森林官のキャンプファイアー	name	object	Forester's Campfire
+End of Rainbow	虹のふもと	name	object	End of Rainbow
+Clovers	クローバー	name	object	Clovers
+Pheasant Nest	キジの巣	name	object	Pheasant Nest
+Fiery Ornate Pool of Rejuvenation	火の華麗な再生の飲み場	name	object	Fiery Ornate Pool of Rejuvenation
+Info Board	情報掲示板	name	object	Info Board
+Snow shark	雪サメ	name	object	Snow shark
+Varrock Census	バロックの都市調査	name	object	Varrock Census
+Red mist	赤い霧	name	object	Red mist
+Balcony	バルコニー	name	object	Balcony
+Imposing doors	印象的なドア	name	object	Imposing doors
+Scroll holders	巻物入れ	name	object	Scroll holders
+Broken scroll holders	壊れた巻物入れ	name	object	Broken scroll holders
+Cave-in	陥没	name	object	Cave-in
+Dais	ダイス	name	object	Dais
+Decorations	装飾	name	object	Decorations
+Stone boat	石のボート	name	object	Stone boat
+Uninviting hole	魅力的でない穴	name	object	Uninviting hole
+Blue tile	青いタイル	name	object	Blue tile
+Red tile	赤いタイル	name	object	Red tile
+Green tile	緑のタイル	name	object	Green tile
+Yellow tile	黄色いタイル	name	object	Yellow tile
+Blue block	青いブロック	name	object	Blue block
+Red block	赤いブロック	name	object	Red block
+Green block	緑のブロック	name	object	Green block
+Yellow block	黄色ブロック	name	object	Yellow block
+Regal chair	豪華な椅子	name	object	Regal chair
+Spiced wine	香辛料入りワイン	name	object	Spiced wine
+Broken jug	壊れた水差し	name	object	Broken jug
+Pot of wheat	麦の土鍋	name	object	Pot of wheat
+Broken pot	壊れた鍋	name	object	Broken pot
+Regal table	豪華なテーブル	name	object	Regal table
+Statue base	像のベース	name	object	Statue base
+Ushabti	ウシャブティ	name	object	Ushabti
+Amascut statue	アマスカット像	name	object	Amascut statue
+Apmeken statue	アプメケン像	name	object	Apmeken statue
+Crondis statue	クロンジス像	name	object	Crondis statue
+Het statue	ヘット像	name	object	Het statue
+Icthlarin statue	イクスラリンの像	name	object	Icthlarin statue
+Scabaras statue	スカラバス像	name	object	Scabaras statue
+Broken statue	壊れた像	name	object	Broken statue
+Tumeken statue	ツメケン像	name	object	Tumeken statue
+Sconce	照明器具	name	object	Sconce
+Barrel stack	積まれた樽	name	object	Barrel stack
+Blackstone	ブラックストーン	name	object	Blackstone
+Weapon table	武器のテーブル	name	object	Weapon table
+Human detection spell	人間検知の魔法	name	object	Human detection spell
+Caged Killerwatt	檻に捕らわれたキラーワット	name	object	Caged Killerwatt
+Mounted Dizana's Max Cape	装着されたディザナのマックス・マント	name	object	Mounted Dizana's Max Cape
+Civitas illa Fortis Portal	シビリタス・イラ・フォーチスのポータル	name	object	Civitas illa Fortis Portal
+Molten Sand	融解した砂	name	object	Molten Sand
+Colosseum scoreboard	闘技場の得点板	name	object	Colosseum scoreboard
+Colosseum entrance	闘技場の入口	name	object	Colosseum entrance
+Building Supplies	建築資材	name	object	Building Supplies
+Camp spot	キャンプのスポット	name	object	Camp spot
+Landing Site	着陸地点	name	object	Landing Site
+Pile of equipment	装備品の山	name	object	Pile of equipment
+Lily pad	スイレンの葉	name	object	Lily pad
+Capybara Dung	カピバラのフン	name	object	Capybara Dung
+Moonfire	ムーンファイアー	name	object	Moonfire
+Blue Moon Brazier	ブルームーンの火鉢	name	object	Blue Moon Brazier
+Lunar Chest	ルーナの宝箱	name	object	Lunar Chest
+Lizard trap	トカゲの罠	name	object	Lizard trap
+Cooking stove	料理ストーブ	name	object	Cooking stove
+Camp barrier	キャンプバリア	name	object	Camp barrier
+Grubby sapling	汚い若木	name	object	Grubby sapling
+Stream	川	name	object	Stream
+Supply crates	物資箱	name	object	Supply crates
+Monolith	モノリス	name	object	Monolith
+Blood Mural	血の壁画	name	object	Blood Mural
+Ancient gate	古のゲート	name	object	Ancient gate
+Blue Mural	青い壁画	name	object	Blue Mural
+Eclipse Mural	月食の壁画	name	object	Eclipse Mural
+Ancient fountainhead	古代の水源	name	object	Ancient fountainhead
+Calcified rocks	石炭化した石	name	object	Calcified rocks
+Forge	炉	name	object	Forge
+Dispenser	ディスペンサー	name	object	Dispenser
+Herbalist stall	漢方医の屋台	name	object	Herbalist stall
+Pickaxe stall	ツルハシの屋台	name	object	Pickaxe stall
+Barrel of ale	エールの樽	name	object	Barrel of ale
+The Lost Pickaxe	失われたツルハシ	name	object	The Lost Pickaxe
+Posters & notices	ポスターと通知	name	object	Posters & notices
+Pickaxe of the Lost	失われし者のツルハシ	name	object	Pickaxe of the Lost
+Moonlight Antelope Trophy	月光アンテロープのトロフィー	name	object	Moonlight Antelope Trophy
+Guildmaster's chest	ギルドマスターの宝箱	name	object	Guildmaster's chest
+Beer taps	ハチトラップ	name	object	Beer taps
+Food basket	食べ物カゴ	name	object	Food basket
+Empty Food basket	空の食べ物カゴ	name	object	Empty Food basket
+Empty Food Pot	空の食糧鍋	name	object	Empty Food Pot
+Empty Food Barrel	空の食糧樽	name	object	Empty Food Barrel
+Quetzal Nest	クエッツァルの巣	name	object	Quetzal Nest
+Landing Spot	着地地点	name	object	Landing Spot
+Acacia tree	アカシアの木	name	object	Acacia tree
+Stonepine tree	カラカサマツの木	name	object	Stonepine tree
+Spikey bush	トゲの低木	name	object	Spikey bush
+Stolen cabbage	盗まれたキャベツ	name	object	Stolen cabbage
+Ravine	渓谷	name	object	Ravine
+Wolf Den	オオカミの巣	name	object	Wolf Den
+Statue of Quoatlos	コアトロス像	name	object	Statue of Quoatlos
+Statue of Xerna	ゼーナ像	name	object	Statue of Xerna
+Statue of Atlazora	アトラゾラ像	name	object	Statue of Atlazora
+Statue of Marhuitz	マーフイッツ像	name	object	Statue of Marhuitz
+Statue of Dizana	ディザナ像	name	object	Statue of Dizana
+Statue of Taur	トー像	name	object	Statue of Taur
+Glass case	ガラスケース	name	object	Glass case
+Jewellery case	宝石ケース	name	object	Jewellery case
+Bird bath	バードバス	name	object	Bird bath
+Shrine of Ralos	ラロスの聖堂	name	object	Shrine of Ralos
+Shrine of Ranul	ラヌルの聖堂	name	object	Shrine of Ranul
+Ale Barrel	エールの樽	name	object	Ale Barrel
+Boardgame	ボードゲーム	name	object	Boardgame
+Pillows	枕	name	object	Pillows
+Cypress Tree	イトスギの木	name	object	Cypress Tree
+Potted fan	植木鉢のスカエボラ	name	object	Potted fan
+Royal throne	王座	name	object	Royal throne
+Beds	ベッド	name	object	Beds
+Dairy Buffalo	乳バッファロー	name	object	Dairy Buffalo
+Plushie	ぬいぐるみ	name	object	Plushie
+Fishing boat	釣りのボート	name	object	Fishing boat
+Empty display	空の展示	name	object	Empty display
+Dizana's Quiver	ディザナの矢筒	name	object	Dizana's Quiver
+Crown of Ralos	ラロスの冠	name	object	Crown of Ralos
+Cloak of Ranul	ラヌルのマント	name	object	Cloak of Ranul
+Empty Display	空の展示	name	object	Empty Display
+Kualti Daggers	クアルチの短剣	name	object	Kualti Daggers
+Kualti Dagger	クアルチの短剣	name	object	Kualti Dagger
+Kourend Shield	クーレンドの盾	name	object	Kourend Shield
+Royal Accord of Twill	ツイルの王室協定	name	object	Royal Accord of Twill
+Icon of Ralos	ラオスの偶像	name	object	Icon of Ralos
+Column of Kourend	クーレンドの柱	name	object	Column of Kourend
+Column of Imafore's Betrayal	イマフォーの裏切りの柱	name	object	Column of Imafore's Betrayal
+Armour of the Cloud Titan	クラウド・タイタンの鎧	name	object	Armour of the Cloud Titan
+Old One Statue	古いモノの像	name	object	Old One Statue
+Fang of the Colossal Wyrm	巨大ヒドラの牙	name	object	Fang of the Colossal Wyrm
+Statue of King Maximus	マクシマス王の像	name	object	Statue of King Maximus
+Statue of Queen Zyanyi	ジアニー女王の像	name	object	Statue of Queen Zyanyi
+Statue of Prince Itzla	イツズラ王子の像	name	object	Statue of Prince Itzla
+Statue of Freja	フレジャの像	name	object	Statue of Freja
+Statue of Emperor Imafore	イマフォー皇帝の像	name	object	Statue of Emperor Imafore
+Libation bowl	献酒のボール	name	object	Libation bowl
+Exposed altar	露出した祭壇	name	object	Exposed altar
+Unbuilt Landing Site	未建築の着陸地点	name	object	Unbuilt Landing Site
+Cat bed	ネコのベッド	name	object	Cat bed
+Leafy bush	葉がたくさん茂る低木	name	object	Leafy bush
+Rough-looking bush	荒々しそうな低木	name	object	Rough-looking bush
+Crypt staircase	地下への階段	name	object	Crypt staircase
+Unlit brazier	未点火の火鉢	name	object	Unlit brazier
+Trail of chocolate	チョコレートの跡	name	object	Trail of chocolate
+Pile of chocolate	チョコレートの山	name	object	Pile of chocolate
+Easter egg rock	イースターエッグの岩	name	object	Easter egg rock
+Easter mine cart	イースターのトロッコ	name	object	Easter mine cart
+Pile of eggs	卵の山	name	object	Pile of eggs
+Giant egg	巨大な卵	name	object	Giant egg
+Stolen Eggs	盗まれた卵	name	object	Stolen Eggs
+Pile of fake eggs	偽の卵の山	name	object	Pile of fake eggs
+Giant display egg	巨大な卵の展示	name	object	Giant display egg
+Display Eggs	展示用卵	name	object	Display Eggs
+Easter tree	イースターの木	name	object	Easter tree
+Egg Plinth	卵の台座	name	object	Egg Plinth
+Zombie Pirate's Locker	海賊ゾンビのロッカー	name	object	Zombie Pirate's Locker
+Agility dispenser	トレーニング・ディスペンサー	name	object	Agility dispenser
+Heavy chest	思い宝箱	name	object	Heavy chest
+Scuffed chest	こすり傷の付いた宝箱	name	object	Scuffed chest
+Kit's boxes	キットの箱	name	object	Kit's boxes
+Kit's books	キットの本	name	object	Kit's books
+Kit's bag	キットのカバン	name	object	Kit's bag

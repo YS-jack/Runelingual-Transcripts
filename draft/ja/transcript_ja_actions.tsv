@@ -11,9 +11,9 @@ Reset	リセット	actions	npc	Hangman game
 Hit	を当てる	actions	npc	Combat stone
 Dismiss	解任する	actions	npc	Dr Jekyll
 Rewards	報酬	actions	npc	Emblem Trader
-Skull	ドクロを付与	actions	npc	Emblem Trader
+Skull	頭蓋骨	actions	npc	Emblem Trader
 Pay	に支払う	actions	npc	Ayesha
-Armour	から防具をもらう	actions	npc	Ironman tutor
+Armour	鎧	actions	npc	Ironman tutor
 Check-pets	でペットを確認	actions	npc	Leagues Tutor
 Collect-items	でアイテムを回収	actions	npc	Leagues Tutor
 Claim-trophies	でトロフィーを回収	actions	npc	Leagues Tutor
@@ -33,11 +33,11 @@ Search	探す	actions	npc	Entomologist
 Confront	対峙する	actions	npc	Mi-Gor
 Transport	で移動	actions	npc	Brother Tranquility
 Intimidate	を脅す	actions	npc	Zombie swab
-Fish	で釣る	actions	npc	Fishing spot
+Fish	魚	actions	npc	Fishing spot
 Smash-ice	氷を砕く	actions	npc	Ice block
 Shear	の毛を刈る	actions	npc	Sheep
 Knock-Out	を気絶させる	actions	npc	Bandit
-Bank	銀行にアクセス	actions	npc	Banker
+Bank	銀行	actions	npc	Banker
 Collect	からアイテムを回収	actions	npc	Banker
 Check-Approval	と支持率を確認	actions	npc	Arnor
 Tuxedo-time	タキシードタイム	actions	npc	Larry
@@ -70,9 +70,9 @@ Walk-past	の横を通り過ぎる	actions	npc	Eagle
 Threaten	を脅す	actions	npc	Kebbit
 Small Net	で小さい漁網で釣る	actions	npc	Fishing spot
 Net	で網で釣る	actions	npc	Fishing spot
-Ammo	で弾を作成	actions	npc	Leon
-Cage	カゴで釣る	actions	npc	Fishing spot
-Harpoon	でもりで釣る	actions	npc	Fishing spot
+Ammo	大砲弾	actions	npc	Leon
+Cage	カゴ	actions	npc	Fishing spot
+Harpoon	もり	actions	npc	Fishing spot
 Big Net	で大きな魚網で釣る	actions	npc	Fishing spot
 Use-rod	竿を使う	actions	npc	Fishing spot
 Escort	をエスコート	actions	npc	Smiddi Ryak (hard)
@@ -95,8 +95,8 @@ Jatizso	でジャチゾへ移動	actions	npc	Mord Gunnars
 Watch-shouting	の口喧嘩を観る	actions	npc	Guard
 Kick	を蹴る	actions	npc	Bed
 Claim-Tokens	からトークンを請求	actions	npc	Lorelai
-History	と履歴を確認	actions	npc	Grand Exchange Clerk
-Sets	とセットを確認	actions	npc	Grand Exchange Clerk
+History	歴史	actions	npc	Grand Exchange Clerk
+Sets		actions	npc	Grand Exchange Clerk
 Prices	と値段を確認	actions	npc	Brugsen Bursen
 Exchange fire cape	とファイアーケープを交換	actions	npc	TzHaar-Mej-Jal
 Destroy	を破壊	actions	npc	Door-support
@@ -124,7 +124,7 @@ Tease	を挑発する	actions	npc	Sabre-toothed kyatt
 Leave	で去る	actions	npc	Squire
 Claim-slime	にスライムを請求	actions	npc	Robin
 Use	を使う	actions	npc	Portal
-Exit	から出る	actions	npc	Portal
+Exit	出口	actions	npc	Portal
 Relocate	で再配置	actions	npc	Estate agent
 Redecorate	で模様替え	actions	npc	Estate agent
 Buy-plank	から板を購入	actions	npc	Sawmill operator
@@ -133,7 +133,7 @@ Tackle	タックル	actions	npc	Gnome baller
 Pass-to	にパス	actions	npc	Gnome winger
 Claim	回収	actions	npc	Ranged combat tutor
 Buy	から購入	actions	npc	Fadli
-Heal	で回復	actions	npc	A'abla
+Heal	回復	actions	npc	A'abla
 Stroke	をなでる	actions	npc	Gertrude's cat
 Climb-over	を登る	actions	npc	Pile of bones
 Melt	を融かす	actions	npc	Crust of ice
@@ -145,7 +145,7 @@ Pay-Fare	に運賃を支払う	actions	npc	Customs officer
 Go-inside	中へ入る	actions	npc	House
 Pirate's Cove	と海賊の隠れ家へ移動	actions	npc	Lokar Searunner
 Deposit-items	でアイテムを預ける	actions	npc	Peer the Seer
-Miscellania	ミセラニアへ移動	actions	npc	Sailor
+Miscellania	ミセラニア	actions	npc	Sailor
 Prod	を突く	actions	npc	Red Sheep
 Return-Home	で帰還する	actions	npc	Bill Teach
 Devices	デバイスを購入	actions	npc	Ava
@@ -153,18 +153,18 @@ Chop	を切る	actions	npc	Undead tree
 Roll	を転がす	actions	npc	Boulder
 Watch	を眺める	actions	npc	Mercenary Captain
 Buy-pass	からパスを購入	actions	npc	Shantay
-Pass	パス	actions	npc	Shantay Guard
+Pass		actions	npc	Shantay Guard
 Fly	飛ぶ	actions	npc	Auguste
 Decant	移し替える	actions	npc	Zahur
 Clean	綺麗にする	actions	npc	Zahur
 Make unfinished potion(s)	に未完成の薬液を調合	actions	npc	Zahur
 Shoot	撃つ	actions	npc	Target
 Shop	店	actions	npc	Ezekial Lovecraft
-Board	に乗る	actions	npc	Ogre boat
+Board	ボード	actions	npc	Ogre boat
 Potions	薬液	actions	npc	Apothecary
 Grab-feather	羽を取る	actions	npc	Desert Phoenix
 Take-from	から取る	actions	npc	Jig cart
-Coffer	前払い金を確認	actions	npc	Yohnus
+Coffer	前払い金	actions	npc	Yohnus
 Call-Over	を呼ぶ	actions	npc	Zombie
 Insult	を侮辱する	actions	npc	Zombie
 Scare	を怖がらせる	actions	npc	Zombie
@@ -173,7 +173,7 @@ Burn	を燃やす	actions	npc	Barricade
 Extinguish	を消火	actions	npc	Barricade
 Quick-withdraw	即引き出し	actions	npc	Elnock Inquisitor
 Check-gates	ゲートを確認	actions	npc	Wandering impling
-Sand	砂を請求	actions	npc	Bert
+Sand	砂	actions	npc	Bert
 Request-supplies	資源をリクエスト	actions	npc	Bork Sigmundson
 Listen	聴く	actions	npc	Key Master
 Check	確認	actions	npc	Probita
@@ -182,7 +182,7 @@ Toggle Counter	カウンターの切り替え	actions	npc	Grace
 Tap	タップ	actions	npc	Skullball
 Show-Goal	ゴールを見せる	actions	npc	Skullball
 Give-Stick	棒を渡す	actions	npc	Agility Trainer
-Waterbirth Island	でウオーターバース島へ移動	actions	npc	Jarvald
+Waterbirth Island	ウオーターバース島	actions	npc	Jarvald
 Take-flyer	からビラをもらう	actions	npc	Ali the Leaflet Dropper
 Trade-with	と取引	actions	npc	Rewards Guardian
 Trade-Co-op	とCo-opを売買	actions	npc	Gabooty
@@ -217,15 +217,15 @@ Contract	と契約	actions	npc	Amy
 Port Sarim	とサリム港へ移動	actions	npc	Captain Magoro
 Port Piscarilius	とピスカリリウス港へ移動	actions	npc	Captain Magoro
 Feed	に餌を与える	actions	npc	Lux grub
-Douse	を消火	actions	npc	Fire
+Douse	消火	actions	npc	Fire
 Cut	を切る	actions	npc	Meat tree
 Smash	を砕く	actions	npc	Jewelled Crab
 Claim-cape	からマントを請求	actions	npc	Captain Rimor
 Set-difficulty	難易度を設定	actions	npc	Captain Rimor
 Fight	と戦う	actions	npc	Abigale
-Bars	で延べ棒の状態を設定	actions	npc	Pirate Jackie the Fruit
+Bars	延べ棒	actions	npc	Pirate Jackie the Fruit
 Toggle-minerals	でミネラルの切り替え	actions	npc	Belona
-Kitten	から子猫を買う	actions	npc	Gertrude
+Kitten	子猫	actions	npc	Gertrude
 Toggle-vials	で試薬瓶の処理を切り替える	actions	npc	Barbarian guard
 Redeem-code	でコードを引き換える	actions	npc	Recruiter
 Purchase Amulet	からアミュレットを購入	actions	npc	Wizard Mizgog
@@ -301,7 +301,7 @@ Leave-tutorial	チュートリアルから離脱	actions	npc	Nomad
 Fill	を満たす	actions	npc	Ammunition crate
 Check-ammo	弾数を確認	actions	npc	Ammunition crate
 Forfeit	降参する	actions	npc	Captain Pudi
-Locks	ロック	actions	npc	Dampe
+Locks		actions	npc	Dampe
 Take-net	ネットをもらう	actions	npc	Spirit Angler
 Ferry	乗船	actions	npc	Ferryman Sathwood
 Awaken	覚醒	actions	npc	Rubble
@@ -341,7 +341,7 @@ Charter-to Aldarin	とアルダリンまで契約	actions	npc	Trader Stan
 Charter-to Sunset Coast	とサンセット・コーストまで契約	actions	npc	Trader Stan
 Charter-to Tempestus	とテンペスタスまで契約	actions	npc	Trader Stan
 Start-wave	ウェーブ開始	actions	npc	Minimus
-Scoreboard	得点版	actions	npc	Eyatlalli
+Scoreboard	得点板	actions	npc	Eyatlalli
 Rumour	ルーマー	actions	npc	Huntmaster Gilman (Novice)
 Rumour-settings	ルーマー設定	actions	npc	Guild Scribe Verity
 Fur-clothing	に革製品作成を依頼	actions	npc	Pellem
@@ -352,7 +352,7 @@ Search	探す	actions	object	Crate
 Enter	入る	actions	object	Cave Entrance
 Open	開く	actions	object	Door
 Inspect	を調べる	actions	object	Broken multicannon
-Fire	を放つ	actions	object	Dwarf multicannon
+Fire	火	actions	object	Dwarf multicannon
 Pick-up	を拾う	actions	object	Dwarf multicannon
 Empty	を空にする	actions	object	Dwarf multicannon
 Climb-down	で下りる	actions	object	Ladder
@@ -361,7 +361,7 @@ Climb-over	を登る	actions	object	Rock pile
 Prod	を突く	actions	object	Sacks
 Pull	を引く	actions	object	Lever
 Go-through	を通る	actions	object	Gate
-Fish	で釣る	actions	object	Fishing spot
+Fish	魚	actions	object	Fishing spot
 Squeeze-through	押し通る	actions	object	Loose Railing
 Check	確認	actions	object	Vine
 Pray-at	で祈る	actions	object	Chaos altar
@@ -372,7 +372,7 @@ Cross	を渡る	actions	object	Gangplank
 Knock-at	をたたく	actions	object	Large door
 Search for traps	罠を探す	actions	object	Lever
 Shut	を閉じる	actions	object	Open chest
-Cook	で料理	actions	object	Cooking range
+Cook	料理人	actions	object	Cooking range
 Burst	を割る	actions	object	Party Balloon
 Jump-up	跳びあがる	actions	object	Rocks
 Operate	を操作	actions	object	Winch
@@ -385,7 +385,7 @@ Private	専用	actions	object	Crevice
 Jump	ジャンプ	actions	object	Broken Fence
 Steal-from	から盗む	actions	object	Tea stall
 Take	取る	actions	object	Small fishing net
-Exit	から出る	actions	object	Cave exit
+Exit	出口	actions	object	Cave exit
 Suck	を吸う	actions	object	Swamp bubbles
 Reset	リセット	actions	object	Shaking box
 Slash	切り裂く	actions	object	Web
@@ -398,7 +398,7 @@ Take-1	から１個取る	actions	object	Bandage table
 Take-5	から５個取る	actions	object	Bandage table
 Take-10	から１０個取る	actions	object	Bandage table
 Commune	交信する	actions	object	Lever
-Board	に乗る	actions	object	Log raft
+Board	ボード	actions	object	Log raft
 Swim to	まで泳ぐ	actions	object	Rock
 Take treasure	宝を取る	actions	object	Chalice
 Climb	に乗る	actions	object	Dead Tree
@@ -415,7 +415,7 @@ Craft	作る	actions	object	Smashed table
 Disembark	下船する	actions	object	Crude raft
 Pay-fare	に運賃を支払う	actions	object	Travel cart
 Listen-at	聴く	actions	object	Grill
-Pan	でフルイにかける	actions	object	Panning point
+Pan	フライパン	actions	object	Panning point
 Shoot	撃つ	actions	object	Gnome goal
 Deposit	に預ける	actions	object	Chest
 Climb-on	にまたがる	actions	object	Barrel
@@ -451,11 +451,11 @@ search	探す	actions	object	Desk
 Smash-to-bits	粉砕	actions	object	Boulder
 Jump-over	を飛び越える	actions	object	Jagged wall
 Look	を見る	actions	object	Carved rock
-Lift	を持ち上げる	actions	object	Totem pole
+Lift	エレベーター	actions	object	Totem pole
 Shake	を揺らす	actions	object	Leafy Palm Tree
 Cut down	を切り倒す	actions	object	Arctic pine tree
 Forfeit	降参する	actions	object	Entrance
-Bank	銀行にアクセス	actions	object	Open chest
+Bank	銀行	actions	object	Open chest
 Buy	から購入	actions	object	Crate
 Pass-through	を通り抜ける	actions	object	Tunnel
 Descend	を降りる	actions	object	Cave
@@ -472,10 +472,10 @@ Swing-on	振り渡る	actions	object	Rope swing
 Jump-on	ジャンプ	actions	object	Pillar
 Tag	タッチ	actions	object	Ticket Dispenser
 Climb-across	登って渡る	actions	object	Hand holds
-Toggle-warning	警告表示を切り替える	actions	object	Cave entrance
+Toggle-warning		actions	object	Cave entrance
 Dump	捨てる	actions	object	Compost Bin
 Step-over	またいで渡る	actions	object	Tripwire
-Pass	を通り越す	actions	object	Sticks
+Pass		actions	object	Sticks
 Reinforce	強化する	actions	object	Temple wall
 Light	灯す	actions	object	Fire altar
 Summon	召喚	actions	object	Strange altar
@@ -485,10 +485,10 @@ Spin	回す	actions	object	Spinning wheel
 Capture	とらえる	actions	object	Standard Stand
 Jump-to	までジャンプ	actions	object	Stepping stone
 Collapse	崩す	actions	object	Cave wall
-Lock	のカギを閉める	actions	object	Door
+Lock	カギ	actions	object	Door
 View	を見る	actions	object	Scoreboard
 View Stats	ステータスを見る	actions	object	Scoreboard
-Build	組み立てる	actions	object	Chair space
+Build	を組み立てる	actions	object	Chair space
 Remove board advert	ボードの告知を取る	actions	object	Portal
 Remove-room	部屋を削除	actions	object	Dungeon entrance
 Jump-across	飛び越える	actions	object	Basalt rock
@@ -525,17 +525,17 @@ Sit-on	に座る	actions	object	Chair
 Upgrade	を強化する	actions	object	Tools
 Work-at	で作業する	actions	object	Workbench
 Make-helmet	鉄兜を作成	actions	object	Helmet pluming stand
-Ring	を鳴らす	actions	object	Bell
+Ring	鳴らす	actions	object	Bell
 Quick-board	すぐに乗る	actions	object	Swamp Boaty
 Ride	に乗る	actions	object	Train cart
 Observe	眺める	actions	object	Telescope
 Leave-area	離脱	actions	object	Ladder
-Crack	こじ開ける	actions	object	Wall safe
+Crack	ひび	actions	object	Wall safe
 Pull-spade	シャベルを抜く	actions	object	Stone Door
 Guide	ガイド	actions	object	Belladonna patch
 Rake	かく	actions	object	Belladonna patch
 Cure	治す	actions	object	Diseased Belladonna
-Clear	取り除く	actions	object	Dead Belladonna
+Clear	をキレイにする	actions	object	Dead Belladonna
 Check-health	健康状態を確認	actions	object	Cadavaberry bush
 Prune	をせん定	actions	object	Diseased cadavaberry bush
 Pick-spine	のトゲを収穫	actions	object	Cactus
@@ -566,8 +566,8 @@ Chip	削る	actions	object	Dense runestone
 Hack	切り開く	actions	object	Light Jungle
 Quick-Pay(100)	すぐに支払う（１００）	actions	object	Hardwood Grove Doors
 Refuel	燃料を入れる	actions	object	Stove
-Retrieve	を回収	actions	object	Bars
-Pedal	を踏む	actions	object	Pedals
+Retrieve	を呼び戻す	actions	object	Bars
+Pedal	ペダル	actions	object	Pedals
 Put-ore-on	に鉱石を置く	actions	object	Conveyor belt
 Fill-bucket	でバケツを満たす	actions	object	Sink
 Take-seed	から種を取る	actions	object	Roses
@@ -584,7 +584,7 @@ Exchange	と交換	actions	object	Grand Exchange booth
 Lure	にルアーを落とす	actions	object	Ominous Fishing Spot
 Bait	に餌を落とす	actions	object	Ominous Fishing Spot
 Fish-In	で釣る	actions	object	Aquarium
-Count	数える	actions	object	Pressure Barrel
+Count		actions	object	Pressure Barrel
 Swim	で泳ぐ	actions	object	River
 Look-up	上を見る 	actions	object	Trellis
 Spectate	観戦	actions	object	Rat wall
@@ -605,7 +605,7 @@ Balance	バランスをとって渡る	actions	object	Narrow wall
 Teeth-grip	かみしめる	actions	object	Zip line
 Drain	排水	actions	object	Barrel
 Churn	をカクハン	actions	object	Dairy churn
-Zanaris	でザナリスへ移動	actions	object	Fairy ring
+Zanaris		actions	object	Fairy ring
 Configure	を設定	actions	object	Fairy ring
 Last-destination (AIP)	で前の目的地へ（AIP）	actions	object	Fairy ring
 Escape	離脱	actions	object	Cave entrance
@@ -666,7 +666,7 @@ Teleport to Destination	目的地へワープ	actions	object	Obelisk
 Set Destination	の目的地を設定	actions	object	Obelisk
 Hurdle	飛び越える	actions	object	Ledge
 Jump-off	飛び降りる	actions	object	Edge
-Vault	飛び越える	actions	object	Pole-vault
+Vault	金庫	actions	object	Pole-vault
 Jump-in	の中へジャンプ	actions	object	Pile of fish
 Take-pickaxe	からツルハシを取る	actions	object	Rocks
 Use-Lift	エレベーターを使う	actions	object	Platform
@@ -684,9 +684,9 @@ Pick Banana	からバナナを収穫	actions	object	Strange banana tree
 Throw	を投げる	actions	object	Shot
 Unblock	開ける	actions	object	Tunnel
 Take-Rum	ラム酒を取る	actions	object	Conveyor Belt
-Pump	を動かす	actions	object	Steam Pump
+Pump	ポンプ	actions	object	Steam Pump
 Vent	排気口	actions	object	Steam Pump
-Take-Log	から丸太を取る	actions	object	Log Store
+Take-Log		actions	object	Log Store
 Take-Tool	から道具を取る	actions	object	Workbench
 Cut-Down	を切り倒す	actions	object	Jungle tree
 Pay-toll(2-Ecto)	に支払う（２エクトー）	actions	object	Energy Barrier
@@ -713,7 +713,7 @@ Fix	を直す	actions	object	Bellows
 Bend	を曲げる	actions	object	Cell wall window
 Steal	盗む	actions	object	Candles
 Deactivate	無効化する	actions	object	Magic box
-Trap	に罠を仕掛ける	actions	object	Pit
+Trap	罠	actions	object	Pit
 Flush	追い出す	actions	object	Rabbit hole
 Shout-over	叫ぶ	actions	object	Rockslide
 Pull-down	下げる	actions	object	Eagle lever
@@ -737,7 +737,7 @@ Load	装填	actions	object	Egg hopper
 Evade	を回避	actions	object	Trap
 Disable	を無力化	actions	object	Trap
 Harpoon	もり	actions	object	Fishing spot
-Cage	カゴで釣る	actions	object	Fishing spot
+Cage	カゴ	actions	object	Fishing spot
 Leave Tomb	墓を後にする	actions	object	Tomb Door
 Quick-leave	即離脱	actions	object	Tomb Door
 Tread-softly	丁寧に扱う	actions	object	Icicles
@@ -765,11 +765,11 @@ Clean	綺麗にする	actions	object	Specimen table
 Talk-into	に話しかける	actions	object	Drain Pipe
 Wind-up	を巻く	actions	object	Gramophone
 Turn-Off	を切る	actions	object	Gramophone
-Climb up	を上る	actions	object	Beard
+Climb up		actions	object	Beard
 Exit-through	を通って出る	actions	object	Fire rift
 Push-through	押し進む	actions	object	Magical wheat
 Dive in	に飛び込む	actions	object	Whirlpool
-Construct	を建てる	actions	object	Pyre site
+Construct		actions	object	Pyre site
 Rummage	を探し回る	actions	object	Skeleton
 Burn-down	燃やし落とす	actions	object	Boil
 Take From	から取る	actions	object	Barrel of flour
@@ -787,7 +787,7 @@ Claim-staves	杖を請求	actions	object	Barrel
 Climb-off	から降りる	actions	object	Ice bridge
 Crawl	這う	actions	object	Cave
 Join	参加	actions	object	Challenge portal
-Hammer	ハンマーで叩く	actions	object	Broken strut
+Hammer	ハンマー	actions	object	Broken strut
 Toggle K/D	K/Dを切り替える	actions	object	Wilderness Statistics
 Make-raft	イカダを作る	actions	object	Old log
 Weiss	ウェイス	actions	object	Portal Nexus
@@ -797,7 +797,7 @@ Toggle XP	XP切り替え	actions	object	Deadman chest
 Take-X	X個取る	actions	object	Meat table
 Serve	配膳	actions	object	Buffet table
 Water	水をあげる	actions	object	Golovanova seedling
-Bind	で魔力封入	actions	object	Blood Altar
+Bind		actions	object	Blood Altar
 Venerate	崇拝する	actions	object	Dark Altar
 Take-remains	から遺体を取る	actions	object	Kruk
 Scale	を登る	actions	object	Rocks
@@ -820,7 +820,7 @@ Jars	瓶	actions	object	Boss lair display
 Perks	特性	actions	object	Mounted Max Cape
 Spellbook	で魔導書を変更	actions	object	Mounted Magic Cape
 Clip	切り取る	actions	object	Topiary bush
-Feed	に燃料を与える	actions	object	Burning brazier
+Feed	に餌を与える	actions	object	Burning brazier
 Take-hammer	からハンマーを取る	actions	object	Crate
 Take-knife	からナイフを取る	actions	object	Crate
 Take-tinderbox	から火口箱を取る	actions	object	Crate
@@ -887,7 +887,7 @@ Last-destination (BJP)	で前の目的地へ（BJP）	actions	object	Fairy ring
 Last-destination (BJS)	で前の目的地へ（BJS）	actions	object	Fairy ring
 Last-destination (BJR)	で前の目的地へ（BJR）	actions	object	Fairy ring
 Last-destination (BJQ)	で前の目的地へ（BJQ）	actions	object	Fairy ring
-Tree	精霊樹	actions	object	Spiritual Fairy Tree
+Tree	木	actions	object	Spiritual Fairy Tree
 Ring-Zanaris	輪でザナリスへ	actions	object	Spiritual Fairy Tree
 Ring-configure	輪の設定	actions	object	Spiritual Fairy Tree
 Ring-last-destination (AIP)	輪で前の目的地へ（AIP）	actions	object	Spiritual Fairy Tree
@@ -955,15 +955,15 @@ Ring-last-destination (BJS)	輪で前の目的地へ（BJS）	actions	object	Spi
 Ring-last-destination (BJR)	輪で前の目的地へ（BJR）	actions	object	Spiritual Fairy Tree
 Ring-last-destination (BJQ)	輪で前の目的地へ（BJQ）	actions	object	Spiritual Fairy Tree
 Craft-rune	でルーン工作	actions	object	Altar
-Fuel	に燃料を加える	actions	object	Brazier
+Fuel		actions	object	Brazier
 Dispel	を消し去る	actions	object	Shimmering barrier
-Shared	共有	actions	object	Small storage unit
+Shared		actions	object	Small storage unit
 Take Rake	かくを取る	actions	object	Old tools
 Take Spade	からシャベルを取る	actions	object	Old tools
 Take Seed Dibber	から種まき器を取る	actions	object	Old tools
 Pick-lots	から沢山とる	actions	object	Gourd tree
 Quick-pass	素早く通る	actions	object	Mystical barrier
-Coffer	前払い金を確認	actions	object	Furnace
+Coffer	前払い金	actions	object	Furnace
 Quick-exit	即離脱	actions	object	Cave exit
 Travel to platform	プラットフォームへ	actions	object	Row boat
 Leave platform	戻る	actions	object	Row boat
@@ -983,13 +983,13 @@ Set up	設置	actions	object	Drift net anchors
 Take down	を取り崩す	actions	object	Drift net anchors
 Pick up	を拾う	actions	object	Pile of Fishbowls
 Pay	に支払う	actions	object	Volcano Entrance
-Feel	手で探る	actions	object	Gas hole
+Feel		actions	object	Gas hole
 Add to	に加える	actions	object	Large Fossil Support
 Climb through	登りって通り抜ける	actions	object	Hole
 Teleport to destination	目的地へワープ	actions	object	Obelisk
 Set destination	で目的地を設定	actions	object	Obelisk
 Jump to	へジャンプ	actions	object	Pillar
-Preferences	選択	actions	object	Log storage
+Preferences		actions	object	Log storage
 Absorb	吸収	actions	object	Energy Sphere
 Reminisce	で思い出にふける	actions	object	Pool of Dreams
 Nets	ネット	actions	object	Annette
@@ -998,8 +998,8 @@ Lunar	ルーナ	actions	object	Altar of the Occult
 Arceuus	アルセウス	actions	object	Altar of the Occult
 Standard	一般	actions	object	Altar of the Occult
 Recharge-jewellery	宝石をチャージ	actions	object	Totem Pole
-Douse	を消火	actions	object	Fire
-Heal	で回復	actions	object	Fremennik warrior
+Douse	消火	actions	object	Fire
+Heal	回復	actions	object	Fremennik warrior
 Complete	完成させる	actions	object	Incomplete map
 Check-Count	数を確認	actions	object	Gate
 Clamber	頑張って登る	actions	object	Rock Pile
@@ -1031,7 +1031,7 @@ Look out	見張り所	actions	object	Xeric's Talisman
 Teleport menu	ワープメニュー	actions	object	Xeric's Talisman
 Glade	林間空地	actions	object	Xeric's Talisman
 Inferno	インフェルノ	actions	object	Xeric's Talisman
-Heart	心臓部	actions	object	Xeric's Talisman
+Heart		actions	object	Xeric's Talisman
 Honour	名誉	actions	object	Xeric's Talisman
 Digsite	発掘現場	actions	object	Digsite Pendant
 Fossil Island	化石島	actions	object	Digsite Pendant
@@ -1041,7 +1041,7 @@ Ghorrock	ゴロック	actions	object	Portal Nexus
 Carrallanger	カラランガー	actions	object	Portal Nexus
 Ancients	古代	actions	object	Supplies
 Start	開始	actions	object	Steam Generator
-Align	調整	actions	object	Power Grid
+Align		actions	object	Power Grid
 Fill-jug	水差しを満たす	actions	object	Coolant Dispenser
 Cleanse	浄化	actions	object	Refinery
 Rebalance	バランスを取る	actions	object	Energy Pylon
@@ -1054,7 +1054,7 @@ Check-Faith	信仰を確認	actions	object	Sacred Bone Burner
 Enter-crypt	地下室へ	actions	object	Thick Web
 Follow	を追う	actions	object	Tracks
 Fill-from	から汲む	actions	object	Water Pump
-Channel	を転換する	actions	object	Teleport Platform
+Channel	転換	actions	object	Teleport Platform
 Enter-corrupted	変異版に入る	actions	object	The Gauntlet
 Refine	精製	actions	object	Furnace
 Imbue	付与	actions	object	Altar
@@ -1133,7 +1133,7 @@ Quick-climb	素早く通る	actions	object	Rope ladder
 Arceuus Library	アルセウス図書館	actions	object	Portal Nexus
 Prepare-fish	魚を準備	actions	object	Preparation Table
 Offer-fish	魚を捧げる	actions	object	Altar
-Entertain	でもてなす	actions	object	Piano
+Entertain		actions	object	Piano
 Play-quietly	静かに弾く	actions	object	Piano
 Background-music	BGM	actions	object	Piano
 Enter-member	入る（会員として）	actions	object	Clan hall portal
@@ -1208,7 +1208,7 @@ Take-from Fishing	から釣り道具を取る	actions	object	Supply crates
 Take-from Hunting	から狩り道具を取る	actions	object	Supply crates
 Take-from Herblore	から調合器具を取る	actions	object	Supply crates
 Take-log	から丸太を取る	actions	object	Roots
-Bask	日を浴びる	actions	object	Shrine of Ralos
+Bask		actions	object	Shrine of Ralos
 Cimb-down	下りる	actions	object	Open trapdoor
 Bless	祝福	actions	object	Exposed altar
 Deposit-eggs	卵を預ける	actions	object	Easter mine cart
@@ -1219,4 +1219,4 @@ Walk here	ここへ歩く	actions	manual
 Examine	を調べる	actions	manual	
 Cancel	キャンセル	actions	manual	
 Add to canvas	カンバスに追加	actions	manual	
-Wiki	ウィキで調べる	actions	manual	
+Wiki		actions	manual	

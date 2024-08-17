@@ -7651,7 +7651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="957">
         <xliff:source>Shears</xliff:source>
-        <xliff:target state="translated">鋏</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shears
@@ -8675,7 +8675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1085">
         <xliff:source>Easter egg</xliff:source>
-        <xliff:target state="translated">イースターの卵</xliff:target>
+        <xliff:target state="translated">イースターエッグ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Easter egg
@@ -10955,7 +10955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1370">
         <xliff:source>Watch</xliff:source>
-        <xliff:target state="translated">時計</xliff:target>
+        <xliff:target state="translated">を眺める</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watch
@@ -27163,7 +27163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3396">
         <xliff:source>Gunpowder</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火薬</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gunpowder
