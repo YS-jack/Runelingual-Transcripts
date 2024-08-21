@@ -459,7 +459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41315">
         <xliff:source>Mine</xliff:source>
-        <xliff:target state="translated">鉱山へ</xliff:target>
+        <xliff:target state="translated">を掘る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Elemental rock
@@ -779,7 +779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41355">
         <xliff:source>Sets</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">設定</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Grand Exchange Clerk
@@ -1235,7 +1235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41412">
         <xliff:source>Pass</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">にパス</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Shantay Guard
@@ -2419,7 +2419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41560">
         <xliff:source>Locks</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロック関連</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Dampe
@@ -3419,7 +3419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41685">
         <xliff:source>Mine</xliff:source>
-        <xliff:target state="translated">鉱山へ</xliff:target>
+        <xliff:target state="translated">を掘る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Rock slide
@@ -3787,7 +3787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41731">
         <xliff:source>Toggle-warning</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">警告表示を切り替える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cave entrance
@@ -3811,7 +3811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41734">
         <xliff:source>Pass</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">にパス</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Sticks
@@ -4683,7 +4683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41843">
         <xliff:source>Count</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を数える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pressure Barrel
@@ -4851,7 +4851,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41864">
         <xliff:source>Zanaris</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ザナリスへ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fairy ring
@@ -5499,7 +5499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41945">
         <xliff:source>Take-Log</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">から丸太を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Log Store
@@ -6131,7 +6131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42024">
         <xliff:source>Climb up</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を上る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Beard
@@ -6163,7 +6163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42028">
         <xliff:source>Construct</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">を組み立てる</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Pyre site
@@ -6387,7 +6387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42056">
         <xliff:source>Bind</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">魔力封入</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Blood Altar
@@ -7651,7 +7651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42214">
         <xliff:source>Fuel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">燃料を追加</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Brazier
@@ -7667,7 +7667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42216">
         <xliff:source>Shared</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">共有</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Small storage unit
@@ -7875,7 +7875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42242">
         <xliff:source>Feel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">探る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Gas hole
@@ -7923,7 +7923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42248">
         <xliff:source>Preferences</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">優先設定</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Log storage
@@ -8259,7 +8259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42290">
         <xliff:source>Heart</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">心臓部</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Xeric's Talisman
@@ -8339,7 +8339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42300">
         <xliff:source>Align</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">調整</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Power Grid
@@ -9075,7 +9075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42392">
         <xliff:source>Entertain</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">もてなす</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Piano
@@ -9675,7 +9675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42467">
         <xliff:source>Bask</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">暖める</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Shrine of Ralos
@@ -9763,12 +9763,24 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109748">
         <xliff:source>Wiki</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィキ検索</xliff:target>
         <xliff:note>category: actions
 sub_category: manual
 source: None
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="109749"><xliff:source>Examine</xliff:source><xliff:target state="translated">を調べる</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109750"><xliff:source>Examine</xliff:source><xliff:target state="translated">を調べる</xliff:target><xliff:note>category: actions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109751"><xliff:source>Take</xliff:source><xliff:target state="translated">取る</xliff:target><xliff:note>category: actions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109752"><xliff:source>Light</xliff:source><xliff:target state="translated">灯す</xliff:target><xliff:note>category: actions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

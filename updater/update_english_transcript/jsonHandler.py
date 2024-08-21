@@ -1,7 +1,9 @@
 import os
 import json
 import sqlite3
-from . import common
+script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+os.chdir(script_dir)
+from update_english_transcript import common
 
     
 def connect_to_db(db_file):
@@ -221,4 +223,4 @@ def addAllTSVToSQL(TSVDir):
 
 if __name__ == "__main__":
     #jsonFileToSQL(common.CACHE_UPDATED_PATH)
-    addAllTSVToSQL(common.CSV_FILE_DIR)
+    addAllTSVToSQL(common.MANUAL_FILE_DIR)

@@ -25,7 +25,7 @@ def main():
                                           common.COLUMN_NAME_SUB_CATEGORY, common.COLUMN_NAME_SOURCE])
     
     #add manual data
-    jsonHandler.addAllTSVToSQL(common.CSV_FILE_DIR)
+    jsonHandler.addAllTSVToSQL(common.MANUAL_FILE_DIR)
 
 if __name__ == "__main__":
     main()

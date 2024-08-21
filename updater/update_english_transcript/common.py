@@ -10,7 +10,7 @@ current_folder_path = os.path.dirname(current_file_path)
 parent_folder_path = os.path.dirname(current_folder_path)
 
 DATABASE_PATH = os.path.join(parent_folder_path,"transcript.db")
-CSV_FILE_DIR = os.path.join(current_folder_path,"manual_data/")
+MANUAL_FILE_DIR = os.path.join(current_folder_path,"manual_data/")
 
 TABLE_NAME = "transcript"
 

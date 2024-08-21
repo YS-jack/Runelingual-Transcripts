@@ -1,6 +1,10 @@
 english	category	sub_category
 Walk here	actions	manual
-Examine	actions	manual
+Examine	actions	npc
+Examine	inventoryActions	item
+Examine	actions	item
+Take	actions	item
+Light	actions	item
 Cancel	actions	manual
 Add to canvas	actions	manual
 Wiki	actions	manual
