@@ -61,9 +61,16 @@ def manyXLIFF_to_manyTSV(target_lang_code):
 		xliff_file_path = os.path.join(draft_lang_dir, xliff_file)
 		tsv_filename = os.path.splitext(xliff_file)[0] + '.tsv'
 		tsv_file_path = os.path.join(draft_lang_dir, tsv_filename)
+
+		if "examine_menu.xliff" in xliff_file: # todo: add more files to skip
+			continue
 		
 		columns = ['english', 'translation', 'category', 'sub_category', 'source']
 		xliff_to_tsv(xliff_file_path, tsv_file_path, columns=columns)
+
+def is_file_empty(file_path):
+    """Check if a file is empty."""
+    return os.path.exists(file_path) and os.path.getsize(file_path) == 0
 
 def main():
 	print('tip: use ctr-c to force exit')

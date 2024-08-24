@@ -76,6 +76,9 @@ WIKI_SEARCH_BASE_URL = {"npc" : "https://oldschool.runescape.wiki/?title=Special
                         "object" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=Object+ID&value=",
                         "item" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=Item+ID&value="}
 
+
+NAME_SUB_CATEGORY = ['item', 'npc', 'object', 'menu'] # the sub categories that exist where category column = name
+
 def delete_file(file_path):
     if os.path.exists(file_path):
         send2trash.send2trash(file_path)

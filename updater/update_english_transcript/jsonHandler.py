@@ -1,10 +1,12 @@
 import os
 import json
 import sqlite3
-script_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import sys
+script_dir = os.path.dirname(os.path.abspath(__file__))
 os.chdir(script_dir)
-from update_english_transcript import common
-
+sys.path.append(os.path.join(script_dir, '.'))
+# from update_english_transcript import common
+import common
     
 def connect_to_db(db_file):
     conn = sqlite3.connect(db_file)

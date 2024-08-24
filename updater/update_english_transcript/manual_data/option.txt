@@ -6,5 +6,166 @@ Examine	actions	item
 Take	actions	item
 Light	actions	item
 Cancel	actions	manual
-Add to canvas	actions	manual
+Add to canvas	actions	menu
 Wiki	actions	manual
+Copy to clipboard	actions	menu	
+Lookup	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	actions	menu	
+Clear history	actions	menu	
+Switch tab	actions	menu	
+Configure filter	actions	menu	
+<colNum0>Game:</col> Clear history	actions	menu	
+<colNum0>Game:</col> Filter	actions	menu	
+Setup your autochat	actions	menu	
+Filter public chat	actions	menu	
+<colNum0>Public:</col> Clear history	actions	menu	
+<colNum0>Public:</col> Hide	actions	menu	
+<colNum0>Public:</col> Show none	actions	menu	
+<colNum0>Public:</col> Show friends	actions	menu	
+<colNum0>Public:</col> Show standard	actions	menu	
+<colNum0>Public:</col> Show autochat	actions	menu	
+<colNum0>Private:</col> Clear history	actions	menu	
+<colNum0>Private:</col> Show none	actions	menu	
+<colNum0>Private:</col> Show friends	actions	menu	
+<colNum0>Private:</col> Show all	actions	menu	
+<colNum0>Channel:</col> Clear history	actions	menu	
+<colNum0>Channel:</col> Show none	actions	menu	
+<colNum0>Channel:</col> Show friends	actions	menu	
+<colNum0>Channel:</col> Show all	actions	menu	
+<colNum0>Clan:</col> Clear history	actions	menu	
+<colNum0>Clan:</col> Show none	actions	menu	
+<colNum0>Clan:</col> Show friends	actions	menu	
+<colNum0>Clan:</col> Show all	actions	menu	
+<colNum0>Group:</col> Clear history	actions	menu	
+<colNum0>Group:</col> Show none	actions	menu	
+<colNum0>Group:</col> Show friends	actions	menu	
+<colNum0>Group:</col> Show all	actions	menu	
+Report game bug	actions	menu	
+Report abuse	actions	menu	
+Look West	actions	menu	
+Look South	actions	menu	
+Look East	actions	menu	
+Look North	actions	menu	
+Toggle Run	actions	menu	
+Bond Pouch	actions	menu	
+Open Store	actions	menu	
+Clear	actions	menu	
+Import	actions	menu	
+Export	actions	menu	
+Show	actions	menu	
+Fullscreen <colNum0>World Map</col>	actions	menu	
+Floating <colNum0>World Map</col>	actions	menu	
+Combat Options	actions	menu	
+Skills	actions	menu	
+Achievement Diaries	actions	menu	
+Inventory	actions	menu	
+Worn Equipment	actions	menu	
+Enable prayer reordering	actions	menu	
+Enable prayer filtering	actions	menu	
+Prayer	actions	menu	
+Enable spell reordering	actions	menu	
+Disable spell filtering	actions	menu	
+Magic	actions	menu	
+Grouping	actions	menu	
+Friends List	actions	menu	
+Account Management	actions	menu	
+Logout	actions	menu	
+Settings	actions	menu	
+Emotes	actions	menu	
+Music Player	actions	menu	
+Spike	actions	menu	
+Impale	actions	menu	
+Smash	actions	menu	
+Block	actions	menu	
+Auto retaliate	actions	menu	
+Use <colNum0>Special Attack</col>	actions	menu	
+Wiki	actions	menu	
+Add to canvas	actions	menu	
+View <colNum0>Attack</col> guide	actions	menu	
+View <colNum0>Hitpoints</col> guide	actions	menu	
+View <colNum0>Mining</col> guide	actions	menu	
+View <colNum0>Strength</col> guide	actions	menu	
+View <colNum0>Agility</col> guide	actions	menu	
+View <colNum0>Smithing</col> guide	actions	menu	
+View <colNum0>Defence</col> guide	actions	menu	
+View <colNum0>Herblore</col> guide	actions	menu	
+View <colNum0>Fishing</col> guide	actions	menu	
+View <colNum0>Ranged</col> guide	actions	menu	
+View <colNum0>Thieving</col> guide	actions	menu	
+View <colNum0>Cooking</col> guide	actions	menu	
+View <colNum0>Prayer</col> guide	actions	menu	
+View <colNum0>Crafting</col> guide	actions	menu	
+View <colNum0>Firemaking</col> guide	actions	menu	
+View <colNum0>Magic</col> guide	actions	menu	
+View <colNum0>Fletching</col> guide	actions	menu	
+View <colNum0>Woodcutting</col> guide	actions	menu	
+View <colNum0>Runecraft</col> guide	actions	menu	
+View <colNum0>Slayer</col> guide	actions	menu	
+View <colNum0>Farming</col> guide	actions	menu	
+View <colNum0>Construction</col> guide	actions	menu	
+View <colNum0>Hunter</col> guide	actions	menu	
+Character Summary	actions	menu	
+Quest List	actions	menu	
+Rewards	actions	menu	
+Tasks	actions	menu	
+Bosses	actions	menu	
+Overview	actions	menu	
+Collection Log	actions	menu	
+Hide	actions	menu	
+Reveal	actions	menu	
+View equipment stats	actions	menu	
+View guide prices	actions	menu	
+View items kept on death	actions	menu	
+Call follower	actions	menu	
+Disable prayer reordering	actions	menu	
+Disable prayer filtering	actions	menu	
+Disable spell reordering	actions	menu	
+Enable spell filtering	actions	menu	
+Ironman Group	actions	menu	
+Chat-channel	actions	menu	
+Your Clan	actions	menu	
+View another clan	actions	menu	
+Refresh	actions	menu	
+Join	actions	menu	
+Setup	actions	menu	
+Find	actions	menu	
+Teleport	actions	menu	
+Show notifications	actions	menu	
+Add Note	actions	menu	
+Hide notifications	actions	menu	
+View Ignore List	actions	menu	
+Add Friend	actions	menu	
+Delete Friend	actions	menu	
+View Friends List	actions	menu	
+Add Name	actions	menu	
+Delete Name	actions	menu	
+Account	actions	menu	
+Community	actions	menu	
+Useful Links	actions	menu	
+View Inbox	actions	menu	
+Name Changer	actions	menu	
+View History	actions	menu	
+View Newspost	actions	menu	
+View Archive	actions	menu	
+Switch	actions	menu	
+Close	actions	menu	
+Restore Default Zoom	actions	menu	
+Disable	actions	menu	
+Adjust Brightness	actions	menu	
+Audio	actions	menu	
+Controls	actions	menu	
+Display	actions	menu	
+Toggle skull prevention	actions	menu	
+Toggle Accept Aid	actions	menu	
+View House Options	actions	menu	
+Open Bond Pouch	actions	menu	
+All Settings	actions	menu	
+Toggle unlock message	actions	menu	
+Enable	actions	menu	
+Area	actions	menu	
+Manual	actions	menu	
+Random	actions	menu	

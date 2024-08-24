@@ -133,7 +133,7 @@ def update_xliff_transcript(target_lang_code):
     # for each category in the English transcript
     for category in english_df['category'].unique():
         # if category is 'name' or 'examine', iterate through the subcategories
-        sub_category_list = ['item', 'npc', 'object']
+        sub_category_list = common.NAME_SUB_CATEGORY # todo: add subcategories of name and examine if needed
         if category in ['name', 'examine']:
             category_df_list = [english_df[(english_df['category'] == category) & 
                                 (english_df['sub_category'] == sub_category)] 

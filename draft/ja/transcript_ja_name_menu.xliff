@@ -1,0 +1,206 @@
+<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
+    <xliff:body>
+      <xliff:trans-unit id="110529">
+        <xliff:source>Ground Markers</xliff:source>
+        <xliff:target state="translated">地面マーカー</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110530">
+        <xliff:source>Instance Map</xliff:source>
+        <xliff:target state="translated">インスタンスの地図</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110531">
+        <xliff:source>Attack</xliff:source>
+        <xliff:target state="translated">攻撃力</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110532">
+        <xliff:source>Hitpoints</xliff:source>
+        <xliff:target state="translated">体力</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110533">
+        <xliff:source>Mining</xliff:source>
+        <xliff:target state="translated">採掘</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110534">
+        <xliff:source>Strength</xliff:source>
+        <xliff:target state="translated">腕力</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110535">
+        <xliff:source>Agility</xliff:source>
+        <xliff:target state="translated">運動神経</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110536">
+        <xliff:source>Smithing</xliff:source>
+        <xliff:target state="translated">鍛冶</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110537">
+        <xliff:source>Defence</xliff:source>
+        <xliff:target state="translated">守備力</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110538">
+        <xliff:source>Herblore</xliff:source>
+        <xliff:target state="translated">調合</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110539">
+        <xliff:source>Fishing</xliff:source>
+        <xliff:target state="translated">釣り</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110540">
+        <xliff:source>Ranged</xliff:source>
+        <xliff:target state="translated">弓</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110541">
+        <xliff:source>Thieving</xliff:source>
+        <xliff:target state="translated">盗み</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110542">
+        <xliff:source>Cooking</xliff:source>
+        <xliff:target state="translated">料理</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110543">
+        <xliff:source>Prayer</xliff:source>
+        <xliff:target state="translated">祈り</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110544">
+        <xliff:source>Crafting</xliff:source>
+        <xliff:target state="translated">工作</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110545">
+        <xliff:source>Firemaking</xliff:source>
+        <xliff:target state="translated">火起こし</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110546">
+        <xliff:source>Magic</xliff:source>
+        <xliff:target state="translated">魔法</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110547">
+        <xliff:source>Fletching</xliff:source>
+        <xliff:target state="translated">木材加工</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110548">
+        <xliff:source>Woodcutting</xliff:source>
+        <xliff:target state="translated">木こり</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110549">
+        <xliff:source>Runecraft</xliff:source>
+        <xliff:target state="translated">ルーン作り</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110550">
+        <xliff:source>Slayer</xliff:source>
+        <xliff:target state="translated">討伐</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110551">
+        <xliff:source>Farming</xliff:source>
+        <xliff:target state="translated">農業</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110552">
+        <xliff:source>Construction</xliff:source>
+        <xliff:target state="translated">建築</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="110553">
+        <xliff:source>Hunter</xliff:source>
+        <xliff:target state="translated">狩人</xliff:target>
+        <xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+    </xliff:body>
+  </xliff:file>
+</xliff:xliff>

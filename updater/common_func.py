@@ -114,3 +114,7 @@ def get_list_files_in_directory(target_path:str) -> list:
     entries = os.listdir(target_path)
     files = [entry for entry in entries if os.path.isfile(os.path.join(target_path,entry))]
     return files
+
+def is_file_empty(file_path):
+    """Check if a file is empty."""
+    return os.path.exists(file_path) and os.path.getsize(file_path) == 0
