@@ -867,7 +867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109371">
         <xliff:source>Earmuffs</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イヤーマフ</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1067,7 +1067,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109396">
         <xliff:source>Fremennik</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニック</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1211,7 +1211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109414">
         <xliff:source>Rimmington</xliff:source>
-        <xliff:target state="translated">でリミングトンへ移動</xliff:target>
+        <xliff:target state="translated">リミングトンへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1235,7 +1235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109417">
         <xliff:source>Rellekka</xliff:source>
-        <xliff:target state="translated">でレレカへ移動</xliff:target>
+        <xliff:target state="translated">レレカへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1243,7 +1243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109418">
         <xliff:source>Brimhaven</xliff:source>
-        <xliff:target state="translated">でブリムヘブンへ移動</xliff:target>
+        <xliff:target state="translated">ブリムヘブンへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1275,7 +1275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109422">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">でアルドインへ移動</xliff:target>
+        <xliff:target state="translated">アルドインへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1299,7 +1299,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109425">
         <xliff:source>Fremennik</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">フレメニック</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1595,7 +1595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109462">
         <xliff:source>Port Piscarilius</xliff:source>
-        <xliff:target state="translated">とピスカリリウス港へ移動</xliff:target>
+        <xliff:target state="translated">ピスカリリウス港へ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1611,7 +1611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109464">
         <xliff:source>Port Sarim</xliff:source>
-        <xliff:target state="translated">とサリム港へ移動</xliff:target>
+        <xliff:target state="translated">サリム港へ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2459,7 +2459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109570">
         <xliff:source>Edgeville</xliff:source>
-        <xliff:target state="translated">でエッジビルへ移動</xliff:target>
+        <xliff:target state="translated">エッジビルへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -7955,7 +7955,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110262">
         <xliff:source>Bosses</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ボス</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None

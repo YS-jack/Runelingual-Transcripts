@@ -6675,7 +6675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11017">
         <xliff:source>Tiles</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タイルズ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tiles
@@ -8995,7 +8995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11307">
         <xliff:source>Reach</xliff:source>
-        <xliff:target state="translated">を掴む</xliff:target>
+        <xliff:target state="translated">掴む</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Reach
@@ -10579,7 +10579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11505">
         <xliff:source>Tree</xliff:source>
-        <xliff:target state="translated">木</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tree
@@ -10691,7 +10691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11519">
         <xliff:source>Rusty</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ラスティー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Rusty
@@ -11115,7 +11115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11572">
         <xliff:source>Angel</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アンゲル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Angel
@@ -11971,7 +11971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11679">
         <xliff:source>Cage</xliff:source>
-        <xliff:target state="translated">カゴ</xliff:target>
+        <xliff:target state="translated">カゴで釣る</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Cage
@@ -16363,7 +16363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12228">
         <xliff:source>Boot</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブート</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Boot
@@ -19995,7 +19995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12682">
         <xliff:source>Pay-dirt</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">有望な鉱脈</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Pay-dirt
@@ -21235,7 +21235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12837">
         <xliff:source>Novice</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ノヴァイス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Novice
@@ -23515,7 +23515,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13122">
         <xliff:source>Midnight</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ミッドナイト</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Midnight
@@ -23523,7 +23523,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13123">
         <xliff:source>Noon</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ヌーン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Noon
@@ -27251,7 +27251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13589">
         <xliff:source>Acorn</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">エイコーン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Acorn
@@ -28651,7 +28651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13764">
         <xliff:source>Willow</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィロウ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Willow
@@ -28787,7 +28787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13781">
         <xliff:source>Gem</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ジェム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Gem
@@ -28923,7 +28923,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13798">
         <xliff:source>Fire Wave</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">火の波</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Fire Wave
@@ -29787,7 +29787,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13906">
         <xliff:source>Roger</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ロジャー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Roger
@@ -29883,7 +29883,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13918">
         <xliff:source>Hannibal</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ハンニバル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hannibal
@@ -33203,7 +33203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14333">
         <xliff:source>Spike</xliff:source>
-        <xliff:target state="translated">スパイク</xliff:target>
+        <xliff:target state="translated">突く</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Spike

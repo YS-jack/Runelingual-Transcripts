@@ -204,9 +204,10 @@ def addAllTSVToSQL(TSVDir):
     
     # iterate through all csv files in the directory
     for file in os.listdir(TSVDir):
-        print("Adding file:", file)
+        added_records = 0
         # open each files
         with open(TSVDir + file, 'r') as f:
+
             for i,line in enumerate(f):
                 if line in ['', None, '\n']: # skip empty lines
                     continue
@@ -219,7 +220,10 @@ def addAllTSVToSQL(TSVDir):
                     if not check_record_exists(c, {common.COLUMN_NAME_ENGLISH:record[common.COLUMN_NAME_ENGLISH],
                                                     common.COLUMN_NAME_CATEGORY:record[common.COLUMN_NAME_CATEGORY],
                                                     common.COLUMN_NAME_SUB_CATEGORY:record[common.COLUMN_NAME_SUB_CATEGORY]}):
+                        added_records += 1
                         insert_record(c, record)
+        print("Added", added_records, "records from file: " + file)
+
     conn.commit()
     print("Added all manually created CSV files to SQL")
 

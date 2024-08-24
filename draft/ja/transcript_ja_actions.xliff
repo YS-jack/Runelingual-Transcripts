@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="41258">
@@ -2987,7 +2988,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41631">
         <xliff:source>Cook</xliff:source>
-        <xliff:target state="translated">料理人</xliff:target>
+        <xliff:target state="translated">料理する</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Cooking range
@@ -10262,6 +10263,135 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109912"><xli
 sub_category: menu
 source: None
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109913"><xliff:source>Random</xliff:source><xliff:target state="translated">ランダム</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109914"><xliff:source>Activate</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109915"><xliff:source>Use</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109916"><xliff:source>DPS</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109917"><xliff:source>Search</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109918"><xliff:source>Open</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109919"><xliff:source>Toggle</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109920"><xliff:source>Unmute</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109921"><xliff:source>World Switcher</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109922"><xliff:source>Favourite</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109923"><xliff:source>Delete</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109924"><xliff:source>Message</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109925"><xliff:source>Remove friend</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109926"><xliff:source>Add ignore</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109927"><xliff:source>Add friend</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109928"><xliff:source>Open wiki quick guide:</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109929"><xliff:source>Open wiki guide:</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109930"><xliff:source>Show on map:</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109931"><xliff:source>Read journal:</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Start Helper</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Wiki &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Open &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Wiki &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Open &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109937"><xliff:source>Wiki &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109938"><xliff:source>Open &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Wiki &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109940"><xliff:source>Open &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109941"><xliff:source>Wiki &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109942"><xliff:source>Open &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109943"><xliff:source>Wiki &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109944"><xliff:source>Open &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>Wiki &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109946"><xliff:source>Open &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109947"><xliff:source>Wiki &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109948"><xliff:source>Open &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109949"><xliff:source>Wiki &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109950"><xliff:source>Open &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109951"><xliff:source>Wiki &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109952"><xliff:source>Open &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109953"><xliff:source>Wiki &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109954"><xliff:source>Open &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>Wiki &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: actions
 sub_category: menu
 source: None
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

@@ -1,5 +1,6 @@
 import jsonHandler, webScraper
 import common
+import argparse
 
 
 def main():
@@ -28,4 +29,12 @@ def main():
     jsonHandler.addAllTSVToSQL(common.MANUAL_FILE_DIR)
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description='updates the English transcripts')
+    parser.add_argument('--updateAll', type=bool, help='TAKES TIME. downloads all data from chisel and wiki, gets data from the manual files, and updates the database')
+    parser.add_argument('--updateManual', type=bool, help='gets data from the manual files and updates the database')
+
+    args = parser.parse_args()
+    if args.updateAll:
+        main()
+    elif args.updateManual:
+        jsonHandler.addAllTSVToSQL(common.MANUAL_FILE_DIR)

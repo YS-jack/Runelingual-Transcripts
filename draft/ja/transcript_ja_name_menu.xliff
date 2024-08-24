@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="110529">
@@ -201,6 +202,198 @@ sub_category: menu
 source: None
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="110554"><xliff:source>XP drops</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110555"><xliff:source>Quick-prayers</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110556"><xliff:source>Special Attack</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110557"><xliff:source>Wiki</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110559"><xliff:source>Old School Wiki</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110560"><xliff:source>Merchandise</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110561"><xliff:source>Hiscores</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110562"><xliff:source>Customer Support</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110563"><xliff:source>Old School Website</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110564"><xliff:source>GrandﾂExchange</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110565"><xliff:source>Search</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110566"><xliff:source>All</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110567"><xliff:source>Music</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110568"><xliff:source>SoundﾂEffects</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110569"><xliff:source>AreaﾂSounds</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110570"><xliff:source>&lt;colNum0&gt;PvP Arena&lt;/col&gt; options</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110571"><xliff:source>Ardougne Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110572"><xliff:source>Desert Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110573"><xliff:source>Fremennik Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110574"><xliff:source>Kandarin Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110575"><xliff:source>Karamja Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110576"><xliff:source>Kourend &amp; Kebos Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110577"><xliff:source>Morytania Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110578"><xliff:source>Varrock Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110579"><xliff:source>Western Provinces Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110580"><xliff:source>Wilderness Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110582"><xliff:source>Falador Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110583"><xliff:source>Lumbridge &amp; Draynor Elite Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110584"><xliff:source>Ardougne Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110585"><xliff:source>Desert Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110586"><xliff:source>Falador Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110587"><xliff:source>Fremennik Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110588"><xliff:source>Kandarin Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110589"><xliff:source>Karamja Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110590"><xliff:source>Kourend &amp; Kebos Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110591"><xliff:source>Lumbridge &amp; Draynor Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110592"><xliff:source>Morytania Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110593"><xliff:source>Varrock Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110594"><xliff:source>Western Provinces Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110595"><xliff:source>Wilderness Hard Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110596"><xliff:source>Ardougne Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110597"><xliff:source>Desert Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110598"><xliff:source>Falador Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110599"><xliff:source>Fremennik Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110600"><xliff:source>Kandarin Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110601"><xliff:source>Karamja Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110602"><xliff:source>Kourend &amp; Kebos Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110603"><xliff:source>Lumbridge &amp; Draynor Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110604"><xliff:source>Morytania Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110605"><xliff:source>Varrock Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110606"><xliff:source>Western Provinces Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110607"><xliff:source>Wilderness Medium Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110608"><xliff:source>Ardougne Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110609"><xliff:source>Desert Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110610"><xliff:source>Falador Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110611"><xliff:source>Fremennik Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110612"><xliff:source>Kandarin Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110613"><xliff:source>Karamja Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110614"><xliff:source>Kourend &amp; Kebos Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110615"><xliff:source>Lumbridge &amp; Draynor Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110616"><xliff:source>Morytania Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110617"><xliff:source>Varrock Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110618"><xliff:source>Western Provinces Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110619"><xliff:source>Wilderness Easy Diary</xliff:source><xliff:target/><xliff:note>category: name
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

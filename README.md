@@ -2,6 +2,13 @@
 
 Welcome to the RuneLingual Transcripts project. This project contains the source files for the RuneLingual translation plugin's transcripts.
 
+## Updating the Transcript
+Read [update_english_transcript's README file](./updater/update_english_transcript/readme.md) for updating the English transcript.
+
+Read [updater's README file](./updater/README.md) for updating the non-English transcripts.
+
+They should be ran in this order to fully update everything.
+
 ## What this repository is for 
 You might be wondering why transcripts aren't just included in the plugin itself as resources. That's because RuneLite has a limit of 10MiB per plugin, and the total size of the transcripts significantly exceeds this limit.
 
