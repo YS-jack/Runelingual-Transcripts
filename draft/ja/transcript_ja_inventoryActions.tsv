@@ -1,32 +1,32 @@
 english	translation	category	sub_category	source
-Destroy	を破壊	inventoryActions	item	Dwarf remains
+Destroy	破壊	inventoryActions	item	Dwarf remains
 Drop	を落とす	inventoryActions	item	Cannonball
-Read	を読む	inventoryActions	item	Nulodion's notes
+Read	読む	inventoryActions	item	Nulodion's notes
 Set-up	設置	inventoryActions	item	Cannon base
 Blow	吹く	inventoryActions	item	Magic whistle
 Ring	鳴らす	inventoryActions	item	Grail bell
 Blow-on	吹く	inventoryActions	item	Magic gold feather
-Extinguish	を消火	inventoryActions	item	Lit black candle
+Extinguish	消火	inventoryActions	item	Lit black candle
 Wield	装備	inventoryActions	item	Excalibur
 Wear	着る	inventoryActions	item	Khazard helmet
 Empty	を空にする	inventoryActions	item	Guam potion (unf)
 Drink	飲む	inventoryActions	item	Strength potion(4)
 Clean	綺麗にする	inventoryActions	item	Grimy guam leaf
-Eat	から食べる	inventoryActions	item	Jangerberries
-Equip	を装備	inventoryActions	item	Cattleprod
+Eat	食べる	inventoryActions	item	Jangerberries
+Equip	装備	inventoryActions	item	Cattleprod
 Plant	植える	inventoryActions	item	Mithril seeds
 Open	開く	inventoryActions	item	Casket
-Throw	を投げる	inventoryActions	item	Bird feed
+Throw	投げる	inventoryActions	item	Bird feed
 Bury	埋める	inventoryActions	item	Bones
-Inspect	を調べる	inventoryActions	item	Ghost's skull
+Inspect	調べる	inventoryActions	item	Ghost's skull
 Bail-with	で排水	inventoryActions	item	Bailing bucket
 Activate	発動	inventoryActions	item	Locating crystal
 Search	探す	inventoryActions	item	Panning tray
 Polish	磨く	inventoryActions	item	Buttons
-Look-at	を見る	inventoryActions	item	Level 1 certificate
+Look-at	見る	inventoryActions	item	Level 1 certificate
 Complete	完成させる	inventoryActions	item	Radimus notes
 Swing	振り渡る	inventoryActions	item	Bullroarer
-Look	を見る	inventoryActions	item	Sketch
+Look	見る	inventoryActions	item	Sketch
 Enchant-Vials	試薬瓶に魔法を付与	inventoryActions	item	Binding book
 Investigate	調査する	inventoryActions	item	Dark dagger
 Cast Spell	魔法をかける	inventoryActions	item	Holy force
@@ -36,7 +36,7 @@ Blackout	ブラックアウト	inventoryActions	item	Disk of returning
 Check	確認	inventoryActions	item	Iban's staff
 Locate	方向確認	inventoryActions	item	Air talisman
 Rub-together	こすり合う	inventoryActions	item	Dry sticks
-Study	を調べる	inventoryActions	item	Map part
+Study	調べる	inventoryActions	item	Map part
 Rub	こする	inventoryActions	item	Amulet of glory
 Empty Bowl	ボールを空にする	inventoryActions	item	Burnt stew
 Mix-cocktail	カクテルを混ぜる	inventoryActions	item	Cocktail shaker
@@ -47,73 +47,73 @@ Empty Tin	缶	inventoryActions	item	Burnt batta
 Empty Dish	皿をキレイにする	inventoryActions	item	Burnt pie
 Guzzle	がつがつ食べる	inventoryActions	item	Rock cake
 Play-with	で遊ぶ	inventoryActions	item	Brown toy horsey
-Break	を壊す	inventoryActions	item	Ring of recoil
+Break	壊す	inventoryActions	item	Ring of recoil
 Toggle-respawn	リスポーン切り替え	inventoryActions	item	Ring of life
 Features	機能	inventoryActions	item	Ring of wealth
 Look through	越しに見る	inventoryActions	item	Sextant
 Check steps	のステップを確認	inventoryActions	item	Clue scroll (easy)
 Release All	を全て開放	inventoryActions	item	Bloated toad
-Release	を開放	inventoryActions	item	Bloated toad
+Release	開放	inventoryActions	item	Bloated toad
 Check kills	キル数確認	inventoryActions	item	Ogre bow
-Fill	を満たす	inventoryActions	item	Druid pouch
+Fill	満たす	inventoryActions	item	Druid pouch
 Cast Bloom	咲く魔法	inventoryActions	item	Silver sickle (b)
 Cast	投げる	inventoryActions	item	Druidic spell
 Debug	デバッグ	inventoryActions	item	Boss helper tool
-Play	をプレイ	inventoryActions	item	Lyre
-Interact	とやり取りをする	inventoryActions	item	Pet rock
-Shake	を揺らす	inventoryActions	item	Vase
+Play	プレイ	inventoryActions	item	Lyre
+Interact	やり取りをする	inventoryActions	item	Pet rock
+Shake	揺らす	inventoryActions	item	Vase
 Remove-lid	フタを取る	inventoryActions	item	Sealed vase
 Preach	説教	inventoryActions	item	Holy book
-View	を見る	inventoryActions	item	Spare controls
+View	見る	inventoryActions	item	Spare controls
 Listen	聴く	inventoryActions	item	Monkey dentures
-Poke	を突く	inventoryActions	item	Monkey
+Poke	突く	inventoryActions	item	Monkey
 Heal	回復	inventoryActions	item	Bandages
 Loop	ループ	inventoryActions	item	Yo-yo
 Walk	ウォーク	inventoryActions	item	Yo-yo
 Crazy	クレイジー	inventoryActions	item	Yo-yo
-Ride	に乗る	inventoryActions	item	Sled
+Ride	乗る	inventoryActions	item	Sled
 Partner	ペア	inventoryActions	item	Enchanted gem
 Log	ログ	inventoryActions	item	Enchanted gem
-Repair	を修復	inventoryActions	item	Model ship
-Follow	を追う	inventoryActions	item	Treasure map
-Count		inventoryActions	item	Petition form
+Repair	修復	inventoryActions	item	Model ship
+Follow	追う	inventoryActions	item	Treasure map
+Count	数える	inventoryActions	item	Petition form
 Check-keys	カギを確認	inventoryActions	item	Steel key ring
 Dance	と踊る	inventoryActions	item	Rubber chicken
 Assemble	組み立てる	inventoryActions	item	Base schematics
 Spin	回す	inventoryActions	item	Spinning plate
 Remove-one	から一つ取る	inventoryActions	item	Apples(2)
-Build	を組み立てる	inventoryActions	item	Rogue kit
-Use	を使う	inventoryActions	item	Null
+Build	組み立てる	inventoryActions	item	Rogue kit
+Use	使う	inventoryActions	item	Null
 Slice	スライス	inventoryActions	item	Rotten potato
 Peel	むく	inventoryActions	item	Rotten potato
-Mash		inventoryActions	item	Rotten potato
+Mash	を潰す	inventoryActions	item	Rotten potato
 Lletya	レティア	inventoryActions	item	Teleport crystal (4)
 Prifddinas	プリフディナス	inventoryActions	item	Teleport crystal (4)
 Toggle	切り替える	inventoryActions	item	Teleport crystal (4)
 Uncharge	チャージ解除	inventoryActions	item	Broodoo shield (10)
 Scan	スキャン	inventoryActions	item	Commorb
-Contact		inventoryActions	item	Commorb
-Playback		inventoryActions	item	Commorb
+Contact	で連絡	inventoryActions	item	Commorb
+Playback	で再生	inventoryActions	item	Commorb
 Talk-At	に話しかける	inventoryActions	item	Fishbowl
 Play-With	で遊ぶ	inventoryActions	item	Fishbowl
-Feed	に餌を与える	inventoryActions	item	Fishbowl
+Feed	餌を与える	inventoryActions	item	Fishbowl
 Untangle	ほどく	inventoryActions	item	Fishbowl and net
 Check-charge	チャージ確認	inventoryActions	item	Camulet
-Display		inventoryActions	item	Zombie head
-Question		inventoryActions	item	Zombie head
+Display	示す	inventoryActions	item	Zombie head
+Question	質問する	inventoryActions	item	Zombie head
 Chant	唱える	inventoryActions	item	Demonic sigil
-Feel		inventoryActions	item	Enchanted key
+Feel	を手で感じる	inventoryActions	item	Enchanted key
 Remove-rat	ネズミを取る	inventoryActions	item	Rat pole
 Jump	ジャンプ	inventoryActions	item	Blue marionette
-Bow		inventoryActions	item	Blue marionette
-Talk-to	に話しかける	inventoryActions	item	Progress hat
+Bow	お辞儀する	inventoryActions	item	Blue marionette
+Talk-to	話しかける	inventoryActions	item	Progress hat
 Return	戻る	inventoryActions	item	Prison key
-Smell		inventoryActions	item	Spicy stew
+Smell	の匂いをかぐ	inventoryActions	item	Spicy stew
 Release-all	を全て開放	inventoryActions	item	Balloon toad
 Wind	巻く	inventoryActions	item	Toy soldier
-Separate		inventoryActions	item	Kbd heads
-Unstuff		inventoryActions	item	Stuffed crawling hand
-Varrock	バロック	inventoryActions	item	Varrock teleport
+Separate	を別ける	inventoryActions	item	Kbd heads
+Unstuff	の中身を取る	inventoryActions	item	Stuffed crawling hand
+Varrock	ヴァロック	inventoryActions	item	Varrock teleport
 Grand Exchange	グランド・エクスチェンジ	inventoryActions	item	Varrock teleport
 Camelot	カメロット	inventoryActions	item	Camelot teleport
 Seers' Village	シアーズ村	inventoryActions	item	Camelot teleport
@@ -124,9 +124,9 @@ Outside	外	inventoryActions	item	Teleport to house
 Group	グループ	inventoryActions	item	Teleport to house
 Info	情報	inventoryActions	item	Enchant sapphire or opal
 Dust-hands	粉を手に付ける	inventoryActions	item	Ground ashes
-Talk-To	に話しかける	inventoryActions	item	Monkey
-Invoke		inventoryActions	item	Skull sceptre
-Divine		inventoryActions	item	Skull sceptre
+Talk-To	話しかける	inventoryActions	item	Monkey
+Invoke	を発動	inventoryActions	item	Skull sceptre
+Divine	の残量確認	inventoryActions	item	Skull sceptre
 Convert	変換	inventoryActions	item	Pharaoh's sceptre
 Launch	放つ	inventoryActions	item	Grand seed pod
 Squash	潰す	inventoryActions	item	Grand seed pod
@@ -142,7 +142,7 @@ Teleport	ワープ	inventoryActions	item	Strength cape
 Toggle Effect	の効果を切り替える	inventoryActions	item	Defence cape
 Toggle Respawn	リスポーン地点を切り替える	inventoryActions	item	Defence cape
 Commune	交信する	inventoryActions	item	Ranging cape
-Spellbook	で魔導書を変更	inventoryActions	item	Magic cape
+Spellbook	魔導書を変更	inventoryActions	item	Magic cape
 Stamina Boost	スタミナをブースト	inventoryActions	item	Agility cape
 Tele to POH	家にワープ	inventoryActions	item	Construct. cape
 Fishing Guild	釣りギルド	inventoryActions	item	Fishing cape
@@ -155,12 +155,12 @@ Check totals	合計値を確認	inventoryActions	item	Butterfly net
 Bank	銀行	inventoryActions	item	Imp-in-a-box(2)
 Translate	翻訳	inventoryActions	item	Research notes
 Write-Role	役割を書く	inventoryActions	item	Scroll
-Clear	をキレイにする	inventoryActions	item	Scroll
+Clear	キレイにする	inventoryActions	item	Scroll
 Tell-red	赤と言う	inventoryActions	item	Attacker horn
 Tell-green	緑と言う	inventoryActions	item	Attacker horn
 Tell-blue	青と言う	inventoryActions	item	Attacker horn
 Medic	衛生兵	inventoryActions	item	Attacker horn
-Look-in	をの中を見る	inventoryActions	item	Collection bag
+Look-in	中を見る	inventoryActions	item	Collection bag
 Tell-tofu	豆腐と言う	inventoryActions	item	Healer horn
 Tell-crackers	クラッカーと言う	inventoryActions	item	Healer horn
 Tell-worms	虫と言う	inventoryActions	item	Healer horn
@@ -173,27 +173,27 @@ Check tax	税金を確認	inventoryActions	item	Empty tax bag
 Check taxes	税金を確認	inventoryActions	item	Bulging taxbag
 Pray-over	に祈る	inventoryActions	item	Blessed lamp
 Recite-prayer	祈りを唱える	inventoryActions	item	Prayer book
-Operate	を操作	inventoryActions	item	Beacon ring
+Operate	操作	inventoryActions	item	Beacon ring
 Gem Mine	宝石採掘所	inventoryActions	item	Karamja gloves 3
-Loot	からアイテムを回収	inventoryActions	item	Baby impling jar
+Loot	アイテムを回収	inventoryActions	item	Baby impling jar
 Impling-jar	子悪魔の瓶	inventoryActions	item	Jar generator
 Butterfly-jar	チョウの瓶	inventoryActions	item	Jar generator
-Toggle-view		inventoryActions	item	Impling scroll
+Toggle-view	見た目の切り替え	inventoryActions	item	Impling scroll
 Copy to log	ログに映す	inventoryActions	item	Ancient page
 Discard	破棄	inventoryActions	item	Anti-dragon shield (nz)
 Take-one	１つとる	inventoryActions	item	Herb box
 Bank-all	全て銀行へ	inventoryActions	item	Herb box
 Refund	返金	inventoryActions	item	Scroll of redirection
 Revert	戻す	inventoryActions	item	Rimmington teleport
-Dismantle	を除去する	inventoryActions	item	Armadyl godsword
+Dismantle	除去する	inventoryActions	item	Armadyl godsword
 Disassemble	を分解	inventoryActions	item	Slayer helmet
-Deposit	に預ける	inventoryActions	item	Looting bag
+Deposit	預ける	inventoryActions	item	Looting bag
 Settings	設定	inventoryActions	item	Looting bag
 Spawn Item	蘇生アイテム	inventoryActions	item	Holiday tool
 Dissolve	溶かす	inventoryActions	item	Abyssal tentacle
-Check completion		inventoryActions	item	Challenge scroll (elite)
+Check completion	完成度を確認	inventoryActions	item	Challenge scroll (elite)
 Check rank	ランクを確認	inventoryActions	item	Druidic wreath
-Configure	を設定	inventoryActions	item	Annakarl teleport
+Configure	設定	inventoryActions	item	Annakarl teleport
 Extract	抽出	inventoryActions	item	Nest box (empty)
 Unload	取り出す	inventoryActions	item	Toxic blowpipe
 Untrim	縁を取る	inventoryActions	item	Quest point cape (t)
@@ -215,7 +215,7 @@ Restore	回復	inventoryActions	item	Tanzanite helm (uncharged)
 Scramble	スクランブル	inventoryActions	item	Rotten egg
 Poach	ポーチ	inventoryActions	item	Rotten egg
 Fry	揚げる	inventoryActions	item	Rotten egg
-Pickle		inventoryActions	item	Rotten egg
+Pickle	漬物	inventoryActions	item	Rotten egg
 Consume	消費	inventoryActions	item	Saradomin's light
 Teleports	ワープ	inventoryActions	item	Max cape
 Metamorphosis	変身	inventoryActions	item	Beaver
@@ -229,7 +229,7 @@ Combine	組み合わせる	inventoryActions	item	Torn clue scroll (part 1)
 Recoil settings	反射の設定	inventoryActions	item	Ring of suffering (r)
 Pages	ページ	inventoryActions	item	Tome of fire
 Invigorate	活性化	inventoryActions	item	Imbued heart
-Look at	を見る	inventoryActions	item	Snow globe
+Look at	見る	inventoryActions	item	Snow globe
 Snow	雪	inventoryActions	item	Snow globe
 Options	オプション	inventoryActions	item	Amulet of chemistry
 Change-style	見た目を変更	inventoryActions	item	Rainbow scarf
@@ -238,20 +238,20 @@ Remove default	即値を除く	inventoryActions	item	Master scroll book
 Throw-water	水を投げる	inventoryActions	item	Heat-proof vessel
 Throw-water direction	水を投げる方向	inventoryActions	item	Heat-proof vessel
 Check-level	レベルを確認	inventoryActions	item	Heat-proof vessel
-Roll	を転がす	inventoryActions	item	Hoop snake
+Roll	転がす	inventoryActions	item	Hoop snake
 Channel	転換	inventoryActions	item	Merfolk trident
 Puff	空気を抜く	inventoryActions	item	Pufferfish
 Take fish	魚を取る	inventoryActions	item	Bowl of fish
-Reminisce	で思い出にふける	inventoryActions	item	Kharedst's memoirs
+Reminisce	思い出にふける	inventoryActions	item	Kharedst's memoirs
 Toggle-absorption	吸収の切り替え	inventoryActions	item	Bracelet of ethereum
 Elite	超級	inventoryActions	item	Useful rock
 Master	達人	inventoryActions	item	Useful rock
 Assessment	アセスメント	inventoryActions	item	Useful rock
 Control	操作	inventoryActions	item	Rotten cabbage
 Spectate	観戦	inventoryActions	item	Rotten cabbage
-Charge	をチャージする	inventoryActions	item	Sanguinesti staff
+Charge	チャージする	inventoryActions	item	Sanguinesti staff
 Scry	透視	inventoryActions	item	Oculus orb
-Bloom		inventoryActions	item	Ivandis flail
+Bloom	咲かせる	inventoryActions	item	Ivandis flail
 Ver Sinhaza	ベー・シンハザ	inventoryActions	item	Drakan's medallion
 Darkmeyer	ダーク・メヤー	inventoryActions	item	Drakan's medallion
 Slepe	スレペ	inventoryActions	item	Drakan's medallion
@@ -262,10 +262,10 @@ Change	変更	inventoryActions	item	Sinhaza shroud tier 1
 Auto-afk	自動AFK	inventoryActions	item	Escape crystal
 Open-all	全て開く	inventoryActions	item	Coin pouch
 Swap	入れ替える	inventoryActions	item	Thammaron's sceptre (u)
-Close	を閉じる	inventoryActions	item	Looting bag
+Close	閉じる	inventoryActions	item	Looting bag
 Weiss	ウェイス	inventoryActions	item	Icy basalt
 Troll Stronghold	トロール要塞	inventoryActions	item	Stony basalt
-Fletch		inventoryActions	item	Celastrus bark
+Fletch	加工	inventoryActions	item	Celastrus bark
 Kourend Woodland	クーレンド林地	inventoryActions	item	Rada's blessing 1
 Mount Karuulm	カルールム山	inventoryActions	item	Rada's blessing 3
 Check/Uncharge	確認・チャージ解除	inventoryActions	item	Bonecrusher necklace
@@ -276,9 +276,9 @@ Easter dance	イースター・ダンス	inventoryActions	item	Giant easter egg
 Cut-open	切り開く	inventoryActions	item	Giant egg sac(full)
 Check-eggs	卵を確認	inventoryActions	item	Giant egg sac(full)
 Remove-eggs	卵を取る	inventoryActions	item	Giant egg sac
-Scrutinise		inventoryActions	item	Guthixian icon
-Chase	を追いかける	inventoryActions	item	Cat ears
-Last-destination	で前の目的地へ	inventoryActions	item	Fairy mushroom
+Scrutinise	よく調べる	inventoryActions	item	Guthixian icon
+Chase	追いかける	inventoryActions	item	Cat ears
+Last-destination	前の目的地へ	inventoryActions	item	Fairy mushroom
 Teleport-back	ワープで戻る	inventoryActions	item	Crystal of memories
 Check-memories	記憶を確認	inventoryActions	item	Crystal of memories
 Withdraw	引き出す	inventoryActions	item	Extradimensional bag
@@ -293,7 +293,7 @@ Mor Ul Rek	モー・ウル・レク	inventoryActions	item	Ghommal's hilt 4
 Unattune	不調和	inventoryActions	item	Sigil of resilience
 Attune	調和	inventoryActions	item	Sigil of resilience
 Make scary noise	怖い音をたてる	inventoryActions	item	Jered's empty wine bottle
-Reverse		inventoryActions	item	Ugly halloween jumper (orange)
+Reverse	を逆にする	inventoryActions	item	Ugly halloween jumper (orange)
 Wake-ghost	霊を呼び覚ます	inventoryActions	item	Haunted wine bottle
 Read-tag	タグを読む	inventoryActions	item	Secret santa present (red)
 Change-colour	色を変える	inventoryActions	item	Secret santa present (red)
@@ -305,21 +305,21 @@ Unimbue	魔法解除	inventoryActions	item	Wristbands of the arena (i)
 Last Destination	で前の目的地へ	inventoryActions	item	Ring of the elements
 Last-Teleport	以前のワープ	inventoryActions	item	Pharaoh's sceptre
 Attach	繋げる	inventoryActions	item	Cursed phalanx
-Place	を置く	inventoryActions	item	Mirror
+Place	置く	inventoryActions	item	Mirror
 Withdraw 1	１個引き出す	inventoryActions	item	Supplies
 Withdraw All	全て引き出す	inventoryActions	item	Supplies
 Resupply	再供給	inventoryActions	item	Supplies
 Apply	適用	inventoryActions	item	Silk dressing (2)
 Crack	ひび	inventoryActions	item	Blessed crystal scarab (2)
 Crush	潰す	inventoryActions	item	Smelling salts (2)
-Take-from	から取る	inventoryActions	item	Infinite money bag
-Help	を手伝う	inventoryActions	item	Fresh start helper
+Take-from	取る	inventoryActions	item	Infinite money bag
+Help	手伝う	inventoryActions	item	Fresh start helper
 Sniff	においを嗅ぐ	inventoryActions	item	Smelly sock
 Destinations	目的地	inventoryActions	item	Ghommal's avernic defender 5
 Craft	作る	inventoryActions	item	Secateurs blade
 History	歴史	inventoryActions	item	Mulch
 Recall	呼び戻す	inventoryActions	item	Blackstone fragment
-Squeeze		inventoryActions	item	Detonator
+Squeeze	力を入れる	inventoryActions	item	Detonator
 Set-off	爆破	inventoryActions	item	Stink bomb
 Fairy-ring	妖精の輪	inventoryActions	item	Trinket of fairies
 Spirit-tree	精霊樹	inventoryActions	item	Trinket of fairies
@@ -332,8 +332,8 @@ Dismiss	解任する	inventoryActions	item	Guardian horn
 Toggle-modes	モード切り替え	inventoryActions	item	Guardian horn
 Change-outfit	衣装を変更	inventoryActions	item	Guardian horn
 Change Prayerbook	祈りの書を変更	inventoryActions	item	Ruinous powers
-Toggle-activity		inventoryActions	item	Echo boots
+Toggle-activity	発動を切り替える	inventoryActions	item	Echo boots
 Signal	合図	inventoryActions	item	Basic quetzal whistle
 Rumour	ルーマー	inventoryActions	item	Basic quetzal whistle
 Break-down	取り崩す	inventoryActions	item	Blessed bone statuette
-Examine		inventoryActions	item	
+Examine	調べる	inventoryActions	item	

@@ -1007,7 +1007,7 @@ Look-through	越しに見る	actions	object	Window
 Charge-at	チャージする	actions	object	Vyre well
 Quick-enter	すぐ入る	actions	object	Door
 Resign	諦める	actions	object	Vyre Orator
-Varrock	バロック	actions	object	Varrock Portal
+Varrock	ヴァロック	actions	object	Varrock Portal
 Grand Exchange	グランド・エクスチェンジ	actions	object	Varrock Portal
 Toggle	切り替える	actions	object	Varrock Portal
 Camelot	カメロット	actions	object	Camelot Portal
@@ -1385,46 +1385,46 @@ Enable	有効にする	actions	menu
 Area	地域	actions	menu	
 Manual	手動	actions	menu	
 Random	ランダム	actions	menu	
-Activate		actions	menu	
-Use		actions	menu	
-DPS		actions	menu	
-Search		actions	menu	
-Open		actions	menu	
-Toggle		actions	menu	
-Unmute		actions	menu	
-World Switcher		actions	menu	
-Favourite		actions	menu	
-Delete		actions	menu	
-Message		actions	menu	
-Remove friend		actions	menu	
-Add ignore		actions	menu	
-Add friend		actions	menu	
-Open wiki quick guide:		actions	menu	
-Open wiki guide:		actions	menu	
-Show on map:		actions	menu	
-Read journal:		actions	menu	
-Start Helper		actions	menu	
-Wiki <colNum0>Ardougne Journal</col>		actions	menu	
-Open <colNum0>Ardougne Journal</col>		actions	menu	
-Wiki <colNum0>Desert Journal</col>		actions	menu	
-Open <colNum0>Desert Journal</col>		actions	menu	
-Wiki <colNum0>Falador Journal</col>		actions	menu	
-Open <colNum0>Falador Journal</col>		actions	menu	
-Wiki <colNum0>Fremennik Journal</col>		actions	menu	
-Open <colNum0>Fremennik Journal</col>		actions	menu	
-Wiki <colNum0>Kandarin Journal</col>		actions	menu	
-Open <colNum0>Kandarin Journal</col>		actions	menu	
-Wiki <colNum0>Karamja Journal</col>		actions	menu	
-Open <colNum0>Karamja Journal</col>		actions	menu	
-Wiki <colNum0>Kourend & Kebos Journal</col>		actions	menu	
-Open <colNum0>Kourend & Kebos Journal</col>		actions	menu	
-Wiki <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	
-Open <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	
-Wiki <colNum0>Morytania Journal</col>		actions	menu	
-Open <colNum0>Morytania Journal</col>		actions	menu	
-Wiki <colNum0>Varrock Journal</col>		actions	menu	
-Open <colNum0>Varrock Journal</col>		actions	menu	
-Wiki <colNum0>Western Provinces Journal</col>		actions	menu	
-Open <colNum0>Western Provinces Journal</col>		actions	menu	
-Wiki <colNum0>Wilderness Journal</col>		actions	menu	
-Open <colNum0>Wilderness Journal</col>		actions	menu	
+Activate	発動	actions	menu	
+Use	使う	actions	menu	
+DPS	DPS	actions	menu	
+Search	検索	actions	menu	
+Open	開く	actions	menu	
+Toggle	切り替える	actions	menu	
+Unmute	消音解除	actions	menu	
+World Switcher	サーバー変更	actions	menu	
+Favourite	お気に入り	actions	menu	
+Delete	削除	actions	menu	
+Message	メッセージ	actions	menu	
+Remove friend	フレンド削除	actions	menu	
+Add ignore	無視リスト追加	actions	menu	
+Add friend	フレンド追加	actions	menu	
+Open wiki quick guide:	ウィキの最速攻略を開く	actions	menu	
+Open wiki guide:	ウィキガイドを開く	actions	menu	
+Show on map:	地図上で示す	actions	menu	
+Read journal:	記録を読む	actions	menu	
+Start Helper	ヘルパーを開始	actions	menu	
+Wiki <colNum0>Ardougne Journal</col>	<colNum0>アルドインの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Ardougne Journal</col>	<colNum0>アルドインの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Desert Journal</col>	<colNum0>砂漠の日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Desert Journal</col>	<colNum0>砂漠の日誌</col>を開く	actions	menu	
+Wiki <colNum0>Falador Journal</col>	<colNum0>ファラドーの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Falador Journal</col>	<colNum0>ファラドーの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Fremennik Journal</col>	<colNum0>フレメニックの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Fremennik Journal</col>	<colNum0>フレメニックの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Kandarin Journal</col>	<colNum0>カンダリンの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Kandarin Journal</col>	<colNum0>カンダリンの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Karamja Journal</col>	<colNum0>カラムジャの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Karamja Journal</col>	<colNum0>カラムジャの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Kourend & Kebos Journal</col>	<colNum0>クーレンドとケボスの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Kourend & Kebos Journal</col>	<colNum0>クーレンドとケボスの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>ランブリッジとドレイナーの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>ランブリッジとドレイナーの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Morytania Journal</col>	<colNum0>モリタニアの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Morytania Journal</col>	<colNum0>モリタニアの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Varrock Journal</col>	<colNum0>ヴァロックの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Varrock Journal</col>	<colNum0>ヴァロックの日誌</col>を開く	actions	menu	
+Wiki <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>を開く	actions	menu	
+Wiki <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>をウィキ検索	actions	menu	
+Open <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>を開く	actions	menu	

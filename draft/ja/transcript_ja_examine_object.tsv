@@ -3900,7 +3900,7 @@ Who would have thought the Karamja Box Company supports the HAM cult?		examine	o
 I don't think it contains ham.		examine	object	Small chest
 It must be from the river above.		examine	object	Drip
 A cracked wall.		examine	object	Crack
-A wall		examine	object	Wall
+A wall	壁	examine	object	Wall
 A long dark tunnel.		examine	object	Tunnel
 A blocked tunnel.		examine	object	Tunnel
 It probably leads to some sort of cellar.		examine	object	Trapdoor
@@ -8097,7 +8097,7 @@ A strangely decorated gold chest, the open lock is painted black.		examine	objec
 A strangely decorated gold chest, the open lock is painted purple.		examine	object	Gold Chest
 An ominous altar constructed out of large stone slabs.		examine	object	Altar
 A good place to keep track of shooting star activity.		examine	object	Shooting Star Noticeboard
-test		examine	object	mast
+test	テスト	examine	object	mast
 A tribal shrine. Probably useful for cooking things on.		examine	object	Shrine
 Rapidly fires harpoonfish.		examine	object	Harpoonfish cannon
 The magic of Tempoross coursing through the cannon makes it impossible to operate.		examine	object	Electrified harpoonfish cannon
@@ -8340,7 +8340,7 @@ A mahogany outfit stand displaying a set of Shattered Relic Hunter (T1)		examine
 A mahogany outfit stand displaying a set of Shattered Relic Hunter (T2)		examine	object	Mahogany outfit stand
 A mahogany outfit stand displaying a set of Shattered Relic Hunter (T3)		examine	object	Mahogany outfit stand
 Placed here by The Sage.		examine	object	Lock
-REPLACE ME		examine	object	REPLACE ME
+REPLACE ME	私を置き換えて	examine	object	REPLACE ME
 A strange energy can be felt here...		examine	object	Runestone basalt
 A ferry between realms.		examine	object	Boat
 A strange waystone. Doesn't look turned on.		examine	object	Lumbridge Waystone
@@ -8541,7 +8541,7 @@ Records how many fights you've been in.		examine	object	Scoreboard
 The exit from the arena.		examine	object	Gateway
 Pass through here when you're ready.		examine	object	Portal
 Used for observing battles up close.		examine	object	Telescope
-Loot!		examine	object	Loot!
+Loot!	報酬！	examine	object	Loot!
 I wonder what they say?		examine	object	Scrolls
 Details how you did.		examine	object	Scoreboard
 Would be rude not to search them.		examine	object	Bags

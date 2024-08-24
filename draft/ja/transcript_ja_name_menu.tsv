@@ -24,67 +24,67 @@ Slayer	討伐	name	menu
 Farming	農業	name	menu	
 Construction	建築	name	menu	
 Hunter	狩人	name	menu	
-XP drops		name	menu	
-Quick-prayers		name	menu	
-Special Attack		name	menu	
-Wiki		name	menu	
-Old School Wiki		name	menu	
-Merchandise		name	menu	
-Hiscores		name	menu	
-Customer Support		name	menu	
-Old School Website		name	menu	
-GrandﾂExchange		name	menu	
-Search		name	menu	
-All		name	menu	
-Music		name	menu	
-SoundﾂEffects		name	menu	
-AreaﾂSounds		name	menu	
-<colNum0>PvP Arena</col> options		name	menu	
-Ardougne Elite Diary		name	menu	
-Desert Elite Diary		name	menu	
-Fremennik Elite Diary		name	menu	
-Kandarin Elite Diary		name	menu	
-Karamja Elite Diary		name	menu	
-Kourend & Kebos Elite Diary		name	menu	
-Morytania Elite Diary		name	menu	
-Varrock Elite Diary		name	menu	
-Western Provinces Elite Diary		name	menu	
-Wilderness Elite Diary		name	menu	
-Falador Elite Diary		name	menu	
-Lumbridge & Draynor Elite Diary		name	menu	
-Ardougne Hard Diary		name	menu	
-Desert Hard Diary		name	menu	
-Falador Hard Diary		name	menu	
-Fremennik Hard Diary		name	menu	
-Kandarin Hard Diary		name	menu	
-Karamja Hard Diary		name	menu	
-Kourend & Kebos Hard Diary		name	menu	
-Lumbridge & Draynor Hard Diary		name	menu	
-Morytania Hard Diary		name	menu	
-Varrock Hard Diary		name	menu	
-Western Provinces Hard Diary		name	menu	
-Wilderness Hard Diary		name	menu	
-Ardougne Medium Diary		name	menu	
-Desert Medium Diary		name	menu	
-Falador Medium Diary		name	menu	
-Fremennik Medium Diary		name	menu	
-Kandarin Medium Diary		name	menu	
-Karamja Medium Diary		name	menu	
-Kourend & Kebos Medium Diary		name	menu	
-Lumbridge & Draynor Medium Diary		name	menu	
-Morytania Medium Diary		name	menu	
-Varrock Medium Diary		name	menu	
-Western Provinces Medium Diary		name	menu	
-Wilderness Medium Diary		name	menu	
-Ardougne Easy Diary		name	menu	
-Desert Easy Diary		name	menu	
-Falador Easy Diary		name	menu	
-Fremennik Easy Diary		name	menu	
-Kandarin Easy Diary		name	menu	
-Karamja Easy Diary		name	menu	
-Kourend & Kebos Easy Diary		name	menu	
-Lumbridge & Draynor Easy Diary		name	menu	
-Morytania Easy Diary		name	menu	
-Varrock Easy Diary		name	menu	
-Western Provinces Easy Diary		name	menu	
-Wilderness Easy Diary		name	menu	
+XP drops	XPドロップ	name	menu	
+Quick-prayers	即行の祈り	name	menu	
+Special Attack	奥義	name	menu	
+Wiki	ウィキ	name	menu	
+Old School Wiki	オールドスクール・ウィキ	name	menu	
+Merchandise	商品サイト	name	menu	
+Hiscores	ハイスコア	name	menu	
+Customer Support	サポートセンタ	name	menu	
+Old School Website	オールドスクールのサイト	name	menu	
+GrandﾂExchange	グランド・エクスチェンジ	name	menu	
+Search	検索	name	menu	
+All	全て	name	menu	
+Music	音楽	name	menu	
+SoundﾂEffects	効果音	name	menu	
+AreaﾂSounds	環境音	name	menu	
+<colNum0>PvP Arena</col> options	<colNum0>PvPアリーナ</col> のオプション	name	menu	
+Ardougne Elite Diary	アルドインの超級日記	name	menu	
+Desert Elite Diary	砂漠の超級日記	name	menu	
+Fremennik Elite Diary	フレメニックの超級日記	name	menu	
+Kandarin Elite Diary	カンダリンの超級日記	name	menu	
+Karamja Elite Diary	カラムジャの超級日記	name	menu	
+Kourend & Kebos Elite Diary	クーレンドとケボスの超級日記	name	menu	
+Morytania Elite Diary	モリタニアの超級日記	name	menu	
+Varrock Elite Diary	ヴァロックの超級日記	name	menu	
+Western Provinces Elite Diary	西部地方の超級日記	name	menu	
+Wilderness Elite Diary	ウィルダネスの超級日記	name	menu	
+Falador Elite Diary	ファラドーの超級日記	name	menu	
+Lumbridge & Draynor Elite Diary	ランブリッジとドレイナーの超級日記	name	menu	
+Ardougne Hard Diary	アルドインの上級日記	name	menu	
+Desert Hard Diary	砂漠の上級日記	name	menu	
+Falador Hard Diary	ファラドーの上級日記	name	menu	
+Fremennik Hard Diary	フレメニックの上級日記	name	menu	
+Kandarin Hard Diary	カンダリンの上級日記	name	menu	
+Karamja Hard Diary	カラムジャの上級日記	name	menu	
+Kourend & Kebos Hard Diary	クーレンドとケボスの上級日記	name	menu	
+Lumbridge & Draynor Hard Diary	ランブリッジとドレイナーの上級日記	name	menu	
+Morytania Hard Diary	モリタニアの上級日記	name	menu	
+Varrock Hard Diary	ヴァロックの上級日記	name	menu	
+Western Provinces Hard Diary	西部地方の上級日記	name	menu	
+Wilderness Hard Diary	ウィルダネスの上級日記	name	menu	
+Ardougne Medium Diary	アルドインの中級日記	name	menu	
+Desert Medium Diary	砂漠の中級日記	name	menu	
+Falador Medium Diary	ファラドーの中級日記	name	menu	
+Fremennik Medium Diary	フレメニックの中級日記	name	menu	
+Kandarin Medium Diary	カンダリンの中級日記	name	menu	
+Karamja Medium Diary	カラムジャの中級日記	name	menu	
+Kourend & Kebos Medium Diary	クーレンドとケボスの中級日記	name	menu	
+Lumbridge & Draynor Medium Diary	ランブリッジとドレイナーの中級日記	name	menu	
+Morytania Medium Diary	モリタニアの中級日記	name	menu	
+Varrock Medium Diary	ヴァロックの中級日記	name	menu	
+Western Provinces Medium Diary	西部地方の中級日記	name	menu	
+Wilderness Medium Diary	ウィルダネスの中級日記	name	menu	
+Ardougne Easy Diary	アルドインの初級日記	name	menu	
+Desert Easy Diary	砂漠の初級日記	name	menu	
+Falador Easy Diary	ファラドーの初級日記	name	menu	
+Fremennik Easy Diary	フレメニックの初級日記	name	menu	
+Kandarin Easy Diary	カンダリンの初級日記	name	menu	
+Karamja Easy Diary	カラムジャの初級日記	name	menu	
+Kourend & Kebos Easy Diary	クーレンドとケボスの初級日記	name	menu	
+Lumbridge & Draynor Easy Diary	ランブリッジとドレイナーの初級日記	name	menu	
+Morytania Easy Diary	モリタニアの初級日記	name	menu	
+Varrock Easy Diary	ヴァロックの初級日記	name	menu	
+Western Provinces Easy Diary	西部地方の初級日記	name	menu	
+Wilderness Easy Diary	ウィルダネスの初級日記	name	menu	
