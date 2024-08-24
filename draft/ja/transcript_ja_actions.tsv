@@ -372,7 +372,7 @@ Cross	渡る	actions	object	Gangplank
 Knock-at	たたく	actions	object	Large door
 Search for traps	罠を探す	actions	object	Lever
 Shut	閉じる	actions	object	Open chest
-Cook	料理人	actions	object	Cooking range
+Cook	料理する	actions	object	Cooking range
 Burst	割る	actions	object	Party Balloon
 Jump-up	跳びあがる	actions	object	Rocks
 Operate	操作	actions	object	Winch
@@ -1385,3 +1385,46 @@ Enable	有効にする	actions	menu
 Area	地域	actions	menu	
 Manual	手動	actions	menu	
 Random	ランダム	actions	menu	
+Activate		actions	menu	
+Use		actions	menu	
+DPS		actions	menu	
+Search		actions	menu	
+Open		actions	menu	
+Toggle		actions	menu	
+Unmute		actions	menu	
+World Switcher		actions	menu	
+Favourite		actions	menu	
+Delete		actions	menu	
+Message		actions	menu	
+Remove friend		actions	menu	
+Add ignore		actions	menu	
+Add friend		actions	menu	
+Open wiki quick guide:		actions	menu	
+Open wiki guide:		actions	menu	
+Show on map:		actions	menu	
+Read journal:		actions	menu	
+Start Helper		actions	menu	
+Wiki <colNum0>Ardougne Journal</col>		actions	menu	
+Open <colNum0>Ardougne Journal</col>		actions	menu	
+Wiki <colNum0>Desert Journal</col>		actions	menu	
+Open <colNum0>Desert Journal</col>		actions	menu	
+Wiki <colNum0>Falador Journal</col>		actions	menu	
+Open <colNum0>Falador Journal</col>		actions	menu	
+Wiki <colNum0>Fremennik Journal</col>		actions	menu	
+Open <colNum0>Fremennik Journal</col>		actions	menu	
+Wiki <colNum0>Kandarin Journal</col>		actions	menu	
+Open <colNum0>Kandarin Journal</col>		actions	menu	
+Wiki <colNum0>Karamja Journal</col>		actions	menu	
+Open <colNum0>Karamja Journal</col>		actions	menu	
+Wiki <colNum0>Kourend & Kebos Journal</col>		actions	menu	
+Open <colNum0>Kourend & Kebos Journal</col>		actions	menu	
+Wiki <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	
+Open <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	
+Wiki <colNum0>Morytania Journal</col>		actions	menu	
+Open <colNum0>Morytania Journal</col>		actions	menu	
+Wiki <colNum0>Varrock Journal</col>		actions	menu	
+Open <colNum0>Varrock Journal</col>		actions	menu	
+Wiki <colNum0>Western Provinces Journal</col>		actions	menu	
+Open <colNum0>Western Provinces Journal</col>		actions	menu	
+Wiki <colNum0>Wilderness Journal</col>		actions	menu	
+Open <colNum0>Wilderness Journal</col>		actions	menu	

@@ -467,7 +467,7 @@ Get your axes from Bob's Axes.		examine	item	Flyer
 A plank of wood!		examine	item	Plank
 I need to pull this.		examine	item	Christmas cracker
 A fraction of a roof.		examine	item	Tile
-A rock	岩石	examine	item	Rock
+A rock		examine	item	Rock
 Used for making notes.		examine	item	Papyrus
 Used papyrus, it has squiggles all over it.		examine	item	Papyrus
 A lump of charcoal.		examine	item	Charcoal
@@ -3054,11 +3054,11 @@ A teleport to East Ardougne.		examine	item	Ardougne teleport
 A teleport to the Yanille Watchtower.		examine	item	Watchtower teleport
 A teleport to one's own house.		examine	item	Teleport to house
 A tablet containing a magic spell.		examine	item	Bones to bananas
-Boxing ring	ボクシングのリング	examine	item	Boxing ring
-Fencing ring	フェンシングのリング	examine	item	Fencing ring
-Combat ring	対戦リング	examine	item	Combat ring
+Boxing ring		examine	item	Boxing ring
+Fencing ring		examine	item	Fencing ring
+Combat ring		examine	item	Combat ring
 Ranging pedestals		examine	item	Ranging pedestals
-Balance beam	平均台	examine	item	Balance beam
+Balance beam		examine	item	Balance beam
 Boxing glove rack		examine	item	Glove rack
 Weapons rack		examine	item	Weapons rack
 Extra weapons rack		examine	item	Extra weapons rack
@@ -3069,7 +3069,7 @@ Teak bed		examine	item	Teak bed
 Large teak bed		examine	item	Large teak bed
 Mahogany four-poster bed		examine	item	4-poster
 Gilded mahogany four-poster bed		examine	item	Gilded 4-poster
-Shoe box	下駄箱	examine	item	Shoe box
+Shoe box		examine	item	Shoe box
 Oak chest of drawers		examine	item	Oak drawers
 Oak wardrobe (bedroom)		examine	item	Oak wardrobe
 Teak chest of drawers		examine	item	Teak drawers
@@ -3087,11 +3087,11 @@ Oak clock		examine	item	Oak clock
 Teak clock		examine	item	Teak clock
 Gilded mahogany clock		examine	item	Gilded clock
 Saradomin symbol		examine	item	Saradomin symbol
-Symbol of Zamorak	ザモラックの印	examine	item	Zamorak symbol
-Symbol of Guthix	ガシックスの印	examine	item	Guthix symbol
-Icon of Saradomin	サラドミンの肖像	examine	item	Saradomin icon
-Icon of Zamorak	ザモラックの肖像	examine	item	Zamorak icon
-Icon of Guthix	ガシックスの肖像	examine	item	Guthix icon
+Symbol of Zamorak		examine	item	Zamorak symbol
+Symbol of Guthix		examine	item	Guthix symbol
+Icon of Saradomin		examine	item	Saradomin icon
+Icon of Zamorak		examine	item	Zamorak icon
+Icon of Guthix		examine	item	Guthix icon
 Icon of Bob the Cat		examine	item	Bob icon
 Oak altar		examine	item	Oak altar
 Teak altar		examine	item	Teak altar
@@ -3116,7 +3116,7 @@ Chapel organ		examine	item	Organ
 Small chapel statue		examine	item	Small statues
 Medium chapel statue		examine	item	Medium statues
 Large chapel statue		examine	item	Large statues
-Suit of armour	鎧	examine	item	Suit of armour
+Suit of armour		examine	item	Suit of armour
 Small portrait		examine	item	Small portrait
 Minor slayer monster head		examine	item	Minor head
 Medium slayer monster head		examine	item	Medium head
@@ -3125,15 +3125,15 @@ Mounted sword		examine	item	Mounted sword
 Small landscape		examine	item	Small landscape
 Large portrait		examine	item	Large portrait
 Large landscape		examine	item	Large landscape
-Rune display case	ルーンの展示ケース	examine	item	Rune display case
+Rune display case		examine	item	Rune display case
 Low-level plants		examine	item	Low-level plants
 Mid-level plants		examine	item	Mid-level plants
 High-level plants		examine	item	High-level plants
-Rope bell-pull	ベル引き綱	examine	item	Rope bell-pull
+Rope bell-pull		examine	item	Rope bell-pull
 Teak bell-pull		examine	item	Bell-pull
 Gilded teak bell-pull		examine	item	Posh bell-pull
-Oak wall decoration	樫の壁の装飾	examine	item	Oak decoration
-Teak wall decoration	チークの壁の装飾	examine	item	Teak decoration
+Oak wall decoration		examine	item	Oak decoration
+Teak wall decoration		examine	item	Teak decoration
 Gilded mahogany wall decoration		examine	item	Gilded decoration
 Round wall-mounted shield		examine	item	Round shield
 Square wall-mounted shield		examine	item	Square shield
@@ -3162,22 +3162,22 @@ Dungeon candles		examine	item	Candles
 Dungeon torches		examine	item	Torches
 Dungeon skull torches		examine	item	Skull torches
 Skeleton guard		examine	item	Skeleton guard
-Guard dog	番犬	examine	item	Guard dog
+Guard dog		examine	item	Guard dog
 Hobgoblin guard		examine	item	Hobgoblin guard
-Baby red dragon	幼い赤竜	examine	item	Baby red dragon
-Huge spider	大きなクモ	examine	item	Huge spider
+Baby red dragon		examine	item	Baby red dragon
+Huge spider		examine	item	Huge spider
 Troll guard		examine	item	Troll guard
-Hellhound	ヘルハウンド	examine	item	Hellhound
-Demon	悪魔	examine	item	Demon
+Hellhound		examine	item	Hellhound
+Demon		examine	item	Demon
 Kalphite soldier		examine	item	Kalphite soldier
-Tok-Xil	トク・ジル	examine	item	Tok-xil
-Dagannoth	ダガノス	examine	item	Dagannoth
-Steel dragon	鋼鉄の竜	examine	item	Steel dragon
-Spike trap	トゲの罠	examine	item	Spike trap
-Man trap	対人の罠	examine	item	Man trap
-Tangle vine	絡んだツル	examine	item	Tangle vine
-Marble trap	大理石の罠	examine	item	Marble trap
-Teleport trap	ワープの罠	examine	item	Teleport trap
+Tok-Xil		examine	item	Tok-xil
+Dagannoth		examine	item	Dagannoth
+Steel dragon		examine	item	Steel dragon
+Spike trap		examine	item	Spike trap
+Man trap		examine	item	Man trap
+Tangle vine		examine	item	Tangle vine
+Marble trap		examine	item	Marble trap
+Teleport trap		examine	item	Teleport trap
 Wooden dungeon treasure crate		examine	item	Wooden crate
 Oak dungeon treasure chest		examine	item	Oak chest
 Teak dungeon treasure chest		examine	item	Teak chest
@@ -3191,47 +3191,47 @@ Medium balance		examine	item	Magical balance 2
 Greater magical balance		examine	item	Magical balance 3
 Jester game		examine	item	Jester
 Treasure hunt fairy house		examine	item	Treasure hunt
-Hangman game	ハングマン・ゲーム	examine	item	Hangman game
+Hangman game		examine	item	Hangman game
 Hoop-and-stick game		examine	item	Hoop and stick
-Dartboard	ダーツボード	examine	item	Dartboard
-Archery target	アーチェリーの的	examine	item	Archery target
-Oak prize chest	樫の景品入れ	examine	item	Oak prize chest
-Teak prize chest	チークの景品入れ	examine	item	Teak prize chest
-Mahogany prize chest	マホガニーの景品入れ	examine	item	Mahogany chest
-Exit portal	出口ポータル	examine	item	Exit portal
+Dartboard		examine	item	Dartboard
+Archery target		examine	item	Archery target
+Oak prize chest		examine	item	Oak prize chest
+Teak prize chest		examine	item	Teak prize chest
+Mahogany prize chest		examine	item	Mahogany chest
+Exit portal		examine	item	Exit portal
 Decorative Rock		examine	item	Decorative rock
-Pond	池	examine	item	Pond
+Pond		examine	item	Pond
 Imp Statue		examine	item	Imp statue
-Dungeon entrance	ダンジョンの入口	examine	item	Dungeon entrance
-Tree	木	examine	item	Tree
+Dungeon entrance		examine	item	Dungeon entrance
+Tree		examine	item	Tree
 Nice tree		examine	item	Nice tree
-Oak tree	樫	examine	item	Oak tree
-Willow tree	柳	examine	item	Willow tree
-Maple tree	楓	examine	item	Maple tree
-Yew tree	イチイ	examine	item	Yew tree
-Magic tree	魔法樹	examine	item	Magic tree
-Plant	植える	examine	item	Plant
+Oak tree		examine	item	Oak tree
+Willow tree		examine	item	Willow tree
+Maple tree		examine	item	Maple tree
+Yew tree		examine	item	Yew tree
+Magic tree		examine	item	Magic tree
+Plant		examine	item	Plant
 Small Fern		examine	item	Small fern
-Fern	シダ	examine	item	Fern
+Fern		examine	item	Fern
 Dock leaf		examine	item	Dock leaf
-Thistle	アザミ	examine	item	Thistle
-Reeds	アシ	examine	item	Reeds
-Bush	低木	examine	item	Bush
+Thistle		examine	item	Thistle
+Reeds		examine	item	Reeds
+Bush		examine	item	Bush
 Tall plant		examine	item	Tall plant
 Short plant		examine	item	Short plant
 Large-leaf plant		examine	item	Large-leaf plant
-Huge plant	巨大な植物	examine	item	Huge plant
-Gazebo	凉亭	examine	item	Gazebo
-Small fountain	小さな噴水	examine	item	Small fountain
-Large fountain	大きな噴水	examine	item	Large fountain
+Huge plant		examine	item	Huge plant
+Gazebo		examine	item	Gazebo
+Small fountain		examine	item	Small fountain
+Large fountain		examine	item	Large fountain
 Posh fountain		examine	item	Posh fountain
-Boundary stones	境界石	examine	item	Boundary stones
-Wooden fence	木製のフェンス	examine	item	Wooden fence
-Stone wall	石の壁	examine	item	Stone wall
-Iron railings	鉄のフェンス	examine	item	Iron railings
-Picket fence	杭柵	examine	item	Picket fence
-Garden fence	庭のフェンス	examine	item	Garden fence
-Marble wall	大理石の壁	examine	item	Marble wall
+Boundary stones		examine	item	Boundary stones
+Wooden fence		examine	item	Wooden fence
+Stone wall		examine	item	Stone wall
+Iron railings		examine	item	Iron railings
+Picket fence		examine	item	Picket fence
+Garden fence		examine	item	Garden fence
+Marble wall		examine	item	Marble wall
 Thorny hedge		examine	item	Thorny hedge
 Nice hedge		examine	item	Nice hedge
 Small box hedge		examine	item	Small box hedge
@@ -3239,19 +3239,19 @@ Topiary hedge		examine	item	Topiary hedge
 Fancy hedge		examine	item	Fancy hedge
 Tall fancy hedge		examine	item	Tall fancy hedge
 Tall box hedge		examine	item	Tall box hedge
-Rosemary	ローズマリー	examine	item	Rosemary
-Daffodils	水仙	examine	item	Daffodils
-Bluebells	ツリガネスイセン	examine	item	Bluebells
-Sunflower	ヒマワリ	examine	item	Sunflower
-Marigolds	マリーゴールド	examine	item	Marigolds
-Roses	バラ	examine	item	Roses
-Firepit	火鉢	examine	item	Firepit
-Firepit with hook	フック付き火鉢	examine	item	Firepit with hook
-Firepit with pot	鍋付き火鉢	examine	item	Firepit with pot
-Small oven	小さなオーブン	examine	item	Small oven
-Large oven	大きなオーブン	examine	item	Large oven
-Steel range	鋼鉄のレンジ	examine	item	Steel range
-Fancy range	おしゃれなコンロ	examine	item	Fancy range
+Rosemary		examine	item	Rosemary
+Daffodils		examine	item	Daffodils
+Bluebells		examine	item	Bluebells
+Sunflower		examine	item	Sunflower
+Marigolds		examine	item	Marigolds
+Roses		examine	item	Roses
+Firepit		examine	item	Firepit
+Firepit with hook		examine	item	Firepit with hook
+Firepit with pot		examine	item	Firepit with pot
+Small oven		examine	item	Small oven
+Large oven		examine	item	Large oven
+Steel range		examine	item	Steel range
+Fancy range		examine	item	Fancy range
 Wooden shelves 1		examine	item	Wooden shelves 1
 Wooden shelves 2		examine	item	Wooden shelves 2
 Wooden shelves 3		examine	item	Wooden shelves 3
@@ -3259,22 +3259,22 @@ Oak shelves 1		examine	item	Oak shelves 1
 Oak shelves 2		examine	item	Oak shelves 2
 Teak shelves 1		examine	item	Teak shelves 1
 Teak shelves 2		examine	item	Teak shelves 2
-Pump and drain	ポンプと排水溝	examine	item	Pump and drain
-Pump and tub	ポンプとタブ	examine	item	Pump and tub
+Pump and drain		examine	item	Pump and drain
+Pump and tub		examine	item	Pump and tub
 Sink		examine	item	Sink
 Wooden larder		examine	item	Wooden larder
 Oak larder		examine	item	Oak larder
 Teak larder		examine	item	Teak larder
 Cat blanket		examine	item	Cat blanket
-Cat basket	ネコのバスケット	examine	item	Cat basket
+Cat basket		examine	item	Cat basket
 Cushioned cat basket		examine	item	Cushioned basket
-Beer barrel	ビールの樽	examine	item	Beer barrel
-Cider barrel	サイダーの樽	examine	item	Cider barrel
+Beer barrel		examine	item	Beer barrel
+Cider barrel		examine	item	Cider barrel
 Asgarnian Ale barrel		examine	item	Asgarnian ale
 Greenman's Ale barrel		examine	item	Greenman's ale
 Dragon bitter barrel		examine	item	Dragon bitter
 Chef's Delight barrel		examine	item	Chef's delight
-Null	ヌル	examine	item	Null
+Null		examine	item	Null
 Wood kitchen table		examine	item	Wood kitchen table
 Oak kitchen table		examine	item	Oak kitchen table
 Teak kitchen table		examine	item	Teak kitchen table
@@ -3283,17 +3283,17 @@ Teak staircase		examine	item	Teak staircase
 Marble staircase		examine	item	Marble staircase
 Limestone spiral staircase		examine	item	Spiral staircase
 Marble spiral		examine	item	Marble spiral
-Crawling hand	這う手	examine	item	Crawling hand
-Cockatrice head	コカトリスの頭部	examine	item	Cockatrice head
-Basilisk head	バジリスクの頭部	examine	item	Basilisk head
-Kurask head	クラスクの頭部	examine	item	Kurask head
-Abyssal demon head	深淵の悪魔の頭部	examine	item	Abyssal head
+Crawling hand		examine	item	Crawling hand
+Cockatrice head		examine	item	Cockatrice head
+Basilisk head		examine	item	Basilisk head
+Kurask head		examine	item	Kurask head
+Abyssal demon head		examine	item	Abyssal head
 King Black Dragon heads		examine	item	Kbd heads
 Kalphite Queen head		examine	item	Kq head
 Mounted Bass		examine	item	Mounted bass
 Mounted Swordfish		examine	item	Mounted swordfish
 Mounted Shark		examine	item	Mounted shark
-Mithril armour	ミスリルの鎧	examine	item	Mithril armour
+Mithril armour		examine	item	Mithril armour
 Adamantite armour		examine	item	Adamantite armour
 Runite armour		examine	item	Runite armour
 Castlewars armour 1		examine	item	Cw armour 1
@@ -3302,12 +3302,12 @@ Castlewars armour 3		examine	item	Cw armour 3
 Rune case 1		examine	item	Rune case 1
 Rune case 2		examine	item	Rune case 2
 Rune case 3		examine	item	Rune case 3
-Silverlight	シルバーライト	examine	item	Silverlight
-Excalibur	エクスカリバー	examine	item	Excalibur
-Darklight	ダークライト	examine	item	Darklight
+Silverlight		examine	item	Silverlight
+Excalibur		examine	item	Excalibur
+Darklight		examine	item	Darklight
 Anti-Dragon Shield		examine	item	Anti-dragon shield
-Amulet of Glory	栄光のアミュレット	examine	item	Amulet of glory
-Cape of Legends	伝説のマント	examine	item	Cape of legends
+Amulet of Glory		examine	item	Amulet of glory
+Cape of Legends		examine	item	Cape of legends
 Portrait of King Arthur		examine	item	King arthur
 Portrait of Elena		examine	item	Elena
 Portrait of the Giant Dwarf		examine	item	Giant dwarf
@@ -3322,41 +3322,41 @@ Medium map		examine	item	Medium map
 Large map		examine	item	Large map
 Oak cage		examine	item	Oak cage
 Oak and steel cage		examine	item	Oak and steel cage
-Steel cage	鋼鉄のケージ	examine	item	Steel cage
+Steel cage		examine	item	Steel cage
 Spiked cage		examine	item	Spiked cage
 Bone cage		examine	item	Bone cage
 Oubliette spikes		examine	item	Spikes
 Tentacle pool		examine	item	Tentacle pool
 Oubliette Flame pit		examine	item	Flame pit
-Rocnar	ロクナー	examine	item	Rocnar
+Rocnar		examine	item	Rocnar
 Oak oubliette ladder		examine	item	Oak ladder
 Teak oubliette ladder		examine	item	Teak ladder
 Mahogany oubliette ladder		examine	item	Mahogany ladder
 Crude wooden chair		examine	item	Crude wooden chair
-Wooden chair	木製の椅子	examine	item	Wooden chair
-Rocking chair	ゆり椅子	examine	item	Rocking chair
-Oak chair	樫の椅子	examine	item	Oak chair
+Wooden chair		examine	item	Wooden chair
+Rocking chair		examine	item	Rocking chair
+Oak chair		examine	item	Oak chair
 Oak armchair		examine	item	Oak armchair
 Teak armchair		examine	item	Teak armchair
 Mahogany armchair		examine	item	Mahogany armchair
 Brown rug		examine	item	Brown rug
-Rug	カーペット	examine	item	Rug
-Opulent rug	豪華なカーペット	examine	item	Opulent rug
+Rug		examine	item	Rug
+Opulent rug		examine	item	Opulent rug
 Wooden bookcase		examine	item	Wooden bookcase
 Oak bookcase		examine	item	Oak bookcase
 Mahogany bookcase		examine	item	Mahogany bookcase
 Torn curtains		examine	item	Torn curtains
-Curtains	カーテン	examine	item	Curtains
+Curtains		examine	item	Curtains
 Opulent curtains		examine	item	Opulent curtains
-Clay fireplace	粘土の暖炉	examine	item	Clay fireplace
+Clay fireplace		examine	item	Clay fireplace
 Stone fireplace		examine	item	Stone fireplace
-Marble fireplace	大理石の暖炉	examine	item	Marble fireplace
+Marble fireplace		examine	item	Marble fireplace
 Teak portal frame		examine	item	Teak portal
 Mahogany portal frame		examine	item	Mahogany portal
 Marble portal frame		examine	item	Marble portal
 Teleport focus		examine	item	Teleport focus
-Greater teleport focus	上位のワープ・フォーカス	examine	item	Greater focus
-Scrying pool	透視の水たまり	examine	item	Scrying pool
+Greater teleport focus		examine	item	Greater focus
+Scrying pool		examine	item	Scrying pool
 Oak lectern		examine	item	Oak lectern
 Oak eagle lectern		examine	item	Eagle lectern
 Oak demon lectern		examine	item	Demon lectern
@@ -3364,22 +3364,22 @@ Teak eagle lectern		examine	item	Teak eagle lectern
 Teak demon lectern		examine	item	Teak demon lectern
 Mahogany eagle lectern		examine	item	Mahogany eagle
 Mahogany demon lectern		examine	item	Mahogany demon
-Globe	グローブ	examine	item	Globe
-Ornamental globe	装飾されたグローブ	examine	item	Ornamental globe
-Lunar globe	ルーナ・グローブ	examine	item	Lunar globe
-Celestial globe	天体グローブ	examine	item	Celestial globe
-Armillary sphere	アーミウラリ天球儀	examine	item	Armillary sphere
-Small orrery	小さな太陽系儀	examine	item	Small orrery
-Large orrery	大きな太陽系儀	examine	item	Large orrery
+Globe		examine	item	Globe
+Ornamental globe		examine	item	Ornamental globe
+Lunar globe		examine	item	Lunar globe
+Celestial globe		examine	item	Celestial globe
+Armillary sphere		examine	item	Armillary sphere
+Small orrery		examine	item	Small orrery
+Large orrery		examine	item	Large orrery
 Oak Telescope		examine	item	Oak telescope
 Teak Telescope		examine	item	Teak telescope
 Mahogany telescope		examine	item	Mahogany telescope
-Crystal ball	水晶玉	examine	item	Crystal ball
-Elemental sphere	エレメンタル・スフィア	examine	item	Elemental sphere
-Crystal of power	チカラの水晶	examine	item	Crystal of power
-Alchemical chart	錬金術図	examine	item	Alchemical chart
-Astronomical chart	天文図	examine	item	Astronomical chart
-Infernal chart	地獄の図	examine	item	Infernal chart
+Crystal ball		examine	item	Crystal ball
+Elemental sphere		examine	item	Elemental sphere
+Crystal of power		examine	item	Crystal of power
+Alchemical chart		examine	item	Alchemical chart
+Astronomical chart		examine	item	Astronomical chart
+Infernal chart		examine	item	Infernal chart
 Oak throne		examine	item	Oak throne
 Teak throne		examine	item	Teak throne
 Mahogany throne		examine	item	Mahogany throne
@@ -3411,9 +3411,9 @@ Tool store 2		examine	item	Tool store 2
 Tool store 3		examine	item	Tool store 3
 Tool store 4		examine	item	Tool store 4
 Tool store 5		examine	item	Tool store 5
-Repair bench	修復作業台	examine	item	Repair bench
-Whetstone	砥石	examine	item	Whetstone
-Armour stand	防具スタンド	examine	item	Armour stand
+Repair bench		examine	item	Repair bench
+Whetstone		examine	item	Whetstone
+Armour stand		examine	item	Armour stand
 Pluming stand		examine	item	Pluming stand
 Shield easel		examine	item	Shield easel
 Banner easel		examine	item	Banner easel
@@ -3875,11 +3875,11 @@ The cape worn by master farmers.		examine	item	Farming cape
 Farming skillcape hood.		examine	item	Farming hood
 The cape worn by only the most experienced adventurers.		examine	item	Quest point cape
 Quest point cape hood.		examine	item	Quest point hood
-Oak cape rack	樫のマントかけ	examine	item	Oak cape rack
-Teak cape rack	チークのマントかけ	examine	item	Teak cape rack
-Mahogany cape rack	マホガニーのマントかけ	examine	item	Mahogany cape rack
+Oak cape rack		examine	item	Oak cape rack
+Teak cape rack		examine	item	Teak cape rack
+Mahogany cape rack		examine	item	Mahogany cape rack
 Gilded mahogany cape rack		examine	item	Gilded cape rack
-Marble cape rack	大理石のマントかけ	examine	item	Marble cape rack
+Marble cape rack		examine	item	Marble cape rack
 Magic stone cape rack		examine	item	Magical cape rack
 Oak fancy dress box		examine	item	Oak costume box
 Teak fancy dress box		examine	item	Teak costume box
@@ -4923,7 +4923,7 @@ Mahogany pet scratching post		examine	item	Mahogany scratching post
 Simple pet arena		examine	item	Simple arena
 Advanced pet arena		examine	item	Advanced arena
 Glorious pet arena		examine	item	Glorious arena
-Pet list	ペットの一覧	examine	item	Pet list
+Pet list		examine	item	Pet list
 Oak pet feeder		examine	item	Oak feeder
 Teak pet feeder		examine	item	Teak feeder
 Mahogany pet feeder		examine	item	Mahogany feeder
@@ -5554,9 +5554,9 @@ Cross your fingers and your toes.		examine	item	Reward casket (elite)
 Baguette ready for pain.		examine	item	Stale baguette
 Fills your bank.		examine	item	Bank filler
 The hood worn by the dangerous elder druids.		examine	item	Elder chaos hood
-Wooden table	木製のテーブル	examine	item	Wooden table
+Wooden table		examine	item	Wooden table
 Waxwood bed		examine	item	Waxwood bed
-Carpet	カーペット	examine	item	Carpet
+Carpet		examine	item	Carpet
 Wooden stool		examine	item	Wooden stool
 A pack containing 50 rune arrows.		examine	item	Rune arrow pack
 A key stained in the blood of a worthy opponent.		examine	item	Bloodier key
@@ -5570,32 +5570,32 @@ Dark altar		examine	item	Dark altar
 Occult altar		examine	item	Occult altar
 Mahogany adventure log		examine	item	Mahogany adventure log
 Gilded adventure log		examine	item	Gilded adventure log
-Marble adventure log	大理石の冒険家ログ	examine	item	Marble adventure log
+Marble adventure log		examine	item	Marble adventure log
 Basic jewellery box		examine	item	Basic jewellery box
 Fancy jewellery box		examine	item	Fancy jewellery box
 Ornate jewellery box		examine	item	Ornate jewellery box
-Boss lair display	ボス生息地の展示	examine	item	Boss lair display
+Boss lair display		examine	item	Boss lair display
 Mounted emblem		examine	item	Mounted emblem
 Mounted coins		examine	item	Mounted coins
-Cape hanger	マントかけ場	examine	item	Cape hanger
+Cape hanger		examine	item	Cape hanger
 Quest list		examine	item	Quest list
-Tip jar	チップの瓶	examine	item	Tip jar
-Spirit tree	精霊樹	examine	item	Spirit tree
-Fairy ring	妖精の輪	examine	item	Fairy ring
+Tip jar		examine	item	Tip jar
+Spirit tree		examine	item	Spirit tree
+Fairy ring		examine	item	Fairy ring
 Spirit tree & fairy ring		examine	item	Spirit tree & fairy ring
-Topiary bush	トピアリーの低木	examine	item	Topiary bush
+Topiary bush		examine	item	Topiary bush
 Restoration pool		examine	item	Restoration pool
 Revitalisation pool		examine	item	Revitalisation pool
 Rejuvenation pool		examine	item	Rejuvenation pool
 Fancy rejuvenation pool		examine	item	Fancy rejuvenation pool
 Ornate rejuvenation pool		examine	item	Ornate rejuvenation pool
-Zen theme	禅のテーマ	examine	item	Zen theme
-Otherworldly theme	超自然的なテーマ	examine	item	Otherworldly theme
-Volcanic theme	火山のテーマ	examine	item	Volcanic theme
-Redwood fence	セコイアのフェンス	examine	item	Redwood fence
-Obsidian fence	黒曜石のフェンス	examine	item	Obsidian fence
+Zen theme		examine	item	Zen theme
+Otherworldly theme		examine	item	Otherworldly theme
+Volcanic theme		examine	item	Volcanic theme
+Redwood fence		examine	item	Redwood fence
+Obsidian fence		examine	item	Obsidian fence
 Teak garden bench		examine	item	Teak garden bench
-Gnome bench	ノームのベンチ	examine	item	Gnome bench
+Gnome bench		examine	item	Gnome bench
 Marble decorative bench		examine	item	Marble decorative bench
 Obsidian decorative bench		examine	item	Obsidian decorative bench
 A giant squirrel with beautiful markings.		examine	item	Giant squirrel
@@ -5620,8 +5620,8 @@ This heart holds a magical power within.		examine	item	Imbued heart
 A razor-sharp battleaxe.		examine	item	Leaf-bladed battleaxe
 It's a slightly more magical stick.		examine	item	Mystic mist staff
 A pack containing 100 empty jugs.		examine	item	Empty jug pack
-Combat dummy	戦闘サンドバッグ	examine	item	Combat dummy
-Undead combat dummy	アンデッドの戦闘サンドバッグ	examine	item	Undead combat dummy
+Combat dummy		examine	item	Combat dummy
+Undead combat dummy		examine	item	Undead combat dummy
 A Zamorakian blessing from Bologa.		examine	item	Bologa's blessing
 The Grapes of Wrath.		examine	item	Zamorak's grapes
 This wine needs to ferment before it can be used.		examine	item	Zamorak's unfermented wine
@@ -5711,9 +5711,9 @@ A very powerful, fiery harpoon.		examine	item	Infernal harpoon
 A formerly powerful, fiery harpoon.		examine	item	Infernal harpoon (uncharged)
 Scrawled words that can invoke the power of the gods.		examine	item	Dexterous prayer scroll
 Tekton's old building materials.		examine	item	Mallignum root plank
-Small storage unit	小さな収納ユニット	examine	item	Small storage unit
-Medium storage unit	普通の収納ユニット	examine	item	Medium storage unit
-Large storage unit	大きな収納ユニット	examine	item	Large storage unit
+Small storage unit		examine	item	Small storage unit
+Medium storage unit		examine	item	Medium storage unit
+Large storage unit		examine	item	Large storage unit
 An insignia representing Kodai, Xeric's fearsome wizards.		examine	item	Kodai insignia
 Strange glowing symbols are inscribed in this tablet.		examine	item	Ancient tablet
 A set containing an Ancestral hat, robe top and robe bottom.		examine	item	Ancestral robes set
@@ -5738,7 +5738,7 @@ Makes a lava battlestaff or mystic lava staff more beautiful.		examine	item	Lava
 Special guests for the 4th Old School RuneScape birthday party!		examine	item	Invitation list
 Don't let them touch the floor!		examine	item	Birthday balloons
 A celebration of 4 great years.		examine	item	4th birthday hat
-Servant's money bag	召使の給与袋	examine	item	Servant's money bag
+Servant's money bag		examine	item	Servant's money bag
 Egg head!		examine	item	Easter egg helm
 A fruity flavoured Easter egg		examine	item	Fruity easter egg
 A fresh flavoured Easter egg		examine	item	Fresh easter egg
@@ -5915,7 +5915,7 @@ The memoirs of a former ruler, written by his young heir.		examine	item	Kharedst
 A page torn from 'Kharedst's Memoirs'.		examine	item	Lunch by the lancalliums
 An old page that had been hidden within 'Kharedst's Memoirs'.		examine	item	Secret page
 A letter from Councillor Hughes.		examine	item	Letter
-Obelisk	オベリスク	examine	item	Obelisk
+Obelisk		examine	item	Obelisk
 A cape from the almighty god Saradomin, imbued with great power.		examine	item	Imbued saradomin cape
 A cape from the almighty god Guthix, imbued with great power.		examine	item	Imbued guthix cape
 A cape from the almighty god Zamorak, imbued with great power.		examine	item	Imbued zamorak cape
@@ -5958,9 +5958,9 @@ Used for very high level missile spells.		examine	item	Wrath rune
 An ancient and powerful looking Dragon Kiteshield.		examine	item	Dragon kiteshield
 A dragon crossbow.		examine	item	Dragon crossbow
 Dragon crossbow bolts.		examine	item	Dragon bolts
-Rune dragon	ルーンの竜	examine	item	Rune dragon
+Rune dragon		examine	item	Rune dragon
 Vorkath's mounted head		examine	item	Vorkath's head
-Mythical cape	神秘のマント	examine	item	Mythical cape
+Mythical cape		examine	item	Mythical cape
 A broken Ava's Assembler.		examine	item	Ava's assembler (broken)
 A broken Assembler Max Cape.		examine	item	Assembler max cape (broken)
 A pair of dragon crossbow limbs.		examine	item	Dragon limbs
@@ -6191,10 +6191,10 @@ A green salt that, when burned with other salts provides various benefits.		exam
 The crushed rock seems to glow and is cold to the touch.		examine	item	Icy basalt
 The crushed rock seems to glow and is warm to the touch.		examine	item	Stony basalt
 The crushed rock looks like it may react to other materials.		examine	item	Basalt
-Fire of Eternal Light	栄光の光の火	examine	item	Fire of eternal light
-Fire of Dehumidification	除湿の火	examine	item	Fire of dehumidification
-Fire of Nourishment	滋養の火	examine	item	Fire of nourishment
-Fire of Unseasonal Warmth	季節外れの暖気の火	examine	item	Fire of unseasonal warmth
+Fire of Eternal Light		examine	item	Fire of eternal light
+Fire of Dehumidification		examine	item	Fire of dehumidification
+Fire of Nourishment		examine	item	Fire of nourishment
+Fire of Unseasonal Warmth		examine	item	Fire of unseasonal warmth
 A powerful spear.		examine	item	Vesta's spear
 A powerful longsword.		examine	item	Vesta's longsword
 A powerful chainbody.		examine	item	Vesta's chainbody
@@ -6694,7 +6694,7 @@ These look like they can be attached to a slayer helmet.		examine	item	Twisted h
 A set containing Twisted boots (t1), Twisted trousers (t1), Twisted coat (t1) and Twisted hat (t1).		examine	item	Twisted relic hunter (t1) armour set
 A set containing Twisted boots (t2), Twisted trousers (t2), Twisted coat (t2) and Twisted hat (t2).		examine	item	Twisted relic hunter (t2) armour set
 A set containing Twisted boots (t3), Twisted trousers (t3), Twisted coat (t3) and Twisted hat (t3).		examine	item	Twisted relic hunter (t3) armour set
-Spice Rack	香辛料のラック	examine	item	Spice rack
+Spice Rack		examine	item	Spice rack
 A set containing an Inquisitor's great helm, Inquisitor's hauberk and Inquisitor's plateskirt.		examine	item	Inquisitor's armour set
 Quite the little nightmare.		examine	item	Little nightmare
 With this jar, your dreams can come true!		examine	item	Jar of dreams
@@ -6742,7 +6742,7 @@ Enough power for a Vengeance, blighted so it can be used only in the Wilderness.
 3 doses of divine bastion potion.		examine	item	Divine bastion potion(3)
 2 doses of divine bastion potion.		examine	item	Divine bastion potion(2)
 1 dose of divine bastion potion.		examine	item	Divine bastion potion(1)
-Massive storage unit	巨大な収納ユニット	examine	item	Massive storage unit
+Massive storage unit		examine	item	Massive storage unit
 Use on ancestral pieces to recolour them!		examine	item	Twisted ancestral colour kit
 A book called Haemalchemy Volume 2.		examine	item	Haemalchemy volume 2
 This needs to be scented before it can be used.		examine	item	Vyre noble top (unscented)
@@ -6907,7 +6907,7 @@ A badly sculpted clay head.		examine	item	Clay head
 A badly sculpted clay head covered in fur.		examine	item	Fur head
 A badly sculpted clay head covered in fur and 'blood'.		examine	item	Bloody head
 According to the cover, it was written by someone called Neilan Redmark.		examine	item	Neilan's journal
-Ornate undead combat dummy	華麗なアンデッド戦闘バッグ	examine	item	Ornate undead combat dummy
+Ornate undead combat dummy		examine	item	Ornate undead combat dummy
 Very decorative boots, but they're broken.		examine	item	Decorative boots (broken)
 A very decorative full face helmet, but it's broken.		examine	item	Decorative full helm (broken)
 Boosts your skills when drunk.		examine	item	Castlewars brew(4)
@@ -6933,7 +6933,7 @@ A holiday delicacy for some.		examine	item	Goblin stew
 A bag of a few selected items the goblins are giving themselves for Christmas.		examine	item	Goblin gifts
 That's one ginormous boulder.		examine	item	Giant boulder
 Filled with decorations from the goblins. I can use these on existing furniture in my house.		examine	item	Goblin decorations
-Icon of Gnome Child	ノームの子供のアイコン	examine	item	Gnome child icon
+Icon of Gnome Child		examine	item	Gnome child icon
 Celebrating the 20th Anniversary of RuneScape.		examine	item	20th anniversary hat
 The smile of childlike innocence.		examine	item	Gnome child mask
 You could use this to dedicate a player-owned house chapel to the Gnome Child.		examine	item	Gnome child icon
@@ -6942,18 +6942,18 @@ I wonder what's inside?		examine	item	Spoils of war
 A silky cape infused with the power of souls.		examine	item	Soul cape
 A pint-sized bringer of existence.		examine	item	Lil' creator
 Harbinger of light surface scratches and minor dents.		examine	item	Lil' destructor
-Trophy pedestal	トロフィーの台座	examine	item	Trophy pedestal
-Ornate trophy pedestal	華麗なトロフィーの台座	examine	item	Ornate trophy pedestal
+Trophy pedestal		examine	item	Trophy pedestal
+Ornate trophy pedestal		examine	item	Ornate trophy pedestal
 Oak Trophy Case		examine	item	Oak trophy case
 Mahogany Trophy Case		examine	item	Mahogany trophy case
 Banner Stand		examine	item	Banner stand
 Ornate Banner Stand		examine	item	Ornate banner stand
-Oak outfit stand	樫の衣装スタンド	examine	item	Oak outfit stand
-Mahogany outfit stand	マホガニーの衣装スタンド	examine	item	Mahogany outfit stand
-League statue	リーグの像	examine	item	League statue
-Ornate league statue	華麗なリーグの像	examine	item	Ornate league statue
-Trailblazer globe	トレールブレイザー儀	examine	item	Trailblazer globe
-Trailblazer rug	トレールブレイザーのカーペット	examine	item	Trailblazer rug
+Oak outfit stand		examine	item	Oak outfit stand
+Mahogany outfit stand		examine	item	Mahogany outfit stand
+League statue		examine	item	League statue
+Ornate league statue		examine	item	Ornate league statue
+Trailblazer globe		examine	item	Trailblazer globe
+Trailblazer rug		examine	item	Trailblazer rug
 League Accomplishments Scroll		examine	item	League accomplishments scroll
 A formerly powerful, fiery harpoon in the colours of the Trailblazer League.		examine	item	Infernal harpoon (uncharged)
 A formerly powerful, fiery pickaxe in the colours of the Trailblazer League.		examine	item	Infernal pickaxe (uncharged)
@@ -7024,7 +7024,7 @@ Disappointingly static.		examine	item	Propeller hat
 An IOU for 5 coins.		examine	item	Gregg's iou
 Pretty flowers used to make dyes.		examine	item	Pastel flowers
 Congealed dye that could probably be used as paint.		examine	item	Thick dye
-S.T.A.S.H chart	S.T.A.S.H チャート	examine	item	S.t.a.s.h chart
+S.T.A.S.H chart		examine	item	S.t.a.s.h chart
 I can use this to build a chart in my house.		examine	item	S.t.a.s.h blueprint
 Made from the unearthly material, barronite. This one is broken.		examine	item	Barronite mace (broken)
 Perfect combination of beef and bread.		examine	item	Steak sandwich
@@ -7170,7 +7170,7 @@ To be worn on the head.		examine	item	Saucepan
 A reversible jumper knitted lovingly by Iffie.		examine	item	Ugly halloween jumper (orange)
 I don't even want to know how this happened.		examine	item	Haunted wine bottle
 The gold standard of gold.		examine	item	Condensed gold
-Gold Sink	黄金のシンク	examine	item	Gold sink
+Gold Sink		examine	item	Gold sink
 Not sure I'd want to eat a mouthful of this.		examine	item	Festive cinnamon
 It's quite spiky!		examine	item	Festive holly
 Good enough to drink!		examine	item	Festive white wine

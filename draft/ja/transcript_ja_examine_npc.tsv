@@ -656,7 +656,7 @@ A moderately experienced mercenary archer.		examine	npc	Ranger (medium)
 An extensively experienced fighter.		examine	npc	Adventurer (easy)
 An extensively experienced mage.		examine	npc	Mage (easy)
 A local holy man who works at Paterdomus.		examine	npc	Hiylik Myna
-Dummy	ダミー	examine	npc	Dummy
+Dummy		examine	npc	Dummy
 He must get lonely out here.		examine	npc	Gundai
 He sells runes.		examine	npc	Lundail
 He hasn't seen much sun lately.		examine	npc	Chamber guardian
@@ -3295,8 +3295,8 @@ A trained fishing bird.		examine	npc	Cormorant
 He runs the Herblore Shop.		examine	npc	Jatix
 Perhaps this gardener and her companion might look after your crops for you.		examine	npc	Nikkie
 A battle hardened warrior.		examine	npc	Elise
-arc_test_01	arc_test_01	examine	npc	arc_test_01
-arc_test_02	arc_test_02	examine	npc	arc_test_02
+arc_test_01		examine	npc	arc_test_01
+arc_test_02		examine	npc	arc_test_02
 A member of the Kourend Royal Guard.		examine	npc	Royal Guard
 He believes he's the greatest smith on Gielinor.		examine	npc	Undor
 A dynamite salesman.		examine	npc	Thirus

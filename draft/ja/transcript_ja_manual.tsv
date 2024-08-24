@@ -1,7 +1,7 @@
 english	translation	category	sub_category	source
 Barbarian Assault		manual	activity	
 Blast Furnace		manual	activity	
-Castle Wars	キャッスル・ウォーズ	manual	activity	
+Castle Wars		manual	activity	
 Fishing Trawler		manual	activity	
 Burthorpe Games Room		manual	activity	
 Nightmare Zone		manual	activity	
@@ -20,10 +20,10 @@ Player Owned Houses		manual	activity
 Tithe Farm		manual	activity	
 Last Man Standing		manual	activity	
 Volcanic Mine		manual	activity	
-Theatre of Blood	血の劇場	manual	activity	
+Theatre of Blood		manual	activity	
 Soul Wars		manual	activity	
 Shooting Stars		manual	activity	
-Tombs of Amascut	アマスカットの墓	manual	activity	
+Tombs of Amascut		manual	activity	
 Mage Training Arena		manual	activity	
 Yes		manual	emote	
 No		manual	emote	
@@ -37,9 +37,9 @@ Beckon		manual	emote
 Laugh		manual	emote	
 Jump for Joy		manual	emote	
 Yawn		manual	emote	
-Dance	と踊る	manual	emote	
+Dance		manual	emote	
 Jig		manual	emote	
-Spin	回す	manual	emote	
+Spin		manual	emote	
 Headbang		manual	emote	
 Cry		manual	emote	
 Blow Kiss		manual	emote	
@@ -89,13 +89,13 @@ Tonsure		manual	hair_beard
 Short		manual	hair_beard	
 Cropped		manual	hair_beard	
 Wild spikes		manual	hair_beard	
-Spikes	スパイク	manual	hair_beard	
+Spikes		manual	hair_beard	
 Mohawk		manual	hair_beard	
 Wind braids		manual	hair_beard	
 Quiff		manual	hair_beard	
 Samurai		manual	hair_beard	
 Princely		manual	hair_beard	
-Curtains	カーテン	manual	hair_beard	
+Curtains		manual	hair_beard	
 Long curtains		manual	hair_beard	
 Front split		manual	hair_beard	
 Tousled		manual	hair_beard	
@@ -113,7 +113,7 @@ Curls		manual	hair_beard
 Ponytail		manual	hair_beard	
 Braids		manual	hair_beard	
 Bunches		manual	hair_beard	
-Bob	ボブ	manual	hair_beard	
+Bob		manual	hair_beard	
 Layered		manual	hair_beard	
 Straight		manual	hair_beard	
 Straight Braids		manual	hair_beard	
@@ -143,44 +143,44 @@ Goatee		manual	hair_beard
 Handlebar		manual	hair_beard	
 Moustache		manual	hair_beard	
 Pointy		manual	hair_beard	
-Split	別ける	manual	hair_beard	
+Split		manual	hair_beard	
 Mutton		manual	hair_beard	
 Full Mutton		manual	hair_beard	
 Big Moustache		manual	hair_beard	
 Waxed Moustache		manual	hair_beard	
 Dali		manual	hair_beard	
 Vizier		manual	hair_beard	
-Rimmington	でリミングトンへ移動	manual	location	
+Rimmington		manual	location	
 Taverley		manual	location	
 Pollnivneach		manual	location	
-Rellekka	でレレカへ移動	manual	location	
-Brimhaven	でブリムヘブンへ移動	manual	location	
-Yanille	ヤニル	manual	location	
+Rellekka		manual	location	
+Brimhaven		manual	location	
+Yanille		manual	location	
 Hosidius		manual	location	
-Prifddinas	プリフディナス	manual	location	
-Ardougne	でアルドインへ移動	manual	location	
+Prifddinas		manual	location	
+Ardougne		manual	location	
 Desert		manual	location	
-Falador	ファラドー	manual	location	
+Falador		manual	location	
 Fremennik		manual	location	
 Kandarin		manual	location	
-Karamja	カラムジャ	manual	location	
+Karamja		manual	location	
 Lumbridge & Draynor		manual	location	
 Morytania		manual	location	
-Varrock	バロック	manual	location	
+Varrock		manual	location	
 Western Provinces		manual	location	
 Wilderness		manual	location	
 Kourend & Kebos		manual	location	
 Shayzien		manual	location	
-Arceuus	アルセウス	manual	location	
+Arceuus		manual	location	
 Lovakengj		manual	location	
 Piscarilius		manual	location	
-Al Kharid	アル・カリッド	manual	location	
+Al Kharid		manual	location	
 Burgh de Rott		manual	location	
-Burthorpe	バーソープ	manual	location	
+Burthorpe		manual	location	
 Canifis		manual	location	
 Kharidian Desert		manual	location	
 Dorgesh-Kaan		manual	location	
-Draynor Village	ドレイナー村	manual	location	
+Draynor Village		manual	location	
 Entrana		manual	location	
 Feldip Hills		manual	location	
 Gnome Stronghold		manual	location	
@@ -189,28 +189,28 @@ Isafdar		manual	location
 Kebos Lowlands		manual	location	
 Keldagrim		manual	location	
 Kingstown		manual	location	
-Lletya	レティア	manual	location	
-Lumbridge	ランブリッジ	manual	location	
-Lunar Isle	ルーナ島	manual	location	
+Lletya		manual	location	
+Lumbridge		manual	location	
+Lunar Isle		manual	location	
 Meiyerditch		manual	location	
-Miscellania	ミセラニア	manual	location	
+Miscellania		manual	location	
 Mort'ton		manual	location	
 Mos Le'Harmless		manual	location	
-Nardah	ナーダ	manual	location	
+Nardah		manual	location	
 Port Phasmatys		manual	location	
-Port Piscarilius	とピスカリリウス港へ移動	manual	location	
+Port Piscarilius		manual	location	
 Piscatoris		manual	location	
-Port Sarim	とサリム港へ移動	manual	location	
-Seers' Village	シアーズ村	manual	location	
+Port Sarim		manual	location	
+Seers' Village		manual	location	
 Shilo Village		manual	location	
 Silvarea		manual	location	
-Slepe	スレペ	manual	location	
+Slepe		manual	location	
 Sophanem		manual	location	
 Tai Bwo Wannai		manual	location	
 Tree Gnome Village		manual	location	
-Troll Stronghold	トロール要塞	manual	location	
+Troll Stronghold		manual	location	
 Witchaven		manual	location	
-Civitas illa Fortis	シビリタス・イラ・フォーチス	manual	location	
+Civitas illa Fortis		manual	location	
 Avium Savannah		manual	location	
 Slayer Tower		manual	location	
 Catacombs of Kourend		manual	location	
@@ -225,7 +225,7 @@ God Wars Dungeon		manual	location
 Kalphite Lair		manual	location	
 task-only Kalphite Cave		manual	location	
 Kraken Cove		manual	location	
-Waterbirth Island	ウオーターバース島	manual	location	
+Waterbirth Island		manual	location	
 Lizardman Canyon		manual	location	
 Lizardman Settlement		manual	location	
 Smoke Devil Dungeon		manual	location	
@@ -237,7 +237,7 @@ Mourner Tunnels		manual	location
 Lithkren Vault		manual	location	
 Ancient Cavern		manual	location	
 Stronghold of Security		manual	location	
-Fossil Island	化石島	manual	location	
+Fossil Island		manual	location	
 Asgarnian Ice Dungeon		manual	location	
 Ogre Enclave		manual	location	
 Brine Rat Cavern		manual	location	
@@ -252,7 +252,7 @@ The Battlefront		manual	location
 Forthos Dungeon		manual	location	
 Iorwerth Dungeon		manual	location	
 Jormungand's Prison		manual	location	
-Darkmeyer	ダーク・メヤー	manual	location	
+Darkmeyer		manual	location	
 Meiyerditch Laboratories		manual	location	
 Isle of Souls		manual	location	
 Giants' Den		manual	location	
@@ -265,7 +265,7 @@ Hunter Guild		manual	location
 Cam Torum Entrance		manual	location	
 Colossal Wyrm Remains		manual	location	
 Outer Fortis		manual	location	
-Fortis Colosseum	フォーティス闘技場	manual	location	
+Fortis Colosseum		manual	location	
 Ice Mountain		manual	location	
 Corsair Cove		manual	location	
 Shayzien Graveyard of Heroes		manual	location	
@@ -286,27 +286,27 @@ Fight with the Giant Roc during My Arm's Big Adventure.		manual	location
 Scorpia's cave beneath the Scorpion Pit.		manual	location	
 Beneath Cursed Sands		manual	location	
 Perilous Moons		manual	location	
-PvP Arena	PvPアリーナ	manual	location	
-Castle Wars	キャッスル・ウォーズ	manual	location	
-Ferox Enclave	フェロックス・オンクレーブ	manual	location	
+PvP Arena		manual	location	
+Castle Wars		manual	location	
+Ferox Enclave		manual	location	
 Warrior's Guild		manual	location	
 Champion's Guild 		manual	location	
 Monestery		manual	location	
-Ranging Guild	弓ギルド	manual	location	
-Grand Exchange	グランド・エクスチェンジ	manual	location	
-Falador Park	ファラドー公園	manual	location	
-Dondakan's Rock	ドンダカンの岩	manual	location	
-Barbarian Outpost	蛮族の前哨基地	manual	location	
-Corporeal Beast	コーポリアル獣	manual	location	
-Tears of Guthix	ガシックスの涙	manual	location	
-Wintertodt Camp	ウィンタートッド・キャンプ	manual	location	
-Fishing Guild	釣りギルド	manual	location	
-Mining Guild	採掘ギルド	manual	location	
-Crafting Guild	工作ギルド	manual	location	
-Cooking Guild	料理ギルド	manual	location	
-Woodcutting Guild	木こりギルド	manual	location	
-Farming Guild	農業ギルド	manual	location	
-Edgeville	でエッジビルへ移動	manual	location	
+Ranging Guild		manual	location	
+Grand Exchange		manual	location	
+Falador Park		manual	location	
+Dondakan's Rock		manual	location	
+Barbarian Outpost		manual	location	
+Corporeal Beast		manual	location	
+Tears of Guthix		manual	location	
+Wintertodt Camp		manual	location	
+Fishing Guild		manual	location	
+Mining Guild		manual	location	
+Crafting Guild		manual	location	
+Cooking Guild		manual	location	
+Woodcutting Guild		manual	location	
+Farming Guild		manual	location	
+Edgeville		manual	location	
 Vision		manual	music	
 at the Wizards' Tower.		manual	music	
 Volcanic Vikings		manual	music	
@@ -330,14 +330,14 @@ Song of the Elves		manual	music
 during the Song of the Elves quest.		manual	music	
 What Happens Below...		manual	music	
 in the Warrens.		manual	music	
-Warrior	戦士	manual	music	
+Warrior		manual	music	
 during The Fremennik Trials quest.		manual	music	
-Warriors' Guild	戦士ギルド	manual	music	
+Warriors' Guild		manual	music	
 at the Warriors' Guild.		manual	music	
 Doors of Dinh, The		manual	music	
 The Doors of Dinh		manual	music	
 in the Northern Tundras.		manual	music	
-Waterfall	滝	manual	music	
+Waterfall		manual	music	
 at the Baxtorian Falls.		manual	music	
 Waterlogged		manual	music	
 in Mort Myre Swamp.		manual	music	
@@ -407,7 +407,7 @@ in the God Wars Dungeon.		manual	music
 Zanik's Theme		manual	music	
 during the Land of the Goblins quest.		manual	music	
 Zaros Zeitgeist		manual	music	
-Zealot	ジーロット	manual	music	
+Zealot		manual	music	
 at the Water Altar.		manual	music	
 Zogre Dance		manual	music	
 south of Castle Wars.		manual	music	
@@ -439,7 +439,7 @@ Unturned Stones		manual	music
 Master of Puppets		manual	music	
 His Faithful Servants		manual	music	
 Tick Tock		manual	music	
-Strangled	絞殺された者	manual	music	
+Strangled		manual	music	
 Bolrie's Diary		manual	music	
 during The Path of Glouphrie quest.		manual	music	
 Healin' Feelin'		manual	music	
@@ -700,7 +700,7 @@ Murder Mystery		manual	quest
 Investigate a murder at Sinclair Mansion.		manual	quest	
 My Arm's Big Adventure		manual	quest	
 Gain access to a disease-free herb patch.		manual	quest	
-Nature Spirit	自然の精霊	manual	quest	
+Nature Spirit		manual	quest	
 Gain access to Mort Myre and the Nature Altar.		manual	quest	
 Night at the Theatre, A		manual	quest	
 A Night at the Theatre		manual	quest	
@@ -723,7 +723,7 @@ Gain access to Morytania.		manual	quest
 Prince Ali Rescue		manual	quest	
 Unlock Sorceress's Garden and gain free use of the Al Kharid Gate.		manual	quest	
 Queen of Thieves, The		manual	quest	
-The Queen of Thieves	盗人の女王	manual	quest	
+The Queen of Thieves		manual	quest	
 Gain the Port Piscarilius Memoirs teleport.		manual	quest	
 Rag and Bone Man I		manual	quest	
 Assist the Odd Old Man with a collection.		manual	quest	
@@ -790,7 +790,7 @@ Gain the Shayzien Memoirs teleport.		manual	quest
 Taste of Hope, A		manual	quest	
 A Taste of Hope		manual	quest	
 Gain Drakan's Medallion.		manual	quest	
-Tears of Guthix	ガシックスの涙	manual	quest	
+Tears of Guthix		manual	quest	
 Gain access to the Tears of Guthix minigame.		manual	quest	
 Temple of Ikov		manual	quest	
 Throne of Miscellania		manual	quest	
@@ -805,7 +805,7 @@ Gain access to Spirit Tree teleportation.		manual	quest
 Tribal Totem		manual	quest	
 Troll Romance		manual	quest	
 Gain a Sled.		manual	quest	
-Troll Stronghold	トロール要塞	manual	quest	
+Troll Stronghold		manual	quest	
 Gain access to the God Wars Dungeon.		manual	quest	
 Underground Pass		manual	quest	
 Gain Iban's Staff.		manual	quest	
@@ -813,7 +813,7 @@ Vampyre Slayer		manual	quest
 Help the people of Draynor Village with a vampyre problem.		manual	quest	
 Wanted!		manual	quest	
 Gain access to the White Knight Armoury.		manual	quest	
-Watchtower	監視塔	manual	quest	
+Watchtower		manual	quest	
 Unlock the Watchtower teleport spell.		manual	quest	
 Waterfall Quest		manual	quest	
 Gain great combat XP.		manual	quest	
@@ -927,8 +927,8 @@ Hellhounds		manual	slayer_mob
 Shadow Warriors		manual	slayer_mob	
 Werewolves		manual	slayer_mob	
 Vampyres		manual	slayer_mob	
-Dagannoth	ダガノス	manual	slayer_mob	
-Turoth	ツーロス	manual	slayer_mob	
+Dagannoth		manual	slayer_mob	
+Turoth		manual	slayer_mob	
 Cave Crawlers		manual	slayer_mob	
 Banshees		manual	slayer_mob	
 Crawling Hands		manual	slayer_mob	
@@ -936,15 +936,15 @@ Infernal Mages		manual	slayer_mob
 Aberrant Spectres		manual	slayer_mob	
 Abyssal Demons		manual	slayer_mob	
 Basilisks		manual	slayer_mob	
-Cockatrice	コカトリス	manual	slayer_mob	
-Kurask	クラスク	manual	slayer_mob	
+Cockatrice		manual	slayer_mob	
+Kurask		manual	slayer_mob	
 Gargoyles		manual	slayer_mob	
 Pyrefiends		manual	slayer_mob	
-Bloodveld	ブラッドベルド	manual	slayer_mob	
+Bloodveld		manual	slayer_mob	
 Dust Devils		manual	slayer_mob	
 Jellies		manual	slayer_mob	
 Rockslugs		manual	slayer_mob	
-Nechryael	ネクリャエル	manual	slayer_mob	
+Nechryael		manual	slayer_mob	
 Kalphite		manual	slayer_mob	
 Earth Warriors		manual	slayer_mob	
 Otherworldly Beings		manual	slayer_mob	
@@ -971,8 +971,8 @@ Mutated Zygomites		manual	slayer_mob
 Icefiends		manual	slayer_mob	
 Minotaurs		manual	slayer_mob	
 Fleshcrawlers		manual	slayer_mob	
-Catablepon	カタブレポン	manual	slayer_mob	
-Ankou	アンコウ	manual	slayer_mob	
+Catablepon		manual	slayer_mob	
+Ankou		manual	slayer_mob	
 Cave Horrors		manual	slayer_mob	
 Jungle Horrors		manual	slayer_mob	
 Goraks		manual	slayer_mob	
@@ -992,7 +992,7 @@ Aviansies		manual	slayer_mob
 Cave Kraken		manual	slayer_mob	
 Smoke Devils		manual	slayer_mob	
 TzHaar		manual	slayer_mob	
-TzTok-Jad	ツズトク・ジャッド	manual	slayer_mob	
+TzTok-Jad		manual	slayer_mob	
 Bosses		manual	slayer_mob	
 Mammoths		manual	slayer_mob	
 Rogues		manual	slayer_mob	
@@ -1000,7 +1000,7 @@ Ents		manual	slayer_mob
 Bandits		manual	slayer_mob	
 Dark Warriors		manual	slayer_mob	
 Lava Dragons		manual	slayer_mob	
-TzKal-Zuk	ツズカル・ザック	manual	slayer_mob	
+TzKal-Zuk		manual	slayer_mob	
 Revenants		manual	slayer_mob	
 Chaos Druids		manual	slayer_mob	
 Wyrms		manual	slayer_mob	
