@@ -1459,7 +1459,7 @@ Unlock hint	開放ヒント	actions	menu	musicTab
 Play	プレイ	actions	menu	musicTab
 Thumbs Up	いいね	actions	menu	logoutTab
 Thumbs Down	アンハッピー	actions	menu	logoutTab
-World Switcher	サーバー変更	actions	menu	logoutTab
+World Switcher	世界変更	actions	menu	logoutTab
 Logout	ログアウト	actions	menu	logoutTab
 Favourite	お気に入り	actions	menu	worldSwitcherTab
 Switch	切り替える	actions	menu	worldSwitcherTab
@@ -1467,3 +1467,18 @@ Logout	ログアウト	actions	menu	worldSwitcherTab
 Clear	キレイにする	actions	menu	worldSwitcherTab
 Close	閉じる	actions	menu	worldSwitcherTab
 Configure	設定	actions	menu	worldSwitcherTab
+Character Summary	キャラ概要	actions	menu	achievementDiaryTab
+Achievement Diaries	達成記録	actions	menu	achievementDiaryTab
+Quest List	クエスト一覧	actions	menu	achievementDiaryTab
+Character Summary	キャラ概要	actions	menu	questListTab
+Achievement Diaries	達成記録	actions	menu	questListTab
+Quest List	クエスト一覧	actions	menu	questListTab
+Grouping	グループ	actions	menu	groupTab
+Ironman Group	鉄人グループ	actions	menu	groupTab
+Chat-channel	会話チャンネル	actions	menu	groupTab
+Your Clan	クラン	actions	menu	groupTab
+View another clan	別のクラン	actions	menu	groupTab
+Message	手紙	actions	menu	groupTab
+Remove friend	フレンド削除	actions	menu	groupTab
+Switch world	世界変更	actions	menu	groupTab
+View Poll	投票を見る	actions	menu	accountManagementTab
