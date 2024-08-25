@@ -209,9 +209,9 @@ def addAllTSVToSQL(TSVDir):
         with open(TSVDir + file, 'r') as f:
 
             for i,line in enumerate(f):
-                if line in ['', None, '\n']: # skip empty lines
+                if line.strip() in ['', None, '\n']: # skip empty lines
                     continue
-                line = line.strip().split('\t')
+                line = line.replace('\n','').split('\t')
                 if i == 0: # the first line is the column names
                     column_names = line
                 else: # the rest of the lines are records
@@ -219,7 +219,8 @@ def addAllTSVToSQL(TSVDir):
                     record.update({common.COLUMN_NAME_DATE_MODIFIED:common.TODAYS_DATE})
                     if not check_record_exists(c, {common.COLUMN_NAME_ENGLISH:record[common.COLUMN_NAME_ENGLISH],
                                                     common.COLUMN_NAME_CATEGORY:record[common.COLUMN_NAME_CATEGORY],
-                                                    common.COLUMN_NAME_SUB_CATEGORY:record[common.COLUMN_NAME_SUB_CATEGORY]}):
+                                                    common.COLUMN_NAME_SUB_CATEGORY:record[common.COLUMN_NAME_SUB_CATEGORY],
+                                                    common.COLUMN_NAME_SOURCE:record[common.COLUMN_NAME_SOURCE]}):
                         added_records += 1
                         insert_record(c, record)
         print("Added", added_records, "records from file: " + file)

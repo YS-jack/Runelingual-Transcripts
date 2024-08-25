@@ -1,6 +1,10 @@
 english	category	sub_category	source
-Ground Markers	name	menu	
+XP drops	name	menu	
+Quick-prayers	name	menu	
+Special Attack	name	menu	
 Instance Map	name	menu	
+Ground Markers	name	menu	
+Wiki	name	menu	
 Attack	name	menu	
 Hitpoints	name	menu	
 Mining	name	menu	
@@ -24,67 +28,59 @@ Slayer	name	menu
 Farming	name	menu	
 Construction	name	menu	
 Hunter	name	menu	
-XP drops	name	menu	
-Quick-prayers	name	menu	
-Special Attack	name	menu	
-Wiki	name	menu	
-Old School Wiki	name	menu	
-Merchandise	name	menu	
-Hiscores	name	menu	
-Customer Support	name	menu	
-Old School Website	name	menu	
-Grand Exchange	name	menu	
 Search	name	menu	
-All	name	menu	
-Music	name	menu	
-Sound Effects	name	menu	
-Area Sounds	name	menu	
-<colNum0>PvP Arena</col> options	name	menu	
-Ardougne Elite Diary	name	menu	
-Desert Elite Diary	name	menu	
-Falador Elite Diary	name	menu	
-Fremennik Elite Diary	name	menu	
-Kandarin Elite Diary	name	menu	
-Karamja Elite Diary	name	menu	
-Kourend & Kebos Elite Diary	name	menu	
-Lumbridge & Draynor Elite Diary	name	menu	
-Morytania Elite Diary	name	menu	
-Varrock Elite Diary	name	menu	
-Western Provinces Elite Diary	name	menu	
-Wilderness Elite Diary	name	menu	
-Ardougne Hard Diary	name	menu	
-Desert Hard Diary	name	menu	
-Falador Hard Diary	name	menu	
-Fremennik Hard Diary	name	menu	
-Kandarin Hard Diary	name	menu	
-Karamja Hard Diary	name	menu	
-Kourend & Kebos Hard Diary	name	menu	
-Lumbridge & Draynor Hard Diary	name	menu	
-Morytania Hard Diary	name	menu	
-Varrock Hard Diary	name	menu	
-Western Provinces Hard Diary	name	menu	
-Wilderness Hard Diary	name	menu	
-Ardougne Medium Diary	name	menu	
-Desert Medium Diary	name	menu	
-Falador Medium Diary	name	menu	
-Fremennik Medium Diary	name	menu	
-Kandarin Medium Diary	name	menu	
-Karamja Medium Diary	name	menu	
-Kourend & Kebos Medium Diary	name	menu	
-Lumbridge & Draynor Medium Diary	name	menu	
-Morytania Medium Diary	name	menu	
-Varrock Medium Diary	name	menu	
-Western Provinces Medium Diary	name	menu	
-Wilderness Medium Diary	name	menu	
-Ardougne Easy Diary	name	menu	
-Desert Easy Diary	name	menu	
-Falador Easy Diary	name	menu	
-Fremennik Easy Diary	name	menu	
-Kandarin Easy Diary	name	menu	
-Karamja Easy Diary	name	menu	
-Kourend & Kebos Easy Diary	name	menu	
-Lumbridge & Draynor Easy Diary	name	menu	
-Morytania Easy Diary	name	menu	
-Varrock Easy Diary	name	menu	
-Western Provinces Easy Diary	name	menu	
-Wilderness Easy Diary	name	menu	
+Ardougne Elite Diary	name	menu	achievementDiaryTab
+Ardougne Hard Diary	name	menu	achievementDiaryTab
+Ardougne Medium Diary	name	menu	achievementDiaryTab
+Ardougne Easy Diary	name	menu	achievementDiaryTab
+Desert Elite Diary	name	menu	achievementDiaryTab
+Desert Hard Diary	name	menu	achievementDiaryTab
+Desert Medium Diary	name	menu	achievementDiaryTab
+Desert Easy Diary	name	menu	achievementDiaryTab
+Falador Elite Diary	name	menu	achievementDiaryTab
+Falador Hard Diary	name	menu	achievementDiaryTab
+Falador Medium Diary	name	menu	achievementDiaryTab
+Falador Easy Diary	name	menu	achievementDiaryTab
+Fremennik Elite Diary	name	menu	achievementDiaryTab
+Fremennik Hard Diary	name	menu	achievementDiaryTab
+Fremennik Medium Diary	name	menu	achievementDiaryTab
+Fremennik Easy Diary	name	menu	achievementDiaryTab
+Kandarin Elite Diary	name	menu	achievementDiaryTab
+Kandarin Hard Diary	name	menu	achievementDiaryTab
+Kandarin Medium Diary	name	menu	achievementDiaryTab
+Kandarin Easy Diary	name	menu	achievementDiaryTab
+Karamja Elite Diary	name	menu	achievementDiaryTab
+Karamja Hard Diary	name	menu	achievementDiaryTab
+Karamja Medium Diary	name	menu	achievementDiaryTab
+Karamja Easy Diary	name	menu	achievementDiaryTab
+Kourend & Kebos Elite Diary	name	menu	achievementDiaryTab
+Kourend & Kebos Hard Diary	name	menu	achievementDiaryTab
+Kourend & Kebos Medium Diary	name	menu	achievementDiaryTab
+Kourend & Kebos Easy Diary	name	menu	achievementDiaryTab
+Lumbridge & Draynor Elite Diary	name	menu	achievementDiaryTab
+Lumbridge & Draynor Hard Diary	name	menu	achievementDiaryTab
+Lumbridge & Draynor Medium Diary	name	menu	achievementDiaryTab
+Lumbridge & Draynor Easy Diary	name	menu	achievementDiaryTab
+Morytania Elite Diary	name	menu	achievementDiaryTab
+Morytania Hard Diary	name	menu	achievementDiaryTab
+Morytania Medium Diary	name	menu	achievementDiaryTab
+Morytania Easy Diary	name	menu	achievementDiaryTab
+Varrock Elite Diary	name	menu	achievementDiaryTab
+Varrock Hard Diary	name	menu	achievementDiaryTab
+Varrock Medium Diary	name	menu	achievementDiaryTab
+Varrock Easy Diary	name	menu	achievementDiaryTab
+Western Provinces Elite Diary	name	menu	achievementDiaryTab
+Western Provinces Hard Diary	name	menu	achievementDiaryTab
+Western Provinces Medium Diary	name	menu	achievementDiaryTab
+Western Provinces Easy Diary	name	menu	achievementDiaryTab
+Wilderness Elite Diary	name	menu	achievementDiaryTab
+Wilderness Hard Diary	name	menu	achievementDiaryTab
+Wilderness Medium Diary	name	menu	achievementDiaryTab
+Wilderness Easy Diary	name	menu	achievementDiaryTab
+Old School Website	name	menu	accountManagementTab
+Customer Support	name	menu	accountManagementTab
+Grand Exchange	name	menu	accountManagementTab
+Hiscores	name	menu	accountManagementTab
+Old School Wiki	name	menu	accountManagementTab
+Merchandise	name	menu	accountManagementTab
+<colNum0>PvP Arena</col> options	name	menu	groupTab

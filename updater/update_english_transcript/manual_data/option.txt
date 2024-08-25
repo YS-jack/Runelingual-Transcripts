@@ -1,15 +1,28 @@
-english	category	sub_category
-Walk here	actions	manual
-Examine	actions	npc
-Examine	inventoryActions	item
-Examine	actions	item
-Take	actions	item
-Light	actions	item
-Cancel	actions	manual
-Add to canvas	actions	menu
-Wiki	actions	manual
-Copy to clipboard	actions	menu	
-Lookup	actions	menu	
+english	category	sub_category	source
+Walk here	actions	manual	
+Examine	actions	npc	
+Examine	inventoryActions	item	
+Examine	actions	item	
+Take	actions	item	
+Light	actions	item	
+Cancel	actions	manual	
+Follow	actions	player	
+Trade with	actions	player	
+Lookup	actions	player	
+Equipment	actions	player	
+Report	actions	player	
+Adjust Music Volume	actions	menu	settingsTab
+Adjust Area Sound Volume	actions	menu	settingsTab
+Adjust Sound Effect Volume	actions	menu	settingsTab
+Toggle unlock message	actions	menu	settingsTab
+Play	actions	menu	
+Open Activity Adviser	actions	menu	
+Remove	inventoryActions	item	
+Add	inventoryActions	item	
+Add-5	inventoryActions	item	
+Add-10	inventoryActions	item	
+Add-All	inventoryActions	item	
+Add-X	inventoryActions	item	
 <colNum0>Set chat mode:</col> Group (/@g)	actions	menu	
 <colNum0>Set chat mode:</col> Guest Clan (/@gc)	actions	menu	
 <colNum0>Set chat mode:</col> Clan (/@c)	actions	menu	
@@ -46,178 +59,184 @@ Filter public chat	actions	menu
 <colNum0>Group:</col> Show all	actions	menu	
 Report game bug	actions	menu	
 Report abuse	actions	menu	
-Look West	actions	menu	
-Look South	actions	menu	
-Look East	actions	menu	
-Look North	actions	menu	
-Toggle Run	actions	menu	
-Bond Pouch	actions	menu	
-Open Store	actions	menu	
-Clear	actions	menu	
-Import	actions	menu	
-Export	actions	menu	
-Show	actions	menu	
-Fullscreen <colNum0>World Map</col>	actions	menu	
-Floating <colNum0>World Map</col>	actions	menu	
 Combat Options	actions	menu	
 Skills	actions	menu	
 Achievement Diaries	actions	menu	
 Inventory	actions	menu	
 Worn Equipment	actions	menu	
 Enable prayer reordering	actions	menu	
-Enable prayer filtering	actions	menu	
+Disable prayer filtering	actions	menu	
 Prayer	actions	menu	
 Enable spell reordering	actions	menu	
 Disable spell filtering	actions	menu	
 Magic	actions	menu	
-Grouping	actions	menu	
 Friends List	actions	menu	
 Account Management	actions	menu	
-Logout	actions	menu	
+Ironman Group	actions	menu	
 Settings	actions	menu	
 Emotes	actions	menu	
 Music Player	actions	menu	
-Spike	actions	menu	
-Impale	actions	menu	
-Smash	actions	menu	
-Block	actions	menu	
-Auto retaliate	actions	menu	
-Use <colNum0>Special Attack</col>	actions	menu	
-Wiki	actions	menu	
-Add to canvas	actions	menu	
-View <colNum0>Attack</col> guide	actions	menu	
-View <colNum0>Hitpoints</col> guide	actions	menu	
-View <colNum0>Mining</col> guide	actions	menu	
-View <colNum0>Strength</col> guide	actions	menu	
-View <colNum0>Agility</col> guide	actions	menu	
-View <colNum0>Smithing</col> guide	actions	menu	
-View <colNum0>Defence</col> guide	actions	menu	
-View <colNum0>Herblore</col> guide	actions	menu	
-View <colNum0>Fishing</col> guide	actions	menu	
-View <colNum0>Ranged</col> guide	actions	menu	
-View <colNum0>Thieving</col> guide	actions	menu	
-View <colNum0>Cooking</col> guide	actions	menu	
-View <colNum0>Prayer</col> guide	actions	menu	
-View <colNum0>Crafting</col> guide	actions	menu	
-View <colNum0>Firemaking</col> guide	actions	menu	
-View <colNum0>Magic</col> guide	actions	menu	
-View <colNum0>Fletching</col> guide	actions	menu	
-View <colNum0>Woodcutting</col> guide	actions	menu	
-View <colNum0>Runecraft</col> guide	actions	menu	
-View <colNum0>Slayer</col> guide	actions	menu	
-View <colNum0>Farming</col> guide	actions	menu	
-View <colNum0>Construction</col> guide	actions	menu	
-View <colNum0>Hunter</col> guide	actions	menu	
-Character Summary	actions	menu	
-Quest List	actions	menu	
-Rewards	actions	menu	
-Tasks	actions	menu	
-Bosses	actions	menu	
-Overview	actions	menu	
-Collection Log	actions	menu	
-Hide	actions	menu	
-Reveal	actions	menu	
-View equipment stats	actions	menu	
-View guide prices	actions	menu	
-View items kept on death	actions	menu	
-Call follower	actions	menu	
-Disable prayer reordering	actions	menu	
-Disable prayer filtering	actions	menu	
-Disable spell reordering	actions	menu	
-Enable spell filtering	actions	menu	
-Ironman Group	actions	menu	
-Chat-channel	actions	menu	
-Your Clan	actions	menu	
-View another clan	actions	menu	
-Refresh	actions	menu	
-Join	actions	menu	
+Logout	actions	menu	
+Look West	actions	menu	
+Look South	actions	menu	
+Look East	actions	menu	
+Look North	actions	menu	
 Setup	actions	menu	
-Find	actions	menu	
-Teleport	actions	menu	
-Show notifications	actions	menu	
-Add Note	actions	menu	
-Hide notifications	actions	menu	
-View Ignore List	actions	menu	
-Add Friend	actions	menu	
-Delete Friend	actions	menu	
-View Friends List	actions	menu	
-Add Name	actions	menu	
-Delete Name	actions	menu	
-Account	actions	menu	
-Community	actions	menu	
-Useful Links	actions	menu	
-View Inbox	actions	menu	
-Name Changer	actions	menu	
-View History	actions	menu	
-View Newspost	actions	menu	
-View Archive	actions	menu	
-Switch	actions	menu	
-Close	actions	menu	
-Restore Default Zoom	actions	menu	
-Disable	actions	menu	
-Adjust Brightness	actions	menu	
-Audio	actions	menu	
-Controls	actions	menu	
-Display	actions	menu	
-Toggle skull prevention	actions	menu	
-Toggle Accept Aid	actions	menu	
-View House Options	actions	menu	
-Open Bond Pouch	actions	menu	
-All Settings	actions	menu	
-Toggle unlock message	actions	menu	
-Enable	actions	menu	
-Area	actions	menu	
-Manual	actions	menu	
-Random	actions	menu	
+Hide	actions	menu	
+Show	actions	menu	
 Activate	actions	menu	
+Toggle Run	actions	menu	
 Use	actions	menu	
+Bond Pouch	actions	menu	
+Open Store	actions	menu	
+Open Activity Adviser	actions	menu	
+Clear	actions	menu	
+Import	actions	menu	
+Export	actions	menu	
+Fullscreen <colNum0>World Map</col>	actions	menu	
+Floating <colNum0>World Map</col>	actions	menu	
 DPS	actions	menu	
 Search	actions	menu	
-Open	actions	menu	
-Toggle	actions	menu	
-Unmute	actions	menu	
-World Switcher	actions	menu	
-Favourite	actions	menu	
-Delete	actions	menu	
-Message	actions	menu	
-Remove friend	actions	menu	
-Add ignore	actions	menu	
-Add friend	actions	menu	
-Open wiki quick guide:	actions	menu	
-Open wiki guide:	actions	menu	
-Show on map:	actions	menu	
-Read journal:	actions	menu	
-Start Helper	actions	menu	
-Wiki <colNum0>Ardougne Journal</col>	actions	menu	
-Open <colNum0>Ardougne Journal</col>	actions	menu	
-Wiki <colNum0>Desert Journal</col>	actions	menu	
-Open <colNum0>Desert Journal</col>	actions	menu	
-Wiki <colNum0>Falador Journal</col>	actions	menu	
-Open <colNum0>Falador Journal</col>	actions	menu	
-Wiki <colNum0>Fremennik Journal</col>	actions	menu	
-Open <colNum0>Fremennik Journal</col>	actions	menu	
-Wiki <colNum0>Kandarin Journal</col>	actions	menu	
-Open <colNum0>Kandarin Journal</col>	actions	menu	
-Wiki <colNum0>Karamja Journal</col>	actions	menu	
-Open <colNum0>Karamja Journal</col>	actions	menu	
-Wiki <colNum0>Kourend & Kebos Journal</col>	actions	menu	
-Open <colNum0>Kourend & Kebos Journal</col>	actions	menu	
-Wiki <colNum0>Lumbridge & Draynor Journal</col>	actions	menu	
-Open <colNum0>Lumbridge & Draynor Journal</col>	actions	menu	
-Wiki <colNum0>Morytania Journal</col>	actions	menu	
-Open <colNum0>Morytania Journal</col>	actions	menu	
-Wiki <colNum0>Varrock Journal</col>	actions	menu	
-Open <colNum0>Varrock Journal</col>	actions	menu	
-Wiki <colNum0>Western Provinces Journal</col>	actions	menu	
-Open <colNum0>Western Provinces Journal</col>	actions	menu	
-Wiki <colNum0>Wilderness Journal</col>	actions	menu	
-Open <colNum0>Wilderness Journal</col>	actions	menu	
-Follow	actions	player	
-Trade with	actions	player	
-Lookup	actions	player	
-Equipment	actions	player	
-Report	actions	player	
-Adjust Music Volume	actions	menu	
-Adjust Area Sound Volume	actions	menu	
-Adjust Sound Effect Volume	actions	menu	
-Play	actions	menu	
+Lookup	actions	menu	
+Auto retaliate	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	actions	menu	combatOptionsTab
+Wiki	actions	menu	
+Add to canvas	actions	menu	
+View <colNum0>Attack</col> guide	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	actions	menu	skillsTab
+Character Summary	actions	menu	characterSummaryTab
+Achievement Diaries	actions	menu	characterSummaryTab
+Quest List	actions	menu	characterSummaryTab
+Character Summary	actions	menu		
+Quest List	actions	menu	
+Rewards	actions	menu	characterSummaryTab
+Tasks	actions	menu	characterSummaryTab
+Bosses	actions	menu	characterSummaryTab
+Overview	actions	menu	characterSummaryTab
+Collection Log	actions	menu	characterSummaryTab
+Reveal	actions	menu	characterSummaryTab
+Hide	actions	menu	characterSummaryTab
+Open	actions	menu	questListTab
+Close	actions	menu	questListTab
+Start Quest Helper	actions	menu	questListTab
+Open wiki quick guide:	actions	menu	questListTab
+Open wiki guide:	actions	menu	questListTab
+Show on map:	actions	menu	questListTab
+Read journal:	actions	menu	questListTab
+Start Helper	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	actions	menu	achievementDiaryTab
+View equipment stats	actions	menu	wornEquipmentTab
+View guide prices	actions	menu	wornEquipmentTab
+View items kept on death	actions	menu	wornEquipmentTab
+Call follower	actions	menu	wornEquipmentTab
+Disable prayer reordering	actions	menu	
+Enable prayer filtering	actions	menu	
+Disable spell reordering	actions	menu	
+Enable spell filtering	actions	menu	
+Show notifications	actions	menu	
+Add Note	actions	menu	
+Delete	actions	menu	friendsTab
+Message	actions	menu	friendsTab
+View Ignore List	actions	menu	friendsTab
+Add Friend	actions	menu	friendsTab
+Delete Friend	actions	menu	friendsTab
+View Friends List	actions	menu	ignoreTab
+Delete	actions	menu	ignoreTab
+Add Name	actions	menu	ignoreTab
+Delete Name	actions	menu	ignoreTab
+Account	actions	menu	accountManagementTab
+Community	actions	menu	accountManagementTab
+Useful Links	actions	menu	accountManagementTab
+Open Store	actions	menu	accountManagementTab
+Bond Pouch	actions	menu	accountManagementTab
+View Inbox	actions	menu	accountManagementTab
+Name Changer	actions	menu	accountManagementTab
+View History	actions	menu	accountManagementTab
+View Newspost	actions	menu	accountManagementTab
+View Archive	actions	menu	accountManagementTab
+Open	actions	menu	accountManagementTab
+Settings	actions	menu	groupTab
+Refresh	actions	menu	groupTab
+Join	actions	menu	groupTab
+Setup	actions	menu	groupTab
+Find	actions	menu	groupTab
+Open	actions	menu	groupTab
+Teleport	actions	menu	groupTab
+Select	actions	menu	groupTab
+Toggle skull prevention	actions	menu	settingsTab
+Toggle Accept Aid	actions	menu	settingsTab
+Toggle Run	actions	menu	settingsTab
+View House Options	actions	menu	settingsTab
+Open Bond Pouch	actions	menu	settingsTab
+All Settings	actions	menu	settingsTab
+Controls	actions	menu	settingsTab
+Display	actions	menu	settingsTab
+Audio	actions	menu	settingsTab
+Unmute	actions	menu	settingsTab
+Adjust Music Volume	actions	menu	settingsTab
+Adjust Sound Effect Volume	actions	menu	settingsTab
+Adjust Area Sound Volume	actions	menu	settingsTab
+Adjust Brightness	actions	menu	settingsTab
+Restore Default Zoom	actions	menu	settingsTab
+Disable	actions	menu	settingsTab
+Select	actions	menu	settingsTab
+Perform	actions	menu	emotesTab
+Area	actions	menu	musicTab
+Manual	actions	menu	musicTab
+Random	actions	menu	musicTab
+Unlock hint	actions	menu	musicTab
+Play	actions	menu	musicTab
+Thumbs Up	actions	menu	logoutTab
+Thumbs Down	actions	menu	logoutTab
+World Switcher	actions	menu	logoutTab
+Logout	actions	menu	logoutTab
+Favourite	actions	menu	worldSwitcherTab
+Switch	actions	menu	worldSwitcherTab
+Logout	actions	menu	worldSwitcherTab
+Clear	actions	menu	worldSwitcherTab
+Close	actions	menu	worldSwitcherTab
+Configure	actions	menu	worldSwitcherTab
