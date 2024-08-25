@@ -10393,6 +10393,57 @@ source: None
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109957"><xliff:source>Assignment</xliff:source><xliff:target state="translated">討伐任務を受ける</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Vannaka
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=403</xliff:note></xliff:trans-unit><xliff:trans-unit id="109958"><xliff:source>Attract</xliff:source><xliff:target state="translated">引き付ける</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Light creature
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=5435</xliff:note></xliff:trans-unit><xliff:trans-unit id="109959"><xliff:source>Plant-orb</xliff:source><xliff:target state="translated">オーブを置く</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Surok Magis
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13551</xliff:note></xliff:trans-unit><xliff:trans-unit id="109960"><xliff:source>Build</xliff:source><xliff:target state="translated">組み立てる</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Funeral Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4093</xliff:note></xliff:trans-unit><xliff:trans-unit id="109961"><xliff:source>Emir's Arena</xliff:source><xliff:target state="translated">エミアのアリーナ</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Basic Jewellery Box
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37493</xliff:note></xliff:trans-unit><xliff:trans-unit id="109962"><xliff:source>Big-Search</xliff:source><xliff:target state="translated">よく探す</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Reward pool
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="109963"><xliff:source>Solo-start</xliff:source><xliff:target state="translated">ソロで開始</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Rope ladder
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41305</xliff:note></xliff:trans-unit><xliff:trans-unit id="109964"><xliff:source>Cross-over</xliff:source><xliff:target state="translated">渡る</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Broken wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53884</xliff:note></xliff:trans-unit><xliff:trans-unit id="109965"><xliff:source>Follow</xliff:source><xliff:target state="translated">追う</xliff:target><xliff:note>category: actions
+sub_category: player
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109966"><xliff:source>Trade with</xliff:source><xliff:target state="translated">取引</xliff:target><xliff:note>category: actions
+sub_category: player
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109967"><xliff:source>Lookup</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
+sub_category: player
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109968"><xliff:source>Equipment</xliff:source><xliff:target state="translated">装備</xliff:target><xliff:note>category: actions
+sub_category: player
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109969"><xliff:source>Report</xliff:source><xliff:target state="translated">通報</xliff:target><xliff:note>category: actions
+sub_category: player
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109970"><xliff:source>Adjust Music Volume</xliff:source><xliff:target state="translated">音量を調整</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109971"><xliff:source>Adjust Area Sound Volume</xliff:source><xliff:target state="translated">環境音を調整</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109972"><xliff:source>Adjust Sound Effect Volume</xliff:source><xliff:target state="translated">効果音を調整</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109973"><xliff:source>Play</xliff:source><xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: None
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

@@ -41,6 +41,14 @@ def get_data_from_wiki_page(url, category):
     if category == common.WIKI_URL["npc_dialogue"] or category == common.WIKI_URL["pet_dialogue"]:
         li_elements = main_content.find_all('li')
         entity_name = soup.find("h1", class_="firstHeading").get_text().replace("Dialogue for ", "").strip()
+        
+        # To deal with npc names that have () at the end, such as "Banker (Al Kharid)". Will fetch true names from their npc page
+        pattern = r'\(.+\)$'
+        if re.search(pattern, entity_name):
+            entity_name = getTrueNameFromDialogue(soup)
+            if entity_name is None:
+                print(f"Failed to fetch the true name for {entity_name}.")
+                entity_name = soup.find("h1", class_="firstHeading").get_text().strip()
 
     
         for li in li_elements:
@@ -134,6 +142,42 @@ def get_data_from_wiki_page(url, category):
                         common.COLUMN_NAME_WIKI_URL:url})
 
     return data
+
+def getTrueNameFromDialogue(soup):
+    # Find the div with the class "mw-body-content mw-content-ltr"
+    div = soup.find('div', class_='mw-body-content mw-content-ltr')
+    if div is None:
+        return None
+
+    table_tag = div.find('table', class_='messagebox plainlinks')
+    if table_tag is None:
+        return None
+
+    # Find the first <a> tag within that div
+    first_a_tag = table_tag.find('a', href=True)
+    if first_a_tag is None:
+        return None
+
+    # Extract the href attribute
+    first_href_link = first_a_tag['href'] if first_a_tag else None
+
+    # Fetch the webpage content
+    response = requests.get(common.WIKI_URL["base"] + first_href_link)
+
+    # Check if the request was successful
+    if response.status_code != 200:
+        print(f"Failed to fetch the webpage content for {first_href_link}.")
+        return []
+    
+    # Step 2: Parse the webpage content
+    soup = BeautifulSoup(response.text, 'html.parser')
+    main_content = soup.find('div', class_='mw-parser-output')
+    if not main_content:
+        return []
+    # Find the th tag with the class "infobox-header"
+    entity_name = soup.find('th', class_='infobox-header').get_text()
+    
+    return entity_name
 
 def get_all_urls_of_entity(base_url, url):
     """

@@ -212,3 +212,12 @@ Wiki <colNum0>Western Provinces Journal</col>	actions	menu
 Open <colNum0>Western Provinces Journal</col>	actions	menu	
 Wiki <colNum0>Wilderness Journal</col>	actions	menu	
 Open <colNum0>Wilderness Journal</col>	actions	menu	
+Follow	actions	player	
+Trade with	actions	player	
+Lookup	actions	player	
+Equipment	actions	player	
+Report	actions	player	
+Adjust Music Volume	actions	menu	
+Adjust Area Sound Volume	actions	menu	
+Adjust Sound Effect Volume	actions	menu	
+Play	actions	menu	

@@ -175,7 +175,7 @@ Dark wizard	暗黒の魔法使い	name	npc	Dark wizard
 Invrigar the Necromancer	ネクロマンサー・インブリガー	name	npc	Invrigar the Necromancer
 Mugger	強盗	name	npc	Mugger
 Witch	魔女	name	npc	Witch
-Black Knight	黒い騎士	name	npc	Black Knight
+Black Knight	黒騎士	name	npc	Black Knight
 Highwayman	ハイウェイマン	name	npc	Highwayman
 Chaos druid	混沌ドルイド	name	npc	Chaos druid
 Pirate	海賊	name	npc	Pirate
@@ -608,7 +608,7 @@ Skeleton brute	粗暴なスケルトン	name	npc	Skeleton brute
 Skeleton warlord	スケルトン将軍	name	npc	Skeleton warlord
 Skeleton heavy	スケルトン・ヘビー	name	npc	Skeleton heavy
 Skeleton thug	スケルトンの凶漢	name	npc	Skeleton thug
-Black knight	黒い騎士	name	npc	Black knight
+Black knight	黒騎士	name	npc	Black knight
 Fire wizard	火の魔法使い	name	npc	Fire wizard
 Water wizard	水の魔法使い	name	npc	Water wizard
 Earth wizard	土の魔法使い	name	npc	Earth wizard
@@ -1321,7 +1321,7 @@ Leech	ヒル	name	npc	Leech
 Bee keeper	養蜂家	name	npc	Bee keeper
 Mist	霧	name	npc	Mist
 Vampyric hound	吸血犬	name	npc	Vampyric hound
-Tree		name	npc	Tree
+Tree	木	name	npc	Tree
 Blandebir	ブランデビー	name	npc	Blandebir
 Metarialus	メタリアルス	name	npc	Metarialus
 Wizard Frumscone	魔法使いフルムスコーン	name	npc	Wizard Frumscone
@@ -1645,7 +1645,7 @@ Radimus Erkle	ラジマス・エークレ	name	npc	Radimus Erkle
 Jungle forester	ジャングルの管理者	name	npc	Jungle forester
 Gujuo	グジュオ	name	npc	Gujuo
 Ungadulu	ウンガヅル	name	npc	Ungadulu
-Tormented Warrior	苦悩の戦士	name	npc	Tormented Warrior
+Tormented Warrior	苦悩する戦士	name	npc	Tormented Warrior
 Fionella	フィオネラ	name	npc	Fionella
 Siegfried Erkle	シエグフライド・エークル	name	npc	Siegfried Erkle
 Nezikchened	ネジクチェンド	name	npc	Nezikchened
@@ -1684,7 +1684,7 @@ High Priest	教皇	name	npc	High Priest
 Crone	老婦人	name	npc	Crone
 Galahad	ガラハド	name	npc	Galahad
 The Fisher King	釣りの王	name	npc	The Fisher King
-Black Knight Titan	黒い騎士の巨人	name	npc	Black Knight Titan
+Black Knight Titan	黒騎士の巨人	name	npc	Black Knight Titan
 Bonzo	ボンゾ	name	npc	Bonzo
 Sinister Stranger	不吉なよそ者	name	npc	Sinister Stranger
 Morris	モリス	name	npc	Morris
@@ -1971,7 +1971,7 @@ Parrots	オウム	name	npc	Parrots
 Parroty Pete	オウムのピート	name	npc	Parroty Pete
 Fake Man	偽の人間	name	npc	Fake Man
 Fortress Guard	森の警備員	name	npc	Fortress Guard
-Black Knight Captain	黒い騎士の隊長	name	npc	Black Knight Captain
+Black Knight Captain	黒騎士の隊長	name	npc	Black Knight Captain
 Greldo	グレルド	name	npc	Greldo
 Black Cat	黒いネコ	name	npc	Black Cat
 Col. O'Niall	大佐オーニアル	name	npc	Col. O'Niall
@@ -2433,7 +2433,7 @@ Black demon (hard)	黒悪魔（上級）	name	npc	Black demon (hard)
 Bloodhound	ブラッドハウンド	name	npc	Bloodhound
 Glod (hard)	グロッド（上級）	name	npc	Glod (hard)
 Treus Dayth (hard)	トレウス・ダイス（上級）	name	npc	Treus Dayth (hard)
-Black Knight Titan (hard)	黒い騎士の巨人（上級）	name	npc	Black Knight Titan (hard)
+Black Knight Titan (hard)	黒騎士の巨人（上級）	name	npc	Black Knight Titan (hard)
 Dagannoth mother (hard)	母ダガノス（上級）	name	npc	Dagannoth mother (hard)
 Evil Chicken (hard)	邪悪なニワトリ（上級）	name	npc	Evil Chicken (hard)
 Culinaromancer (hard)	料理の魔術師（上級）	name	npc	Culinaromancer (hard)
@@ -3102,7 +3102,7 @@ Old dwarf	老いたドワーフ	name	npc	Old dwarf
 Mori	モリ	name	npc	Mori
 Survival Expert	生存術の専門家	name	npc	Survival Expert
 Lord Trobin Arceuus	トロビン・アルセウス様	name	npc	Lord Trobin Arceuus
-Tormented Soul	苦悩の魂	name	npc	Tormented Soul
+Tormented Soul	苦悩する魂	name	npc	Tormented Soul
 Trapped Soul	とらわれし魂	name	npc	Trapped Soul
 Alyssa	アリッサ	name	npc	Alyssa
 Alry the Angler	釣り師のアルリ	name	npc	Alry the Angler
@@ -3775,7 +3775,7 @@ Arcane Scarab	神秘のスカラベ	name	npc	Arcane Scarab
 Agile Scarab	俊敏なスカラベ	name	npc	Agile Scarab
 Zebak's Tail	ゼバックの尻尾	name	npc	Zebak's Tail
 Jug	水差し	name	npc	Jug
-Wave		name	npc	Wave
+Wave	波	name	npc	Wave
 Bloody Wave	血の波	name	npc	Bloody Wave
 Blood Cloud	血の雲	name	npc	Blood Cloud
 Elidinis' Warden	エリディニスの監視者	name	npc	Elidinis' Warden
@@ -4174,3 +4174,49 @@ Frog Princess	カエルの姫	name	npc	Frog Princess
 Enraged Blood Moon	激怒したブラッド・ムーン	name	npc	Enraged Blood Moon
 Enraged Blue Moon	激怒したブルー・ムーン	name	npc	Enraged Blue Moon
 Enraged Eclipse Moon	激怒したエクリプス・ムーン	name	npc	Enraged Eclipse Moon
+Hazelmere's hat	ヘイゼルミアの帽子	name	npc	Hazelmere's hat
+Undead Hero	アンデッドのヒーロー	name	npc	Undead Hero
+Elite Black Knight	黒騎士の精鋭	name	npc	Elite Black Knight
+Elite Dark Warrior	暗黒戦士の精鋭	name	npc	Elite Dark Warrior
+Elite Dark Ranger	暗黒射手の精鋭	name	npc	Elite Dark Ranger
+Elite Dark Mage	暗黒魔術師の精鋭	name	npc	Elite Dark Mage
+Undead Mage	アンデッドの魔術師	name	npc	Undead Mage
+Agile Warrior	俊敏な戦士	name	npc	Agile Warrior
+Strong Warrior	強い戦士	name	npc	Strong Warrior
+Earth spell	土の魔法	name	npc	Earth spell
+Water spell	水の魔法	name	npc	Water spell
+Fire spell	火の魔法	name	npc	Fire spell
+Wind spell	風の魔法	name	npc	Wind spell
+Ivy Sophista	アイビー・ソフィスタ	name	npc	Ivy Sophista
+Thaerisk	サエリスク	name	npc	Thaerisk
+Khazard Launderer	カザードの洗濯屋	name	npc	Khazard Launderer
+Wild broav	野生のブローブ	name	npc	Wild broav
+Broav	ブローブ	name	npc	Broav
+Silif	シリフ	name	npc	Silif
+Balance Elemental	均衡のエレメンタル	name	npc	Balance Elemental
+Elite Khazard Guard	カザード衛兵の精鋭	name	npc	Elite Khazard Guard
+Mercenary axeman	傭兵の斧兵	name	npc	Mercenary axeman
+Mercenary mage	傭兵の魔術師	name	npc	Mercenary mage
+Idria	アイドリア	name	npc	Idria
+Akrisae	アクリサエ	name	npc	Akrisae
+Shady stranger	怪しい見知らぬ人	name	npc	Shady stranger
+Suspicious outsider	胡散臭いよそ者	name	npc	Suspicious outsider
+Dark Squall	暗黒のスコール	name	npc	Dark Squall
+Druid spirit	ドルイドの魂	name	npc	Druid spirit
+Sithaph	シスパフ	name	npc	Sithaph
+Sakirth	サキース	name	npc	Sakirth
+Strisath	シトリサス	name	npc	Strisath
+Strange tube	不思議なチューブ	name	npc	Strange tube
+V	V	name	npc	V
+Tormented Demon	苦悩する悪魔	name	npc	Tormented Demon
+Debug Man	デバッグ男	name	npc	Debug Man
+Debug Woman	デバッグ女	name	npc	Debug Woman
+Laidee Gnonock	ラジー・ノノック	name	npc	Laidee Gnonock
+Yadech Strongarm	ヤデック・ストロンガーム	name	npc	Yadech Strongarm
+Aya	アヤ	name	npc	Aya
+Achtryn	アチトリン	name	npc	Achtryn
+Kuradal	クラダル	name	npc	Kuradal
+Zembo	ゼンボ	name	npc	Zembo
+Durial321	Durial321	name	npc	Durial321
+Magic Mark	Magic Mark	name	npc	Magic Mark
+Ranging Ro	Ranging Ro	name	npc	Ranging Ro

@@ -9484,3 +9484,159 @@ Some of Kit's personal belongings.		examine	object	Kit's boxes
 Some of kit's favourite books.		examine	object	Kit's books
 I guess you could call this 'Kit's kit'.		examine	object	Kit's bag
 To Kit.		examine	object	Letter
+Hmm... I wonder if it's loose enough to get through.		examine	object	Loose Railing
+A place to cremate the dead. Needs a body.		examine	object	Basic Pyre
+A place to cremate the dead. Needs a light.		examine	object	Basic Pyre
+Emits light.		examine	object	Lantern
+I could use this to observe the rats from a safe distance.		examine	object	Rat wall
+A lovely, comfy-looking big bed.		examine	object	Bed
+There is a vial on it.		examine	object	Counter
+A sturdy-looking, round table.		examine	object	Table
+A pit trap that has been set.		examine	object	Pit trap
+A pit trap that has been set and baited.		examine	object	Baited pit trap
+It's on its last legs.		examine	object	Broken table
+It leads to an underground tunnel.		examine	object	Trapdoor
+A cell gate.		examine	object	Cell gate
+A wanted poster.		examine	object	Wanted poster
+A wanted poster asking for information on the individual known as the Dark Squall.		examine	object	Wanted poster
+There is a snapdragon seed on it.		examine	object	Counter
+There is an enriched snapdragon seed on it.		examine	object	Counter
+A snow-covered ledge.		examine	object	Ledge
+The ledge of a roof.		examine	object	Ledge
+A specially prepared patch.		examine	object	Herb patch
+Some fully grown herbs.		examine	object	Herbs
+A statue of an ancient hero.		examine	object	Broken statue
+In honour of the hero, Hazelmere, who died facing the Mahjarrat known as Lucien.		examine	object	Statue of Hazelmere
+In honour of the hero, Turael, who died facing the Mahjarrat known as Lucien.		examine	object	Statue of Turael
+In honour of the hero, Duradel, who died facing the Mahjarrat known as Lucien.		examine	object	Statue of Duradel
+In honour of the hero, Sloane, who died facing the Mahjarrat known as Lucien.		examine	object	Statue of Sloane
+In honour of the hero, Ghommal, who died facing the Mahjarrat known as Lucien.		examine	object	Statue of Ghommal
+In honour of the hero, Cyrisus, who died facing the Mahjarrat known as Lucien.		examine	object	Statue of Cyrisus
+There's a rope attached here.		examine	object	Rock
+Rock on.		examine	object	Rock
+Some closed drawers.		examine	object	Drawers
+Some open drawers.		examine	object	Drawers
+The devastation of Lucien.		examine	object	Rubble
+A decorated tile.		examine	object	Tile
+A homemade desk.		examine	object	Desk
+It might be worth a look inside.		examine	object	Wardrobe
+It might be worth searching through.		examine	object	Wardrobe
+A place to put your keys.		examine	object	Key rack
+It looks to be quite tough.		examine	object	Solid door
+A crude table.		examine	object	Table
+The metal bars look strong.		examine	object	Gate
+Only for pleasant purposes, I'm sure.		examine	object	Chain
+An assortment of maps.		examine	object	Map board
+Useful for passing over otherwise inaccessible areas.		examine	object	Bridge
+I could scale this wall with a bit of effort.		examine	object	Wall
+It looks a bit steep!		examine	object	Wall
+Used to impede the movement of attacking forces.		examine	object	Barricade
+I might be able to climb up it.		examine	object	Ice wall
+An empty recess in the wall, next to an etching of a fire symbol.		examine	object	Recess
+An empty recess in the wall, next to an etching of an earth symbol.		examine	object	Recess
+An empty recess in the wall, next to an etching of an air symbol.		examine	object	Recess
+A square block is recessed into the wall, next to an etching of a fire symbol.		examine	object	Recessed block
+A square block is recessed into the wall, next to an etching of an earth symbol.		examine	object	Recessed block
+A square block is recessed into the wall, next to an etching of an air symbol.		examine	object	Recessed block
+A square block is recessed into a hole above a water symbol. There's a second empty recess above a fire symbol.		examine	object	Recessed block
+A square block is recessed into a hole above a fire symbol. There's a second empty recess above a water symbol.		examine	object	Recessed block
+Two empty recesses sit above fire and water symbols.		examine	object	Recesses
+Two square blocks are recessed into holes above fire and water symbols.		examine	object	Recessed blocks
+A sinister opening.		examine	object	Opening
+An earth symbol is etched into this strange mechanism.		examine	object	Mechanism
+A square block has been placed into this strange mechanism.		examine	object	Mechanism
+A water symbol is etched into this strange mechanism.		examine	object	Mechanism
+An air symbol is etched into this strange mechanism.		examine	object	Mechanism
+There's a crawl space through this hole.		examine	object	Cavity
+A statue once stood here.		examine	object	Rubble
+This statue appears to depict agility.		examine	object	Statue
+This statue appears to depict balance.		examine	object	Statue
+This statue appears to depict energy.		examine	object	Statue
+This statue appears to depict restoration.		examine	object	Statue
+This statue appears to depict attacking.		examine	object	Statue
+This statue appears to depict strength.		examine	object	Statue
+This statue appears to depict defence.		examine	object	Statue
+This statue appears to depict combat.		examine	object	Statue
+This statue appears to depict ranging.		examine	object	Statue
+This statue appears to depict prayer.		examine	object	Statue
+This statue appears to depict hunting.		examine	object	Statue
+This statue appears to depict fishing.		examine	object	Statue
+This statue appears to depict magic.		examine	object	Statue
+A large table made of stone.		examine	object	Stone table
+It's a bit steep!		examine	object	Wall
+There are elemental symbols engraved upon the cube's faces.		examine	object	Stone cube
+A very big door with a depiction of Guthix on it.		examine	object	Huge door
+Part of a stone circle.		examine	object	Dolmen
+A dried-up vine.		examine	object	Dead vine
+A flowering vine.		examine	object	Vine flower
+An empty brazier.		examine	object	Brazier
+Some rocks that have fallen down.		examine	object	Rocks
+A broken brazier.		examine	object	Brazier
+Burning through ancient magic.		examine	object	Brazier
+They possibly didn't understand the command, 'Stop at the edge of the chasm'.		examine	object	Skeletal remains
+Looks like the corpse of a follower of Guthix.		examine	object	Skeleton
+It's burning with an ethereal white light.		examine	object	Brazier
+It's burning with an ethereal blue light.		examine	object	Brazier
+A powerful energy surrounds it.		examine	object	Mysterious Stone
+It's disappearing!		examine	object	Stone of Jas
+This plinth once held the great Stone of Jas.		examine	object	Plinth
+An exit out of the crawl space.		examine	object	Hole
+A section of broken wall.		examine	object	Broken wall
+A depiction of a statuesque human bearing a weighty tome upon his shoulders.		examine	object	Painting
+This staircase is carved into the rock.		examine	object	Stairs
+It's slightly illuminated.		examine	object	Floor wire
+It's not illuminated.		examine	object	Floor wire
+A very sturdy bookcase filled with reams of indecipherable writings.		examine	object	Bookcase
+This staircase leads up.		examine	object	Spiral staircase
+There's something different about the floor here.		examine	object	Floor
+This staircase leads down.		examine	object	Spiral staircase
+The statue depicts a muscular human carrying a huge tome.		examine	object	Statue
+A selection of weights all piled together.		examine	object	Pile of weights
+A set of drawers.		examine	object	Drawers
+A device for measuring vertical pressure.		examine	object	Pressure gauge
+It looks like it's just full of paperwork regarding tedious, everyday details.		examine	object	Waste-paper basket
+It looks to be a normal bookcase, filled with the usual old, dusty tomes.		examine	object	Bookcase
+There are a few scattered papers on the desk.		examine	object	Desk
+There are many papers on the desk, most of which look quite detailed.		examine	object	Desk
+It's a small cave dug into the side of the wall.		examine	object	Tunnel
+A huge pile of treasure! It looks too good to be true!		examine	object	Treasure pile
+It's some sort of strange contraption, but it's not clear what it's supposed to do.		examine	object	Contraption
+Decorative tiling of poor craftsmanship.		examine	object	Tiling
+A staircase that rose out of the floor.		examine	object	Stairs
+This bed appears to be very tough and uncomfortable.		examine	object	Bed
+I thought only dragons slept on their valuables.		examine	object	Bed chest
+A bed that doubles as a chest is worth investigating.		examine	object	Bed chest
+Yep, that was worth investigating.		examine	object	Bed chest
+There used to be a pile of coal here.		examine	object	Empty pallet
+A very small pile of coal.		examine	object	Coal pile
+A small pile of coal.		examine	object	Coal pile
+A big pile of coal.		examine	object	Coal pile
+A very big pile of coal.		examine	object	Coal pile
+There used to be a pile of fire runes here.		examine	object	Empty pallet
+A very small pile of fire runes.		examine	object	Fire rune pile
+A small pile of fire runes.		examine	object	Fire rune pile
+A big pile of fire runes.		examine	object	Fire rune pile
+A very big pile of fire runes.		examine	object	Fire rune pile
+There used to be a pile of death runes here.		examine	object	Empty pallet
+A very small pile of death runes.		examine	object	Death rune pile
+A small pile of death runes.		examine	object	Death rune pile
+A big pile of death runes.		examine	object	Death rune pile
+A very big pile of death runes.		examine	object	Death rune pile
+There used to be a pile of magic logs here.		examine	object	Empty pallet
+A very small pile of magic logs.		examine	object	Magic logs pile
+A small pile of magic logs.		examine	object	Magic logs pile
+A big pile of magic logs.		examine	object	Magic logs pile
+A very big pile of magic logs.		examine	object	Magic logs pile
+Some sort of dial displaying the number 3.		examine	object	Display dial
+Some sort of dial displaying the number 2.		examine	object	Display dial
+Some sort of dial displaying the number 1.		examine	object	Display dial
+Some sort of dial displaying the number 0.		examine	object	Display dial
+Crammed with books on every topic.		examine	object	Bookcase
+A desk with papers of little interest.		examine	object	Desk
+Books on every subject imaginable.		examine	object	Books
+A broken furnace.		examine	object	Broken furnace
+A well slept-in bed.		examine	object	Bed
+A barrel full of an unknown liquid. I hope it's orange juice.		examine	object	Barrel
+Quite loose indeed.		examine	object	Loose Railing
+A rug adorned with the icon of Deadman.		examine	object	Rug
+Someone's left it open.		examine	object	Chest

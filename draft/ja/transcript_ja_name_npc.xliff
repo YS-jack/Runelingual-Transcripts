@@ -1411,7 +1411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10359">
         <xliff:source>Black Knight</xliff:source>
-        <xliff:target state="translated">黒い騎士</xliff:target>
+        <xliff:target state="translated">黒騎士</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black Knight
@@ -4875,7 +4875,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10792">
         <xliff:source>Black knight</xliff:source>
-        <xliff:target state="translated">黒い騎士</xliff:target>
+        <xliff:target state="translated">黒騎士</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black knight
@@ -10579,7 +10579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11505">
         <xliff:source>Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tree
@@ -13171,7 +13171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11829">
         <xliff:source>Tormented Warrior</xliff:source>
-        <xliff:target state="translated">苦悩の戦士</xliff:target>
+        <xliff:target state="translated">苦悩する戦士</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tormented Warrior
@@ -13483,7 +13483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11868">
         <xliff:source>Black Knight Titan</xliff:source>
-        <xliff:target state="translated">黒い騎士の巨人</xliff:target>
+        <xliff:target state="translated">黒騎士の巨人</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black Knight Titan
@@ -15779,7 +15779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12155">
         <xliff:source>Black Knight Captain</xliff:source>
-        <xliff:target state="translated">黒い騎士の隊長</xliff:target>
+        <xliff:target state="translated">黒騎士の隊長</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black Knight Captain
@@ -19475,7 +19475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12617">
         <xliff:source>Black Knight Titan (hard)</xliff:source>
-        <xliff:target state="translated">黒い騎士の巨人（上級）</xliff:target>
+        <xliff:target state="translated">黒騎士の巨人（上級）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Black Knight Titan (hard)
@@ -24827,7 +24827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13286">
         <xliff:source>Tormented Soul</xliff:source>
-        <xliff:target state="translated">苦悩の魂</xliff:target>
+        <xliff:target state="translated">苦悩する魂</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Tormented Soul
@@ -30211,7 +30211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13959">
         <xliff:source>Wave</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">波</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wave
@@ -33401,6 +33401,144 @@ sub_category: npc
 source: Enraged Eclipse Moon
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13487</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="14358"><xliff:source>Hazelmere's hat</xliff:source><xliff:target state="translated">ヘイゼルミアの帽子</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Hazelmere's hat
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13452</xliff:note></xliff:trans-unit><xliff:trans-unit id="14359"><xliff:source>Undead Hero</xliff:source><xliff:target state="translated">アンデッドのヒーロー</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Undead Hero
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13453</xliff:note></xliff:trans-unit><xliff:trans-unit id="14360"><xliff:source>Elite Black Knight</xliff:source><xliff:target state="translated">黒騎士の精鋭</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Elite Black Knight
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13463</xliff:note></xliff:trans-unit><xliff:trans-unit id="14361"><xliff:source>Elite Dark Warrior</xliff:source><xliff:target state="translated">暗黒戦士の精鋭</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Elite Dark Warrior
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13465</xliff:note></xliff:trans-unit><xliff:trans-unit id="14362"><xliff:source>Elite Dark Ranger</xliff:source><xliff:target state="translated">暗黒射手の精鋭</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Elite Dark Ranger
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13467</xliff:note></xliff:trans-unit><xliff:trans-unit id="14363"><xliff:source>Elite Dark Mage</xliff:source><xliff:target state="translated">暗黒魔術師の精鋭</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Elite Dark Mage
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13469</xliff:note></xliff:trans-unit><xliff:trans-unit id="14364"><xliff:source>Undead Mage</xliff:source><xliff:target state="translated">アンデッドの魔術師</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Undead Mage
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13471</xliff:note></xliff:trans-unit><xliff:trans-unit id="14365"><xliff:source>Agile Warrior</xliff:source><xliff:target state="translated">俊敏な戦士</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Agile Warrior
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13483</xliff:note></xliff:trans-unit><xliff:trans-unit id="14366"><xliff:source>Strong Warrior</xliff:source><xliff:target state="translated">強い戦士</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Strong Warrior
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13484</xliff:note></xliff:trans-unit><xliff:trans-unit id="14367"><xliff:source>Earth spell</xliff:source><xliff:target state="translated">土の魔法</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Earth spell
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13505</xliff:note></xliff:trans-unit><xliff:trans-unit id="14368"><xliff:source>Water spell</xliff:source><xliff:target state="translated">水の魔法</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Water spell
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13506</xliff:note></xliff:trans-unit><xliff:trans-unit id="14369"><xliff:source>Fire spell</xliff:source><xliff:target state="translated">火の魔法</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Fire spell
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13507</xliff:note></xliff:trans-unit><xliff:trans-unit id="14370"><xliff:source>Wind spell</xliff:source><xliff:target state="translated">風の魔法</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Wind spell
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13508</xliff:note></xliff:trans-unit><xliff:trans-unit id="14371"><xliff:source>Ivy Sophista</xliff:source><xliff:target state="translated">アイビー・ソフィスタ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Ivy Sophista
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13510</xliff:note></xliff:trans-unit><xliff:trans-unit id="14372"><xliff:source>Thaerisk</xliff:source><xliff:target state="translated">サエリスク</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Thaerisk
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13511</xliff:note></xliff:trans-unit><xliff:trans-unit id="14373"><xliff:source>Khazard Launderer</xliff:source><xliff:target state="translated">カザードの洗濯屋</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Khazard Launderer
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13516</xliff:note></xliff:trans-unit><xliff:trans-unit id="14374"><xliff:source>Wild broav</xliff:source><xliff:target state="translated">野生のブローブ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Wild broav
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13517</xliff:note></xliff:trans-unit><xliff:trans-unit id="14375"><xliff:source>Broav</xliff:source><xliff:target state="translated">ブローブ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Broav
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13518</xliff:note></xliff:trans-unit><xliff:trans-unit id="14376"><xliff:source>Silif</xliff:source><xliff:target state="translated">シリフ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Silif
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13519</xliff:note></xliff:trans-unit><xliff:trans-unit id="14377"><xliff:source>Balance Elemental</xliff:source><xliff:target state="translated">均衡のエレメンタル</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Balance Elemental
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13528</xliff:note></xliff:trans-unit><xliff:trans-unit id="14378"><xliff:source>Elite Khazard Guard</xliff:source><xliff:target state="translated">カザード衛兵の精鋭</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Elite Khazard Guard
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13531</xliff:note></xliff:trans-unit><xliff:trans-unit id="14379"><xliff:source>Mercenary axeman</xliff:source><xliff:target state="translated">傭兵の斧兵</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Mercenary axeman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13535</xliff:note></xliff:trans-unit><xliff:trans-unit id="14380"><xliff:source>Mercenary mage</xliff:source><xliff:target state="translated">傭兵の魔術師</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Mercenary mage
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13537</xliff:note></xliff:trans-unit><xliff:trans-unit id="14381"><xliff:source>Idria</xliff:source><xliff:target state="translated">アイドリア</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Idria
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13540</xliff:note></xliff:trans-unit><xliff:trans-unit id="14382"><xliff:source>Akrisae</xliff:source><xliff:target state="translated">アクリサエ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Akrisae
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13543</xliff:note></xliff:trans-unit><xliff:trans-unit id="14383"><xliff:source>Shady stranger</xliff:source><xliff:target state="translated">怪しい見知らぬ人</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Shady stranger
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13545</xliff:note></xliff:trans-unit><xliff:trans-unit id="14384"><xliff:source>Suspicious outsider</xliff:source><xliff:target state="translated">胡散臭いよそ者</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Suspicious outsider
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13555</xliff:note></xliff:trans-unit><xliff:trans-unit id="14385"><xliff:source>Dark Squall</xliff:source><xliff:target state="translated">暗黒のスコール</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Dark Squall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13565</xliff:note></xliff:trans-unit><xliff:trans-unit id="14386"><xliff:source>Druid spirit</xliff:source><xliff:target state="translated">ドルイドの魂</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Druid spirit
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13575</xliff:note></xliff:trans-unit><xliff:trans-unit id="14387"><xliff:source>Sithaph</xliff:source><xliff:target state="translated">シスパフ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Sithaph
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13583</xliff:note></xliff:trans-unit><xliff:trans-unit id="14388"><xliff:source>Sakirth</xliff:source><xliff:target state="translated">サキース</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Sakirth
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13584</xliff:note></xliff:trans-unit><xliff:trans-unit id="14389"><xliff:source>Strisath</xliff:source><xliff:target state="translated">シトリサス</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Strisath
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13585</xliff:note></xliff:trans-unit><xliff:trans-unit id="14390"><xliff:source>Strange tube</xliff:source><xliff:target state="translated">不思議なチューブ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Strange tube
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13586</xliff:note></xliff:trans-unit><xliff:trans-unit id="14391"><xliff:source>V</xliff:source><xliff:target state="translated">V</xliff:target><xliff:note>category: name
+sub_category: npc
+source: V
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13593</xliff:note></xliff:trans-unit><xliff:trans-unit id="14392"><xliff:source>Tormented Demon</xliff:source><xliff:target state="translated">苦悩する悪魔</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Tormented Demon
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13599</xliff:note></xliff:trans-unit><xliff:trans-unit id="14393"><xliff:source>Debug Man</xliff:source><xliff:target state="translated">デバッグ男</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Debug Man
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13611</xliff:note></xliff:trans-unit><xliff:trans-unit id="14394"><xliff:source>Debug Woman</xliff:source><xliff:target state="translated">デバッグ女</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Debug Woman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13612</xliff:note></xliff:trans-unit><xliff:trans-unit id="14395"><xliff:source>Laidee Gnonock</xliff:source><xliff:target state="translated">ラジー・ノノック</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Laidee Gnonock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13614</xliff:note></xliff:trans-unit><xliff:trans-unit id="14396"><xliff:source>Yadech Strongarm</xliff:source><xliff:target state="translated">ヤデック・ストロンガーム</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Yadech Strongarm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13617</xliff:note></xliff:trans-unit><xliff:trans-unit id="14397"><xliff:source>Aya</xliff:source><xliff:target state="translated">アヤ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Aya
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13619</xliff:note></xliff:trans-unit><xliff:trans-unit id="14398"><xliff:source>Achtryn</xliff:source><xliff:target state="translated">アチトリン</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Achtryn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13621</xliff:note></xliff:trans-unit><xliff:trans-unit id="14399"><xliff:source>Kuradal</xliff:source><xliff:target state="translated">クラダル</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Kuradal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13623</xliff:note></xliff:trans-unit><xliff:trans-unit id="14400"><xliff:source>Zembo</xliff:source><xliff:target state="translated">ゼンボ</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Zembo
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13655</xliff:note></xliff:trans-unit><xliff:trans-unit id="14401"><xliff:source>Durial321</xliff:source><xliff:target state="translated">Durial321</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Durial321
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13662</xliff:note></xliff:trans-unit><xliff:trans-unit id="14402"><xliff:source>Magic Mark</xliff:source><xliff:target state="translated">Magic Mark</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Magic Mark
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13663</xliff:note></xliff:trans-unit><xliff:trans-unit id="14403"><xliff:source>Ranging Ro</xliff:source><xliff:target state="translated">Ranging Ro</xliff:target><xliff:note>category: name
+sub_category: npc
+source: Ranging Ro
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13664</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

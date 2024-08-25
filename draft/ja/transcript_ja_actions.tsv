@@ -1428,3 +1428,20 @@ Wiki <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</co
 Open <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>を開く	actions	menu	
 Wiki <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>をウィキ検索	actions	menu	
 Open <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>を開く	actions	menu	
+Assignment	討伐任務を受ける	actions	npc	Vannaka
+Attract	引き付ける	actions	npc	Light creature
+Plant-orb	オーブを置く	actions	npc	Surok Magis
+Build	組み立てる	actions	object	Funeral Pyre
+Emir's Arena	エミアのアリーナ	actions	object	Basic Jewellery Box
+Big-Search	よく探す	actions	object	Reward pool
+Solo-start	ソロで開始	actions	object	Rope ladder
+Cross-over	渡る	actions	object	Broken wall
+Follow	追う	actions	player	
+Trade with	取引	actions	player	
+Lookup	検索	actions	player	
+Equipment	装備	actions	player	
+Report	通報	actions	player	
+Adjust Music Volume	音量を調整	actions	menu	
+Adjust Area Sound Volume	環境音を調整	actions	menu	
+Adjust Sound Effect Volume	効果音を調整	actions	menu	
+Play	プレイ	actions	menu	

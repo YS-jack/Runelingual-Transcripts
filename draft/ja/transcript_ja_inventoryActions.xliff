@@ -1020,6 +1020,12 @@ source: Blessed bone statuette
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29338</xliff:note></xliff:trans-unit><xliff:trans-unit id="41258"><xliff:source>Examine</xliff:source><xliff:target state="translated">調べる</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41259"><xliff:source>Slayer Master</xliff:source><xliff:target state="translated">討伐の達人</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Karamja gloves 4
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13103</xliff:note></xliff:trans-unit><xliff:trans-unit id="41260"><xliff:source>Swap</xliff:source><xliff:target state="translated">入れ替える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Bruma torch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20720</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

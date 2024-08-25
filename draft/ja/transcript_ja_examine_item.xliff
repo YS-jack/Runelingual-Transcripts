@@ -25635,7 +25635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="22102">
         <xliff:source>Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木</xliff:target>
         <xliff:note>category: examine
 sub_category: item
 source: Tree
@@ -64929,6 +64929,180 @@ sub_category: item
 source: Colourful crown shirt
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29509</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="27014"><xliff:source>A book to translate the ancient gnome language.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Translation book
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=784</xliff:note></xliff:trans-unit><xliff:trans-unit id="27015"><xliff:source>This lens has a pinkish tinge to it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Rose-tinted lens
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6956</xliff:note></xliff:trans-unit><xliff:trans-unit id="27016"><xliff:source>Miaow!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Cat h
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12361</xliff:note></xliff:trans-unit><xliff:trans-unit id="27017"><xliff:source>Enough power for a Vengeance or or Vengeance Other, blighted so it can be used only in the Wilderness.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Blighted vengeance sack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24621</xliff:note></xliff:trans-unit><xliff:trans-unit id="27018"><xliff:source>An urgent communiqué revealing important information.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Armadyl communiqué
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29517</xliff:note></xliff:trans-unit><xliff:trans-unit id="27019"><xliff:source>It's unconscious, poor thing.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Unconscious broav
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29518</xliff:note></xliff:trans-unit><xliff:trans-unit id="27020"><xliff:source>A Mort Myre mushroom-muncher.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Broav
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29519</xliff:note></xliff:trans-unit><xliff:trans-unit id="27021"><xliff:source>A dirty shirt that apparently belongs to Movario.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dirty shirt
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29521</xliff:note></xliff:trans-unit><xliff:trans-unit id="27022"><xliff:source>A receptacle for rubbish.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Waste-paper basket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29522</xliff:note></xliff:trans-unit><xliff:trans-unit id="27023"><xliff:source>A superbly made key with a ruby inserted into it (Used in the While Guthix Sleeps quest).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Ruby key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29523</xliff:note></xliff:trans-unit><xliff:trans-unit id="27024"><xliff:source>A collection of notes regarding pressure.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Notes on pressure
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29524</xliff:note></xliff:trans-unit><xliff:trans-unit id="27025"><xliff:source>A collection of research notes, found on Movario's desk.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Movario's notes (volume 1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29525</xliff:note></xliff:trans-unit><xliff:trans-unit id="27026"><xliff:source>A collection of research notes, found in Movario's bed chest.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Movario's notes (volume 2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29526</xliff:note></xliff:trans-unit><xliff:trans-unit id="27027"><xliff:source>A 1kg weight.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Weight (1kg)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29527</xliff:note></xliff:trans-unit><xliff:trans-unit id="27028"><xliff:source>A 2kg weight.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Weight (2kg)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29528</xliff:note></xliff:trans-unit><xliff:trans-unit id="27029"><xliff:source>A 5kg weight.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Weight (5kg)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29529</xliff:note></xliff:trans-unit><xliff:trans-unit id="27030"><xliff:source>An enriched snapdragon herb.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Enriched snapdragon
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29530</xliff:note></xliff:trans-unit><xliff:trans-unit id="27031"><xliff:source>A sketch of a suspect known as the Dark Squall.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Suspect sketch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29533</xliff:note></xliff:trans-unit><xliff:trans-unit id="27032"><xliff:source>A key found in the Black Knight Catacombs (Used in the While Guthix Sleeps quest).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Cell key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29534</xliff:note></xliff:trans-unit><xliff:trans-unit id="27033"><xliff:source>An unusual teleorb.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Strange teleorb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29535</xliff:note></xliff:trans-unit><xliff:trans-unit id="27034"><xliff:source>This can be used to remotely teleport people.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Teleorb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29536</xliff:note></xliff:trans-unit><xliff:trans-unit id="27035"><xliff:source>An enriched snapdragon seed. The herb that grows from this seed will be extra potent!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Enriched snapdragon seed
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29538</xliff:note></xliff:trans-unit><xliff:trans-unit id="27036"><xliff:source>Part of a stone circle.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Agility dolmen
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29539</xliff:note></xliff:trans-unit><xliff:trans-unit id="27037"><xliff:source>An elemental block of air.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Air block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29552</xliff:note></xliff:trans-unit><xliff:trans-unit id="27038"><xliff:source>An elemental block of earth.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Earth block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29553</xliff:note></xliff:trans-unit><xliff:trans-unit id="27039"><xliff:source>An elemental block of fire.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Fire block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29554</xliff:note></xliff:trans-unit><xliff:trans-unit id="27040"><xliff:source>An elemental block of water.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Water block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29555</xliff:note></xliff:trans-unit><xliff:trans-unit id="27041"><xliff:source>A vine flower grown through magical means.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Vine flower
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29556</xliff:note></xliff:trans-unit><xliff:trans-unit id="27042"><xliff:source>A grimy note about an archive.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Grimy note
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29558</xliff:note></xliff:trans-unit><xliff:trans-unit id="27043"><xliff:source>An elite full face helmet.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Elite black full helm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29560</xliff:note></xliff:trans-unit><xliff:trans-unit id="27044"><xliff:source>Provides excellent protection for someone considered elite.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Elite black platebody
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29562</xliff:note></xliff:trans-unit><xliff:trans-unit id="27045"><xliff:source>These look pretty heavy and very elite.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Elite black platelegs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29564</xliff:note></xliff:trans-unit><xliff:trans-unit id="27046"><xliff:source>A hood worn by the Dark Squall.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dark squall hood
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29566</xliff:note></xliff:trans-unit><xliff:trans-unit id="27047"><xliff:source>A robe worn by the Dark Squall.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dark squall robe top
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29568</xliff:note></xliff:trans-unit><xliff:trans-unit id="27048"><xliff:source>The armour adds to his stealthiness.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Silif
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29572</xliff:note></xliff:trans-unit><xliff:trans-unit id="27049"><xliff:source>It's going to blow!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Lit explosive
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29573</xliff:note></xliff:trans-unit><xliff:trans-unit id="27050"><xliff:source>An intact, lightly smouldering claw.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Burning claw
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29574</xliff:note></xliff:trans-unit><xliff:trans-unit id="27051"><xliff:source>Torn from the hands of ancient demons.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Burning claws
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29577</xliff:note></xliff:trans-unit><xliff:trans-unit id="27052"><xliff:source>Glowing hot and writhing in pain.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Tormented synapse
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29580</xliff:note></xliff:trans-unit><xliff:trans-unit id="27053"><xliff:source>Brimming with dark magical power.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Smouldering heart
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29583</xliff:note></xliff:trans-unit><xliff:trans-unit id="27054"><xliff:source>Dangerous, yet enticing...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Smouldering pile of flesh
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29585</xliff:note></xliff:trans-unit><xliff:trans-unit id="27055"><xliff:source>The source of the demon's unholy protection.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Smouldering gland
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29587</xliff:note></xliff:trans-unit><xliff:trans-unit id="27056"><xliff:source>Silver, blood and crystal smelted in tormenting flames.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Emberlight
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29589</xliff:note></xliff:trans-unit><xliff:trans-unit id="27057"><xliff:source>The ashen wood is warm to the touch.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Scorching bow
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29591</xliff:note></xliff:trans-unit><xliff:trans-unit id="27058"><xliff:source>Fire and lightning sizzle in the brazier.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Purging staff
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29594</xliff:note></xliff:trans-unit><xliff:trans-unit id="27059"><xliff:source>He didn't seem like the type to write.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Duradel's notes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29596</xliff:note></xliff:trans-unit><xliff:trans-unit id="27060"><xliff:source>Deadman rug</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Deadman rug
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29598</xliff:note></xliff:trans-unit><xliff:trans-unit id="27061"><xliff:source>A fearsome yet stylish souvenir from Deadman: Armageddon.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Armageddon rug
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29619</xliff:note></xliff:trans-unit><xliff:trans-unit id="27062"><xliff:source>A scroll which unlocks the Deadman: Armageddon home teleport animation.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Armageddon teleport scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29622</xliff:note></xliff:trans-unit><xliff:trans-unit id="27063"><xliff:source>Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Armageddon weapon scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29625</xliff:note></xliff:trans-unit><xliff:trans-unit id="27064"><xliff:source>Take this to Nigel to give the imbued Saradomin, Guthix or Zamorak Cape a cosmetic theme from Deadman: Armageddon.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Armageddon cape fabric
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29628</xliff:note></xliff:trans-unit><xliff:trans-unit id="27065"><xliff:source>4 doses of blighted overload potion.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Blighted overload (4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29631</xliff:note></xliff:trans-unit><xliff:trans-unit id="27066"><xliff:source>3 doses of blighted overload potion.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Blighted overload (3)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29634</xliff:note></xliff:trans-unit><xliff:trans-unit id="27067"><xliff:source>2 doses of blighted overload potion.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Blighted overload (2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29637</xliff:note></xliff:trans-unit><xliff:trans-unit id="27068"><xliff:source>1 dose of blighted overload potion.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Blighted overload (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29640</xliff:note></xliff:trans-unit><xliff:trans-unit id="27069"><xliff:source>A fibrous substance used to create powerful potions.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Chitin
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29643</xliff:note></xliff:trans-unit><xliff:trans-unit id="27070"><xliff:source>Teleports you to the Ancient Guthixian Temple.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Guthixian temple teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29684</xliff:note></xliff:trans-unit><xliff:trans-unit id="27071"><xliff:source>Test</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dni23 torso lightbuttons
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29686</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

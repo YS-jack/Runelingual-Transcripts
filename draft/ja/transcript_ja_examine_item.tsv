@@ -3203,7 +3203,7 @@ Decorative Rock		examine	item	Decorative rock
 Pond	池	examine	item	Pond
 Imp Statue		examine	item	Imp statue
 Dungeon entrance	ダンジョンの入口	examine	item	Dungeon entrance
-Tree		examine	item	Tree
+Tree	木	examine	item	Tree
 Nice tree		examine	item	Nice tree
 Oak tree	樫	examine	item	Oak tree
 Willow tree	柳	examine	item	Willow tree
@@ -8115,3 +8115,61 @@ A colourful cape, constructed with beautiful rainbow fabrics!		examine	item	Rain
 A colourful cape, constructed with beautiful colourful fabrics!		examine	item	Colourful cape
 A humble shirt with a rainbow crown motif on the back!		examine	item	Rainbow crown shirt
 A humble shirt with a colourful crown motif on the back!		examine	item	Colourful crown shirt
+A book to translate the ancient gnome language.		examine	item	Translation book
+This lens has a pinkish tinge to it.		examine	item	Rose-tinted lens
+Miaow!		examine	item	Cat h
+Enough power for a Vengeance or or Vengeance Other, blighted so it can be used only in the Wilderness.		examine	item	Blighted vengeance sack
+An urgent communiqué revealing important information.		examine	item	Armadyl communiqué
+It's unconscious, poor thing.		examine	item	Unconscious broav
+A Mort Myre mushroom-muncher.		examine	item	Broav
+A dirty shirt that apparently belongs to Movario.		examine	item	Dirty shirt
+A receptacle for rubbish.		examine	item	Waste-paper basket
+A superbly made key with a ruby inserted into it (Used in the While Guthix Sleeps quest).		examine	item	Ruby key
+A collection of notes regarding pressure.		examine	item	Notes on pressure
+A collection of research notes, found on Movario's desk.		examine	item	Movario's notes (volume 1)
+A collection of research notes, found in Movario's bed chest.		examine	item	Movario's notes (volume 2)
+A 1kg weight.		examine	item	Weight (1kg)
+A 2kg weight.		examine	item	Weight (2kg)
+A 5kg weight.		examine	item	Weight (5kg)
+An enriched snapdragon herb.		examine	item	Enriched snapdragon
+A sketch of a suspect known as the Dark Squall.		examine	item	Suspect sketch
+A key found in the Black Knight Catacombs (Used in the While Guthix Sleeps quest).		examine	item	Cell key
+An unusual teleorb.		examine	item	Strange teleorb
+This can be used to remotely teleport people.		examine	item	Teleorb
+An enriched snapdragon seed. The herb that grows from this seed will be extra potent!		examine	item	Enriched snapdragon seed
+Part of a stone circle.		examine	item	Agility dolmen
+An elemental block of air.		examine	item	Air block
+An elemental block of earth.		examine	item	Earth block
+An elemental block of fire.		examine	item	Fire block
+An elemental block of water.		examine	item	Water block
+A vine flower grown through magical means.		examine	item	Vine flower
+A grimy note about an archive.		examine	item	Grimy note
+An elite full face helmet.		examine	item	Elite black full helm
+Provides excellent protection for someone considered elite.		examine	item	Elite black platebody
+These look pretty heavy and very elite.		examine	item	Elite black platelegs
+A hood worn by the Dark Squall.		examine	item	Dark squall hood
+A robe worn by the Dark Squall.		examine	item	Dark squall robe top
+The armour adds to his stealthiness.		examine	item	Silif
+It's going to blow!		examine	item	Lit explosive
+An intact, lightly smouldering claw.		examine	item	Burning claw
+Torn from the hands of ancient demons.		examine	item	Burning claws
+Glowing hot and writhing in pain.		examine	item	Tormented synapse
+Brimming with dark magical power.		examine	item	Smouldering heart
+Dangerous, yet enticing...		examine	item	Smouldering pile of flesh
+The source of the demon's unholy protection.		examine	item	Smouldering gland
+Silver, blood and crystal smelted in tormenting flames.		examine	item	Emberlight
+The ashen wood is warm to the touch.		examine	item	Scorching bow
+Fire and lightning sizzle in the brazier.		examine	item	Purging staff
+He didn't seem like the type to write.		examine	item	Duradel's notes
+Deadman rug		examine	item	Deadman rug
+A fearsome yet stylish souvenir from Deadman: Armageddon.		examine	item	Armageddon rug
+A scroll which unlocks the Deadman: Armageddon home teleport animation.		examine	item	Armageddon teleport scroll
+Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.		examine	item	Armageddon weapon scroll
+Take this to Nigel to give the imbued Saradomin, Guthix or Zamorak Cape a cosmetic theme from Deadman: Armageddon.		examine	item	Armageddon cape fabric
+4 doses of blighted overload potion.		examine	item	Blighted overload (4)
+3 doses of blighted overload potion.		examine	item	Blighted overload (3)
+2 doses of blighted overload potion.		examine	item	Blighted overload (2)
+1 dose of blighted overload potion.		examine	item	Blighted overload (1)
+A fibrous substance used to create powerful potions.		examine	item	Chitin
+Teleports you to the Ancient Guthixian Temple.		examine	item	Guthixian temple teleport
+Test		examine	item	Dni23 torso lightbuttons

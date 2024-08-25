@@ -75881,6 +75881,474 @@ sub_category: object
 source: Letter
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53274</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="40921"><xliff:source>Hmm... I wonder if it's loose enough to get through.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Loose Railing
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=51</xliff:note></xliff:trans-unit><xliff:trans-unit id="40922"><xliff:source>A place to cremate the dead. Needs a body.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Basic Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4094</xliff:note></xliff:trans-unit><xliff:trans-unit id="40923"><xliff:source>A place to cremate the dead. Needs a light.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Basic Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4100</xliff:note></xliff:trans-unit><xliff:trans-unit id="40924"><xliff:source>Emits light.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Lantern
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=10307</xliff:note></xliff:trans-unit><xliff:trans-unit id="40925"><xliff:source>I could use this to observe the rats from a safe distance.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rat wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=10335</xliff:note></xliff:trans-unit><xliff:trans-unit id="40926"><xliff:source>A lovely, comfy-looking big bed.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bed
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=10358</xliff:note></xliff:trans-unit><xliff:trans-unit id="40927"><xliff:source>There is a vial on it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Counter
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=10813</xliff:note></xliff:trans-unit><xliff:trans-unit id="40928"><xliff:source>A sturdy-looking, round table.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Table
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53268</xliff:note></xliff:trans-unit><xliff:trans-unit id="40929"><xliff:source>A pit trap that has been set.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Pit trap
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53274</xliff:note></xliff:trans-unit><xliff:trans-unit id="40930"><xliff:source>A pit trap that has been set and baited.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Baited pit trap
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53275</xliff:note></xliff:trans-unit><xliff:trans-unit id="40931"><xliff:source>It's on its last legs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Broken table
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53276</xliff:note></xliff:trans-unit><xliff:trans-unit id="40932"><xliff:source>It leads to an underground tunnel.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trapdoor
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53279</xliff:note></xliff:trans-unit><xliff:trans-unit id="40933"><xliff:source>A cell gate.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cell gate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53281</xliff:note></xliff:trans-unit><xliff:trans-unit id="40934"><xliff:source>A wanted poster.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wanted poster
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53283</xliff:note></xliff:trans-unit><xliff:trans-unit id="40935"><xliff:source>A wanted poster asking for information on the individual known as the Dark Squall.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wanted poster
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53284</xliff:note></xliff:trans-unit><xliff:trans-unit id="40936"><xliff:source>There is a snapdragon seed on it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Counter
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53286</xliff:note></xliff:trans-unit><xliff:trans-unit id="40937"><xliff:source>There is an enriched snapdragon seed on it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Counter
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53287</xliff:note></xliff:trans-unit><xliff:trans-unit id="40938"><xliff:source>A snow-covered ledge.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ledge
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53288</xliff:note></xliff:trans-unit><xliff:trans-unit id="40939"><xliff:source>The ledge of a roof.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ledge
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53289</xliff:note></xliff:trans-unit><xliff:trans-unit id="40940"><xliff:source>A specially prepared patch.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Herb patch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53290</xliff:note></xliff:trans-unit><xliff:trans-unit id="40941"><xliff:source>Some fully grown herbs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Herbs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53292</xliff:note></xliff:trans-unit><xliff:trans-unit id="40942"><xliff:source>A statue of an ancient hero.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Broken statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53296</xliff:note></xliff:trans-unit><xliff:trans-unit id="40943"><xliff:source>In honour of the hero, Hazelmere, who died facing the Mahjarrat known as Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue of Hazelmere
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53297</xliff:note></xliff:trans-unit><xliff:trans-unit id="40944"><xliff:source>In honour of the hero, Turael, who died facing the Mahjarrat known as Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue of Turael
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53298</xliff:note></xliff:trans-unit><xliff:trans-unit id="40945"><xliff:source>In honour of the hero, Duradel, who died facing the Mahjarrat known as Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue of Duradel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53299</xliff:note></xliff:trans-unit><xliff:trans-unit id="40946"><xliff:source>In honour of the hero, Sloane, who died facing the Mahjarrat known as Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue of Sloane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53300</xliff:note></xliff:trans-unit><xliff:trans-unit id="40947"><xliff:source>In honour of the hero, Ghommal, who died facing the Mahjarrat known as Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue of Ghommal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53301</xliff:note></xliff:trans-unit><xliff:trans-unit id="40948"><xliff:source>In honour of the hero, Cyrisus, who died facing the Mahjarrat known as Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue of Cyrisus
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53302</xliff:note></xliff:trans-unit><xliff:trans-unit id="40949"><xliff:source>There's a rope attached here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53303</xliff:note></xliff:trans-unit><xliff:trans-unit id="40950"><xliff:source>Rock on.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53304</xliff:note></xliff:trans-unit><xliff:trans-unit id="40951"><xliff:source>Some closed drawers.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Drawers
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53306</xliff:note></xliff:trans-unit><xliff:trans-unit id="40952"><xliff:source>Some open drawers.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Drawers
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53307</xliff:note></xliff:trans-unit><xliff:trans-unit id="40953"><xliff:source>The devastation of Lucien.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rubble
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53346</xliff:note></xliff:trans-unit><xliff:trans-unit id="40954"><xliff:source>A decorated tile.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Tile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53349</xliff:note></xliff:trans-unit><xliff:trans-unit id="40955"><xliff:source>A homemade desk.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Desk
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53359</xliff:note></xliff:trans-unit><xliff:trans-unit id="40956"><xliff:source>It might be worth a look inside.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wardrobe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53361</xliff:note></xliff:trans-unit><xliff:trans-unit id="40957"><xliff:source>It might be worth searching through.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wardrobe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53362</xliff:note></xliff:trans-unit><xliff:trans-unit id="40958"><xliff:source>A place to put your keys.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Key rack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53363</xliff:note></xliff:trans-unit><xliff:trans-unit id="40959"><xliff:source>It looks to be quite tough.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Solid door
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53365</xliff:note></xliff:trans-unit><xliff:trans-unit id="40960"><xliff:source>A crude table.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Table
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53367</xliff:note></xliff:trans-unit><xliff:trans-unit id="40961"><xliff:source>The metal bars look strong.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Gate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53441</xliff:note></xliff:trans-unit><xliff:trans-unit id="40962"><xliff:source>Only for pleasant purposes, I'm sure.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Chain
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53489</xliff:note></xliff:trans-unit><xliff:trans-unit id="40963"><xliff:source>An assortment of maps.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Map board
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53506</xliff:note></xliff:trans-unit><xliff:trans-unit id="40964"><xliff:source>Useful for passing over otherwise inaccessible areas.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bridge
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53511</xliff:note></xliff:trans-unit><xliff:trans-unit id="40965"><xliff:source>I could scale this wall with a bit of effort.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53513</xliff:note></xliff:trans-unit><xliff:trans-unit id="40966"><xliff:source>It looks a bit steep!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53514</xliff:note></xliff:trans-unit><xliff:trans-unit id="40967"><xliff:source>Used to impede the movement of attacking forces.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Barricade
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53525</xliff:note></xliff:trans-unit><xliff:trans-unit id="40968"><xliff:source>I might be able to climb up it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ice wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53607</xliff:note></xliff:trans-unit><xliff:trans-unit id="40969"><xliff:source>An empty recess in the wall, next to an etching of a fire symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recess
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53609</xliff:note></xliff:trans-unit><xliff:trans-unit id="40970"><xliff:source>An empty recess in the wall, next to an etching of an earth symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recess
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53610</xliff:note></xliff:trans-unit><xliff:trans-unit id="40971"><xliff:source>An empty recess in the wall, next to an etching of an air symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recess
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53611</xliff:note></xliff:trans-unit><xliff:trans-unit id="40972"><xliff:source>A square block is recessed into the wall, next to an etching of a fire symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recessed block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53615</xliff:note></xliff:trans-unit><xliff:trans-unit id="40973"><xliff:source>A square block is recessed into the wall, next to an etching of an earth symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recessed block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53616</xliff:note></xliff:trans-unit><xliff:trans-unit id="40974"><xliff:source>A square block is recessed into the wall, next to an etching of an air symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recessed block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53617</xliff:note></xliff:trans-unit><xliff:trans-unit id="40975"><xliff:source>A square block is recessed into a hole above a water symbol. There's a second empty recess above a fire symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recessed block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53618</xliff:note></xliff:trans-unit><xliff:trans-unit id="40976"><xliff:source>A square block is recessed into a hole above a fire symbol. There's a second empty recess above a water symbol.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recessed block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53619</xliff:note></xliff:trans-unit><xliff:trans-unit id="40977"><xliff:source>Two empty recesses sit above fire and water symbols.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recesses
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53620</xliff:note></xliff:trans-unit><xliff:trans-unit id="40978"><xliff:source>Two square blocks are recessed into holes above fire and water symbols.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Recessed blocks
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53621</xliff:note></xliff:trans-unit><xliff:trans-unit id="40979"><xliff:source>A sinister opening.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Opening
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53622</xliff:note></xliff:trans-unit><xliff:trans-unit id="40980"><xliff:source>An earth symbol is etched into this strange mechanism.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mechanism
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53625</xliff:note></xliff:trans-unit><xliff:trans-unit id="40981"><xliff:source>A square block has been placed into this strange mechanism.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mechanism
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53626</xliff:note></xliff:trans-unit><xliff:trans-unit id="40982"><xliff:source>A water symbol is etched into this strange mechanism.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mechanism
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53627</xliff:note></xliff:trans-unit><xliff:trans-unit id="40983"><xliff:source>An air symbol is etched into this strange mechanism.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mechanism
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53629</xliff:note></xliff:trans-unit><xliff:trans-unit id="40984"><xliff:source>There's a crawl space through this hole.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cavity
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53631</xliff:note></xliff:trans-unit><xliff:trans-unit id="40985"><xliff:source>A statue once stood here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rubble
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53639</xliff:note></xliff:trans-unit><xliff:trans-unit id="40986"><xliff:source>This statue appears to depict agility.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53640</xliff:note></xliff:trans-unit><xliff:trans-unit id="40987"><xliff:source>This statue appears to depict balance.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53642</xliff:note></xliff:trans-unit><xliff:trans-unit id="40988"><xliff:source>This statue appears to depict energy.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53644</xliff:note></xliff:trans-unit><xliff:trans-unit id="40989"><xliff:source>This statue appears to depict restoration.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53646</xliff:note></xliff:trans-unit><xliff:trans-unit id="40990"><xliff:source>This statue appears to depict attacking.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53648</xliff:note></xliff:trans-unit><xliff:trans-unit id="40991"><xliff:source>This statue appears to depict strength.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53650</xliff:note></xliff:trans-unit><xliff:trans-unit id="40992"><xliff:source>This statue appears to depict defence.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53652</xliff:note></xliff:trans-unit><xliff:trans-unit id="40993"><xliff:source>This statue appears to depict combat.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53654</xliff:note></xliff:trans-unit><xliff:trans-unit id="40994"><xliff:source>This statue appears to depict ranging.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53656</xliff:note></xliff:trans-unit><xliff:trans-unit id="40995"><xliff:source>This statue appears to depict prayer.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53658</xliff:note></xliff:trans-unit><xliff:trans-unit id="40996"><xliff:source>This statue appears to depict hunting.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53660</xliff:note></xliff:trans-unit><xliff:trans-unit id="40997"><xliff:source>This statue appears to depict fishing.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53662</xliff:note></xliff:trans-unit><xliff:trans-unit id="40998"><xliff:source>This statue appears to depict magic.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53664</xliff:note></xliff:trans-unit><xliff:trans-unit id="40999"><xliff:source>A large table made of stone.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stone table
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53666</xliff:note></xliff:trans-unit><xliff:trans-unit id="41000"><xliff:source>It's a bit steep!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53676</xliff:note></xliff:trans-unit><xliff:trans-unit id="41001"><xliff:source>There are elemental symbols engraved upon the cube's faces.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stone cube
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53677</xliff:note></xliff:trans-unit><xliff:trans-unit id="41002"><xliff:source>A very big door with a depiction of Guthix on it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Huge door
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53694</xliff:note></xliff:trans-unit><xliff:trans-unit id="41003"><xliff:source>Part of a stone circle.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Dolmen
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53698</xliff:note></xliff:trans-unit><xliff:trans-unit id="41004"><xliff:source>A dried-up vine.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Dead vine
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53723</xliff:note></xliff:trans-unit><xliff:trans-unit id="41005"><xliff:source>A flowering vine.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Vine flower
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53724</xliff:note></xliff:trans-unit><xliff:trans-unit id="41006"><xliff:source>An empty brazier.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Brazier
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53725</xliff:note></xliff:trans-unit><xliff:trans-unit id="41007"><xliff:source>Some rocks that have fallen down.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rocks
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53727</xliff:note></xliff:trans-unit><xliff:trans-unit id="41008"><xliff:source>A broken brazier.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Brazier
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53728</xliff:note></xliff:trans-unit><xliff:trans-unit id="41009"><xliff:source>Burning through ancient magic.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Brazier
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53736</xliff:note></xliff:trans-unit><xliff:trans-unit id="41010"><xliff:source>They possibly didn't understand the command, 'Stop at the edge of the chasm'.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Skeletal remains
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53809</xliff:note></xliff:trans-unit><xliff:trans-unit id="41011"><xliff:source>Looks like the corpse of a follower of Guthix.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Skeleton
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53813</xliff:note></xliff:trans-unit><xliff:trans-unit id="41012"><xliff:source>It's burning with an ethereal white light.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Brazier
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53819</xliff:note></xliff:trans-unit><xliff:trans-unit id="41013"><xliff:source>It's burning with an ethereal blue light.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Brazier
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53820</xliff:note></xliff:trans-unit><xliff:trans-unit id="41014"><xliff:source>A powerful energy surrounds it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mysterious Stone
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53821</xliff:note></xliff:trans-unit><xliff:trans-unit id="41015"><xliff:source>It's disappearing!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stone of Jas
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53825</xliff:note></xliff:trans-unit><xliff:trans-unit id="41016"><xliff:source>This plinth once held the great Stone of Jas.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Plinth
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53826</xliff:note></xliff:trans-unit><xliff:trans-unit id="41017"><xliff:source>An exit out of the crawl space.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Hole
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53830</xliff:note></xliff:trans-unit><xliff:trans-unit id="41018"><xliff:source>A section of broken wall.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Broken wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53883</xliff:note></xliff:trans-unit><xliff:trans-unit id="41019"><xliff:source>A depiction of a statuesque human bearing a weighty tome upon his shoulders.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Painting
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53885</xliff:note></xliff:trans-unit><xliff:trans-unit id="41020"><xliff:source>This staircase is carved into the rock.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stairs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53895</xliff:note></xliff:trans-unit><xliff:trans-unit id="41021"><xliff:source>It's slightly illuminated.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Floor wire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53908</xliff:note></xliff:trans-unit><xliff:trans-unit id="41022"><xliff:source>It's not illuminated.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Floor wire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53911</xliff:note></xliff:trans-unit><xliff:trans-unit id="41023"><xliff:source>A very sturdy bookcase filled with reams of indecipherable writings.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bookcase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53914</xliff:note></xliff:trans-unit><xliff:trans-unit id="41024"><xliff:source>This staircase leads up.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Spiral staircase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53924</xliff:note></xliff:trans-unit><xliff:trans-unit id="41025"><xliff:source>There's something different about the floor here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Floor
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53925</xliff:note></xliff:trans-unit><xliff:trans-unit id="41026"><xliff:source>This staircase leads down.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Spiral staircase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53927</xliff:note></xliff:trans-unit><xliff:trans-unit id="41027"><xliff:source>The statue depicts a muscular human carrying a huge tome.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53928</xliff:note></xliff:trans-unit><xliff:trans-unit id="41028"><xliff:source>A selection of weights all piled together.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Pile of weights
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53935</xliff:note></xliff:trans-unit><xliff:trans-unit id="41029"><xliff:source>A set of drawers.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Drawers
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53936</xliff:note></xliff:trans-unit><xliff:trans-unit id="41030"><xliff:source>A device for measuring vertical pressure.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Pressure gauge
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53937</xliff:note></xliff:trans-unit><xliff:trans-unit id="41031"><xliff:source>It looks like it's just full of paperwork regarding tedious, everyday details.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Waste-paper basket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53938</xliff:note></xliff:trans-unit><xliff:trans-unit id="41032"><xliff:source>It looks to be a normal bookcase, filled with the usual old, dusty tomes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bookcase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53939</xliff:note></xliff:trans-unit><xliff:trans-unit id="41033"><xliff:source>There are a few scattered papers on the desk.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Desk
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53940</xliff:note></xliff:trans-unit><xliff:trans-unit id="41034"><xliff:source>There are many papers on the desk, most of which look quite detailed.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Desk
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53941</xliff:note></xliff:trans-unit><xliff:trans-unit id="41035"><xliff:source>It's a small cave dug into the side of the wall.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Tunnel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53942</xliff:note></xliff:trans-unit><xliff:trans-unit id="41036"><xliff:source>A huge pile of treasure! It looks too good to be true!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Treasure pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53943</xliff:note></xliff:trans-unit><xliff:trans-unit id="41037"><xliff:source>It's some sort of strange contraption, but it's not clear what it's supposed to do.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Contraption
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53944</xliff:note></xliff:trans-unit><xliff:trans-unit id="41038"><xliff:source>Decorative tiling of poor craftsmanship.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Tiling
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53945</xliff:note></xliff:trans-unit><xliff:trans-unit id="41039"><xliff:source>A staircase that rose out of the floor.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stairs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53946</xliff:note></xliff:trans-unit><xliff:trans-unit id="41040"><xliff:source>This bed appears to be very tough and uncomfortable.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bed
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53949</xliff:note></xliff:trans-unit><xliff:trans-unit id="41041"><xliff:source>I thought only dragons slept on their valuables.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bed chest
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53950</xliff:note></xliff:trans-unit><xliff:trans-unit id="41042"><xliff:source>A bed that doubles as a chest is worth investigating.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bed chest
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53952</xliff:note></xliff:trans-unit><xliff:trans-unit id="41043"><xliff:source>Yep, that was worth investigating.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bed chest
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53953</xliff:note></xliff:trans-unit><xliff:trans-unit id="41044"><xliff:source>There used to be a pile of coal here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pallet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53954</xliff:note></xliff:trans-unit><xliff:trans-unit id="41045"><xliff:source>A very small pile of coal.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Coal pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53955</xliff:note></xliff:trans-unit><xliff:trans-unit id="41046"><xliff:source>A small pile of coal.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Coal pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53956</xliff:note></xliff:trans-unit><xliff:trans-unit id="41047"><xliff:source>A big pile of coal.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Coal pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53957</xliff:note></xliff:trans-unit><xliff:trans-unit id="41048"><xliff:source>A very big pile of coal.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Coal pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53958</xliff:note></xliff:trans-unit><xliff:trans-unit id="41049"><xliff:source>There used to be a pile of fire runes here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pallet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53960</xliff:note></xliff:trans-unit><xliff:trans-unit id="41050"><xliff:source>A very small pile of fire runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Fire rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53961</xliff:note></xliff:trans-unit><xliff:trans-unit id="41051"><xliff:source>A small pile of fire runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Fire rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53962</xliff:note></xliff:trans-unit><xliff:trans-unit id="41052"><xliff:source>A big pile of fire runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Fire rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53963</xliff:note></xliff:trans-unit><xliff:trans-unit id="41053"><xliff:source>A very big pile of fire runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Fire rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53964</xliff:note></xliff:trans-unit><xliff:trans-unit id="41054"><xliff:source>There used to be a pile of death runes here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pallet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53966</xliff:note></xliff:trans-unit><xliff:trans-unit id="41055"><xliff:source>A very small pile of death runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Death rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53967</xliff:note></xliff:trans-unit><xliff:trans-unit id="41056"><xliff:source>A small pile of death runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Death rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53968</xliff:note></xliff:trans-unit><xliff:trans-unit id="41057"><xliff:source>A big pile of death runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Death rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53969</xliff:note></xliff:trans-unit><xliff:trans-unit id="41058"><xliff:source>A very big pile of death runes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Death rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53970</xliff:note></xliff:trans-unit><xliff:trans-unit id="41059"><xliff:source>There used to be a pile of magic logs here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pallet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53972</xliff:note></xliff:trans-unit><xliff:trans-unit id="41060"><xliff:source>A very small pile of magic logs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Magic logs pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53973</xliff:note></xliff:trans-unit><xliff:trans-unit id="41061"><xliff:source>A small pile of magic logs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Magic logs pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53974</xliff:note></xliff:trans-unit><xliff:trans-unit id="41062"><xliff:source>A big pile of magic logs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Magic logs pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53975</xliff:note></xliff:trans-unit><xliff:trans-unit id="41063"><xliff:source>A very big pile of magic logs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Magic logs pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53976</xliff:note></xliff:trans-unit><xliff:trans-unit id="41064"><xliff:source>Some sort of dial displaying the number 3.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Display dial
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53978</xliff:note></xliff:trans-unit><xliff:trans-unit id="41065"><xliff:source>Some sort of dial displaying the number 2.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Display dial
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53979</xliff:note></xliff:trans-unit><xliff:trans-unit id="41066"><xliff:source>Some sort of dial displaying the number 1.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Display dial
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53980</xliff:note></xliff:trans-unit><xliff:trans-unit id="41067"><xliff:source>Some sort of dial displaying the number 0.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Display dial
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53981</xliff:note></xliff:trans-unit><xliff:trans-unit id="41068"><xliff:source>Crammed with books on every topic.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bookcase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54000</xliff:note></xliff:trans-unit><xliff:trans-unit id="41069"><xliff:source>A desk with papers of little interest.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Desk
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54004</xliff:note></xliff:trans-unit><xliff:trans-unit id="41070"><xliff:source>Books on every subject imaginable.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Books
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54005</xliff:note></xliff:trans-unit><xliff:trans-unit id="41071"><xliff:source>A broken furnace.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Broken furnace
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54012</xliff:note></xliff:trans-unit><xliff:trans-unit id="41072"><xliff:source>A well slept-in bed.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Bed
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54028</xliff:note></xliff:trans-unit><xliff:trans-unit id="41073"><xliff:source>A barrel full of an unknown liquid. I hope it's orange juice.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Barrel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54051</xliff:note></xliff:trans-unit><xliff:trans-unit id="41074"><xliff:source>Quite loose indeed.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Loose Railing
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54054</xliff:note></xliff:trans-unit><xliff:trans-unit id="41075"><xliff:source>A rug adorned with the icon of Deadman.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rug
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54114</xliff:note></xliff:trans-unit><xliff:trans-unit id="41076"><xliff:source>Someone's left it open.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Chest
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54117</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

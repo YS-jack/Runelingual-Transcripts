@@ -295,7 +295,7 @@ Flowerbed	花壇	name	object	Flowerbed
 Jungle flower	ジャングルの花	name	object	Jungle flower
 Orchid	ラン	name	object	Orchid
 Jungle plant	ジャングルの植物	name	object	Jungle plant
-Tree		name	object	Tree
+Tree	木	name	object	Tree
 Cage door	檻のドア	name	object	Cage door
 Dead tree	死んだ木	name	object	Dead tree
 Dramen tree	ドラメンの木	name	object	Dramen tree
@@ -4539,3 +4539,55 @@ Scuffed chest	こすり傷の付いた宝箱	name	object	Scuffed chest
 Kit's boxes	キットの箱	name	object	Kit's boxes
 Kit's books	キットの本	name	object	Kit's books
 Kit's bag	キットのカバン	name	object	Kit's bag
+Basic Pyre		name	object	Basic Pyre
+Oak Pyre		name	object	Oak Pyre
+Willow Pyre		name	object	Willow Pyre
+Maple Pyre		name	object	Maple Pyre
+Yew Pyre		name	object	Yew Pyre
+Magic Pyre		name	object	Magic Pyre
+Teak Pyre		name	object	Teak Pyre
+Mahogany Pyre		name	object	Mahogany Pyre
+Arctic Pine Pyre		name	object	Arctic Pine Pyre
+Redwood Pyre		name	object	Redwood Pyre
+Pit trap		name	object	Pit trap
+Baited pit trap		name	object	Baited pit trap
+Cell gate		name	object	Cell gate
+Wanted poster		name	object	Wanted poster
+Statue of Hazelmere		name	object	Statue of Hazelmere
+Statue of Turael		name	object	Statue of Turael
+Statue of Duradel		name	object	Statue of Duradel
+Statue of Sloane		name	object	Statue of Sloane
+Statue of Ghommal		name	object	Statue of Ghommal
+Statue of Cyrisus		name	object	Statue of Cyrisus
+Key rack		name	object	Key rack
+Solid door		name	object	Solid door
+Map board		name	object	Map board
+Ice wall		name	object	Ice wall
+Recessed block		name	object	Recessed block
+Recesses		name	object	Recesses
+Recessed blocks		name	object	Recessed blocks
+Mechanism		name	object	Mechanism
+Blocked cavity		name	object	Blocked cavity
+Stone cube		name	object	Stone cube
+Huge door		name	object	Huge door
+Vine flower		name	object	Vine flower
+Skeletal remains		name	object	Skeletal remains
+Stone of Jas		name	object	Stone of Jas
+Old battered door		name	object	Old battered door
+Floor wire		name	object	Floor wire
+Spiral staircase		name	object	Spiral staircase
+Pile of weights		name	object	Pile of weights
+Pressure gauge	圧力計	name	object	Pressure gauge
+Waste-paper basket		name	object	Waste-paper basket
+Treasure pile		name	object	Treasure pile
+Contraption		name	object	Contraption
+Tiling		name	object	Tiling
+Bed chest		name	object	Bed chest
+Empty pallet		name	object	Empty pallet
+Coal pile		name	object	Coal pile
+Fire rune pile		name	object	Fire rune pile
+Death rune pile		name	object	Death rune pile
+Magic logs pile		name	object	Magic logs pile
+Display dial		name	object	Display dial
+Debug Man	デバッグ男	name	object	Debug Man
+Debug Woman	デバッグ女	name	object	Debug Woman

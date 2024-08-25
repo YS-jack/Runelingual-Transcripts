@@ -2371,7 +2371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14654">
         <xliff:source>Tree</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">木</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Tree
@@ -36321,6 +36321,162 @@ sub_category: object
 source: Kit's bag
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53272</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="18898"><xliff:source>Basic Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Basic Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4094</xliff:note></xliff:trans-unit><xliff:trans-unit id="18899"><xliff:source>Oak Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Oak Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4095</xliff:note></xliff:trans-unit><xliff:trans-unit id="18900"><xliff:source>Willow Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Willow Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4096</xliff:note></xliff:trans-unit><xliff:trans-unit id="18901"><xliff:source>Maple Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Maple Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4097</xliff:note></xliff:trans-unit><xliff:trans-unit id="18902"><xliff:source>Yew Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Yew Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4098</xliff:note></xliff:trans-unit><xliff:trans-unit id="18903"><xliff:source>Magic Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Magic Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4099</xliff:note></xliff:trans-unit><xliff:trans-unit id="18904"><xliff:source>Teak Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Teak Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=9006</xliff:note></xliff:trans-unit><xliff:trans-unit id="18905"><xliff:source>Mahogany Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Mahogany Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=9007</xliff:note></xliff:trans-unit><xliff:trans-unit id="18906"><xliff:source>Arctic Pine Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Arctic Pine Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=21271</xliff:note></xliff:trans-unit><xliff:trans-unit id="18907"><xliff:source>Redwood Pyre</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Redwood Pyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=28865</xliff:note></xliff:trans-unit><xliff:trans-unit id="18908"><xliff:source>Pit trap</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Pit trap
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53274</xliff:note></xliff:trans-unit><xliff:trans-unit id="18909"><xliff:source>Baited pit trap</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Baited pit trap
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53275</xliff:note></xliff:trans-unit><xliff:trans-unit id="18910"><xliff:source>Cell gate</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Cell gate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53281</xliff:note></xliff:trans-unit><xliff:trans-unit id="18911"><xliff:source>Wanted poster</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Wanted poster
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53283</xliff:note></xliff:trans-unit><xliff:trans-unit id="18912"><xliff:source>Statue of Hazelmere</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Statue of Hazelmere
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53297</xliff:note></xliff:trans-unit><xliff:trans-unit id="18913"><xliff:source>Statue of Turael</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Statue of Turael
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53298</xliff:note></xliff:trans-unit><xliff:trans-unit id="18914"><xliff:source>Statue of Duradel</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Statue of Duradel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53299</xliff:note></xliff:trans-unit><xliff:trans-unit id="18915"><xliff:source>Statue of Sloane</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Statue of Sloane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53300</xliff:note></xliff:trans-unit><xliff:trans-unit id="18916"><xliff:source>Statue of Ghommal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Statue of Ghommal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53301</xliff:note></xliff:trans-unit><xliff:trans-unit id="18917"><xliff:source>Statue of Cyrisus</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Statue of Cyrisus
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53302</xliff:note></xliff:trans-unit><xliff:trans-unit id="18918"><xliff:source>Key rack</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Key rack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53363</xliff:note></xliff:trans-unit><xliff:trans-unit id="18919"><xliff:source>Solid door</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Solid door
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53365</xliff:note></xliff:trans-unit><xliff:trans-unit id="18920"><xliff:source>Map board</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Map board
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53506</xliff:note></xliff:trans-unit><xliff:trans-unit id="18921"><xliff:source>Ice wall</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Ice wall
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53607</xliff:note></xliff:trans-unit><xliff:trans-unit id="18922"><xliff:source>Recessed block</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Recessed block
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53615</xliff:note></xliff:trans-unit><xliff:trans-unit id="18923"><xliff:source>Recesses</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Recesses
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53620</xliff:note></xliff:trans-unit><xliff:trans-unit id="18924"><xliff:source>Recessed blocks</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Recessed blocks
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53621</xliff:note></xliff:trans-unit><xliff:trans-unit id="18925"><xliff:source>Mechanism</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Mechanism
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53625</xliff:note></xliff:trans-unit><xliff:trans-unit id="18926"><xliff:source>Blocked cavity</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Blocked cavity
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53638</xliff:note></xliff:trans-unit><xliff:trans-unit id="18927"><xliff:source>Stone cube</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Stone cube
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53677</xliff:note></xliff:trans-unit><xliff:trans-unit id="18928"><xliff:source>Huge door</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Huge door
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53694</xliff:note></xliff:trans-unit><xliff:trans-unit id="18929"><xliff:source>Vine flower</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Vine flower
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53724</xliff:note></xliff:trans-unit><xliff:trans-unit id="18930"><xliff:source>Skeletal remains</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Skeletal remains
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53809</xliff:note></xliff:trans-unit><xliff:trans-unit id="18931"><xliff:source>Stone of Jas</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Stone of Jas
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53823</xliff:note></xliff:trans-unit><xliff:trans-unit id="18932"><xliff:source>Old battered door</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Old battered door
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53901</xliff:note></xliff:trans-unit><xliff:trans-unit id="18933"><xliff:source>Floor wire</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Floor wire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53908</xliff:note></xliff:trans-unit><xliff:trans-unit id="18934"><xliff:source>Spiral staircase</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Spiral staircase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53924</xliff:note></xliff:trans-unit><xliff:trans-unit id="18935"><xliff:source>Pile of weights</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Pile of weights
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53935</xliff:note></xliff:trans-unit><xliff:trans-unit id="18936"><xliff:source>Pressure gauge</xliff:source><xliff:target state="translated">圧力計</xliff:target><xliff:note>category: name
+sub_category: object
+source: Pressure gauge
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53937</xliff:note></xliff:trans-unit><xliff:trans-unit id="18937"><xliff:source>Waste-paper basket</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Waste-paper basket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53938</xliff:note></xliff:trans-unit><xliff:trans-unit id="18938"><xliff:source>Treasure pile</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Treasure pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53943</xliff:note></xliff:trans-unit><xliff:trans-unit id="18939"><xliff:source>Contraption</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Contraption
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53944</xliff:note></xliff:trans-unit><xliff:trans-unit id="18940"><xliff:source>Tiling</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Tiling
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53945</xliff:note></xliff:trans-unit><xliff:trans-unit id="18941"><xliff:source>Bed chest</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Bed chest
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53950</xliff:note></xliff:trans-unit><xliff:trans-unit id="18942"><xliff:source>Empty pallet</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Empty pallet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53954</xliff:note></xliff:trans-unit><xliff:trans-unit id="18943"><xliff:source>Coal pile</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Coal pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53955</xliff:note></xliff:trans-unit><xliff:trans-unit id="18944"><xliff:source>Fire rune pile</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Fire rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53961</xliff:note></xliff:trans-unit><xliff:trans-unit id="18945"><xliff:source>Death rune pile</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Death rune pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53967</xliff:note></xliff:trans-unit><xliff:trans-unit id="18946"><xliff:source>Magic logs pile</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Magic logs pile
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53973</xliff:note></xliff:trans-unit><xliff:trans-unit id="18947"><xliff:source>Display dial</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: object
+source: Display dial
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53978</xliff:note></xliff:trans-unit><xliff:trans-unit id="18948"><xliff:source>Debug Man</xliff:source><xliff:target state="translated">デバッグ男</xliff:target><xliff:note>category: name
+sub_category: object
+source: Debug Man
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54062</xliff:note></xliff:trans-unit><xliff:trans-unit id="18949"><xliff:source>Debug Woman</xliff:source><xliff:target state="translated">デバッグ女</xliff:target><xliff:note>category: name
+sub_category: object
+source: Debug Woman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54063</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
