@@ -84,3 +84,4 @@ Hiscores	name	menu	accountManagementTab
 Old School Wiki	name	menu	accountManagementTab
 Merchandise	name	menu	accountManagementTab
 <colNum0>PvP Arena</col> options	name	menu	groupTab
+  (level-%d)	name	level	

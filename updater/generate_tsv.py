@@ -3,7 +3,8 @@ import os
 import common_func
 import update_hash
 import update_nonEn_transcripts
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.path.dirname(os.path.abspath(__file__))
+from update_english_transcript import common
 
 def xlsx_to_tsv(xlsx_file_path, target_dir, columns=None):
 	# Load the Excel file
@@ -62,9 +63,12 @@ def manyXLIFF_to_manyTSV(target_lang_code):
 		tsv_filename = os.path.splitext(xliff_file)[0] + '.tsv'
 		tsv_file_path = os.path.join(draft_lang_dir, tsv_filename)
 
-		if "examine_menu.xliff" in xliff_file: # todo: add more files to skip
+		skip = False
+		for sub_cat in common.SUB_CAT_WITH_NO_EXAMINE:
+			if "examine_" + sub_cat +".xliff" in xliff_file:
+				skip = True
+		if(skip):
 			continue
-		
 		columns = ['english', 'translation', 'category', 'sub_category', 'source']
 		xliff_to_tsv(xliff_file_path, tsv_file_path, columns=columns)
 
