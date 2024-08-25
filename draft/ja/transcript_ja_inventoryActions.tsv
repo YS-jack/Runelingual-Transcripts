@@ -339,3 +339,16 @@ Break-down	取り崩す	inventoryActions	item	Blessed bone statuette
 Examine	調べる	inventoryActions	item	
 Slayer Master	討伐の達人	inventoryActions	item	Karamja gloves 4
 Swap	入れ替える	inventoryActions	item	Bruma torch
+Remove	取り除く	inventoryActions	item	
+Add	加える	inventoryActions	item	
+Add-5	５コ加える	inventoryActions	item	
+Add-10	10コ加える	inventoryActions	item	
+Add-All	全て加える	inventoryActions	item	
+Add-X	Xコ加える	inventoryActions	item	
+Examine	調べる	inventoryActions	item	
+Remove	取り除く	inventoryActions	item	
+Add	加える	inventoryActions	item	
+Add-5	５コ加える	inventoryActions	item	
+Add-10	10コ加える	inventoryActions	item	
+Add-All	全て加える	inventoryActions	item	
+Add-X	Xコ加える	inventoryActions	item	

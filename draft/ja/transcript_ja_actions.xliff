@@ -9781,669 +9781,736 @@ source: None
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109752"><xliff:source>Light</xliff:source><xliff:target state="translated">火をつける</xliff:target><xliff:note>category: actions
 sub_category: item
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109753"><xliff:source>Add to canvas</xliff:source><xliff:target state="translated">カンバスに追加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109754"><xliff:source>Copy to clipboard</xliff:source><xliff:target state="translated">コピー</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109755"><xliff:source>Lookup</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109756"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Group (/@g)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; グループ(/@g)</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109757"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Guest Clan (/@gc)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; 見学クラン(/@gc)</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109758"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Clan (/@c)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; クラン(/@c)</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109759"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; チャンネル(/@f)</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109760"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; 公共(/@p)</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109761"><xliff:source>Clear history</xliff:source><xliff:target state="translated">履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109762"><xliff:source>Switch tab</xliff:source><xliff:target state="translated">タブ切り替え</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109763"><xliff:source>Configure filter</xliff:source><xliff:target state="translated">フィルタ設定</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109764"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109765"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; フィルタ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109766"><xliff:source>Setup your autochat</xliff:source><xliff:target state="translated">自動チャット設定</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109767"><xliff:source>Filter public chat</xliff:source><xliff:target state="translated">公共チャットをフィルタ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109768"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109769"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Hide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 隠す</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109770"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109771"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109772"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show standard</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 通常表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109773"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show autochat</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 自動チャット表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109774"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109775"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109776"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109777"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109778"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109779"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109780"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109781"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109782"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109783"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109784"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109785"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109786"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109787"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109788"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109789"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Report game bug</xliff:source><xliff:target state="translated">バグを報告</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109791"><xliff:source>Report abuse</xliff:source><xliff:target state="translated">悪質行為を報告</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>Look West</xliff:source><xliff:target state="translated">西を向く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109793"><xliff:source>Look South</xliff:source><xliff:target state="translated">南を向く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Look East</xliff:source><xliff:target state="translated">東を向く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109795"><xliff:source>Look North</xliff:source><xliff:target state="translated">北を向く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109796"><xliff:source>Toggle Run</xliff:source><xliff:target state="translated">走りの切り替え</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109797"><xliff:source>Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109798"><xliff:source>Open Store</xliff:source><xliff:target state="translated">ストアを開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109799"><xliff:source>Clear</xliff:source><xliff:target state="translated">クリア</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109800"><xliff:source>Import</xliff:source><xliff:target state="translated">インポート</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109801"><xliff:source>Export</xliff:source><xliff:target state="translated">エクスポート</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109802"><xliff:source>Show</xliff:source><xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109803"><xliff:source>Fullscreen &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界地図&lt;/col&gt; を全画面表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109804"><xliff:source>Floating &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界地図&lt;/col&gt; を表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109805"><xliff:source>Combat Options</xliff:source><xliff:target state="translated">戦闘オプション</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109806"><xliff:source>Skills</xliff:source><xliff:target state="translated">スキル</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109807"><xliff:source>Achievement Diaries</xliff:source><xliff:target state="translated">達成記録</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109808"><xliff:source>Inventory</xliff:source><xliff:target state="translated">カバン</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109809"><xliff:source>Worn Equipment</xliff:source><xliff:target state="translated">装備品</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109810"><xliff:source>Enable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置有効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109811"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109812"><xliff:source>Prayer</xliff:source><xliff:target state="translated">祈り</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109813"><xliff:source>Enable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置有効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109814"><xliff:source>Disable spell filtering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109815"><xliff:source>Magic</xliff:source><xliff:target state="translated">魔法</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109816"><xliff:source>Grouping</xliff:source><xliff:target state="translated">グループ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109817"><xliff:source>Friends List</xliff:source><xliff:target state="translated">フレンド一覧</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109818"><xliff:source>Account Management</xliff:source><xliff:target state="translated">アカウント設定</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109819"><xliff:source>Logout</xliff:source><xliff:target state="translated">ログアウト</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109820"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109821"><xliff:source>Emotes</xliff:source><xliff:target state="translated">エモート</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109822"><xliff:source>Music Player</xliff:source><xliff:target state="translated">音楽再生</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109823"><xliff:source>Spike</xliff:source><xliff:target state="translated">突く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109824"><xliff:source>Impale</xliff:source><xliff:target state="translated">刺し貫く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Smash</xliff:source><xliff:target state="translated">砕く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Block</xliff:source><xliff:target state="translated">ブロック</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109827"><xliff:source>Auto retaliate</xliff:source><xliff:target state="translated">自動反撃</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109828"><xliff:source>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;奥義&lt;/col&gt; を発動</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109829"><xliff:source>Wiki</xliff:source><xliff:target state="translated">ウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109830"><xliff:source>View &lt;colNum0&gt;Attack&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;攻撃力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109831"><xliff:source>View &lt;colNum0&gt;Hitpoints&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;体力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109832"><xliff:source>View &lt;colNum0&gt;Mining&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;採掘&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109833"><xliff:source>View &lt;colNum0&gt;Strength&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;腕力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109834"><xliff:source>View &lt;colNum0&gt;Agility&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;運動神経&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109835"><xliff:source>View &lt;colNum0&gt;Smithing&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;鍛冶&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109836"><xliff:source>View &lt;colNum0&gt;Defence&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;守備力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109837"><xliff:source>View &lt;colNum0&gt;Herblore&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;調合&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109838"><xliff:source>View &lt;colNum0&gt;Fishing&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;釣り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109839"><xliff:source>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;弓&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109840"><xliff:source>View &lt;colNum0&gt;Thieving&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;盗み&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109841"><xliff:source>View &lt;colNum0&gt;Cooking&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;料理&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109842"><xliff:source>View &lt;colNum0&gt;Prayer&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;祈り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109843"><xliff:source>View &lt;colNum0&gt;Crafting&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;工作&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109844"><xliff:source>View &lt;colNum0&gt;Firemaking&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;火起こし&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109845"><xliff:source>View &lt;colNum0&gt;Magic&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;魔法&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109846"><xliff:source>View &lt;colNum0&gt;Fletching&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;木材加工&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109847"><xliff:source>View &lt;colNum0&gt;Woodcutting&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;木こり&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109848"><xliff:source>View &lt;colNum0&gt;Runecraft&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ルーン作り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109849"><xliff:source>View &lt;colNum0&gt;Slayer&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;討伐&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109850"><xliff:source>View &lt;colNum0&gt;Farming&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;農業&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109851"><xliff:source>View &lt;colNum0&gt;Construction&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;建築&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109852"><xliff:source>View &lt;colNum0&gt;Hunter&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;狩人&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109853"><xliff:source>Character Summary</xliff:source><xliff:target state="translated">キャラ概要</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109854"><xliff:source>Quest List</xliff:source><xliff:target state="translated">クエスト一覧</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109855"><xliff:source>Rewards</xliff:source><xliff:target state="translated">報酬</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109856"><xliff:source>Tasks</xliff:source><xliff:target state="translated">タスク</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109857"><xliff:source>Bosses</xliff:source><xliff:target state="translated">ボス</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109858"><xliff:source>Overview</xliff:source><xliff:target state="translated">概要</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109859"><xliff:source>Collection Log</xliff:source><xliff:target state="translated">取得アイテム一覧</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109860"><xliff:source>Hide</xliff:source><xliff:target state="translated">非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109861"><xliff:source>Reveal</xliff:source><xliff:target state="translated">公開</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109862"><xliff:source>View equipment stats</xliff:source><xliff:target state="translated">装備品のステータスを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109863"><xliff:source>View guide prices</xliff:source><xliff:target state="translated">参考価格を表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109864"><xliff:source>View items kept on death</xliff:source><xliff:target state="translated">死亡時に保持するアイテムを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109865"><xliff:source>Call follower</xliff:source><xliff:target state="translated">従者を呼ぶ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109866"><xliff:source>Disable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置無効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109867"><xliff:source>Disable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109868"><xliff:source>Disable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109869"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルタ有効</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109870"><xliff:source>Ironman Group</xliff:source><xliff:target state="translated">鉄人グループ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109871"><xliff:source>Chat-channel</xliff:source><xliff:target state="translated">会話チャンネル</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109872"><xliff:source>Your Clan</xliff:source><xliff:target state="translated">所属クラン</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109873"><xliff:source>View another clan</xliff:source><xliff:target state="translated">別のクラン</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109874"><xliff:source>Refresh</xliff:source><xliff:target state="translated">更新</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109875"><xliff:source>Join</xliff:source><xliff:target state="translated">参加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109876"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109877"><xliff:source>Find</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109878"><xliff:source>Teleport</xliff:source><xliff:target state="translated">ワープ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109879"><xliff:source>Show notifications</xliff:source><xliff:target state="translated">通知を表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109880"><xliff:source>Add Note</xliff:source><xliff:target state="translated">メモに追加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109881"><xliff:source>Hide notifications</xliff:source><xliff:target state="translated">通知を非表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109882"><xliff:source>View Ignore List</xliff:source><xliff:target state="translated">無視リストを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109883"><xliff:source>Add Friend</xliff:source><xliff:target state="translated">フレンド追加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109884"><xliff:source>Delete Friend</xliff:source><xliff:target state="translated">フレンド削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109885"><xliff:source>View Friends List</xliff:source><xliff:target state="translated">フレンド一覧を表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109886"><xliff:source>Add Name</xliff:source><xliff:target state="translated">名前を追加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109887"><xliff:source>Delete Name</xliff:source><xliff:target state="translated">名前を削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109888"><xliff:source>Account</xliff:source><xliff:target state="translated">アカウント</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109889"><xliff:source>Community</xliff:source><xliff:target state="translated">コミュニティ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109890"><xliff:source>Useful Links</xliff:source><xliff:target state="translated">便利なリンク</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109891"><xliff:source>View Inbox</xliff:source><xliff:target state="translated">受信箱を確認</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109892"><xliff:source>Name Changer</xliff:source><xliff:target state="translated">名前変更</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109893"><xliff:source>View History</xliff:source><xliff:target state="translated">履歴を表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109894"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュースを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109895"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109896"><xliff:source>Switch</xliff:source><xliff:target state="translated">切り替える</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109897"><xliff:source>Close</xliff:source><xliff:target state="translated">閉じる</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109898"><xliff:source>Restore Default Zoom</xliff:source><xliff:target state="translated">既定値に戻す</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109899"><xliff:source>Disable</xliff:source><xliff:target state="translated">無効にする</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109900"><xliff:source>Adjust Brightness</xliff:source><xliff:target state="translated">明るさを調整</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109901"><xliff:source>Audio</xliff:source><xliff:target state="translated">音声</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109902"><xliff:source>Controls</xliff:source><xliff:target state="translated">操作</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109903"><xliff:source>Display</xliff:source><xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109904"><xliff:source>Toggle skull prevention</xliff:source><xliff:target state="translated">ドクロ防止の切り替え</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109905"><xliff:source>Toggle Accept Aid</xliff:source><xliff:target state="translated">手助けの許容の切り替え</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109906"><xliff:source>View House Options</xliff:source><xliff:target state="translated">家のオプションを表示</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109907"><xliff:source>Open Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れを開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109908"><xliff:source>All Settings</xliff:source><xliff:target state="translated">全設定</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109909"><xliff:source>Toggle unlock message</xliff:source><xliff:target state="translated">開放通知の切り替え</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109910"><xliff:source>Enable</xliff:source><xliff:target state="translated">有効にする</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109911"><xliff:source>Area</xliff:source><xliff:target state="translated">地域</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109912"><xliff:source>Manual</xliff:source><xliff:target state="translated">手動</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109913"><xliff:source>Random</xliff:source><xliff:target state="translated">ランダム</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109914"><xliff:source>Activate</xliff:source><xliff:target state="translated">発動</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109915"><xliff:source>Use</xliff:source><xliff:target state="translated">使う</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109916"><xliff:source>DPS</xliff:source><xliff:target state="translated">DPS</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109917"><xliff:source>Search</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109918"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109919"><xliff:source>Toggle</xliff:source><xliff:target state="translated">切り替える</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109920"><xliff:source>Unmute</xliff:source><xliff:target state="translated">消音解除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109921"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">サーバー変更</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109922"><xliff:source>Favourite</xliff:source><xliff:target state="translated">お気に入り</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109923"><xliff:source>Delete</xliff:source><xliff:target state="translated">削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109924"><xliff:source>Message</xliff:source><xliff:target state="translated">メッセージ</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109925"><xliff:source>Remove friend</xliff:source><xliff:target state="translated">フレンド削除</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109926"><xliff:source>Add ignore</xliff:source><xliff:target state="translated">無視リスト追加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109927"><xliff:source>Add friend</xliff:source><xliff:target state="translated">フレンド追加</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109928"><xliff:source>Open wiki quick guide:</xliff:source><xliff:target state="translated">ウィキの最速攻略を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109929"><xliff:source>Open wiki guide:</xliff:source><xliff:target state="translated">ウィキガイドを開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109930"><xliff:source>Show on map:</xliff:source><xliff:target state="translated">地図上で示す</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109931"><xliff:source>Read journal:</xliff:source><xliff:target state="translated">記録を読む</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Start Helper</xliff:source><xliff:target state="translated">ヘルパーを開始</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Wiki &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;アルドインの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Open &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;アルドインの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Wiki &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;砂漠の日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Open &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;砂漠の日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109937"><xliff:source>Wiki &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ファラドーの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109938"><xliff:source>Open &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ファラドーの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Wiki &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109940"><xliff:source>Open &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109941"><xliff:source>Wiki &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カンダリンの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109942"><xliff:source>Open &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カンダリンの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109943"><xliff:source>Wiki &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カラムジャの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109944"><xliff:source>Open &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カラムジャの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>Wiki &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109946"><xliff:source>Open &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109947"><xliff:source>Wiki &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ランブリッジとドレイナーの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109948"><xliff:source>Open &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ランブリッジとドレイナーの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109949"><xliff:source>Wiki &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109950"><xliff:source>Open &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109951"><xliff:source>Wiki &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ヴァロックの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109952"><xliff:source>Open &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ヴァロックの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109953"><xliff:source>Wiki &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;西部地方の日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109954"><xliff:source>Open &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;西部地方の日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>Wiki &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
-sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109957"><xliff:source>Assignment</xliff:source><xliff:target state="translated">討伐任務を受ける</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit>
+    <xliff:trans-unit id="109753"><xliff:source>Assignment</xliff:source><xliff:target state="translated">討伐任務を受ける</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Vannaka
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=403</xliff:note></xliff:trans-unit><xliff:trans-unit id="109958"><xliff:source>Attract</xliff:source><xliff:target state="translated">引き付ける</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=403</xliff:note></xliff:trans-unit><xliff:trans-unit id="109754"><xliff:source>Attract</xliff:source><xliff:target state="translated">引き付ける</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Light creature
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=5435</xliff:note></xliff:trans-unit><xliff:trans-unit id="109959"><xliff:source>Plant-orb</xliff:source><xliff:target state="translated">オーブを置く</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=5435</xliff:note></xliff:trans-unit><xliff:trans-unit id="109755"><xliff:source>Plant-orb</xliff:source><xliff:target state="translated">オーブを置く</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Surok Magis
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13551</xliff:note></xliff:trans-unit><xliff:trans-unit id="109960"><xliff:source>Build</xliff:source><xliff:target state="translated">組み立てる</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13551</xliff:note></xliff:trans-unit><xliff:trans-unit id="109756"><xliff:source>Build</xliff:source><xliff:target state="translated">組み立てる</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Funeral Pyre
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4093</xliff:note></xliff:trans-unit><xliff:trans-unit id="109961"><xliff:source>Emir's Arena</xliff:source><xliff:target state="translated">エミアのアリーナ</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4093</xliff:note></xliff:trans-unit><xliff:trans-unit id="109757"><xliff:source>Emir's Arena</xliff:source><xliff:target state="translated">エミアのアリーナ</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Basic Jewellery Box
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37493</xliff:note></xliff:trans-unit><xliff:trans-unit id="109962"><xliff:source>Big-Search</xliff:source><xliff:target state="translated">よく探す</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37493</xliff:note></xliff:trans-unit><xliff:trans-unit id="109758"><xliff:source>Big-Search</xliff:source><xliff:target state="translated">よく探す</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Reward pool
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="109963"><xliff:source>Solo-start</xliff:source><xliff:target state="translated">ソロで開始</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="109759"><xliff:source>Solo-start</xliff:source><xliff:target state="translated">ソロで開始</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Rope ladder
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41305</xliff:note></xliff:trans-unit><xliff:trans-unit id="109964"><xliff:source>Cross-over</xliff:source><xliff:target state="translated">渡る</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41305</xliff:note></xliff:trans-unit><xliff:trans-unit id="109760"><xliff:source>Cross-over</xliff:source><xliff:target state="translated">渡る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Broken wall
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53884</xliff:note></xliff:trans-unit><xliff:trans-unit id="109965"><xliff:source>Follow</xliff:source><xliff:target state="translated">追う</xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=53884</xliff:note></xliff:trans-unit><xliff:trans-unit id="109761"><xliff:source>Follow</xliff:source><xliff:target state="translated">追う</xliff:target><xliff:note>category: actions
 sub_category: player
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109966"><xliff:source>Trade with</xliff:source><xliff:target state="translated">取引</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109762"><xliff:source>Trade with</xliff:source><xliff:target state="translated">取引</xliff:target><xliff:note>category: actions
 sub_category: player
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109967"><xliff:source>Lookup</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109763"><xliff:source>Lookup</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
 sub_category: player
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109968"><xliff:source>Equipment</xliff:source><xliff:target state="translated">装備</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109764"><xliff:source>Equipment</xliff:source><xliff:target state="translated">装備</xliff:target><xliff:note>category: actions
 sub_category: player
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109969"><xliff:source>Report</xliff:source><xliff:target state="translated">通報</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109765"><xliff:source>Report</xliff:source><xliff:target state="translated">通報</xliff:target><xliff:note>category: actions
 sub_category: player
 source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109970"><xliff:source>Adjust Music Volume</xliff:source><xliff:target state="translated">音量を調整</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109766"><xliff:source>Walk here</xliff:source><xliff:target state="translated">ここへ歩く</xliff:target><xliff:note>category: actions
+sub_category: manual
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109767"><xliff:source>Examine</xliff:source><xliff:target state="translated">調べる</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109768"><xliff:source>Examine</xliff:source><xliff:target state="translated">調べる</xliff:target><xliff:note>category: actions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109769"><xliff:source>Take</xliff:source><xliff:target state="translated">取る</xliff:target><xliff:note>category: actions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109770"><xliff:source>Light</xliff:source><xliff:target state="translated">火をつける</xliff:target><xliff:note>category: actions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109771"><xliff:source>Cancel</xliff:source><xliff:target state="translated">キャンセル</xliff:target><xliff:note>category: actions
+sub_category: manual
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109772"><xliff:source>Follow</xliff:source><xliff:target state="translated">追う</xliff:target><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109773"><xliff:source>Trade with</xliff:source><xliff:target state="translated">取引</xliff:target><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109774"><xliff:source>Lookup</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109775"><xliff:source>Equipment</xliff:source><xliff:target state="translated">装備</xliff:target><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109776"><xliff:source>Report</xliff:source><xliff:target state="translated">通報</xliff:target><xliff:note>category: actions
+sub_category: player
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109777"><xliff:source>Adjust Music Volume</xliff:source><xliff:target state="translated">音量を調整</xliff:target><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109971"><xliff:source>Adjust Area Sound Volume</xliff:source><xliff:target state="translated">環境音を調整</xliff:target><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109778"><xliff:source>Adjust Area Sound Volume</xliff:source><xliff:target state="translated">環境音を調整</xliff:target><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109972"><xliff:source>Adjust Sound Effect Volume</xliff:source><xliff:target state="translated">効果音を調整</xliff:target><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109779"><xliff:source>Adjust Sound Effect Volume</xliff:source><xliff:target state="translated">効果音を調整</xliff:target><xliff:note>category: actions
 sub_category: menu
-source: None
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109973"><xliff:source>Play</xliff:source><xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109780"><xliff:source>Toggle unlock message</xliff:source><xliff:target state="translated">開放通知の切り替え</xliff:target><xliff:note>category: actions
 sub_category: menu
-source: None
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109781"><xliff:source>Play</xliff:source><xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109782"><xliff:source>Open Activity Adviser</xliff:source><xliff:target state="translated">推奨コンテンツを確認</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109783"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Group (/@g)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; グループ(/@g)</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109784"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Guest Clan (/@gc)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; 見学クラン(/@gc)</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109785"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Clan (/@c)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; クラン(/@c)</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109786"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Channel (/@f)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; チャンネル(/@f)</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109787"><xliff:source>&lt;colNum0&gt;Set chat mode:&lt;/col&gt; Public (/@p)</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット切り替え:&lt;/col&gt; 公共(/@p)</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109788"><xliff:source>Clear history</xliff:source><xliff:target state="translated">履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109789"><xliff:source>Switch tab</xliff:source><xliff:target state="translated">タブ切り替え</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Configure filter</xliff:source><xliff:target state="translated">フィルタ設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109791"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; フィルタ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109793"><xliff:source>Setup your autochat</xliff:source><xliff:target state="translated">自動チャット設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Filter public chat</xliff:source><xliff:target state="translated">公共チャットをフィルタ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109795"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109796"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Hide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 隠す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109797"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109798"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109799"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show standard</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 通常表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109800"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Show autochat</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 自動チャット表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109801"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109802"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109803"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109804"><xliff:source>&lt;colNum0&gt;Private:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;個別:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109805"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109806"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109807"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109808"><xliff:source>&lt;colNum0&gt;Channel:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109809"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109810"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109811"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109812"><xliff:source>&lt;colNum0&gt;Clan:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109813"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109814"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show none</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109815"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show friends</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 友達表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109816"><xliff:source>&lt;colNum0&gt;Group:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;グループ:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109817"><xliff:source>Report game bug</xliff:source><xliff:target state="translated">バグを報告</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109818"><xliff:source>Report abuse</xliff:source><xliff:target state="translated">悪質行為を報告</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109819"><xliff:source>Combat Options</xliff:source><xliff:target state="translated">戦闘オプション</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109820"><xliff:source>Skills</xliff:source><xliff:target state="translated">スキル</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109821"><xliff:source>Achievement Diaries</xliff:source><xliff:target state="translated">達成記録</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109822"><xliff:source>Inventory</xliff:source><xliff:target state="translated">カバン</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109823"><xliff:source>Worn Equipment</xliff:source><xliff:target state="translated">装備品</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109824"><xliff:source>Enable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置有効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Disable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Prayer</xliff:source><xliff:target state="translated">祈り</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109827"><xliff:source>Enable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置有効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109828"><xliff:source>Disable spell filtering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109829"><xliff:source>Magic</xliff:source><xliff:target state="translated">魔法</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109830"><xliff:source>Friends List</xliff:source><xliff:target state="translated">フレンド一覧</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109831"><xliff:source>Account Management</xliff:source><xliff:target state="translated">アカウント設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109832"><xliff:source>Ironman Group</xliff:source><xliff:target state="translated">鉄人グループ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109833"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109834"><xliff:source>Emotes</xliff:source><xliff:target state="translated">エモート</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109835"><xliff:source>Music Player</xliff:source><xliff:target state="translated">音楽再生</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109836"><xliff:source>Logout</xliff:source><xliff:target state="translated">ログアウト</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109837"><xliff:source>Look West</xliff:source><xliff:target state="translated">西を向く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109838"><xliff:source>Look South</xliff:source><xliff:target state="translated">南を向く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109839"><xliff:source>Look East</xliff:source><xliff:target state="translated">東を向く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109840"><xliff:source>Look North</xliff:source><xliff:target state="translated">北を向く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109841"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109842"><xliff:source>Hide</xliff:source><xliff:target state="translated">隠す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109843"><xliff:source>Show</xliff:source><xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109844"><xliff:source>Activate</xliff:source><xliff:target state="translated">発動</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109845"><xliff:source>Toggle Run</xliff:source><xliff:target state="translated">走りの切り替え</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109846"><xliff:source>Use</xliff:source><xliff:target state="translated">使う</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109847"><xliff:source>Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109848"><xliff:source>Open Store</xliff:source><xliff:target state="translated">ストアを開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109849"><xliff:source>Clear</xliff:source><xliff:target state="translated">キレイにする</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109850"><xliff:source>Import</xliff:source><xliff:target state="translated">インポート</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109851"><xliff:source>Export</xliff:source><xliff:target state="translated">エクスポート</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109852"><xliff:source>Fullscreen &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界地図&lt;/col&gt; を全画面表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109853"><xliff:source>Floating &lt;colNum0&gt;World Map&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界地図&lt;/col&gt; を表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109854"><xliff:source>DPS</xliff:source><xliff:target state="translated">DPS</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109855"><xliff:source>Search</xliff:source><xliff:target state="translated">探す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109856"><xliff:source>Lookup</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109857"><xliff:source>Auto retaliate</xliff:source><xliff:target state="translated">自動反撃</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109858"><xliff:source>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;奥義&lt;/col&gt; を発動</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109859"><xliff:source>Wiki</xliff:source><xliff:target state="translated">ウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109860"><xliff:source>Add to canvas</xliff:source><xliff:target state="translated">カンバスに追加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109861"><xliff:source>View &lt;colNum0&gt;Attack&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;攻撃力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109862"><xliff:source>View &lt;colNum0&gt;Hitpoints&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;体力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109863"><xliff:source>View &lt;colNum0&gt;Mining&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;採掘&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109864"><xliff:source>View &lt;colNum0&gt;Strength&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;腕力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109865"><xliff:source>View &lt;colNum0&gt;Agility&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;運動神経&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109866"><xliff:source>View &lt;colNum0&gt;Smithing&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;鍛冶&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109867"><xliff:source>View &lt;colNum0&gt;Defence&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;守備力&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109868"><xliff:source>View &lt;colNum0&gt;Herblore&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;調合&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109869"><xliff:source>View &lt;colNum0&gt;Fishing&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;釣り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109870"><xliff:source>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;弓&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109871"><xliff:source>View &lt;colNum0&gt;Thieving&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;盗み&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109872"><xliff:source>View &lt;colNum0&gt;Cooking&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;料理&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109873"><xliff:source>View &lt;colNum0&gt;Prayer&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;祈り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109874"><xliff:source>View &lt;colNum0&gt;Crafting&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;工作&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109875"><xliff:source>View &lt;colNum0&gt;Firemaking&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;火起こし&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109876"><xliff:source>View &lt;colNum0&gt;Magic&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;魔法&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109877"><xliff:source>View &lt;colNum0&gt;Fletching&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;木材加工&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109878"><xliff:source>View &lt;colNum0&gt;Woodcutting&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;木こり&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109879"><xliff:source>View &lt;colNum0&gt;Runecraft&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ルーン作り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109880"><xliff:source>View &lt;colNum0&gt;Slayer&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;討伐&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109881"><xliff:source>View &lt;colNum0&gt;Farming&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;農業&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109882"><xliff:source>View &lt;colNum0&gt;Construction&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;建築&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109883"><xliff:source>View &lt;colNum0&gt;Hunter&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;狩人&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109884"><xliff:source>Character Summary</xliff:source><xliff:target state="translated">キャラ概要</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109885"><xliff:source>Achievement Diaries</xliff:source><xliff:target state="translated">達成記録</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109886"><xliff:source>Quest List</xliff:source><xliff:target state="translated">クエスト一覧</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109887"><xliff:source>Character Summary</xliff:source><xliff:target state="translated">キャラ概要</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109888"><xliff:source>Quest List</xliff:source><xliff:target state="translated">クエスト一覧</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109889"><xliff:source>Rewards</xliff:source><xliff:target state="translated">報酬</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109890"><xliff:source>Tasks</xliff:source><xliff:target state="translated">タスク</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109891"><xliff:source>Bosses</xliff:source><xliff:target state="translated">ボス</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109892"><xliff:source>Overview</xliff:source><xliff:target state="translated">概要</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109893"><xliff:source>Collection Log</xliff:source><xliff:target state="translated">取得アイテム一覧</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109894"><xliff:source>Reveal</xliff:source><xliff:target state="translated">公開</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109895"><xliff:source>Hide</xliff:source><xliff:target state="translated">隠す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109896"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109897"><xliff:source>Close</xliff:source><xliff:target state="translated">閉じる</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109898"><xliff:source>Start Quest Helper</xliff:source><xliff:target state="translated">クエストヘルパーを開始</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109899"><xliff:source>Open wiki quick guide:</xliff:source><xliff:target state="translated">ウィキの最速攻略を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109900"><xliff:source>Open wiki guide:</xliff:source><xliff:target state="translated">ウィキガイドを開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109901"><xliff:source>Show on map:</xliff:source><xliff:target state="translated">地図上で示す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109902"><xliff:source>Read journal:</xliff:source><xliff:target state="translated">記録を読む</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109903"><xliff:source>Start Helper</xliff:source><xliff:target state="translated">ヘルパーを開始</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109904"><xliff:source>Wiki &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;アルドインの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109905"><xliff:source>Open &lt;colNum0&gt;Ardougne Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;アルドインの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109906"><xliff:source>Wiki &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;砂漠の日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109907"><xliff:source>Open &lt;colNum0&gt;Desert Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;砂漠の日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109908"><xliff:source>Wiki &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ファラドーの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109909"><xliff:source>Open &lt;colNum0&gt;Falador Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ファラドーの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109910"><xliff:source>Wiki &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109911"><xliff:source>Open &lt;colNum0&gt;Fremennik Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;フレメニックの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109912"><xliff:source>Wiki &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カンダリンの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109913"><xliff:source>Open &lt;colNum0&gt;Kandarin Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カンダリンの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109914"><xliff:source>Wiki &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カラムジャの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109915"><xliff:source>Open &lt;colNum0&gt;Karamja Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;カラムジャの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109916"><xliff:source>Wiki &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109917"><xliff:source>Open &lt;colNum0&gt;Kourend &amp; Kebos Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クーレンドとケボスの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109918"><xliff:source>Wiki &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ランブリッジとドレイナーの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109919"><xliff:source>Open &lt;colNum0&gt;Lumbridge &amp; Draynor Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ランブリッジとドレイナーの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109920"><xliff:source>Wiki &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109921"><xliff:source>Open &lt;colNum0&gt;Morytania Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;モリタニアの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109922"><xliff:source>Wiki &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ヴァロックの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109923"><xliff:source>Open &lt;colNum0&gt;Varrock Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ヴァロックの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109924"><xliff:source>Wiki &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;西部地方の日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109925"><xliff:source>Open &lt;colNum0&gt;Western Provinces Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;西部地方の日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109926"><xliff:source>Wiki &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;をウィキ検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109927"><xliff:source>Open &lt;colNum0&gt;Wilderness Journal&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ウィルダネスの日誌&lt;/col&gt;を開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109928"><xliff:source>View equipment stats</xliff:source><xliff:target state="translated">装備品のステータスを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109929"><xliff:source>View guide prices</xliff:source><xliff:target state="translated">参考価格を表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109930"><xliff:source>View items kept on death</xliff:source><xliff:target state="translated">死亡時に保持するアイテムを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109931"><xliff:source>Call follower</xliff:source><xliff:target state="translated">従者を呼ぶ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: wornEquipmentTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Disable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置無効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Disable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルタ有効</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Show notifications</xliff:source><xliff:target state="translated">通知を表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109937"><xliff:source>Add Note</xliff:source><xliff:target state="translated">メモに追加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109938"><xliff:source>Delete</xliff:source><xliff:target state="translated">削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Message</xliff:source><xliff:target state="translated">手紙</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109940"><xliff:source>View Ignore List</xliff:source><xliff:target state="translated">無視リストを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109941"><xliff:source>Add Friend</xliff:source><xliff:target state="translated">フレンド追加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109942"><xliff:source>Delete Friend</xliff:source><xliff:target state="translated">フレンド削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109943"><xliff:source>View Friends List</xliff:source><xliff:target state="translated">フレンド一覧を表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109944"><xliff:source>Delete</xliff:source><xliff:target state="translated">削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>Add Name</xliff:source><xliff:target state="translated">名前を追加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109946"><xliff:source>Delete Name</xliff:source><xliff:target state="translated">名前を削除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109947"><xliff:source>Account</xliff:source><xliff:target state="translated">アカウント</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109948"><xliff:source>Community</xliff:source><xliff:target state="translated">コミュニティ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109949"><xliff:source>Useful Links</xliff:source><xliff:target state="translated">便利なリンク</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109950"><xliff:source>Open Store</xliff:source><xliff:target state="translated">ストアを開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109951"><xliff:source>Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109952"><xliff:source>View Inbox</xliff:source><xliff:target state="translated">受信箱を確認</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109953"><xliff:source>Name Changer</xliff:source><xliff:target state="translated">名前変更</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109954"><xliff:source>View History</xliff:source><xliff:target state="translated">履歴を表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュースを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109957"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109958"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109959"><xliff:source>Refresh</xliff:source><xliff:target state="translated">更新</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109960"><xliff:source>Join</xliff:source><xliff:target state="translated">参加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109961"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109962"><xliff:source>Find</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109963"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109964"><xliff:source>Teleport</xliff:source><xliff:target state="translated">ワープ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109965"><xliff:source>Select</xliff:source><xliff:target state="translated">選ぶ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109966"><xliff:source>Toggle skull prevention</xliff:source><xliff:target state="translated">ドクロ防止の切り替え</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109967"><xliff:source>Toggle Accept Aid</xliff:source><xliff:target state="translated">手助けの許容の切り替え</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109968"><xliff:source>Toggle Run</xliff:source><xliff:target state="translated">走りの切り替え</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109969"><xliff:source>View House Options</xliff:source><xliff:target state="translated">家のオプションを表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109970"><xliff:source>Open Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れを開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109971"><xliff:source>All Settings</xliff:source><xliff:target state="translated">全設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109972"><xliff:source>Controls</xliff:source><xliff:target state="translated">操作</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109973"><xliff:source>Display</xliff:source><xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109974"><xliff:source>Audio</xliff:source><xliff:target state="translated">音声</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109975"><xliff:source>Unmute</xliff:source><xliff:target state="translated">消音解除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109976"><xliff:source>Adjust Brightness</xliff:source><xliff:target state="translated">明るさを調整</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109977"><xliff:source>Restore Default Zoom</xliff:source><xliff:target state="translated">既定値に戻す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109978"><xliff:source>Disable</xliff:source><xliff:target state="translated">無力化</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109979"><xliff:source>Select</xliff:source><xliff:target state="translated">選ぶ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109980"><xliff:source>Perform</xliff:source><xliff:target state="translated">演技する</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: emotesTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109981"><xliff:source>Area</xliff:source><xliff:target state="translated">地域</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109982"><xliff:source>Manual</xliff:source><xliff:target state="translated">手動</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109983"><xliff:source>Random</xliff:source><xliff:target state="translated">ランダム</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109984"><xliff:source>Unlock hint</xliff:source><xliff:target state="translated">開放ヒント</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109985"><xliff:source>Play</xliff:source><xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109986"><xliff:source>Thumbs Up</xliff:source><xliff:target state="translated">いいね</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109987"><xliff:source>Thumbs Down</xliff:source><xliff:target state="translated">アンハッピー</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109988"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">サーバー変更</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109989"><xliff:source>Logout</xliff:source><xliff:target state="translated">ログアウト</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109990"><xliff:source>Favourite</xliff:source><xliff:target state="translated">お気に入り</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109991"><xliff:source>Switch</xliff:source><xliff:target state="translated">切り替える</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109992"><xliff:source>Logout</xliff:source><xliff:target state="translated">ログアウト</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109993"><xliff:source>Clear</xliff:source><xliff:target state="translated">キレイにする</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109994"><xliff:source>Close</xliff:source><xliff:target state="translated">閉じる</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109995"><xliff:source>Configure</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

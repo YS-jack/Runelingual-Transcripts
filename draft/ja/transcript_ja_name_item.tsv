@@ -2097,16 +2097,16 @@ Team-49 cape	チーム49のマント	name	item	Team-49 cape
 Team-50 cape	チーム50のマント	name	item	Team-50 cape
 Blunt axe	鈍い斧	name	item	Blunt axe
 Herbal tincture	ハーブチンキ	name	item	Herbal tincture
-Guthix rest(4)	グティクスの休養（４）	name	item	Guthix rest(4)
-Guthix rest(3)	グティクスの休養（３）	name	item	Guthix rest(3)
-Guthix rest(2)	グティクスの休養（２）	name	item	Guthix rest(2)
-Guthix rest(1)	グティクスの休養（１）	name	item	Guthix rest(1)
+Guthix rest(4)	がシックスの休養（４）	name	item	Guthix rest(4)
+Guthix rest(3)	がシックスの休養（３）	name	item	Guthix rest(3)
+Guthix rest(2)	がシックスの休養（２）	name	item	Guthix rest(2)
+Guthix rest(1)	がシックスの休養（１）	name	item	Guthix rest(1)
 Stodgy mattress	硬いマットレス	name	item	Stodgy mattress
 Comfy mattress	寝心地のよいマットレス	name	item	Comfy mattress
 Iron oxide	酸化鉄	name	item	Iron oxide
 Animate rock scroll	アニメート・ロック・スクロール	name	item	Animate rock scroll
 Broken vane part	壊れたベーンの部分	name	item	Broken vane part
-Directionals		name	item	Directionals
+Directionals	風見柱の方角	name	item	Directionals
 Ornament	装飾品	name	item	Ornament
 Weathervane pillar	風見柱	name	item	Weathervane pillar
 Weather report	天気の報告書	name	item	Weather report
@@ -2122,148 +2122,148 @@ Antique lamp	アンティークランプ	name	item	Antique lamp
 Bowl of hot water	暑い水のボール	name	item	Bowl of hot water
 Cup of water	水一杯	name	item	Cup of water
 Cup of hot water	暑い水の一杯	name	item	Cup of hot water
-Ruined herb tea		name	item	Ruined herb tea
-Herb tea mix		name	item	Herb tea mix
-Safety guarantee		name	item	Safety guarantee
-White pearl		name	item	White pearl
-White pearl seed		name	item	White pearl seed
-Half a rock		name	item	Half a rock
-Corpse of woman		name	item	Corpse of woman
-Asleif's necklace		name	item	Asleif's necklace
+Ruined herb tea	台無しになった薬草茶	name	item	Ruined herb tea
+Herb tea mix	薬草茶のミックス	name	item	Herb tea mix
+Safety guarantee	安全保証	name	item	Safety guarantee
+White pearl	白真珠	name	item	White pearl
+White pearl seed	白真珠の種	name	item	White pearl seed
+Half a rock	石の半分	name	item	Half a rock
+Corpse of woman	女性の死体	name	item	Corpse of woman
+Asleif's necklace	アスリーフのネックレス	name	item	Asleif's necklace
 Mud	泥	name	item	Mud
-Muddy rock		name	item	Muddy rock
+Muddy rock	泥だらけの石	name	item	Muddy rock
 Pole	ポール	name	item	Pole
-Broken pole		name	item	Broken pole
+Broken pole	割れたポール	name	item	Broken pole
 Bearhead	ベアヘッド	name	item	Bearhead
-Castlewars hood		name	item	Castlewars hood
-Castlewars cloak		name	item	Castlewars cloak
-Giant frog legs		name	item	Giant frog legs
-Swamp wallbeast		name	item	Swamp wallbeast
-Swamp cave slime		name	item	Swamp cave slime
-Swamp cave bug		name	item	Swamp cave bug
+Castlewars hood	キャッスルウォーズのフッド	name	item	Castlewars hood
+Castlewars cloak	キャッスルウォーズのマント	name	item	Castlewars cloak
+Giant frog legs	巨大なカエルの足	name	item	Giant frog legs
+Swamp wallbeast	沼の壁の獣	name	item	Swamp wallbeast
+Swamp cave slime	沼の洞窟スライム	name	item	Swamp cave slime
+Swamp cave bug	沼のドウクツムシ	name	item	Swamp cave bug
 Oil lamp	石油ランプ	name	item	Oil lamp
-Empty oil lamp		name	item	Empty oil lamp
-Empty candle lantern		name	item	Empty candle lantern
-Candle lantern		name	item	Candle lantern
-Empty oil lantern		name	item	Empty oil lantern
-Oil lantern		name	item	Oil lantern
-Oil lantern frame		name	item	Oil lantern frame
-Lantern lens		name	item	Lantern lens
-Bullseye lantern (unf)		name	item	Bullseye lantern (unf)
-Bullseye lantern (empty)		name	item	Bullseye lantern (empty)
-Bullseye lantern		name	item	Bullseye lantern
-Spiny helmet		name	item	Spiny helmet
-Blue sweets		name	item	Blue sweets
-Deep blue sweets		name	item	Deep blue sweets
-White sweets		name	item	White sweets
-Purple sweets		name	item	Purple sweets
-Red sweets		name	item	Red sweets
-Green sweets		name	item	Green sweets
-Pink sweets		name	item	Pink sweets
-Easter basket		name	item	Easter basket
-Rubber chicken		name	item	Rubber chicken
-Gold helmet		name	item	Gold helmet
-Dwarven lore		name	item	Dwarven lore
-Book page 1		name	item	Book page 1
-Book page 2		name	item	Book page 2
-Book page 3		name	item	Book page 3
+Empty oil lamp	空の石油ランプ	name	item	Empty oil lamp
+Empty candle lantern	空のロウソクランタン	name	item	Empty candle lantern
+Candle lantern	ロウソクランタン	name	item	Candle lantern
+Empty oil lantern	空の石油ランタン	name	item	Empty oil lantern
+Oil lantern	石油ランタン	name	item	Oil lantern
+Oil lantern frame	石油ランタンのフレーム	name	item	Oil lantern frame
+Lantern lens	ランタンのレンズ	name	item	Lantern lens
+Bullseye lantern (unf)	ブルズアイランタン（未）	name	item	Bullseye lantern (unf)
+Bullseye lantern (empty)	ブルズアイランタン（空）	name	item	Bullseye lantern (empty)
+Bullseye lantern	ブルズアイランタン	name	item	Bullseye lantern
+Spiny helmet	トゲの鉄兜	name	item	Spiny helmet
+Blue sweets	青いお菓子<	name	item	Blue sweets
+Deep blue sweets	ディープブルーのお菓子	name	item	Deep blue sweets
+White sweets	白いお菓子<	name	item	White sweets
+Purple sweets	紫色のお菓子<	name	item	Purple sweets
+Red sweets	赤いお菓子<	name	item	Red sweets
+Green sweets	緑色のお菓子<	name	item	Green sweets
+Pink sweets	ピンクのお菓子<	name	item	Pink sweets
+Easter basket	イースターのカゴ	name	item	Easter basket
+Rubber chicken	ゴムのニワトリ	name	item	Rubber chicken
+Gold helmet	黄金の鉄兜	name	item	Gold helmet
+Dwarven lore	ドワーフの伝承	name	item	Dwarven lore
+Book page 1	本のページ1	name	item	Book page 1
+Book page 2	本のページ2	name	item	Book page 2
+Book page 3	本のページ3	name	item	Book page 3
 Pages	ページ	name	item	Pages
-Base schematics		name	item	Base schematics
-Schematic		name	item	Schematic
-Schematics		name	item	Schematics
-Cannon ball		name	item	Cannon ball
-Black spear		name	item	Black spear
-Black spear(p)		name	item	Black spear(p)
-Black spear(kp)		name	item	Black spear(kp)
-Dragon plateskirt		name	item	Dragon plateskirt
-Dragon scimitar		name	item	Dragon scimitar
-Keys		name	item	Keys
-Jewels		name	item	Jewels
-Kharidian headpiece		name	item	Kharidian headpiece
-Fake beard		name	item	Fake beard
-Karidian disguise		name	item	Karidian disguise
+Base schematics	基本設計図	name	item	Base schematics
+Schematic	設計図	name	item	Schematic
+Schematics	設計図	name	item	Schematics
+Cannon ball	キャノンボール	name	item	Cannon ball
+Black spear	黒鉄の槍	name	item	Black spear
+Black spear(p)	黒鉄の槍（毒）	name	item	Black spear(p)
+Black spear(kp)	黒鉄の槍（カラムジャ毒）	name	item	Black spear(kp)
+Dragon plateskirt	竜鉄の裙甲	name	item	Dragon plateskirt
+Dragon scimitar	竜鉄の三日月刀	name	item	Dragon scimitar
+Keys	カギ	name	item	Keys
+Jewels	宝飾品	name	item	Jewels
+Kharidian headpiece	カリジアのヘッドピース	name	item	Kharidian headpiece
+Fake beard	偽のヒゲ	name	item	Fake beard
+Karidian disguise	カリジアの変装	name	item	Karidian disguise
 Note	ノート	name	item	Note
-Oak blackjack		name	item	Oak blackjack
-Willow blackjack		name	item	Willow blackjack
-Ugthanki dung		name	item	Ugthanki dung
-Receipt		name	item	Receipt
-Hag's poison		name	item	Hag's poison
-Snake charm		name	item	Snake charm
-Snake basket		name	item	Snake basket
-Snake basket full		name	item	Snake basket full
-Super kebab		name	item	Super kebab
-Red hot sauce		name	item	Red hot sauce
-Desert disguise		name	item	Desert disguise
-Spinning plate		name	item	Spinning plate
-Broken plate		name	item	Broken plate
-Varmen's notes		name	item	Varmen's notes
-Display cabinet key		name	item	Display cabinet key
-Statuette		name	item	Statuette
-Strange implement		name	item	Strange implement
-Black mushroom		name	item	Black mushroom
-Phoenix feather		name	item	Phoenix feather
-Black dye		name	item	Black dye
-Phoenix quill pen		name	item	Phoenix quill pen
-Golem program		name	item	Golem program
+Oak blackjack	樫の棍棒	name	item	Oak blackjack
+Willow blackjack	柳の棍棒	name	item	Willow blackjack
+Ugthanki dung	ウグタンキのうんち	name	item	Ugthanki dung
+Receipt	レシート	name	item	Receipt
+Hag's poison	老婆の毒	name	item	Hag's poison
+Snake charm	蛇笛	name	item	Snake charm
+Snake basket	蛇カゴ	name	item	Snake basket
+Snake basket full	一杯の蛇カゴ	name	item	Snake basket full
+Super kebab	スーパーケバブ	name	item	Super kebab
+Red hot sauce	レッドホットソース	name	item	Red hot sauce
+Desert disguise	砂漠の変装	name	item	Desert disguise
+Spinning plate	回るプレート	name	item	Spinning plate
+Broken plate	壊れたプレート	name	item	Broken plate
+Varmen's notes	ヴァルメンのメモ	name	item	Varmen's notes
+Display cabinet key	展示キャビネットの鍵	name	item	Display cabinet key
+Statuette	小像	name	item	Statuette
+Strange implement	不思議なインプリメント	name	item	Strange implement
+Black mushroom	黒いキノコ	name	item	Black mushroom
+Phoenix feather	フェニックスの羽	name	item	Phoenix feather
+Black dye	黒色染料	name	item	Black dye
+Phoenix quill pen	フェニックスの羽ペン	name	item	Phoenix quill pen
+Golem program	ゴーレムのプログラム	name	item	Golem program
 Bandit	盗賊	name	item	Bandit
-Bandit's brew		name	item	Bandit's brew
+Bandit's brew	盗賊の醸造酒	name	item	Bandit's brew
 Fire	火	name	item	Fire
-Etchings		name	item	Etchings
-Translation		name	item	Translation
-Warm key		name	item	Warm key
-Ring of visibility		name	item	Ring of visibility
-Blessed pot		name	item	Blessed pot
-Garlic powder		name	item	Garlic powder
-Blood diamond		name	item	Blood diamond
-Ice diamond		name	item	Ice diamond
-Smoke diamond		name	item	Smoke diamond
-Shadow diamond		name	item	Shadow diamond
-Gilded cross		name	item	Gilded cross
-Ancient staff		name	item	Ancient staff
-Catspeak amulet		name	item	Catspeak amulet
-Canopic jar		name	item	Canopic jar
-Linen		name	item	Linen
-Embalming manual		name	item	Embalming manual
-Bucket of sap		name	item	Bucket of sap
-Pile of salt		name	item	Pile of salt
-Sphinx's token		name	item	Sphinx's token
-Gold leaf		name	item	Gold leaf
-Bucket of saltwater		name	item	Bucket of saltwater
-Steam rune		name	item	Steam rune
-Mist rune		name	item	Mist rune
-Dust rune		name	item	Dust rune
-Smoke rune		name	item	Smoke rune
-Mud rune		name	item	Mud rune
-Lava rune		name	item	Lava rune
-Sapphire lantern		name	item	Sapphire lantern
-Magic stone		name	item	Magic stone
-Stone bowl		name	item	Stone bowl
-Crumbling tome		name	item	Crumbling tome
-Ahrim's hood		name	item	Ahrim's hood
-Ahrim's staff		name	item	Ahrim's staff
-Ahrim's robetop		name	item	Ahrim's robetop
-Ahrim's robeskirt		name	item	Ahrim's robeskirt
-Dharok's helm		name	item	Dharok's helm
-Dharok's greataxe		name	item	Dharok's greataxe
-Dharok's platebody		name	item	Dharok's platebody
-Dharok's platelegs		name	item	Dharok's platelegs
-Guthan's helm		name	item	Guthan's helm
-Guthan's warspear		name	item	Guthan's warspear
-Guthan's platebody		name	item	Guthan's platebody
-Guthan's chainskirt		name	item	Guthan's chainskirt
-Karil's coif		name	item	Karil's coif
-Karil's crossbow		name	item	Karil's crossbow
-Karil's leathertop		name	item	Karil's leathertop
-Karil's leatherskirt		name	item	Karil's leatherskirt
-Bolt rack		name	item	Bolt rack
-Torag's helm		name	item	Torag's helm
-Torag's hammers		name	item	Torag's hammers
-Torag's platebody		name	item	Torag's platebody
-Torag's platelegs		name	item	Torag's platelegs
-Verac's helm		name	item	Verac's helm
-Verac's flail		name	item	Verac's flail
+Etchings	エッチング	name	item	Etchings
+Translation	翻訳	name	item	Translation
+Warm key	暖かい鍵	name	item	Warm key
+Ring of visibility	可視のリング	name	item	Ring of visibility
+Blessed pot	祝福された鍋	name	item	Blessed pot
+Garlic powder	ニンニクパウダー	name	item	Garlic powder
+Blood diamond	血のダイヤ	name	item	Blood diamond
+Ice diamond	氷のダイヤ	name	item	Ice diamond
+Smoke diamond	煙のダイヤ	name	item	Smoke diamond
+Shadow diamond	影のダイヤ	name	item	Shadow diamond
+Gilded cross	黄金のクロス	name	item	Gilded cross
+Ancient staff	古代の杖	name	item	Ancient staff
+Catspeak amulet	ネコ話のアミュレット	name	item	Catspeak amulet
+Canopic jar	カノプスの壺	name	item	Canopic jar
+Linen	リネン	name	item	Linen
+Embalming manual	防腐処理の説明書	name	item	Embalming manual
+Bucket of sap	樹液のバケツ	name	item	Bucket of sap
+Pile of salt	塩の山	name	item	Pile of salt
+Sphinx's token	スフィンクスのトークン	name	item	Sphinx's token
+Gold leaf	黄金の葉	name	item	Gold leaf
+Bucket of saltwater	塩水のバケツ	name	item	Bucket of saltwater
+Steam rune	蒸気のルーン	name	item	Steam rune
+Mist rune	霧のルーン	name	item	Mist rune
+Dust rune	塵のルーン	name	item	Dust rune
+Smoke rune	煙のルーン	name	item	Smoke rune
+Mud rune	泥のルーン	name	item	Mud rune
+Lava rune	溶岩のルーン	name	item	Lava rune
+Sapphire lantern	サファイアのランタン	name	item	Sapphire lantern
+Magic stone	魔法の石	name	item	Magic stone
+Stone bowl	石のボール	name	item	Stone bowl
+Crumbling tome	崩れている書物	name	item	Crumbling tome
+Ahrim's hood	アリムのフッド	name	item	Ahrim's hood
+Ahrim's staff	アリムの杖	name	item	Ahrim's staff
+Ahrim's robetop	アリムのローブ上	name	item	Ahrim's robetop
+Ahrim's robeskirt	アリムのローブスカート	name	item	Ahrim's robeskirt
+Dharok's helm	ダロックの鉄兜	name	item	Dharok's helm
+Dharok's greataxe	ダロックの大斧	name	item	Dharok's greataxe
+Dharok's platebody	ダロックの胸甲	name	item	Dharok's platebody
+Dharok's platelegs	ダロックの脚甲	name	item	Dharok's platelegs
+Guthan's helm	ガサンの鉄兜	name	item	Guthan's helm
+Guthan's warspear	ガサンの戦槍	name	item	Guthan's warspear
+Guthan's platebody	ガサンの胸甲	name	item	Guthan's platebody
+Guthan's chainskirt	ガサンの鎖裙甲	name	item	Guthan's chainskirt
+Karil's coif	カリルのコイフ	name	item	Karil's coif
+Karil's crossbow	カリルの洋弓銃	name	item	Karil's crossbow
+Karil's leathertop	カリルの革トップ	name	item	Karil's leathertop
+Karil's leatherskirt	カリルの革スカート	name	item	Karil's leatherskirt
+Bolt rack	ボルトラック	name	item	Bolt rack
+Torag's helm	トラグの鉄兜	name	item	Torag's helm
+Torag's hammers	トラグのハンマー	name	item	Torag's hammers
+Torag's platebody	トラグの胸甲	name	item	Torag's platebody
+Torag's platelegs	トラグの脚甲	name	item	Torag's platelegs
+Verac's helm	ヴェラックの鉄兜	name	item	Verac's helm
+Verac's flail	ヴェラックの	name	item	Verac's flail
 Verac's brassard		name	item	Verac's brassard
-Verac's plateskirt		name	item	Verac's plateskirt
+Verac's plateskirt	ヴェラックの裙甲	name	item	Verac's plateskirt
 Bronze brutal		name	item	Bronze brutal
 Iron brutal		name	item	Iron brutal
 Steel brutal		name	item	Steel brutal

@@ -1026,6 +1026,45 @@ source: Karamja gloves 4
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13103</xliff:note></xliff:trans-unit><xliff:trans-unit id="41260"><xliff:source>Swap</xliff:source><xliff:target state="translated">入れ替える</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Bruma torch
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20720</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20720</xliff:note></xliff:trans-unit><xliff:trans-unit id="41261"><xliff:source>Remove</xliff:source><xliff:target state="translated">取り除く</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41262"><xliff:source>Add</xliff:source><xliff:target state="translated">加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41263"><xliff:source>Add-5</xliff:source><xliff:target state="translated">５コ加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41264"><xliff:source>Add-10</xliff:source><xliff:target state="translated">10コ加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41265"><xliff:source>Add-All</xliff:source><xliff:target state="translated">全て加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41266"><xliff:source>Add-X</xliff:source><xliff:target state="translated">Xコ加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: None
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41267"><xliff:source>Examine</xliff:source><xliff:target state="translated">調べる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41268"><xliff:source>Remove</xliff:source><xliff:target state="translated">取り除く</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41269"><xliff:source>Add</xliff:source><xliff:target state="translated">加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41270"><xliff:source>Add-5</xliff:source><xliff:target state="translated">５コ加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41271"><xliff:source>Add-10</xliff:source><xliff:target state="translated">10コ加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41272"><xliff:source>Add-All</xliff:source><xliff:target state="translated">全て加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41273"><xliff:source>Add-X</xliff:source><xliff:target state="translated">Xコ加える</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

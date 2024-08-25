@@ -1224,9 +1224,36 @@ Examine	調べる	actions	npc
 Examine	調べる	actions	item	
 Take	取る	actions	item	
 Light	火をつける	actions	item	
-Add to canvas	カンバスに追加	actions	menu	
-Copy to clipboard	コピー	actions	menu	
-Lookup	検索	actions	menu	
+Assignment	討伐任務を受ける	actions	npc	Vannaka
+Attract	引き付ける	actions	npc	Light creature
+Plant-orb	オーブを置く	actions	npc	Surok Magis
+Build	組み立てる	actions	object	Funeral Pyre
+Emir's Arena	エミアのアリーナ	actions	object	Basic Jewellery Box
+Big-Search	よく探す	actions	object	Reward pool
+Solo-start	ソロで開始	actions	object	Rope ladder
+Cross-over	渡る	actions	object	Broken wall
+Follow	追う	actions	player	
+Trade with	取引	actions	player	
+Lookup	検索	actions	player	
+Equipment	装備	actions	player	
+Report	通報	actions	player	
+Walk here	ここへ歩く	actions	manual	
+Examine	調べる	actions	npc	
+Examine	調べる	actions	item	
+Take	取る	actions	item	
+Light	火をつける	actions	item	
+Cancel	キャンセル	actions	manual	
+Follow	追う	actions	player	
+Trade with	取引	actions	player	
+Lookup	検索	actions	player	
+Equipment	装備	actions	player	
+Report	通報	actions	player	
+Adjust Music Volume	音量を調整	actions	menu	settingsTab
+Adjust Area Sound Volume	環境音を調整	actions	menu	settingsTab
+Adjust Sound Effect Volume	効果音を調整	actions	menu	settingsTab
+Toggle unlock message	開放通知の切り替え	actions	menu	settingsTab
+Play	プレイ	actions	menu	
+Open Activity Adviser	推奨コンテンツを確認	actions	menu	
 <colNum0>Set chat mode:</col> Group (/@g)	<colNum0>チャット切り替え:</col> グループ(/@g)	actions	menu	
 <colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>チャット切り替え:</col> 見学クラン(/@gc)	actions	menu	
 <colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>チャット切り替え:</col> クラン(/@c)	actions	menu	
@@ -1263,185 +1290,180 @@ Filter public chat	公共チャットをフィルタ	actions	menu
 <colNum0>Group:</col> Show all	<colNum0>グループ:</col> 全表示	actions	menu	
 Report game bug	バグを報告	actions	menu	
 Report abuse	悪質行為を報告	actions	menu	
-Look West	西を向く	actions	menu	
-Look South	南を向く	actions	menu	
-Look East	東を向く	actions	menu	
-Look North	北を向く	actions	menu	
-Toggle Run	走りの切り替え	actions	menu	
-Bond Pouch	ボンド入れ	actions	menu	
-Open Store	ストアを開く	actions	menu	
-Clear	クリア	actions	menu	
-Import	インポート	actions	menu	
-Export	エクスポート	actions	menu	
-Show	表示	actions	menu	
-Fullscreen <colNum0>World Map</col>	<colNum0>世界地図</col> を全画面表示	actions	menu	
-Floating <colNum0>World Map</col>	<colNum0>世界地図</col> を表示	actions	menu	
 Combat Options	戦闘オプション	actions	menu	
 Skills	スキル	actions	menu	
 Achievement Diaries	達成記録	actions	menu	
 Inventory	カバン	actions	menu	
 Worn Equipment	装備品	actions	menu	
 Enable prayer reordering	祈りの再配置有効	actions	menu	
-Enable prayer filtering	祈りのフィルタ有効	actions	menu	
+Disable prayer filtering	祈りのフィルタ有効	actions	menu	
 Prayer	祈り	actions	menu	
 Enable spell reordering	魔法の再配置有効	actions	menu	
 Disable spell filtering	魔法の再配置無効	actions	menu	
 Magic	魔法	actions	menu	
-Grouping	グループ	actions	menu	
 Friends List	フレンド一覧	actions	menu	
 Account Management	アカウント設定	actions	menu	
-Logout	ログアウト	actions	menu	
+Ironman Group	鉄人グループ	actions	menu	
 Settings	設定	actions	menu	
 Emotes	エモート	actions	menu	
 Music Player	音楽再生	actions	menu	
-Spike	突く	actions	menu	
-Impale	刺し貫く	actions	menu	
-Smash	砕く	actions	menu	
-Block	ブロック	actions	menu	
-Auto retaliate	自動反撃	actions	menu	
-Use <colNum0>Special Attack</col>	<colNum0>奥義</col> を発動	actions	menu	
+Logout	ログアウト	actions	menu	
+Look West	西を向く	actions	menu	
+Look South	南を向く	actions	menu	
+Look East	東を向く	actions	menu	
+Look North	北を向く	actions	menu	
+Setup	設定	actions	menu	
+Hide	隠す	actions	menu	
+Show	表示	actions	menu	
+Activate	発動	actions	menu	
+Toggle Run	走りの切り替え	actions	menu	
+Use	使う	actions	menu	
+Bond Pouch	ボンド入れ	actions	menu	
+Open Store	ストアを開く	actions	menu	
+Clear	キレイにする	actions	menu	
+Import	インポート	actions	menu	
+Export	エクスポート	actions	menu	
+Fullscreen <colNum0>World Map</col>	<colNum0>世界地図</col> を全画面表示	actions	menu	
+Floating <colNum0>World Map</col>	<colNum0>世界地図</col> を表示	actions	menu	
+DPS	DPS	actions	menu	
+Search	探す	actions	menu	
+Lookup	検索	actions	menu	
+Auto retaliate	自動反撃	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	<colNum0>奥義</col> を発動	actions	menu	combatOptionsTab
 Wiki	ウィキ検索	actions	menu	
-View <colNum0>Attack</col> guide	<colNum0>攻撃力</col>のガイドを表示	actions	menu	
-View <colNum0>Hitpoints</col> guide	<colNum0>体力</col>のガイドを表示	actions	menu	
-View <colNum0>Mining</col> guide	<colNum0>採掘</col>のガイドを表示	actions	menu	
-View <colNum0>Strength</col> guide	<colNum0>腕力</col>のガイドを表示	actions	menu	
-View <colNum0>Agility</col> guide	<colNum0>運動神経</col>のガイドを表示	actions	menu	
-View <colNum0>Smithing</col> guide	<colNum0>鍛冶</col>のガイドを表示	actions	menu	
-View <colNum0>Defence</col> guide	<colNum0>守備力</col>のガイドを表示	actions	menu	
-View <colNum0>Herblore</col> guide	<colNum0>調合</col>のガイドを表示	actions	menu	
-View <colNum0>Fishing</col> guide	<colNum0>釣り</col>のガイドを表示	actions	menu	
-View <colNum0>Ranged</col> guide	<colNum0>弓</col>のガイドを表示	actions	menu	
-View <colNum0>Thieving</col> guide	<colNum0>盗み</col>のガイドを表示	actions	menu	
-View <colNum0>Cooking</col> guide	<colNum0>料理</col>のガイドを表示	actions	menu	
-View <colNum0>Prayer</col> guide	<colNum0>祈り</col>のガイドを表示	actions	menu	
-View <colNum0>Crafting</col> guide	<colNum0>工作</col>のガイドを表示	actions	menu	
-View <colNum0>Firemaking</col> guide	<colNum0>火起こし</col>のガイドを表示	actions	menu	
-View <colNum0>Magic</col> guide	<colNum0>魔法</col>のガイドを表示	actions	menu	
-View <colNum0>Fletching</col> guide	<colNum0>木材加工</col>のガイドを表示	actions	menu	
-View <colNum0>Woodcutting</col> guide	<colNum0>木こり</col>のガイドを表示	actions	menu	
-View <colNum0>Runecraft</col> guide	<colNum0>ルーン作り</col>のガイドを表示	actions	menu	
-View <colNum0>Slayer</col> guide	<colNum0>討伐</col>のガイドを表示	actions	menu	
-View <colNum0>Farming</col> guide	<colNum0>農業</col>のガイドを表示	actions	menu	
-View <colNum0>Construction</col> guide	<colNum0>建築</col>のガイドを表示	actions	menu	
-View <colNum0>Hunter</col> guide	<colNum0>狩人</col>のガイドを表示	actions	menu	
+Add to canvas	カンバスに追加	actions	menu	
+View <colNum0>Attack</col> guide	<colNum0>攻撃力</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	<colNum0>体力</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	<colNum0>採掘</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	<colNum0>腕力</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	<colNum0>運動神経</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	<colNum0>鍛冶</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	<colNum0>守備力</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	<colNum0>調合</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	<colNum0>釣り</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	<colNum0>弓</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	<colNum0>盗み</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	<colNum0>料理</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	<colNum0>祈り</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	<colNum0>工作</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	<colNum0>火起こし</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	<colNum0>魔法</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	<colNum0>木材加工</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	<colNum0>木こり</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	<colNum0>ルーン作り</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	<colNum0>討伐</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	<colNum0>農業</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	<colNum0>建築</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	<colNum0>狩人</col>のガイドを表示	actions	menu	skillsTab
+Character Summary	キャラ概要	actions	menu	characterSummaryTab
+Achievement Diaries	達成記録	actions	menu	characterSummaryTab
+Quest List	クエスト一覧	actions	menu	characterSummaryTab
 Character Summary	キャラ概要	actions	menu	
 Quest List	クエスト一覧	actions	menu	
-Rewards	報酬	actions	menu	
-Tasks	タスク	actions	menu	
-Bosses	ボス	actions	menu	
-Overview	概要	actions	menu	
-Collection Log	取得アイテム一覧	actions	menu	
-Hide	非表示	actions	menu	
-Reveal	公開	actions	menu	
-View equipment stats	装備品のステータスを表示	actions	menu	
-View guide prices	参考価格を表示	actions	menu	
-View items kept on death	死亡時に保持するアイテムを表示	actions	menu	
-Call follower	従者を呼ぶ	actions	menu	
+Rewards	報酬	actions	menu	characterSummaryTab
+Tasks	タスク	actions	menu	characterSummaryTab
+Bosses	ボス	actions	menu	characterSummaryTab
+Overview	概要	actions	menu	characterSummaryTab
+Collection Log	取得アイテム一覧	actions	menu	characterSummaryTab
+Reveal	公開	actions	menu	characterSummaryTab
+Hide	隠す	actions	menu	characterSummaryTab
+Open	開く	actions	menu	questListTab
+Close	閉じる	actions	menu	questListTab
+Start Quest Helper	クエストヘルパーを開始	actions	menu	questListTab
+Open wiki quick guide:	ウィキの最速攻略を開く	actions	menu	questListTab
+Open wiki guide:	ウィキガイドを開く	actions	menu	questListTab
+Show on map:	地図上で示す	actions	menu	questListTab
+Read journal:	記録を読む	actions	menu	questListTab
+Start Helper	ヘルパーを開始	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	<colNum0>アルドインの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	<colNum0>アルドインの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	<colNum0>砂漠の日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	<colNum0>砂漠の日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	<colNum0>ファラドーの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	<colNum0>ファラドーの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	<colNum0>フレメニックの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	<colNum0>フレメニックの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	<colNum0>カンダリンの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	<colNum0>カンダリンの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	<colNum0>カラムジャの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	<colNum0>カラムジャの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	<colNum0>クーレンドとケボスの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	<colNum0>クーレンドとケボスの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>ランブリッジとドレイナーの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>ランブリッジとドレイナーの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	<colNum0>モリタニアの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	<colNum0>モリタニアの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	<colNum0>ヴァロックの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	<colNum0>ヴァロックの日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>を開く	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>をウィキ検索	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>を開く	actions	menu	achievementDiaryTab
+View equipment stats	装備品のステータスを表示	actions	menu	wornEquipmentTab
+View guide prices	参考価格を表示	actions	menu	wornEquipmentTab
+View items kept on death	死亡時に保持するアイテムを表示	actions	menu	wornEquipmentTab
+Call follower	従者を呼ぶ	actions	menu	wornEquipmentTab
 Disable prayer reordering	祈りの再配置無効	actions	menu	
-Disable prayer filtering	祈りのフィルタ有効	actions	menu	
+Enable prayer filtering	祈りのフィルタ有効	actions	menu	
 Disable spell reordering	魔法の再配置無効	actions	menu	
 Enable spell filtering	魔法のフィルタ有効	actions	menu	
-Ironman Group	鉄人グループ	actions	menu	
-Chat-channel	会話チャンネル	actions	menu	
-Your Clan	所属クラン	actions	menu	
-View another clan	別のクラン	actions	menu	
-Refresh	更新	actions	menu	
-Join	参加	actions	menu	
-Setup	設定	actions	menu	
-Find	検索	actions	menu	
-Teleport	ワープ	actions	menu	
 Show notifications	通知を表示	actions	menu	
 Add Note	メモに追加	actions	menu	
-Hide notifications	通知を非表示	actions	menu	
-View Ignore List	無視リストを表示	actions	menu	
-Add Friend	フレンド追加	actions	menu	
-Delete Friend	フレンド削除	actions	menu	
-View Friends List	フレンド一覧を表示	actions	menu	
-Add Name	名前を追加	actions	menu	
-Delete Name	名前を削除	actions	menu	
-Account	アカウント	actions	menu	
-Community	コミュニティ	actions	menu	
-Useful Links	便利なリンク	actions	menu	
-View Inbox	受信箱を確認	actions	menu	
-Name Changer	名前変更	actions	menu	
-View History	履歴を表示	actions	menu	
-View Newspost	ニュースを表示	actions	menu	
-View Archive	アーカイブを表示	actions	menu	
-Switch	切り替える	actions	menu	
-Close	閉じる	actions	menu	
-Restore Default Zoom	既定値に戻す	actions	menu	
-Disable	無効にする	actions	menu	
-Adjust Brightness	明るさを調整	actions	menu	
-Audio	音声	actions	menu	
-Controls	操作	actions	menu	
-Display	表示	actions	menu	
-Toggle skull prevention	ドクロ防止の切り替え	actions	menu	
-Toggle Accept Aid	手助けの許容の切り替え	actions	menu	
-View House Options	家のオプションを表示	actions	menu	
-Open Bond Pouch	ボンド入れを開く	actions	menu	
-All Settings	全設定	actions	menu	
-Toggle unlock message	開放通知の切り替え	actions	menu	
-Enable	有効にする	actions	menu	
-Area	地域	actions	menu	
-Manual	手動	actions	menu	
-Random	ランダム	actions	menu	
-Activate	発動	actions	menu	
-Use	使う	actions	menu	
-DPS	DPS	actions	menu	
-Search	検索	actions	menu	
-Open	開く	actions	menu	
-Toggle	切り替える	actions	menu	
-Unmute	消音解除	actions	menu	
-World Switcher	サーバー変更	actions	menu	
-Favourite	お気に入り	actions	menu	
-Delete	削除	actions	menu	
-Message	メッセージ	actions	menu	
-Remove friend	フレンド削除	actions	menu	
-Add ignore	無視リスト追加	actions	menu	
-Add friend	フレンド追加	actions	menu	
-Open wiki quick guide:	ウィキの最速攻略を開く	actions	menu	
-Open wiki guide:	ウィキガイドを開く	actions	menu	
-Show on map:	地図上で示す	actions	menu	
-Read journal:	記録を読む	actions	menu	
-Start Helper	ヘルパーを開始	actions	menu	
-Wiki <colNum0>Ardougne Journal</col>	<colNum0>アルドインの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Ardougne Journal</col>	<colNum0>アルドインの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Desert Journal</col>	<colNum0>砂漠の日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Desert Journal</col>	<colNum0>砂漠の日誌</col>を開く	actions	menu	
-Wiki <colNum0>Falador Journal</col>	<colNum0>ファラドーの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Falador Journal</col>	<colNum0>ファラドーの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Fremennik Journal</col>	<colNum0>フレメニックの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Fremennik Journal</col>	<colNum0>フレメニックの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Kandarin Journal</col>	<colNum0>カンダリンの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Kandarin Journal</col>	<colNum0>カンダリンの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Karamja Journal</col>	<colNum0>カラムジャの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Karamja Journal</col>	<colNum0>カラムジャの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Kourend & Kebos Journal</col>	<colNum0>クーレンドとケボスの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Kourend & Kebos Journal</col>	<colNum0>クーレンドとケボスの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>ランブリッジとドレイナーの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>ランブリッジとドレイナーの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Morytania Journal</col>	<colNum0>モリタニアの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Morytania Journal</col>	<colNum0>モリタニアの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Varrock Journal</col>	<colNum0>ヴァロックの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Varrock Journal</col>	<colNum0>ヴァロックの日誌</col>を開く	actions	menu	
-Wiki <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Western Provinces Journal</col>	<colNum0>西部地方の日誌</col>を開く	actions	menu	
-Wiki <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>をウィキ検索	actions	menu	
-Open <colNum0>Wilderness Journal</col>	<colNum0>ウィルダネスの日誌</col>を開く	actions	menu	
-Assignment	討伐任務を受ける	actions	npc	Vannaka
-Attract	引き付ける	actions	npc	Light creature
-Plant-orb	オーブを置く	actions	npc	Surok Magis
-Build	組み立てる	actions	object	Funeral Pyre
-Emir's Arena	エミアのアリーナ	actions	object	Basic Jewellery Box
-Big-Search	よく探す	actions	object	Reward pool
-Solo-start	ソロで開始	actions	object	Rope ladder
-Cross-over	渡る	actions	object	Broken wall
-Follow	追う	actions	player	
-Trade with	取引	actions	player	
-Lookup	検索	actions	player	
-Equipment	装備	actions	player	
-Report	通報	actions	player	
-Adjust Music Volume	音量を調整	actions	menu	
-Adjust Area Sound Volume	環境音を調整	actions	menu	
-Adjust Sound Effect Volume	効果音を調整	actions	menu	
-Play	プレイ	actions	menu	
+Delete	削除	actions	menu	friendsTab
+Message	手紙	actions	menu	friendsTab
+View Ignore List	無視リストを表示	actions	menu	friendsTab
+Add Friend	フレンド追加	actions	menu	friendsTab
+Delete Friend	フレンド削除	actions	menu	friendsTab
+View Friends List	フレンド一覧を表示	actions	menu	ignoreTab
+Delete	削除	actions	menu	ignoreTab
+Add Name	名前を追加	actions	menu	ignoreTab
+Delete Name	名前を削除	actions	menu	ignoreTab
+Account	アカウント	actions	menu	accountManagementTab
+Community	コミュニティ	actions	menu	accountManagementTab
+Useful Links	便利なリンク	actions	menu	accountManagementTab
+Open Store	ストアを開く	actions	menu	accountManagementTab
+Bond Pouch	ボンド入れ	actions	menu	accountManagementTab
+View Inbox	受信箱を確認	actions	menu	accountManagementTab
+Name Changer	名前変更	actions	menu	accountManagementTab
+View History	履歴を表示	actions	menu	accountManagementTab
+View Newspost	ニュースを表示	actions	menu	accountManagementTab
+View Archive	アーカイブを表示	actions	menu	accountManagementTab
+Open	開く	actions	menu	accountManagementTab
+Settings	設定	actions	menu	groupTab
+Refresh	更新	actions	menu	groupTab
+Join	参加	actions	menu	groupTab
+Setup	設定	actions	menu	groupTab
+Find	検索	actions	menu	groupTab
+Open	開く	actions	menu	groupTab
+Teleport	ワープ	actions	menu	groupTab
+Select	選ぶ	actions	menu	groupTab
+Toggle skull prevention	ドクロ防止の切り替え	actions	menu	settingsTab
+Toggle Accept Aid	手助けの許容の切り替え	actions	menu	settingsTab
+Toggle Run	走りの切り替え	actions	menu	settingsTab
+View House Options	家のオプションを表示	actions	menu	settingsTab
+Open Bond Pouch	ボンド入れを開く	actions	menu	settingsTab
+All Settings	全設定	actions	menu	settingsTab
+Controls	操作	actions	menu	settingsTab
+Display	表示	actions	menu	settingsTab
+Audio	音声	actions	menu	settingsTab
+Unmute	消音解除	actions	menu	settingsTab
+Adjust Brightness	明るさを調整	actions	menu	settingsTab
+Restore Default Zoom	既定値に戻す	actions	menu	settingsTab
+Disable	無力化	actions	menu	settingsTab
+Select	選ぶ	actions	menu	settingsTab
+Perform	演技する	actions	menu	emotesTab
+Area	地域	actions	menu	musicTab
+Manual	手動	actions	menu	musicTab
+Random	ランダム	actions	menu	musicTab
+Unlock hint	開放ヒント	actions	menu	musicTab
+Play	プレイ	actions	menu	musicTab
+Thumbs Up	いいね	actions	menu	logoutTab
+Thumbs Down	アンハッピー	actions	menu	logoutTab
+World Switcher	サーバー変更	actions	menu	logoutTab
+Logout	ログアウト	actions	menu	logoutTab
+Favourite	お気に入り	actions	menu	worldSwitcherTab
+Switch	切り替える	actions	menu	worldSwitcherTab
+Logout	ログアウト	actions	menu	worldSwitcherTab
+Clear	キレイにする	actions	menu	worldSwitcherTab
+Close	閉じる	actions	menu	worldSwitcherTab
+Configure	設定	actions	menu	worldSwitcherTab
