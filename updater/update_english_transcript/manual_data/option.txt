@@ -128,6 +128,12 @@ View <colNum0>Hunter</col> guide	actions	menu	skillsTab
 Character Summary	actions	menu	characterSummaryTab
 Achievement Diaries	actions	menu	characterSummaryTab
 Quest List	actions	menu	characterSummaryTab
+Character Summary	actions	menu	achievementDiaryTab
+Achievement Diaries	actions	menu	achievementDiaryTab
+Quest List	actions	menu	achievementDiaryTab
+Character Summary	actions	menu	questListTab
+Achievement Diaries	actions	menu	questListTab
+Quest List	actions	menu	questListTab
 Character Summary	actions	menu		
 Quest List	actions	menu	
 Rewards	actions	menu	characterSummaryTab
@@ -240,3 +246,12 @@ Logout	actions	menu	worldSwitcherTab
 Clear	actions	menu	worldSwitcherTab
 Close	actions	menu	worldSwitcherTab
 Configure	actions	menu	worldSwitcherTab
+Grouping	actions	menu	groupTab
+Ironman Group	actions	menu	groupTab
+Chat-channel	actions	menu	groupTab
+Your Clan	actions	menu	groupTab
+View another clan	actions	menu	groupTab
+Message	actions	menu	groupTab
+Remove friend	actions	menu	groupTab
+Switch world	actions	menu	groupTab
+View Poll	actions	menu	accountManagementTab

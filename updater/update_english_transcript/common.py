@@ -70,14 +70,14 @@ CHISEL_URL = {"item_main" : "https://chisel.weirdgloop.org/moid/data_files/items
 # DONT CHANGE unless the chisel data changes
 CHISEL_CATEGORY_NAME = {'item' : 'items', 'npc' : 'npcs', 'object' : 'objects', 'name': 'name',\
                         'examine' : 'examine', 'action_item' : 'actInv',\
-                        'action_npc' : 'actions', 'action_object' : 'actions'}
+                        'action_npc' : 'actions', 'action_object' : 'actions'} # (todo: add here when adding new categories)
 
 WIKI_SEARCH_BASE_URL = {"npc" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=NPC+ID&value=",
                         "object" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=Object+ID&value=",
                         "item" : "https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&property=Item+ID&value="}
 
 
-NAME_SUB_CATEGORY = ['item', 'npc', 'object', 'menu'] # the sub categories that exist where category column = name
+NAME_SUB_CATEGORY = ['item', 'npc', 'object', 'menu'] # the sub categories that exist where category column = name (todo: add here when adding new sub categories)
 
 def delete_file(file_path):
     if os.path.exists(file_path):
