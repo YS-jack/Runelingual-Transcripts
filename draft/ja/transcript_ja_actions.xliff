@@ -5707,7 +5707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41971">
         <xliff:source>Deactivate</xliff:source>
-        <xliff:target state="translated">無効化する</xliff:target>
+        <xliff:target state="translated">無効化</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Magic box
@@ -10556,6 +10556,87 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110010"><xliff:source>View Poll</xliff:source><xliff:target state="translated">投票を見る</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110011"><xliff:source>Hide</xliff:source><xliff:target state="translated">隠す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110012"><xliff:source>Activate</xliff:source><xliff:target state="translated">発動</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110013"><xliff:source>Unhide</xliff:source><xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110014"><xliff:source>Deactivate</xliff:source><xliff:target state="translated">無効化</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110015"><xliff:source>Animation</xliff:source><xliff:target state="translated">アニメーション</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110016"><xliff:source>Hide</xliff:source><xliff:target state="translated">隠す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110017"><xliff:source>Cast</xliff:source><xliff:target state="translated">唱える</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110018"><xliff:source>Unhide</xliff:source><xliff:target state="translated">表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110019"><xliff:source>View</xliff:source><xliff:target state="translated">見る</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110020"><xliff:source>Warnings</xliff:source><xliff:target state="translated">警告</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110021"><xliff:source>Configure</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110022"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110023"><xliff:source>Seers'</xliff:source><xliff:target state="translated">シアーズ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110024"><xliff:source>Group: Previous</xliff:source><xliff:target state="translated">グループ：以前</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110025"><xliff:source>Group: Choose</xliff:source><xliff:target state="translated">グループ：選択</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110026"><xliff:source>Outside</xliff:source><xliff:target state="translated">外</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110027"><xliff:source>Yanille</xliff:source><xliff:target state="translated">ヤニル</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110028"><xliff:source>Enable warning</xliff:source><xliff:target state="translated">警告を有効化</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110029"><xliff:source>Disable warning</xliff:source><xliff:target state="translated">警告を無効化</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110030"><xliff:source>Turael</xliff:source><xliff:target state="translated">ツラエル</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110031"><xliff:source>Target</xliff:source><xliff:target state="translated">的</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110032"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110033"><xliff:source>Arceuus</xliff:source><xliff:target state="translated">アルセウス</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110034"><xliff:source>Ancient</xliff:source><xliff:target state="translated">古代</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110035"><xliff:source>Standard</xliff:source><xliff:target state="translated">一般</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110036"><xliff:source>Reanimate</xliff:source><xliff:target state="translated">復活</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110037"><xliff:source>Resurrect</xliff:source><xliff:target state="translated">蘇生</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

@@ -84,3 +84,209 @@ Hiscores	ハイスコア	name	menu	accountManagementTab
 Old School Wiki	オールドスクール・ウィキ	name	menu	accountManagementTab
 Merchandise	商品サイト	name	menu	accountManagementTab
 <colNum0>PvP Arena</col> options	<colNum0>PvPアリーナ</col> のオプション	name	menu	groupTab
+Redemption	しょく罪	name	menu	prayerTab
+Protect Item	アイテム保護	name	menu	prayerTab
+Incredible Reflexes	とてつもない反射神経	name	menu	prayerTab
+Sharp Eye	鋭い目	name	menu	prayerTab
+Mystic Will	神秘の意思	name	menu	prayerTab
+Rock Skin	岩の肌	name	menu	prayerTab
+Protect from Magic	魔法から守る	name	menu	prayerTab
+Protect from Missiles	発射体から守る	name	menu	prayerTab
+Protect from Melee	近接武器から守る	name	menu	prayerTab
+Thick Skin	厚い肌	name	menu	prayerTab
+Retribution	天罰	name	menu	prayerTab
+Mystic Might	神秘の威力	name	menu	prayerTab
+Eagle Eye	ワシの目	name	menu	prayerTab
+Piety	敬神	name	menu	prayerTab
+Ultimate Strength	究極の力	name	menu	prayerTab
+Improved Reflexes	向上した反射神経	name	menu	prayerTab
+Burst of Strength	力の爆発	name	menu	prayerTab
+Mystic Lore	神秘の伝承	name	menu	prayerTab
+Augury	前兆	name	menu	prayerTab
+Hawk Eye	タカの目	name	menu	prayerTab
+Chivalry	騎士道	name	menu	prayerTab
+Superhuman Strength	超人的な力	name	menu	prayerTab
+Rigour	困苦	name	menu	prayerTab
+Smite	懲罰	name	menu	prayerTab
+Preserve	温存	name	menu	prayerTab
+Clarity of Thought	明確な思考	name	menu	prayerTab
+Rapid Restore	急激な再生	name	menu	prayerTab
+Rapid Heal	急激な回復	name	menu	prayerTab
+Steel Skin	鋼の肌	name	menu	prayerTab
+Lumbridge Home Teleport	ランブリッジ帰還ワープ	name	menu	spellBookTab
+Wind Strike	ウィンド・ストライク	name	menu	spellBookTab
+Confuse	混乱	name	menu	spellBookTab
+Crossbow Bolt Enchantments	ボルトに魔法付与	name	menu	spellBookTab
+Water Strike	ウォーター・ストライク	name	menu	spellBookTab
+Jewellery Enchantments	宝石に魔法付与	name	menu	spellBookTab
+Earth Strike	アース・ストライク	name	menu	spellBookTab
+Telekinetic Grab	掌握	name	menu	spellBookTab
+Bind	バインド	name	menu	spellBookTab
+Curse	呪い	name	menu	spellBookTab
+Wind Bolt	ウィンド・ボルト	name	menu	spellBookTab
+Bones to Bananas	骨からバナナ	name	menu	spellBookTab
+Fire Strike	ファイヤー・ストライク	name	menu	spellBookTab
+Weaken	弱体化	name	menu	spellBookTab
+Low Level Alchemy	初級錬金術	name	menu	spellBookTab
+Water Bolt	ウォーター・ボルト	name	menu	spellBookTab
+Varrock Teleport	ヴァロック・ワープ	name	menu	spellBookTab
+Earth Bolt	アース・ボルト	name	menu	spellBookTab
+Lumbridge Teleport	ランブリッジ・ワープ	name	menu	spellBookTab
+Fire Bolt	ファイヤー・ボルト	name	menu	spellBookTab
+Falador Teleport	ファラドー・ワープ	name	menu	spellBookTab
+Kourend Castle Teleport	クーレンド城ワープ	name	menu	spellBookTab
+Water Blast	ウォーター・ブラスト	name	menu	spellBookTab
+Camelot Teleport	カメロット・ワープ	name	menu	spellBookTab
+Superheat Item	超加熱	name	menu	spellBookTab
+Wind Blast	ウィンド・ブラスト	name	menu	spellBookTab
+Teleport to House	家ワープ	name	menu	spellBookTab
+Crumble Undead	アンデッド崩し	name	menu	spellBookTab
+Iban Blast	アイバン・ブラスト	name	menu	spellBookTab
+Snare	スネア	name	menu	spellBookTab
+Magic Dart	魔法ダーツ	name	menu	spellBookTab
+Ardougne Teleport	アルドイン・ワープ	name	menu	spellBookTab
+Earth Blast	アース・ブラスト	name	menu	spellBookTab
+Civitas illa Fortis Teleport	シビリタス・イラ・フォーチス・ワープ	name	menu	spellBookTab
+High Level Alchemy	上級錬金術	name	menu	spellBookTab
+Charge Water Orb	水のオーブ錬成	name	menu	spellBookTab
+Watchtower Teleport	監視塔ワープ	name	menu	spellBookTab
+Fire Blast	ファイヤー・ブラスト	name	menu	spellBookTab
+Charge Earth Orb	土のオーブ錬成	name	menu	spellBookTab
+Bones to Peaches	骨からモモ	name	menu	spellBookTab
+Saradomin Strike	サラドミン・ストライク	name	menu	spellBookTab
+Claws of Guthix	ガシックスのかぎ爪	name	menu	spellBookTab
+Flames of Zamorak	ザモラックの炎	name	menu	spellBookTab
+Trollheim Teleport	トロールハイム・ワープ	name	menu	spellBookTab
+Wind Wave	ウィンド・ウェーブ	name	menu	spellBookTab
+Charge Fire Orb	"火のオーブ	錬成"	name	menu	spellBookTab
+Ape Atoll Teleport	エイプ・アトール・ワープ	name	menu	spellBookTab
+Water Wave	ウォーター・ウェーブ	name	menu	spellBookTab
+Charge Air Orb	大気のオーブ錬成	name	menu	spellBookTab
+Vulnerability	脆弱性	name	menu	spellBookTab
+Earth Wave	アース・ウェーブ	name	menu	spellBookTab
+Enfeeble	衰弱	name	menu	spellBookTab
+Teleother Lumbridge	ランブリッジ・他ワープ	name	menu	spellBookTab
+Fire Wave	ファイヤー・ウェーブ	name	menu	spellBookTab
+Entangle	束縛	name	menu	spellBookTab
+Stun	スタン	name	menu	spellBookTab
+Teleother Camelot	カメロット・他ワープ	name	menu	spellBookTab
+Teleport to Target	標的へワープ	name	menu	spellBookTab
+Tele Block	ワープ阻止	name	menu	spellBookTab
+Water Surge	ウォーター・サージ	name	menu	spellBookTab
+Teleother Falador	ファラドー・他ワープ	name	menu	spellBookTab
+Wind Surge	ウィンド・サージ	name	menu	spellBookTab
+Charge	チャージ	name	menu	spellBookTab
+Earth Surge	アース・サージ	name	menu	spellBookTab
+Fire Surge	ファイヤー・サージ	name	menu	spellBookTab
+Edgeville Home Teleport	エッジビル帰還ワープ	name	menu	spellBookTab
+Smoke Rush	スモーク・ラッシュ	name	menu	spellBookTab
+Shadow Rush	シャドー・ラッシュ	name	menu	spellBookTab
+PaddewwaﾂTeleport	パデワ・ワープ	name	menu	spellBookTab
+Smoke Burst	スモーク・バースト	name	menu	spellBookTab
+SenntistenﾂTeleport	センチステン・ワープ	name	menu	spellBookTab
+Ice Rush	アイス・ラッシュ	name	menu	spellBookTab
+Blood Rush	ブラッド・ラッシュ	name	menu	spellBookTab
+ShadowﾂBurst	シャドー・バースト	name	menu	spellBookTab
+KharyrllﾂTeleport	カリール・ワープ	name	menu	spellBookTab
+Blood Burst	ブラッド・バースト	name	menu	spellBookTab
+Ice Burst	アイス・バースト	name	menu	spellBookTab
+DareeyakﾂTeleport	ダリーヤク・ワープ	name	menu	spellBookTab
+ShadowﾂBlitz	シャドー・ブリッツ	name	menu	spellBookTab
+Smoke Blitz	スモーク・ブリッツ	name	menu	spellBookTab
+LassarﾂTeleport	ラサー・ワープ	name	menu	spellBookTab
+Blood Blitz	ブラッド・ブリッツ	name	menu	spellBookTab
+Ice Blitz	アイス・ブリッツ	name	menu	spellBookTab
+Carrallanger Teleport	カラランガー・ワープ	name	menu	spellBookTab
+Blood Barrage	ブラッド・バラージ	name	menu	spellBookTab
+Annakarl Teleport	アナカール・ワープ	name	menu	spellBookTab
+ShadowﾂBarrage	シャドー・バラージ	name	menu	spellBookTab
+Smoke Barrage	スモーク・バラージ	name	menu	spellBookTab
+Ice Barrage	アイス・バラージ	name	menu	spellBookTab
+Ghorrock Teleport	ゴロック・ワープ	name	menu	spellBookTab
+Lunar Home Teleport	ルーナ帰還ワープ	name	menu	spellBookTab
+Bake Pie	パイを焼く	name	menu	spellBookTab
+Geomancy	ジェオマンシー	name	menu	spellBookTab
+Cure Plant	植物治癒	name	menu	spellBookTab
+Monster Examine	魔獣解析	name	menu	spellBookTab
+NPC Contact	NPC通信	name	menu	spellBookTab
+Cure Other	仲間治癒	name	menu	spellBookTab
+Humidify	加湿	name	menu	spellBookTab
+Moonclan Teleport	ムーンクラン・ワープ	name	menu	spellBookTab
+Tele Group Moonclan	ムーンクラン・集団ワープ	name	menu	spellBookTab
+Cure Me	自己治癒	name	menu	spellBookTab
+Ourania Teleport	ウラニア・ワープ	name	menu	spellBookTab
+Hunter Kit	狩り道具	name	menu	spellBookTab
+Waterbirth Teleport	ウオーターバース・ワープ	name	menu	spellBookTab
+Tele Group Waterbirth	ウオーターバース・集団ワープ	name	menu	spellBookTab
+Cure Group	集団治癒	name	menu	spellBookTab
+Stat Spy	ステータス覗き	name	menu	spellBookTab
+Barbarian Teleport	蛮族基地ワープ	name	menu	spellBookTab
+Tele Group Barbarian	蛮族基地・集団ワープ	name	menu	spellBookTab
+Spin Flax	亜麻加工	name	menu	spellBookTab
+Superglass Make	超ガラス加工	name	menu	spellBookTab
+Tan Leather	皮を革に	name	menu	spellBookTab
+Khazard Teleport	カザード・ワープ	name	menu	spellBookTab
+Tele Group Khazard	カザード・集団ワープ	name	menu	spellBookTab
+Dream	夢中	name	menu	spellBookTab
+String Jewellery	宝石に紐	name	menu	spellBookTab
+Stat Restore Pot Share	ステ回復薬共有	name	menu	spellBookTab
+Magic Imbue	魔力を込める	name	menu	spellBookTab
+Fertile Soil	肥沃化	name	menu	spellBookTab
+Boost Potion Share	強化薬共有	name	menu	spellBookTab
+Fishing Guild Teleport	釣りギルド・ワープ	name	menu	spellBookTab
+Tele Group Fishing Guild	釣りギルド・集団ワープ	name	menu	spellBookTab
+Plank Make	板材加工	name	menu	spellBookTab
+Catherby Teleport	カサビー・ワープ	name	menu	spellBookTab
+Tele Group Catherby	カサビー・集団ワープ	name	menu	spellBookTab
+Recharge Dragonstone	竜石チャージ	name	menu	spellBookTab
+Ice Plateau Teleport	アイス・プラトー・ワープ	name	menu	spellBookTab
+Tele Group Ice Plateau	アイス・プラトー・集団ワープ	name	menu	spellBookTab
+Energy Transfer	力の譲渡	name	menu	spellBookTab
+Heal Other	他者を回復	name	menu	spellBookTab
+Vengeance Other	復讐・他者	name	menu	spellBookTab
+Vengeance	復讐	name	menu	spellBookTab
+Heal Group	集団回復	name	menu	spellBookTab
+Spellbook Swap	魔導書の切替	name	menu	spellBookTab
+Arceuus Home Teleport	アルセウス帰還ワープ	name	menu	spellBookTab
+Arceuus Library Teleport	アルセウス図書館ワープ	name	menu	spellBookTab
+Basic Reanimation	基本蘇生術	name	menu	spellBookTab
+Draynor Manor Teleport	ドレイナー邸宅ワープ	name	menu	spellBookTab
+Battlefront Teleport	戦線ワープ	name	menu	spellBookTab
+Mind Altar Teleport	心の祭壇ワープ	name	menu	spellBookTab
+Respawn Teleport	復活地点ワープ	name	menu	spellBookTab
+Ghostly Grasp	霊的掌握	name	menu	spellBookTab
+Resurrect Lesser Ghost	下級ゴースト復活術式	name	menu	spellBookTab
+Resurrect Lesser Skeleton	下級スケルトン復活術式	name	menu	spellBookTab
+Resurrect Lesser Zombie	下級ゾンビ復活術式	name	menu	spellBookTab
+Salve Graveyard Teleport	サルヴ基地ワープ	name	menu	spellBookTab
+Adept Reanimation	応用蘇生術	name	menu	spellBookTab
+Inferior Demonbane	劣勢・悪魔殺し	name	menu	spellBookTab
+Shadow Veil	影のベール	name	menu	spellBookTab
+Fenkenstrain's Castle Teleport	フェンケンストレイン城・ワープ	name	menu	spellBookTab
+Dark Lure	闇の誘い	name	menu	spellBookTab
+Skeletal Grasp	スケルトン掌握	name	menu	spellBookTab
+Resurrect Superior Ghost	中級ゴースト復活術式	name	menu	spellBookTab
+Resurrect Superior Skeleton	中級スケルトン復活術式	name	menu	spellBookTab
+Resurrect Superior Zombie	中級ゾンビ復活術式	name	menu	spellBookTab
+Mark of Darkness	闇の刻印	name	menu	spellBookTab
+West Ardougne Teleport	西アルドイン・ワープ	name	menu	spellBookTab
+Superior Demonbane	優勢	name	menu	spellBookTab
+Lesser Corruption	下位の腐敗	name	menu	spellBookTab
+Harmony Island Teleport	ハーモニー島・ワープ	name	menu	spellBookTab
+Vile Vigour	卑劣な活力	name	menu	spellBookTab
+Degrime	汚れ落とし	name	menu	spellBookTab
+Cemetery Teleport	セメトリー・ワープ	name	menu	spellBookTab
+Expert Reanimation	専門蘇生術	name	menu	spellBookTab
+Ward of Arceuus	アルセウス・ワード	name	menu	spellBookTab
+Resurrect Greater Ghost	上級ゴースト復活術式	name	menu	spellBookTab
+Resurrect Greater Skeleton	上級スケルトン復活術式	name	menu	spellBookTab
+Resurrect Greater Zombie	上級ゾンビ復活術式	name	menu	spellBookTab
+Resurrect Crops	作物蘇生	name	menu	spellBookTab
+Undead Grasp	不死の掌握	name	menu	spellBookTab
+Death Charge	死による回復	name	menu	spellBookTab
+Dark Demonbane	暗黒の悪魔殺し	name	menu	spellBookTab
+Barrows Teleport	バロウズ・ワープ	name	menu	spellBookTab
+Demonic Offering	悪魔的供物	name	menu	spellBookTab
+Greater Corruption	上位の腐敗	name	menu	spellBookTab
+Master Reanimation	超級蘇生術	name	menu	spellBookTab
+Sinister Offering	不吉な供物	name	menu	spellBookTab

@@ -3475,7 +3475,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109697">
         <xliff:source>Blood Rush</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ブラッド・ラッシュ</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -11351,7 +11351,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110957"><xliff:source>Eye See You</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110958"><xliff:source>Blood Rush</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110958"><xliff:source>Blood Rush</xliff:source><xliff:target state="translated">ブラッド・ラッシュ</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110959"><xliff:source>Song of the Silent Choir</xliff:source><xliff:target></xliff:target><xliff:note>category: manual

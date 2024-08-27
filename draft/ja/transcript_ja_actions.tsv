@@ -712,7 +712,7 @@ Crawl-under	下を這う	actions	object	Wall
 Fix	直す	actions	object	Bellows
 Bend	曲げる	actions	object	Cell wall window
 Steal	盗む	actions	object	Candles
-Deactivate	無効化する	actions	object	Magic box
+Deactivate	無効化	actions	object	Magic box
 Trap	罠	actions	object	Pit
 Flush	追い出す	actions	object	Rabbit hole
 Shout-over	叫ぶ	actions	object	Rockslide
@@ -1482,3 +1482,30 @@ Message	手紙	actions	menu	groupTab
 Remove friend	フレンド削除	actions	menu	groupTab
 Switch world	世界変更	actions	menu	groupTab
 View Poll	投票を見る	actions	menu	accountManagementTab
+Hide	隠す	actions	menu	prayerTab
+Activate	発動	actions	menu	prayerTab
+Unhide	表示	actions	menu	prayerTab
+Deactivate	無効化	actions	menu	prayerTab
+Animation	アニメーション	actions	menu	spellBookTab
+Hide	隠す	actions	menu	spellBookTab
+Cast	唱える	actions	menu	spellBookTab
+Unhide	表示	actions	menu	spellBookTab
+View	見る	actions	menu	spellBookTab
+Warnings	警告	actions	menu	spellBookTab
+Configure	設定	actions	menu	spellBookTab
+Grand Exchange	グランド・エクスチェンジ	actions	menu	spellBookTab
+Seers'	シアーズ	actions	menu	spellBookTab
+Group: Previous	グループ：以前	actions	menu	spellBookTab
+Group: Choose	グループ：選択	actions	menu	spellBookTab
+Outside	外	actions	menu	spellBookTab
+Yanille	ヤニル	actions	menu	spellBookTab
+Enable warning	警告を有効化	actions	menu	spellBookTab
+Disable warning	警告を無効化	actions	menu	spellBookTab
+Turael	ツラエル	actions	menu	spellBookTab
+Target	的	actions	menu	spellBookTab
+Setup	設定	actions	menu	spellBookTab
+Arceuus	アルセウス	actions	menu	spellBookTab
+Ancient	古代	actions	menu	spellBookTab
+Standard	一般	actions	menu	spellBookTab
+Reanimate	復活	actions	menu	spellBookTab
+Resurrect	蘇生	actions	menu	spellBookTab
