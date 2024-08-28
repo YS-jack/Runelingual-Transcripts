@@ -1299,6 +1299,87 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112874"><xliff:source>Sinister Offering</xliff:source><xliff:target state="translated">不吉な供物</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112875"><xliff:source>Accurate</xliff:source><xliff:target state="translated">正確に</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112876"><xliff:source>Aggressive</xliff:source><xliff:target state="translated">激しく</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112877"><xliff:source>Defensive</xliff:source><xliff:target state="translated">守りながら</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112878"><xliff:source>Controlled</xliff:source><xliff:target state="translated">バランスよく</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112879"><xliff:source>Chop</xliff:source><xliff:target state="translated">チョップ</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112880"><xliff:source>Slash</xliff:source><xliff:target state="translated">スラッシュ</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112881"><xliff:source>Stab</xliff:source><xliff:target state="translated">刺す</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112882"><xliff:source>Block</xliff:source><xliff:target state="translated">ブロック</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112883"><xliff:source>Pound</xliff:source><xliff:target state="translated">打つ</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112884"><xliff:source>Pummel</xliff:source><xliff:target state="translated">殴打</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112885"><xliff:source>Spike</xliff:source><xliff:target state="translated">突き刺す</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112886"><xliff:source>Impale</xliff:source><xliff:target state="translated">貫く</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112887"><xliff:source>Smash</xliff:source><xliff:target state="translated">強打</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112888"><xliff:source>Lunge</xliff:source><xliff:target state="translated">突進</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112889"><xliff:source>Swipe</xliff:source><xliff:target state="translated">なぎ払う</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112890"><xliff:source>Hack</xliff:source><xliff:target state="translated">叩き切る</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112891"><xliff:source>Reap</xliff:source><xliff:target state="translated">刈り取る</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112892"><xliff:source>Rapid</xliff:source><xliff:target state="translated">連射</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112893"><xliff:source>Longrange</xliff:source><xliff:target state="translated">遠距離</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112894"><xliff:source>Flick</xliff:source><xliff:target state="translated">フリック</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112895"><xliff:source>Lash</xliff:source><xliff:target state="translated">鞭打つ</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112896"><xliff:source>Deflect</xliff:source><xliff:target state="translated">そらす</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112897"><xliff:source>Fend</xliff:source><xliff:target state="translated">防ぐ</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112898"><xliff:source>Bash</xliff:source><xliff:target state="translated">激突</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112899"><xliff:source>Blaze</xliff:source><xliff:target state="translated">ブレイズ</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112900"><xliff:source>Scorch</xliff:source><xliff:target state="translated">焦がす</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112901"><xliff:source>Flare</xliff:source><xliff:target state="translated">フレア</xliff:target><xliff:note>category: name
+sub_category: menu
+source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

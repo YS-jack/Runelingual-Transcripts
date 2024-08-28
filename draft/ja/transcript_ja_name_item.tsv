@@ -2668,9 +2668,9 @@ Mystic jewel	秘伝の宝飾品	name	item	Mystic jewel
 Gear	歯車	name	item	Gear
 Tiles	タイルズ	name	item	Tiles
 Desert amulet	砂漠のアミュレット	name	item	Desert amulet
-Initiate sallet		name	item	Initiate sallet
-Initiate hauberk		name	item	Initiate hauberk
-Initiate cuisse		name	item	Initiate cuisse
+Initiate sallet	原始のサレット	name	item	Initiate sallet
+Initiate hauberk	原始のホーバーク	name	item	Initiate hauberk
+Initiate cuisse	原始のもも当て	name	item	Initiate cuisse
 Cupric sulfate	硫酸銅	name	item	Cupric sulfate
 Acetic acid	酢酸	name	item	Acetic acid
 Gypsum	石膏	name	item	Gypsum
@@ -2893,136 +2893,136 @@ Tomatoes(2)	トマト（2）	name	item	Tomatoes(2)
 Tomatoes(3)	トマト（3）	name	item	Tomatoes(3)
 Tomatoes(4)	トマト（4）	name	item	Tomatoes(4)
 Tomatoes(5)	トマト（5）	name	item	Tomatoes(5)
-Curry leaf		name	item	Curry leaf
-Papaya fruit		name	item	Papaya fruit
-Coconut		name	item	Coconut
-Half coconut		name	item	Half coconut
-Coconut shell		name	item	Coconut shell
-Calquat fruit		name	item	Calquat fruit
+Curry leaf	カレーの葉	name	item	Curry leaf
+Papaya fruit	パパイヤの果実	name	item	Papaya fruit
+Coconut	ココナッツ	name	item	Coconut
+Half coconut	ココナッツの半分	name	item	Half coconut
+Coconut shell	ヤシ殻	name	item	Coconut shell
+Calquat fruit	カルカンの果実	name	item	Calquat fruit
 Watermelon	スイカ	name	item	Watermelon
-Watermelon slice		name	item	Watermelon slice
+Watermelon slice	スイカのスライス	name	item	Watermelon slice
 Sweetcorn	コーン	name	item	Sweetcorn
-Cooked sweetcorn		name	item	Cooked sweetcorn
-Burnt sweetcorn		name	item	Burnt sweetcorn
-Apple mush		name	item	Apple mush
-Hammerstone hops		name	item	Hammerstone hops
-Asgarnian hops		name	item	Asgarnian hops
-Yanillian hops		name	item	Yanillian hops
-Krandorian hops		name	item	Krandorian hops
-Wildblood hops		name	item	Wildblood hops
+Cooked sweetcorn	調理済みコーン	name	item	Cooked sweetcorn
+Burnt sweetcorn	焦げたコーン	name	item	Burnt sweetcorn
+Apple mush	リンゴのマッシュ	name	item	Apple mush
+Hammerstone hops	ハマーストーン・ホップ	name	item	Hammerstone hops
+Asgarnian hops	アスガニアン・ホップ	name	item	Asgarnian hops
+Yanillian hops	ヤニリアン・ホップ	name	item	Yanillian hops
+Krandorian hops	クランドリアン・ホップ	name	item	Krandorian hops
+Wildblood hops	ワイルドブラッド・ホップ	name	item	Wildblood hops
 Mushroom	キノコ	name	item	Mushroom
 Barley	大麦	name	item	Barley
-Barley malt		name	item	Barley malt
+Barley malt	大麦の麦芽	name	item	Barley malt
 Marigolds	マリーゴールド	name	item	Marigolds
-Nasturtiums		name	item	Nasturtiums
+Nasturtiums	ナスタチウム	name	item	Nasturtiums
 Rosemary	ローズマリー	name	item	Rosemary
-Cactus spine		name	item	Cactus spine
-Poison ivy berries		name	item	Poison ivy berries
+Cactus spine	サボテンのトゲ	name	item	Cactus spine
+Poison ivy berries	ツタウルシベリー	name	item	Poison ivy berries
 Leaves	葉	name	item	Leaves
-Oak leaves		name	item	Oak leaves
-Willow leaves		name	item	Willow leaves
-Yew leaves		name	item	Yew leaves
-Maple leaves		name	item	Maple leaves
-Magic leaves		name	item	Magic leaves
+Oak leaves	樫の葉	name	item	Oak leaves
+Willow leaves	柳の葉	name	item	Willow leaves
+Yew leaves	イチイの葉	name	item	Yew leaves
+Maple leaves	楓の葉	name	item	Maple leaves
+Magic leaves	魔法の葉	name	item	Magic leaves
 Compost	堆肥	name	item	Compost
-Supercompost		name	item	Supercompost
-Plant cure		name	item	Plant cure
-Magic string		name	item	Magic string
-Amulet of nature		name	item	Amulet of nature
-Pre-nature amulet		name	item	Pre-nature amulet
-Oak roots		name	item	Oak roots
-Willow roots		name	item	Willow roots
-Maple roots		name	item	Maple roots
-Yew roots		name	item	Yew roots
-Magic roots		name	item	Magic roots
-Spirit roots		name	item	Spirit roots
+Supercompost	スーパー堆肥	name	item	Supercompost
+Plant cure	植物の治療薬	name	item	Plant cure
+Magic string	魔法の紐	name	item	Magic string
+Amulet of nature	自然のアミュレット	name	item	Amulet of nature
+Pre-nature amulet	未完成の自然のアミュレット	name	item	Pre-nature amulet
+Oak roots	樫の根	name	item	Oak roots
+Willow roots	柳の根	name	item	Willow roots
+Maple roots	楓の根	name	item	Maple roots
+Yew roots	イチイの根	name	item	Yew roots
+Magic roots	魔法の根	name	item	Magic roots
+Spirit roots	精霊樹の根	name	item	Spirit roots
 Weeds	雑草	name	item	Weeds
-Hay sack		name	item	Hay sack
+Hay sack	干し草の袋	name	item	Hay sack
 Scarecrow	カカシ	name	item	Scarecrow
-Bronze bolts (p+)		name	item	Bronze bolts (p+)
-Bronze bolts (p++)		name	item	Bronze bolts (p++)
+Bronze bolts (p+)	銅のボルト（毒＋）	name	item	Bronze bolts (p+)
+Bronze bolts (p++)	銅のボルト（毒＋＋）	name	item	Bronze bolts (p++)
 Spirit tree	精霊樹	name	item	Spirit tree
-Bloody mourner top		name	item	Bloody mourner top
-Mourner top		name	item	Mourner top
-Ripped mourner trousers		name	item	Ripped mourner trousers
-Mourner trousers		name	item	Mourner trousers
-Mourner gloves		name	item	Mourner gloves
-Mourner boots		name	item	Mourner boots
-Mourner cloak		name	item	Mourner cloak
-Mourner letter		name	item	Mourner letter
-Tegid's soap		name	item	Tegid's soap
-Prifddinas' history		name	item	Prifddinas' history
-Eastern discovery		name	item	Eastern discovery
-Eastern settlement		name	item	Eastern settlement
-The great divide		name	item	The great divide
-Broken device		name	item	Broken device
-Fixed device		name	item	Fixed device
-Tarnished key		name	item	Tarnished key
-Worn key		name	item	Worn key
-Red dye bellows		name	item	Red dye bellows
-Blue dye bellows		name	item	Blue dye bellows
-Yellow dye bellows		name	item	Yellow dye bellows
-Green dye bellows		name	item	Green dye bellows
-Blue toad		name	item	Blue toad
-Red toad		name	item	Red toad
-Yellow toad		name	item	Yellow toad
-Green toad		name	item	Green toad
-Rotten apples		name	item	Rotten apples
-Apple barrel		name	item	Apple barrel
-Naphtha apple mix		name	item	Naphtha apple mix
-Toxic naphtha		name	item	Toxic naphtha
-Sieve		name	item	Sieve
-Toxic powder		name	item	Toxic powder
-Teleport crystal (4)		name	item	Teleport crystal (4)
-Teleport crystal (3)		name	item	Teleport crystal (3)
-Teleport crystal (2)		name	item	Teleport crystal (2)
-Teleport crystal (1)		name	item	Teleport crystal (1)
-Crystal teleport seed		name	item	Crystal teleport seed
-New key		name	item	New key
-Elf		name	item	Elf
-Ghostly boots		name	item	Ghostly boots
-Ghostly robe		name	item	Ghostly robe
-Ghostly hood		name	item	Ghostly hood
-Ghostly gloves		name	item	Ghostly gloves
-Ghostly cloak		name	item	Ghostly cloak
-Kelda seed		name	item	Kelda seed
-Kelda hops		name	item	Kelda hops
-Kelda stout		name	item	Kelda stout
-Square stone		name	item	Square stone
-A chair		name	item	A chair
-Enchanted lyre(2)		name	item	Enchanted lyre(2)
-Enchanted lyre(3)		name	item	Enchanted lyre(3)
-Enchanted lyre(4)		name	item	Enchanted lyre(4)
-Rock-shell helm		name	item	Rock-shell helm
-Rock-shell plate		name	item	Rock-shell plate
-Rock-shell legs		name	item	Rock-shell legs
-Spined helm		name	item	Spined helm
-Spined body		name	item	Spined body
-Spined chaps		name	item	Spined chaps
-Skeletal helm		name	item	Skeletal helm
-Skeletal top		name	item	Skeletal top
-Skeletal bottoms		name	item	Skeletal bottoms
-Spined boots		name	item	Spined boots
-Rock-shell boots		name	item	Rock-shell boots
-Skeletal boots		name	item	Skeletal boots
-Spined gloves		name	item	Spined gloves
-Rock-shell gloves		name	item	Rock-shell gloves
-Skeletal gloves		name	item	Skeletal gloves
-Dagannoth hide		name	item	Dagannoth hide
-Rock-shell chunk		name	item	Rock-shell chunk
-Rock-shell shard		name	item	Rock-shell shard
-Rock-shell splinter		name	item	Rock-shell splinter
-Skull piece		name	item	Skull piece
-Ribcage piece		name	item	Ribcage piece
-Fibula piece		name	item	Fibula piece
-Circular hide		name	item	Circular hide
-Flattened hide		name	item	Flattened hide
-Stretched hide		name	item	Stretched hide
-Raw pheasant		name	item	Raw pheasant
-Lederhosen top		name	item	Lederhosen top
-Lederhosen shorts		name	item	Lederhosen shorts
-Lederhosen hat		name	item	Lederhosen hat
-Frog token		name	item	Frog token
+Bloody mourner top	血だらけの哀悼者のトップ	name	item	Bloody mourner top
+Mourner top	哀悼者のトップ	name	item	Mourner top
+Ripped mourner trousers	破れた哀悼者のズボン	name	item	Ripped mourner trousers
+Mourner trousers	哀悼者のズボン	name	item	Mourner trousers
+Mourner gloves	哀悼者の手袋	name	item	Mourner gloves
+Mourner boots	哀悼者の靴	name	item	Mourner boots
+Mourner cloak	哀悼者のマント	name	item	Mourner cloak
+Mourner letter	哀悼者の手紙	name	item	Mourner letter
+Tegid's soap	テギドの石鹸	name	item	Tegid's soap
+Prifddinas' history	プリフディナスの歴史	name	item	Prifddinas' history
+Eastern discovery	東部の発見	name	item	Eastern discovery
+Eastern settlement	東部の定住	name	item	Eastern settlement
+The great divide	偉大なる分裂	name	item	The great divide
+Broken device	壊れた装置	name	item	Broken device
+Fixed device	直された装置	name	item	Fixed device
+Tarnished key	汚れた鍵	name	item	Tarnished key
+Worn key	摩耗した鍵	name	item	Worn key
+Red dye bellows	赤色染料のふいご	name	item	Red dye bellows
+Blue dye bellows	青色染料のふいご	name	item	Blue dye bellows
+Yellow dye bellows	黄色染料のふいご	name	item	Yellow dye bellows
+Green dye bellows	緑色染料のふいご	name	item	Green dye bellows
+Blue toad	青いアマガエル	name	item	Blue toad
+Red toad	赤いアマガエル	name	item	Red toad
+Yellow toad	黄色いアマガエル	name	item	Yellow toad
+Green toad	緑色のアマガエル	name	item	Green toad
+Rotten apples	腐ったリンゴ	name	item	Rotten apples
+Apple barrel	リンゴの樽	name	item	Apple barrel
+Naphtha apple mix	ナフサ・リンゴのミックス	name	item	Naphtha apple mix
+Toxic naphtha	有毒ナフサ	name	item	Toxic naphtha
+Sieve	ふるい	name	item	Sieve
+Toxic powder	有毒の粉末	name	item	Toxic powder
+Teleport crystal (4)	ワープの水晶（４）	name	item	Teleport crystal (4)
+Teleport crystal (3)	ワープの水晶（３）	name	item	Teleport crystal (3)
+Teleport crystal (2)	ワープの水晶（２）	name	item	Teleport crystal (2)
+Teleport crystal (1)	ワープの水晶（１）	name	item	Teleport crystal (1)
+Crystal teleport seed	ワープの水晶の種	name	item	Crystal teleport seed
+New key	新しい鍵	name	item	New key
+Elf	エルフ	name	item	Elf
+Ghostly boots	幽霊の靴	name	item	Ghostly boots
+Ghostly robe	幽霊のローブ	name	item	Ghostly robe
+Ghostly hood	幽霊のフッド	name	item	Ghostly hood
+Ghostly gloves	幽霊の手袋	name	item	Ghostly gloves
+Ghostly cloak	幽霊のマント	name	item	Ghostly cloak
+Kelda seed	ケルダの種	name	item	Kelda seed
+Kelda hops	ケルダ・ホップ	name	item	Kelda hops
+Kelda stout	ケルダのスタウト	name	item	Kelda stout
+Square stone	四角い石	name	item	Square stone
+A chair	椅子	name	item	A chair
+Enchanted lyre(2)	魔法のたて琴（２）	name	item	Enchanted lyre(2)
+Enchanted lyre(3)	魔法のたて琴（３）	name	item	Enchanted lyre(3)
+Enchanted lyre(4)	魔法のたて琴（４）	name	item	Enchanted lyre(4)
+Rock-shell helm	岩殻の鉄兜	name	item	Rock-shell helm
+Rock-shell plate	岩殻の胸甲	name	item	Rock-shell plate
+Rock-shell legs	岩殻の脚甲	name	item	Rock-shell legs
+Spined helm	トゲの兜	name	item	Spined helm
+Spined body	トゲのボディ	name	item	Spined body
+Spined chaps	トゲのチャップス	name	item	Spined chaps
+Skeletal helm	骨の兜	name	item	Skeletal helm
+Skeletal top	骨のトップ	name	item	Skeletal top
+Skeletal bottoms	骨のズボン	name	item	Skeletal bottoms
+Spined boots	トゲの靴	name	item	Spined boots
+Rock-shell boots	岩殻の靴	name	item	Rock-shell boots
+Skeletal boots	骨の靴	name	item	Skeletal boots
+Spined gloves	トゲの手袋	name	item	Spined gloves
+Rock-shell gloves	岩殻の手袋	name	item	Rock-shell gloves
+Skeletal gloves	骨の手袋	name	item	Skeletal gloves
+Dagannoth hide	ダガノスの皮	name	item	Dagannoth hide
+Rock-shell chunk	岩殻の塊	name	item	Rock-shell chunk
+Rock-shell shard	岩殻のシャード	name	item	Rock-shell shard
+Rock-shell splinter	岩殻の破片	name	item	Rock-shell splinter
+Skull piece	頭蓋骨片	name	item	Skull piece
+Ribcage piece	肋骨片	name	item	Ribcage piece
+Fibula piece	腓骨片	name	item	Fibula piece
+Circular hide	円形皮	name	item	Circular hide
+Flattened hide	扁平皮	name	item	Flattened hide
+Stretched hide	伸び皮	name	item	Stretched hide
+Raw pheasant	生のキジ	name	item	Raw pheasant
+Lederhosen top	レーダーホーゼンのシャツ	name	item	Lederhosen top
+Lederhosen shorts	レーダーホーゼンのショーツ	name	item	Lederhosen shorts
+Lederhosen hat	レーダーホーゼンのハット	name	item	Lederhosen hat
+Frog token	カエルのトークン	name	item	Frog token
 Royal frog tunic		name	item	Royal frog tunic
 Royal frog leggings		name	item	Royal frog leggings
 Royal frog blouse		name	item	Royal frog blouse

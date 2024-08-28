@@ -290,3 +290,30 @@ Demonic Offering	悪魔的供物	name	menu	spellBookTab
 Greater Corruption	上位の腐敗	name	menu	spellBookTab
 Master Reanimation	超級蘇生術	name	menu	spellBookTab
 Sinister Offering	不吉な供物	name	menu	spellBookTab
+Accurate	正確に	name	menu	combatOptionsTab
+Aggressive	激しく	name	menu	combatOptionsTab
+Defensive	守りながら	name	menu	combatOptionsTab
+Controlled	バランスよく	name	menu	combatOptionsTab
+Chop	チョップ	name	menu	combatOptionsTab
+Slash	スラッシュ	name	menu	combatOptionsTab
+Stab	刺す	name	menu	combatOptionsTab
+Block	ブロック	name	menu	combatOptionsTab
+Pound	打つ	name	menu	combatOptionsTab
+Pummel	殴打	name	menu	combatOptionsTab
+Spike	突き刺す	name	menu	combatOptionsTab
+Impale	貫く	name	menu	combatOptionsTab
+Smash	強打	name	menu	combatOptionsTab
+Lunge	突進	name	menu	combatOptionsTab
+Swipe	なぎ払う	name	menu	combatOptionsTab
+Hack	叩き切る	name	menu	combatOptionsTab
+Reap	刈り取る	name	menu	combatOptionsTab
+Rapid	連射	name	menu	combatOptionsTab
+Longrange	遠距離	name	menu	combatOptionsTab
+Flick	フリック	name	menu	combatOptionsTab
+Lash	鞭打つ	name	menu	combatOptionsTab
+Deflect	そらす	name	menu	combatOptionsTab
+Fend	防ぐ	name	menu	combatOptionsTab
+Bash	激突	name	menu	combatOptionsTab
+Blaze	ブレイズ	name	menu	combatOptionsTab
+Scorch	焦がす	name	menu	combatOptionsTab
+Flare	フレア	name	menu	combatOptionsTab
