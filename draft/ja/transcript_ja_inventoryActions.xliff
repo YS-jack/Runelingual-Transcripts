@@ -1065,6 +1065,333 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41273"><xliff:source>Add-X</xliff:source><xliff:target state="translated">Xコ加える</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="41274"><xliff:source>Edgeville</xliff:source><xliff:target state="translated">エッジビルへ移動</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note></xliff:trans-unit><xliff:trans-unit id="41275"><xliff:source>Karamja</xliff:source><xliff:target state="translated">カラムジャ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note></xliff:trans-unit><xliff:trans-unit id="41276"><xliff:source>Draynor Village</xliff:source><xliff:target state="translated">ドレイナー村</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note></xliff:trans-unit><xliff:trans-unit id="41277"><xliff:source>Al Kharid</xliff:source><xliff:target state="translated">アル・カリッド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note></xliff:trans-unit><xliff:trans-unit id="41278"><xliff:source>Tan Leather</xliff:source><xliff:target state="translated">皮を革に</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Leather
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1741</xliff:note></xliff:trans-unit><xliff:trans-unit id="41279"><xliff:source>Recharge Dragonstone</xliff:source><xliff:target state="translated">竜石チャージ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Dead orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2529</xliff:note></xliff:trans-unit><xliff:trans-unit id="41280"><xliff:source>Emir's Arena</xliff:source><xliff:target state="translated">エミアのアリーナ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note></xliff:trans-unit><xliff:trans-unit id="41281"><xliff:source>Castle Wars</xliff:source><xliff:target state="translated">キャッスル・ウォーズ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note></xliff:trans-unit><xliff:trans-unit id="41282"><xliff:source>Ferox Enclave</xliff:source><xliff:target state="translated">フェロックス・オンクレーブ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note></xliff:trans-unit><xliff:trans-unit id="41283"><xliff:source>Fortis Colosseum</xliff:source><xliff:target state="translated">フォーティス闘技場</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note></xliff:trans-unit><xliff:trans-unit id="41284"><xliff:source>Bloom</xliff:source><xliff:target state="translated">咲かせる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Silver sickle (b)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2963</xliff:note></xliff:trans-unit><xliff:trans-unit id="41285"><xliff:source>Rellekka</xliff:source><xliff:target state="translated">レレカへ移動</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note></xliff:trans-unit><xliff:trans-unit id="41286"><xliff:source>Waterbirth Island</xliff:source><xliff:target state="translated">ウオーターバース島</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note></xliff:trans-unit><xliff:trans-unit id="41287"><xliff:source>Neitiznot</xliff:source><xliff:target state="translated">ネイチズノットへ移動</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note></xliff:trans-unit><xliff:trans-unit id="41288"><xliff:source>Jatiszo</xliff:source><xliff:target state="translated">ジャティスゾ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note></xliff:trans-unit><xliff:trans-unit id="41289"><xliff:source>Burthorpe</xliff:source><xliff:target state="translated">バーソープ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note></xliff:trans-unit><xliff:trans-unit id="41290"><xliff:source>Barbarian Outpost</xliff:source><xliff:target state="translated">蛮族の前哨基地</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note></xliff:trans-unit><xliff:trans-unit id="41291"><xliff:source>Corporeal Beast</xliff:source><xliff:target state="translated">コーポリアル獣</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note></xliff:trans-unit><xliff:trans-unit id="41292"><xliff:source>Tears of Guthix</xliff:source><xliff:target state="translated">ガシックスの涙</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note></xliff:trans-unit><xliff:trans-unit id="41293"><xliff:source>Wintertodt Camp</xliff:source><xliff:target state="translated">ウィンタートッド・キャンプ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note></xliff:trans-unit><xliff:trans-unit id="41294"><xliff:source>Surrender</xliff:source><xliff:target state="translated">降伏</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Hooded cloak
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4041</xliff:note></xliff:trans-unit><xliff:trans-unit id="41295"><xliff:source>Fling</xliff:source><xliff:target state="translated">投げる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Easter basket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4565</xliff:note></xliff:trans-unit><xliff:trans-unit id="41296"><xliff:source>Teleport</xliff:source><xliff:target state="translated">ワープ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Camulet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6707</xliff:note></xliff:trans-unit><xliff:trans-unit id="41297"><xliff:source>Geomancy</xliff:source><xliff:target state="translated">ジェオマンシー</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Watering can
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6797</xliff:note></xliff:trans-unit><xliff:trans-unit id="41298"><xliff:source>Boost</xliff:source><xliff:target state="translated">ブースト</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Attack cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9747</xliff:note></xliff:trans-unit><xliff:trans-unit id="41299"><xliff:source>Warriors' Guild</xliff:source><xliff:target state="translated">戦士ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Strength cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9750</xliff:note></xliff:trans-unit><xliff:trans-unit id="41300"><xliff:source>Check Totals</xliff:source><xliff:target state="translated">合計値を確認</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Butterfly net
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10010</xliff:note></xliff:trans-unit><xliff:trans-unit id="41301"><xliff:source>Prance</xliff:source><xliff:target state="translated">跳ねる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Reindeer hat
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10507</xliff:note></xliff:trans-unit><xliff:trans-unit id="41302"><xliff:source>Farming Guild</xliff:source><xliff:target state="translated">農業ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note></xliff:trans-unit><xliff:trans-unit id="41303"><xliff:source>Mining Guild</xliff:source><xliff:target state="translated">採掘ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note></xliff:trans-unit><xliff:trans-unit id="41304"><xliff:source>Crafting Guild</xliff:source><xliff:target state="translated">工作ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note></xliff:trans-unit><xliff:trans-unit id="41305"><xliff:source>Cooking Guild</xliff:source><xliff:target state="translated">料理ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note></xliff:trans-unit><xliff:trans-unit id="41306"><xliff:source>Woodcutting Guild</xliff:source><xliff:target state="translated">木こりギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note></xliff:trans-unit><xliff:trans-unit id="41307"><xliff:source>Champions' Guild</xliff:source><xliff:target state="translated">チャンピオン・ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Combat bracelet(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41308"><xliff:source>Monastery</xliff:source><xliff:target state="translated">修道院</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Combat bracelet(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41309"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">弓ギルド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Combat bracelet(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41310"><xliff:source>Fossil Island</xliff:source><xliff:target state="translated">化石島</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Digsite pendant (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11190</xliff:note></xliff:trans-unit><xliff:trans-unit id="41311"><xliff:source>Lithkren Dungeon</xliff:source><xliff:target state="translated">リスクレン・ダンジョン</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Digsite pendant (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11190</xliff:note></xliff:trans-unit><xliff:trans-unit id="41312"><xliff:source>Digsite</xliff:source><xliff:target state="translated">発掘現場</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Digsite pendant (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11190</xliff:note></xliff:trans-unit><xliff:trans-unit id="41313"><xliff:source>Master</xliff:source><xliff:target state="translated">達人</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note></xliff:trans-unit><xliff:trans-unit id="41314"><xliff:source>Miscellania</xliff:source><xliff:target state="translated">ミセラニア</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note></xliff:trans-unit><xliff:trans-unit id="41315"><xliff:source>Falador</xliff:source><xliff:target state="translated">ファラドー</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note></xliff:trans-unit><xliff:trans-unit id="41316"><xliff:source>Dondakan</xliff:source><xliff:target state="translated">ドンダカン</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note></xliff:trans-unit><xliff:trans-unit id="41317"><xliff:source>Boss Log</xliff:source><xliff:target state="translated">ボスログ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note></xliff:trans-unit><xliff:trans-unit id="41318"><xliff:source>Coin Collection</xliff:source><xliff:target state="translated">コイン回収</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note></xliff:trans-unit><xliff:trans-unit id="41319"><xliff:source>Tip</xliff:source><xliff:target state="translated">傾ける</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Fedora
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11990</xliff:note></xliff:trans-unit><xliff:trans-unit id="41320"><xliff:source>Basic Reanimation</xliff:source><xliff:target state="translated">基本蘇生術</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Easter
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11997</xliff:note></xliff:trans-unit><xliff:trans-unit id="41321"><xliff:source>Check Rank</xliff:source><xliff:target state="translated">ランクを確認</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Druidic wreath
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12600</xliff:note></xliff:trans-unit><xliff:trans-unit id="41322"><xliff:source>Ectofuntus Pit</xliff:source><xliff:target state="translated">エクトファンタスのピット</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Morytania legs 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13112</xliff:note></xliff:trans-unit><xliff:trans-unit id="41323"><xliff:source>Burgh de Rott</xliff:source><xliff:target state="translated">バーグ・ドゥ・ロット</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Morytania legs 3
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13114</xliff:note></xliff:trans-unit><xliff:trans-unit id="41324"><xliff:source>Recharge Prayer</xliff:source><xliff:target state="translated">祈力を回復</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Falador shield 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13117</xliff:note></xliff:trans-unit><xliff:trans-unit id="41325"><xliff:source>Kandarin Monastery</xliff:source><xliff:target state="translated">カンダリン修道院</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ardougne cloak 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13121</xliff:note></xliff:trans-unit><xliff:trans-unit id="41326"><xliff:source>Ardougne Farm</xliff:source><xliff:target state="translated">アルドイン農場</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ardougne cloak 2
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13122</xliff:note></xliff:trans-unit><xliff:trans-unit id="41327"><xliff:source>Fishing Teleports</xliff:source><xliff:target state="translated">釣り場ワープ地点</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note></xliff:trans-unit><xliff:trans-unit id="41328"><xliff:source>POH Portals</xliff:source><xliff:target state="translated">家ポータル</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note></xliff:trans-unit><xliff:trans-unit id="41329"><xliff:source>Other Teleports</xliff:source><xliff:target state="translated">その他のワープ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note></xliff:trans-unit><xliff:trans-unit id="41330"><xliff:source>Xeric's Lookout</xliff:source><xliff:target state="translated">ゼリックの見張り</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note></xliff:trans-unit><xliff:trans-unit id="41331"><xliff:source>Xeric's Glade</xliff:source><xliff:target state="translated">ゼリックの空地</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note></xliff:trans-unit><xliff:trans-unit id="41332"><xliff:source>Xeric's Inferno</xliff:source><xliff:target state="translated">ゼリックの猛火</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note></xliff:trans-unit><xliff:trans-unit id="41333"><xliff:source>Xeric's Heart</xliff:source><xliff:target state="translated">ゼリックの中心</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note></xliff:trans-unit><xliff:trans-unit id="41334"><xliff:source>Xeric's Honour</xliff:source><xliff:target state="translated">ゼリックの名誉</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note></xliff:trans-unit><xliff:trans-unit id="41335"><xliff:source>Check Charges</xliff:source><xliff:target state="translated">チャージ確認</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Chronicle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13660</xliff:note></xliff:trans-unit><xliff:trans-unit id="41336"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">標的へワープ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Dead orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=17152</xliff:note></xliff:trans-unit><xliff:trans-unit id="41337"><xliff:source>Recoil Settings</xliff:source><xliff:target state="translated">反射の設定</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of suffering (r)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20655</xliff:note></xliff:trans-unit><xliff:trans-unit id="41338"><xliff:source>The Outpost</xliff:source><xliff:target state="translated">前哨基地</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Necklace of passage(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21146</xliff:note></xliff:trans-unit><xliff:trans-unit id="41339"><xliff:source>Eagles' Eyrie</xliff:source><xliff:target state="translated">ワシの巣</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Necklace of passage(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21146</xliff:note></xliff:trans-unit><xliff:trans-unit id="41340"><xliff:source>Wizards' Tower</xliff:source><xliff:target state="translated">魔法使いの塔</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Necklace of passage(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21146</xliff:note></xliff:trans-unit><xliff:trans-unit id="41341"><xliff:source>Bandit Camp</xliff:source><xliff:target state="translated">盗賊のキャンプ地</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Burning amulet(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21166</xliff:note></xliff:trans-unit><xliff:trans-unit id="41342"><xliff:source>Lava Maze</xliff:source><xliff:target state="translated">溶岩の迷路</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Burning amulet(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21166</xliff:note></xliff:trans-unit><xliff:trans-unit id="41343"><xliff:source>Chaos Temple</xliff:source><xliff:target state="translated">混沌の寺院</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Burning amulet(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21166</xliff:note></xliff:trans-unit><xliff:trans-unit id="41344"><xliff:source>Throw-water north</xliff:source><xliff:target state="translated">北に水を投げる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note></xliff:trans-unit><xliff:trans-unit id="41345"><xliff:source>Throw-water east</xliff:source><xliff:target state="translated">東に水を投げる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note></xliff:trans-unit><xliff:trans-unit id="41346"><xliff:source>Throw-water south</xliff:source><xliff:target state="translated">南に水を投げる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note></xliff:trans-unit><xliff:trans-unit id="41347"><xliff:source>Throw-water west</xliff:source><xliff:target state="translated">西に水を投げる</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note></xliff:trans-unit><xliff:trans-unit id="41348"><xliff:source>Recharge</xliff:source><xliff:target state="translated">チャージ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ancient wyvern shield
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21633</xliff:note></xliff:trans-unit><xliff:trans-unit id="41349"><xliff:source>Lunch by the Lancalliums</xliff:source><xliff:target state="translated">ランカリウムの隣で昼食</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note></xliff:trans-unit><xliff:trans-unit id="41350"><xliff:source>The Fisher's Flute</xliff:source><xliff:target state="translated">釣り人のフルート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note></xliff:trans-unit><xliff:trans-unit id="41351"><xliff:source>History and Hearsay</xliff:source><xliff:target state="translated">歴史と伝聞</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note></xliff:trans-unit><xliff:trans-unit id="41352"><xliff:source>Jewellery of Jubilation</xliff:source><xliff:target state="translated">歓喜の宝石</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note></xliff:trans-unit><xliff:trans-unit id="41353"><xliff:source>A Dark Disposition</xliff:source><xliff:target state="translated">暗黒の気質</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note></xliff:trans-unit><xliff:trans-unit id="41354"><xliff:source>Toggle absorption</xliff:source><xliff:target state="translated">吸収の切り替え</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Bracelet of ethereum
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21816</xliff:note></xliff:trans-unit><xliff:trans-unit id="41355"><xliff:source>Slash</xliff:source><xliff:target state="translated">切り裂く</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Prop sword
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22316</xliff:note></xliff:trans-unit><xliff:trans-unit id="41356"><xliff:source>Trophy Emote</xliff:source><xliff:target state="translated">トロフィーのエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Twisted dragon trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24372</xliff:note></xliff:trans-unit><xliff:trans-unit id="41357"><xliff:source>Twisted Relic Emote</xliff:source><xliff:target state="translated">ツイステッド・リーグのエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Twisted cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24395</xliff:note></xliff:trans-unit><xliff:trans-unit id="41358"><xliff:source>Use</xliff:source><xliff:target state="translated">使う</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Plank sack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24882</xliff:note></xliff:trans-unit><xliff:trans-unit id="41359"><xliff:source>Open-All</xliff:source><xliff:target state="translated">全て開く</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Supply crate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24884</xliff:note></xliff:trans-unit><xliff:trans-unit id="41360"><xliff:source>Trailblazer Relic Emote</xliff:source><xliff:target state="translated">トレールブレイザー・リーグのエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Trailblazer cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25013</xliff:note></xliff:trans-unit><xliff:trans-unit id="41361"><xliff:source>Trailblazer Area Emote</xliff:source><xliff:target state="translated">トレールブレイザー区域のエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Trailblazer cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25013</xliff:note></xliff:trans-unit><xliff:trans-unit id="41362"><xliff:source>Fairy-Ring</xliff:source><xliff:target state="translated">妖精の輪</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note></xliff:trans-unit><xliff:trans-unit id="41363"><xliff:source>Spirit-tree</xliff:source><xliff:target state="translated">精霊樹</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note></xliff:trans-unit><xliff:trans-unit id="41364"><xliff:source>Tool-leprechauns</xliff:source><xliff:target state="translated">農具のレプラコーン</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note></xliff:trans-unit><xliff:trans-unit id="41365"><xliff:source>Skill Emote</xliff:source><xliff:target state="translated">スキルのエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note></xliff:trans-unit><xliff:trans-unit id="41366"><xliff:source>Boss Emote</xliff:source><xliff:target state="translated">ボスのエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note></xliff:trans-unit><xliff:trans-unit id="41367"><xliff:source>Quest Emote</xliff:source><xliff:target state="translated">クエストのエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note></xliff:trans-unit><xliff:trans-unit id="41368"><xliff:source>Fragment Emote</xliff:source><xliff:target state="translated">破片のエモート</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note></xliff:trans-unit><xliff:trans-unit id="41369"><xliff:source>Air Altar</xliff:source><xliff:target state="translated">大気の祭壇</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41370"><xliff:source>Water Altar</xliff:source><xliff:target state="translated">水の祭壇</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41371"><xliff:source>Earth Altar</xliff:source><xliff:target state="translated">土の祭壇</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41372"><xliff:source>Fire Altar</xliff:source><xliff:target state="translated">火の祭壇</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41373"><xliff:source>Jalsavrah</xliff:source><xliff:target state="translated">ジャルサヴラー</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note></xliff:trans-unit><xliff:trans-unit id="41374"><xliff:source>Jaleustrophos</xliff:source><xliff:target state="translated">ジャルストロフォス</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note></xliff:trans-unit><xliff:trans-unit id="41375"><xliff:source>Jaldraocht</xliff:source><xliff:target state="translated">ジャルドラオッチ</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note></xliff:trans-unit><xliff:trans-unit id="41376"><xliff:source>Jaltevas</xliff:source><xliff:target state="translated">ジャルテヴァス</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note></xliff:trans-unit><xliff:trans-unit id="41377"><xliff:source>Accept trick-or-treat</xliff:source><xliff:target state="translated">トリック・オア・トリートを受け取る</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Treat cauldron
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27463</xliff:note></xliff:trans-unit><xliff:trans-unit id="41378"><xliff:source>Ancient Vault</xliff:source><xliff:target state="translated">古代の金庫</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41379"><xliff:source>Ghorrock Dungeon</xliff:source><xliff:target state="translated">ゴロック・ダンジョン</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41380"><xliff:source>The Scar</xliff:source><xliff:target state="translated">ザ・スカー</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41381"><xliff:source>Lassar Undercity</xliff:source><xliff:target state="translated">ラサーの地下都市</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41382"><xliff:source>The Stranglewood</xliff:source><xliff:target state="translated">ストラングルウッド</xliff:target><xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

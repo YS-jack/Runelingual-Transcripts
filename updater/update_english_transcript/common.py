@@ -31,6 +31,7 @@ OBJECT_EXAMINE_VAR_NAME = "examine"
 ITEM_OPTION_VAR_NAME = "inventoryActions"
 NPC_OPTION_VAR_NAME = "actions"
 OBJECT_OPTION_VAR_NAME = "actions"
+ITEM_GROUND_OPTION_VAR_NAME = "actions"
 
 NPC_DIALOGUE_VAR_NAME = "dialogue"
 LEVEL_UP_VAR_NAME = "lvl_up_msg"

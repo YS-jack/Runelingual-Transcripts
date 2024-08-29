@@ -7,10 +7,10 @@ Burthorpe Games Room		manual	activity
 Nightmare Zone		manual	activity	
 Pest Control		manual	activity	
 Rat Pits		manual	activity	
-Shades of Mort'ton		manual	activity	
+Shades of Mort'ton	モートンの陰	manual	activity	
 Trouble Brewing		manual	activity	
 TzHaar Fight Pit		manual	activity	
-Shield of Arrav		manual	activity	
+Shield of Arrav	アラヴの盾	manual	activity	
 Clan Wars		manual	activity	
 Giants' Foundry		manual	activity	
 God Wars		manual	activity	
@@ -175,7 +175,7 @@ Arceuus	アルセウス	manual	location
 Lovakengj		manual	location	
 Piscarilius		manual	location	
 Al Kharid	アル・カリッド	manual	location	
-Burgh de Rott		manual	location	
+Burgh de Rott	バーグ・ドゥ・ロット	manual	location	
 Burthorpe	バーソープ	manual	location	
 Canifis		manual	location	
 Kharidian Desert		manual	location	
@@ -202,12 +202,12 @@ Port Piscarilius	ピスカリリウス港へ移動	manual	location
 Piscatoris		manual	location	
 Port Sarim	サリム港へ移動	manual	location	
 Seers' Village	シアーズ村	manual	location	
-Shilo Village		manual	location	
+Shilo Village	シャイロ村	manual	location	
 Silvarea		manual	location	
 Slepe	スレペ	manual	location	
 Sophanem		manual	location	
 Tai Bwo Wannai		manual	location	
-Tree Gnome Village		manual	location	
+Tree Gnome Village	ツリー・ノームの村	manual	location	
 Troll Stronghold	トロール要塞	manual	location	
 Witchaven		manual	location	
 Civitas illa Fortis	シビリタス・イラ・フォーチス	manual	location	
@@ -229,7 +229,7 @@ Waterbirth Island	ウオーターバース島	manual	location
 Lizardman Canyon		manual	location	
 Lizardman Settlement		manual	location	
 Smoke Devil Dungeon		manual	location	
-Death Plateau		manual	location	
+Death Plateau	死の高原	manual	location	
 South of Mount Quidamortem		manual	location	
 Fremennik Slayer Dungeon		manual	location	
 Myths' Guild Dungeon		manual	location	
@@ -271,7 +271,7 @@ Corsair Cove		manual	location
 Shayzien Graveyard of Heroes		manual	location	
 Southern coast of Hosidius		manual	location	
 Draynor Manor cellar		manual	location	
-Wizards' Tower		manual	location	
+Wizards' Tower	魔法使いの塔	manual	location	
 Ardougne Rat Pits		manual	location	
 The Kendal's cave		manual	location	
 Ruins of Uzer		manual	location	
@@ -284,8 +284,8 @@ Mos Le'Harmless Cave		manual	location
 Coronation ceremony during A Kingdom Divided.		manual	location	
 Fight with the Giant Roc during My Arm's Big Adventure.		manual	location	
 Scorpia's cave beneath the Scorpion Pit.		manual	location	
-Beneath Cursed Sands		manual	location	
-Perilous Moons		manual	location	
+Beneath Cursed Sands	呪われた砂の下	manual	location	
+Perilous Moons	危険な月々	manual	location	
 PvP Arena	PvPアリーナ	manual	location	
 Castle Wars	キャッスル・ウォーズ	manual	location	
 Ferox Enclave	フェロックス・オンクレーブ	manual	location	
@@ -326,7 +326,7 @@ Wander		manual	music
 in Draynor Village.		manual	music	
 Warpath		manual	music	
 during the Clan Wars minigame.		manual	music	
-Song of the Elves		manual	music	
+Song of the Elves	エルフの歌	manual	music	
 during the Song of the Elves quest.		manual	music	
 What Happens Below...		manual	music	
 in the Warrens.		manual	music	
@@ -361,7 +361,7 @@ Wild Isle		manual	music
 in the Wilderness.		manual	music	
 Wild Side		manual	music	
 Wilderness		manual	music	
-Revenants		manual	music	
+Revenants	幽鬼	manual	music	
 in the Revenant Caves.		manual	music	
 Wilderness 		manual	music	
 Wildwood		manual	music	
@@ -418,7 +418,7 @@ on Harmony Island.		manual	music
 Old Ones, The		manual	music	
 The Old Ones		manual	music	
 during The Garden of Death quest.		manual	music	
-Secrets of the North		manual	music	
+Secrets of the North	北陸の秘密	manual	music	
 during the Secrets of the North quest.		manual	music	
 In the Shadows		manual	music	
 More Than Meets the Eye		manual	music	
@@ -437,7 +437,7 @@ Blood Rush	ブラッド・ラッシュ	manual	music
 Song of the Silent Choir		manual	music	
 Unturned Stones		manual	music	
 Master of Puppets		manual	music	
-His Faithful Servants		manual	music	
+His Faithful Servants	あの方の忠実な従者達	manual	music	
 Tick Tock		manual	music	
 Strangled	絞殺された者	manual	music	
 Bolrie's Diary		manual	music	
@@ -449,7 +449,7 @@ Storeroom Shuffle		manual	music
 Terrorbird Tussle		manual	music	
 Waste Defaced		manual	music	
 Dot's Yuletide		manual	music	
-Children of the Sun		manual	music	
+Children of the Sun	太陽の子	manual	music	
 during the Children of the Sun quest.		manual	music	
 Plots and Plans		manual	music	
 Burning Sun, The		manual	music	
@@ -480,542 +480,542 @@ during the Perilous Moons quest.		manual	music
 Lost to Time		manual	music	
 Sunny Side Up		manual	music	
 during the Easter  Holiday Event.		manual	music	
-Animal Magnetism		manual	quest	
+Animal Magnetism	動物の磁性	manual	quest	
 Learn how to equip Ava's ranged devices.		manual	quest	
-Another Slice of H.A.M.		manual	quest	
+Another Slice of H.A.M.	もう１スライスのH.A.M	manual	quest	
 Learn how to use the Goblin Village teleport spheres.		manual	quest	
-Ascent of Arceuus, The		manual	quest	
-The Ascent of Arceuus		manual	quest	
+Ascent of Arceuus, The	アルセウスの昇天	manual	quest	
+The Ascent of Arceuus	アルセウスの昇天	manual	quest	
 Gain the Arceuus Memoirs teleport.		manual	quest	
-Alfred Grimhand's Barcrawl		manual	quest	
+Alfred Grimhand's Barcrawl	アルフレッド・グイムハンドのバー巡り	manual	quest	
 Embark on a Barbarian rite of passage.		manual	quest	
-Bear Your Soul		manual	quest	
+Bear Your Soul	魂をさらけ出す	manual	quest	
 Gain the Soul Bearer.		manual	quest	
-Below Ice Mountain		manual	quest	
+Below Ice Mountain	氷山の地下	manual	quest	
 Gain access to the Ruins of Camdozaal.		manual	quest	
-Between a Rock...		manual	quest	
+Between a Rock...	岩の間に・・・	manual	quest	
 Gain access to the Arzinian Gold Mine.		manual	quest	
-Big Chompy Bird Hunting		manual	quest	
+Big Chompy Bird Hunting	大チョンピー鳥狩り	manual	quest	
 Learn how to hunt Chompy Birds.		manual	quest	
-Biohazard		manual	quest	
+Biohazard	バイオハザード	manual	quest	
 Unlock the West Ardougne teleport spell.		manual	quest	
-Black Knights' Fortress		manual	quest	
+Black Knights' Fortress	黒騎士の要塞	manual	quest	
 Assist the White Knights with their investigation.		manual	quest	
-Bone Voyage		manual	quest	
+Bone Voyage	骨の航海	manual	quest	
 Gain access to Fossil Island.		manual	quest	
-Cabin Fever		manual	quest	
+Cabin Fever	船室病	manual	quest	
 Gain access to Mos'LeHarmless.		manual	quest	
-Client of Kourend		manual	quest	
+Client of Kourend	クーレンドの顧客	manual	quest	
 Gain Kharedst's Memoirs.		manual	quest	
-Clock Tower		manual	quest	
+Clock Tower	時計塔	manual	quest	
 Help Brother Kojo repair the Clock Tower.		manual	quest	
-Cold War		manual	quest	
+Cold War	冷戦	manual	quest	
 Gain access to the Penguin Agility Course.		manual	quest	
-Contact!		manual	quest	
+Contact!	接触！	manual	quest	
 Gain the Keris dagger.		manual	quest	
-Cook's Assistant		manual	quest	
+Cook's Assistant	料理人の助手	manual	quest	
 Help the Lumbridge Castle Cook out of his baking bind.		manual	quest	
-Corsair Curse, The		manual	quest	
-The Corsair Curse		manual	quest	
+Corsair Curse, The	私掠戦の呪い	manual	quest	
+The Corsair Curse	私掠戦の呪い	manual	quest	
 Gain access to the Corsair Cove Bank.		manual	quest	
-Creature of Fenkenstrain		manual	quest	
+Creature of Fenkenstrain	フェンケンストレインの生物	manual	quest	
 Gain a Ring of Charos.		manual	quest	
-Curse of the Empty Lord		manual	quest	
+Curse of the Empty Lord	虚無の主の呪い	manual	quest	
 Gain a set of Ghostly Robes.		manual	quest	
-Daddy's Home		manual	quest	
+Daddy's Home	父の家	manual	quest	
 Learn about the Construction skill.		manual	quest	
-Darkness of Hallowvale		manual	quest	
+Darkness of Hallowvale	ハローヴァールの闇	manual	quest	
 Learn the reverse Temple Trekking routes.		manual	quest	
-Death Plateau		manual	quest	
+Death Plateau	死の高原	manual	quest	
 Gain a set of Climbing Boots.		manual	quest	
-Death to the Dorgeshuun		manual	quest	
+Death to the Dorgeshuun	ドーゲシューンに死を	manual	quest	
 Gain access to the H.A.M Store Room.		manual	quest	
-Demon Slayer		manual	quest	
+Demon Slayer	デーモン・スレイヤー	manual	quest	
 Face your destiny in Varrock.		manual	quest	
-Depths of Despair, The		manual	quest	
-The Depths of Despair		manual	quest	
+Depths of Despair, The	絶望の底	manual	quest	
+The Depths of Despair	絶望の底	manual	quest	
 Gain the Hosidius Memoirs teleport.		manual	quest	
-Desert Treasure I		manual	quest	
+Desert Treasure I	砂漠の宝１	manual	quest	
 Learn how to use the Ancient Magicks.		manual	quest	
-Devious Minds		manual	quest	
-Dig Site, The		manual	quest	
-The Dig Site		manual	quest	
+Devious Minds	狡猾な心	manual	quest	
+Dig Site, The	発掘現場	manual	quest	
+The Dig Site	発掘現場	manual	quest	
 Learn how to clean specimens in Varrock Museum.		manual	quest	
-Doric's Quest		manual	quest	
+Doric's Quest	ドリックのクエスト	manual	quest	
 Gain early game Mining XP.		manual	quest	
-Dragon Slayer I		manual	quest	
+Dragon Slayer I	ドラゴン・スレイヤー１	manual	quest	
 Learn how to equip Rune and Dragon Platebodies.		manual	quest	
-Dragon Slayer II		manual	quest	
+Dragon Slayer II	ドラゴン・スレイヤー２	manual	quest	
 Gain great XP and access to the Myth's Guild.		manual	quest	
-Dream Mentor		manual	quest	
+Dream Mentor	夢のメンター	manual	quest	
 Learn how to cast more Lunar spells.		manual	quest	
-Druidic Ritual		manual	quest	
+Druidic Ritual	ドルイドの儀式	manual	quest	
 Unlock the Herblore skill.		manual	quest	
-Dwarf Cannon		manual	quest	
+Dwarf Cannon	ドワーフ・キャノン	manual	quest	
 Learn how to use a Dwarf Multicannons.		manual	quest	
-Eadgar's Ruse		manual	quest	
+Eadgar's Ruse	エドガーの策略	manual	quest	
 Learn how to grow and steal Goutweed.		manual	quest	
-Eagles' Peak		manual	quest	
+Eagles' Peak	ワシの峰	manual	quest	
 Gain access to the Eagle transportation and Box Traps.		manual	quest	
-Elemental Workshop I		manual	quest	
+Elemental Workshop I	エレメント工房１	manual	quest	
 Rediscover the knowledge hidden in Seers' Village.		manual	quest	
-Elemental Workshop II		manual	quest	
+Elemental Workshop II	エレメント工房２	manual	quest	
 Learn how to equip Mind equipment.		manual	quest	
-Enakhra's Lament		manual	quest	
+Enakhra's Lament	得なくらの嘆き	manual	quest	
 Gain a Camulet.		manual	quest	
-Enchanted Key, The		manual	quest	
-The Enchanted Key		manual	quest	
+Enchanted Key, The	魔法のカギ	manual	quest	
+The Enchanted Key	魔法のカギ	manual	quest	
 Hunt for hidden treasure using the Enchanted Key.		manual	quest	
-Enlightened Journey		manual	quest	
+Enlightened Journey	悟りの旅	manual	quest	
 Gain access to the Balloon transportation.		manual	quest	
-Enter the Abyss		manual	quest	
+Enter the Abyss	深淵へ	manual	quest	
 Gain access to the Abyss.		manual	quest	
-Ernest the Chicken		manual	quest	
+Ernest the Chicken	ニワトリのアーネスト	manual	quest	
 Investigate the whereabouts of Ernest.		manual	quest	
-Eyes of Glouphrie, The		manual	quest	
-The Eyes of Glouphrie		manual	quest	
+Eyes of Glouphrie, The	グルフリーの目	manual	quest	
+The Eyes of Glouphrie	グルフリーの目	manual	quest	
 Gain a Crystal Saw Seed.		manual	quest	
-Fairytale I - Growing Pains		manual	quest	
+Fairytale I - Growing Pains	フェアリーテール１：成長する痛み	manual	quest	
 Learn how to teleport using Fairy Rings (start Fairytale II).		manual	quest	
-Fairytale II - Cure a Queen		manual	quest	
+Fairytale II - Cure a Queen	フェアリーテール２	manual	quest	
 Investigate what's really going on in Zanaris.		manual	quest	
-Family Crest		manual	quest	
+Family Crest	家紋	manual	quest	
 Gain Skill-imbued Gauntlets.		manual	quest	
-Family Pest		manual	quest	
+Family Pest	家族の厄介者	manual	quest	
 Gain the ability to own all Skill-imbued Gauntlets.		manual	quest	
-Feud, The		manual	quest	
-The Feud		manual	quest	
+Feud, The	確執	manual	quest	
+The Feud	確執	manual	quest	
 Learn how to use a Blackjack.		manual	quest	
-Fight Arena		manual	quest	
+Fight Arena	闘技場	manual	quest	
 Gain the Khazard armour.		manual	quest	
-Fishing Contest		manual	quest	
+Fishing Contest	釣りコンテスト	manual	quest	
 Gain access to White Wolf Mountain Pass.		manual	quest	
-Forgettable Tale...		manual	quest	
-Forsaken Tower, The		manual	quest	
-The Forsaken Tower		manual	quest	
+Forgettable Tale...	忘れがちな物語	manual	quest	
+Forsaken Tower, The	放棄された塔	manual	quest	
+The Forsaken Tower	放棄された塔	manual	quest	
 Gain the Lovakengj Memoirs teleport.		manual	quest	
-Fremennik Exiles, The		manual	quest	
-The Fremennik Exiles		manual	quest	
+Fremennik Exiles, The	フレメニックの追放者	manual	quest	
+The Fremennik Exiles	フレメニックの追放者	manual	quest	
 Gain a V's Shield.		manual	quest	
-Fremennik Isles, The		manual	quest	
-The Fremennik Isles		manual	quest	
+Fremennik Isles, The	フレメニックの島々	manual	quest	
+The Fremennik Isles	フレメニックの島々	manual	quest	
 Gain a Helm of Neitiznot.		manual	quest	
-Fremennik Trials, The		manual	quest	
-The Fremennik Trials		manual	quest	
+Fremennik Trials, The	フレメニックの試験	manual	quest	
+The Fremennik Trials	フレメニックの試験	manual	quest	
 Gain great XP in several skills.		manual	quest	
-Garden of Tranquillity		manual	quest	
+Garden of Tranquillity	静寂の庭	manual	quest	
 Gain an Activated Ring of Charos.		manual	quest	
-General's Shadow, The		manual	quest	
-The General's Shadow		manual	quest	
+General's Shadow, The	将軍の影	manual	quest	
+The General's Shadow	将軍の影	manual	quest	
 Gain the Shadow Sword.		manual	quest	
-Gertrude's Cat		manual	quest	
+Gertrude's Cat	ゲートルードのネコ	manual	quest	
 Gain a pet Kitten.		manual	quest	
-Getting Ahead		manual	quest	
+Getting Ahead	先頭に立つ	manual	quest	
 Help Gordon protect his farm.		manual	quest	
-Ghosts Ahoy		manual	quest	
+Ghosts Ahoy	幽霊さんヤッホー	manual	quest	
 Gain access to Ectophial teleportation.		manual	quest	
-Giant Dwarf, The		manual	quest	
-The Giant Dwarf		manual	quest	
+Giant Dwarf, The	巨大なドワーフ	manual	quest	
+The Giant Dwarf	巨大なドワーフ	manual	quest	
 Learn how to travel by minecart.		manual	quest	
-Goblin Diplomacy		manual	quest	
+Goblin Diplomacy	ゴブリンとの外交	manual	quest	
 Investigate the disturbance in Goblin Village.		manual	quest	
-Golem, The		manual	quest	
-The Golem		manual	quest	
+Golem, The	ザ・ゴーレム	manual	quest	
+The Golem	ザ・ゴーレム	manual	quest	
 Gain access to the Carpet rides to Uzer.		manual	quest	
-Grand Tree, The		manual	quest	
-The Grand Tree		manual	quest	
+Grand Tree, The	グランド・ツリー	manual	quest	
+The Grand Tree	グランド・ツリー	manual	quest	
 Gain access to the Gnome Glider transportation.		manual	quest	
-Great Brain Robbery, The		manual	quest	
-The Great Brain Robbery		manual	quest	
+Great Brain Robbery, The	大脳みそ大泥棒	manual	quest	
+The Great Brain Robbery	大脳みそ大泥棒	manual	quest	
 Gain a Barrelchest Anchor.		manual	quest	
-Grim Tales		manual	quest	
+Grim Tales	残酷な物語	manual	quest	
 Hand in the Sand, The		manual	quest	
-The Hand in the Sand		manual	quest	
+The Hand in the Sand	砂の中の手	manual	quest	
 Gain access to the Wizards' Guild Rune Shop.		manual	quest	
-Haunted Mine		manual	quest	
+Haunted Mine	呪われた採掘現場	manual	quest	
 Gain a Salve Amulet.		manual	quest	
-Hazeel Cult		manual	quest	
+Hazeel Cult	ヘーゼル・カルト	manual	quest	
 Gain the Carnillean armour.		manual	quest	
-Heroes' Quest		manual	quest	
+Heroes' Quest	ヒーロー・クエスト	manual	quest	
 Learn how to wield Dragon Battleaxes and Maces.		manual	quest	
-Holy Grail		manual	quest	
+Holy Grail	聖杯	manual	quest	
 Gain great Prayer and Defence XP.		manual	quest	
-Horror from the Deep		manual	quest	
+Horror from the Deep	深淵の恐怖	manual	quest	
 Gain a God book.		manual	quest	
-Icthlarin's Little Helper		manual	quest	
+Icthlarin's Little Helper	イクスラリンの小さな助手	manual	quest	
 Gain access to Sophanem.		manual	quest	
-Imp Catcher		manual	quest	
+Imp Catcher	小悪魔捕り	manual	quest	
 Gain early game Magic XP.		manual	quest	
-In Aid of the Myreque		manual	quest	
+In Aid of the Myreque	マイラークを助けるために	manual	quest	
 Gain access to the Temple Trekking minigame.		manual	quest	
-In Search of Knowledge		manual	quest	
+In Search of Knowledge	知識を求めて	manual	quest	
 Gain an XP Lamp.		manual	quest	
-In Search of the Myreque		manual	quest	
+In Search of the Myreque	マイラークを探せ	manual	quest	
 Start the Myreque storyline.		manual	quest	
-Jungle Potion		manual	quest	
+Jungle Potion	ジャングル・ポーション	manual	quest	
 Assist Trufitus Shakaya with his ritual.		manual	quest	
-Kingdom Divided, A		manual	quest	
-A Kingdom Divided		manual	quest	
+Kingdom Divided, A	分裂した王国	manual	quest	
+A Kingdom Divided	分裂した王国	manual	quest	
 Learn how to cast Resurrection spells.		manual	quest	
-King's Ransom		manual	quest	
+King's Ransom	王の身代金	manual	quest	
 Learn how to use the Chivalry and Piety prayers.		manual	quest	
-Knight's Sword, The		manual	quest	
-The Knight's Sword		manual	quest	
+Knight's Sword, The	騎士の剣	manual	quest	
+The Knight's Sword	騎士の剣	manual	quest	
 Gain great Smithing XP.		manual	quest	
-Lair of Tarn Razorlor		manual	quest	
+Lair of Tarn Razorlor	ターン・ラゾローの隠れ家	manual	quest	
 Gain an enchanted Salve Amulet.		manual	quest	
-Legends' Quest		manual	quest	
+Legends' Quest	レジェンド・クエスト	manual	quest	
 Gain access to the Legend's Guild.		manual	quest	
-Lost City		manual	quest	
+Lost City	失われた都市	manual	quest	
 Gain access to Zanaris.		manual	quest	
-Lost Tribe, The		manual	quest	
-The Lost Tribe		manual	quest	
+Lost Tribe, The	失われた部族	manual	quest	
+The Lost Tribe	失われた部族	manual	quest	
 Gain access to the Bone Weapon Shop.		manual	quest	
-Lunar Diplomacy		manual	quest	
+Lunar Diplomacy	ルーナ族との外交	manual	quest	
 Learn how to cast Lunar spells.		manual	quest	
-Mage Arena I		manual	quest	
+Mage Arena I	魔術師アリーナ１	manual	quest	
 Unlock the God spells.		manual	quest	
-Mage Arena II		manual	quest	
+Mage Arena II	魔術師アリーナ２	manual	quest	
 Learn how to imbue the God Capes.		manual	quest	
-Making Friends with My Arm		manual	quest	
+Making Friends with My Arm	おいらの腕と友達に	manual	quest	
 Gain great XP and a disease-free herb patch.		manual	quest	
-Making History		manual	quest	
+Making History	歴史を作る	manual	quest	
 Help Jorral restore a historic location.		manual	quest	
-Merlin's Crystal		manual	quest	
+Merlin's Crystal	マーリンの水晶	manual	quest	
 Assist King Arthur in Camelot.		manual	quest	
-Misthalin Mystery		manual	quest	
-Monkey Madness I		manual	quest	
+Misthalin Mystery	ミスサリンの謎	manual	quest	
+Monkey Madness I	サルの狂気１	manual	quest	
 Learn how to wield Dragon Scimitars.		manual	quest	
-Monkey Madness II		manual	quest	
+Monkey Madness II	サルの狂気２	manual	quest	
 Gain great XP and a Royal Seed Pod.		manual	quest	
-Monk's Friend		manual	quest	
+Monk's Friend	僧侶の友達	manual	quest	
 Gain early game Woodcutting XP.		manual	quest	
-Mountain Daughter		manual	quest	
+Mountain Daughter	山の娘	manual	quest	
 Help the people of the Mountain Tribe.		manual	quest	
-Mourning's End Part I		manual	quest	
+Mourning's End Part I	哀悼の終わり　パート１	manual	quest	
 Gain great Hitpoint and Thieving XP.		manual	quest	
-Mourning's End Part II		manual	quest	
+Mourning's End Part II	哀悼の終わり　パート２	manual	quest	
 Learn how to craft Death Runes.		manual	quest	
-Murder Mystery		manual	quest	
+Murder Mystery	殺人事件の謎	manual	quest	
 Investigate a murder at Sinclair Mansion.		manual	quest	
-My Arm's Big Adventure		manual	quest	
+My Arm's Big Adventure	おいらの腕の大冒険	manual	quest	
 Gain access to a disease-free herb patch.		manual	quest	
 Nature Spirit	自然の精霊	manual	quest	
 Gain access to Mort Myre and the Nature Altar.		manual	quest	
-Night at the Theatre, A		manual	quest	
-A Night at the Theatre		manual	quest	
+Night at the Theatre, A	劇場の夜	manual	quest	
+A Night at the Theatre	劇場の夜	manual	quest	
 Experience the Theatre of Blood.		manual	quest	
-Observatory Quest		manual	quest	
+Observatory Quest	天文台のクエスト	manual	quest	
 Gain an Unholy Symbol Mould.		manual	quest	
-Olaf's Quest		manual	quest	
+Olaf's Quest	オラフのクエスト	manual	quest	
 Gain access to the Brine Rat Cavern.		manual	quest	
-One Small Favour		manual	quest	
+One Small Favour	ちょっとした頼み	manual	quest	
 Learn how to brew Guthix Rest Tea.		manual	quest	
-Pirate's Treasure		manual	quest	
+Pirate's Treasure	海賊の宝	manual	quest	
 Explore a story about buried treasure.		manual	quest	
-Plague City		manual	quest	
+Plague City	感染都市	manual	quest	
 Unlock the Ardougne teleport spell.		manual	quest	
-Porcine of Interest, A		manual	quest	
-A Porcine of Interest		manual	quest	
+Porcine of Interest, A	重要参考豚	manual	quest	
+A Porcine of Interest	重要参考豚	manual	quest	
 Learn how to hunt Slayer monsters.		manual	quest	
-Priest in Peril		manual	quest	
+Priest in Peril	危機に瀕した司祭	manual	quest	
 Gain access to Morytania.		manual	quest	
-Prince Ali Rescue		manual	quest	
+Prince Ali Rescue	アリ王子を救出せよ	manual	quest	
 Unlock Sorceress's Garden and gain free use of the Al Kharid Gate.		manual	quest	
-Queen of Thieves, The		manual	quest	
+Queen of Thieves, The	盗人の女王	manual	quest	
 The Queen of Thieves	盗人の女王	manual	quest	
 Gain the Port Piscarilius Memoirs teleport.		manual	quest	
-Rag and Bone Man I		manual	quest	
+Rag and Bone Man I	ぼろきれと骨の男１	manual	quest	
 Assist the Odd Old Man with a collection.		manual	quest	
-Rag and Bone Man II		manual	quest	
+Rag and Bone Man II	ぼろきれと骨の男２	manual	quest	
 Further assist the Odd Old Man with a collection.		manual	quest	
-Ratcatchers		manual	quest	
+Ratcatchers	ネズミ捕り	manual	quest	
 Learn new cat training methods.		manual	quest	
-Recipe for Disaster		manual	quest	
-Recruitment Drive		manual	quest	
+Recipe for Disaster	災難のレシピ	manual	quest	
+Recruitment Drive	採用活動	manual	quest	
 Gain a set of Initiate Armour.		manual	quest	
-Regicide		manual	quest	
+Regicide	国王殺し	manual	quest	
 Gain access to Zulrah's Shrine.		manual	quest	
-Restless Ghost, The		manual	quest	
-The Restless Ghost		manual	quest	
+Restless Ghost, The	眠れぬ霊	manual	quest	
+The Restless Ghost	眠れぬ霊	manual	quest	
 Gain a Ghostspeak Amulet.		manual	quest	
-Romeo & Juliet		manual	quest	
+Romeo & Juliet	ロミオとジュリエット	manual	quest	
 Gain Quest Points.		manual	quest	
-Roving Elves		manual	quest	
+Roving Elves	放浪するエルフ	manual	quest	
 Gain a Crystal Shield or Bow.		manual	quest	
-Royal Trouble		manual	quest	
+Royal Trouble	王家の問題	manual	quest	
 Gain enhanced rewards from Miscellenia.		manual	quest	
-Rum Deal		manual	quest	
+Rum Deal	ラムの取引	manual	quest	
 Gain a Holy Wrench.		manual	quest	
-Rune Mysteries		manual	quest	
+Rune Mysteries	ルーンの謎	manual	quest	
 Learn how to mine Rune Essence.		manual	quest	
-Scorpion Catcher		manual	quest	
+Scorpion Catcher	サソリ捕り	manual	quest	
 Help Thormac with a scorpion problem.		manual	quest	
-Sea Slug		manual	quest	
+Sea Slug	ウミウシ	manual	quest	
 Gain access to the Fishing Platform.		manual	quest	
-Shades of Mort'ton		manual	quest	
+Shades of Mort'ton	モートンの陰	manual	quest	
 Gain access to the Shades of Mort'ton minigame.		manual	quest	
-Shadow of the Storm		manual	quest	
+Shadow of the Storm	嵐の影	manual	quest	
 Assist Father Reen against an evil in the desert.		manual	quest	
-Sheep Herder		manual	quest	
+Sheep Herder	羊を飼うこと	manual	quest	
 Assist Councillor Halgrive with some sheep.		manual	quest	
-Sheep Shearer		manual	quest	
+Sheep Shearer	羊毛刈り	manual	quest	
 Gain early game Crafting XP.		manual	quest	
-Shield of Arrav		manual	quest	
+Shield of Arrav	アラヴの盾	manual	quest	
 Investigate the whereabouts of the Shield of Arrav.		manual	quest	
-Shilo Village		manual	quest	
+Shilo Village	シャイロ村	manual	quest	
 Gain access to Shilo Village.		manual	quest	
-Sins of the Father		manual	quest	
+Sins of the Father	父の罪	manual	quest	
 Gain access to Darkmeyer.		manual	quest	
-Skippy and the Mogres		manual	quest	
+Skippy and the Mogres	スキッピーとモーガ	manual	quest	
 Learn how to fight Mogres.		manual	quest	
-Slug Menace, The		manual	quest	
-The Slug Menace		manual	quest	
+Slug Menace, The	ナメクジの脅威	manual	quest	
+The Slug Menace	ナメクジの脅威	manual	quest	
 Learn how to equip Proselyte Armour.		manual	quest	
-Song of the Elves		manual	quest	
+Song of the Elves	エルフの歌	manual	quest	
 Gain access to Prifddinas.		manual	quest	
-Soul's Bane, A		manual	quest	
-A Soul's Bane		manual	quest	
+Soul's Bane, A	魂の呪縛	manual	quest	
+A Soul's Bane	魂の呪縛	manual	quest	
 Help Launa find her family.		manual	quest	
-Spirits of the Elid		manual	quest	
+Spirits of the Elid	エリッドの魂	manual	quest	
 Gain access to Nardah's fountain and shrine.		manual	quest	
-Swan Song		manual	quest	
+Swan Song	白鳥の歌	manual	quest	
 Learn how to catch Monkfish.		manual	quest	
-Tai Bwo Wannai Trio		manual	quest	
+Tai Bwo Wannai Trio	タイ・ブオ・ワナイ・トリオ	manual	quest	
 Learn how to catch and cook Karambwan.		manual	quest	
-Tail of Two Cats, A		manual	quest	
-A Tail of Two Cats		manual	quest	
-Tale of the Righteous		manual	quest	
+Tail of Two Cats, A	２匹のネコの物語	manual	quest	
+A Tail of Two Cats	２匹のネコの物語	manual	quest	
+Tale of the Righteous	正義物語	manual	quest	
 Gain the Shayzien Memoirs teleport.		manual	quest	
-Taste of Hope, A		manual	quest	
-A Taste of Hope		manual	quest	
+Taste of Hope, A	希望の味	manual	quest	
+A Taste of Hope	希望の味	manual	quest	
 Gain Drakan's Medallion.		manual	quest	
 Tears of Guthix	ガシックスの涙	manual	quest	
 Gain access to the Tears of Guthix minigame.		manual	quest	
-Temple of Ikov		manual	quest	
-Throne of Miscellania		manual	quest	
+Temple of Ikov	アイコフの寺院	manual	quest	
+Throne of Miscellania	ミセラニアの王座	manual	quest	
 Learn how to manage the Kingdom of Miscellania.		manual	quest	
-Tourist Trap, The		manual	quest	
-The Tourist Trap		manual	quest	
+Tourist Trap, The	観光客の罠	manual	quest	
+The Tourist Trap	観光客の罠	manual	quest	
 Learn how to smith Darts.		manual	quest	
-Tower of Life		manual	quest	
+Tower of Life	生命の塔	manual	quest	
 Gain access to the Creature Creation minigame.		manual	quest	
-Tree Gnome Village		manual	quest	
+Tree Gnome Village	ツリー・ノームの村	manual	quest	
 Gain access to Spirit Tree teleportation.		manual	quest	
-Tribal Totem		manual	quest	
-Troll Romance		manual	quest	
+Tribal Totem	部族のトーテム	manual	quest	
+Troll Romance	トロールの恋愛	manual	quest	
 Gain a Sled.		manual	quest	
 Troll Stronghold	トロール要塞	manual	quest	
 Gain access to the God Wars Dungeon.		manual	quest	
-Underground Pass		manual	quest	
+Underground Pass	地下通路	manual	quest	
 Gain Iban's Staff.		manual	quest	
-Vampyre Slayer		manual	quest	
+Vampyre Slayer	吸血鬼スレイヤー	manual	quest	
 Help the people of Draynor Village with a vampyre problem.		manual	quest	
-Wanted!		manual	quest	
+Wanted!	指名手配	manual	quest	
 Gain access to the White Knight Armoury.		manual	quest	
 Watchtower	監視塔	manual	quest	
 Unlock the Watchtower teleport spell.		manual	quest	
-Waterfall Quest		manual	quest	
+Waterfall Quest	滝のクエスト	manual	quest	
 Gain great combat XP.		manual	quest	
-What Lies Below		manual	quest	
+What Lies Below	下に潜むモノ	manual	quest	
 Learn a shortcut to the Chaos Altar.		manual	quest	
-Witch's House		manual	quest	
-Witch's Potion		manual	quest	
-X Marks the Spot		manual	quest	
+Witch's House	魔女の家	manual	quest	
+Witch's Potion	魔女の薬液	manual	quest	
+X Marks the Spot	Xが示す場所	manual	quest	
 Learn about Clue Scrolls and Kourend.		manual	quest	
-Zogre Flesh Eaters		manual	quest	
+Zogre Flesh Eaters	肉を喰らうゾーガ	manual	quest	
 Learn how to make Relicym's Balm.		manual	quest	
-Frozen Door, The		manual	quest	
-The Frozen Door		manual	quest	
+Frozen Door, The	凍った扉	manual	quest	
+The Frozen Door	凍った扉	manual	quest	
 Gain access to Nex in the God Wars Dungeon.		manual	quest	
-Land of the Goblins		manual	quest	
+Land of the Goblins	ゴブリンの国	manual	quest	
 Continue the Dorgeshuun storyline.		manual	quest	
-Hopespear's Will		manual	quest	
+Hopespear's Will	ホープスピアの遺言	manual	quest	
 Gain great Prayer XP.		manual	quest	
-Temple of the Eye		manual	quest	
+Temple of the Eye	目の寺院	manual	quest	
 Gain access to the Guardians of the Rift minigame.		manual	quest	
-Beneath Cursed Sands		manual	quest	
+Beneath Cursed Sands	呪われた砂の下	manual	quest	
 Gain access to the Tombs of Amascut.		manual	quest	
-Sleeping Giants		manual	quest	
+Sleeping Giants	眠る巨人	manual	quest	
 Gain access to the Giants' Foundry.		manual	quest	
-Garden of Death, The		manual	quest	
-The Garden of Death		manual	quest	
+Garden of Death, The	死の庭	manual	quest	
+The Garden of Death	死の庭	manual	quest	
 Uncover the fate of the Old Ones.		manual	quest	
-Into the Tombs		manual	quest	
+Into the Tombs	墓の中へ	manual	quest	
 Experience the Tombs of Amascut.		manual	quest	
-Recipe for Disaster Another Cook's Quest		manual	quest	
-Recipe for Disaster - Another Cook's Quest		manual	quest	
+Recipe for Disaster Another Cook's Quest	災難のレシピ　もう一つの料理人クエスト	manual	quest	
+Recipe for Disaster - Another Cook's Quest	災難のレシピ：もう一つの料理人クエスト	manual	quest	
 Gain access to the Culinaromancer's Chest.		manual	quest	
-Recipe for Disaster Dwarf		manual	quest	
-Recipe for Disaster - Mountain Dwarf		manual	quest	
+Recipe for Disaster Dwarf	災難のレシピ　ドワーフ	manual	quest	
+Recipe for Disaster - Mountain Dwarf	災難のレシピ：山ドワーフ	manual	quest	
 Gain further access to the Culinaromancer's Chest.		manual	quest	
-Recipe for Disaster Goblins		manual	quest	
-Recipe for Disaster - Wartface & Bentnoze		manual	quest	
-Recipe for Disaster Pirate		manual	quest	
-Recipe for Disaster - Pirate Pete		manual	quest	
-Recipe for Disaster Lumbridge Guide		manual	quest	
-Recipe for Disaster - Lumbridge Guide		manual	quest	
-Recipe for Disaster Dave		manual	quest	
-Recipe for Disaster - Evil Dave		manual	quest	
-Recipe for Disaster Uglogwee		manual	quest	
-Recipe for Disaster - Skrach Uglogwee		manual	quest	
-Recipe for Disaster Amik Varze		manual	quest	
-Recipe for Disaster - Sir Amik Varze		manual	quest	
-Recipe for Disaster Awowogei		manual	quest	
-Recipe for Disaster - King Awowogei		manual	quest	
-Recipe for Disaster Culinaromancer		manual	quest	
-Recipe for Disaster - Culinaromancer		manual	quest	
+Recipe for Disaster Goblins	災難のレシピ　ゴブリン	manual	quest	
+Recipe for Disaster - Wartface & Bentnoze	災難のレシピ：ワートフェース＆ベントノーズ	manual	quest	
+Recipe for Disaster Pirate	災難のレシピ　海賊	manual	quest	
+Recipe for Disaster - Pirate Pete	災難のレシピ：海賊のピート	manual	quest	
+Recipe for Disaster Lumbridge Guide	災難のレシピ　ランブリッジの案内人	manual	quest	
+Recipe for Disaster - Lumbridge Guide	災難のレシピ：ランブリッジの案内人	manual	quest	
+Recipe for Disaster Dave	災難のレシピ　デーヴ	manual	quest	
+Recipe for Disaster - Evil Dave	災難のレシピ：邪悪なデーヴ	manual	quest	
+Recipe for Disaster Uglogwee	災難のレシピ　ウグログウィー	manual	quest	
+Recipe for Disaster - Skrach Uglogwee	災難のレシピ：スクラチ・ウグログウィー	manual	quest	
+Recipe for Disaster Amik Varze	災難のレシピ　アミック・バーズ	manual	quest	
+Recipe for Disaster - Sir Amik Varze	災難のレシピ：サー・アミック・バーズ	manual	quest	
+Recipe for Disaster Awowogei	災難のレシピ　アウォウォゲイ	manual	quest	
+Recipe for Disaster - King Awowogei	災難のレシピ：アウォウォゲイ王	manual	quest	
+Recipe for Disaster Culinaromancer	災難のレシピ　料理の魔術師	manual	quest	
+Recipe for Disaster - Culinaromancer	災難のレシピ　料理の魔術師	manual	quest	
 Complete the storyline and unlock the Barrows Gloves.		manual	quest	
-Secrets of the North		manual	quest	
+Secrets of the North	北陸の秘密	manual	quest	
 Uncover the Secrets of the North and unlock a new boss.		manual	quest	
-Desert Treasure II - The Fallen Empire		manual	quest	
+Desert Treasure II - The Fallen Empire	砂漠の宝２：墜ちた帝国	manual	quest	
 Uncover the history of the Fallen Empire and unlock four new bosses.		manual	quest	
-His Faithful Servants		manual	quest	
+His Faithful Servants	あの方の忠実な従者達	manual	quest	
 Take on the Barrows Brothers.		manual	quest	
-Path of Glouphrie, The		manual	quest	
-The Path of Glouphrie		manual	quest	
+Path of Glouphrie, The	グルフリーの道	manual	quest	
+The Path of Glouphrie	グルフリーの道	manual	quest	
 Unlock the Poison Waste Dungeon.		manual	quest	
-Children of the Sun		manual	quest	
+Children of the Sun	太陽の子	manual	quest	
 Gain access to the Kingdom of Varlamore.		manual	quest	
-Barbarian Training		manual	quest	
+Barbarian Training	蛮族の訓練	manual	quest	
 Unlock the strength of a Barbarian.		manual	quest	
-Defender of Varrock		manual	quest	
+Defender of Varrock	ヴァロックの守護者	manual	quest	
 Defend Varrock from a zombie invasion.		manual	quest	
-While Guthix Sleeps		manual	quest	
+While Guthix Sleeps	ガシックスが眠る間	manual	quest	
 Stop a deadly Mahjarrat from finding an artefact of incomprehensible power.		manual	quest	
-Twilight's Promise		manual	quest	
+Twilight's Promise	黄昏の約束	manual	quest	
 Take your first steps into Varlamore and unlock the Quetzal Transport System.		manual	quest	
-At First Light		manual	quest	
+At First Light	夜が明けるとき	manual	quest	
 Learn about the role of the Hunter Guild and unlock higher tier rumours.		manual	quest	
-Perlious Moons		manual	quest	
-Perilous Moons		manual	quest	
+Perlious Moons	危険な月	manual	quest	
+Perilous Moons	危険な月々	manual	quest	
 Explore an ancient ruin and unlock the Moons of Peril.		manual	quest	
-Ribbiting Tale of a Lily Pad Labour Dispute, The		manual	quest	
-The Ribbiting Tale of a Lily Pad Labour Dispute		manual	quest	
+Ribbiting Tale of a Lily Pad Labour Dispute, The	スイレンの葉の労働争議物語	manual	quest	
+The Ribbiting Tale of a Lily Pad Labour Dispute	スイレンの葉の労働争議物語	manual	quest	
 Solve a ribbiting dispute and gain access to a new Hardwood Farming Patch.		manual	quest	
-Monkeys		manual	slayer_mob	
-Goblins		manual	slayer_mob	
-Rats		manual	slayer_mob	
-Spiders		manual	slayer_mob	
-Birds		manual	slayer_mob	
-Cows		manual	slayer_mob	
-Scorpions		manual	slayer_mob	
-Bats		manual	slayer_mob	
-Wolves		manual	slayer_mob	
-Zombies		manual	slayer_mob	
-Skeletons		manual	slayer_mob	
-Ghosts		manual	slayer_mob	
-Bears		manual	slayer_mob	
-Hill Giants		manual	slayer_mob	
-Ice Giants		manual	slayer_mob	
-Fire Giants		manual	slayer_mob	
-Moss Giants		manual	slayer_mob	
-Trolls		manual	slayer_mob	
-Ice Warriors		manual	slayer_mob	
-Ogres		manual	slayer_mob	
-Hobgoblins		manual	slayer_mob	
-Dogs		manual	slayer_mob	
-Ghouls		manual	slayer_mob	
-Green Dragons		manual	slayer_mob	
-Blue Dragons		manual	slayer_mob	
-Red Dragons		manual	slayer_mob	
-Black Dragons		manual	slayer_mob	
-Lesser Demons		manual	slayer_mob	
-Greater Demons		manual	slayer_mob	
-Black Demons		manual	slayer_mob	
-Hellhounds		manual	slayer_mob	
-Shadow Warriors		manual	slayer_mob	
-Werewolves		manual	slayer_mob	
-Vampyres		manual	slayer_mob	
+Monkeys	サル	manual	slayer_mob	
+Goblins	ゴブリン	manual	slayer_mob	
+Rats	ネズミ	manual	slayer_mob	
+Spiders	クモ	manual	slayer_mob	
+Birds	鳥	manual	slayer_mob	
+Cows	牛	manual	slayer_mob	
+Scorpions	サソリ	manual	slayer_mob	
+Bats	コウモリ	manual	slayer_mob	
+Wolves	オオカミ	manual	slayer_mob	
+Zombies	ゾンビ	manual	slayer_mob	
+Skeletons	スケルトン	manual	slayer_mob	
+Ghosts	幽霊	manual	slayer_mob	
+Bears	クマ	manual	slayer_mob	
+Hill Giants	丘の巨人	manual	slayer_mob	
+Ice Giants	氷の巨人	manual	slayer_mob	
+Fire Giants	火の巨人	manual	slayer_mob	
+Moss Giants	コケの巨人	manual	slayer_mob	
+Trolls	トロール	manual	slayer_mob	
+Ice Warriors	氷の戦士	manual	slayer_mob	
+Ogres	オーガ	manual	slayer_mob	
+Hobgoblins	ホブゴブリン	manual	slayer_mob	
+Dogs	犬	manual	slayer_mob	
+Ghouls	グール	manual	slayer_mob	
+Green Dragons	緑竜	manual	slayer_mob	
+Blue Dragons	青竜	manual	slayer_mob	
+Red Dragons	赤竜	manual	slayer_mob	
+Black Dragons	黒竜	manual	slayer_mob	
+Lesser Demons	下位悪魔	manual	slayer_mob	
+Greater Demons	上位悪魔	manual	slayer_mob	
+Black Demons	黒悪魔	manual	slayer_mob	
+Hellhounds	ヘルハウンド	manual	slayer_mob	
+Shadow Warriors	影の戦士	manual	slayer_mob	
+Werewolves	人狼	manual	slayer_mob	
+Vampyres	吸血鬼	manual	slayer_mob	
 Dagannoth	ダガノス	manual	slayer_mob	
 Turoth	ツーロス	manual	slayer_mob	
-Cave Crawlers		manual	slayer_mob	
-Banshees		manual	slayer_mob	
-Crawling Hands		manual	slayer_mob	
-Infernal Mages		manual	slayer_mob	
-Aberrant Spectres		manual	slayer_mob	
-Abyssal Demons		manual	slayer_mob	
-Basilisks		manual	slayer_mob	
+Cave Crawlers	洞窟を這うモノ	manual	slayer_mob	
+Banshees	バンシー	manual	slayer_mob	
+Crawling Hands	這う手	manual	slayer_mob	
+Infernal Mages	獄炎の魔術師	manual	slayer_mob	
+Aberrant Spectres	異形の亡霊	manual	slayer_mob	
+Abyssal Demons	深淵の悪魔	manual	slayer_mob	
+Basilisks	バジリスク	manual	slayer_mob	
 Cockatrice	コカトリス	manual	slayer_mob	
 Kurask	クラスク	manual	slayer_mob	
-Gargoyles		manual	slayer_mob	
-Pyrefiends		manual	slayer_mob	
+Gargoyles	ガーゴイル	manual	slayer_mob	
+Pyrefiends	パイヤーフィーンド	manual	slayer_mob	
 Bloodveld	ブラッドベルド	manual	slayer_mob	
-Dust Devils		manual	slayer_mob	
-Jellies		manual	slayer_mob	
-Rockslugs		manual	slayer_mob	
+Dust Devils	ダスト・デビル	manual	slayer_mob	
+Jellies	ゼリー	manual	slayer_mob	
+Rockslugs	岩ナメクジ	manual	slayer_mob	
 Nechryael	ネクリャエル	manual	slayer_mob	
-Kalphite		manual	slayer_mob	
-Earth Warriors		manual	slayer_mob	
-Otherworldly Beings		manual	slayer_mob	
-Elves		manual	slayer_mob	
-Dwarves		manual	slayer_mob	
-Bronze Dragons		manual	slayer_mob	
-Iron Dragons		manual	slayer_mob	
-Steel Dragons		manual	slayer_mob	
-Wall Beasts		manual	slayer_mob	
-CaveSlimes		manual	slayer_mob	
-CaveBugs		manual	slayer_mob	
-Shades		manual	slayer_mob	
-Crocodiles		manual	slayer_mob	
-Dark Beasts		manual	slayer_mob	
-Mogres		manual	slayer_mob	
-Lizards		manual	slayer_mob	
-Fever Spiders		manual	slayer_mob	
-Harpie Bug Swarms		manual	slayer_mob	
-Sea Snakes		manual	slayer_mob	
-FossilIsland Wyverns		manual	slayer_mob	
-Skeletal Wyverns		manual	slayer_mob	
-Killerwatts		manual	slayer_mob	
-Mutated Zygomites		manual	slayer_mob	
-Icefiends		manual	slayer_mob	
-Minotaurs		manual	slayer_mob	
-Fleshcrawlers		manual	slayer_mob	
+Kalphite	カルファイト	manual	slayer_mob	
+Earth Warriors	土の戦士	manual	slayer_mob	
+Otherworldly Beings	異世界の生命体	manual	slayer_mob	
+Elves	エルフ	manual	slayer_mob	
+Dwarves	ドワーフ	manual	slayer_mob	
+Bronze Dragons	銅の竜	manual	slayer_mob	
+Iron Dragons	鉄の竜	manual	slayer_mob	
+Steel Dragons	鋼鉄の竜	manual	slayer_mob	
+Wall Beasts	壁の獣	manual	slayer_mob	
+CaveSlimes	洞窟のスライム	manual	slayer_mob	
+CaveBugs	洞窟の虫	manual	slayer_mob	
+Shades	陰	manual	slayer_mob	
+Crocodiles	ワニ	manual	slayer_mob	
+Dark Beasts	暗黒獣	manual	slayer_mob	
+Mogres	モーガ	manual	slayer_mob	
+Lizards	トカゲ	manual	slayer_mob	
+Fever Spiders	熱病グモ	manual	slayer_mob	
+Harpie Bug Swarms	ハーピー虫の群れ	manual	slayer_mob	
+Sea Snakes	ウミヘビ	manual	slayer_mob	
+FossilIsland Wyverns	化石島のワイバーン	manual	slayer_mob	
+Skeletal Wyverns	骨ワイバーン	manual	slayer_mob	
+Killerwatts	キラーワット	manual	slayer_mob	
+Mutated Zygomites	変異ジゴマイト	manual	slayer_mob	
+Icefiends	アイスフィーンド	manual	slayer_mob	
+Minotaurs	ミノタウロス	manual	slayer_mob	
+Fleshcrawlers	肉を這うモノ	manual	slayer_mob	
 Catablepon	カタブレポン	manual	slayer_mob	
 Ankou	アンコウ	manual	slayer_mob	
-Cave Horrors		manual	slayer_mob	
-Jungle Horrors		manual	slayer_mob	
-Goraks		manual	slayer_mob	
-Suqahs		manual	slayer_mob	
-Brine Rats		manual	slayer_mob	
-Minions of Scabaras		manual	slayer_mob	
-Terror Dogs		manual	slayer_mob	
-Molanisks		manual	slayer_mob	
-Waterfiends		manual	slayer_mob	
-Spiritual Creatures		manual	slayer_mob	
-Lizardmen		manual	slayer_mob	
-Magic Axes		manual	slayer_mob	
-Mithril Dragons		manual	slayer_mob	
-Adamant Dragons		manual	slayer_mob	
-Rune Dragons		manual	slayer_mob	
-Aviansies		manual	slayer_mob	
-Cave Kraken		manual	slayer_mob	
-Smoke Devils		manual	slayer_mob	
-TzHaar		manual	slayer_mob	
+Cave Horrors	洞窟の怪物	manual	slayer_mob	
+Jungle Horrors	ジャングルの怪物	manual	slayer_mob	
+Goraks	ゴラク	manual	slayer_mob	
+Suqahs	スーカア	manual	slayer_mob	
+Brine Rats	塩水ネズミ	manual	slayer_mob	
+Minions of Scabaras	スカラバスの手下	manual	slayer_mob	
+Terror Dogs	テラー・ドッグ	manual	slayer_mob	
+Molanisks	モラニスク	manual	slayer_mob	
+Waterfiends	ウォーターフィーンド	manual	slayer_mob	
+Spiritual Creatures	霊的な兵士	manual	slayer_mob	
+Lizardmen	リザードマン	manual	slayer_mob	
+Magic Axes	魔法の斧	manual	slayer_mob	
+Mithril Dragons	ミスリルの竜	manual	slayer_mob	
+Adamant Dragons	アダマントの竜	manual	slayer_mob	
+Rune Dragons	ルーンの竜	manual	slayer_mob	
+Aviansies	アヴィアンシー	manual	slayer_mob	
+Cave Kraken	洞窟クラーケン	manual	slayer_mob	
+Smoke Devils	スモーク・デビル	manual	slayer_mob	
+TzHaar	ツザー	manual	slayer_mob	
 TzTok-Jad	ツズトク・ジャッド	manual	slayer_mob	
 Bosses	ボス	manual	slayer_mob	
-Mammoths		manual	slayer_mob	
-Rogues		manual	slayer_mob	
-Ents		manual	slayer_mob	
-Bandits		manual	slayer_mob	
-Dark Warriors		manual	slayer_mob	
-Lava Dragons		manual	slayer_mob	
+Mammoths	マンモス	manual	slayer_mob	
+Rogues	ローグ	manual	slayer_mob	
+Ents	エント	manual	slayer_mob	
+Bandits	盗賊	manual	slayer_mob	
+Dark Warriors	暗黒の戦士	manual	slayer_mob	
+Lava Dragons	溶岩の竜	manual	slayer_mob	
 TzKal-Zuk	ツズカル・ザック	manual	slayer_mob	
-Revenants		manual	slayer_mob	
-Chaos Druids		manual	slayer_mob	
-Wyrms		manual	slayer_mob	
-Drakes		manual	slayer_mob	
-Hydras		manual	slayer_mob	
-Brutal BlackDragons		manual	slayer_mob	
-Sulphur Lizards		manual	slayer_mob	
-Temple Spiders		manual	slayer_mob	
-Undead Druids		manual	slayer_mob	
-Sand Crabs		manual	slayer_mob	
-BlackKnights		manual	slayer_mob	
-Pirates		manual	slayer_mob	
-Sourhogs		manual	slayer_mob	
-Warped Creatures		manual	slayer_mob	
-Lesser Nagua		manual	slayer_mob	
+Revenants	幽鬼	manual	slayer_mob	
+Chaos Druids	混沌ドルイド	manual	slayer_mob	
+Wyrms	ワーム	manual	slayer_mob	
+Drakes	ドレイク	manual	slayer_mob	
+Hydras	ヒドラ	manual	slayer_mob	
+Brutal BlackDragons	残酷な黒竜	manual	slayer_mob	
+Sulphur Lizards	硫黄トカゲ	manual	slayer_mob	
+Temple Spiders	テンプルグモ	manual	slayer_mob	
+Undead Druids	アンデッド・ドルイド	manual	slayer_mob	
+Sand Crabs	砂ガニ	manual	slayer_mob	
+BlackKnights	暗黒騎士	manual	slayer_mob	
+Pirates	海賊	manual	slayer_mob	
+Sourhogs	ソーホッグ	manual	slayer_mob	
+Warped Creatures	歪んだ生物	manual	slayer_mob	
+Lesser Nagua	下位のナーガ	manual	slayer_mob	
 Gargoyle Smasher		manual	slayer_reward	
 Slug Salter		manual	slayer_reward	
 Reptile Freezer		manual	slayer_reward	
@@ -1263,10 +1263,10 @@ Burthorpe Games Room		manual	activity
 Nightmare Zone		manual	activity	
 Pest Control		manual	activity	
 Rat Pits		manual	activity	
-Shades of Mort'ton		manual	activity	
+Shades of Mort'ton	モートンの陰	manual	activity	
 Trouble Brewing		manual	activity	
 TzHaar Fight Pit		manual	activity	
-Shield of Arrav		manual	activity	
+Shield of Arrav	アラヴの盾	manual	activity	
 Clan Wars		manual	activity	
 Giants' Foundry		manual	activity	
 God Wars		manual	activity	
@@ -1431,7 +1431,7 @@ Arceuus	アルセウス	manual	location
 Lovakengj		manual	location	
 Piscarilius		manual	location	
 Al Kharid	アル・カリッド	manual	location	
-Burgh de Rott		manual	location	
+Burgh de Rott	バーグ・ドゥ・ロット	manual	location	
 Burthorpe	バーソープ	manual	location	
 Canifis		manual	location	
 Kharidian Desert		manual	location	
@@ -1458,12 +1458,12 @@ Port Piscarilius	ピスカリリウス港へ移動	manual	location
 Piscatoris		manual	location	
 Port Sarim	サリム港へ移動	manual	location	
 Seers' Village	シアーズ村	manual	location	
-Shilo Village		manual	location	
+Shilo Village	シャイロ村	manual	location	
 Silvarea		manual	location	
 Slepe	スレペ	manual	location	
 Sophanem		manual	location	
 Tai Bwo Wannai		manual	location	
-Tree Gnome Village		manual	location	
+Tree Gnome Village	ツリー・ノームの村	manual	location	
 Troll Stronghold	トロール要塞	manual	location	
 Witchaven		manual	location	
 Civitas illa Fortis	シビリタス・イラ・フォーチス	manual	location	
@@ -1485,7 +1485,7 @@ Waterbirth Island	ウオーターバース島	manual	location
 Lizardman Canyon		manual	location	
 Lizardman Settlement		manual	location	
 Smoke Devil Dungeon		manual	location	
-Death Plateau		manual	location	
+Death Plateau	死の高原	manual	location	
 South of Mount Quidamortem		manual	location	
 Fremennik Slayer Dungeon		manual	location	
 Myths' Guild Dungeon		manual	location	
@@ -1527,7 +1527,7 @@ Corsair Cove		manual	location
 Shayzien Graveyard of Heroes		manual	location	
 Southern coast of Hosidius		manual	location	
 Draynor Manor cellar		manual	location	
-Wizards' Tower		manual	location	
+Wizards' Tower	魔法使いの塔	manual	location	
 Ardougne Rat Pits		manual	location	
 The Kendal's cave		manual	location	
 Ruins of Uzer		manual	location	
@@ -1540,8 +1540,8 @@ Mos Le'Harmless Cave		manual	location
 Coronation ceremony during A Kingdom Divided.		manual	location	
 Fight with the Giant Roc during My Arm's Big Adventure.		manual	location	
 Scorpia's cave beneath the Scorpion Pit.		manual	location	
-Beneath Cursed Sands		manual	location	
-Perilous Moons		manual	location	
+Beneath Cursed Sands	呪われた砂の下	manual	location	
+Perilous Moons	危険な月々	manual	location	
 PvP Arena	PvPアリーナ	manual	location	
 Castle Wars	キャッスル・ウォーズ	manual	location	
 Ferox Enclave	フェロックス・オンクレーブ	manual	location	
@@ -1582,7 +1582,7 @@ Wander		manual	music
 in Draynor Village.		manual	music	
 Warpath		manual	music	
 during the Clan Wars minigame.		manual	music	
-Song of the Elves		manual	music	
+Song of the Elves	エルフの歌	manual	music	
 during the Song of the Elves quest.		manual	music	
 What Happens Below...		manual	music	
 in the Warrens.		manual	music	
@@ -1617,7 +1617,7 @@ Wild Isle		manual	music
 in the Wilderness.		manual	music	
 Wild Side		manual	music	
 Wilderness		manual	music	
-Revenants		manual	music	
+Revenants	幽鬼	manual	music	
 in the Revenant Caves.		manual	music	
 Wilderness 		manual	music	
 Wildwood		manual	music	
@@ -1674,7 +1674,7 @@ on Harmony Island.		manual	music
 Old Ones, The		manual	music	
 The Old Ones		manual	music	
 during The Garden of Death quest.		manual	music	
-Secrets of the North		manual	music	
+Secrets of the North	北陸の秘密	manual	music	
 during the Secrets of the North quest.		manual	music	
 In the Shadows		manual	music	
 More Than Meets the Eye		manual	music	
@@ -1693,7 +1693,7 @@ Blood Rush	ブラッド・ラッシュ	manual	music
 Song of the Silent Choir		manual	music	
 Unturned Stones		manual	music	
 Master of Puppets		manual	music	
-His Faithful Servants		manual	music	
+His Faithful Servants	あの方の忠実な従者達	manual	music	
 Tick Tock		manual	music	
 Strangled	絞殺された者	manual	music	
 Bolrie's Diary		manual	music	
@@ -1705,7 +1705,7 @@ Storeroom Shuffle		manual	music
 Terrorbird Tussle		manual	music	
 Waste Defaced		manual	music	
 Dot's Yuletide		manual	music	
-Children of the Sun		manual	music	
+Children of the Sun	太陽の子	manual	music	
 during the Children of the Sun quest.		manual	music	
 Plots and Plans		manual	music	
 Burning Sun, The		manual	music	
@@ -1736,542 +1736,542 @@ during the Perilous Moons quest.		manual	music
 Lost to Time		manual	music	
 Sunny Side Up		manual	music	
 during the Easter  Holiday Event.		manual	music	
-Animal Magnetism		manual	quest	
+Animal Magnetism	動物の磁性	manual	quest	
 Learn how to equip Ava's ranged devices.		manual	quest	
-Another Slice of H.A.M.		manual	quest	
+Another Slice of H.A.M.	もう１スライスのH.A.M	manual	quest	
 Learn how to use the Goblin Village teleport spheres.		manual	quest	
-Ascent of Arceuus, The		manual	quest	
-The Ascent of Arceuus		manual	quest	
+Ascent of Arceuus, The	アルセウスの昇天	manual	quest	
+The Ascent of Arceuus	アルセウスの昇天	manual	quest	
 Gain the Arceuus Memoirs teleport.		manual	quest	
-Alfred Grimhand's Barcrawl		manual	quest	
+Alfred Grimhand's Barcrawl	アルフレッド・グイムハンドのバー巡り	manual	quest	
 Embark on a Barbarian rite of passage.		manual	quest	
-Bear Your Soul		manual	quest	
+Bear Your Soul	魂をさらけ出す	manual	quest	
 Gain the Soul Bearer.		manual	quest	
-Below Ice Mountain		manual	quest	
+Below Ice Mountain	氷山の地下	manual	quest	
 Gain access to the Ruins of Camdozaal.		manual	quest	
-Between a Rock...		manual	quest	
+Between a Rock...	岩の間に・・・	manual	quest	
 Gain access to the Arzinian Gold Mine.		manual	quest	
-Big Chompy Bird Hunting		manual	quest	
+Big Chompy Bird Hunting	大チョンピー鳥狩り	manual	quest	
 Learn how to hunt Chompy Birds.		manual	quest	
-Biohazard		manual	quest	
+Biohazard	バイオハザード	manual	quest	
 Unlock the West Ardougne teleport spell.		manual	quest	
-Black Knights' Fortress		manual	quest	
+Black Knights' Fortress	黒騎士の要塞	manual	quest	
 Assist the White Knights with their investigation.		manual	quest	
-Bone Voyage		manual	quest	
+Bone Voyage	骨の航海	manual	quest	
 Gain access to Fossil Island.		manual	quest	
-Cabin Fever		manual	quest	
+Cabin Fever	船室病	manual	quest	
 Gain access to Mos'LeHarmless.		manual	quest	
-Client of Kourend		manual	quest	
+Client of Kourend	クーレンドの顧客	manual	quest	
 Gain Kharedst's Memoirs.		manual	quest	
-Clock Tower		manual	quest	
+Clock Tower	時計塔	manual	quest	
 Help Brother Kojo repair the Clock Tower.		manual	quest	
-Cold War		manual	quest	
+Cold War	冷戦	manual	quest	
 Gain access to the Penguin Agility Course.		manual	quest	
-Contact!		manual	quest	
+Contact!	接触！	manual	quest	
 Gain the Keris dagger.		manual	quest	
-Cook's Assistant		manual	quest	
+Cook's Assistant	料理人の助手	manual	quest	
 Help the Lumbridge Castle Cook out of his baking bind.		manual	quest	
-Corsair Curse, The		manual	quest	
-The Corsair Curse		manual	quest	
+Corsair Curse, The	私掠戦の呪い	manual	quest	
+The Corsair Curse	私掠戦の呪い	manual	quest	
 Gain access to the Corsair Cove Bank.		manual	quest	
-Creature of Fenkenstrain		manual	quest	
+Creature of Fenkenstrain	フェンケンストレインの生物	manual	quest	
 Gain a Ring of Charos.		manual	quest	
-Curse of the Empty Lord		manual	quest	
+Curse of the Empty Lord	虚無の主の呪い	manual	quest	
 Gain a set of Ghostly Robes.		manual	quest	
-Daddy's Home		manual	quest	
+Daddy's Home	父の家	manual	quest	
 Learn about the Construction skill.		manual	quest	
-Darkness of Hallowvale		manual	quest	
+Darkness of Hallowvale	ハローヴァールの闇	manual	quest	
 Learn the reverse Temple Trekking routes.		manual	quest	
-Death Plateau		manual	quest	
+Death Plateau	死の高原	manual	quest	
 Gain a set of Climbing Boots.		manual	quest	
-Death to the Dorgeshuun		manual	quest	
+Death to the Dorgeshuun	ドーゲシューンに死を	manual	quest	
 Gain access to the H.A.M Store Room.		manual	quest	
-Demon Slayer		manual	quest	
+Demon Slayer	デーモン・スレイヤー	manual	quest	
 Face your destiny in Varrock.		manual	quest	
-Depths of Despair, The		manual	quest	
-The Depths of Despair		manual	quest	
+Depths of Despair, The	絶望の底	manual	quest	
+The Depths of Despair	絶望の底	manual	quest	
 Gain the Hosidius Memoirs teleport.		manual	quest	
-Desert Treasure I		manual	quest	
+Desert Treasure I	砂漠の宝１	manual	quest	
 Learn how to use the Ancient Magicks.		manual	quest	
-Devious Minds		manual	quest	
-Dig Site, The		manual	quest	
-The Dig Site		manual	quest	
+Devious Minds	狡猾な心	manual	quest	
+Dig Site, The	発掘現場	manual	quest	
+The Dig Site	発掘現場	manual	quest	
 Learn how to clean specimens in Varrock Museum.		manual	quest	
-Doric's Quest		manual	quest	
+Doric's Quest	ドリックのクエスト	manual	quest	
 Gain early game Mining XP.		manual	quest	
-Dragon Slayer I		manual	quest	
+Dragon Slayer I	ドラゴン・スレイヤー１	manual	quest	
 Learn how to equip Rune and Dragon Platebodies.		manual	quest	
-Dragon Slayer II		manual	quest	
+Dragon Slayer II	ドラゴン・スレイヤー２	manual	quest	
 Gain great XP and access to the Myth's Guild.		manual	quest	
-Dream Mentor		manual	quest	
+Dream Mentor	夢のメンター	manual	quest	
 Learn how to cast more Lunar spells.		manual	quest	
-Druidic Ritual		manual	quest	
+Druidic Ritual	ドルイドの儀式	manual	quest	
 Unlock the Herblore skill.		manual	quest	
-Dwarf Cannon		manual	quest	
+Dwarf Cannon	ドワーフ・キャノン	manual	quest	
 Learn how to use a Dwarf Multicannons.		manual	quest	
-Eadgar's Ruse		manual	quest	
+Eadgar's Ruse	エドガーの策略	manual	quest	
 Learn how to grow and steal Goutweed.		manual	quest	
-Eagles' Peak		manual	quest	
+Eagles' Peak	ワシの峰	manual	quest	
 Gain access to the Eagle transportation and Box Traps.		manual	quest	
-Elemental Workshop I		manual	quest	
+Elemental Workshop I	エレメント工房１	manual	quest	
 Rediscover the knowledge hidden in Seers' Village.		manual	quest	
-Elemental Workshop II		manual	quest	
+Elemental Workshop II	エレメント工房２	manual	quest	
 Learn how to equip Mind equipment.		manual	quest	
-Enakhra's Lament		manual	quest	
+Enakhra's Lament	得なくらの嘆き	manual	quest	
 Gain a Camulet.		manual	quest	
-Enchanted Key, The		manual	quest	
-The Enchanted Key		manual	quest	
+Enchanted Key, The	魔法のカギ	manual	quest	
+The Enchanted Key	魔法のカギ	manual	quest	
 Hunt for hidden treasure using the Enchanted Key.		manual	quest	
-Enlightened Journey		manual	quest	
+Enlightened Journey	悟りの旅	manual	quest	
 Gain access to the Balloon transportation.		manual	quest	
-Enter the Abyss		manual	quest	
+Enter the Abyss	深淵へ	manual	quest	
 Gain access to the Abyss.		manual	quest	
-Ernest the Chicken		manual	quest	
+Ernest the Chicken	ニワトリのアーネスト	manual	quest	
 Investigate the whereabouts of Ernest.		manual	quest	
-Eyes of Glouphrie, The		manual	quest	
-The Eyes of Glouphrie		manual	quest	
+Eyes of Glouphrie, The	グルフリーの目	manual	quest	
+The Eyes of Glouphrie	グルフリーの目	manual	quest	
 Gain a Crystal Saw Seed.		manual	quest	
-Fairytale I - Growing Pains		manual	quest	
+Fairytale I - Growing Pains	フェアリーテール１：成長する痛み	manual	quest	
 Learn how to teleport using Fairy Rings (start Fairytale II).		manual	quest	
-Fairytale II - Cure a Queen		manual	quest	
+Fairytale II - Cure a Queen	フェアリーテール２	manual	quest	
 Investigate what's really going on in Zanaris.		manual	quest	
-Family Crest		manual	quest	
+Family Crest	家紋	manual	quest	
 Gain Skill-imbued Gauntlets.		manual	quest	
-Family Pest		manual	quest	
+Family Pest	家族の厄介者	manual	quest	
 Gain the ability to own all Skill-imbued Gauntlets.		manual	quest	
-Feud, The		manual	quest	
-The Feud		manual	quest	
+Feud, The	確執	manual	quest	
+The Feud	確執	manual	quest	
 Learn how to use a Blackjack.		manual	quest	
-Fight Arena		manual	quest	
+Fight Arena	闘技場	manual	quest	
 Gain the Khazard armour.		manual	quest	
-Fishing Contest		manual	quest	
+Fishing Contest	釣りコンテスト	manual	quest	
 Gain access to White Wolf Mountain Pass.		manual	quest	
-Forgettable Tale...		manual	quest	
-Forsaken Tower, The		manual	quest	
-The Forsaken Tower		manual	quest	
+Forgettable Tale...	忘れがちな物語	manual	quest	
+Forsaken Tower, The	放棄された塔	manual	quest	
+The Forsaken Tower	放棄された塔	manual	quest	
 Gain the Lovakengj Memoirs teleport.		manual	quest	
-Fremennik Exiles, The		manual	quest	
-The Fremennik Exiles		manual	quest	
+Fremennik Exiles, The	フレメニックの追放者	manual	quest	
+The Fremennik Exiles	フレメニックの追放者	manual	quest	
 Gain a V's Shield.		manual	quest	
-Fremennik Isles, The		manual	quest	
-The Fremennik Isles		manual	quest	
+Fremennik Isles, The	フレメニックの島々	manual	quest	
+The Fremennik Isles	フレメニックの島々	manual	quest	
 Gain a Helm of Neitiznot.		manual	quest	
-Fremennik Trials, The		manual	quest	
-The Fremennik Trials		manual	quest	
+Fremennik Trials, The	フレメニックの試験	manual	quest	
+The Fremennik Trials	フレメニックの試験	manual	quest	
 Gain great XP in several skills.		manual	quest	
-Garden of Tranquillity		manual	quest	
+Garden of Tranquillity	静寂の庭	manual	quest	
 Gain an Activated Ring of Charos.		manual	quest	
-General's Shadow, The		manual	quest	
-The General's Shadow		manual	quest	
+General's Shadow, The	将軍の影	manual	quest	
+The General's Shadow	将軍の影	manual	quest	
 Gain the Shadow Sword.		manual	quest	
-Gertrude's Cat		manual	quest	
+Gertrude's Cat	ゲートルードのネコ	manual	quest	
 Gain a pet Kitten.		manual	quest	
-Getting Ahead		manual	quest	
+Getting Ahead	先頭に立つ	manual	quest	
 Help Gordon protect his farm.		manual	quest	
-Ghosts Ahoy		manual	quest	
+Ghosts Ahoy	幽霊さんヤッホー	manual	quest	
 Gain access to Ectophial teleportation.		manual	quest	
-Giant Dwarf, The		manual	quest	
-The Giant Dwarf		manual	quest	
+Giant Dwarf, The	巨大なドワーフ	manual	quest	
+The Giant Dwarf	巨大なドワーフ	manual	quest	
 Learn how to travel by minecart.		manual	quest	
-Goblin Diplomacy		manual	quest	
+Goblin Diplomacy	ゴブリンとの外交	manual	quest	
 Investigate the disturbance in Goblin Village.		manual	quest	
-Golem, The		manual	quest	
-The Golem		manual	quest	
+Golem, The	ザ・ゴーレム	manual	quest	
+The Golem	ザ・ゴーレム	manual	quest	
 Gain access to the Carpet rides to Uzer.		manual	quest	
-Grand Tree, The		manual	quest	
-The Grand Tree		manual	quest	
+Grand Tree, The	グランド・ツリー	manual	quest	
+The Grand Tree	グランド・ツリー	manual	quest	
 Gain access to the Gnome Glider transportation.		manual	quest	
-Great Brain Robbery, The		manual	quest	
-The Great Brain Robbery		manual	quest	
+Great Brain Robbery, The	大脳みそ大泥棒	manual	quest	
+The Great Brain Robbery	大脳みそ大泥棒	manual	quest	
 Gain a Barrelchest Anchor.		manual	quest	
-Grim Tales		manual	quest	
+Grim Tales	残酷な物語	manual	quest	
 Hand in the Sand, The		manual	quest	
-The Hand in the Sand		manual	quest	
+The Hand in the Sand	砂の中の手	manual	quest	
 Gain access to the Wizards' Guild Rune Shop.		manual	quest	
-Haunted Mine		manual	quest	
+Haunted Mine	呪われた採掘現場	manual	quest	
 Gain a Salve Amulet.		manual	quest	
-Hazeel Cult		manual	quest	
+Hazeel Cult	ヘーゼル・カルト	manual	quest	
 Gain the Carnillean armour.		manual	quest	
-Heroes' Quest		manual	quest	
+Heroes' Quest	ヒーロー・クエスト	manual	quest	
 Learn how to wield Dragon Battleaxes and Maces.		manual	quest	
-Holy Grail		manual	quest	
+Holy Grail	聖杯	manual	quest	
 Gain great Prayer and Defence XP.		manual	quest	
-Horror from the Deep		manual	quest	
+Horror from the Deep	深淵の恐怖	manual	quest	
 Gain a God book.		manual	quest	
-Icthlarin's Little Helper		manual	quest	
+Icthlarin's Little Helper	イクスラリンの小さな助手	manual	quest	
 Gain access to Sophanem.		manual	quest	
-Imp Catcher		manual	quest	
+Imp Catcher	小悪魔捕り	manual	quest	
 Gain early game Magic XP.		manual	quest	
-In Aid of the Myreque		manual	quest	
+In Aid of the Myreque	マイラークを助けるために	manual	quest	
 Gain access to the Temple Trekking minigame.		manual	quest	
-In Search of Knowledge		manual	quest	
+In Search of Knowledge	知識を求めて	manual	quest	
 Gain an XP Lamp.		manual	quest	
-In Search of the Myreque		manual	quest	
+In Search of the Myreque	マイラークを探せ	manual	quest	
 Start the Myreque storyline.		manual	quest	
-Jungle Potion		manual	quest	
+Jungle Potion	ジャングル・ポーション	manual	quest	
 Assist Trufitus Shakaya with his ritual.		manual	quest	
-Kingdom Divided, A		manual	quest	
-A Kingdom Divided		manual	quest	
+Kingdom Divided, A	分裂した王国	manual	quest	
+A Kingdom Divided	分裂した王国	manual	quest	
 Learn how to cast Resurrection spells.		manual	quest	
-King's Ransom		manual	quest	
+King's Ransom	王の身代金	manual	quest	
 Learn how to use the Chivalry and Piety prayers.		manual	quest	
-Knight's Sword, The		manual	quest	
-The Knight's Sword		manual	quest	
+Knight's Sword, The	騎士の剣	manual	quest	
+The Knight's Sword	騎士の剣	manual	quest	
 Gain great Smithing XP.		manual	quest	
-Lair of Tarn Razorlor		manual	quest	
+Lair of Tarn Razorlor	ターン・ラゾローの隠れ家	manual	quest	
 Gain an enchanted Salve Amulet.		manual	quest	
-Legends' Quest		manual	quest	
+Legends' Quest	レジェンド・クエスト	manual	quest	
 Gain access to the Legend's Guild.		manual	quest	
-Lost City		manual	quest	
+Lost City	失われた都市	manual	quest	
 Gain access to Zanaris.		manual	quest	
-Lost Tribe, The		manual	quest	
-The Lost Tribe		manual	quest	
+Lost Tribe, The	失われた部族	manual	quest	
+The Lost Tribe	失われた部族	manual	quest	
 Gain access to the Bone Weapon Shop.		manual	quest	
-Lunar Diplomacy		manual	quest	
+Lunar Diplomacy	ルーナ族との外交	manual	quest	
 Learn how to cast Lunar spells.		manual	quest	
-Mage Arena I		manual	quest	
+Mage Arena I	魔術師アリーナ１	manual	quest	
 Unlock the God spells.		manual	quest	
-Mage Arena II		manual	quest	
+Mage Arena II	魔術師アリーナ２	manual	quest	
 Learn how to imbue the God Capes.		manual	quest	
-Making Friends with My Arm		manual	quest	
+Making Friends with My Arm	おいらの腕と友達に	manual	quest	
 Gain great XP and a disease-free herb patch.		manual	quest	
-Making History		manual	quest	
+Making History	歴史を作る	manual	quest	
 Help Jorral restore a historic location.		manual	quest	
-Merlin's Crystal		manual	quest	
+Merlin's Crystal	マーリンの水晶	manual	quest	
 Assist King Arthur in Camelot.		manual	quest	
-Misthalin Mystery		manual	quest	
-Monkey Madness I		manual	quest	
+Misthalin Mystery	ミスサリンの謎	manual	quest	
+Monkey Madness I	サルの狂気１	manual	quest	
 Learn how to wield Dragon Scimitars.		manual	quest	
-Monkey Madness II		manual	quest	
+Monkey Madness II	サルの狂気２	manual	quest	
 Gain great XP and a Royal Seed Pod.		manual	quest	
-Monk's Friend		manual	quest	
+Monk's Friend	僧侶の友達	manual	quest	
 Gain early game Woodcutting XP.		manual	quest	
-Mountain Daughter		manual	quest	
+Mountain Daughter	山の娘	manual	quest	
 Help the people of the Mountain Tribe.		manual	quest	
-Mourning's End Part I		manual	quest	
+Mourning's End Part I	哀悼の終わり　パート１	manual	quest	
 Gain great Hitpoint and Thieving XP.		manual	quest	
-Mourning's End Part II		manual	quest	
+Mourning's End Part II	哀悼の終わり　パート２	manual	quest	
 Learn how to craft Death Runes.		manual	quest	
-Murder Mystery		manual	quest	
+Murder Mystery	殺人事件の謎	manual	quest	
 Investigate a murder at Sinclair Mansion.		manual	quest	
-My Arm's Big Adventure		manual	quest	
+My Arm's Big Adventure	おいらの腕の大冒険	manual	quest	
 Gain access to a disease-free herb patch.		manual	quest	
 Nature Spirit	自然の精霊	manual	quest	
 Gain access to Mort Myre and the Nature Altar.		manual	quest	
-Night at the Theatre, A		manual	quest	
-A Night at the Theatre		manual	quest	
+Night at the Theatre, A	劇場の夜	manual	quest	
+A Night at the Theatre	劇場の夜	manual	quest	
 Experience the Theatre of Blood.		manual	quest	
-Observatory Quest		manual	quest	
+Observatory Quest	天文台のクエスト	manual	quest	
 Gain an Unholy Symbol Mould.		manual	quest	
-Olaf's Quest		manual	quest	
+Olaf's Quest	オラフのクエスト	manual	quest	
 Gain access to the Brine Rat Cavern.		manual	quest	
-One Small Favour		manual	quest	
+One Small Favour	ちょっとした頼み	manual	quest	
 Learn how to brew Guthix Rest Tea.		manual	quest	
-Pirate's Treasure		manual	quest	
+Pirate's Treasure	海賊の宝	manual	quest	
 Explore a story about buried treasure.		manual	quest	
-Plague City		manual	quest	
+Plague City	感染都市	manual	quest	
 Unlock the Ardougne teleport spell.		manual	quest	
-Porcine of Interest, A		manual	quest	
-A Porcine of Interest		manual	quest	
+Porcine of Interest, A	重要参考豚	manual	quest	
+A Porcine of Interest	重要参考豚	manual	quest	
 Learn how to hunt Slayer monsters.		manual	quest	
-Priest in Peril		manual	quest	
+Priest in Peril	危機に瀕した司祭	manual	quest	
 Gain access to Morytania.		manual	quest	
-Prince Ali Rescue		manual	quest	
+Prince Ali Rescue	アリ王子を救出せよ	manual	quest	
 Unlock Sorceress's Garden and gain free use of the Al Kharid Gate.		manual	quest	
-Queen of Thieves, The		manual	quest	
+Queen of Thieves, The	盗人の女王	manual	quest	
 The Queen of Thieves	盗人の女王	manual	quest	
 Gain the Port Piscarilius Memoirs teleport.		manual	quest	
-Rag and Bone Man I		manual	quest	
+Rag and Bone Man I	ぼろきれと骨の男１	manual	quest	
 Assist the Odd Old Man with a collection.		manual	quest	
-Rag and Bone Man II		manual	quest	
+Rag and Bone Man II	ぼろきれと骨の男２	manual	quest	
 Further assist the Odd Old Man with a collection.		manual	quest	
-Ratcatchers		manual	quest	
+Ratcatchers	ネズミ捕り	manual	quest	
 Learn new cat training methods.		manual	quest	
-Recipe for Disaster		manual	quest	
-Recruitment Drive		manual	quest	
+Recipe for Disaster	災難のレシピ	manual	quest	
+Recruitment Drive	採用活動	manual	quest	
 Gain a set of Initiate Armour.		manual	quest	
-Regicide		manual	quest	
+Regicide	国王殺し	manual	quest	
 Gain access to Zulrah's Shrine.		manual	quest	
-Restless Ghost, The		manual	quest	
-The Restless Ghost		manual	quest	
+Restless Ghost, The	眠れぬ霊	manual	quest	
+The Restless Ghost	眠れぬ霊	manual	quest	
 Gain a Ghostspeak Amulet.		manual	quest	
-Romeo & Juliet		manual	quest	
+Romeo & Juliet	ロミオとジュリエット	manual	quest	
 Gain Quest Points.		manual	quest	
-Roving Elves		manual	quest	
+Roving Elves	放浪するエルフ	manual	quest	
 Gain a Crystal Shield or Bow.		manual	quest	
-Royal Trouble		manual	quest	
+Royal Trouble	王家の問題	manual	quest	
 Gain enhanced rewards from Miscellenia.		manual	quest	
-Rum Deal		manual	quest	
+Rum Deal	ラムの取引	manual	quest	
 Gain a Holy Wrench.		manual	quest	
-Rune Mysteries		manual	quest	
+Rune Mysteries	ルーンの謎	manual	quest	
 Learn how to mine Rune Essence.		manual	quest	
-Scorpion Catcher		manual	quest	
+Scorpion Catcher	サソリ捕り	manual	quest	
 Help Thormac with a scorpion problem.		manual	quest	
-Sea Slug		manual	quest	
+Sea Slug	ウミウシ	manual	quest	
 Gain access to the Fishing Platform.		manual	quest	
-Shades of Mort'ton		manual	quest	
+Shades of Mort'ton	モートンの陰	manual	quest	
 Gain access to the Shades of Mort'ton minigame.		manual	quest	
-Shadow of the Storm		manual	quest	
+Shadow of the Storm	嵐の影	manual	quest	
 Assist Father Reen against an evil in the desert.		manual	quest	
-Sheep Herder		manual	quest	
+Sheep Herder	羊を飼うこと	manual	quest	
 Assist Councillor Halgrive with some sheep.		manual	quest	
-Sheep Shearer		manual	quest	
+Sheep Shearer	羊毛刈り	manual	quest	
 Gain early game Crafting XP.		manual	quest	
-Shield of Arrav		manual	quest	
+Shield of Arrav	アラヴの盾	manual	quest	
 Investigate the whereabouts of the Shield of Arrav.		manual	quest	
-Shilo Village		manual	quest	
+Shilo Village	シャイロ村	manual	quest	
 Gain access to Shilo Village.		manual	quest	
-Sins of the Father		manual	quest	
+Sins of the Father	父の罪	manual	quest	
 Gain access to Darkmeyer.		manual	quest	
-Skippy and the Mogres		manual	quest	
+Skippy and the Mogres	スキッピーとモーガ	manual	quest	
 Learn how to fight Mogres.		manual	quest	
-Slug Menace, The		manual	quest	
-The Slug Menace		manual	quest	
+Slug Menace, The	ナメクジの脅威	manual	quest	
+The Slug Menace	ナメクジの脅威	manual	quest	
 Learn how to equip Proselyte Armour.		manual	quest	
-Song of the Elves		manual	quest	
+Song of the Elves	エルフの歌	manual	quest	
 Gain access to Prifddinas.		manual	quest	
-Soul's Bane, A		manual	quest	
-A Soul's Bane		manual	quest	
+Soul's Bane, A	魂の呪縛	manual	quest	
+A Soul's Bane	魂の呪縛	manual	quest	
 Help Launa find her family.		manual	quest	
-Spirits of the Elid		manual	quest	
+Spirits of the Elid	エリッドの魂	manual	quest	
 Gain access to Nardah's fountain and shrine.		manual	quest	
-Swan Song		manual	quest	
+Swan Song	白鳥の歌	manual	quest	
 Learn how to catch Monkfish.		manual	quest	
-Tai Bwo Wannai Trio		manual	quest	
+Tai Bwo Wannai Trio	タイ・ブオ・ワナイ・トリオ	manual	quest	
 Learn how to catch and cook Karambwan.		manual	quest	
-Tail of Two Cats, A		manual	quest	
-A Tail of Two Cats		manual	quest	
-Tale of the Righteous		manual	quest	
+Tail of Two Cats, A	２匹のネコの物語	manual	quest	
+A Tail of Two Cats	２匹のネコの物語	manual	quest	
+Tale of the Righteous	正義物語	manual	quest	
 Gain the Shayzien Memoirs teleport.		manual	quest	
-Taste of Hope, A		manual	quest	
-A Taste of Hope		manual	quest	
+Taste of Hope, A	希望の味	manual	quest	
+A Taste of Hope	希望の味	manual	quest	
 Gain Drakan's Medallion.		manual	quest	
 Tears of Guthix	ガシックスの涙	manual	quest	
 Gain access to the Tears of Guthix minigame.		manual	quest	
-Temple of Ikov		manual	quest	
-Throne of Miscellania		manual	quest	
+Temple of Ikov	アイコフの寺院	manual	quest	
+Throne of Miscellania	ミセラニアの王座	manual	quest	
 Learn how to manage the Kingdom of Miscellania.		manual	quest	
-Tourist Trap, The		manual	quest	
-The Tourist Trap		manual	quest	
+Tourist Trap, The	観光客の罠	manual	quest	
+The Tourist Trap	観光客の罠	manual	quest	
 Learn how to smith Darts.		manual	quest	
-Tower of Life		manual	quest	
+Tower of Life	生命の塔	manual	quest	
 Gain access to the Creature Creation minigame.		manual	quest	
-Tree Gnome Village		manual	quest	
+Tree Gnome Village	ツリー・ノームの村	manual	quest	
 Gain access to Spirit Tree teleportation.		manual	quest	
-Tribal Totem		manual	quest	
-Troll Romance		manual	quest	
+Tribal Totem	部族のトーテム	manual	quest	
+Troll Romance	トロールの恋愛	manual	quest	
 Gain a Sled.		manual	quest	
 Troll Stronghold	トロール要塞	manual	quest	
 Gain access to the God Wars Dungeon.		manual	quest	
-Underground Pass		manual	quest	
+Underground Pass	地下通路	manual	quest	
 Gain Iban's Staff.		manual	quest	
-Vampyre Slayer		manual	quest	
+Vampyre Slayer	吸血鬼スレイヤー	manual	quest	
 Help the people of Draynor Village with a vampyre problem.		manual	quest	
-Wanted!		manual	quest	
+Wanted!	指名手配	manual	quest	
 Gain access to the White Knight Armoury.		manual	quest	
 Watchtower	監視塔	manual	quest	
 Unlock the Watchtower teleport spell.		manual	quest	
-Waterfall Quest		manual	quest	
+Waterfall Quest	滝のクエスト	manual	quest	
 Gain great combat XP.		manual	quest	
-What Lies Below		manual	quest	
+What Lies Below	下に潜むモノ	manual	quest	
 Learn a shortcut to the Chaos Altar.		manual	quest	
-Witch's House		manual	quest	
-Witch's Potion		manual	quest	
-X Marks the Spot		manual	quest	
+Witch's House	魔女の家	manual	quest	
+Witch's Potion	魔女の薬液	manual	quest	
+X Marks the Spot	Xが示す場所	manual	quest	
 Learn about Clue Scrolls and Kourend.		manual	quest	
-Zogre Flesh Eaters		manual	quest	
+Zogre Flesh Eaters	肉を喰らうゾーガ	manual	quest	
 Learn how to make Relicym's Balm.		manual	quest	
-Frozen Door, The		manual	quest	
-The Frozen Door		manual	quest	
+Frozen Door, The	凍った扉	manual	quest	
+The Frozen Door	凍った扉	manual	quest	
 Gain access to Nex in the God Wars Dungeon.		manual	quest	
-Land of the Goblins		manual	quest	
+Land of the Goblins	ゴブリンの国	manual	quest	
 Continue the Dorgeshuun storyline.		manual	quest	
-Hopespear's Will		manual	quest	
+Hopespear's Will	ホープスピアの遺言	manual	quest	
 Gain great Prayer XP.		manual	quest	
-Temple of the Eye		manual	quest	
+Temple of the Eye	目の寺院	manual	quest	
 Gain access to the Guardians of the Rift minigame.		manual	quest	
-Beneath Cursed Sands		manual	quest	
+Beneath Cursed Sands	呪われた砂の下	manual	quest	
 Gain access to the Tombs of Amascut.		manual	quest	
-Sleeping Giants		manual	quest	
+Sleeping Giants	眠る巨人	manual	quest	
 Gain access to the Giants' Foundry.		manual	quest	
-Garden of Death, The		manual	quest	
-The Garden of Death		manual	quest	
+Garden of Death, The	死の庭	manual	quest	
+The Garden of Death	死の庭	manual	quest	
 Uncover the fate of the Old Ones.		manual	quest	
-Into the Tombs		manual	quest	
+Into the Tombs	墓の中へ	manual	quest	
 Experience the Tombs of Amascut.		manual	quest	
-Recipe for Disaster Another Cook's Quest		manual	quest	
-Recipe for Disaster - Another Cook's Quest		manual	quest	
+Recipe for Disaster Another Cook's Quest	災難のレシピ　もう一つの料理人クエスト	manual	quest	
+Recipe for Disaster - Another Cook's Quest	災難のレシピ：もう一つの料理人クエスト	manual	quest	
 Gain access to the Culinaromancer's Chest.		manual	quest	
-Recipe for Disaster Dwarf		manual	quest	
-Recipe for Disaster - Mountain Dwarf		manual	quest	
+Recipe for Disaster Dwarf	災難のレシピ　ドワーフ	manual	quest	
+Recipe for Disaster - Mountain Dwarf	災難のレシピ：山ドワーフ	manual	quest	
 Gain further access to the Culinaromancer's Chest.		manual	quest	
-Recipe for Disaster Goblins		manual	quest	
-Recipe for Disaster - Wartface & Bentnoze		manual	quest	
-Recipe for Disaster Pirate		manual	quest	
-Recipe for Disaster - Pirate Pete		manual	quest	
-Recipe for Disaster Lumbridge Guide		manual	quest	
-Recipe for Disaster - Lumbridge Guide		manual	quest	
-Recipe for Disaster Dave		manual	quest	
-Recipe for Disaster - Evil Dave		manual	quest	
-Recipe for Disaster Uglogwee		manual	quest	
-Recipe for Disaster - Skrach Uglogwee		manual	quest	
-Recipe for Disaster Amik Varze		manual	quest	
-Recipe for Disaster - Sir Amik Varze		manual	quest	
-Recipe for Disaster Awowogei		manual	quest	
-Recipe for Disaster - King Awowogei		manual	quest	
-Recipe for Disaster Culinaromancer		manual	quest	
-Recipe for Disaster - Culinaromancer		manual	quest	
+Recipe for Disaster Goblins	災難のレシピ　ゴブリン	manual	quest	
+Recipe for Disaster - Wartface & Bentnoze	災難のレシピ：ワートフェース＆ベントノーズ	manual	quest	
+Recipe for Disaster Pirate	災難のレシピ　海賊	manual	quest	
+Recipe for Disaster - Pirate Pete	災難のレシピ：海賊のピート	manual	quest	
+Recipe for Disaster Lumbridge Guide	災難のレシピ　ランブリッジの案内人	manual	quest	
+Recipe for Disaster - Lumbridge Guide	災難のレシピ：ランブリッジの案内人	manual	quest	
+Recipe for Disaster Dave	災難のレシピ　デーヴ	manual	quest	
+Recipe for Disaster - Evil Dave	災難のレシピ：邪悪なデーヴ	manual	quest	
+Recipe for Disaster Uglogwee	災難のレシピ　ウグログウィー	manual	quest	
+Recipe for Disaster - Skrach Uglogwee	災難のレシピ：スクラチ・ウグログウィー	manual	quest	
+Recipe for Disaster Amik Varze	災難のレシピ　アミック・バーズ	manual	quest	
+Recipe for Disaster - Sir Amik Varze	災難のレシピ：サー・アミック・バーズ	manual	quest	
+Recipe for Disaster Awowogei	災難のレシピ　アウォウォゲイ	manual	quest	
+Recipe for Disaster - King Awowogei	災難のレシピ：アウォウォゲイ王	manual	quest	
+Recipe for Disaster Culinaromancer	災難のレシピ　料理の魔術師	manual	quest	
+Recipe for Disaster - Culinaromancer	災難のレシピ　料理の魔術師	manual	quest	
 Complete the storyline and unlock the Barrows Gloves.		manual	quest	
-Secrets of the North		manual	quest	
+Secrets of the North	北陸の秘密	manual	quest	
 Uncover the Secrets of the North and unlock a new boss.		manual	quest	
-Desert Treasure II - The Fallen Empire		manual	quest	
+Desert Treasure II - The Fallen Empire	砂漠の宝２：墜ちた帝国	manual	quest	
 Uncover the history of the Fallen Empire and unlock four new bosses.		manual	quest	
-His Faithful Servants		manual	quest	
+His Faithful Servants	あの方の忠実な従者達	manual	quest	
 Take on the Barrows Brothers.		manual	quest	
-Path of Glouphrie, The		manual	quest	
-The Path of Glouphrie		manual	quest	
+Path of Glouphrie, The	グルフリーの道	manual	quest	
+The Path of Glouphrie	グルフリーの道	manual	quest	
 Unlock the Poison Waste Dungeon.		manual	quest	
-Children of the Sun		manual	quest	
+Children of the Sun	太陽の子	manual	quest	
 Gain access to the Kingdom of Varlamore.		manual	quest	
-Barbarian Training		manual	quest	
+Barbarian Training	蛮族の訓練	manual	quest	
 Unlock the strength of a Barbarian.		manual	quest	
-Defender of Varrock		manual	quest	
+Defender of Varrock	ヴァロックの守護者	manual	quest	
 Defend Varrock from a zombie invasion.		manual	quest	
-While Guthix Sleeps		manual	quest	
+While Guthix Sleeps	ガシックスが眠る間	manual	quest	
 Stop a deadly Mahjarrat from finding an artefact of incomprehensible power.		manual	quest	
-Twilight's Promise		manual	quest	
+Twilight's Promise	黄昏の約束	manual	quest	
 Take your first steps into Varlamore and unlock the Quetzal Transport System.		manual	quest	
-At First Light		manual	quest	
+At First Light	夜が明けるとき	manual	quest	
 Learn about the role of the Hunter Guild and unlock higher tier rumours.		manual	quest	
-Perlious Moons		manual	quest	
-Perilous Moons		manual	quest	
+Perlious Moons	危険な月	manual	quest	
+Perilous Moons	危険な月々	manual	quest	
 Explore an ancient ruin and unlock the Moons of Peril.		manual	quest	
-Ribbiting Tale of a Lily Pad Labour Dispute, The		manual	quest	
-The Ribbiting Tale of a Lily Pad Labour Dispute		manual	quest	
+Ribbiting Tale of a Lily Pad Labour Dispute, The	スイレンの葉の労働争議物語	manual	quest	
+The Ribbiting Tale of a Lily Pad Labour Dispute	スイレンの葉の労働争議物語	manual	quest	
 Solve a ribbiting dispute and gain access to a new Hardwood Farming Patch.		manual	quest	
-Monkeys		manual	slayer_mob	
-Goblins		manual	slayer_mob	
-Rats		manual	slayer_mob	
-Spiders		manual	slayer_mob	
-Birds		manual	slayer_mob	
-Cows		manual	slayer_mob	
-Scorpions		manual	slayer_mob	
-Bats		manual	slayer_mob	
-Wolves		manual	slayer_mob	
-Zombies		manual	slayer_mob	
-Skeletons		manual	slayer_mob	
-Ghosts		manual	slayer_mob	
-Bears		manual	slayer_mob	
-Hill Giants		manual	slayer_mob	
-Ice Giants		manual	slayer_mob	
-Fire Giants		manual	slayer_mob	
-Moss Giants		manual	slayer_mob	
-Trolls		manual	slayer_mob	
-Ice Warriors		manual	slayer_mob	
-Ogres		manual	slayer_mob	
-Hobgoblins		manual	slayer_mob	
-Dogs		manual	slayer_mob	
-Ghouls		manual	slayer_mob	
-Green Dragons		manual	slayer_mob	
-Blue Dragons		manual	slayer_mob	
-Red Dragons		manual	slayer_mob	
-Black Dragons		manual	slayer_mob	
-Lesser Demons		manual	slayer_mob	
-Greater Demons		manual	slayer_mob	
-Black Demons		manual	slayer_mob	
-Hellhounds		manual	slayer_mob	
-Shadow Warriors		manual	slayer_mob	
-Werewolves		manual	slayer_mob	
-Vampyres		manual	slayer_mob	
+Monkeys	サル	manual	slayer_mob	
+Goblins	ゴブリン	manual	slayer_mob	
+Rats	ネズミ	manual	slayer_mob	
+Spiders	クモ	manual	slayer_mob	
+Birds	鳥	manual	slayer_mob	
+Cows	牛	manual	slayer_mob	
+Scorpions	サソリ	manual	slayer_mob	
+Bats	コウモリ	manual	slayer_mob	
+Wolves	オオカミ	manual	slayer_mob	
+Zombies	ゾンビ	manual	slayer_mob	
+Skeletons	スケルトン	manual	slayer_mob	
+Ghosts	幽霊	manual	slayer_mob	
+Bears	クマ	manual	slayer_mob	
+Hill Giants	丘の巨人	manual	slayer_mob	
+Ice Giants	氷の巨人	manual	slayer_mob	
+Fire Giants	火の巨人	manual	slayer_mob	
+Moss Giants	コケの巨人	manual	slayer_mob	
+Trolls	トロール	manual	slayer_mob	
+Ice Warriors	氷の戦士	manual	slayer_mob	
+Ogres	オーガ	manual	slayer_mob	
+Hobgoblins	ホブゴブリン	manual	slayer_mob	
+Dogs	犬	manual	slayer_mob	
+Ghouls	グール	manual	slayer_mob	
+Green Dragons	緑竜	manual	slayer_mob	
+Blue Dragons	青竜	manual	slayer_mob	
+Red Dragons	赤竜	manual	slayer_mob	
+Black Dragons	黒竜	manual	slayer_mob	
+Lesser Demons	下位悪魔	manual	slayer_mob	
+Greater Demons	上位悪魔	manual	slayer_mob	
+Black Demons	黒悪魔	manual	slayer_mob	
+Hellhounds	ヘルハウンド	manual	slayer_mob	
+Shadow Warriors	影の戦士	manual	slayer_mob	
+Werewolves	人狼	manual	slayer_mob	
+Vampyres	吸血鬼	manual	slayer_mob	
 Dagannoth	ダガノス	manual	slayer_mob	
 Turoth	ツーロス	manual	slayer_mob	
-Cave Crawlers		manual	slayer_mob	
-Banshees		manual	slayer_mob	
-Crawling Hands		manual	slayer_mob	
-Infernal Mages		manual	slayer_mob	
-Aberrant Spectres		manual	slayer_mob	
-Abyssal Demons		manual	slayer_mob	
-Basilisks		manual	slayer_mob	
+Cave Crawlers	洞窟を這うモノ	manual	slayer_mob	
+Banshees	バンシー	manual	slayer_mob	
+Crawling Hands	這う手	manual	slayer_mob	
+Infernal Mages	獄炎の魔術師	manual	slayer_mob	
+Aberrant Spectres	異形の亡霊	manual	slayer_mob	
+Abyssal Demons	深淵の悪魔	manual	slayer_mob	
+Basilisks	バジリスク	manual	slayer_mob	
 Cockatrice	コカトリス	manual	slayer_mob	
 Kurask	クラスク	manual	slayer_mob	
-Gargoyles		manual	slayer_mob	
-Pyrefiends		manual	slayer_mob	
+Gargoyles	ガーゴイル	manual	slayer_mob	
+Pyrefiends	パイヤーフィーンド	manual	slayer_mob	
 Bloodveld	ブラッドベルド	manual	slayer_mob	
-Dust Devils		manual	slayer_mob	
-Jellies		manual	slayer_mob	
-Rockslugs		manual	slayer_mob	
+Dust Devils	ダスト・デビル	manual	slayer_mob	
+Jellies	ゼリー	manual	slayer_mob	
+Rockslugs	岩ナメクジ	manual	slayer_mob	
 Nechryael	ネクリャエル	manual	slayer_mob	
-Kalphite		manual	slayer_mob	
-Earth Warriors		manual	slayer_mob	
-Otherworldly Beings		manual	slayer_mob	
-Elves		manual	slayer_mob	
-Dwarves		manual	slayer_mob	
-Bronze Dragons		manual	slayer_mob	
-Iron Dragons		manual	slayer_mob	
-Steel Dragons		manual	slayer_mob	
-Wall Beasts		manual	slayer_mob	
-CaveSlimes		manual	slayer_mob	
-CaveBugs		manual	slayer_mob	
-Shades		manual	slayer_mob	
-Crocodiles		manual	slayer_mob	
-Dark Beasts		manual	slayer_mob	
-Mogres		manual	slayer_mob	
-Lizards		manual	slayer_mob	
-Fever Spiders		manual	slayer_mob	
-Harpie Bug Swarms		manual	slayer_mob	
-Sea Snakes		manual	slayer_mob	
-FossilIsland Wyverns		manual	slayer_mob	
-Skeletal Wyverns		manual	slayer_mob	
-Killerwatts		manual	slayer_mob	
-Mutated Zygomites		manual	slayer_mob	
-Icefiends		manual	slayer_mob	
-Minotaurs		manual	slayer_mob	
-Fleshcrawlers		manual	slayer_mob	
+Kalphite	カルファイト	manual	slayer_mob	
+Earth Warriors	土の戦士	manual	slayer_mob	
+Otherworldly Beings	異世界の生命体	manual	slayer_mob	
+Elves	エルフ	manual	slayer_mob	
+Dwarves	ドワーフ	manual	slayer_mob	
+Bronze Dragons	銅の竜	manual	slayer_mob	
+Iron Dragons	鉄の竜	manual	slayer_mob	
+Steel Dragons	鋼鉄の竜	manual	slayer_mob	
+Wall Beasts	壁の獣	manual	slayer_mob	
+CaveSlimes	洞窟のスライム	manual	slayer_mob	
+CaveBugs	洞窟の虫	manual	slayer_mob	
+Shades	陰	manual	slayer_mob	
+Crocodiles	ワニ	manual	slayer_mob	
+Dark Beasts	暗黒獣	manual	slayer_mob	
+Mogres	モーガ	manual	slayer_mob	
+Lizards	トカゲ	manual	slayer_mob	
+Fever Spiders	熱病グモ	manual	slayer_mob	
+Harpie Bug Swarms	ハーピー虫の群れ	manual	slayer_mob	
+Sea Snakes	ウミヘビ	manual	slayer_mob	
+FossilIsland Wyverns	化石島のワイバーン	manual	slayer_mob	
+Skeletal Wyverns	骨ワイバーン	manual	slayer_mob	
+Killerwatts	キラーワット	manual	slayer_mob	
+Mutated Zygomites	変異ジゴマイト	manual	slayer_mob	
+Icefiends	アイスフィーンド	manual	slayer_mob	
+Minotaurs	ミノタウロス	manual	slayer_mob	
+Fleshcrawlers	肉を這うモノ	manual	slayer_mob	
 Catablepon	カタブレポン	manual	slayer_mob	
 Ankou	アンコウ	manual	slayer_mob	
-Cave Horrors		manual	slayer_mob	
-Jungle Horrors		manual	slayer_mob	
-Goraks		manual	slayer_mob	
-Suqahs		manual	slayer_mob	
-Brine Rats		manual	slayer_mob	
-Minions of Scabaras		manual	slayer_mob	
-Terror Dogs		manual	slayer_mob	
-Molanisks		manual	slayer_mob	
-Waterfiends		manual	slayer_mob	
-Spiritual Creatures		manual	slayer_mob	
-Lizardmen		manual	slayer_mob	
-Magic Axes		manual	slayer_mob	
-Mithril Dragons		manual	slayer_mob	
-Adamant Dragons		manual	slayer_mob	
-Rune Dragons		manual	slayer_mob	
-Aviansies		manual	slayer_mob	
-Cave Kraken		manual	slayer_mob	
-Smoke Devils		manual	slayer_mob	
-TzHaar		manual	slayer_mob	
+Cave Horrors	洞窟の怪物	manual	slayer_mob	
+Jungle Horrors	ジャングルの怪物	manual	slayer_mob	
+Goraks	ゴラク	manual	slayer_mob	
+Suqahs	スーカア	manual	slayer_mob	
+Brine Rats	塩水ネズミ	manual	slayer_mob	
+Minions of Scabaras	スカラバスの手下	manual	slayer_mob	
+Terror Dogs	テラー・ドッグ	manual	slayer_mob	
+Molanisks	モラニスク	manual	slayer_mob	
+Waterfiends	ウォーターフィーンド	manual	slayer_mob	
+Spiritual Creatures	霊的な兵士	manual	slayer_mob	
+Lizardmen	リザードマン	manual	slayer_mob	
+Magic Axes	魔法の斧	manual	slayer_mob	
+Mithril Dragons	ミスリルの竜	manual	slayer_mob	
+Adamant Dragons	アダマントの竜	manual	slayer_mob	
+Rune Dragons	ルーンの竜	manual	slayer_mob	
+Aviansies	アヴィアンシー	manual	slayer_mob	
+Cave Kraken	洞窟クラーケン	manual	slayer_mob	
+Smoke Devils	スモーク・デビル	manual	slayer_mob	
+TzHaar	ツザー	manual	slayer_mob	
 TzTok-Jad	ツズトク・ジャッド	manual	slayer_mob	
 Bosses	ボス	manual	slayer_mob	
-Mammoths		manual	slayer_mob	
-Rogues		manual	slayer_mob	
-Ents		manual	slayer_mob	
-Bandits		manual	slayer_mob	
-Dark Warriors		manual	slayer_mob	
-Lava Dragons		manual	slayer_mob	
+Mammoths	マンモス	manual	slayer_mob	
+Rogues	ローグ	manual	slayer_mob	
+Ents	エント	manual	slayer_mob	
+Bandits	盗賊	manual	slayer_mob	
+Dark Warriors	暗黒の戦士	manual	slayer_mob	
+Lava Dragons	溶岩の竜	manual	slayer_mob	
 TzKal-Zuk	ツズカル・ザック	manual	slayer_mob	
-Revenants		manual	slayer_mob	
-Chaos Druids		manual	slayer_mob	
-Wyrms		manual	slayer_mob	
-Drakes		manual	slayer_mob	
-Hydras		manual	slayer_mob	
-Brutal BlackDragons		manual	slayer_mob	
-Sulphur Lizards		manual	slayer_mob	
-Temple Spiders		manual	slayer_mob	
-Undead Druids		manual	slayer_mob	
-Sand Crabs		manual	slayer_mob	
-BlackKnights		manual	slayer_mob	
-Pirates		manual	slayer_mob	
-Sourhogs		manual	slayer_mob	
-Warped Creatures		manual	slayer_mob	
-Lesser Nagua		manual	slayer_mob	
+Revenants	幽鬼	manual	slayer_mob	
+Chaos Druids	混沌ドルイド	manual	slayer_mob	
+Wyrms	ワーム	manual	slayer_mob	
+Drakes	ドレイク	manual	slayer_mob	
+Hydras	ヒドラ	manual	slayer_mob	
+Brutal BlackDragons	残酷な黒竜	manual	slayer_mob	
+Sulphur Lizards	硫黄トカゲ	manual	slayer_mob	
+Temple Spiders	テンプルグモ	manual	slayer_mob	
+Undead Druids	アンデッド・ドルイド	manual	slayer_mob	
+Sand Crabs	砂ガニ	manual	slayer_mob	
+BlackKnights	暗黒騎士	manual	slayer_mob	
+Pirates	海賊	manual	slayer_mob	
+Sourhogs	ソーホッグ	manual	slayer_mob	
+Warped Creatures	歪んだ生物	manual	slayer_mob	
+Lesser Nagua	下位のナーガ	manual	slayer_mob	
 Gargoyle Smasher		manual	slayer_reward	
 Slug Salter		manual	slayer_reward	
 Reptile Freezer		manual	slayer_reward	

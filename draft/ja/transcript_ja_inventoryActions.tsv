@@ -352,3 +352,112 @@ Add-5	５コ加える	inventoryActions	item
 Add-10	10コ加える	inventoryActions	item	
 Add-All	全て加える	inventoryActions	item	
 Add-X	Xコ加える	inventoryActions	item	
+Edgeville	エッジビルへ移動	inventoryActions	item	Amulet of glory(1)
+Karamja	カラムジャ	inventoryActions	item	Amulet of glory(1)
+Draynor Village	ドレイナー村	inventoryActions	item	Amulet of glory(1)
+Al Kharid	アル・カリッド	inventoryActions	item	Amulet of glory(1)
+Tan Leather	皮を革に	inventoryActions	item	Leather
+Recharge Dragonstone	竜石チャージ	inventoryActions	item	Dead orb
+Emir's Arena	エミアのアリーナ	inventoryActions	item	Ring of dueling(8)
+Castle Wars	キャッスル・ウォーズ	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	フェロックス・オンクレーブ	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	フォーティス闘技場	inventoryActions	item	Ring of dueling(8)
+Bloom	咲かせる	inventoryActions	item	Silver sickle (b)
+Rellekka	レレカへ移動	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	ウオーターバース島	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	ネイチズノットへ移動	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	ジャティスゾ	inventoryActions	item	Enchanted lyre(1)
+Burthorpe	バーソープ	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	蛮族の前哨基地	inventoryActions	item	Games necklace(8)
+Corporeal Beast	コーポリアル獣	inventoryActions	item	Games necklace(8)
+Tears of Guthix	ガシックスの涙	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	ウィンタートッド・キャンプ	inventoryActions	item	Games necklace(8)
+Surrender	降伏	inventoryActions	item	Hooded cloak
+Fling	投げる	inventoryActions	item	Easter basket
+Teleport	ワープ	inventoryActions	item	Camulet
+Geomancy	ジェオマンシー	inventoryActions	item	Watering can
+Boost	ブースト	inventoryActions	item	Attack cape
+Warriors' Guild	戦士ギルド	inventoryActions	item	Strength cape
+Check Totals	合計値を確認	inventoryActions	item	Butterfly net
+Prance	跳ねる	inventoryActions	item	Reindeer hat
+Farming Guild	農業ギルド	inventoryActions	item	Skills necklace(4)
+Mining Guild	採掘ギルド	inventoryActions	item	Skills necklace(4)
+Crafting Guild	工作ギルド	inventoryActions	item	Skills necklace(4)
+Cooking Guild	料理ギルド	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	木こりギルド	inventoryActions	item	Skills necklace(4)
+Champions' Guild	チャンピオン・ギルド	inventoryActions	item	Combat bracelet(4)
+Monastery	修道院	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	弓ギルド	inventoryActions	item	Combat bracelet(4)
+Fossil Island	化石島	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	リスクレン・ダンジョン	inventoryActions	item	Digsite pendant (1)
+Digsite	発掘現場	inventoryActions	item	Digsite pendant (1)
+Master	達人	inventoryActions	item	Slayer ring (8)
+Miscellania	ミセラニア	inventoryActions	item	Ring of wealth (5)
+Falador	ファラドー	inventoryActions	item	Ring of wealth (5)
+Dondakan	ドンダカン	inventoryActions	item	Ring of wealth (5)
+Boss Log	ボスログ	inventoryActions	item	Ring of wealth (5)
+Coin Collection	コイン回収	inventoryActions	item	Ring of wealth (5)
+Tip	傾ける	inventoryActions	item	Fedora
+Basic Reanimation	基本蘇生術	inventoryActions	item	Easter
+Check Rank	ランクを確認	inventoryActions	item	Druidic wreath
+Ectofuntus Pit	エクトファンタスのピット	inventoryActions	item	Morytania legs 1
+Burgh de Rott	バーグ・ドゥ・ロット	inventoryActions	item	Morytania legs 3
+Recharge Prayer	祈力を回復	inventoryActions	item	Falador shield 1
+Kandarin Monastery	カンダリン修道院	inventoryActions	item	Ardougne cloak 1
+Ardougne Farm	アルドイン農場	inventoryActions	item	Ardougne cloak 2
+Fishing Teleports	釣り場ワープ地点	inventoryActions	item	Max cape
+POH Portals	家ポータル	inventoryActions	item	Max cape
+Other Teleports	その他のワープ	inventoryActions	item	Max cape
+Xeric's Lookout	ゼリックの見張り	inventoryActions	item	Xeric's talisman
+Xeric's Glade	ゼリックの空地	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	ゼリックの猛火	inventoryActions	item	Xeric's talisman
+Xeric's Heart	ゼリックの中心	inventoryActions	item	Xeric's talisman
+Xeric's Honour	ゼリックの名誉	inventoryActions	item	Xeric's talisman
+Check Charges	チャージ確認	inventoryActions	item	Chronicle
+Teleport to Target	標的へワープ	inventoryActions	item	Dead orb
+Recoil Settings	反射の設定	inventoryActions	item	Ring of suffering (r)
+The Outpost	前哨基地	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	ワシの巣	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	魔法使いの塔	inventoryActions	item	Necklace of passage(5)
+Bandit Camp	盗賊のキャンプ地	inventoryActions	item	Burning amulet(5)
+Lava Maze	溶岩の迷路	inventoryActions	item	Burning amulet(5)
+Chaos Temple	混沌の寺院	inventoryActions	item	Burning amulet(5)
+Throw-water north	北に水を投げる	inventoryActions	item	Heat-proof vessel
+Throw-water east	東に水を投げる	inventoryActions	item	Heat-proof vessel
+Throw-water south	南に水を投げる	inventoryActions	item	Heat-proof vessel
+Throw-water west	西に水を投げる	inventoryActions	item	Heat-proof vessel
+Recharge	チャージ	inventoryActions	item	Ancient wyvern shield
+Lunch by the Lancalliums	ランカリウムの隣で昼食	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	釣り人のフルート	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	歴史と伝聞	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	歓喜の宝石	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	暗黒の気質	inventoryActions	item	Kharedst's memoirs
+Toggle absorption	吸収の切り替え	inventoryActions	item	Bracelet of ethereum
+Slash	切り裂く	inventoryActions	item	Prop sword
+Trophy Emote	トロフィーのエモート	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	ツイステッド・リーグのエモート	inventoryActions	item	Twisted cane
+Use	使う	inventoryActions	item	Plank sack
+Open-All	全て開く	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	トレールブレイザー・リーグのエモート	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	トレールブレイザー区域のエモート	inventoryActions	item	Trailblazer cane
+Fairy-Ring	妖精の輪	inventoryActions	item	Fairy mushroom
+Spirit-tree	精霊樹	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	農具のレプラコーン	inventoryActions	item	Fairy mushroom
+Skill Emote	スキルのエモート	inventoryActions	item	Shattered cane
+Boss Emote	ボスのエモート	inventoryActions	item	Shattered cane
+Quest Emote	クエストのエモート	inventoryActions	item	Shattered cane
+Fragment Emote	破片のエモート	inventoryActions	item	Shattered cane
+Air Altar	大気の祭壇	inventoryActions	item	Ring of the elements
+Water Altar	水の祭壇	inventoryActions	item	Ring of the elements
+Earth Altar	土の祭壇	inventoryActions	item	Ring of the elements
+Fire Altar	火の祭壇	inventoryActions	item	Ring of the elements
+Jalsavrah	ジャルサヴラー	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	ジャルストロフォス	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	ジャルドラオッチ	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	ジャルテヴァス	inventoryActions	item	Pharaoh's sceptre
+Accept trick-or-treat	トリック・オア・トリートを受け取る	inventoryActions	item	Treat cauldron
+Ancient Vault	古代の金庫	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	ゴロック・ダンジョン	inventoryActions	item	Ring of shadows
+The Scar	ザ・スカー	inventoryActions	item	Ring of shadows
+Lassar Undercity	ラサーの地下都市	inventoryActions	item	Ring of shadows
+The Stranglewood	ストラングルウッド	inventoryActions	item	Ring of shadows

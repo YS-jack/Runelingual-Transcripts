@@ -3812,7 +3812,7 @@ Tangleroot	タングルルート	name	object	Tangleroot
 Hellcat	ヘルキャット	name	object	Hellcat
 Overgrown cat	老いたネコ	name	object	Overgrown cat
 Overgrown hellcat	老いたヘルキャット	name	object	Overgrown hellcat
-Lazy cat	怠惰なネコ	name	object	Lazy cat
+Lazy cat	怠惰ネコ	name	object	Lazy cat
 Lazy hellcat	怠惰なヘルキャット	name	object	Lazy hellcat
 Wily cat	ずる賢いネコ	name	object	Wily cat
 Wily hellcat	ずる賢いヘルキャット	name	object	Wily hellcat
@@ -3970,7 +3970,7 @@ Spider eggs	クモの卵	name	object	Spider eggs
 Plants	植物	name	object	Plants
 Armour crate	防具箱	name	object	Armour crate
 Hardcore armour crate	ハードコアの防具箱	name	object	Hardcore armour crate
-Frozen Door	凍ったドア	name	object	Frozen Door
+Frozen Door	凍った扉	name	object	Frozen Door
 Ancient Plaque	古代の銘板	name	object	Ancient Plaque
 Ancient Forge	古代の炉	name	object	Ancient Forge
 Ancient Barrier	古代のバリアー	name	object	Ancient Barrier

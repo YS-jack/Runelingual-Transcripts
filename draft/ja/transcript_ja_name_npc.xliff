@@ -3587,7 +3587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10631">
         <xliff:source>Hazeel</xliff:source>
-        <xliff:target state="translated">ハジール</xliff:target>
+        <xliff:target state="translated">ヘーゼル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hazeel
@@ -3595,7 +3595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10632">
         <xliff:source>Hazeel Cultist</xliff:source>
-        <xliff:target state="translated">ハジール信者</xliff:target>
+        <xliff:target state="translated">ヘーゼル信者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Hazeel Cultist
@@ -5163,7 +5163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10828">
         <xliff:source>Lazy cat</xliff:source>
-        <xliff:target state="translated">怠惰なネコ</xliff:target>
+        <xliff:target state="translated">怠惰ネコ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lazy cat

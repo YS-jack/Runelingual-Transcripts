@@ -1278,9 +1278,9 @@ Shaman robe	シャーマンのローブ	name	item	Shaman robe
 Cave nightshade	洞窟のナイトシェード	name	item	Cave nightshade
 Silverlight key	シルバーライトの鍵	name	item	Silverlight key
 Silverlight	シルバーライト	name	item	Silverlight
-Hazeel scroll	はジールの巻物	name	item	Hazeel scroll
+Hazeel scroll	ヘーゼルの巻物	name	item	Hazeel scroll
 Carnillean armour	カルニレアンの胸甲	name	item	Carnillean armour
-Hazeel's mark	はジールのマーク	name	item	Hazeel's mark
+Hazeel's mark	ヘーゼルのマーク	name	item	Hazeel's mark
 Ball	ボール	name	item	Ball
 Diary	日記	name	item	Diary
 Door key	ドアの鍵	name	item	Door key
@@ -3023,102 +3023,102 @@ Lederhosen top	レーダーホーゼンのシャツ	name	item	Lederhosen top
 Lederhosen shorts	レーダーホーゼンのショーツ	name	item	Lederhosen shorts
 Lederhosen hat	レーダーホーゼンのハット	name	item	Lederhosen hat
 Frog token	カエルのトークン	name	item	Frog token
-Royal frog tunic		name	item	Royal frog tunic
-Royal frog leggings		name	item	Royal frog leggings
-Royal frog blouse		name	item	Royal frog blouse
-Royal frog skirt		name	item	Royal frog skirt
-Frog mask		name	item	Frog mask
-Mystery box		name	item	Mystery box
-Raw fishlike thing		name	item	Raw fishlike thing
-Fishlike thing		name	item	Fishlike thing
-Teak pyre logs		name	item	Teak pyre logs
-Mahogany pyre logs		name	item	Mahogany pyre logs
-Broodoo shield (10)		name	item	Broodoo shield (10)
-Broodoo shield (9)		name	item	Broodoo shield (9)
-Broodoo shield (8)		name	item	Broodoo shield (8)
-Broodoo shield (7)		name	item	Broodoo shield (7)
-Broodoo shield (6)		name	item	Broodoo shield (6)
-Broodoo shield (5)		name	item	Broodoo shield (5)
-Broodoo shield (4)		name	item	Broodoo shield (4)
-Broodoo shield (3)		name	item	Broodoo shield (3)
-Broodoo shield (2)		name	item	Broodoo shield (2)
-Broodoo shield (1)		name	item	Broodoo shield (1)
-Broodoo shield		name	item	Broodoo shield
-Thatch spar light		name	item	Thatch spar light
-Thatch spar med		name	item	Thatch spar med
-Thatch spar dense		name	item	Thatch spar dense
-Snake hide		name	item	Snake hide
-Snakeskin		name	item	Snakeskin
-Spider carcass		name	item	Spider carcass
-Spider on stick		name	item	Spider on stick
-Spider on shaft		name	item	Spider on shaft
-Burnt spider		name	item	Burnt spider
-Skewer stick		name	item	Skewer stick
-Trading sticks		name	item	Trading sticks
-Gout tuber		name	item	Gout tuber
-Opal machete		name	item	Opal machete
-Jade machete		name	item	Jade machete
-Red topaz machete		name	item	Red topaz machete
-Proboscis		name	item	Proboscis
-Snakeskin body		name	item	Snakeskin body
-Snakeskin chaps		name	item	Snakeskin chaps
-Snakeskin bandana		name	item	Snakeskin bandana
-Snakeskin boots		name	item	Snakeskin boots
-Snakeskin vambraces		name	item	Snakeskin vambraces
-Mahogany logs		name	item	Mahogany logs
-Teak logs		name	item	Teak logs
-Tribal mask		name	item	Tribal mask
-Tribal top		name	item	Tribal top
-Villager robe		name	item	Villager robe
-Villager hat		name	item	Villager hat
-Villager armband		name	item	Villager armband
-Villager sandals		name	item	Villager sandals
-Fez		name	item	Fez
-Desert top		name	item	Desert top
-Desert robes		name	item	Desert robes
-Desert legs		name	item	Desert legs
-Menaphite purple hat		name	item	Menaphite purple hat
-Menaphite purple top		name	item	Menaphite purple top
-Menaphite purple robe		name	item	Menaphite purple robe
-Menaphite purple kilt		name	item	Menaphite purple kilt
-Menaphite red hat		name	item	Menaphite red hat
-Menaphite red top		name	item	Menaphite red top
-Menaphite red robe		name	item	Menaphite red robe
-Menaphite red kilt		name	item	Menaphite red kilt
-Oak blackjack(o)		name	item	Oak blackjack(o)
-Oak blackjack(d)		name	item	Oak blackjack(d)
-Willow blackjack(o)		name	item	Willow blackjack(o)
-Willow blackjack(d)		name	item	Willow blackjack(d)
-Maple blackjack		name	item	Maple blackjack
-Maple blackjack(o)		name	item	Maple blackjack(o)
-Maple blackjack(d)		name	item	Maple blackjack(d)
-Spadeful of coke		name	item	Spadeful of coke
-Kandarin headgear		name	item	Kandarin headgear
-Mage arena cape		name	item	Mage arena cape
-White rose seed		name	item	White rose seed
-Red rose seed		name	item	Red rose seed
-Pink rose seed		name	item	Pink rose seed
-Vine seed		name	item	Vine seed
-Delphinium seed		name	item	Delphinium seed
-Orchid seed		name	item	Orchid seed
-Snowdrop seed		name	item	Snowdrop seed
-White tree shoot		name	item	White tree shoot
-White tree shoot (w)		name	item	White tree shoot (w)
-White tree sapling		name	item	White tree sapling
-Ring of charos(a)		name	item	Ring of charos(a)
-Rune shards		name	item	Rune shards
-Rune dust		name	item	Rune dust
-White tree fruit		name	item	White tree fruit
-Compost potion(4)		name	item	Compost potion(4)
-Compost potion(3)		name	item	Compost potion(3)
-Compost potion(2)		name	item	Compost potion(2)
-Compost potion(1)		name	item	Compost potion(1)
+Royal frog tunic	王家カエルの上着	name	item	Royal frog tunic
+Royal frog leggings	王家カエルのレギンス	name	item	Royal frog leggings
+Royal frog blouse	王家カエルのブラウス	name	item	Royal frog blouse
+Royal frog skirt	王家カエルのスカート	name	item	Royal frog skirt
+Frog mask	カエルのマスク	name	item	Frog mask
+Mystery box	謎の箱	name	item	Mystery box
+Raw fishlike thing	生の魚っぽいなにか	name	item	Raw fishlike thing
+Fishlike thing	魚っぽいなにか	name	item	Fishlike thing
+Teak pyre logs	チークの火葬の丸太	name	item	Teak pyre logs
+Mahogany pyre logs	マホガニーの火葬の丸太	name	item	Mahogany pyre logs
+Broodoo shield (10)	ブルドゥー盾（10）	name	item	Broodoo shield (10)
+Broodoo shield (9)	ブルドゥー盾（9）	name	item	Broodoo shield (9)
+Broodoo shield (8)	ブルドゥー盾（8）	name	item	Broodoo shield (8)
+Broodoo shield (7)	ブルドゥー盾（7）	name	item	Broodoo shield (7)
+Broodoo shield (6)	ブルドゥー盾（6）	name	item	Broodoo shield (6)
+Broodoo shield (5)	ブルドゥー盾（5）	name	item	Broodoo shield (5)
+Broodoo shield (4)	ブルドゥー盾（4）	name	item	Broodoo shield (4)
+Broodoo shield (3)	ブルドゥー盾（3）	name	item	Broodoo shield (3)
+Broodoo shield (2)	ブルドゥー盾（2）	name	item	Broodoo shield (2)
+Broodoo shield (1)	ブルドゥー盾（1）	name	item	Broodoo shield (1)
+Broodoo shield	ブルドゥー盾	name	item	Broodoo shield
+Thatch spar light	草ぶきの軽いスパー	name	item	Thatch spar light
+Thatch spar med	草ぶきの普通のスパー	name	item	Thatch spar med
+Thatch spar dense	草ぶきの重いスパー	name	item	Thatch spar dense
+Snake hide	蛇皮	name	item	Snake hide
+Snakeskin	蛇革	name	item	Snakeskin
+Spider carcass	クモの死骸	name	item	Spider carcass
+Spider on stick	クモの串	name	item	Spider on stick
+Spider on shaft	クモのシャフト	name	item	Spider on shaft
+Burnt spider	焦げたクモ	name	item	Burnt spider
+Skewer stick	串刺し	name	item	Skewer stick
+Trading sticks	トレーディングの棒	name	item	Trading sticks
+Gout tuber	ガウト・チューバー	name	item	Gout tuber
+Opal machete	オパールのマチェテ	name	item	Opal machete
+Jade machete	ヒスイのマチェテ	name	item	Jade machete
+Red topaz machete	赤トパーズのマチェテ	name	item	Red topaz machete
+Proboscis	口吻	name	item	Proboscis
+Snakeskin body	蛇革のボディ	name	item	Snakeskin body
+Snakeskin chaps	蛇革のチャップス	name	item	Snakeskin chaps
+Snakeskin bandana	蛇革のバンダナ	name	item	Snakeskin bandana
+Snakeskin boots	蛇革の靴	name	item	Snakeskin boots
+Snakeskin vambraces	蛇革の腕甲	name	item	Snakeskin vambraces
+Mahogany logs	マホガニーの丸太	name	item	Mahogany logs
+Teak logs	チークの丸太	name	item	Teak logs
+Tribal mask	トライバルマスク	name	item	Tribal mask
+Tribal top	トライバルトップ	name	item	Tribal top
+Villager robe	村人のローブ	name	item	Villager robe
+Villager hat	村人のハット	name	item	Villager hat
+Villager armband	村人の腕章	name	item	Villager armband
+Villager sandals	腕章のサンダル	name	item	Villager sandals
+Fez	フェズ	name	item	Fez
+Desert top	砂漠のトップ	name	item	Desert top
+Desert robes	砂漠のローブ	name	item	Desert robes
+Desert legs	サンダルのズボン	name	item	Desert legs
+Menaphite purple hat	紫色のメナファイトの帽子	name	item	Menaphite purple hat
+Menaphite purple top	紫色のメナファイトのトップ	name	item	Menaphite purple top
+Menaphite purple robe	紫色のメナファイトのローブ	name	item	Menaphite purple robe
+Menaphite purple kilt	紫色のメナファイトのキルト	name	item	Menaphite purple kilt
+Menaphite red hat	赤色のメナファイトの帽子	name	item	Menaphite red hat
+Menaphite red top	赤色のメナファイトのトップ	name	item	Menaphite red top
+Menaphite red robe	赤色のメナファイトのローブ	name	item	Menaphite red robe
+Menaphite red kilt	赤色のメナファイトのキルト	name	item	Menaphite red kilt
+Oak blackjack(o)	樫の棍棒（攻撃）	name	item	Oak blackjack(o)
+Oak blackjack(d)	樫の棍棒（防御）	name	item	Oak blackjack(d)
+Willow blackjack(o)	柳の棍棒（攻撃）	name	item	Willow blackjack(o)
+Willow blackjack(d)	柳の棍棒（防御）	name	item	Willow blackjack(d)
+Maple blackjack	楓の棍棒	name	item	Maple blackjack
+Maple blackjack(o)	楓の棍棒（攻撃）	name	item	Maple blackjack(o)
+Maple blackjack(d)	楓の棍棒（防御）	name	item	Maple blackjack(d)
+Spadeful of coke	コークのシャベル	name	item	Spadeful of coke
+Kandarin headgear	カンダリンのヘッドギア	name	item	Kandarin headgear
+Mage arena cape	魔法アリーナのマント	name	item	Mage arena cape
+White rose seed	白いバラの種	name	item	White rose seed
+Red rose seed	赤いバラの種	name	item	Red rose seed
+Pink rose seed	ピンクのバラの種	name	item	Pink rose seed
+Vine seed	ツルの種	name	item	Vine seed
+Delphinium seed	デルフィニウムの種	name	item	Delphinium seed
+Orchid seed	ランの種	name	item	Orchid seed
+Snowdrop seed	スノードロップの種	name	item	Snowdrop seed
+White tree shoot	白い木のシュート	name	item	White tree shoot
+White tree shoot (w)	白い木のシュート（水）	name	item	White tree shoot (w)
+White tree sapling	白い木の若木	name	item	White tree sapling
+Ring of charos(a)	カロスの指輪（活性）	name	item	Ring of charos(a)
+Rune shards	ルーンの破片	name	item	Rune shards
+Rune dust	ルーンの塵	name	item	Rune dust
+White tree fruit	白い木の果実	name	item	White tree fruit
+Compost potion(4)	堆肥の薬液（４）	name	item	Compost potion(4)
+Compost potion(3)	堆肥の薬液（３）	name	item	Compost potion(3)
+Compost potion(2)	堆肥の薬液（２）	name	item	Compost potion(2)
+Compost potion(1)	堆肥の薬液（１）	name	item	Compost potion(1)
 Trolley	トロリー	name	item	Trolley
-List		name	item	List
-Agility jump		name	item	Agility jump
-Agility balance		name	item	Agility balance
-Agility contortion		name	item	Agility contortion
-Agility climb		name	item	Agility climb
+List	リスト	name	item	List
+Agility jump	運動神経のジャンプ	name	item	Agility jump
+Agility balance	運動神経のバランス	name	item	Agility balance
+Agility contortion	運動神経のゆがみ	name	item	Agility contortion
+Agility climb	運動神経の登り	name	item	Agility climb
 Toktz-xil-ul		name	item	Toktz-xil-ul
 Toktz-xil-ak		name	item	Toktz-xil-ak
 Toktz-ket-xil		name	item	Toktz-ket-xil
@@ -3127,73 +3127,73 @@ Toktz-mej-tal		name	item	Toktz-mej-tal
 Tzhaar-ket-em		name	item	Tzhaar-ket-em
 Tzhaar-ket-om		name	item	Tzhaar-ket-om
 Tokkul		name	item	Tokkul
-Mouse toy		name	item	Mouse toy
-Present		name	item	Present
-Catspeak amulet(e)		name	item	Catspeak amulet(e)
-Chores		name	item	Chores
-Recipe		name	item	Recipe
-Doctor's hat		name	item	Doctor's hat
-Nurse hat		name	item	Nurse hat
-Lazy cat	怠惰なネコ	name	item	Lazy cat
+Mouse toy	ネズミのおもちゃ	name	item	Mouse toy
+Present	プレゼント	name	item	Present
+Catspeak amulet(e)	ネコ話のアミュレット（魔法）	name	item	Catspeak amulet(e)
+Chores	家事	name	item	Chores
+Recipe	レシピ	name	item	Recipe
+Doctor's hat	医者の帽子	name	item	Doctor's hat
+Nurse hat	ナースの帽子	name	item	Nurse hat
+Lazy cat	怠惰ネコ	name	item	Lazy cat
 Wily cat	ずる賢いネコ	name	item	Wily cat
-Ahab's beer		name	item	Ahab's beer
-Mud battlestaff		name	item	Mud battlestaff
-Mystic mud staff		name	item	Mystic mud staff
-Obsidian cape		name	item	Obsidian cape
-Fire cape		name	item	Fire cape
-Uncut onyx		name	item	Uncut onyx
-Onyx		name	item	Onyx
-Onyx ring		name	item	Onyx ring
-Onyx necklace		name	item	Onyx necklace
-Onyx amulet (u)		name	item	Onyx amulet (u)
-Onyx amulet		name	item	Onyx amulet
-Ring of stone		name	item	Ring of stone
-Amulet of fury		name	item	Amulet of fury
-White claws		name	item	White claws
-White battleaxe		name	item	White battleaxe
-White dagger		name	item	White dagger
-White dagger(p)		name	item	White dagger(p)
-White dagger(p+)		name	item	White dagger(p+)
-White dagger(p++)		name	item	White dagger(p++)
-White halberd		name	item	White halberd
-White mace		name	item	White mace
-White magic staff		name	item	White magic staff
-White sword		name	item	White sword
-White longsword		name	item	White longsword
-White 2h sword		name	item	White 2h sword
-White scimitar		name	item	White scimitar
-White warhammer		name	item	White warhammer
-White chainbody		name	item	White chainbody
-White platebody		name	item	White platebody
-White boots		name	item	White boots
-White med helm		name	item	White med helm
-White full helm		name	item	White full helm
-White platelegs		name	item	White platelegs
-White plateskirt		name	item	White plateskirt
-White gloves		name	item	White gloves
-White sq shield		name	item	White sq shield
-White kiteshield		name	item	White kiteshield
-Commorb		name	item	Commorb
-Solus's hat		name	item	Solus's hat
+Ahab's beer	アハブのビール	name	item	Ahab's beer
+Mud battlestaff	泥の戦杖	name	item	Mud battlestaff
+Mystic mud staff	秘伝の泥の杖	name	item	Mystic mud staff
+Obsidian cape	黒曜石のマント	name	item	Obsidian cape
+Fire cape	火炎のマント	name	item	Fire cape
+Uncut onyx	オニキスの原石	name	item	Uncut onyx
+Onyx	オニキス	name	item	Onyx
+Onyx ring	オニキスの指輪	name	item	Onyx ring
+Onyx necklace	オニキスのネックレス	name	item	Onyx necklace
+Onyx amulet (u)	オニキスのアミュレット（未）	name	item	Onyx amulet (u)
+Onyx amulet	オニキスのアミュレット	name	item	Onyx amulet
+Ring of stone	岩の指輪	name	item	Ring of stone
+Amulet of fury	憤怒のアミュレット	name	item	Amulet of fury
+White claws	白鉄のクローズ	name	item	White claws
+White battleaxe	白鉄の戦斧	name	item	White battleaxe
+White dagger	白鉄の短剣	name	item	White dagger
+White dagger(p)	白鉄の短剣（毒）	name	item	White dagger(p)
+White dagger(p+)	白鉄の短剣（毒＋）	name	item	White dagger(p+)
+White dagger(p++)	白鉄の短剣（毒＋＋）	name	item	White dagger(p++)
+White halberd	白鉄の矛槍	name	item	White halberd
+White mace	白鉄の鎚矛	name	item	White mace
+White magic staff	白鉄の魔法の杖	name	item	White magic staff
+White sword	白鉄の剣	name	item	White sword
+White longsword	白鉄の長剣	name	item	White longsword
+White 2h sword	白鉄の両手剣	name	item	White 2h sword
+White scimitar	白鉄の三日月刀	name	item	White scimitar
+White warhammer	白鉄の戦鎚	name	item	White warhammer
+White chainbody	白鉄の鎖甲	name	item	White chainbody
+White platebody	白鉄の胸甲	name	item	White platebody
+White boots	白鉄の靴	name	item	White boots
+White med helm	白鉄の鉄兜	name	item	White med helm
+White full helm	白鉄の全頭甲	name	item	White full helm
+White platelegs	白鉄の脚甲	name	item	White platelegs
+White plateskirt	白鉄の裙甲	name	item	White plateskirt
+White gloves	白鉄の籠手	name	item	White gloves
+White sq shield	白鉄の角盾	name	item	White sq shield
+White kiteshield	白鉄のタコ盾	name	item	White kiteshield
+Commorb	コモーブ	name	item	Commorb
+Solus's hat	ソルスの帽子	name	item	Solus's hat
 Dark beast	暗黒獣	name	item	Dark beast
-Colour wheel		name	item	Colour wheel
-Hand mirror		name	item	Hand mirror
-Red crystal		name	item	Red crystal
+Colour wheel	色のホイール	name	item	Colour wheel
+Hand mirror	手鏡	name	item	Hand mirror
+Red crystal	赤い水晶	name	item	Red crystal
 Yellow crystal	黄色い水晶	name	item	Yellow crystal
-Green crystal		name	item	Green crystal
+Green crystal	緑の水晶	name	item	Green crystal
 Cyan crystal	シアンの水晶	name	item	Cyan crystal
-Blue crystal		name	item	Blue crystal
+Blue crystal	青い水晶	name	item	Blue crystal
 Magenta crystal	マゼンタの水晶	name	item	Magenta crystal
-Fractured crystal		name	item	Fractured crystal
-Item list		name	item	Item list
-Edern's journal		name	item	Edern's journal
-Blackened crystal		name	item	Blackened crystal
-Newly made crystal		name	item	Newly made crystal
-Crystal trinket		name	item	Crystal trinket
-Camo top		name	item	Camo top
-Camo bottoms		name	item	Camo bottoms
-Camo helmet		name	item	Camo helmet
-Fishing explosive		name	item	Fishing explosive
+Fractured crystal	割れた水晶	name	item	Fractured crystal
+Item list	アイテムのリスト	name	item	Item list
+Edern's journal	エデルンの日記	name	item	Edern's journal
+Blackened crystal	黒化の水晶	name	item	Blackened crystal
+Newly made crystal	新造の水晶	name	item	Newly made crystal
+Crystal trinket	水晶の小物	name	item	Crystal trinket
+Camo top	迷彩のトップ	name	item	Camo top
+Camo bottoms	迷彩のズボン	name	item	Camo bottoms
+Camo helmet	迷彩の鉄兜	name	item	Camo helmet
+Fishing explosive	釣り爆弾	name	item	Fishing explosive
 Mogre	モーガ	name	item	Mogre
 Broken fishing rod		name	item	Broken fishing rod
 Forlorn boot		name	item	Forlorn boot

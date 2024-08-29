@@ -10637,6 +10637,24 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110037"><xliff:source>Resurrect</xliff:source><xliff:target state="translated">蘇生</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110038"><xliff:source>Study</xliff:source><xliff:target state="translated">調べる</xliff:target><xliff:note>category: actions
+sub_category: item
+source: Fire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4653</xliff:note></xliff:trans-unit><xliff:trans-unit id="110039"><xliff:source>Remove</xliff:source><xliff:target state="translated">取り除く</xliff:target><xliff:note>category: actions
+sub_category: item
+source: Oak lectern
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8334</xliff:note></xliff:trans-unit><xliff:trans-unit id="110040"><xliff:source>Lay</xliff:source><xliff:target state="translated">備える</xliff:target><xliff:note>category: actions
+sub_category: item
+source: Bird snare
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10006</xliff:note></xliff:trans-unit><xliff:trans-unit id="110041"><xliff:source>Activate</xliff:source><xliff:target state="translated">発動</xliff:target><xliff:note>category: actions
+sub_category: item
+source: Magic box
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10025</xliff:note></xliff:trans-unit><xliff:trans-unit id="110042"><xliff:source>Crush</xliff:source><xliff:target state="translated">潰す</xliff:target><xliff:note>category: actions
+sub_category: item
+source: Smouldering heart
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29583</xliff:note></xliff:trans-unit><xliff:trans-unit id="110043"><xliff:source>Eat-from</xliff:source><xliff:target state="translated">から食べる</xliff:target><xliff:note>category: actions
+sub_category: item
+source: Smouldering pile of flesh
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29585</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

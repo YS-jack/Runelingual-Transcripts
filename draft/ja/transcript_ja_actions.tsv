@@ -1509,3 +1509,9 @@ Ancient	古代	actions	menu	spellBookTab
 Standard	一般	actions	menu	spellBookTab
 Reanimate	復活	actions	menu	spellBookTab
 Resurrect	蘇生	actions	menu	spellBookTab
+Study	調べる	actions	item	Fire
+Remove	取り除く	actions	item	Oak lectern
+Lay	備える	actions	item	Bird snare
+Activate	発動	actions	item	Magic box
+Crush	潰す	actions	item	Smouldering heart
+Eat-from	から食べる	actions	item	Smouldering pile of flesh
