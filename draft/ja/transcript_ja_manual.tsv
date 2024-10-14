@@ -123,7 +123,7 @@ Undercut		manual	hair_beard
 Low Bun		manual	hair_beard	
 Messy Bun		manual	hair_beard	
 Pompadour		manual	hair_beard	
-Afro		manual	hair_beard	
+Afro	アフロ	manual	hair_beard	
 Short locs		manual	hair_beard	
 Spiky Mohawk		manual	hair_beard	
 Slicked Mohawk		manual	hair_beard	
@@ -165,7 +165,7 @@ Fremennik	フレメニック	manual	location
 Kandarin		manual	location	
 Karamja	カラムジャ	manual	location	
 Lumbridge & Draynor		manual	location	
-Morytania		manual	location	
+Morytania	モリタニア	manual	location	
 Varrock	ヴァロック	manual	location	
 Western Provinces		manual	location	
 Wilderness		manual	location	
@@ -185,7 +185,7 @@ Entrana		manual	location
 Feldip Hills		manual	location	
 Gnome Stronghold		manual	location	
 Goblin Village		manual	location	
-Isafdar		manual	location	
+Isafdar	イサフダー	manual	location	
 Kebos Lowlands		manual	location	
 Keldagrim		manual	location	
 Kingstown		manual	location	
@@ -383,7 +383,7 @@ in the Kourend Woodland.		manual	music
 Work, Work, Work		manual	music	
 Work\t Work\t Work		manual	music	
 during the Tower of Life quest.		manual	music	
-Workshop		manual	music	
+Workshop	工房	manual	music	
 in Falador.		manual	music	
 Wrath and Ruin		manual	music	
 in Tolna's Rift.		manual	music	
@@ -1379,7 +1379,7 @@ Undercut		manual	hair_beard
 Low Bun		manual	hair_beard	
 Messy Bun		manual	hair_beard	
 Pompadour		manual	hair_beard	
-Afro		manual	hair_beard	
+Afro	アフロ	manual	hair_beard	
 Short locs		manual	hair_beard	
 Spiky Mohawk		manual	hair_beard	
 Slicked Mohawk		manual	hair_beard	
@@ -1421,7 +1421,7 @@ Fremennik	フレメニック	manual	location
 Kandarin		manual	location	
 Karamja	カラムジャ	manual	location	
 Lumbridge & Draynor		manual	location	
-Morytania		manual	location	
+Morytania	モリタニア	manual	location	
 Varrock	ヴァロック	manual	location	
 Western Provinces		manual	location	
 Wilderness		manual	location	
@@ -1441,7 +1441,7 @@ Entrana		manual	location
 Feldip Hills		manual	location	
 Gnome Stronghold		manual	location	
 Goblin Village		manual	location	
-Isafdar		manual	location	
+Isafdar	イサフダー	manual	location	
 Kebos Lowlands		manual	location	
 Keldagrim		manual	location	
 Kingstown		manual	location	
@@ -1639,7 +1639,7 @@ in the Kourend Woodland.		manual	music
 Work, Work, Work		manual	music	
 Work\t Work\t Work		manual	music	
 during the Tower of Life quest.		manual	music	
-Workshop		manual	music	
+Workshop	工房	manual	music	
 in Falador.		manual	music	
 Wrath and Ruin		manual	music	
 in Tolna's Rift.		manual	music	

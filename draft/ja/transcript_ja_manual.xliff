@@ -995,7 +995,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109387">
         <xliff:source>Afro</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">アフロ</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1331,7 +1331,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109429">
         <xliff:source>Morytania</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">モリタニア</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1491,7 +1491,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109449">
         <xliff:source>Isafdar</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">イサフダー</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -3075,7 +3075,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109647">
         <xliff:source>Workshop</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">工房</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -10421,7 +10421,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110647"><xliff:source>Pompadour</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110648"><xliff:source>Afro</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110648"><xliff:source>Afro</xliff:source><xliff:target state="translated">アフロ</xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110649"><xliff:source>Short locs</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10547,7 +10547,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110690"><xliff:source>Morytania</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110690"><xliff:source>Morytania</xliff:source><xliff:target state="translated">モリタニア</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110691"><xliff:source>Varrock</xliff:source><xliff:target state="translated">ヴァロック</xliff:target><xliff:note>category: manual
@@ -10607,7 +10607,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110709"><xliff:source>Goblin Village</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110710"><xliff:source>Isafdar</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110710"><xliff:source>Isafdar</xliff:source><xliff:target state="translated">イサフダー</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110711"><xliff:source>Kebos Lowlands</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -11201,7 +11201,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110907"><xliff:source>during the Tower of Life quest.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110908"><xliff:source>Workshop</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110908"><xliff:source>Workshop</xliff:source><xliff:target state="translated">工房</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110909"><xliff:source>in Falador.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
