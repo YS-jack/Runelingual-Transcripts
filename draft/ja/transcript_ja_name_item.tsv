@@ -7331,8 +7331,7 @@ Wise old man's teleport tablet	賢いおじいさんのワープタブレット	
 Snow sprite	雪のスプライト	name	item	Snow sprite
 Fine mesh net	細かい網	name	item	Fine mesh net
 Santa suit	サンタのスーツ	name	item	Santa suit
-Santa suit (wet)	"サンタのスーツ（ウェット）
-"	name	item	Santa suit (wet)
+Santa suit (wet)	サンタのスーツ（ウェット）	name	item	Santa suit (wet)
 Santa suit (dry)	サンタのスーツ（ドライ）	name	item	Santa suit (dry)
 Logs and kindling	丸太と焚き付け	name	item	Logs and kindling
 Santa's seal	サンタの証印	name	item	Santa's seal
@@ -8007,8 +8006,7 @@ Crystal helm	水晶の兜	name	item	Crystal helm
 Crystal helm (inactive)	水晶の兜（不活性）	name	item	Crystal helm (inactive)
 Crystal body	水晶のボディ	name	item	Crystal body
 Crystal body (inactive)	水晶のボディ（不活性）	name	item	Crystal body (inactive)
-Crystal legs	"水晶のレッグ
-"	name	item	Crystal legs
+Crystal legs	水晶のレッグ	name	item	Crystal legs
 Crystal legs (inactive)	水晶のレッグ（不活性）	name	item	Crystal legs (inactive)
 Crystal bow	水晶の弓	name	item	Crystal bow
 Crystal bow (inactive)	水晶の弓（不活性）	name	item	Crystal bow (inactive)

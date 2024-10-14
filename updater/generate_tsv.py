@@ -76,11 +76,22 @@ def is_file_empty(file_path):
     """Check if a file is empty."""
     return os.path.exists(file_path) and os.path.getsize(file_path) == 0
 
+def get_update_file_type():
+    while True:
+        print("to generate tsv from excel transcript, enter 'e'")
+        print("to generate from the xliff transcript, enter 'x'")
+        update_type = input("Enter the type of transcript to update: ").lower()
+        if update_type in ['e', 'x']:
+            break
+        else:
+            print("Invalid input.")
+    return update_type
+
 def main():
 	print('tip: use ctr-c to force exit')
 	print('This program will create .tsv files from either excel or xliff files')
 	target_lang_code = common_func.get_target_language()
-	update_type = update_nonEn_transcripts.get_update_file_type()
+	update_type = get_update_file_type()
 	if update_type == 'e':
 		if target_lang_code == 0:
 			for lang in common_func.LANG:

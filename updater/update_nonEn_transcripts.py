@@ -267,7 +267,9 @@ def xliff_to_dataframe(xliff_file_path):
     # Iterate through each trans-unit, adjusting for namespace
     for trans_unit in body_element.findall('.//xliff:trans-unit', nsmap):
         source = trans_unit.find('.//xliff:source',nsmap).text
-        translation = trans_unit.find('.//xliff:target',nsmap).text
+        translation = trans_unit.find('.//xliff:target', nsmap).text
+        if translation is not None:
+            translation = translation.replace('\n', '')
         note = trans_unit.find('.//xliff:note',nsmap).text
 
         # Parse the note text
