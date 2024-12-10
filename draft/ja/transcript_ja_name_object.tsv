@@ -109,7 +109,7 @@ Chaise lounge	シェーズロング	name	object	Chaise lounge
 Crevice	隙間	name	object	Crevice
 Curtain	カーテン	name	object	Curtain
 Red spice (4)	赤い香辛料（４）	name	object	Red spice (4)
-Orange spice (4)	オレンジの香辛料（４）	name	object	Orange spice (4)
+Orange spice (4)	オレンジ色の香辛料（４）	name	object	Orange spice (4)
 Brown spice (4)	茶色の香辛料（４）	name	object	Brown spice (4)
 Yellow spice (4)	黄色の香辛料（４）	name	object	Yellow spice (4)
 Broken Fence	壊れたフェンス	name	object	Broken Fence
@@ -340,7 +340,7 @@ Altar slab	祭壇の石板	name	object	Altar slab
 Candlestick holder	ロウソク立て	name	object	Candlestick holder
 Tower	塔	name	object	Tower
 Crumbling wall	崩れている壁	name	object	Crumbling wall
-Tree Door	木のドア	name	object	Tree Door
+Tree Door	木製のドア	name	object	Tree Door
 Root	根	name	object	Root
 Log raft	丸太のイカダ	name	object	Log raft
 Broken log raft	壊れた丸太のイカダ	name	object	Broken log raft
@@ -406,7 +406,7 @@ Tomb exit	墓の出口	name	object	Tomb exit
 Tomb doors	墓のドア	name	object	Tomb doors
 Ancient metal gate	古代の鉄製ゲート	name	object	Ancient metal gate
 Metal gate	鉄のゲート	name	object	Metal gate
-Wooden gate	木のゲート	name	object	Wooden gate
+Wooden gate	木製のゲート	name	object	Wooden gate
 Chimney	煙突	name	object	Chimney
 Lathe	旋盤	name	object	Lathe
 Drill	ドリル	name	object	Drill
@@ -460,7 +460,7 @@ Blue door	青いドア	name	object	Blue door
 Magenta door	赤紫色のドア	name	object	Magenta door
 Green door	緑色のドア	name	object	Green door
 Exit door	出口	name	object	Exit door
-Dynamite(p)	ダイナマイト（ｐ）	name	object	Dynamite(p)
+Dynamite(p)	ダイナマイト（毒）	name	object	Dynamite(p)
 Broken fence	壊れたフェンス	name	object	Broken fence
 Rock slide	岩の斜面	name	object	Rock slide
 Picture	絵	name	object	Picture
@@ -499,7 +499,7 @@ Dolls and balls	人形とボール	name	object	Dolls and balls
 Sword in stone	石の中の剣	name	object	Sword in stone
 City gate	都市の門	name	object	City gate
 Rock of Dalgroth	ダルグロスの岩	name	object	Rock of Dalgroth
-Climbing rope	登る用のロープ	name	object	Climbing rope
+Climbing rope	登城用ロープ	name	object	Climbing rope
 Gap	隙間	name	object	Gap
 Battlement	胸壁	name	object	Battlement
 Magical shield	魔法の盾	name	object	Magical shield
@@ -803,7 +803,7 @@ Ceiling support	天井の支え	name	object	Ceiling support
 Wall support	壁の支え	name	object	Wall support
 Lift	エレベーター	name	object	Lift
 Points settings	交差点の設定	name	object	Points settings
-Wooden boards	木の板	name	object	Wooden boards
+Wooden boards	木製の板	name	object	Wooden boards
 Rope bridge	吊り橋	name	object	Rope bridge
 Rare Flowers	珍しい花	name	object	Rare Flowers
 Slope	スロープ	name	object	Slope
@@ -822,7 +822,7 @@ Huge plant	巨大な植物	name	object	Huge plant
 Dock Leaf	エゾノギシギシ	name	object	Dock Leaf
 Reeds	アシ	name	object	Reeds
 Rosemary	ローズマリー	name	object	Rosemary
-Daffodils	水仙	name	object	Daffodils
+Daffodils	スイセン	name	object	Daffodils
 Bluebells	ツリガネスイセン	name	object	Bluebells
 Marigolds	マリーゴールド	name	object	Marigolds
 Roses	バラ	name	object	Roses
@@ -909,8 +909,8 @@ Dwarf mirror	ドワーフの鏡	name	object	Dwarf mirror
 Poor Bed	低品質なベッド	name	object	Poor Bed
 Dwarven Consortium Table	ドワーフ・コンソーシアムのテーブル	name	object	Dwarven Consortium Table
 Money Pot	支払い壺	name	object	Money Pot
-Stop!	止まれ!	name	object	Stop!
-Dung	うんち	name	object	Dung
+Stop!	やめろ！	name	object	Stop!
+Dung	糞	name	object	Dung
 Hutch	ハッチ	name	object	Hutch
 Golden cage	金のカゴ	name	object	Golden cage
 Cages	カゴ	name	object	Cages
@@ -1153,7 +1153,7 @@ Spirit Tree	精霊樹	name	object	Spirit Tree
 Spirit Tree Stump	精霊樹の切り株	name	object	Spirit Tree Stump
 Diseased Spirit Tree	病気の精霊樹	name	object	Diseased Spirit Tree
 Dead Spirit Tree	死んだ精霊樹	name	object	Dead Spirit Tree
-Tree patch	木の小区画	name	object	Tree patch
+Tree patch	木製の小区画	name	object	Tree patch
 Magic tree stump	魔法樹の切り株	name	object	Magic tree stump
 Diseased Magic Tree	病気の魔法樹	name	object	Diseased Magic Tree
 Dead Magic Tree	死んだ魔法樹	name	object	Dead Magic Tree
@@ -1328,7 +1328,7 @@ Copper rocks	銅の岩	name	object	Copper rocks
 Tin rocks	スズの岩	name	object	Tin rocks
 Ominous Fishing Spot	不吉な釣り場	name	object	Ominous Fishing Spot
 Aquarium	水族館	name	object	Aquarium
-Blindweed Patch	ブラインドウィードの小区画	name	object	Blindweed Patch
+Blindweed Patch	ブラインド草の小区画	name	object	Blindweed Patch
 Trashed Patch	捨てられた小区画	name	object	Trashed Patch
 Stagnant Lake	よどんだ湖	name	object	Stagnant Lake
 Chimney Pipe	煙突のパイプ	name	object	Chimney Pipe
@@ -1566,7 +1566,7 @@ Broken wall	壊れた壁	name	object	Broken wall
 Fallen Wall	倒れた壁	name	object	Fallen Wall
 Pile of rubble.	がれきの山	name	object	Pile of rubble.
 Rubble Pile	がれきの山	name	object	Rubble Pile
-Keyhole	鍵穴	name	object	Keyhole
+Keyhole	カギ穴	name	object	Keyhole
 Marius	マリウス	name	object	Marius
 Low fence	低いフェンス	name	object	Low fence
 Broken Roof	壊れた屋根	name	object	Broken Roof
@@ -1735,10 +1735,10 @@ Portal frame	ポータルの枠	name	object	Portal frame
 Scrying pool	透視の水たまり	name	object	Scrying pool
 Teleportation focus	ワープ・フォーカス	name	object	Teleportation focus
 Greater teleport focus	上位のワープ・フォーカス	name	object	Greater teleport focus
-Globe	グローブ	name	object	Globe
-Ornamental globe	装飾されたグローブ	name	object	Ornamental globe
-Lunar globe	ルーナ・グローブ	name	object	Lunar globe
-Celestial globe	天体グローブ	name	object	Celestial globe
+Globe	球体儀	name	object	Globe
+Ornamental globe	装飾された球体儀	name	object	Ornamental globe
+Lunar globe	月儀	name	object	Lunar globe
+Celestial globe	天体儀	name	object	Celestial globe
 Armillary sphere	アーミウラリ天球儀	name	object	Armillary sphere
 Small orrery	小さな太陽系儀	name	object	Small orrery
 Large orrery	大きな太陽系儀	name	object	Large orrery
@@ -2310,7 +2310,7 @@ Trap bypass	罠バイパス	name	object	Trap bypass
 Gnome skeleton	ノームのスケルトン	name	object	Gnome skeleton
 Gift of Peace	平和のギフト	name	object	Gift of Peace
 Dead Explorer	死んだ探検家	name	object	Dead Explorer
-Evil claw	邪悪なかぎ爪	name	object	Evil claw
+Evil claw	邪悪な鉤爪	name	object	Evil claw
 Control panel	コントロール・パネル	name	object	Control panel
 Flour	小麦粉	name	object	Flour
 Tomb Door	墓のドア	name	object	Tomb Door
@@ -2994,7 +2994,7 @@ Kharyrll Portal	カリールのポータル	name	object	Kharyrll Portal
 Lunar Isle Portal	ルーナ島のポータル	name	object	Lunar Isle Portal
 Senntisten Portal	センチステンのポータル	name	object	Senntisten Portal
 Annakarl Portal	アナカールのポータル	name	object	Annakarl Portal
-Waterbirth Island Portal	ウオーターバース島のポータル	name	object	Waterbirth Island Portal
+Waterbirth Island Portal	ウォーターバース島のポータル	name	object	Waterbirth Island Portal
 Fishing Guild Portal	釣りギルドのポータル	name	object	Fishing Guild Portal
 Marim Portal	マリムのポータル	name	object	Marim Portal
 Kourend Portal	クーレンドのポータル	name	object	Kourend Portal
@@ -3692,7 +3692,7 @@ The Jormungand	ザ・ジョームンガンド	name	object	The Jormungand
 Streak info	ストリーク情報	name	object	Streak info
 Swampy sink	沼のシンク	name	object	Swampy sink
 League Firsts Board	リーグ初達成者の掲示板	name	object	League Firsts Board
-Dragon trophy display	竜トロフィーの展示	name	object	Dragon trophy display
+Dragon trophy display	竜鉄トロフィーの展示	name	object	Dragon trophy display
 Basic Jewellery Box	基本的な宝石箱	name	object	Basic Jewellery Box
 Fancy Jewellery Box	おしゃれな宝石箱	name	object	Fancy Jewellery Box
 Weiss Portal	ウェイスのポータル	name	object	Weiss Portal
@@ -3813,7 +3813,7 @@ Hellcat	ヘルキャット	name	object	Hellcat
 Overgrown cat	老いたネコ	name	object	Overgrown cat
 Overgrown hellcat	老いたヘルキャット	name	object	Overgrown hellcat
 Lazy cat	怠惰なネコ	name	object	Lazy cat
-Lazy hellcat	怠惰なヘルキャット	name	object	Lazy hellcat
+Lazy hellcat	怠惰ななヘルキャット	name	object	Lazy hellcat
 Wily cat	ずる賢いネコ	name	object	Wily cat
 Wily hellcat	ずる賢いヘルキャット	name	object	Wily hellcat
 Carrot	人参	name	object	Carrot
@@ -3875,7 +3875,7 @@ Trailblazer rug	トレールブレイザーのカーペット	name	object	Trailb
 Oak trophy case	樫のトロフィーケース	name	object	Oak trophy case
 Mahogany trophy case	マホガニーのトロフィーケース	name	object	Mahogany trophy case
 Banner stand	バナー立て	name	object	Banner stand
-Ornate banner stand	華麗なバナー盾	name	object	Ornate banner stand
+Ornate banner stand	華麗なバナー立て	name	object	Ornate banner stand
 Oak outfit stand	樫の衣装スタンド	name	object	Oak outfit stand
 Mahogany outfit stand	マホガニーの衣装スタンド	name	object	Mahogany outfit stand
 League statue	リーグの像	name	object	League statue
@@ -3938,7 +3938,7 @@ Lovakengj statue	ロヴァケイン像	name	object	Lovakengj statue
 Piscarilius statue	ピスカリリウス像	name	object	Piscarilius statue
 Shayzien statue	シャイジエン像	name	object	Shayzien statue
 Rose	バラ	name	object	Rose
-Mark of Darkness	暗黒の印	name	object	Mark of Darkness
+Mark of Darkness	闇の刻印	name	object	Mark of Darkness
 Protester	抗議者	name	object	Protester
 Ruined stall	崩れた屋台	name	object	Ruined stall
 Ruined Stall	崩れた屋台	name	object	Ruined Stall
@@ -3970,7 +3970,7 @@ Spider eggs	クモの卵	name	object	Spider eggs
 Plants	植物	name	object	Plants
 Armour crate	防具箱	name	object	Armour crate
 Hardcore armour crate	ハードコアの防具箱	name	object	Hardcore armour crate
-Frozen Door	凍ったドア	name	object	Frozen Door
+Frozen Door	凍った扉	name	object	Frozen Door
 Ancient Plaque	古代の銘板	name	object	Ancient Plaque
 Ancient Forge	古代の炉	name	object	Ancient Forge
 Ancient Barrier	古代のバリアー	name	object	Ancient Barrier
@@ -4235,7 +4235,7 @@ Rio the Parrot	オウムのリオ	name	object	Rio the Parrot
 Portraits	肖像画	name	object	Portraits
 Vanity dresser	化粧台	name	object	Vanity dresser
 Tree roots	木の根	name	object	Tree roots
-Anima-infused Tree roots	生命力付与された木の根	name	object	Anima-infused Tree roots
+Anima-infused Tree roots	生命付与の木の根	name	object	Anima-infused Tree roots
 Struggling sapling	もがく若木	name	object	Struggling sapling
 Thriving sapling	成長している若木	name	object	Thriving sapling
 Rotting leaves	腐っていく葉	name	object	Rotting leaves
@@ -4570,15 +4570,15 @@ Mechanism		name	object	Mechanism
 Blocked cavity		name	object	Blocked cavity
 Stone cube		name	object	Stone cube
 Huge door		name	object	Huge door
-Vine flower		name	object	Vine flower
+Vine flower	ツルの花	name	object	Vine flower
 Skeletal remains		name	object	Skeletal remains
 Stone of Jas		name	object	Stone of Jas
 Old battered door		name	object	Old battered door
 Floor wire		name	object	Floor wire
-Spiral staircase		name	object	Spiral staircase
+Spiral staircase	らせん階段	name	object	Spiral staircase
 Pile of weights		name	object	Pile of weights
 Pressure gauge	圧力計	name	object	Pressure gauge
-Waste-paper basket		name	object	Waste-paper basket
+Waste-paper basket	紙ゴミのカゴ	name	object	Waste-paper basket
 Treasure pile		name	object	Treasure pile
 Contraption		name	object	Contraption
 Tiling		name	object	Tiling
@@ -4610,7 +4610,7 @@ Xerna's Diadem		name	object	Xerna's Diadem
 House window		name	object	House window
 Antique wine		name	object	Antique wine
 Entryway		name	object	Entryway
-Jug		name	object	Jug
+Jug	水差し	name	object	Jug
 Broken pottery		name	object	Broken pottery
 Wine storage		name	object	Wine storage
 Small box		name	object	Small box
@@ -4642,10 +4642,10 @@ Young digweed		name	object	Young digweed
 Mature digweed		name	object	Mature digweed
 Lab books		name	object	Lab books
 Potted palm		name	object	Potted palm
-Plant pot		name	object	Plant pot
+Plant pot	植木鉢	name	object	Plant pot
 Wine drinking bowl		name	object	Wine drinking bowl
 Grape storage		name	object	Grape storage
-Grape barrel		name	object	Grape barrel
+Grape barrel	ブドウ樽	name	object	Grape barrel
 Cellar entrance		name	object	Cellar entrance
 Privacy screen		name	object	Privacy screen
 Vanity		name	object	Vanity
@@ -4653,8 +4653,8 @@ Lab notes		name	object	Lab notes
 Berry bush		name	object	Berry bush
 Cabbage evidence		name	object	Cabbage evidence
 Termite Mound		name	object	Termite Mound
-Termites		name	object	Termites
-Bank buffalo		name	object	Bank buffalo
+Termites	シロアリ	name	object	Termites
+Bank buffalo	銀行バッファロー	name	object	Bank buffalo
 Meeting flag		name	object	Meeting flag
 Meeting flag (private)		name	object	Meeting flag (private)
 Rockslide (private)		name	object	Rockslide (private)

@@ -26,7 +26,7 @@ Shooting Stars		manual	activity
 Tombs of Amascut	アマスカットの墓	manual	activity	
 Mage Training Arena		manual	activity	
 Yes		manual	emote	
-No		manual	emote	
+No	いいえ	manual	emote	
 Bow		manual	emote	
 Angry		manual	emote	
 Think		manual	emote	
@@ -107,7 +107,7 @@ Rear skirt		manual	hair_beard
 Queue		manual	hair_beard	
 Bun		manual	hair_beard	
 Pigtails		manual	hair_beard	
-Earmuffs	イヤーマフ	manual	hair_beard	
+Earmuffs	耳当て	manual	hair_beard	
 Side pony		manual	hair_beard	
 Curls		manual	hair_beard	
 Ponytail		manual	hair_beard	
@@ -225,7 +225,7 @@ God Wars Dungeon		manual	location
 Kalphite Lair		manual	location	
 task-only Kalphite Cave		manual	location	
 Kraken Cove		manual	location	
-Waterbirth Island	ウオーターバース島	manual	location	
+Waterbirth Island	ウォーターバース島	manual	location	
 Lizardman Canyon		manual	location	
 Lizardman Settlement		manual	location	
 Smoke Devil Dungeon		manual	location	
@@ -940,7 +940,7 @@ Cockatrice	コカトリス	manual	slayer_mob
 Kurask	クラスク	manual	slayer_mob	
 Gargoyles	ガーゴイル	manual	slayer_mob	
 Pyrefiends	パイヤーフィーンド	manual	slayer_mob	
-Bloodveld	ブラッドベルド	manual	slayer_mob	
+Bloodveld	ブラッドヴェルド	manual	slayer_mob	
 Dust Devils	ダスト・デビル	manual	slayer_mob	
 Jellies	ゼリー	manual	slayer_mob	
 Rockslugs	岩ナメクジ	manual	slayer_mob	
@@ -999,7 +999,7 @@ Rogues	ローグ	manual	slayer_mob
 Ents	エント	manual	slayer_mob	
 Bandits	盗賊	manual	slayer_mob	
 Dark Warriors	暗黒の戦士	manual	slayer_mob	
-Lava Dragons	溶岩の竜	manual	slayer_mob	
+Lava Dragons	溶岩竜	manual	slayer_mob	
 TzKal-Zuk	ツズカル・ザック	manual	slayer_mob	
 Revenants	幽鬼	manual	slayer_mob	
 Chaos Druids	混沌ドルイド	manual	slayer_mob	
@@ -1282,7 +1282,7 @@ Shooting Stars		manual	activity
 Tombs of Amascut	アマスカットの墓	manual	activity	
 Mage Training Arena		manual	activity	
 Yes		manual	emote	
-No		manual	emote	
+No	いいえ	manual	emote	
 Bow		manual	emote	
 Angry		manual	emote	
 Think		manual	emote	
@@ -1363,7 +1363,7 @@ Rear skirt		manual	hair_beard
 Queue		manual	hair_beard	
 Bun		manual	hair_beard	
 Pigtails		manual	hair_beard	
-Earmuffs	イヤーマフ	manual	hair_beard	
+Earmuffs	耳当て	manual	hair_beard	
 Side pony		manual	hair_beard	
 Curls		manual	hair_beard	
 Ponytail		manual	hair_beard	
@@ -1481,7 +1481,7 @@ God Wars Dungeon		manual	location
 Kalphite Lair		manual	location	
 task-only Kalphite Cave		manual	location	
 Kraken Cove		manual	location	
-Waterbirth Island	ウオーターバース島	manual	location	
+Waterbirth Island	ウォーターバース島	manual	location	
 Lizardman Canyon		manual	location	
 Lizardman Settlement		manual	location	
 Smoke Devil Dungeon		manual	location	
@@ -2196,7 +2196,7 @@ Cockatrice	コカトリス	manual	slayer_mob
 Kurask	クラスク	manual	slayer_mob	
 Gargoyles	ガーゴイル	manual	slayer_mob	
 Pyrefiends	パイヤーフィーンド	manual	slayer_mob	
-Bloodveld	ブラッドベルド	manual	slayer_mob	
+Bloodveld	ブラッドヴェルド	manual	slayer_mob	
 Dust Devils	ダスト・デビル	manual	slayer_mob	
 Jellies	ゼリー	manual	slayer_mob	
 Rockslugs	岩ナメクジ	manual	slayer_mob	
@@ -2255,7 +2255,7 @@ Rogues	ローグ	manual	slayer_mob
 Ents	エント	manual	slayer_mob	
 Bandits	盗賊	manual	slayer_mob	
 Dark Warriors	暗黒の戦士	manual	slayer_mob	
-Lava Dragons	溶岩の竜	manual	slayer_mob	
+Lava Dragons	溶岩竜	manual	slayer_mob	
 TzKal-Zuk	ツズカル・ザック	manual	slayer_mob	
 Revenants	幽鬼	manual	slayer_mob	
 Chaos Druids	混沌ドルイド	manual	slayer_mob	

@@ -124,7 +124,7 @@ Telekinetic Grab	掌握	name	menu	spellBookTab
 Bind	バインド	name	menu	spellBookTab
 Curse	呪い	name	menu	spellBookTab
 Wind Bolt	ウィンド・ボルト	name	menu	spellBookTab
-Bones to Bananas	骨からバナナ	name	menu	spellBookTab
+Bones to Bananas	骨をバナナに	name	menu	spellBookTab
 Fire Strike	ファイヤー・ストライク	name	menu	spellBookTab
 Weaken	弱体化	name	menu	spellBookTab
 Low Level Alchemy	初級錬金術	name	menu	spellBookTab
@@ -152,9 +152,9 @@ Charge Water Orb	水のオーブ錬成	name	menu	spellBookTab
 Watchtower Teleport	監視塔ワープ	name	menu	spellBookTab
 Fire Blast	ファイヤー・ブラスト	name	menu	spellBookTab
 Charge Earth Orb	土のオーブ錬成	name	menu	spellBookTab
-Bones to Peaches	骨からモモ	name	menu	spellBookTab
+Bones to Peaches	骨をモモに	name	menu	spellBookTab
 Saradomin Strike	サラドミン・ストライク	name	menu	spellBookTab
-Claws of Guthix	ガシックスのかぎ爪	name	menu	spellBookTab
+Claws of Guthix	ガシックスの鉤爪	name	menu	spellBookTab
 Flames of Zamorak	ザモラックの炎	name	menu	spellBookTab
 Trollheim Teleport	トロールハイム・ワープ	name	menu	spellBookTab
 Wind Wave	ウィンド・ウェーブ	name	menu	spellBookTab
@@ -216,8 +216,8 @@ Tele Group Moonclan	ムーンクラン・集団ワープ	name	menu	spellBookTab
 Cure Me	自己治癒	name	menu	spellBookTab
 Ourania Teleport	ウラニア・ワープ	name	menu	spellBookTab
 Hunter Kit	狩り道具	name	menu	spellBookTab
-Waterbirth Teleport	ウオーターバース・ワープ	name	menu	spellBookTab
-Tele Group Waterbirth	ウオーターバース・集団ワープ	name	menu	spellBookTab
+Waterbirth Teleport	ウォーターバース・ワープ	name	menu	spellBookTab
+Tele Group Waterbirth	ウォーターバース・集団ワープ	name	menu	spellBookTab
 Cure Group	集団治癒	name	menu	spellBookTab
 Stat Spy	ステータス覗き	name	menu	spellBookTab
 Barbarian Teleport	蛮族基地ワープ	name	menu	spellBookTab

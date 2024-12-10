@@ -182,7 +182,7 @@ Toggle Counter	カウンターの切り替え	actions	npc	Grace
 Tap	タップ	actions	npc	Skullball
 Show-Goal	ゴールを見せる	actions	npc	Skullball
 Give-Stick	棒を渡す	actions	npc	Agility Trainer
-Waterbirth Island	ウオーターバース島	actions	npc	Jarvald
+Waterbirth Island	ウォーターバース島	actions	npc	Jarvald
 Take-flyer	ビラをもらう	actions	npc	Ali the Leaflet Dropper
 Trade-with	取引	actions	npc	Rewards Guardian
 Trade-Co-op	Co-opを売買	actions	npc	Gabooty
@@ -524,7 +524,7 @@ Collect-from	から集める	actions	object	Weeping wall
 Sit-on	座る	actions	object	Chair
 Upgrade	強化する	actions	object	Tools
 Work-at	作業する	actions	object	Workbench
-Make-helmet	鉄兜を作成	actions	object	Helmet pluming stand
+Make-helmet	兜を作成	actions	object	Helmet pluming stand
 Ring	鳴らす	actions	object	Bell
 Quick-board	すぐに乗る	actions	object	Swamp Boaty
 Ride	乗る	actions	object	Train cart
@@ -1023,7 +1023,7 @@ Marim	マリム	actions	object	Portal Nexus
 Kharyrll	カリール	actions	object	Portal Nexus
 Lunar Isle	ルーナ島	actions	object	Portal Nexus
 Great Kourend	グレート・クーレンド	actions	object	Portal Nexus
-Waterbirth Island	ウオーターバース島	actions	object	Portal Nexus
+Waterbirth Island	ウォーターバース島	actions	object	Portal Nexus
 Fishing Guild	釣りギルド	actions	object	Portal Nexus
 Annakarl	アナカール	actions	object	Portal Nexus
 Troll Stronghold	トロール要塞	actions	object	Portal Nexus
@@ -1509,44 +1509,44 @@ Ancient	古代	actions	menu	spellBookTab
 Standard	一般	actions	menu	spellBookTab
 Reanimate	復活	actions	menu	spellBookTab
 Resurrect	蘇生	actions	menu	spellBookTab
-Study		actions	item	Fire
-Remove		actions	item	Oak lectern
-Lay		actions	item	Bird snare
-Activate		actions	item	Magic box
-Crush		actions	item	Smouldering heart
-Eat-from		actions	item	Smouldering pile of flesh
-Accurate		actions	menu	combatOptionsTab
-Aggressive		actions	menu	combatOptionsTab
-Defensive		actions	menu	combatOptionsTab
-Controlled		actions	menu	combatOptionsTab
-Chop		actions	menu	combatOptionsTab
-Slash		actions	menu	combatOptionsTab
-Stab		actions	menu	combatOptionsTab
-Block		actions	menu	combatOptionsTab
-Pound		actions	menu	combatOptionsTab
-Pummel		actions	menu	combatOptionsTab
-Spike		actions	menu	combatOptionsTab
-Impale		actions	menu	combatOptionsTab
-Smash		actions	menu	combatOptionsTab
-Lunge		actions	menu	combatOptionsTab
-Swipe		actions	menu	combatOptionsTab
-Hack		actions	menu	combatOptionsTab
-Reap		actions	menu	combatOptionsTab
-Rapid		actions	menu	combatOptionsTab
-Longrange		actions	menu	combatOptionsTab
-Flick		actions	menu	combatOptionsTab
-Lash		actions	menu	combatOptionsTab
-Deflect		actions	menu	combatOptionsTab
-Fend		actions	menu	combatOptionsTab
-Bash		actions	menu	combatOptionsTab
-Blaze		actions	menu	combatOptionsTab
-Scorch		actions	menu	combatOptionsTab
-Flare		actions	menu	combatOptionsTab
+Study	調べる	actions	item	Fire
+Remove	取り除く	actions	item	Oak lectern
+Lay	備える	actions	item	Bird snare
+Activate	発動	actions	item	Magic box
+Crush	潰す	actions	item	Smouldering heart
+Eat-from	から食べる	actions	item	Smouldering pile of flesh
+Accurate	正確に	actions	menu	combatOptionsTab
+Aggressive	激しく	actions	menu	combatOptionsTab
+Defensive	守りながら	actions	menu	combatOptionsTab
+Controlled	バランスよく	actions	menu	combatOptionsTab
+Chop	切る	actions	menu	combatOptionsTab
+Slash	切り裂く	actions	menu	combatOptionsTab
+Stab	刺す	actions	menu	combatOptionsTab
+Block	ブロック	actions	menu	combatOptionsTab
+Pound	打つ	actions	menu	combatOptionsTab
+Pummel	殴打	actions	menu	combatOptionsTab
+Spike	突く	actions	menu	combatOptionsTab
+Impale	貫く	actions	menu	combatOptionsTab
+Smash	砕く	actions	menu	combatOptionsTab
+Lunge	突進	actions	menu	combatOptionsTab
+Swipe	なぎ払う	actions	menu	combatOptionsTab
+Hack	切り開く	actions	menu	combatOptionsTab
+Reap	刈り取る	actions	menu	combatOptionsTab
+Rapid	連射	actions	menu	combatOptionsTab
+Longrange	遠距離	actions	menu	combatOptionsTab
+Flick	フリック	actions	menu	combatOptionsTab
+Lash	鞭打つ	actions	menu	combatOptionsTab
+Deflect	そらす	actions	menu	combatOptionsTab
+Fend	防ぐ	actions	menu	combatOptionsTab
+Bash	激突	actions	menu	combatOptionsTab
+Blaze	ブレイズ	actions	menu	combatOptionsTab
+Scorch	焦がす	actions	menu	combatOptionsTab
+Flare	フレア	actions	menu	combatOptionsTab
 Last-tier contract		actions	npc	Amy
 Metamorph		actions	npc	Nid
 Choose		actions	npc	Tenoch
 Check-on		actions	npc	Man
-Stats		actions	npc	Worm Tongue
+Stats	ステータス	actions	npc	Worm Tongue
 Take-5 concoctions		actions	object	Crate
 Take-10 concoctions		actions	object	Crate
 Take-many		actions	object	Medical box
@@ -1559,6 +1559,6 @@ Fulfil-order		actions	object	Conveyor belt
 Fight-privately		actions	object	Meeting flag
 Leave-group		actions	object	Meeting flag (private)
 Quick-slide		actions	object	Slope
-Change		actions	object	Scarecrow
-Plant		actions	object	Pumpkin patch
+Change	変更	actions	object	Scarecrow
+Plant	植える	actions	object	Pumpkin patch
 Carve-pumpkin		actions	object	Pumpkin carving table

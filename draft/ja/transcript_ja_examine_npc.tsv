@@ -6,7 +6,7 @@ An evil death demon.		examine	npc	Nechryael
 Reminds me of playing pooh sticks.		examine	npc	Twig
 An evil death spawn.		examine	npc	Death spawn
 It's another jolly tree gnome.		examine	npc	Hudo
-A fan of Niles, Miles and Giles.		examine	npc	Piles
+A fan of Niles, Miles and Giles.	ナイルズ、マイルズ、ガイルズに憧れた男。	examine	npc	Piles
 It's a well dressed tree gnome.		examine	npc	Rometti
 He sells weapons.		examine	npc	Gulluck
 A carpet merchant.		examine	npc	Rug Merchant
@@ -199,7 +199,7 @@ The hat's a dead give away.		examine	npc	Witch
 A dark-hearted knight.		examine	npc	Black Knight
 He holds up passers by.		examine	npc	Highwayman
 A crazy, evil druid.		examine	npc	Chaos druid
-Yar! Shiver me timbers!		examine	npc	Pirate
+Yar! Shiver me timbers!	ヤーShiver me timbers!	examine	npc	Pirate
 Avast ye scurvy land lubbers!		examine	npc	Pirate
 This one's had too much to drink!		examine	npc	Pirate
 A fine example of piracy's equal opportunities program.		examine	npc	Pirate
@@ -468,7 +468,7 @@ Guardian of the dramen tree.		examine	npc	Tree spirit
 Unsurprisingly monk like.		examine	npc	Cave monk
 Holy looking.		examine	npc	Monk of Entrana
 An unusually aggressive cleric.		examine	npc	Monk
-Yep. Definitely a chicken.		examine	npc	Chicken
+Yep. Definitely a chicken.	そうだ。Definitely a chicken.	examine	npc	Chicken
 He rules the, er, roost.		examine	npc	Rooster
 How cute!		examine	npc	Li'l lamb
 The black sheep of the family.		examine	npc	Lamb
@@ -4059,7 +4059,7 @@ This must be a choking hazard.		examine	npc	Boulder
 Wet.		examine	npc	Wave
 Wet and bloody.		examine	npc	Bloody Wave
 Better stay well away from this.		examine	npc	Crocodile
-What?		examine	npc	Blood Cloud
+What?	え？	examine	npc	Blood Cloud
 Wait... what?		examine	npc	Blood Cloud
 An ancient automaton imbued with the power of Elidinis.		examine	npc	Elidinis' Warden
 An ancient automaton imbued with the power of Tumeken.		examine	npc	Tumeken's Warden

@@ -154,7 +154,7 @@ Big frog	大きなカエル	name	npc	Big frog
 Cave slime	洞窟スライム	name	npc	Cave slime
 Cave bug	ドウクツムシ	name	npc	Cave bug
 Cave bug larva	ドウクツムシの幼虫	name	npc	Cave bug larva
-Bloodveld	ブラッドベルド	name	npc	Bloodveld
+Bloodveld	ブラッドヴェルド	name	npc	Bloodveld
 Storm Cloud	ストーム・クラウド	name	npc	Storm Cloud
 Entomologist	昆虫学者	name	npc	Entomologist
 Cave kraken	洞窟クラーケン	name	npc	Cave kraken
@@ -342,7 +342,7 @@ Rock	岩石	name	npc	Rock
 Stick	棒	name	npc	Stick
 Pee Hat	ピー・ハット	name	npc	Pee Hat
 Kraka	クラカ	name	npc	Kraka
-Dung	うんち	name	npc	Dung
+Dung	糞	name	npc	Dung
 Ash	灰	name	npc	Ash
 Thrower Troll	石投げトロール	name	npc	Thrower Troll
 Mountain troll	山トロール	name	npc	Mountain troll
@@ -447,8 +447,8 @@ Lamb	子羊	name	npc	Lamb
 Claus the Chef	シェフのクロース	name	npc	Claus the Chef
 Philipe Carnillean	フィリップ・カーニレアン	name	npc	Philipe Carnillean
 Henryeta Carnillean	ヘンリェッタ・ケーニレアン	name	npc	Henryeta Carnillean
-Hazeel	ハジール	name	npc	Hazeel
-Hazeel Cultist	ハジール信者	name	npc	Hazeel Cultist
+Hazeel	ヘーゼル	name	npc	Hazeel
+Hazeel Cultist	ヘーゼル信者	name	npc	Hazeel Cultist
 Khazard Guard	カザードの衛兵	name	npc	Khazard Guard
 Head Guard	衛兵長	name	npc	Head Guard
 Khazard Barman	カザードのバーテンダー	name	npc	Khazard Barman
@@ -645,7 +645,7 @@ High Priestess Zul-Harcinqa	ズル・ハルシンカ女教皇	name	npc	High Prie
 Priestess Zul-Gwenwynig	ズル・グェウィニグ巫女	name	npc	Priestess Zul-Gwenwynig
 Hellcat	ヘルキャット	name	npc	Hellcat
 Lazy cat	怠惰なネコ	name	npc	Lazy cat
-Lazy hellcat	怠惰なヘルキャット	name	npc	Lazy hellcat
+Lazy hellcat	怠惰ななヘルキャット	name	npc	Lazy hellcat
 Baby impling	幼い子悪魔	name	npc	Baby impling
 Young impling	若い子悪魔	name	npc	Young impling
 Gourmet impling	グルメの子悪魔	name	npc	Gourmet impling
@@ -1379,7 +1379,7 @@ Afrah	アフラー	name	npc	Afrah
 Jeed	ジード	name	npc	Jeed
 Hamid	ハミド	name	npc	Hamid
 Goblin Champion	ゴブリンのチャンピオン	name	npc	Goblin Champion
-Hobgoblin Champion	ホブゴブリンノチャンピオン	name	npc	Hobgoblin Champion
+Hobgoblin Champion	ホブゴブリンのチャンピオン	name	npc	Hobgoblin Champion
 Imp Champion	小悪魔のチャンピオン	name	npc	Imp Champion
 Jogre Champion	ジョーガのチャンピオン	name	npc	Jogre Champion
 Lesser Demon Champion	下位悪魔のチャンピオン	name	npc	Lesser Demon Champion
@@ -2505,7 +2505,7 @@ Armadylean guard	アーマディルの番人	name	npc	Armadylean guard
 Bandosian guard	バンドスの番人	name	npc	Bandosian guard
 Dr Ford	フォード先生	name	npc	Dr Ford
 Sister Scarophia	スカロフィア修道女	name	npc	Sister Scarophia
-Lava dragon	溶岩の竜	name	npc	Lava dragon
+Lava dragon	溶岩竜	name	npc	Lava dragon
 Ent	エント	name	npc	Ent
 Prifddinas guard	プリフディナスの衛兵	name	npc	Prifddinas guard
 Mandrith	マンドリス	name	npc	Mandrith
@@ -2916,7 +2916,7 @@ Herbiboar	ハービボア	name	npc	Herbiboar
 Mattimeo	マッチメオ	name	npc	Mattimeo
 Charles Charlington	チャールズ・チャーリングトン	name	npc	Charles Charlington
 Long-tailed Wyvern	長尾のワイバーン	name	npc	Long-tailed Wyvern
-Taloned Wyvern	かぎ爪ワイバーン	name	npc	Taloned Wyvern
+Taloned Wyvern	鉤爪ワイバーン	name	npc	Taloned Wyvern
 Spitting Wyvern	吐くワイバーン	name	npc	Spitting Wyvern
 Ancient Wyvern	古代ワイバーン	name	npc	Ancient Wyvern
 Lobstrosity	ロブストロシティー	name	npc	Lobstrosity
@@ -4226,11 +4226,11 @@ Araxxor		name	npc	Araxxor
 Mirrorback Araxyte		name	npc	Mirrorback Araxyte
 Ruptura Araxyte		name	npc	Ruptura Araxyte
 Acidic Araxyte		name	npc	Acidic Araxyte
-Weave		name	npc	Weave
+Weave	で編む	name	npc	Weave
 Arancini		name	npc	Arancini
 Dreadborn Araxyte		name	npc	Dreadborn Araxyte
-Nid		name	npc	Nid
-Rax		name	npc	Rax
+Nid	ニッド	name	npc	Nid
+Rax	ラックス	name	npc	Rax
 Amoxliatl		name	npc	Amoxliatl
 Unstable ice		name	npc	Unstable ice
 Felius		name	npc	Felius
@@ -4331,6 +4331,6 @@ Yolotli, Teoki of Ralos		name	npc	Yolotli, Teoki of Ralos
 Lucrezia		name	npc	Lucrezia
 Ercos		name	npc	Ercos
 Bone Squirrel		name	npc	Bone Squirrel
-Huberte		name	npc	Huberte
-Moxi		name	npc	Moxi
+Huberte	フベルテ	name	npc	Huberte
+Moxi	モキシー	name	npc	Moxi
 Ghost Cat		name	npc	Ghost Cat

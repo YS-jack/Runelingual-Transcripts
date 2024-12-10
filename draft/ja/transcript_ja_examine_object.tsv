@@ -2604,7 +2604,7 @@ The brass seems to be eaten away around the edge...		examine	object	Output Tap
 Racks of barrels.		examine	object	Barrels
 Round, oaken, barrel-shaped.		examine	object	Brewer's Barrel
 Probably where the farming kit is stored.		examine	object	Cupboard
-Ah! Definitely where the farming kit is stored.		examine	object	Open Cupboard
+Ah! Definitely where the farming kit is stored.	ああ！Definitely where the farming kit is stored.	examine	object	Open Cupboard
 Throw the lever! Mwuhahahaha!		examine	object	Pressure Lever
 This lever can't be operated right now.		examine	object	Pressure Lever
 This is where the brewing ingredients go.		examine	object	Hopper
@@ -3533,7 +3533,7 @@ Doesn't look so scary now.		examine	object	Black hole
 My way back to the surface.		examine	object	Exit
 The exit to the surface.		examine	object	Exit
 Where does it lead?		examine	object	Confusing door
-What's that?		examine	object	Hole
+What's that?	あれは何だ？	examine	object	Hole
 I think it's the way forward.		examine	object	Exit
 Does that really exist?		examine	object	Hope bridge
 Should I go down there?		examine	object	Rift
@@ -9307,7 +9307,7 @@ A pile of scrap rock.		examine	object	Rock pile
 Used for smashing rocks.		examine	object	Hammer
 Dispenses molten metal.		examine	object	Dispenser
 Powers the machines through the power of steam.		examine	object	Boiler
-Will it crush? Yes!		examine	object	Crusher
+Will it crush? Yes!	Will it crush?そうだ！	examine	object	Crusher
 Doesn't look very used.		examine	object	Broom
 Dead meat, dangling from the wall. Looks delicious.		examine	object	Hanging meat
 A good dwarven bed, but too small for me!		examine	object	Bed
