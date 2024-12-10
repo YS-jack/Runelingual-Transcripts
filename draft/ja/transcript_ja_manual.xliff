@@ -219,7 +219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109290">
         <xliff:source>No</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">いいえ</xliff:target>
         <xliff:note>category: manual
 sub_category: emote
 source: None
@@ -867,7 +867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109371">
         <xliff:source>Earmuffs</xliff:source>
-        <xliff:target state="translated">イヤーマフ</xliff:target>
+        <xliff:target state="translated">耳当て</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1811,7 +1811,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109489">
         <xliff:source>Waterbirth Island</xliff:source>
-        <xliff:target state="translated">ウオーターバース島</xliff:target>
+        <xliff:target state="translated">ウォーターバース島</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -7531,7 +7531,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110209">
         <xliff:source>Bloodveld</xliff:source>
-        <xliff:target state="translated">ブラッドベルド</xliff:target>
+        <xliff:target state="translated">ブラッドヴェルド</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -8003,7 +8003,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110268">
         <xliff:source>Lava Dragons</xliff:source>
-        <xliff:target state="translated">溶岩の竜</xliff:target>
+        <xliff:target state="translated">溶岩竜</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -10130,7 +10130,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110550"><xliff:source>Yes</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110551"><xliff:source>No</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110551"><xliff:source>No</xliff:source><xliff:target state="translated">いいえ</xliff:target><xliff:note>category: manual
 sub_category: emote
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110552"><xliff:source>Bow</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10373,7 +10373,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110631"><xliff:source>Pigtails</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110632"><xliff:source>Earmuffs</xliff:source><xliff:target state="translated">イヤーマフ</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110632"><xliff:source>Earmuffs</xliff:source><xliff:target state="translated">耳当て</xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110633"><xliff:source>Side pony</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10727,7 +10727,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110749"><xliff:source>Kraken Cove</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110750"><xliff:source>Waterbirth Island</xliff:source><xliff:target state="translated">ウオーターバース島</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110750"><xliff:source>Waterbirth Island</xliff:source><xliff:target state="translated">ウォーターバース島</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110751"><xliff:source>Lizardman Canyon</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -12872,7 +12872,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111464"><xliff:source>Pyrefiends</xliff:source><xliff:target state="translated">パイヤーフィーンド</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111465"><xliff:source>Bloodveld</xliff:source><xliff:target state="translated">ブラッドベルド</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111465"><xliff:source>Bloodveld</xliff:source><xliff:target state="translated">ブラッドヴェルド</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111466"><xliff:source>Dust Devils</xliff:source><xliff:target state="translated">ダスト・デビル</xliff:target><xliff:note>category: manual
@@ -13049,7 +13049,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111523"><xliff:source>Dark Warriors</xliff:source><xliff:target state="translated">暗黒の戦士</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111524"><xliff:source>Lava Dragons</xliff:source><xliff:target state="translated">溶岩の竜</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111524"><xliff:source>Lava Dragons</xliff:source><xliff:target state="translated">溶岩竜</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111525"><xliff:source>TzKal-Zuk</xliff:source><xliff:target state="translated">ツズカル・ザック</xliff:target><xliff:note>category: manual

@@ -801,7 +801,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112708"><xliff:source>Wind Bolt</xliff:source><xliff:target state="translated">ウィンド・ボルト</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112709"><xliff:source>Bones to Bananas</xliff:source><xliff:target state="translated">骨からバナナ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112709"><xliff:source>Bones to Bananas</xliff:source><xliff:target state="translated">骨をバナナに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112710"><xliff:source>Fire Strike</xliff:source><xliff:target state="translated">ファイヤー・ストライク</xliff:target><xliff:note>category: name
@@ -885,13 +885,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112736"><xliff:source>Charge Earth Orb</xliff:source><xliff:target state="translated">土のオーブ錬成</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112737"><xliff:source>Bones to Peaches</xliff:source><xliff:target state="translated">骨からモモ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112737"><xliff:source>Bones to Peaches</xliff:source><xliff:target state="translated">骨をモモに</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112738"><xliff:source>Saradomin Strike</xliff:source><xliff:target state="translated">サラドミン・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112739"><xliff:source>Claws of Guthix</xliff:source><xliff:target state="translated">ガシックスのかぎ爪</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112739"><xliff:source>Claws of Guthix</xliff:source><xliff:target state="translated">ガシックスの鉤爪</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112740"><xliff:source>Flames of Zamorak</xliff:source><xliff:target state="translated">ザモラックの炎</xliff:target><xliff:note>category: name
@@ -1077,10 +1077,10 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112800"><xliff:source>Hunter Kit</xliff:source><xliff:target state="translated">狩り道具</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112801"><xliff:source>Waterbirth Teleport</xliff:source><xliff:target state="translated">ウオーターバース・ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112801"><xliff:source>Waterbirth Teleport</xliff:source><xliff:target state="translated">ウォーターバース・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112802"><xliff:source>Tele Group Waterbirth</xliff:source><xliff:target state="translated">ウオーターバース・集団ワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112802"><xliff:source>Tele Group Waterbirth</xliff:source><xliff:target state="translated">ウォーターバース・集団ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112803"><xliff:source>Cure Group</xliff:source><xliff:target state="translated">集団治癒</xliff:target><xliff:note>category: name
