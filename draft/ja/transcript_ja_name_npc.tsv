@@ -447,8 +447,8 @@ Lamb	子羊	name	npc	Lamb
 Claus the Chef	シェフのクロース	name	npc	Claus the Chef
 Philipe Carnillean	フィリップ・カーニレアン	name	npc	Philipe Carnillean
 Henryeta Carnillean	ヘンリェッタ・ケーニレアン	name	npc	Henryeta Carnillean
-Hazeel	ヘーゼル	name	npc	Hazeel
-Hazeel Cultist	ヘーゼル信者	name	npc	Hazeel Cultist
+Hazeel	ハジール	name	npc	Hazeel
+Hazeel Cultist	ハジール信者	name	npc	Hazeel Cultist
 Khazard Guard	カザードの衛兵	name	npc	Khazard Guard
 Head Guard	衛兵長	name	npc	Head Guard
 Khazard Barman	カザードのバーテンダー	name	npc	Khazard Barman
@@ -644,7 +644,7 @@ Banknote Exchange Merchant	銀行券の商人	name	npc	Banknote Exchange Merchan
 High Priestess Zul-Harcinqa	ズル・ハルシンカ女教皇	name	npc	High Priestess Zul-Harcinqa
 Priestess Zul-Gwenwynig	ズル・グェウィニグ巫女	name	npc	Priestess Zul-Gwenwynig
 Hellcat	ヘルキャット	name	npc	Hellcat
-Lazy cat	怠惰ネコ	name	npc	Lazy cat
+Lazy cat	怠惰なネコ	name	npc	Lazy cat
 Lazy hellcat	怠惰なヘルキャット	name	npc	Lazy hellcat
 Baby impling	幼い子悪魔	name	npc	Baby impling
 Young impling	若い子悪魔	name	npc	Young impling
@@ -1379,7 +1379,7 @@ Afrah	アフラー	name	npc	Afrah
 Jeed	ジード	name	npc	Jeed
 Hamid	ハミド	name	npc	Hamid
 Goblin Champion	ゴブリンのチャンピオン	name	npc	Goblin Champion
-Hobgoblin Champion	ホブゴブリンのチャンピオン	name	npc	Hobgoblin Champion
+Hobgoblin Champion	ホブゴブリンノチャンピオン	name	npc	Hobgoblin Champion
 Imp Champion	小悪魔のチャンピオン	name	npc	Imp Champion
 Jogre Champion	ジョーガのチャンピオン	name	npc	Jogre Champion
 Lesser Demon Champion	下位悪魔のチャンピオン	name	npc	Lesser Demon Champion
@@ -4220,3 +4220,117 @@ Zembo	ゼンボ	name	npc	Zembo
 Durial321	Durial321	name	npc	Durial321
 Magic Mark	Magic Mark	name	npc	Magic Mark
 Ranging Ro	Ranging Ro	name	npc	Ranging Ro
+Araxyte		name	npc	Araxyte
+Curator Herminius		name	npc	Curator Herminius
+Araxxor		name	npc	Araxxor
+Mirrorback Araxyte		name	npc	Mirrorback Araxyte
+Ruptura Araxyte		name	npc	Ruptura Araxyte
+Acidic Araxyte		name	npc	Acidic Araxyte
+Weave		name	npc	Weave
+Arancini		name	npc	Arancini
+Dreadborn Araxyte		name	npc	Dreadborn Araxyte
+Nid		name	npc	Nid
+Rax		name	npc	Rax
+Amoxliatl		name	npc	Amoxliatl
+Unstable ice		name	npc	Unstable ice
+Felius		name	npc	Felius
+Caritta		name	npc	Caritta
+Sergius		name	npc	Sergius
+Nova		name	npc	Nova
+Emissary Ascended		name	npc	Emissary Ascended
+Forebearer Janus		name	npc	Forebearer Janus
+Forebearer Fides		name	npc	Forebearer Fides
+Augur Metzli		name	npc	Augur Metzli
+Emissary Acolyte		name	npc	Emissary Acolyte
+Forebearer Vulcan		name	npc	Forebearer Vulcan
+Frost Nagua		name	npc	Frost Nagua
+Forebearer Honos		name	npc	Forebearer Honos
+Emissary Chosen		name	npc	Emissary Chosen
+Emissary Forebearer		name	npc	Emissary Forebearer
+Emissary Chef		name	npc	Emissary Chef
+Emissary Fisher		name	npc	Emissary Fisher
+Emissary Herder		name	npc	Emissary Herder
+Emissary Brawler		name	npc	Emissary Brawler
+Emissary Conjurer		name	npc	Emissary Conjurer
+Emissary		name	npc	Emissary
+Tenoch		name	npc	Tenoch
+Silia		name	npc	Silia
+Adrius		name	npc	Adrius
+Eleuia		name	npc	Eleuia
+Frost Crab		name	npc	Frost Crab
+Brew'ma		name	npc	Brew'ma
+Marika		name	npc	Marika
+Chilled jelly		name	npc	Chilled jelly
+Emelio		name	npc	Emelio
+Lelia		name	npc	Lelia
+Alba		name	npc	Alba
+Lucas		name	npc	Lucas
+Renata		name	npc	Renata
+Vincens		name	npc	Vincens
+Colosseum Announcer		name	npc	Colosseum Announcer
+Dire Wolf Alpha		name	npc	Dire Wolf Alpha
+Patzi		name	npc	Patzi
+Adala		name	npc	Adala
+Constantinius		name	npc	Constantinius
+Cozyac		name	npc	Cozyac
+Xocotla		name	npc	Xocotla
+Pavo		name	npc	Pavo
+Head Butler		name	npc	Head Butler
+Stradius		name	npc	Stradius
+Hutza		name	npc	Hutza
+Costumer		name	npc	Costumer
+Naiatli		name	npc	Naiatli
+Clodius		name	npc	Clodius
+Wandering Guard		name	npc	Wandering Guard
+Smart-looking dog		name	npc	Smart-looking dog
+Villa Guard		name	npc	Villa Guard
+Livius		name	npc	Livius
+Vineyard worker		name	npc	Vineyard worker
+Vineyard foreman		name	npc	Vineyard foreman
+Well-dressed man		name	npc	Well-dressed man
+Cabbage Farmer		name	npc	Cabbage Farmer
+Nasty Nick		name	npc	Nasty Nick
+Faustus		name	npc	Faustus
+Toci		name	npc	Toci
+Antonius		name	npc	Antonius
+Supervisor Lalo		name	npc	Supervisor Lalo
+Meztlan		name	npc	Meztlan
+Clanila		name	npc	Clanila
+Tzatelli		name	npc	Tzatelli
+Juatil		name	npc	Juatil
+Alaxxi		name	npc	Alaxxi
+Kali		name	npc	Kali
+Ichta		name	npc	Ichta
+Necto		name	npc	Necto
+Overseer Khougo		name	npc	Overseer Khougo
+Techichi		name	npc	Techichi
+Chiribaya		name	npc	Chiribaya
+Locke McScruff		name	npc	Locke McScruff
+Woofson		name	npc	Woofson
+Porcupine		name	npc	Porcupine
+Salius		name	npc	Salius
+Salvager		name	npc	Salvager
+Chosen Aluinus		name	npc	Chosen Aluinus
+Hugh		name	npc	Hugh
+Izel		name	npc	Izel
+Worm Tongue		name	npc	Worm Tongue
+Construction Worker		name	npc	Construction Worker
+Antonia		name	npc	Antonia
+Taala		name	npc	Taala
+Chef		name	npc	Chef
+Marla		name	npc	Marla
+Viero		name	npc	Viero
+Manauia		name	npc	Manauia
+The Hueycoatl		name	npc	The Hueycoatl
+Hueycoatl tail		name	npc	Hueycoatl tail
+Hueycoatl tail (broken)		name	npc	Hueycoatl tail (broken)
+Hueycoatl body		name	npc	Hueycoatl body
+Pilgrim		name	npc	Pilgrim
+Ezco, Teoki of Ranul		name	npc	Ezco, Teoki of Ranul
+Yolotli, Teoki of Ralos		name	npc	Yolotli, Teoki of Ralos
+Lucrezia		name	npc	Lucrezia
+Ercos		name	npc	Ercos
+Bone Squirrel		name	npc	Bone Squirrel
+Huberte		name	npc	Huberte
+Moxi		name	npc	Moxi
+Ghost Cat		name	npc	Ghost Cat

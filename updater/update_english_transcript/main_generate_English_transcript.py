@@ -57,8 +57,8 @@ if __name__ == "__main__":
         add_wiki_data_to_db()
     else:
         print("Please specify an argument")
-        print("To update via web data: python main_generate_English_transcript.py --updateAll")
+        print("To update everything (manual transcripts, chisel data (npc, item, object names + examines + options), wiki data (npc dialogues)): python main_generate_English_transcript.py --updateAll")
         print("To update via only manual transcripts: python main_generate_English_transcript.py --updateManual")
-        print("To update via only chisel data: python main_generate_English_transcript.py --updateChisel")
-        print("To update via only wiki data: python main_generate_English_transcript.py --updateWiki")
+        print("To update via only chisel data (npc, item, object names + examines + options): python main_generate_English_transcript.py --updateChisel")
+        print("To update via only wiki data (npc dialogues): python main_generate_English_transcript.py --updateWiki")
         exit(1)

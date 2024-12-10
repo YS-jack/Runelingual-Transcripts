@@ -6,7 +6,7 @@ An evil death demon.		examine	npc	Nechryael
 Reminds me of playing pooh sticks.		examine	npc	Twig
 An evil death spawn.		examine	npc	Death spawn
 It's another jolly tree gnome.		examine	npc	Hudo
-A fan of Niles, Miles and Giles.	ナイルズ、マイルズ、ガイルズに憧れた男。	examine	npc	Piles
+A fan of Niles, Miles and Giles.		examine	npc	Piles
 It's a well dressed tree gnome.		examine	npc	Rometti
 He sells weapons.		examine	npc	Gulluck
 A carpet merchant.		examine	npc	Rug Merchant
@@ -4484,3 +4484,121 @@ Appears slightly drunk.		examine	npc	Zembo
 I have the sudden urge to bank my items.		examine	npc	Durial321
 He doesn't look too friendly.		examine	npc	Magic Mark
 She doesn't look too friendly.		examine	npc	Ranging Ro
+Needs cream...		examine	npc	Warped Jelly
+A seriously scary spider.		examine	npc	Araxxor
+A seriously dead spider.		examine	npc	Araxxor
+Egg!		examine	npc	Egg
+A colourful spider.		examine	npc	Mirrorback Araxyte
+Egg.		examine	npc	Egg
+Egg?		examine	npc	Egg
+A member of the Sisterhood experimenting with araxyte venom.		examine	npc	Weave
+Really hope she doesn't crawl into my mouth while I sleep.		examine	npc	Arancini
+Looks a tad disheveled		examine	npc	Man
+Looks like a respectable gentleman		examine	npc	Nid
+Looks like a respectable gentleman.		examine	npc	Nid
+A powerful frost nagua.		examine	npc	Amoxliatl
+Looks like it could shatter at any moment.		examine	npc	Unstable ice
+The heir to the throne of Varlamore, going undercover.		examine	npc	Prince Itzla Arkan
+A citizen of Varlamore, hoping to join the Twilight Emissaries.		examine	npc	Felius
+A new member of the Twilight Emissaries.		examine	npc	Sergius
+A highly experienced member of the Twilight Emissaries.		examine	npc	Emissary Ascended
+A leading member of the Twilight Emissaries.		examine	npc	Forebearer Janus
+Leader of the Twilight Emissaries.		examine	npc	Augur Metzli
+Ranul reborn... apparently.		examine	npc	Furia Tullus
+Ralos reborn... apparently.		examine	npc	Ennius Tullus
+A newly-initiated member of the Twilight Emissaries.		examine	npc	Emissary Acolyte
+Brittle, cold and shimmering with frost magic.		examine	npc	Frost Nagua
+An experienced member of the Twilight Emissaries.		examine	npc	Emissary Chosen
+Keeping everyone fed.		examine	npc	Emissary Chef
+Catching fish for the Emissaries.		examine	npc	Emissary Fisher
+One of the cultist's goats. Not to be confused with a cultist goat.		examine	npc	Goat
+Looking after the goats.		examine	npc	Emissary Herder
+A fierce fighter of the Twilight Emissaries.		examine	npc	Emissary Brawler
+A fierce mage of the Twilight Emissaries.		examine	npc	Emissary Conjurer
+A fierce member of the Twilight Emissaries.		examine	npc	Emissary
+A big block of ice.		examine	npc	Ice block
+Servant of the sacred flame. Capable of herblore.		examine	npc	Brew'ma
+An expert in tomatoes, growing pumpkins for a change.		examine	npc	Marika
+A local lover of food.		examine	npc	Emelio
+The editor for the Colosseum.		examine	npc	Lelia
+She knows a thing or two about being a farmer.		examine	npc	Alba
+He's here to try Emelio's kebabs.		examine	npc	Lucas
+She's here to try Emelio's kebabs.		examine	npc	Renata
+Tells you what's happening in the Colosseum.		examine	npc	Colosseum Announcer
+Now that's a big one!		examine	npc	Dire Wolf Alpha
+The finest actor you've never heard of.		examine	npc	Patzi
+A helpful sort of person.		examine	npc	Adala
+A thief, not a murderer.		examine	npc	Adala
+The host with the most.		examine	npc	Constantinius
+Enjoying an early retirement.		examine	npc	Cozyac
+Are those business sandals?		examine	npc	Xocotla
+They could use a dunk in the fountain.		examine	npc	Pavo
+Is that a union flyer in his pocket?		examine	npc	Head Butler
+He should investigate some competence.		examine	npc	Stradius
+She's the brains... and the brawn.		examine	npc	Hutza
+Responsible for keeping the actors well dressed.		examine	npc	Costumer
+The understudy!		examine	npc	Naiatli
+In a supporting role.		examine	npc	Clodius
+Inconvenient, occasionally.		examine	npc	Wandering Guard
+What a handsome fella.		examine	npc	Smart-looking dog
+They're a butler. They buttle.		examine	npc	Butler
+Passage by invitation only.		examine	npc	Villa Guard
+He's having a little lie down.		examine	npc	Man
+Keeping things clean.		examine	npc	Cleaner
+A dwarven mystic.		examine	npc	Seer
+Looks after the grapes.		examine	npc	Vineyard worker
+Makes sure the grapes get to where they need to be going.		examine	npc	Vineyard foreman
+He looks awfully out of place!		examine	npc	Well-dressed man
+He's passionate about leafy greens.		examine	npc	Cabbage Farmer
+Why does Nick have to be such a...		examine	npc	Nasty Nick
+She can sell you a thing or two.		examine	npc	Shopkeeper
+A purveyor of the finest fruit and veg.		examine	npc	Faustus
+Her gem knowledge is deeper than the mines they come from.		examine	npc	Toci
+The head sommelier for the Moonrise Brewery and Winery.		examine	npc	Antonius
+He's in charge here.		examine	npc	Supervisor Lalo
+Looking after the plants.		examine	npc	Meztlan
+A skilled alchemist.		examine	npc	Clanila
+I prefer linguine.		examine	npc	Tzatelli
+Keeping an eye on things.		examine	npc	Juatil
+Her goods might come in handy if you're in need of protection.		examine	npc	Ichta
+A local trader of mining supplies.		examine	npc	Necto
+A defender of Mistrock.		examine	npc	Guard
+A resident of Mistrock.		examine	npc	Citizen
+One of Mistrock's youngest residents.		examine	npc	Child
+He's in charge of Mistrock.		examine	npc	Overseer Khougo
+The most refined animal in all of Varlamore.		examine	npc	Capybara
+So small it could fit in your pocket!		examine	npc	Techichi
+He seems to be keeping a watchful eye on something happening in the distance...		examine	npc	Techichi
+Apparently they specialise in herding alpacas.		examine	npc	Chiribaya
+He's busy investigating a cabbage crime scene.		examine	npc	Locke McScruff
+He's examining some suspicious muddy footprints.		examine	npc	Woofson
+He's down on his luck and wandering aimlessly...		examine	npc	Scorpion
+A spiky fellow.		examine	npc	Porcupine
+A seller of high quality plate armour.		examine	npc	Salius
+As the name suggests, they like collecting salvage.		examine	npc	Salvager
+A strange man in a moon helmet.		examine	npc	Chosen Aluinus
+He's not looking so great.		examine	npc	Hugh
+Leader of the salvagers.		examine	npc	Izel
+Enjoys termites.		examine	npc	Worm Tongue
+He seems lost in thought...		examine	npc	Construction Worker
+She's been on more than a few voyages.		examine	npc	Antonia
+She's coordinating the expedition.		examine	npc	Taala
+Guarding against hunger.		examine	npc	Chef
+Keeping order in the camp.		examine	npc	Guard
+A grumpy-looking nelta in service to Ralos.		examine	npc	Manauia
+It's like it's part of the mountain itself.		examine	npc	The Hueycoatl
+It's shielding itself.		examine	npc	The Hueycoatl
+It doesn't seem very happy.		examine	npc	The Hueycoatl
+I'd best avoid that.		examine	npc	Hueycoatl tail
+The sharp plating has been broken off.		examine	npc	Hueycoatl tail (broken)
+There's a monster in this mountain...		examine	npc	Hueycoatl body
+A pile of rock and broken scales.		examine	npc	Rubble
+A local seller of various goods.		examine	npc	Shopkeeper
+A lone wanderer.		examine	npc	Pilgrim
+An expert on all things brewing.		examine	npc	Lucrezia
+A giant squirrel with a skeletal aesthetic.		examine	npc	Bone Squirrel
+Looks very polite.		examine	npc	Huberte
+A tiny frost nagua.		examine	npc	Moxi
+A naughty sea bird.		examine	npc	Gull
+MeoooOoOoOooOoOooo.		examine	npc	Ghost Cat
+All dressed up for Halloween!		examine	npc	Stray dog

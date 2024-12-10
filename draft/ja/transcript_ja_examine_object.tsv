@@ -9640,3 +9640,186 @@ A barrel full of an unknown liquid. I hope it's orange juice.		examine	object	Ba
 Quite loose indeed.		examine	object	Loose Railing
 A rug adorned with the icon of Deadman.		examine	object	Rug
 Someone's left it open.		examine	object	Chest
+A large bubbling cauldron. Smells... Ugh!		examine	object	Cauldron
+A clay pot containing some local grain.		examine	object	Food pot
+This vat contains a mixture of water, barley malt, and harralander.		examine	object	Fermenting Vat
+Greenman's Ale is fermenting in this vat.		examine	object	Fermenting Vat
+This vat is filled with Greenman's Ale.		examine	object	Fermenting Vat
+This vat is filled with mature Greenman's Ale.		examine	object	Fermenting Vat
+Wizard's Mind Bomb is fermenting in this vat.		examine	object	Fermenting Vat
+This vat is filled with Wizard's Mind Bomb.		examine	object	Fermenting Vat
+This vat is filled with mature Wizard's Mind Bomb.		examine	object	Fermenting Vat
+This vat contains a mixture of water, barley malt, and bittercap mushrooms.		examine	object	Fermenting Vat
+An innocuous looking statue.		examine	object	Statue
+Filled with cocoa beans.		examine	object	Food pot
+Gnarly old tree roots.		examine	object	Roots
+Doesn't seem overly relevant to me.		examine	object	Scroll
+Looks like he's been here a while.		examine	object	Skeleton
+Looks awfully sticky.		examine	object	Web tunnel
+Looks big and heavy.		examine	object	Web sack
+A large display of Araxxor in a venomous cave.		examine	object	Araxxor display
+Looks cold.		examine	object	Icy pool
+An icy barricade.		examine	object	Ice blockage
+Cold and pointy!		examine	object	Ice spike
+It's full of bandages.		examine	object	Medical box
+Once held bandages.		examine	object	Empty medical box
+A large spikey portcullis, built to keep out intruders.		examine	object	Ancient gate
+A glorious shrine to the Final Dawn.		examine	object	Shrine of Twilight
+This looks to be more comfortable than the cold floor.		examine	object	Pillow
+The candles flicker in the slight breeze that flows past them.		examine	object	Altar
+Appears to be missing something.		examine	object	Broken statue
+A statue holding a strange icon.		examine	object	Statue
+Whatever is inside must be ancient.		examine	object	Urn
+Words carved into the wall.		examine	object	Markings
+Need to be mined to clear the path.		examine	object	Rocks
+Some sort of ancient wall carving.		examine	object	Carving
+Seems to be disabled.		examine	object	Trap
+A very old brazier.		examine	object	Brazier
+A very old brazier with a magical orb glowing within it.		examine	object	Brazier
+Rather intimidating.		examine	object	Ancient gate
+Need a pickaxe?		examine	object	Barrel
+An odd platform in the floor.		examine	object	Strange Platform
+A way down below.		examine	object	Lift Platform
+What's at the bottom of this?		examine	object	Pit
+It's got to be warmer up there.		examine	object	Stairs
+Could potentially be a route back up.		examine	object	Chain
+A way back up.		examine	object	Chain
+Looks climbable.		examine	object	Ledge
+Looks sturdy enough, but I wouldn't want to jump on it barefoot.		examine	object	Frozen platform
+Who put this here?		examine	object	Statue
+A very old gate.		examine	object	Ancient gate
+A chest of stone.		examine	object	Stone chest
+The water trickling down the wall has caused a slippery ledge to form.		examine	object	Icy water
+A display showing Xerna's Diadem.		examine	object	Xerna's Diadem
+A weirdly out of place set of tools.		examine	object	Tools
+Now how will I fit through there?		examine	object	House window
+They lead down to the wine cellar.		examine	object	Stairs
+Dangerously red.		examine	object	Antique wine
+A way through.		examine	object	Entryway
+What's it doing down there?		examine	object	Jug
+That's one way to get wine out of a jug.		examine	object	Broken pottery
+Lighter than expected.		examine	object	Wine storage
+Like a crate, but pocket sized.		examine	object	Small box
+Sat a little too close to the ground.		examine	object	Broken stool
+Leads to the backstage area.		examine	object	Backstage entrance
+Multiple costumes.		examine	object	Costume rack
+Even more dangerous than they look.		examine	object	Loose rocks
+Is that a way through behind there?		examine	object	Bookshelf
+A hidden passage behind a bookshelf. How original.		examine	object	Bookshelf passage
+Does this belong down here?		examine	object	Fancy chest
+Soggy.		examine	object	Fountain
+Supposedly full of costumes.		examine	object	Costume Bag
+Where could it lead...		examine	object	Entrance
+Pull this to add Aga to the mix!		examine	object	Aga lever
+Pull this to add Mox to the mix!		examine	object	Mox lever
+Pull this to add Lye to the mix!		examine	object	Lye lever
+A workstation used for concentrating mixtures.		examine	object	Retort
+A workstation used for homogenising mixtures.		examine	object	Agitator
+A workstation used for crystalising mixtures.		examine	object	Alembic
+I can deposit Mox, Aga and Lye pastes into this!		examine	object	Hopper
+Can be used to refine herbs and unfinished potions into useful reagents!		examine	object	Refiner
+Some complicated-looking alchemical machinery.		examine	object	Mixer
+Mix-maxxing.		examine	object	Mixer
+Carries finished products off to the packing area.		examine	object	Conveyor belt
+Where the magic happens.		examine	object	Mixing vessel (Empty)
+The mixing vessel. It contains Mammoth-might mix.		examine	object	Mixing vessel (Mammoth-might mix)
+The mixing vessel. It contains Mystic mana amalgam.		examine	object	Mixing vessel (Mystic mana amalgam)
+The mixing vessel. It contains Marley's moonlight.		examine	object	Mixing vessel (Marley's moonlight)
+The mixing vessel. It contains Alco-augmentator.		examine	object	Mixing vessel (Alco-augmentator)
+The mixing vessel. It contains Aqualux amalgam.		examine	object	Mixing vessel (Aqualux amalgam)
+The mixing vessel. It contains Azure aura mix.		examine	object	Mixing vessel (Azure aura mix)
+The mixing vessel. It contains Liplack liquor.		examine	object	Mixing vessel (Liplack liquor)
+The mixing vessel. It contains Anti-leech lotion.		examine	object	Mixing vessel (Anti-leech lotion)
+The mixing vessel. It contains Megalite liquid.		examine	object	Mixing vessel (Megalite liquid)
+The mixing vessel. It contains Mixalot.		examine	object	Mixing vessel (Mixalot)
+The clusters of plump leaves glisten in the light.		examine	object	Fern
+Doesn't look like its ready to be picked yet.		examine	object	Young digweed
+I should pick this before it goes bad!		examine	object	Mature digweed
+Several shelves of books relating to Varlamorian alchemy.		examine	object	Lab books
+They lead down below.		examine	object	Staircase
+Local grain to be used as potion ingredients.		examine	object	Food pot
+Cocoa beans to be used as potion ingredients.		examine	object	Food pot
+Why does a lab need wine?		examine	object	Wine storage
+Lots of wine.		examine	object	Wine storage
+The leaves wibble and wobble in the wind.		examine	object	Potted palm
+A tree in a pot?		examine	object	Tree
+Lots of mushy grapes.		examine	object	Grape storage
+Lots of grapes.		examine	object	Grape barrel
+Lots to wear.		examine	object	Clothes rack
+The worn pages are crusty and dusty.		examine	object	Book
+Sitting here will give you splinters.		examine	object	Table
+Packed with crunchy nutrition.		examine	object	Table
+Comes with wine!		examine	object	Table
+The smell of wine is strong from here...		examine	object	Cellar entrance
+A massive barrel of fine wine.		examine	object	Wine barrel
+It's reassuring to see that the bank's spending money wisely.		examine	object	Chandelier
+Used by the actors and actresses.		examine	object	Vanity
+Helps you look good.		examine	object	Vanity
+A nice nest.		examine	object	Nest
+Notes from someone's lab work.		examine	object	Lab notes
+Is that wine?		examine	object	Fountain
+A strange campfire with green flames.		examine	object	Campfire
+A big fern.		examine	object	Fern
+A very leafy plant.		examine	object	Bush
+Full of juicy berries!		examine	object	Berry bush
+It seems as though this cabbage was ditched in a hurry...		examine	object	Cabbage evidence
+The termites scurry within.		examine	object	Termite Mound
+A bundle of hay. Perfect for a hard landing!		examine	object	Landing Spot
+I should scoop these up.		examine	object	Termites
+A rope to hang on.		examine	object	Rope
+A well equipped buffalo.		examine	object	Bank buffalo
+Blocks the path up the mountain.		examine	object	Chain
+A flag marking a place for people to meet.		examine	object	Meeting flag
+It's blocking the way up.		examine	object	The Hueycoatl
+The Hueycoatl lurks inside.		examine	object	Cave
+It's charging up...		examine	object	Glowing symbol
+Emanating powerful magic.		examine	object	Magic brazier
+Absorbing the power of magical protection prayers.		examine	object	Magic brazier
+The engraving seems dormant.		examine	object	Magic engraving
+20% of the engraving is glowing.		examine	object	Magic engraving
+40% of the engraving is glowing.		examine	object	Magic engraving
+60% of the engraving is glowing.		examine	object	Magic engraving
+80% of the engraving is glowing.		examine	object	Magic engraving
+The entire engraving is glowing!		examine	object	Magic engraving
+Absorbing the power of ranged protection prayers.		examine	object	Ranged brazier
+Absorbing the power of melee protection prayers.		examine	object	Melee brazier
+I could slide down that.		examine	object	Slope
+A very ornate chest.		examine	object	Chest
+It's telling me something...		examine	object	Pillar
+A dark and frozen cave entrance.		examine	object	Cave entrance
+There's a monster in this mountain...		examine	object	Cave entrance
+A place to seek refuge from the harsh wind and snow.		examine	object	Shabby tent
+A mysterious and ancient obelisk.		examine	object	Obelisk
+A mysterious statue of a hand.		examine	object	Obelisk Hand
+A formidable looking gate.		examine	object	Gate
+Shelves full of alchemy equipment.		examine	object	Shelves
+An open crate full of magical mystery rewards.		examine	object	Reward Cart
+Big turnips.		examine	object	Jack-O-Lantern
+Opinion of crows: Get them off me!		examine	object	Scarecrow
+Opinion of crows: There's lots of good eating on them.		examine	object	Scarecrow
+Opinion of crows: ...		examine	object	Scarecrow
+Opinion of crows: I love them, they're so clever and fluffy!		examine	object	Scarecrow
+Opinion of crows: Haha! They tickle!		examine	object	Scarecrow
+Opinion of crows: I cannot believe them. They can't be real.		examine	object	Scarecrow
+Opinion of crows: Absolutely seething at their disrespect of fields.		examine	object	Scarecrow
+Opinion of crows: Look how they massacred my field!		examine	object	Scarecrow
+Opinion of crows: I can't summon the strength to care.		examine	object	Scarecrow
+That is a lovely beige pumpkin plant.		examine	object	Beige pumpkins
+That is a lovely white pumpkin plant.		examine	object	White pumpkins
+That is a lovely yellow pumpkin plant.		examine	object	Yellow pumpkins
+That is a lovely orange pumpkin plant.		examine	object	Orange pumpkins
+That is a lovely red pumpkin plant.		examine	object	Red pumpkins
+That is a lovely dark green pumpkin plant.		examine	object	Dark green pumpkins
+That is a lovely powder grey pumpkin plant.		examine	object	Powder grey pumpkins
+That is a lovely beige pumpkin seedling.		examine	object	Beige pumpkin seedling
+That is a lovely white pumpkin seedling.		examine	object	White pumpkin seedling
+That is a lovely yellow pumpkin seedling.		examine	object	Yellow pumpkin seedling
+That is a lovely orange pumpkin seedling.		examine	object	Orange pumpkin seedling
+That is a lovely red pumpkin seedling.		examine	object	Red pumpkin seedling
+That is a lovely dark green pumpkin seedling.		examine	object	Dark green pumpkin seedling
+That is a lovely powder grey pumpkin seedling.		examine	object	Powder grey pumpkin seedling
+There is nothing there, but it could look nice with a pumpkin plant.		examine	object	Pumpkin patch
+A bin for storing pumpkins.		examine	object	Storage bin
+For carving pumpkins.		examine	object	Pumpkin carving table
+That's a lot of mess you just made.		examine	object	Pumpkin carving table
+It's missing something to be quite scary enough.		examine	object	Scarecrow

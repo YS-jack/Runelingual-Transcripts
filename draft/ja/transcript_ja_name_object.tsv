@@ -3812,7 +3812,7 @@ Tangleroot	タングルルート	name	object	Tangleroot
 Hellcat	ヘルキャット	name	object	Hellcat
 Overgrown cat	老いたネコ	name	object	Overgrown cat
 Overgrown hellcat	老いたヘルキャット	name	object	Overgrown hellcat
-Lazy cat	怠惰ネコ	name	object	Lazy cat
+Lazy cat	怠惰なネコ	name	object	Lazy cat
 Lazy hellcat	怠惰なヘルキャット	name	object	Lazy hellcat
 Wily cat	ずる賢いネコ	name	object	Wily cat
 Wily hellcat	ずる賢いヘルキャット	name	object	Wily hellcat
@@ -3938,7 +3938,7 @@ Lovakengj statue	ロヴァケイン像	name	object	Lovakengj statue
 Piscarilius statue	ピスカリリウス像	name	object	Piscarilius statue
 Shayzien statue	シャイジエン像	name	object	Shayzien statue
 Rose	バラ	name	object	Rose
-Mark of Darkness	闇の刻印	name	object	Mark of Darkness
+Mark of Darkness	暗黒の印	name	object	Mark of Darkness
 Protester	抗議者	name	object	Protester
 Ruined stall	崩れた屋台	name	object	Ruined stall
 Ruined Stall	崩れた屋台	name	object	Ruined Stall
@@ -3970,7 +3970,7 @@ Spider eggs	クモの卵	name	object	Spider eggs
 Plants	植物	name	object	Plants
 Armour crate	防具箱	name	object	Armour crate
 Hardcore armour crate	ハードコアの防具箱	name	object	Hardcore armour crate
-Frozen Door	凍った扉	name	object	Frozen Door
+Frozen Door	凍ったドア	name	object	Frozen Door
 Ancient Plaque	古代の銘板	name	object	Ancient Plaque
 Ancient Forge	古代の炉	name	object	Ancient Forge
 Ancient Barrier	古代のバリアー	name	object	Ancient Barrier
@@ -4575,7 +4575,7 @@ Skeletal remains		name	object	Skeletal remains
 Stone of Jas		name	object	Stone of Jas
 Old battered door		name	object	Old battered door
 Floor wire		name	object	Floor wire
-Spiral staircase	らせん階段	name	object	Spiral staircase
+Spiral staircase		name	object	Spiral staircase
 Pile of weights		name	object	Pile of weights
 Pressure gauge	圧力計	name	object	Pressure gauge
 Waste-paper basket		name	object	Waste-paper basket
@@ -4591,3 +4591,98 @@ Magic logs pile		name	object	Magic logs pile
 Display dial		name	object	Display dial
 Debug Man	デバッグ男	name	object	Debug Man
 Debug Woman	デバッグ女	name	object	Debug Woman
+Food pot		name	object	Food pot
+Empty pot		name	object	Empty pot
+Web tunnel		name	object	Web tunnel
+Araxxor display		name	object	Araxxor display
+Icy pool		name	object	Icy pool
+Ice spike		name	object	Ice spike
+Medical box		name	object	Medical box
+Empty medical box		name	object	Empty medical box
+Shrine of Twilight		name	object	Shrine of Twilight
+Frozen door		name	object	Frozen door
+Markings		name	object	Markings
+Strange Platform		name	object	Strange Platform
+Icy ledge		name	object	Icy ledge
+Frozen platform		name	object	Frozen platform
+Icy water		name	object	Icy water
+Xerna's Diadem		name	object	Xerna's Diadem
+House window		name	object	House window
+Antique wine		name	object	Antique wine
+Entryway		name	object	Entryway
+Jug		name	object	Jug
+Broken pottery		name	object	Broken pottery
+Wine storage		name	object	Wine storage
+Small box		name	object	Small box
+Backstage entrance		name	object	Backstage entrance
+Costume rack		name	object	Costume rack
+Bookshelf passage		name	object	Bookshelf passage
+Fancy chest		name	object	Fancy chest
+Costume Bag		name	object	Costume Bag
+Aga lever		name	object	Aga lever
+Mox lever		name	object	Mox lever
+Lye lever		name	object	Lye lever
+Retort		name	object	Retort
+Agitator		name	object	Agitator
+Alembic		name	object	Alembic
+Refiner		name	object	Refiner
+Mixer		name	object	Mixer
+Mixing vessel (Empty)		name	object	Mixing vessel (Empty)
+Mixing vessel (Mammoth-might mix)		name	object	Mixing vessel (Mammoth-might mix)
+Mixing vessel (Mystic mana amalgam)		name	object	Mixing vessel (Mystic mana amalgam)
+Mixing vessel (Marley's moonlight)		name	object	Mixing vessel (Marley's moonlight)
+Mixing vessel (Alco-augmentator)		name	object	Mixing vessel (Alco-augmentator)
+Mixing vessel (Aqualux amalgam)		name	object	Mixing vessel (Aqualux amalgam)
+Mixing vessel (Azure aura mix)		name	object	Mixing vessel (Azure aura mix)
+Mixing vessel (Liplack liquor)		name	object	Mixing vessel (Liplack liquor)
+Mixing vessel (Anti-leech lotion)		name	object	Mixing vessel (Anti-leech lotion)
+Mixing vessel (Megalite liquid)		name	object	Mixing vessel (Megalite liquid)
+Mixing vessel (Mixalot)		name	object	Mixing vessel (Mixalot)
+Young digweed		name	object	Young digweed
+Mature digweed		name	object	Mature digweed
+Lab books		name	object	Lab books
+Potted palm		name	object	Potted palm
+Plant pot		name	object	Plant pot
+Wine drinking bowl		name	object	Wine drinking bowl
+Grape storage		name	object	Grape storage
+Grape barrel		name	object	Grape barrel
+Cellar entrance		name	object	Cellar entrance
+Privacy screen		name	object	Privacy screen
+Vanity		name	object	Vanity
+Lab notes		name	object	Lab notes
+Berry bush		name	object	Berry bush
+Cabbage evidence		name	object	Cabbage evidence
+Termite Mound		name	object	Termite Mound
+Termites		name	object	Termites
+Bank buffalo		name	object	Bank buffalo
+Meeting flag		name	object	Meeting flag
+Meeting flag (private)		name	object	Meeting flag (private)
+Rockslide (private)		name	object	Rockslide (private)
+The Hueycoatl		name	object	The Hueycoatl
+Glowing symbol		name	object	Glowing symbol
+Magic brazier		name	object	Magic brazier
+Magic engraving		name	object	Magic engraving
+Ranged brazier		name	object	Ranged brazier
+Ranged engraving		name	object	Ranged engraving
+Melee brazier		name	object	Melee brazier
+Melee engraving		name	object	Melee engraving
+Shabby tent		name	object	Shabby tent
+Obelisk Hand		name	object	Obelisk Hand
+Reward Cart		name	object	Reward Cart
+Beige pumpkins		name	object	Beige pumpkins
+White pumpkins		name	object	White pumpkins
+Yellow pumpkins		name	object	Yellow pumpkins
+Orange pumpkins		name	object	Orange pumpkins
+Red pumpkins		name	object	Red pumpkins
+Dark green pumpkins		name	object	Dark green pumpkins
+Powder grey pumpkins		name	object	Powder grey pumpkins
+Beige pumpkin seedling		name	object	Beige pumpkin seedling
+White pumpkin seedling		name	object	White pumpkin seedling
+Yellow pumpkin seedling		name	object	Yellow pumpkin seedling
+Orange pumpkin seedling		name	object	Orange pumpkin seedling
+Red pumpkin seedling		name	object	Red pumpkin seedling
+Dark green pumpkin seedling		name	object	Dark green pumpkin seedling
+Powder grey pumpkin seedling		name	object	Powder grey pumpkin seedling
+Pumpkin patch		name	object	Pumpkin patch
+Storage bin		name	object	Storage bin
+Pumpkin carving table		name	object	Pumpkin carving table

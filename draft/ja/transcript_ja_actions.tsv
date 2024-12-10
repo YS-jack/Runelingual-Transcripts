@@ -1509,9 +1509,56 @@ Ancient	古代	actions	menu	spellBookTab
 Standard	一般	actions	menu	spellBookTab
 Reanimate	復活	actions	menu	spellBookTab
 Resurrect	蘇生	actions	menu	spellBookTab
-Study	調べる	actions	item	Fire
-Remove	取り除く	actions	item	Oak lectern
-Lay	備える	actions	item	Bird snare
-Activate	発動	actions	item	Magic box
-Crush	潰す	actions	item	Smouldering heart
-Eat-from	から食べる	actions	item	Smouldering pile of flesh
+Study		actions	item	Fire
+Remove		actions	item	Oak lectern
+Lay		actions	item	Bird snare
+Activate		actions	item	Magic box
+Crush		actions	item	Smouldering heart
+Eat-from		actions	item	Smouldering pile of flesh
+Accurate		actions	menu	combatOptionsTab
+Aggressive		actions	menu	combatOptionsTab
+Defensive		actions	menu	combatOptionsTab
+Controlled		actions	menu	combatOptionsTab
+Chop		actions	menu	combatOptionsTab
+Slash		actions	menu	combatOptionsTab
+Stab		actions	menu	combatOptionsTab
+Block		actions	menu	combatOptionsTab
+Pound		actions	menu	combatOptionsTab
+Pummel		actions	menu	combatOptionsTab
+Spike		actions	menu	combatOptionsTab
+Impale		actions	menu	combatOptionsTab
+Smash		actions	menu	combatOptionsTab
+Lunge		actions	menu	combatOptionsTab
+Swipe		actions	menu	combatOptionsTab
+Hack		actions	menu	combatOptionsTab
+Reap		actions	menu	combatOptionsTab
+Rapid		actions	menu	combatOptionsTab
+Longrange		actions	menu	combatOptionsTab
+Flick		actions	menu	combatOptionsTab
+Lash		actions	menu	combatOptionsTab
+Deflect		actions	menu	combatOptionsTab
+Fend		actions	menu	combatOptionsTab
+Bash		actions	menu	combatOptionsTab
+Blaze		actions	menu	combatOptionsTab
+Scorch		actions	menu	combatOptionsTab
+Flare		actions	menu	combatOptionsTab
+Last-tier contract		actions	npc	Amy
+Metamorph		actions	npc	Nid
+Choose		actions	npc	Tenoch
+Check-on		actions	npc	Man
+Stats		actions	npc	Worm Tongue
+Take-5 concoctions		actions	object	Crate
+Take-10 concoctions		actions	object	Crate
+Take-many		actions	object	Medical box
+Slide-along		actions	object	Icy ledge
+Take-uniform		actions	object	Wardrobe
+Concentrate-potion		actions	object	Retort
+Homogenise-potion		actions	object	Agitator
+Crystalise-potion		actions	object	Alembic
+Fulfil-order		actions	object	Conveyor belt
+Fight-privately		actions	object	Meeting flag
+Leave-group		actions	object	Meeting flag (private)
+Quick-slide		actions	object	Slope
+Change		actions	object	Scarecrow
+Plant		actions	object	Pumpkin patch
+Carve-pumpkin		actions	object	Pumpkin carving table
