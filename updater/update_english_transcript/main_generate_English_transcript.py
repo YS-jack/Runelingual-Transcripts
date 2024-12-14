@@ -44,7 +44,7 @@ if __name__ == "__main__":
     parser.add_argument('--updateAll', action='store_true', help='TAKES TIME. Deletes all English data, downloads all data from chisel and wiki, gets data from the manual files, and create a new database')
     parser.add_argument('--addManual', action='store_true', help='gets data from the manual files and updates the database')
     parser.add_argument('--addChisel', action='store_true', help='gets data from chisel and updates the database')
-    parser.add_argument('--addeWiki', action='store_true', help='gets data from wiki and updates the database')
+    parser.add_argument('--addWiki', action='store_true', help='gets data from wiki and updates the database')
 
     args = parser.parse_args()
     if args.updateAll:
