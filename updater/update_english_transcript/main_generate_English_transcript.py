@@ -49,11 +49,11 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if args.updateAll:
         main()
-    elif args.updateManual:
+    elif args.addManual:
         jsonHandler.addAllTSVToSQL(common.MANUAL_FILE_DIR)
-    elif args.updateChisel:
+    elif args.addChisel:
         add_chisel_data_to_db()
-    elif args.updateWiki:
+    elif args.addWiki:
         add_wiki_data_to_db()
     else:
         print("Please specify an argument")
