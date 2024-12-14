@@ -124,7 +124,7 @@ Tease	挑発する	actions	npc	Sabre-toothed kyatt
 Leave	去る	actions	npc	Squire
 Claim-slime	スライムを請求	actions	npc	Robin
 Use	使う	actions	npc	Portal
-Exit	出口	actions	npc	Portal
+Exit	出る	actions	npc	Portal
 Relocate	再配置	actions	npc	Estate agent
 Redecorate	模様替え	actions	npc	Estate agent
 Buy-plank	板を購入	actions	npc	Sawmill operator

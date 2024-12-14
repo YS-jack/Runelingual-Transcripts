@@ -467,7 +467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14416">
         <xliff:source>Anchor</xliff:source>
-        <xliff:target state="translated">いかり</xliff:target>
+        <xliff:target state="translated">碇</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Anchor
@@ -4907,7 +4907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14971">
         <xliff:source>Blade</xliff:source>
-        <xliff:target state="translated">刃物</xliff:target>
+        <xliff:target state="translated">刃</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Blade
@@ -4915,7 +4915,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14972">
         <xliff:source>Spinning blades</xliff:source>
-        <xliff:target state="translated">回転する刃物</xliff:target>
+        <xliff:target state="translated">回転する刃</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Spinning blades
@@ -16299,7 +16299,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="16395">
         <xliff:source>Extra anchor</xliff:source>
-        <xliff:target state="translated">予備のいかり</xliff:target>
+        <xliff:target state="translated">予備の碇</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Extra anchor
@@ -25291,7 +25291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17519">
         <xliff:source>Rope anchor</xliff:source>
-        <xliff:target state="translated">ロープのいかり</xliff:target>
+        <xliff:target state="translated">ロープの碇</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Rope anchor
@@ -25387,7 +25387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17531">
         <xliff:source>Anchor rope</xliff:source>
-        <xliff:target state="translated">いかりのロープ</xliff:target>
+        <xliff:target state="translated">碇のロープ</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Anchor rope
@@ -25395,7 +25395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17532">
         <xliff:source>Drift net anchors</xliff:source>
-        <xliff:target state="translated">流し網のいかり</xliff:target>
+        <xliff:target state="translated">流し網の碇</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Drift net anchors

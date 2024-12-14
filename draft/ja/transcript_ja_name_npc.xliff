@@ -14827,7 +14827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12036">
         <xliff:source>Blessed spider</xliff:source>
-        <xliff:target state="translated">祝福されたクモ</xliff:target>
+        <xliff:target state="translated">祝福のクモ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blessed spider
@@ -14835,7 +14835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12037">
         <xliff:source>Blessed giant rat</xliff:source>
-        <xliff:target state="translated">祝福された巨大ネズミ</xliff:target>
+        <xliff:target state="translated">祝福の巨大ネズミ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blessed giant rat
@@ -17115,7 +17115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12322">
         <xliff:source>Elder Guard</xliff:source>
-        <xliff:target state="translated">サルの長老</xliff:target>
+        <xliff:target state="translated">長老の衛兵</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Elder Guard

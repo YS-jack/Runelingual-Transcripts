@@ -1852,8 +1852,8 @@ Skeleton fremennik	スケルトンのフレメニック	name	npc	Skeleton fremen
 Ulfric	ウルフリック	name	npc	Ulfric
 Brine rat	塩水ネズミ	name	npc	Brine rat
 Chadwell	チャドウェル	name	npc	Chadwell
-Blessed spider	祝福されたクモ	name	npc	Blessed spider
-Blessed giant rat	祝福された巨大ネズミ	name	npc	Blessed giant rat
+Blessed spider	祝福のクモ	name	npc	Blessed spider
+Blessed giant rat	祝福の巨大ネズミ	name	npc	Blessed giant rat
 Niloof	ニルーフ	name	npc	Niloof
 Klank	クランク	name	npc	Klank
 Kamen	カメン	name	npc	Kamen
@@ -2138,7 +2138,7 @@ The Monkey's Uncle	サルの叔父	name	npc	The Monkey's Uncle
 The Monkey's Aunt	サルの叔母	name	npc	The Monkey's Aunt
 Monkey Guard	サルの衛兵	name	npc	Monkey Guard
 Monkey Archer	サルのアーチャー	name	npc	Monkey Archer
-Elder Guard	サルの長老	name	npc	Elder Guard
+Elder Guard	長老の衛兵	name	npc	Elder Guard
 Monkey Zombie	サルのゾンビ	name	npc	Monkey Zombie
 Bonzara	ボンザラ	name	npc	Bonzara
 Elf Warrior	エルフの戦士	name	npc	Elf Warrior

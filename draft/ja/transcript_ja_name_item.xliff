@@ -3403,7 +3403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="426">
         <xliff:source>Blessed gold bowl</xliff:source>
-        <xliff:target state="translated">祝福された金のボール</xliff:target>
+        <xliff:target state="translated">祝福の金のボール</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed gold bowl
@@ -7563,7 +7563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="946">
         <xliff:source>Unblessed symbol</xliff:source>
-        <xliff:target state="translated">未祝福のシンボル</xliff:target>
+        <xliff:target state="translated">祝福されていないシンボル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Unblessed symbol
@@ -11899,7 +11899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1488">
         <xliff:source>Blessed water</xliff:source>
-        <xliff:target state="translated">祝福された</xliff:target>
+        <xliff:target state="translated">祝福の水</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed water
@@ -17707,7 +17707,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2214">
         <xliff:source>Blessed pot</xliff:source>
-        <xliff:target state="translated">祝福された鍋</xliff:target>
+        <xliff:target state="translated">祝福の鍋</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed pot
@@ -33595,7 +33595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4200">
         <xliff:source>Bronze defender</xliff:source>
-        <xliff:target state="translated">銅のディフェンダー</xliff:target>
+        <xliff:target state="translated">銅の副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze defender
@@ -33603,7 +33603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4201">
         <xliff:source>Iron defender</xliff:source>
-        <xliff:target state="translated">鉄のディフェンダー</xliff:target>
+        <xliff:target state="translated">鉄の副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron defender
@@ -33611,7 +33611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4202">
         <xliff:source>Steel defender</xliff:source>
-        <xliff:target state="translated">鋼鉄のディフェンダー</xliff:target>
+        <xliff:target state="translated">鋼鉄の副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel defender
@@ -33619,7 +33619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4203">
         <xliff:source>Black defender</xliff:source>
-        <xliff:target state="translated">黒鉄のディフェンダー</xliff:target>
+        <xliff:target state="translated">黒鉄の副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black defender
@@ -33627,7 +33627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4204">
         <xliff:source>Mithril defender</xliff:source>
-        <xliff:target state="translated">ミスリルのディフェンダー</xliff:target>
+        <xliff:target state="translated">ミスリルの副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril defender
@@ -33635,7 +33635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4205">
         <xliff:source>Adamant defender</xliff:source>
-        <xliff:target state="translated">アダマントのディフェンダー</xliff:target>
+        <xliff:target state="translated">アダマントの副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamant defender
@@ -33643,7 +33643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4206">
         <xliff:source>Rune defender</xliff:source>
-        <xliff:target state="translated">ルーンのディフェンダー</xliff:target>
+        <xliff:target state="translated">ルーンの副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune defender
@@ -38939,7 +38939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4868">
         <xliff:source>3rd age range top</xliff:source>
-        <xliff:target state="translated">第3期の弓トップ</xliff:target>
+        <xliff:target state="translated">第3紀の射手トップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age range top
@@ -38947,7 +38947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4869">
         <xliff:source>3rd age range legs</xliff:source>
-        <xliff:target state="translated">第3期の弓足</xliff:target>
+        <xliff:target state="translated">第3紀の射手レッグ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age range legs
@@ -38955,7 +38955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4870">
         <xliff:source>3rd age range coif</xliff:source>
-        <xliff:target state="translated">第3期の弓コイフ</xliff:target>
+        <xliff:target state="translated">第3紀の射手コイフ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age range coif
@@ -38963,7 +38963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4871">
         <xliff:source>3rd age vambraces</xliff:source>
-        <xliff:target state="translated">第3期の腕甲</xliff:target>
+        <xliff:target state="translated">第3紀の腕甲</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age vambraces
@@ -38971,7 +38971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4872">
         <xliff:source>3rd age robe top</xliff:source>
-        <xliff:target state="translated">第3期のローブ上</xliff:target>
+        <xliff:target state="translated">第3紀のローブ上</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age robe top
@@ -38979,7 +38979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4873">
         <xliff:source>3rd age robe</xliff:source>
-        <xliff:target state="translated">第3期のローブ</xliff:target>
+        <xliff:target state="translated">第3紀のローブ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age robe
@@ -38987,7 +38987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4874">
         <xliff:source>3rd age mage hat</xliff:source>
-        <xliff:target state="translated">第3期の魔術師の帽子</xliff:target>
+        <xliff:target state="translated">第3紀の魔術師の帽子</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age mage hat
@@ -38995,7 +38995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4875">
         <xliff:source>3rd age amulet</xliff:source>
-        <xliff:target state="translated">第3期のアミュレット</xliff:target>
+        <xliff:target state="translated">第3紀のアミュレット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age amulet
@@ -39003,7 +39003,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4876">
         <xliff:source>3rd age platelegs</xliff:source>
-        <xliff:target state="translated">第3期の脚甲</xliff:target>
+        <xliff:target state="translated">第3紀の脚甲</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age platelegs
@@ -39011,7 +39011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4877">
         <xliff:source>3rd age platebody</xliff:source>
-        <xliff:target state="translated">第3期の胸甲</xliff:target>
+        <xliff:target state="translated">第3紀の胸甲</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age platebody
@@ -39019,7 +39019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4878">
         <xliff:source>3rd age full helmet</xliff:source>
-        <xliff:target state="translated">第3期の全頭甲</xliff:target>
+        <xliff:target state="translated">第3紀の全頭甲</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age full helmet
@@ -39027,7 +39027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4879">
         <xliff:source>3rd age kiteshield</xliff:source>
-        <xliff:target state="translated">第3期のタコ盾</xliff:target>
+        <xliff:target state="translated">第3紀のタコ盾</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age kiteshield
@@ -39555,7 +39555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4945">
         <xliff:source>Blessed axe</xliff:source>
-        <xliff:target state="translated">恵まれた斧</xliff:target>
+        <xliff:target state="translated">祝福の斧</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed axe
@@ -40555,7 +40555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5070">
         <xliff:source>Barrelchest anchor</xliff:source>
-        <xliff:target state="translated">バレルチェストのいかり</xliff:target>
+        <xliff:target state="translated">バレルチェストの碇</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Barrelchest anchor
@@ -40563,7 +40563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5071">
         <xliff:source>Blessed lamp</xliff:source>
-        <xliff:target state="translated">恵まれたランプ</xliff:target>
+        <xliff:target state="translated">祝福のランプ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed lamp
@@ -41275,7 +41275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5160">
         <xliff:source>Brine sabre</xliff:source>
-        <xliff:target state="translated">塩水のサーベル</xliff:target>
+        <xliff:target state="translated">塩水サーベル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Brine sabre
@@ -45803,7 +45803,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5726">
         <xliff:source>3rd age wand</xliff:source>
-        <xliff:target state="translated">第3期のワンド</xliff:target>
+        <xliff:target state="translated">第3紀のワンド</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age wand
@@ -45811,7 +45811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5727">
         <xliff:source>3rd age bow</xliff:source>
-        <xliff:target state="translated">第3期の弓</xliff:target>
+        <xliff:target state="translated">第3紀の弓</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age bow
@@ -45819,7 +45819,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5728">
         <xliff:source>3rd age longsword</xliff:source>
-        <xliff:target state="translated">第3期の長剣</xliff:target>
+        <xliff:target state="translated">第3紀の長剣</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age longsword
@@ -45867,7 +45867,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5734">
         <xliff:source>3rd age cloak</xliff:source>
-        <xliff:target state="translated">第3期のマント</xliff:target>
+        <xliff:target state="translated">第3紀のマント</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age cloak
@@ -47331,7 +47331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5917">
         <xliff:source>Sara's blessed sword (full)</xliff:source>
-        <xliff:target state="translated">サラドミンの恵まれた剣（満）</xliff:target>
+        <xliff:target state="translated">サラドミンの祝福の剣（満）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sara's blessed sword (full)
@@ -47339,7 +47339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5918">
         <xliff:source>Saradomin's blessed sword</xliff:source>
-        <xliff:target state="translated">サラドミンの恵まれた剣</xliff:target>
+        <xliff:target state="translated">サラドミンの祝福の剣</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Saradomin's blessed sword
@@ -47459,7 +47459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5933">
         <xliff:source>Blessed spirit shield</xliff:source>
-        <xliff:target state="translated">恵まれた幽霊盾</xliff:target>
+        <xliff:target state="translated">祝福の幽霊盾</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed spirit shield
@@ -48019,7 +48019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6003">
         <xliff:source>Dragon defender</xliff:source>
-        <xliff:target state="translated">竜鉄のディフェンダー</xliff:target>
+        <xliff:target state="translated">竜鉄の副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon defender
@@ -52323,7 +52323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6541">
         <xliff:source>Dragon defender (t)</xliff:source>
-        <xliff:target state="translated">竜鉄のディフェンダー（縁）</xliff:target>
+        <xliff:target state="translated">竜鉄の副刀（縁）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon defender (t)
@@ -52675,7 +52675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6585">
         <xliff:source>3rd age axe</xliff:source>
-        <xliff:target state="translated">第3期の斧</xliff:target>
+        <xliff:target state="translated">第3紀の斧</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age axe
@@ -52683,7 +52683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6586">
         <xliff:source>3rd age pickaxe</xliff:source>
-        <xliff:target state="translated">第3期のツルハシ</xliff:target>
+        <xliff:target state="translated">第3紀のツルハシ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age pickaxe
@@ -53027,7 +53027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6629">
         <xliff:source>Dragon defender ornament kit</xliff:source>
-        <xliff:target state="translated">竜鉄のディフェンダーの装飾キット</xliff:target>
+        <xliff:target state="translated">竜鉄の副刀の装飾キット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon defender ornament kit
@@ -53579,7 +53579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6698">
         <xliff:source>Bronze defender (broken)</xliff:source>
-        <xliff:target state="translated">銅のディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">銅の副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze defender (broken)
@@ -53587,7 +53587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6699">
         <xliff:source>Iron defender (broken)</xliff:source>
-        <xliff:target state="translated">鉄のディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">鉄の副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron defender (broken)
@@ -53595,7 +53595,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6700">
         <xliff:source>Steel defender (broken)</xliff:source>
-        <xliff:target state="translated">鋼鉄のディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">鋼鉄の副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel defender (broken)
@@ -53603,7 +53603,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6701">
         <xliff:source>Black defender (broken)</xliff:source>
-        <xliff:target state="translated">黒鉄のディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">黒鉄の副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black defender (broken)
@@ -53611,7 +53611,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6702">
         <xliff:source>Mithril defender (broken)</xliff:source>
-        <xliff:target state="translated">ミスリルのディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">ミスリルの副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril defender (broken)
@@ -53619,7 +53619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6703">
         <xliff:source>Adamant defender (broken)</xliff:source>
-        <xliff:target state="translated">アダマントのディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">アダマントの副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamant defender (broken)
@@ -53627,7 +53627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6704">
         <xliff:source>Rune defender (broken)</xliff:source>
-        <xliff:target state="translated">ルーンのディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">ルーンの副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune defender (broken)
@@ -53635,7 +53635,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6705">
         <xliff:source>Dragon defender (broken)</xliff:source>
-        <xliff:target state="translated">竜鉄のディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">竜鉄の副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon defender (broken)
@@ -55323,7 +55323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6916">
         <xliff:source>Elder (-)(1)</xliff:source>
-        <xliff:target state="translated">長老（-）（1）</xliff:target>
+        <xliff:target state="translated">エルダー（-）（1）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (-)(1)
@@ -55331,7 +55331,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6917">
         <xliff:source>Elder (-)(2)</xliff:source>
-        <xliff:target state="translated">長老（-）（2）</xliff:target>
+        <xliff:target state="translated">エルダー（-）（2）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (-)(2)
@@ -55339,7 +55339,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6918">
         <xliff:source>Elder (-)(3)</xliff:source>
-        <xliff:target state="translated">長老（-）（3）</xliff:target>
+        <xliff:target state="translated">エルダー（-）（3）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (-)(3)
@@ -55347,7 +55347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6919">
         <xliff:source>Elder (-)(4)</xliff:source>
-        <xliff:target state="translated">長老（-）（4）</xliff:target>
+        <xliff:target state="translated">エルダー（-）（4）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (-)(4)
@@ -55355,7 +55355,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6920">
         <xliff:source>Elder potion (1)</xliff:source>
-        <xliff:target state="translated">長老増強薬（1）</xliff:target>
+        <xliff:target state="translated">エルダーの増強薬（1）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder potion (1)
@@ -55363,7 +55363,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6921">
         <xliff:source>Elder potion (2)</xliff:source>
-        <xliff:target state="translated">長老増強薬（2）</xliff:target>
+        <xliff:target state="translated">エルダーの増強薬（2）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder potion (2)
@@ -55371,7 +55371,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6922">
         <xliff:source>Elder potion (3)</xliff:source>
-        <xliff:target state="translated">長老増強薬（3）</xliff:target>
+        <xliff:target state="translated">エルダーの増強薬（3）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder potion (3)
@@ -55379,7 +55379,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6923">
         <xliff:source>Elder potion (4)</xliff:source>
-        <xliff:target state="translated">長老増強薬（4）</xliff:target>
+        <xliff:target state="translated">エルダーの増強薬（4）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder potion (4)
@@ -55387,7 +55387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6924">
         <xliff:source>Elder (+)(1)</xliff:source>
-        <xliff:target state="translated">長老（+）（1）</xliff:target>
+        <xliff:target state="translated">エルダー（+）（1）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (+)(1)
@@ -55395,7 +55395,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6925">
         <xliff:source>Elder (+)(2)</xliff:source>
-        <xliff:target state="translated">長老（+）（2）</xliff:target>
+        <xliff:target state="translated">エルダー（+）（2）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (+)(2)
@@ -55403,7 +55403,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6926">
         <xliff:source>Elder (+)(3)</xliff:source>
-        <xliff:target state="translated">長老（+）（3）</xliff:target>
+        <xliff:target state="translated">エルダー（+）（3）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (+)(3)
@@ -55411,7 +55411,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6927">
         <xliff:source>Elder (+)(4)</xliff:source>
-        <xliff:target state="translated">長老（+）（4）</xliff:target>
+        <xliff:target state="translated">エルダー（+）（4）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder (+)(4)
@@ -55979,7 +55979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6998">
         <xliff:source>Elder maul</xliff:source>
-        <xliff:target state="translated">エルダー大槌</xliff:target>
+        <xliff:target state="translated">エルダーの大槌</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder maul
@@ -59811,7 +59811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7477">
         <xliff:source>Avernic defender</xliff:source>
-        <xliff:target state="translated">アヴェルニックのディフェンダー</xliff:target>
+        <xliff:target state="translated">アバーニックの副刀</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Avernic defender
@@ -59827,7 +59827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7479">
         <xliff:source>Ghrazi rapier</xliff:source>
-        <xliff:target state="translated">グラーズィーレイピア</xliff:target>
+        <xliff:target state="translated">グラージ・レイピア</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ghrazi rapier
@@ -60259,7 +60259,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7533">
         <xliff:source>Avernic defender (broken)</xliff:source>
-        <xliff:target state="translated">アヴェルニックのディフェンダー（壊）</xliff:target>
+        <xliff:target state="translated">アバーニックの副刀（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Avernic defender (broken)
@@ -60347,7 +60347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7544">
         <xliff:source>Avernic defender hilt</xliff:source>
-        <xliff:target state="translated">アヴェルニックのディフェンダーの柄</xliff:target>
+        <xliff:target state="translated">アバーニックの副刀の柄</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Avernic defender hilt
@@ -62067,7 +62067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7759">
         <xliff:source>Ring of 3rd age</xliff:source>
-        <xliff:target state="translated">第3期の指輪</xliff:target>
+        <xliff:target state="translated">第3紀の指輪</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ring of 3rd age
@@ -62179,7 +62179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7773">
         <xliff:source>Rune defender ornament kit</xliff:source>
-        <xliff:target state="translated">ルーンのディフェンダーの装飾キット</xliff:target>
+        <xliff:target state="translated">ルーンの副刀の装飾キット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune defender ornament kit
@@ -62187,7 +62187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7774">
         <xliff:source>Rune defender (t)</xliff:source>
-        <xliff:target state="translated">ルーンのディフェンダー（縁）</xliff:target>
+        <xliff:target state="translated">ルーンの副刀（縁）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune defender (t)
@@ -62227,7 +62227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7779">
         <xliff:source>3rd age plateskirt</xliff:source>
-        <xliff:target state="translated">第3期の裙甲</xliff:target>
+        <xliff:target state="translated">第3紀の裙甲</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age plateskirt
@@ -62467,7 +62467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7809">
         <xliff:source>3rd age druidic robe top</xliff:source>
-        <xliff:target state="translated">第3期のドルイドローブ上</xliff:target>
+        <xliff:target state="translated">第3紀のドルイドローブ上</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age druidic robe top
@@ -62475,7 +62475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7810">
         <xliff:source>3rd age druidic robe bottoms</xliff:source>
-        <xliff:target state="translated">第3期のドルイドローブ下</xliff:target>
+        <xliff:target state="translated">第3紀のドルイドローブ下</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age druidic robe bottoms
@@ -62483,7 +62483,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7811">
         <xliff:source>3rd age druidic staff</xliff:source>
-        <xliff:target state="translated">第3期のドルイド杖</xliff:target>
+        <xliff:target state="translated">第3紀のドルイド杖</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age druidic staff
@@ -62491,7 +62491,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7812">
         <xliff:source>3rd age druidic cloak</xliff:source>
-        <xliff:target state="translated">第3期のドルイドマント</xliff:target>
+        <xliff:target state="translated">第3紀のドルイドマント</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: 3rd age druidic cloak
@@ -63283,7 +63283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7911">
         <xliff:source>Elder cadantine</xliff:source>
-        <xliff:target state="translated">長老カンダタイン</xliff:target>
+        <xliff:target state="translated">エルダー・カンダタイン</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder cadantine
@@ -63291,7 +63291,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7912">
         <xliff:source>Elder cadantine potion (unf)</xliff:source>
-        <xliff:target state="translated">長老カンダタインの薬液（未）</xliff:target>
+        <xliff:target state="translated">エルダー・カンダタインの薬液（未）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder cadantine potion (unf)
@@ -64123,7 +64123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8016">
         <xliff:source>Blade of saeldor</xliff:source>
-        <xliff:target state="translated">サードルの刃物</xliff:target>
+        <xliff:target state="translated">サードルの刃</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blade of saeldor
@@ -64131,7 +64131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8017">
         <xliff:source>Blade of saeldor (inactive)</xliff:source>
-        <xliff:target state="translated">サードルの刃物（不活性）</xliff:target>
+        <xliff:target state="translated">サードルの刃（不活性）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blade of saeldor (inactive)
@@ -64419,7 +64419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8053">
         <xliff:source>Bronze defender (l)</xliff:source>
-        <xliff:target state="translated">銅のディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">銅の副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Bronze defender (l)
@@ -64427,7 +64427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8054">
         <xliff:source>Iron defender (l)</xliff:source>
-        <xliff:target state="translated">鉄のディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">鉄の副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Iron defender (l)
@@ -64435,7 +64435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8055">
         <xliff:source>Steel defender (l)</xliff:source>
-        <xliff:target state="translated">鋼鉄のディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">鋼鉄の副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Steel defender (l)
@@ -64443,7 +64443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8056">
         <xliff:source>Black defender (l)</xliff:source>
-        <xliff:target state="translated">黒鉄のディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">黒鉄の副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Black defender (l)
@@ -64451,7 +64451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8057">
         <xliff:source>Mithril defender (l)</xliff:source>
-        <xliff:target state="translated">ミスリルのディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">ミスリルの副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Mithril defender (l)
@@ -64459,7 +64459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8058">
         <xliff:source>Adamant defender (l)</xliff:source>
-        <xliff:target state="translated">アダマントのディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">アダマントの副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Adamant defender (l)
@@ -64467,7 +64467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8059">
         <xliff:source>Rune defender (l)</xliff:source>
-        <xliff:target state="translated">ルーンのディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">ルーンの副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune defender (l)
@@ -64475,7 +64475,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8060">
         <xliff:source>Dragon defender (l)</xliff:source>
-        <xliff:target state="translated">竜鉄のディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">竜鉄の副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon defender (l)
@@ -64699,7 +64699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8088">
         <xliff:source>Avernic defender (l)</xliff:source>
-        <xliff:target state="translated">アヴェルニックのディフェンダー（保）</xliff:target>
+        <xliff:target state="translated">アバーニックの副刀（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Avernic defender (l)
@@ -66059,7 +66059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8258">
         <xliff:source>Blade of saeldor (c)</xliff:source>
-        <xliff:target state="translated">サードルの刃物（変異）</xliff:target>
+        <xliff:target state="translated">サードルの刃（変異）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blade of saeldor (c)
@@ -69451,7 +69451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8682">
         <xliff:source>Holy ghrazi rapier</xliff:source>
-        <xliff:target state="translated">聖なるグラーズィーレイピア</xliff:target>
+        <xliff:target state="translated">聖なるグラージ・レイピア</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Holy ghrazi rapier
@@ -73747,7 +73747,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9219">
         <xliff:source>Dragon defender (l)(t)</xliff:source>
-        <xliff:target state="translated">竜鉄のディフェンダー（保）（縁）</xliff:target>
+        <xliff:target state="translated">竜鉄の副刀（保）（縁）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragon defender (l)(t)
@@ -73755,7 +73755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9220">
         <xliff:source>Rune defender (l)(t)</xliff:source>
-        <xliff:target state="translated">ルーンのディフェンダー（保）（縁）</xliff:target>
+        <xliff:target state="translated">ルーンの副刀（保）（縁）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rune defender (l)(t)
@@ -73931,7 +73931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9242">
         <xliff:source>Elder maul ornament kit</xliff:source>
-        <xliff:target state="translated">エルダー大槌の装飾キット</xliff:target>
+        <xliff:target state="translated">エルダーの大槌の装飾キット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder maul ornament kit
@@ -73939,7 +73939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9243">
         <xliff:source>Elder maul (or)</xliff:source>
-        <xliff:target state="translated">エルダー大槌（飾）</xliff:target>
+        <xliff:target state="translated">エルダーの大槌（飾）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Elder maul (or)
@@ -75155,7 +75155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9395">
         <xliff:source>Ghommal's avernic defender 5</xliff:source>
-        <xliff:target state="translated">ゴンマルのアヴェルニックのディフェンダー 5</xliff:target>
+        <xliff:target state="translated">ゴンマルのアバーニックの副刀 5</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ghommal's avernic defender 5
@@ -75163,7 +75163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9396">
         <xliff:source>Ghommal's avernic defender 5 (l)</xliff:source>
-        <xliff:target state="translated">ゴンマルのアヴェルニックのディフェンダー 5（保）</xliff:target>
+        <xliff:target state="translated">ゴンマルのアバーニックの副刀 5（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ghommal's avernic defender 5 (l)
@@ -75171,7 +75171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9397">
         <xliff:source>Ghommal's avernic defender 6</xliff:source>
-        <xliff:target state="translated">ゴンマルのアヴェルニックのディフェンダー 6</xliff:target>
+        <xliff:target state="translated">ゴンマルのアバーニックの副刀 6</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ghommal's avernic defender 6
@@ -75179,7 +75179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9398">
         <xliff:source>Ghommal's avernic defender 6 (l)</xliff:source>
-        <xliff:target state="translated">ゴンマルのアヴェルニックのディフェンダー 6（保）</xliff:target>
+        <xliff:target state="translated">ゴンマルのアバーニックの副刀 6（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ghommal's avernic defender 6 (l)
@@ -76035,7 +76035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9505">
         <xliff:source>Barrelchest anchor (bh)</xliff:source>
-        <xliff:target state="translated">バレルチェストのいかり（BH）</xliff:target>
+        <xliff:target state="translated">バレルチェストの碇（BH）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Barrelchest anchor (bh)
@@ -76763,7 +76763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9596">
         <xliff:source>Barrelchest anchor imbue scroll</xliff:source>
-        <xliff:target state="translated">バレルチェストのいかりの付与巻物</xliff:target>
+        <xliff:target state="translated">バレルチェストの碇の付与巻物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Barrelchest anchor imbue scroll
@@ -79460,7 +79460,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9933">
         <xliff:source>Blessed dizana's quiver (broken)</xliff:source>
-        <xliff:target state="translated">祝福されたディザナの矢筒（壊）</xliff:target>
+        <xliff:target state="translated">祝福のディザナの矢筒（壊）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed dizana's quiver (broken)
@@ -79732,7 +79732,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9967">
         <xliff:source>Blessed dizana's quiver</xliff:source>
-        <xliff:target state="translated">祝福されたディザナの矢筒</xliff:target>
+        <xliff:target state="translated">祝福のディザナの矢筒</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed dizana's quiver
@@ -79740,7 +79740,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9968">
         <xliff:source>Blessed dizana's quiver (l)</xliff:source>
-        <xliff:target state="translated">祝福されたディザナの矢筒（保）</xliff:target>
+        <xliff:target state="translated">祝福のディザナの矢筒（保）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed dizana's quiver (l)
@@ -81021,7 +81021,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10128">
         <xliff:source>Blessed bone statuette</xliff:source>
-        <xliff:target state="translated">祝福された骨の小像</xliff:target>
+        <xliff:target state="translated">祝福の骨の小像</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed bone statuette
@@ -81029,7 +81029,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10129">
         <xliff:source>Blessed bones</xliff:source>
-        <xliff:target state="translated">祝福された骨</xliff:target>
+        <xliff:target state="translated">祝福の骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed bones
@@ -81037,7 +81037,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10130">
         <xliff:source>Blessed bat bones</xliff:source>
-        <xliff:target state="translated">祝福されたコウモリの骨</xliff:target>
+        <xliff:target state="translated">祝福のコウモリの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed bat bones
@@ -81045,7 +81045,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10131">
         <xliff:source>Blessed big bones</xliff:source>
-        <xliff:target state="translated">祝福された大きい骨</xliff:target>
+        <xliff:target state="translated">祝福の大きい骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed big bones
@@ -81053,7 +81053,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10132">
         <xliff:source>Blessed zogre bones</xliff:source>
-        <xliff:target state="translated">祝福されたゾーガの骨</xliff:target>
+        <xliff:target state="translated">祝福のゾーガの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed zogre bones
@@ -81061,7 +81061,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10133">
         <xliff:source>Blessed babydragon bones</xliff:source>
-        <xliff:target state="translated">祝福された幼竜の骨</xliff:target>
+        <xliff:target state="translated">祝福の幼竜の骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed babydragon bones
@@ -81069,7 +81069,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10134">
         <xliff:source>Blessed babywyrm bones</xliff:source>
-        <xliff:target state="translated">祝福されたワームリングの骨</xliff:target>
+        <xliff:target state="translated">祝福のワームリングの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed babywyrm bones
@@ -81077,7 +81077,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10135">
         <xliff:source>Blessed dragon bones</xliff:source>
-        <xliff:target state="translated">祝福された竜の骨</xliff:target>
+        <xliff:target state="translated">祝福の竜の骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed dragon bones
@@ -81085,7 +81085,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10136">
         <xliff:source>Blessed lava dragon bones</xliff:source>
-        <xliff:target state="translated">祝福された溶岩竜の骨</xliff:target>
+        <xliff:target state="translated">祝福の溶岩竜の骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed lava dragon bones
@@ -81093,7 +81093,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10137">
         <xliff:source>Blessed wyvern bones</xliff:source>
-        <xliff:target state="translated">祝福されたワイバーンの骨</xliff:target>
+        <xliff:target state="translated">祝福のワイバーンの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed wyvern bones
@@ -81101,7 +81101,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10138">
         <xliff:source>Blessed superior dragon bones</xliff:source>
-        <xliff:target state="translated">祝福された優れた竜の骨</xliff:target>
+        <xliff:target state="translated">祝福の優れた竜の骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed superior dragon bones
@@ -81109,7 +81109,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10139">
         <xliff:source>Blessed wyrm bones</xliff:source>
-        <xliff:target state="translated">祝福されたワームの骨</xliff:target>
+        <xliff:target state="translated">祝福のワームの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed wyrm bones
@@ -81117,7 +81117,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10140">
         <xliff:source>Blessed drake bones</xliff:source>
-        <xliff:target state="translated">祝福されたドレイクの骨</xliff:target>
+        <xliff:target state="translated">祝福のドレイクの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed drake bones
@@ -81125,7 +81125,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10141">
         <xliff:source>Blessed hydra bones</xliff:source>
-        <xliff:target state="translated">祝福されたヒドラの骨</xliff:target>
+        <xliff:target state="translated">祝福のヒドラの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed hydra bones
@@ -81133,7 +81133,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10142">
         <xliff:source>Blessed fayrg bones</xliff:source>
-        <xliff:target state="translated">祝福されたファイリグの骨</xliff:target>
+        <xliff:target state="translated">祝福のファイリグの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed fayrg bones
@@ -81141,7 +81141,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10143">
         <xliff:source>Blessed raurg bones</xliff:source>
-        <xliff:target state="translated">祝福されたロールグの骨</xliff:target>
+        <xliff:target state="translated">祝福のロールグの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed raurg bones
@@ -81149,7 +81149,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10144">
         <xliff:source>Blessed ourg bones</xliff:source>
-        <xliff:target state="translated">祝福されたウールグの骨</xliff:target>
+        <xliff:target state="translated">祝福のウールグの骨</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed ourg bones
@@ -81165,7 +81165,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10146">
         <xliff:source>Blessed bone shards</xliff:source>
-        <xliff:target state="translated">祝福された骨の破片</xliff:target>
+        <xliff:target state="translated">祝福の骨の破片</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Blessed bone shards
@@ -81181,7 +81181,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10148">
         <xliff:source>Jug of blessed sunfire wine</xliff:source>
-        <xliff:target state="translated">祝福された陽炎ワインのジャグ</xliff:target>
+        <xliff:target state="translated">祝福の陽炎ワインのジャグ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jug of blessed sunfire wine
@@ -81189,7 +81189,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10149">
         <xliff:source>Jug of blessed wine</xliff:source>
-        <xliff:target state="translated">祝福されたワインのジャグ</xliff:target>
+        <xliff:target state="translated">祝福のワインのジャグ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jug of blessed wine
@@ -81624,7 +81624,7 @@ source: Emberlight
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29589</xliff:note></xliff:trans-unit><xliff:trans-unit id="10237"><xliff:source>Scorching bow</xliff:source><xliff:target state="translated">灼熱の弓</xliff:target><xliff:note>category: name
 sub_category: item
 source: Scorching bow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29591</xliff:note></xliff:trans-unit><xliff:trans-unit id="10238"><xliff:source>Purging staff</xliff:source><xliff:target state="translated">パージスタッフ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29591</xliff:note></xliff:trans-unit><xliff:trans-unit id="10238"><xliff:source>Purging staff</xliff:source><xliff:target state="translated">浄化の杖</xliff:target><xliff:note>category: name
 sub_category: item
 source: Purging staff
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29594</xliff:note></xliff:trans-unit><xliff:trans-unit id="10239"><xliff:source>Duradel's notes</xliff:source><xliff:target state="translated">ヅラデルのメモ</xliff:target><xliff:note>category: name
@@ -81888,7 +81888,7 @@ source: Noxious blade
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29792</xliff:note></xliff:trans-unit><xliff:trans-unit id="10325"><xliff:source>Noxious pommel</xliff:source><xliff:target state="translated">有害の柄頭</xliff:target><xliff:note>category: name
 sub_category: item
 source: Noxious pommel
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29794</xliff:note></xliff:trans-unit><xliff:trans-unit id="10326"><xliff:source>Noxious halberd</xliff:source><xliff:target state="translated">有害の矛槍</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29794</xliff:note></xliff:trans-unit><xliff:trans-unit id="10326"><xliff:source>Noxious halberd</xliff:source><xliff:target state="translated">猛毒の矛槍</xliff:target><xliff:note>category: name
 sub_category: item
 source: Noxious halberd
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29796</xliff:note></xliff:trans-unit><xliff:trans-unit id="10327"><xliff:source>Araxyte fang</xliff:source><xliff:target state="translated">アラキサイトの牙</xliff:target><xliff:note>category: name

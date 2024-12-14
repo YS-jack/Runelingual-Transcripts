@@ -424,7 +424,7 @@ A scribbled note	落書きのメモ	name	item	A scribbled note
 Scrumpled note	しわくちゃのメモ	name	item	Scrumpled note
 Sketch	スケッチ	name	item	Sketch
 Gold bowl	金のボール	name	item	Gold bowl
-Blessed gold bowl	祝福された金のボール	name	item	Blessed gold bowl
+Blessed gold bowl	祝福の金のボール	name	item	Blessed gold bowl
 Golden bowl	金のボール	name	item	Golden bowl
 Hollow reed	空洞のアシ	name	item	Hollow reed
 Shaman's tome	シャーマンの書	name	item	Shaman's tome
@@ -944,7 +944,7 @@ Amulet of glory(2)	栄光のアミュレット（２）	name	item	Amulet of glor
 Amulet of glory(3)	栄光のアミュレット（３）	name	item	Amulet of glory(3)
 Amulet of glory(4)	栄光のアミュレット（４）	name	item	Amulet of glory(4)
 Unstrung symbol	紐無しのシンボル	name	item	Unstrung symbol
-Unblessed symbol	未祝福のシンボル	name	item	Unblessed symbol
+Unblessed symbol	祝福されていないシンボル	name	item	Unblessed symbol
 Holy symbol	聖なるシンボル	name	item	Holy symbol
 Unstrung emblem	紐無しのエンブレム	name	item	Unstrung emblem
 Unpowered symbol	無効力のシンボル	name	item	Unpowered symbol
@@ -1486,7 +1486,7 @@ Golden feather	黄金の羽	name	item	Golden feather
 Golden needle	黄金の針	name	item	Golden needle
 Wolfbane	狼討短剣	name	item	Wolfbane
 Murky water	濁った水	name	item	Murky water
-Blessed water	祝福された	name	item	Blessed water
+Blessed water	祝福の水	name	item	Blessed water
 Moonlight mead	月光ミード	name	item	Moonlight mead
 Druid pouch	ドルイドのポーチ	name	item	Druid pouch
 Rotten food	腐った食べ物	name	item	Rotten food
@@ -2212,7 +2212,7 @@ Etchings	エッチング	name	item	Etchings
 Translation	翻訳	name	item	Translation
 Warm key	暖かいカギ	name	item	Warm key
 Ring of visibility	可視のリング	name	item	Ring of visibility
-Blessed pot	祝福された鍋	name	item	Blessed pot
+Blessed pot	祝福の鍋	name	item	Blessed pot
 Garlic powder	ニンニクパウダー	name	item	Garlic powder
 Blood diamond	血のダイヤ	name	item	Blood diamond
 Ice diamond	氷のダイヤ	name	item	Ice diamond
@@ -4198,13 +4198,13 @@ Void knight top	ヴォイド・ナイト上	name	item	Void knight top
 Void knight robe	ヴォイド・ナイトのローブ	name	item	Void knight robe
 Void knight mace	ヴォイド・ナイトの鎚矛	name	item	Void knight mace
 Void knight gloves	ヴォイド・ナイトの手袋	name	item	Void knight gloves
-Bronze defender	銅のディフェンダー	name	item	Bronze defender
-Iron defender	鉄のディフェンダー	name	item	Iron defender
-Steel defender	鋼鉄のディフェンダー	name	item	Steel defender
-Black defender	黒鉄のディフェンダー	name	item	Black defender
-Mithril defender	ミスリルのディフェンダー	name	item	Mithril defender
-Adamant defender	アダマントのディフェンダー	name	item	Adamant defender
-Rune defender	ルーンのディフェンダー	name	item	Rune defender
+Bronze defender	銅の副刀	name	item	Bronze defender
+Iron defender	鉄の副刀	name	item	Iron defender
+Steel defender	鋼鉄の副刀	name	item	Steel defender
+Black defender	黒鉄の副刀	name	item	Black defender
+Mithril defender	ミスリルの副刀	name	item	Mithril defender
+Adamant defender	アダマントの副刀	name	item	Adamant defender
+Rune defender	ルーンの副刀	name	item	Rune defender
 Warrior guild token	戦士ギルドのトークン	name	item	Warrior guild token
 Defensive shield	防御の盾	name	item	Defensive shield
 Shot	ショット	name	item	Shot
@@ -4866,18 +4866,18 @@ Purple firelighter	紫色の着火剤	name	item	Purple firelighter
 White firelighter	白色の着火剤	name	item	White firelighter
 White logs	白色の丸太	name	item	White logs
 Purple logs	紫色の丸太	name	item	Purple logs
-3rd age range top	第3期の弓トップ	name	item	3rd age range top
-3rd age range legs	第3期の弓足	name	item	3rd age range legs
-3rd age range coif	第3期の弓コイフ	name	item	3rd age range coif
-3rd age vambraces	第3期の腕甲	name	item	3rd age vambraces
-3rd age robe top	第3期のローブ上	name	item	3rd age robe top
-3rd age robe	第3期のローブ	name	item	3rd age robe
-3rd age mage hat	第3期の魔術師の帽子	name	item	3rd age mage hat
-3rd age amulet	第3期のアミュレット	name	item	3rd age amulet
-3rd age platelegs	第3期の脚甲	name	item	3rd age platelegs
-3rd age platebody	第3期の胸甲	name	item	3rd age platebody
-3rd age full helmet	第3期の全頭甲	name	item	3rd age full helmet
-3rd age kiteshield	第3期のタコ盾	name	item	3rd age kiteshield
+3rd age range top	第3紀の射手トップ	name	item	3rd age range top
+3rd age range legs	第3紀の射手レッグ	name	item	3rd age range legs
+3rd age range coif	第3紀の射手コイフ	name	item	3rd age range coif
+3rd age vambraces	第3紀の腕甲	name	item	3rd age vambraces
+3rd age robe top	第3紀のローブ上	name	item	3rd age robe top
+3rd age robe	第3紀のローブ	name	item	3rd age robe
+3rd age mage hat	第3紀の魔術師の帽子	name	item	3rd age mage hat
+3rd age amulet	第3紀のアミュレット	name	item	3rd age amulet
+3rd age platelegs	第3紀の脚甲	name	item	3rd age platelegs
+3rd age platebody	第3紀の胸甲	name	item	3rd age platebody
+3rd age full helmet	第3紀の全頭甲	name	item	3rd age full helmet
+3rd age kiteshield	第3紀のタコ盾	name	item	3rd age kiteshield
 Amulet of glory (t4)	栄光のアミュレット（縁4）	name	item	Amulet of glory (t4)
 Amulet of glory (t3)	栄光のアミュレット（縁3）	name	item	Amulet of glory (t3)
 Amulet of glory (t2)	栄光のアミュレット（縁2）	name	item	Amulet of glory (t2)
@@ -4943,7 +4943,7 @@ Undead chicken	アンデッドのニワトリ	name	item	Undead chicken
 Selected iron	選ばれた鉄	name	item	Selected iron
 Bar magnet	棒磁石	name	item	Bar magnet
 Undead twigs	アンデッドの小枝	name	item	Undead twigs
-Blessed axe	恵まれた斧	name	item	Blessed axe
+Blessed axe	祝福の斧	name	item	Blessed axe
 Translated notes	翻訳されたメモ	name	item	Translated notes
 A pattern	パターン	name	item	A pattern
 A container	容器	name	item	A container
@@ -5068,8 +5068,8 @@ Gold satchel	金のサッチェル	name	item	Gold satchel
 Rune satchel	ルーンのサッチェル	name	item	Rune satchel
 Keg	小樽	name	item	Keg
 Prayer book	祈り本	name	item	Prayer book
-Barrelchest anchor	バレルチェストのいかり	name	item	Barrelchest anchor
-Blessed lamp	恵まれたランプ	name	item	Blessed lamp
+Barrelchest anchor	バレルチェストの碇	name	item	Barrelchest anchor
+Blessed lamp	祝福のランプ	name	item	Blessed lamp
 Wooden cat	木製のネコ	name	item	Wooden cat
 Cranial clamp	頭蓋のクランプ	name	item	Cranial clamp
 Brain tongs	脳みそ用トング	name	item	Brain tongs
@@ -5158,7 +5158,7 @@ Crude carving	粗末な彫刻	name	item	Crude carving
 Cruder carving	もっと粗末な彫刻	name	item	Cruder carving
 Sven's last map	スヴェンの最後の地図	name	item	Sven's last map
 Windswept logs	風にさらされた丸太	name	item	Windswept logs
-Brine sabre	塩水のサーベル	name	item	Brine sabre
+Brine sabre	塩水サーベル	name	item	Brine sabre
 Rotten barrel	腐った樽	name	item	Rotten barrel
 Brine rat	塩水ネズミ	name	item	Brine rat
 Armour shard	鎧の破片	name	item	Armour shard
@@ -5724,15 +5724,15 @@ Dragon sq shield (g)	竜鉄の角盾（金）	name	item	Dragon sq shield (g)
 Light infinity hat	明るい無限の帽子	name	item	Light infinity hat
 Light infinity top	明るい無限のトップ	name	item	Light infinity top
 Light infinity bottoms	明るい無限のローブ下	name	item	Light infinity bottoms
-3rd age wand	第3期のワンド	name	item	3rd age wand
-3rd age bow	第3期の弓	name	item	3rd age bow
-3rd age longsword	第3期の長剣	name	item	3rd age longsword
+3rd age wand	第3紀のワンド	name	item	3rd age wand
+3rd age bow	第3紀の弓	name	item	3rd age bow
+3rd age longsword	第3紀の長剣	name	item	3rd age longsword
 Penguin mask	ペンギンのマスク	name	item	Penguin mask
 Afro	アフロ	name	item	Afro
 Top hat	トップハット	name	item	Top hat
 Top hat & monocle	トップハットと片眼鏡	name	item	Top hat & monocle
 Amulet of fury (or)	憤怒のアミュレット（飾）	name	item	Amulet of fury (or)
-3rd age cloak	第3期のマント	name	item	3rd age cloak
+3rd age cloak	第3紀のマント	name	item	3rd age cloak
 Royal sceptre	王家の笏	name	item	Royal sceptre
 Musketeer tabard	マスケット銃兵のタバード	name	item	Musketeer tabard
 Musketeer pants	マスケット銃兵のズボン	name	item	Musketeer pants
@@ -5915,8 +5915,8 @@ Steam staff upgrade kit	蒸気の杖のアップグレードキット	name	item	
 Dragon pickaxe upgrade kit	竜鉄のツルハシのアップグレードキット	name	item	Dragon pickaxe upgrade kit
 Ward upgrade kit	ワードのアップグレードキット	name	item	Ward upgrade kit
 Saradomin's tear	サラドミンの涙	name	item	Saradomin's tear
-Sara's blessed sword (full)	サラドミンの恵まれた剣（満）	name	item	Sara's blessed sword (full)
-Saradomin's blessed sword	サラドミンの恵まれた剣	name	item	Saradomin's blessed sword
+Sara's blessed sword (full)	サラドミンの祝福の剣（満）	name	item	Sara's blessed sword (full)
+Saradomin's blessed sword	サラドミンの祝福の剣	name	item	Saradomin's blessed sword
 Ironman helm	鉄人の全頭甲	name	item	Ironman helm
 Ironman platebody	鉄人の胸甲	name	item	Ironman platebody
 Ironman platelegs	鉄人の脚甲	name	item	Ironman platelegs
@@ -5931,7 +5931,7 @@ Spectral sigil	スペクトラル魔法印	name	item	Spectral sigil
 Arcane spirit shield	アーケイン霊盾	name	item	Arcane spirit shield
 Arcane sigil	アーケイン魔法印	name	item	Arcane sigil
 Spirit shield	幽霊盾	name	item	Spirit shield
-Blessed spirit shield	恵まれた幽霊盾	name	item	Blessed spirit shield
+Blessed spirit shield	祝福の幽霊盾	name	item	Blessed spirit shield
 Holy elixir	聖なる仙薬	name	item	Holy elixir
 Community pumpkin	コミュニティカボチャ	name	item	Community pumpkin
 Grim reaper's diary	死神の日記	name	item	Grim reaper's diary
@@ -6001,7 +6001,7 @@ Zulrah's scales	ズルラの鱗	name	item	Zulrah's scales
 Ohn's diary	オーンの日記	name	item	Ohn's diary
 Jar of swamp	沼の瓶	name	item	Jar of swamp
 Zul-andra teleport	ズル・アンドラ・ワープ	name	item	Zul-andra teleport
-Dragon defender	竜鉄のディフェンダー	name	item	Dragon defender
+Dragon defender	竜鉄の副刀	name	item	Dragon defender
 Free to play starter pack	無料プレイヤースタートパック	name	item	Free to play starter pack
 Cow top	牛のトップ	name	item	Cow top
 Cow trousers	牛のズボン	name	item	Cow trousers
@@ -6539,7 +6539,7 @@ Clue nest (medium)	宝探しの巣（中級）	name	item	Clue nest (medium)
 Clue nest (hard)	宝探しの巣（上級）	name	item	Clue nest (hard)
 Clue nest (elite)	宝探しの巣（超級）	name	item	Clue nest (elite)
 Occult necklace (or)	オカルトのネックレス（飾）	name	item	Occult necklace (or)
-Dragon defender (t)	竜鉄のディフェンダー（縁）	name	item	Dragon defender (t)
+Dragon defender (t)	竜鉄の副刀（縁）	name	item	Dragon defender (t)
 Left eye patch	左目の眼帯	name	item	Left eye patch
 Double eye patch	両目の眼帯	name	item	Double eye patch
 Bloodhound	ブラッドハウンド	name	item	Bloodhound
@@ -6583,8 +6583,8 @@ Dragon scimitar (or)	竜鉄の三日月刀（飾）	name	item	Dragon scimitar (o
 Dragon scimitar ornament kit	竜鉄の三日月刀の装飾キット	name	item	Dragon scimitar ornament kit
 Ring of nature	自然の指輪	name	item	Ring of nature
 Fancy tiara	おしゃれなティアラ	name	item	Fancy tiara
-3rd age axe	第3期の斧	name	item	3rd age axe
-3rd age pickaxe	第3期のツルハシ	name	item	3rd age pickaxe
+3rd age axe	第3紀の斧	name	item	3rd age axe
+3rd age pickaxe	第3紀のツルハシ	name	item	3rd age pickaxe
 Ring of coins	コインの指輪	name	item	Ring of coins
 Lesser demon mask	下位悪魔のマスク	name	item	Lesser demon mask
 Greater demon mask	上位悪魔のマスク	name	item	Greater demon mask
@@ -6627,7 +6627,7 @@ Robe top of darkness	闇のローブ上	name	item	Robe top of darkness
 Gloves of darkness	闇の手袋	name	item	Gloves of darkness
 Robe bottom of darkness	闇のローブ下	name	item	Robe bottom of darkness
 Boots of darkness	闇の靴	name	item	Boots of darkness
-Dragon defender ornament kit	竜鉄のディフェンダーの装飾キット	name	item	Dragon defender ornament kit
+Dragon defender ornament kit	竜鉄の副刀の装飾キット	name	item	Dragon defender ornament kit
 Gilded med helm	黄金の兜	name	item	Gilded med helm
 Gilded chainbody	黄金の鎖甲	name	item	Gilded chainbody
 Gilded sq shield	黄金の角盾	name	item	Gilded sq shield
@@ -6696,14 +6696,14 @@ Evil chicken head	邪悪なニワトリの頭	name	item	Evil chicken head
 Evil chicken legs	邪悪なニワトリの脚	name	item	Evil chicken legs
 Fire cape (broken)	火炎のマント（壊）	name	item	Fire cape (broken)
 Fire max cape (broken)	ファイア・マックス・マント（壊）	name	item	Fire max cape (broken)
-Bronze defender (broken)	銅のディフェンダー（壊）	name	item	Bronze defender (broken)
-Iron defender (broken)	鉄のディフェンダー（壊）	name	item	Iron defender (broken)
-Steel defender (broken)	鋼鉄のディフェンダー（壊）	name	item	Steel defender (broken)
-Black defender (broken)	黒鉄のディフェンダー（壊）	name	item	Black defender (broken)
-Mithril defender (broken)	ミスリルのディフェンダー（壊）	name	item	Mithril defender (broken)
-Adamant defender (broken)	アダマントのディフェンダー（壊）	name	item	Adamant defender (broken)
-Rune defender (broken)	ルーンのディフェンダー（壊）	name	item	Rune defender (broken)
-Dragon defender (broken)	竜鉄のディフェンダー（壊）	name	item	Dragon defender (broken)
+Bronze defender (broken)	銅の副刀（壊）	name	item	Bronze defender (broken)
+Iron defender (broken)	鉄の副刀（壊）	name	item	Iron defender (broken)
+Steel defender (broken)	鋼鉄の副刀（壊）	name	item	Steel defender (broken)
+Black defender (broken)	黒鉄の副刀（壊）	name	item	Black defender (broken)
+Mithril defender (broken)	ミスリルの副刀（壊）	name	item	Mithril defender (broken)
+Adamant defender (broken)	アダマントの副刀（壊）	name	item	Adamant defender (broken)
+Rune defender (broken)	ルーンの副刀（壊）	name	item	Rune defender (broken)
+Dragon defender (broken)	竜鉄の副刀（壊）	name	item	Dragon defender (broken)
 Void knight top (broken)	ヴォイド・ナイト上（壊）	name	item	Void knight top (broken)
 Elite void top (broken)	エリート・ヴォイド上（壊）	name	item	Elite void top (broken)
 Void knight robe (broken)	ヴォイド・ナイトのローブ（壊）	name	item	Void knight robe (broken)
@@ -6914,18 +6914,18 @@ Buchu seed	ブチュの種	name	item	Buchu seed
 Stinkhorn mushroom	クサトゲキノコ	name	item	Stinkhorn mushroom
 Endarkened juice	黒色ジュース	name	item	Endarkened juice
 Cicely	チチェリ	name	item	Cicely
-Elder (-)(1)	長老（-）（1）	name	item	Elder (-)(1)
-Elder (-)(2)	長老（-）（2）	name	item	Elder (-)(2)
-Elder (-)(3)	長老（-）（3）	name	item	Elder (-)(3)
-Elder (-)(4)	長老（-）（4）	name	item	Elder (-)(4)
-Elder potion (1)	長老増強薬（1）	name	item	Elder potion (1)
-Elder potion (2)	長老増強薬（2）	name	item	Elder potion (2)
-Elder potion (3)	長老増強薬（3）	name	item	Elder potion (3)
-Elder potion (4)	長老増強薬（4）	name	item	Elder potion (4)
-Elder (+)(1)	長老（+）（1）	name	item	Elder (+)(1)
-Elder (+)(2)	長老（+）（2）	name	item	Elder (+)(2)
-Elder (+)(3)	長老（+）（3）	name	item	Elder (+)(3)
-Elder (+)(4)	長老（+）（4）	name	item	Elder (+)(4)
+Elder (-)(1)	エルダー（-）（1）	name	item	Elder (-)(1)
+Elder (-)(2)	エルダー（-）（2）	name	item	Elder (-)(2)
+Elder (-)(3)	エルダー（-）（3）	name	item	Elder (-)(3)
+Elder (-)(4)	エルダー（-）（4）	name	item	Elder (-)(4)
+Elder potion (1)	エルダーの増強薬（1）	name	item	Elder potion (1)
+Elder potion (2)	エルダーの増強薬（2）	name	item	Elder potion (2)
+Elder potion (3)	エルダーの増強薬（3）	name	item	Elder potion (3)
+Elder potion (4)	エルダーの増強薬（4）	name	item	Elder potion (4)
+Elder (+)(1)	エルダー（+）（1）	name	item	Elder (+)(1)
+Elder (+)(2)	エルダー（+）（2）	name	item	Elder (+)(2)
+Elder (+)(3)	エルダー（+）（3）	name	item	Elder (+)(3)
+Elder (+)(4)	エルダー（+）（4）	name	item	Elder (+)(4)
 Twisted (-)(1)	歪んだ（-）（1）	name	item	Twisted (-)(1)
 Twisted (-)(2)	歪んだ（-）（2）	name	item	Twisted (-)(2)
 Twisted (-)(3)	歪んだ（-）（3）	name	item	Twisted (-)(3)
@@ -6996,7 +6996,7 @@ Overload (+)(3)	限界突破薬（+）（3）	name	item	Overload (+)(3)
 Overload (+)(4)	限界突破薬（+）（4）	name	item	Overload (+)(4)
 Twisted bow	歪みの弓	name	item	Twisted bow
 Twisted buckler	歪みのバックラー	name	item	Twisted buckler
-Elder maul	エルダー大槌	name	item	Elder maul
+Elder maul	エルダーの大槌	name	item	Elder maul
 Kodai wand	古代のワンド	name	item	Kodai wand
 Dragon sword	竜鉄の剣	name	item	Dragon sword
 Dragon hunter crossbow	竜狩りの洋弓銃	name	item	Dragon hunter crossbow
@@ -7475,9 +7475,9 @@ Pet corporeal critter	ペットのコーポリアル・クリッター	name	item
 Tzrek-zuk	ツズレック・ザック	name	item	Tzrek-zuk
 Champion's lamp	チャンピオンのランプ	name	item	Champion's lamp
 Rotten cabbage	腐ったキャベツ	name	item	Rotten cabbage
-Avernic defender	アヴェルニックのディフェンダー	name	item	Avernic defender
+Avernic defender	アバーニックの副刀	name	item	Avernic defender
 Sanguinesti staff	サンギネスティ杖	name	item	Sanguinesti staff
-Ghrazi rapier	グラーズィーレイピア	name	item	Ghrazi rapier
+Ghrazi rapier	グラージ・レイピア	name	item	Ghrazi rapier
 Scythe of vitur	ヴァーチャーの大鎌	name	item	Scythe of vitur
 Justiciar faceguard	司法高官のフェイスガード	name	item	Justiciar faceguard
 Justiciar chestguard	司法高官のチェストガード	name	item	Justiciar chestguard
@@ -7531,7 +7531,7 @@ Emerald sickle (b)	エメラルドの鎌（祝福）	name	item	Emerald sickle (b
 Enchanted emerald sickle (b)	魔法のエメラルドの鎌（祝福）	name	item	Enchanted emerald sickle (b)
 Rotten carrot	腐ったニンジン	name	item	Rotten carrot
 Justiciar armour set	司法高官の鎧セット	name	item	Justiciar armour set
-Avernic defender (broken)	アヴェルニックのディフェンダー（壊）	name	item	Avernic defender (broken)
+Avernic defender (broken)	アバーニックの副刀（壊）	name	item	Avernic defender (broken)
 Cadantine blood potion (unf)	カンダタインの血の薬液（未）	name	item	Cadantine blood potion (unf)
 Battlemage potion(4)	バトルメイジの薬液（4）	name	item	Battlemage potion(4)
 Battlemage potion(3)	バトルメイジの薬液（3）	name	item	Battlemage potion(3)
@@ -7542,7 +7542,7 @@ Bastion potion(3)	要塞の薬液（3）	name	item	Bastion potion(3)
 Bastion potion(2)	要塞の薬液（2）	name	item	Bastion potion(2)
 Bastion potion(1)	要塞の薬液（1）	name	item	Bastion potion(1)
 Lil' zik	小っちゃなジック	name	item	Lil' zik
-Avernic defender hilt	アヴェルニックのディフェンダーの柄	name	item	Avernic defender hilt
+Avernic defender hilt	アバーニックの副刀の柄	name	item	Avernic defender hilt
 Sanguinesti staff (uncharged)	サンギネスティ杖（無力）	name	item	Sanguinesti staff (uncharged)
 Scythe of vitur (uncharged)	ヴァーチャーの大鎌（無力）	name	item	Scythe of vitur (uncharged)
 Sinhaza shroud tier 1	シンハザマントlvl 1	name	item	Sinhaza shroud tier 1
@@ -7757,7 +7757,7 @@ Clue nest (beginner)	宝探しの巣（入門）	name	item	Clue nest (beginner)
 Clue bottle (beginner)	宝探しのボトル（入門）	name	item	Clue bottle (beginner)
 Clue scroll (beginner)	宝探しの巻物（入門）	name	item	Clue scroll (beginner)
 Mimic	ザ・ミミック	name	item	Mimic
-Ring of 3rd age	第3期の指輪	name	item	Ring of 3rd age
+Ring of 3rd age	第3紀の指輪	name	item	Ring of 3rd age
 Guthix d'hide shield	ガシックスの竜革の盾	name	item	Guthix d'hide shield
 Saradomin d'hide shield	サラドミンの竜革の盾	name	item	Saradomin d'hide shield
 Zamorak d'hide shield	ザモラックの竜革の盾	name	item	Zamorak d'hide shield
@@ -7771,13 +7771,13 @@ Rune platebody (h3)	ルーンの胸甲（紋3）	name	item	Rune platebody (h3)
 Rune platebody (h4)	ルーンの胸甲（紋4）	name	item	Rune platebody (h4)
 Rune platebody (h5)	ルーンの胸甲（紋5）	name	item	Rune platebody (h5)
 Thieving bag	盗み袋	name	item	Thieving bag
-Rune defender ornament kit	ルーンのディフェンダーの装飾キット	name	item	Rune defender ornament kit
-Rune defender (t)	ルーンのディフェンダー（縁）	name	item	Rune defender (t)
+Rune defender ornament kit	ルーンの副刀の装飾キット	name	item	Rune defender ornament kit
+Rune defender (t)	ルーンの副刀（縁）	name	item	Rune defender (t)
 Tzhaar-ket-om ornament kit	ツザー・ケット・オムの装飾キット	name	item	Tzhaar-ket-om ornament kit
 Tzhaar-ket-om (t)	ツザー・ケット・オム（縁）	name	item	Tzhaar-ket-om (t)
 Berserker necklace ornament kit	バーサーカーのネックレスの装飾キット	name	item	Berserker necklace ornament kit
 Berserker necklace (or)	バーサーカーのネックレス（飾）	name	item	Berserker necklace (or)
-3rd age plateskirt	第3期の裙甲	name	item	3rd age plateskirt
+3rd age plateskirt	第3紀の裙甲	name	item	3rd age plateskirt
 Reward casket (beginner)	報酬木箱（入門）	name	item	Reward casket (beginner)
 Fremennik kilt	フレメニックのキルト	name	item	Fremennik kilt
 Rangers' tights	射手のタイツ	name	item	Rangers' tights
@@ -7807,10 +7807,10 @@ Sandwich lady bottom	サンドイッチ・レディーのスカート	name	item	
 Rune scimitar ornament kit (guthix)	ルーンの三日月刀の装飾キット（ガシックス）	name	item	Rune scimitar ornament kit (guthix)
 Rune scimitar ornament kit (saradomin)	ルーンの三日月刀の装飾キット（サラドミン）	name	item	Rune scimitar ornament kit (saradomin)
 Rune scimitar ornament kit (zamorak)	ルーンの三日月刀の装飾キット（ザモラック）	name	item	Rune scimitar ornament kit (zamorak)
-3rd age druidic robe top	第3期のドルイドローブ上	name	item	3rd age druidic robe top
-3rd age druidic robe bottoms	第3期のドルイドローブ下	name	item	3rd age druidic robe bottoms
-3rd age druidic staff	第3期のドルイド杖	name	item	3rd age druidic staff
-3rd age druidic cloak	第3期のドルイドマント	name	item	3rd age druidic cloak
+3rd age druidic robe top	第3紀のドルイドローブ上	name	item	3rd age druidic robe top
+3rd age druidic robe bottoms	第3紀のドルイドローブ下	name	item	3rd age druidic robe bottoms
+3rd age druidic staff	第3紀のドルイド杖	name	item	3rd age druidic staff
+3rd age druidic cloak	第3紀のドルイドマント	name	item	3rd age druidic cloak
 Tormented ornament kit	苦悩の腕輪の装飾キット	name	item	Tormented ornament kit
 Cape of skulls	ドクロのマント	name	item	Cape of skulls
 Amulet of power (t)	力のアミュレット（縁）	name	item	Amulet of power (t)
@@ -7909,8 +7909,8 @@ Green powder	緑色の粉体	name	item	Green powder
 Clear liquid	透明な液体	name	item	Clear liquid
 Red powder	赤色の粉体	name	item	Red powder
 Ode to eternity	永遠への頌歌	name	item	Ode to eternity
-Elder cadantine	長老カンダタイン	name	item	Elder cadantine
-Elder cadantine potion (unf)	長老カンダタインの薬液（未）	name	item	Elder cadantine potion (unf)
+Elder cadantine	エルダー・カンダタイン	name	item	Elder cadantine
+Elder cadantine potion (unf)	エルダー・カンダタインの薬液（未）	name	item	Elder cadantine potion (unf)
 Crystal dust	水晶の塵	name	item	Crystal dust
 Inversion potion	反転薬	name	item	Inversion potion
 Crystal seed	水晶の種	name	item	Crystal seed
@@ -8014,8 +8014,8 @@ Crystal halberd	水晶の矛槍	name	item	Crystal halberd
 Crystal halberd (inactive)	水晶の矛槍（不活性）	name	item	Crystal halberd (inactive)
 Crystal shield	水晶の盾	name	item	Crystal shield
 Crystal shield (inactive)	水晶の盾（不活性）	name	item	Crystal shield (inactive)
-Blade of saeldor	サードルの刃物	name	item	Blade of saeldor
-Blade of saeldor (inactive)	サードルの刃物（不活性）	name	item	Blade of saeldor (inactive)
+Blade of saeldor	サードルの刃	name	item	Blade of saeldor
+Blade of saeldor (inactive)	サードルの刃（不活性）	name	item	Blade of saeldor (inactive)
 Crystal grail	水晶の杯	name	item	Crystal grail
 Elven boots	エルフの靴	name	item	Elven boots
 Elven gloves	エルフの手袋	name	item	Elven gloves
@@ -8051,14 +8051,14 @@ Marble lectern	大理石の詠唱台	name	item	Marble lectern
 Infernal max cape (l)	獄炎・マックス・マント（保）	name	item	Infernal max cape (l)
 Fire max cape (l)	ファイア・マックス・マント（保）	name	item	Fire max cape (l)
 Assembler max cape (l)	アセンブラ・マックス・マント（保）	name	item	Assembler max cape (l)
-Bronze defender (l)	銅のディフェンダー（保）	name	item	Bronze defender (l)
-Iron defender (l)	鉄のディフェンダー（保）	name	item	Iron defender (l)
-Steel defender (l)	鋼鉄のディフェンダー（保）	name	item	Steel defender (l)
-Black defender (l)	黒鉄のディフェンダー（保）	name	item	Black defender (l)
-Mithril defender (l)	ミスリルのディフェンダー（保）	name	item	Mithril defender (l)
-Adamant defender (l)	アダマントのディフェンダー（保）	name	item	Adamant defender (l)
-Rune defender (l)	ルーンのディフェンダー（保）	name	item	Rune defender (l)
-Dragon defender (l)	竜鉄のディフェンダー（保）	name	item	Dragon defender (l)
+Bronze defender (l)	銅の副刀（保）	name	item	Bronze defender (l)
+Iron defender (l)	鉄の副刀（保）	name	item	Iron defender (l)
+Steel defender (l)	鋼鉄の副刀（保）	name	item	Steel defender (l)
+Black defender (l)	黒鉄の副刀（保）	name	item	Black defender (l)
+Mithril defender (l)	ミスリルの副刀（保）	name	item	Mithril defender (l)
+Adamant defender (l)	アダマントの副刀（保）	name	item	Adamant defender (l)
+Rune defender (l)	ルーンの副刀（保）	name	item	Rune defender (l)
+Dragon defender (l)	竜鉄の副刀（保）	name	item	Dragon defender (l)
 Staff of balance	平衡の杖	name	item	Staff of balance
 Armadyl halo (broken)	アーマディルの後光（壊）	name	item	Armadyl halo (broken)
 Bandos halo (broken)	バンドスの後光（壊）	name	item	Bandos halo (broken)
@@ -8086,7 +8086,7 @@ Void knight gloves (l)	ヴォイド・ナイトの手袋（保）	name	item	Void
 Void mage helm (l)	ヴォイド・魔術師の兜（保）	name	item	Void mage helm (l)
 Void ranger helm (l)	ヴォイド・射手の兜（保）	name	item	Void ranger helm (l)
 Void melee helm (l)	ヴォイド・近接の兜（保）	name	item	Void melee helm (l)
-Avernic defender (l)	アヴェルニックのディフェンダー（保）	name	item	Avernic defender (l)
+Avernic defender (l)	アバーニックの副刀（保）	name	item	Avernic defender (l)
 Trouver parchment	トラウバー羊皮紙	name	item	Trouver parchment
 Armadyl halo	アーマディルの後光	name	item	Armadyl halo
 Armadyl halo (l)	アーマディルの後光（保）	name	item	Armadyl halo (l)
@@ -8256,7 +8256,7 @@ Broken egg	壊れた卵	name	item	Broken egg
 Dummy portal	偽のポータル	name	item	Dummy portal
 Carrot	人参	name	item	Carrot
 Broken goat horn	壊れたヤギ角	name	item	Broken goat horn
-Blade of saeldor (c)	サードルの刃物（変異）	name	item	Blade of saeldor (c)
+Blade of saeldor (c)	サードルの刃（変異）	name	item	Blade of saeldor (c)
 Pyromancer set	炎魔術師のセット	name	item	Pyromancer set
 Antique emblem (tier 1)	古のエンブレム（lvl1）	name	item	Antique emblem (tier 1)
 Antique emblem (tier 2)	古のエンブレム（lvl2）	name	item	Antique emblem (tier 2)
@@ -8680,7 +8680,7 @@ Clan cloak	クランのマント	name	item	Clan cloak
 Clan vexillum	クランのベキシラム	name	item	Clan vexillum
 Holy sanguinesti staff	聖なるサンギネスティ杖	name	item	Holy sanguinesti staff
 Holy sanguinesti staff (uncharged)	聖なるサンギネスティ杖（無力）	name	item	Holy sanguinesti staff (uncharged)
-Holy ghrazi rapier	聖なるグラーズィーレイピア	name	item	Holy ghrazi rapier
+Holy ghrazi rapier	聖なるグラージ・レイピア	name	item	Holy ghrazi rapier
 Holy scythe of vitur	聖なるヴァーチャーの大鎌	name	item	Holy scythe of vitur
 Holy scythe of vitur (uncharged)	聖なるヴァーチャーの大鎌（無力）	name	item	Holy scythe of vitur (uncharged)
 Sanguine scythe of vitur	サングイン・ヴァーチャーの大鎌	name	item	Sanguine scythe of vitur
@@ -9217,8 +9217,8 @@ Elite void robe (l)(or)	エリート・ヴォイド下（保）（飾）	name	it
 Void mage helm (l)(or)	ヴォイド・魔術師の兜（保）（飾）	name	item	Void mage helm (l)(or)
 Void ranger helm (l)(or)	ヴォイド・射手の兜（保）（飾）	name	item	Void ranger helm (l)(or)
 Void melee helm (l)(or)	ヴォイド・近接の兜（保）（飾）	name	item	Void melee helm (l)(or)
-Dragon defender (l)(t)	竜鉄のディフェンダー（保）（縁）	name	item	Dragon defender (l)(t)
-Rune defender (l)(t)	ルーンのディフェンダー（保）（縁）	name	item	Rune defender (l)(t)
+Dragon defender (l)(t)	竜鉄の副刀（保）（縁）	name	item	Dragon defender (l)(t)
+Rune defender (l)(t)	ルーンの副刀（保）（縁）	name	item	Rune defender (l)(t)
 Preform	母材	name	item	Preform
 Double ammo mould	大砲弾の二重鋳型	name	item	Double ammo mould
 Kovac's grog	コヴァックのグロッグ	name	item	Kovac's grog
@@ -9240,8 +9240,8 @@ Group ironman helm (unranked)	鉄人グループの兜（ランク無）	name	it
 Group ironman platelegs (unranked)	鉄人グループの脚甲（ランク無）	name	item	Group ironman platelegs (unranked)
 Group ironman bracers (unranked)	鉄人グループの腕輪（ランク無）	name	item	Group ironman bracers (unranked)
 Group ironman platebody (unranked)	鉄人グループの胸甲（ランク無）	name	item	Group ironman platebody (unranked)
-Elder maul ornament kit	エルダー大槌の装飾キット	name	item	Elder maul ornament kit
-Elder maul (or)	エルダー大槌（飾）	name	item	Elder maul (or)
+Elder maul ornament kit	エルダーの大槌の装飾キット	name	item	Elder maul ornament kit
+Elder maul (or)	エルダーの大槌（飾）	name	item	Elder maul (or)
 Mithril gloves (wrapped)	ミスリルの籠手（包）	name	item	Mithril gloves (wrapped)
 Rune gloves (wrapped)	ルーンの籠手（包）	name	item	Rune gloves (wrapped)
 Barrows gloves (wrapped)	バロウズの籠手（包）	name	item	Barrows gloves (wrapped)
@@ -9393,10 +9393,10 @@ Warning note	注意書き	name	item	Warning note
 Wood carving	木彫	name	item	Wood carving
 Compass	コンパス	name	item	Compass
 Ghommal's lucky penny	ゴンマルの幸運のペニー	name	item	Ghommal's lucky penny
-Ghommal's avernic defender 5	ゴンマルのアヴェルニックのディフェンダー 5	name	item	Ghommal's avernic defender 5
-Ghommal's avernic defender 5 (l)	ゴンマルのアヴェルニックのディフェンダー 5（保）	name	item	Ghommal's avernic defender 5 (l)
-Ghommal's avernic defender 6	ゴンマルのアヴェルニックのディフェンダー 6	name	item	Ghommal's avernic defender 6
-Ghommal's avernic defender 6 (l)	ゴンマルのアヴェルニックのディフェンダー 6（保）	name	item	Ghommal's avernic defender 6 (l)
+Ghommal's avernic defender 5	ゴンマルのアバーニックの副刀 5	name	item	Ghommal's avernic defender 5
+Ghommal's avernic defender 5 (l)	ゴンマルのアバーニックの副刀 5（保）	name	item	Ghommal's avernic defender 5 (l)
+Ghommal's avernic defender 6	ゴンマルのアバーニックの副刀 6	name	item	Ghommal's avernic defender 6
+Ghommal's avernic defender 6 (l)	ゴンマルのアバーニックの副刀 6（保）	name	item	Ghommal's avernic defender 6 (l)
 Perfect gingerbread	完璧なジンジャーブレッド	name	item	Perfect gingerbread
 Broken gingerbread	壊れたジンジャーブレッド	name	item	Broken gingerbread
 Very broken gingerbread	だいぶ壊れたジンジャーブレッド	name	item	Very broken gingerbread
@@ -9503,7 +9503,7 @@ Corrupted zuriel's hood (bh)	変異したズリエルのフード（BH）	name	i
 Corrupted zuriel's robe top (bh)	変異したズリエルのローブ上（BH）	name	item	Corrupted zuriel's robe top (bh)
 Corrupted zuriel's robe bottom (bh)	変異したズリエルのローブ下（BH）	name	item	Corrupted zuriel's robe bottom (bh)
 Dark bow (bh)	暗黒弓（BH）	name	item	Dark bow (bh)
-Barrelchest anchor (bh)	バレルチェストのいかり（BH）	name	item	Barrelchest anchor (bh)
+Barrelchest anchor (bh)	バレルチェストの碇（BH）	name	item	Barrelchest anchor (bh)
 Dragon mace (bh)	竜鉄の鎚矛（BH）	name	item	Dragon mace (bh)
 Dragon longsword (bh)	竜鉄の長剣（BH）	name	item	Dragon longsword (bh)
 Abyssal dagger (bh)	深淵の短剣（BH）	name	item	Abyssal dagger (bh)
@@ -9594,7 +9594,7 @@ Fighter torso (or)	ファイターの胴体（飾）	name	item	Fighter torso (or
 Fighter torso (l)(or)	ファイターの胴体（保）（飾）	name	item	Fighter torso (l)(or)
 Helm of neitiznot (or)	ネイチズノットのヘルム（飾）	name	item	Helm of neitiznot (or)
 Dark bow imbue scroll	暗黒弓の付与巻物	name	item	Dark bow imbue scroll
-Barrelchest anchor imbue scroll	バレルチェストのいかりの付与巻物	name	item	Barrelchest anchor imbue scroll
+Barrelchest anchor imbue scroll	バレルチェストの碇の付与巻物	name	item	Barrelchest anchor imbue scroll
 Dragon mace imbue scroll	竜鉄の鎚矛の付与巻物	name	item	Dragon mace imbue scroll
 Dragon longsword imbue scroll	竜鉄の長剣の付与巻物	name	item	Dragon longsword imbue scroll
 Abyssal dagger imbue scroll	深淵の短剣の付与巻物	name	item	Abyssal dagger imbue scroll
@@ -9931,7 +9931,7 @@ Wealthy citizen	裕福な市民	name	item	Wealthy citizen
 Lesser nagua	下位のナーガ	name	item	Lesser nagua
 Civitas illa fortis teleport	シビリタス・イラ・フォーチス・ワープ	name	item	Civitas illa fortis teleport
 Dizana's quiver (broken)	ディザナの矢筒（壊）	name	item	Dizana's quiver (broken)
-Blessed dizana's quiver (broken)	祝福されたディザナの矢筒（壊）	name	item	Blessed dizana's quiver (broken)
+Blessed dizana's quiver (broken)	祝福のディザナの矢筒（壊）	name	item	Blessed dizana's quiver (broken)
 Dizana's max cape (broken)	ディザナのマックス・マント（壊）	name	item	Dizana's max cape (broken)
 Immature tecu salamander	稚拙なテク・サラマンダ	name	item	Immature tecu salamander
 Tecu salamander	テク・サラマンダ	name	item	Tecu salamander
@@ -9965,8 +9965,8 @@ Dizana's quiver (uncharged)	ディザナの矢筒（無力）	name	item	Dizana's
 Dizana's quiver (uncharged) (l)	ディザナの矢筒（無力）（保）	name	item	Dizana's quiver (uncharged) (l)
 Dizana's quiver	ディザナの矢筒	name	item	Dizana's quiver
 Dizana's quiver (l)	ディザナの矢筒（保）	name	item	Dizana's quiver (l)
-Blessed dizana's quiver	祝福されたディザナの矢筒	name	item	Blessed dizana's quiver
-Blessed dizana's quiver (l)	祝福されたディザナの矢筒（保）	name	item	Blessed dizana's quiver (l)
+Blessed dizana's quiver	祝福のディザナの矢筒	name	item	Blessed dizana's quiver
+Blessed dizana's quiver (l)	祝福のディザナの矢筒（保）	name	item	Blessed dizana's quiver (l)
 Scrawled poem	殴り書きされた詩	name	item	Scrawled poem
 Smol heredit	小さなヘレディット	name	item	Smol heredit
 Quetzin	クエッツィン	name	item	Quetzin
@@ -10126,28 +10126,28 @@ Apatura's note	アパチュラのメモ	name	item	Apatura's note
 Apatura's key	アパチュラのカギ	name	item	Apatura's key
 House keys	家のカギ	name	item	House keys
 Valuables	貴重品	name	item	Valuables
-Blessed bone statuette	祝福された骨の小像	name	item	Blessed bone statuette
-Blessed bones	祝福された骨	name	item	Blessed bones
-Blessed bat bones	祝福されたコウモリの骨	name	item	Blessed bat bones
-Blessed big bones	祝福された大きい骨	name	item	Blessed big bones
-Blessed zogre bones	祝福されたゾーガの骨	name	item	Blessed zogre bones
-Blessed babydragon bones	祝福された幼竜の骨	name	item	Blessed babydragon bones
-Blessed babywyrm bones	祝福されたワームリングの骨	name	item	Blessed babywyrm bones
-Blessed dragon bones	祝福された竜の骨	name	item	Blessed dragon bones
-Blessed lava dragon bones	祝福された溶岩竜の骨	name	item	Blessed lava dragon bones
-Blessed wyvern bones	祝福されたワイバーンの骨	name	item	Blessed wyvern bones
-Blessed superior dragon bones	祝福された優れた竜の骨	name	item	Blessed superior dragon bones
-Blessed wyrm bones	祝福されたワームの骨	name	item	Blessed wyrm bones
-Blessed drake bones	祝福されたドレイクの骨	name	item	Blessed drake bones
-Blessed hydra bones	祝福されたヒドラの骨	name	item	Blessed hydra bones
-Blessed fayrg bones	祝福されたファイリグの骨	name	item	Blessed fayrg bones
-Blessed raurg bones	祝福されたロールグの骨	name	item	Blessed raurg bones
-Blessed ourg bones	祝福されたウールグの骨	name	item	Blessed ourg bones
+Blessed bone statuette	祝福の骨の小像	name	item	Blessed bone statuette
+Blessed bones	祝福の骨	name	item	Blessed bones
+Blessed bat bones	祝福のコウモリの骨	name	item	Blessed bat bones
+Blessed big bones	祝福の大きい骨	name	item	Blessed big bones
+Blessed zogre bones	祝福のゾーガの骨	name	item	Blessed zogre bones
+Blessed babydragon bones	祝福の幼竜の骨	name	item	Blessed babydragon bones
+Blessed babywyrm bones	祝福のワームリングの骨	name	item	Blessed babywyrm bones
+Blessed dragon bones	祝福の竜の骨	name	item	Blessed dragon bones
+Blessed lava dragon bones	祝福の溶岩竜の骨	name	item	Blessed lava dragon bones
+Blessed wyvern bones	祝福のワイバーンの骨	name	item	Blessed wyvern bones
+Blessed superior dragon bones	祝福の優れた竜の骨	name	item	Blessed superior dragon bones
+Blessed wyrm bones	祝福のワームの骨	name	item	Blessed wyrm bones
+Blessed drake bones	祝福のドレイクの骨	name	item	Blessed drake bones
+Blessed hydra bones	祝福のヒドラの骨	name	item	Blessed hydra bones
+Blessed fayrg bones	祝福のファイリグの骨	name	item	Blessed fayrg bones
+Blessed raurg bones	祝福のロールグの骨	name	item	Blessed raurg bones
+Blessed ourg bones	祝福のウールグの骨	name	item	Blessed ourg bones
 Sun-kissed bones	日焼けした骨	name	item	Sun-kissed bones
-Blessed bone shards	祝福された骨の破片	name	item	Blessed bone shards
+Blessed bone shards	祝福の骨の破片	name	item	Blessed bone shards
 Jug of sunfire wine	陽炎ワインのジャグ	name	item	Jug of sunfire wine
-Jug of blessed sunfire wine	祝福された陽炎ワインのジャグ	name	item	Jug of blessed sunfire wine
-Jug of blessed wine	祝福されたワインのジャグ	name	item	Jug of blessed wine
+Jug of blessed sunfire wine	祝福の陽炎ワインのジャグ	name	item	Jug of blessed sunfire wine
+Jug of blessed wine	祝福のワインのジャグ	name	item	Jug of blessed wine
 Token	トークン	name	item	Token
 A nice key	綺麗なカギ	name	item	A nice key
 Sunbeam ale	陽光のエール	name	item	Sunbeam ale
@@ -10236,7 +10236,7 @@ Smouldering pile of flesh	くすぶる肉の山	name	item	Smouldering pile of fl
 Smouldering gland	くすぶる腺	name	item	Smouldering gland
 Emberlight	エンバーライト	name	item	Emberlight
 Scorching bow	灼熱の弓	name	item	Scorching bow
-Purging staff	パージスタッフ	name	item	Purging staff
+Purging staff	浄化の杖	name	item	Purging staff
 Duradel's notes	ヅラデルのメモ	name	item	Duradel's notes
 Deadman rug	デッドマンのカーペット	name	item	Deadman rug
 Corrupted dark bow	変異した暗黒弓	name	item	Corrupted dark bow
@@ -10324,7 +10324,7 @@ Araxyte head	アラキサイトの頭	name	item	Araxyte head
 Noxious point	有害のポイント	name	item	Noxious point
 Noxious blade	有害の刃	name	item	Noxious blade
 Noxious pommel	有害の柄頭	name	item	Noxious pommel
-Noxious halberd	有害の矛槍	name	item	Noxious halberd
+Noxious halberd	猛毒の矛槍	name	item	Noxious halberd
 Araxyte fang	アラキサイトの牙	name	item	Araxyte fang
 Amulet of rancour	怨恨のアミュレット	name	item	Amulet of rancour
 Amulet of rancour (s)	怨恨のアミュレット（銀）	name	item	Amulet of rancour (s)

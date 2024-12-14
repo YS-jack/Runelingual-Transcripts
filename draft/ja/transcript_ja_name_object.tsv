@@ -57,7 +57,7 @@ Pile of rope	ロープの山	name	object	Pile of rope
 Ship's ladder	船のハシゴ	name	object	Ship's ladder
 Ship's wheel	舵輪	name	object	Ship's wheel
 Winch	ウィンチ	name	object	Winch
-Anchor	いかり	name	object	Anchor
+Anchor	碇	name	object	Anchor
 Hoisted sail	上がった帆	name	object	Hoisted sail
 Plough	すき	name	object	Plough
 Scarecrow	カカシ	name	object	Scarecrow
@@ -612,8 +612,8 @@ Balancing ledge	バランスのふち	name	object	Balancing ledge
 Monkey bars	うんてい	name	object	Monkey bars
 Low wall	低い壁	name	object	Low wall
 Rope swing	縄のブランコ	name	object	Rope swing
-Blade	刃物	name	object	Blade
-Spinning blades	回転する刃物	name	object	Spinning blades
+Blade	刃	name	object	Blade
+Spinning blades	回転する刃	name	object	Spinning blades
 Ticket Dispenser	チケット配布機	name	object	Ticket Dispenser
 Floor spikes	床のトゲ	name	object	Floor spikes
 Pressure pad	圧力パッド	name	object	Pressure pad
@@ -2036,7 +2036,7 @@ Tar barrel	タールの樽	name	object	Tar barrel
 Sack pile	袋の山	name	object	Sack pile
 Fish bits	魚の破片	name	object	Fish bits
 Wooden chest	木製の宝箱	name	object	Wooden chest
-Extra anchor	予備のいかり	name	object	Extra anchor
+Extra anchor	予備の碇	name	object	Extra anchor
 Wheel	車輪	name	object	Wheel
 Support	サポート	name	object	Support
 Wall chart	壁のチャート	name	object	Wall chart
@@ -3160,7 +3160,7 @@ Burnt tree	焦げた木	name	object	Burnt tree
 Dead tree stump	死んだ木の切り株	name	object	Dead tree stump
 Wilhelm	ウィルヘルム	name	object	Wilhelm
 Broken Table	壊れたテーブル	name	object	Broken Table
-Rope anchor	ロープのいかり	name	object	Rope anchor
+Rope anchor	ロープの碇	name	object	Rope anchor
 Magic Mushtree	魔法のキノコの木	name	object	Magic Mushtree
 Chest pieces	宝箱の破片	name	object	Chest pieces
 Fossil cleaning bench	化石洗浄台	name	object	Fossil cleaning bench
@@ -3172,8 +3172,8 @@ Broken Spinning Wheel	壊れた糸車	name	object	Broken Spinning Wheel
 Half-built Loom	作りかけの織機	name	object	Half-built Loom
 Strange Machine	不思議な機械	name	object	Strange Machine
 Pot of Gold	黄金の鍋	name	object	Pot of Gold
-Anchor rope	いかりのロープ	name	object	Anchor rope
-Drift net anchors	流し網のいかり	name	object	Drift net anchors
+Anchor rope	碇のロープ	name	object	Anchor rope
+Drift net anchors	流し網の碇	name	object	Drift net anchors
 Drift net (full)	流し網（満）	name	object	Drift net (full)
 Plant door	植物のドア	name	object	Plant door
 Pile of Fishbowls	金魚鉢の山	name	object	Pile of Fishbowls
