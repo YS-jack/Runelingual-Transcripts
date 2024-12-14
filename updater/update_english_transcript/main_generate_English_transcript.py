@@ -41,10 +41,10 @@ def main():
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='updates the English transcripts')
-    parser.add_argument('--updateAll', action='store_true', help='TAKES TIME. downloads all data from chisel and wiki, gets data from the manual files, and updates the database')
-    parser.add_argument('--updateManual', action='store_true', help='gets data from the manual files and updates the database')
-    parser.add_argument('--updateChisel', action='store_true', help='gets data from chisel and updates the database')
-    parser.add_argument('--updateWiki', action='store_true', help='gets data from wiki and updates the database')
+    parser.add_argument('--updateAll', action='store_true', help='TAKES TIME. Deletes all English data, downloads all data from chisel and wiki, gets data from the manual files, and create a new database')
+    parser.add_argument('--addManual', action='store_true', help='gets data from the manual files and updates the database')
+    parser.add_argument('--addChisel', action='store_true', help='gets data from chisel and updates the database')
+    parser.add_argument('--addeWiki', action='store_true', help='gets data from wiki and updates the database')
 
     args = parser.parse_args()
     if args.updateAll:
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     else:
         print("Please specify an argument")
         print("To update everything (manual transcripts, chisel data (npc, item, object names + examines + options), wiki data (npc dialogues)): python main_generate_English_transcript.py --updateAll")
-        print("To update via only manual transcripts: python main_generate_English_transcript.py --updateManual")
-        print("To update via only chisel data (npc, item, object names + examines + options): python main_generate_English_transcript.py --updateChisel")
-        print("To update via only wiki data (npc dialogues): python main_generate_English_transcript.py --updateWiki")
+        print("Does not delete current data, just add manual transcripts: python main_generate_English_transcript.py --updateManual")
+        print("Does not delete current data, just add chisel data (npc, item, object names + examines + options): python main_generate_English_transcript.py --updateChisel")
+        print("Does not delete current data, just add wiki data (npc dialogues): python main_generate_English_transcript.py --updateWiki")
         exit(1)
