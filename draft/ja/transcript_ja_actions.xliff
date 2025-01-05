@@ -10736,55 +10736,55 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110070"><xliff:source>Flare</xliff:source><xliff:target state="translated">フレア</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110071"><xliff:source>Last-tier contract</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110071"><xliff:source>Last-tier contract</xliff:source><xliff:target state="translated">以前の契約難易度</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Amy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=7417</xliff:note></xliff:trans-unit><xliff:trans-unit id="110072"><xliff:source>Metamorph</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=7417</xliff:note></xliff:trans-unit><xliff:trans-unit id="110072"><xliff:source>Metamorph</xliff:source><xliff:target state="translated">変形</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Nid
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13683</xliff:note></xliff:trans-unit><xliff:trans-unit id="110073"><xliff:source>Choose</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13683</xliff:note></xliff:trans-unit><xliff:trans-unit id="110073"><xliff:source>Choose</xliff:source><xliff:target state="translated">選択</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Tenoch
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13780</xliff:note></xliff:trans-unit><xliff:trans-unit id="110074"><xliff:source>Check-on</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13780</xliff:note></xliff:trans-unit><xliff:trans-unit id="110074"><xliff:source>Check-on</xliff:source><xliff:target state="translated">確認</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Man
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13872</xliff:note></xliff:trans-unit><xliff:trans-unit id="110075"><xliff:source>Stats</xliff:source><xliff:target state="translated">ステータス</xliff:target><xliff:note>category: actions
 sub_category: npc
 source: Worm Tongue
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13982</xliff:note></xliff:trans-unit><xliff:trans-unit id="110076"><xliff:source>Take-5 concoctions</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13982</xliff:note></xliff:trans-unit><xliff:trans-unit id="110076"><xliff:source>Take-5 concoctions</xliff:source><xliff:target state="translated">5個混合物を取る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Crate
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=29320</xliff:note></xliff:trans-unit><xliff:trans-unit id="110077"><xliff:source>Take-10 concoctions</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=29320</xliff:note></xliff:trans-unit><xliff:trans-unit id="110077"><xliff:source>Take-10 concoctions</xliff:source><xliff:target state="translated">10個混合物を取る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Crate
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=29320</xliff:note></xliff:trans-unit><xliff:trans-unit id="110078"><xliff:source>Take-many</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=29320</xliff:note></xliff:trans-unit><xliff:trans-unit id="110078"><xliff:source>Take-many</xliff:source><xliff:target state="translated">たくさん取る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Medical box
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54378</xliff:note></xliff:trans-unit><xliff:trans-unit id="110079"><xliff:source>Slide-along</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54378</xliff:note></xliff:trans-unit><xliff:trans-unit id="110079"><xliff:source>Slide-along</xliff:source><xliff:target state="translated">滑る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Icy ledge
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54533</xliff:note></xliff:trans-unit><xliff:trans-unit id="110080"><xliff:source>Take-uniform</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54533</xliff:note></xliff:trans-unit><xliff:trans-unit id="110080"><xliff:source>Take-uniform</xliff:source><xliff:target state="translated">衣装を取る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Wardrobe
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54723</xliff:note></xliff:trans-unit><xliff:trans-unit id="110081"><xliff:source>Concentrate-potion</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54723</xliff:note></xliff:trans-unit><xliff:trans-unit id="110081"><xliff:source>Concentrate-potion</xliff:source><xliff:target state="translated">薬液を濃縮</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Retort
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54870</xliff:note></xliff:trans-unit><xliff:trans-unit id="110082"><xliff:source>Homogenise-potion</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54870</xliff:note></xliff:trans-unit><xliff:trans-unit id="110082"><xliff:source>Homogenise-potion</xliff:source><xliff:target state="translated">薬液を均一化</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Agitator
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54881</xliff:note></xliff:trans-unit><xliff:trans-unit id="110083"><xliff:source>Crystalise-potion</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54881</xliff:note></xliff:trans-unit><xliff:trans-unit id="110083"><xliff:source>Crystalise-potion</xliff:source><xliff:target state="translated">薬液を結晶化</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Alembic
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54892</xliff:note></xliff:trans-unit><xliff:trans-unit id="110084"><xliff:source>Fulfil-order</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54892</xliff:note></xliff:trans-unit><xliff:trans-unit id="110084"><xliff:source>Fulfil-order</xliff:source><xliff:target state="translated">出品</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Conveyor belt
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54917</xliff:note></xliff:trans-unit><xliff:trans-unit id="110085"><xliff:source>Fight-privately</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=54917</xliff:note></xliff:trans-unit><xliff:trans-unit id="110085"><xliff:source>Fight-privately</xliff:source><xliff:target state="translated">個別で戦う</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Meeting flag
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55203</xliff:note></xliff:trans-unit><xliff:trans-unit id="110086"><xliff:source>Leave-group</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55203</xliff:note></xliff:trans-unit><xliff:trans-unit id="110086"><xliff:source>Leave-group</xliff:source><xliff:target state="translated">グループから脱退</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Meeting flag (private)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55204</xliff:note></xliff:trans-unit><xliff:trans-unit id="110087"><xliff:source>Quick-slide</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55204</xliff:note></xliff:trans-unit><xliff:trans-unit id="110087"><xliff:source>Quick-slide</xliff:source><xliff:target state="translated">速く滑る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Slope
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55234</xliff:note></xliff:trans-unit><xliff:trans-unit id="110088"><xliff:source>Change</xliff:source><xliff:target state="translated">変更</xliff:target><xliff:note>category: actions
@@ -10793,7 +10793,7 @@ source: Scarecrow
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55481</xliff:note></xliff:trans-unit><xliff:trans-unit id="110089"><xliff:source>Plant</xliff:source><xliff:target state="translated">植える</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Pumpkin patch
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55621</xliff:note></xliff:trans-unit><xliff:trans-unit id="110090"><xliff:source>Carve-pumpkin</xliff:source><xliff:target></xliff:target><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55621</xliff:note></xliff:trans-unit><xliff:trans-unit id="110090"><xliff:source>Carve-pumpkin</xliff:source><xliff:target state="translated">カボチャを彫る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Pumpkin carving table
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit></xliff:body>

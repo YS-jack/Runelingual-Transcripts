@@ -19499,7 +19499,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115456">
         <xliff:source>Noxifer</xliff:source>
-        <xliff:target state="translated">ノキシファヤ</xliff:target>
+        <xliff:target state="translated">ノキシファ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -24921,6 +24921,63 @@ sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="116134"><xliff:source>Potions may be &lt;colNum0&gt;strong&lt;/col&gt;, &lt;colNum1&gt;standard&lt;/col&gt; or &lt;colNum2&gt;weak&lt;/col&gt;, depending on your Herblore level.</xliff:source><xliff:target state="translated">調合レベルによって薬液は&lt;colNum0&gt;強&lt;/col&gt;・ &lt;colNum1&gt;普通&lt;/col&gt;・ &lt;colNum2&gt;弱&lt;/col&gt;を作れます。</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116135"><xliff:source>Weak Golpar potions:</xliff:source><xliff:target state="translated">弱いゴルパル薬液：</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116136"><xliff:source>Standard Golpar potions</xliff:source><xliff:target state="translated">普通のゴルパル薬液</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116137"><xliff:source>Strong Golpar potions</xliff:source><xliff:target state="translated">強いゴルパル薬液</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116138"><xliff:source>Elder potions  with Stinkhorn mushroom</xliff:source><xliff:target state="translated">エルダーの増強薬：クサトゲキノコで</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116139"><xliff:source>Kodai potions  with Endarkened juice</xliff:source><xliff:target state="translated">コダイ増強薬：黒く染まった汁で</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116140"><xliff:source>Twisted potions  with Cicely</xliff:source><xliff:target state="translated">歪んだ増強薬：チチェリで</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116141"><xliff:source>Weak Buchu leaf potions:</xliff:source><xliff:target state="translated">弱いブチュの薬液：</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116142"><xliff:source>Standard Buchu leaf potions</xliff:source><xliff:target state="translated">普通のブチュの薬液</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116143"><xliff:source>Strong Buchu leaf potions</xliff:source><xliff:target state="translated">強いブチュの薬液</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116144"><xliff:source>Revitalisation potions  with Stinkhorn mushroom</xliff:source><xliff:target state="translated">活性化の薬液：クサトゲキノコで</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116145"><xliff:source>Xeric's Aid potions  with Endarkened juice</xliff:source><xliff:target state="translated">ゼリックの援助：黒く染まった汁で</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116146"><xliff:source>Prayer enhance potions  with Cicely</xliff:source><xliff:target state="translated">祈祷強化：チチェリで</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116147"><xliff:source>Weak Noxifer potions:</xliff:source><xliff:target state="translated">弱いノキシファの薬液：</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116148"><xliff:source>Standard Noxifer potions</xliff:source><xliff:target state="translated">普通のノキシファの薬液</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116149"><xliff:source>Strong Noxifer potions</xliff:source><xliff:target state="translated">強いノキシファの薬液</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116150"><xliff:source>Antipoison potions  with Cicely</xliff:source><xliff:target state="translated">解毒剤：チチェリで</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116151"><xliff:source>Overload  with Elder, Kodai &amp; Twisted potions</xliff:source><xliff:target state="translated">限界突破の薬液：エルダー、コダイ、歪んだ薬液で</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="116152"><xliff:source>For overload potions, the tier is capped at the tier of the potions used to make it.</xliff:source><xliff:target state="translated">限界突破の薬液は、素材薬液の作成に必要なレベルによってブースト量が決まる。</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

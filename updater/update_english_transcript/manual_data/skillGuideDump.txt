@@ -3114,3 +3114,22 @@ Adept Hunters' Rumours		interface	generalUI	skillGuide
 Imps (worldwide) Preferred bait: Magical beads		interface	generalUI	skillGuide
 Expert Hunters' Rumours		interface	generalUI	skillGuide
 Master Hunters' Rumours		interface	generalUI	skillGuide
+Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</col>, depending on your Herblore level.		interface	generalUI	skillGuide
+Weak Golpar potions:		interface	generalUI	skillGuide
+Standard Golpar potions		interface	generalUI	skillGuide
+Strong Golpar potions		interface	generalUI	skillGuide
+Elder potions  with Stinkhorn mushroom		interface	generalUI	skillGuide
+Kodai potions  with Endarkened juice		interface	generalUI	skillGuide
+Twisted potions  with Cicely		interface	generalUI	skillGuide
+Weak Buchu leaf potions:		interface	generalUI	skillGuide
+Standard Buchu leaf potions		interface	generalUI	skillGuide
+Strong Buchu leaf potions		interface	generalUI	skillGuide
+Revitalisation potions  with Stinkhorn mushroom		interface	generalUI	skillGuide
+Xeric's Aid potions  with Endarkened juice		interface	generalUI	skillGuide
+Prayer enhance potions  with Cicely		interface	generalUI	skillGuide
+Weak Noxifer potions:		interface	generalUI	skillGuide
+Standard Noxifer potions		interface	generalUI	skillGuide
+Strong Noxifer potions		interface	generalUI	skillGuide
+Antipoison potions  with Cicely		interface	generalUI	skillGuide
+Overload  with Elder, Kodai & Twisted potions		interface	generalUI	skillGuide
+For overload potions, the tier is capped at the tier of the potions used to make it.		interface	generalUI	skillGuide
