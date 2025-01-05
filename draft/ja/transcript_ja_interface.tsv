@@ -2436,7 +2436,7 @@ Bologano fruit	ボロガノの果実	interface	generalUI	skillGuide
 Logavano fruit	ボロガノの果実	interface	generalUI	skillGuide
 Golpar	ゴルパル	interface	generalUI	skillGuide
 Buchu leaf	ブチュ	interface	generalUI	skillGuide
-Noxifer	ノキシファヤ	interface	generalUI	skillGuide
+Noxifer	ノキシファ	interface	generalUI	skillGuide
 Farming Guild - Low tier	農業ギルド：低レベル	interface	generalUI	skillGuide
 Nature offerings (with 68 Woodcutting)	自然へのお供え物（木こり68も）	interface	generalUI	skillGuide
 Farming Guild - Mid tier	農業ギルド：中レベル	interface	generalUI	skillGuide
@@ -3114,3 +3114,22 @@ Adept Hunters' Rumours	達人狩人のルーマー	interface	generalUI	skillGuid
 Imps (worldwide) Preferred bait: Magical beads	小悪魔（世界各地）：エサは魔法のビード	interface	generalUI	skillGuide
 Expert Hunters' Rumours	専門狩人のルーマー	interface	generalUI	skillGuide
 Master Hunters' Rumours	狩人師匠のルーマー	interface	generalUI	skillGuide
+Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</col>, depending on your Herblore level.	調合レベルによって薬液は<colNum0>強</col>・ <colNum1>普通</col>・ <colNum2>弱</col>を作れます。	interface	generalUI	skillGuide
+Weak Golpar potions:	弱いゴルパル薬液：	interface	generalUI	skillGuide
+Standard Golpar potions	普通のゴルパル薬液	interface	generalUI	skillGuide
+Strong Golpar potions	強いゴルパル薬液	interface	generalUI	skillGuide
+Elder potions  with Stinkhorn mushroom	エルダーの増強薬：クサトゲキノコで	interface	generalUI	skillGuide
+Kodai potions  with Endarkened juice	コダイ増強薬：黒く染まった汁で	interface	generalUI	skillGuide
+Twisted potions  with Cicely	歪んだ増強薬：チチェリで	interface	generalUI	skillGuide
+Weak Buchu leaf potions:	弱いブチュの薬液：	interface	generalUI	skillGuide
+Standard Buchu leaf potions	普通のブチュの薬液	interface	generalUI	skillGuide
+Strong Buchu leaf potions	強いブチュの薬液	interface	generalUI	skillGuide
+Revitalisation potions  with Stinkhorn mushroom	活性化の薬液：クサトゲキノコで	interface	generalUI	skillGuide
+Xeric's Aid potions  with Endarkened juice	ゼリックの援助：黒く染まった汁で	interface	generalUI	skillGuide
+Prayer enhance potions  with Cicely	祈祷強化：チチェリで	interface	generalUI	skillGuide
+Weak Noxifer potions:	弱いノキシファの薬液：	interface	generalUI	skillGuide
+Standard Noxifer potions	普通のノキシファの薬液	interface	generalUI	skillGuide
+Strong Noxifer potions	強いノキシファの薬液	interface	generalUI	skillGuide
+Antipoison potions  with Cicely	解毒剤：チチェリで	interface	generalUI	skillGuide
+Overload  with Elder, Kodai & Twisted potions	限界突破の薬液：エルダー、コダイ、歪んだ薬液で	interface	generalUI	skillGuide
+For overload potions, the tier is capped at the tier of the potions used to make it.	限界突破の薬液は、素材薬液の作成に必要なレベルによってブースト量が決まる。	interface	generalUI	skillGuide

@@ -1542,23 +1542,23 @@ Bash	激突	actions	menu	combatOptionsTab
 Blaze	ブレイズ	actions	menu	combatOptionsTab
 Scorch	焦がす	actions	menu	combatOptionsTab
 Flare	フレア	actions	menu	combatOptionsTab
-Last-tier contract		actions	npc	Amy
-Metamorph		actions	npc	Nid
-Choose		actions	npc	Tenoch
-Check-on		actions	npc	Man
+Last-tier contract	以前の契約難易度	actions	npc	Amy
+Metamorph	変形	actions	npc	Nid
+Choose	選択	actions	npc	Tenoch
+Check-on	確認	actions	npc	Man
 Stats	ステータス	actions	npc	Worm Tongue
-Take-5 concoctions		actions	object	Crate
-Take-10 concoctions		actions	object	Crate
-Take-many		actions	object	Medical box
-Slide-along		actions	object	Icy ledge
-Take-uniform		actions	object	Wardrobe
-Concentrate-potion		actions	object	Retort
-Homogenise-potion		actions	object	Agitator
-Crystalise-potion		actions	object	Alembic
-Fulfil-order		actions	object	Conveyor belt
-Fight-privately		actions	object	Meeting flag
-Leave-group		actions	object	Meeting flag (private)
-Quick-slide		actions	object	Slope
+Take-5 concoctions	5個混合物を取る	actions	object	Crate
+Take-10 concoctions	10個混合物を取る	actions	object	Crate
+Take-many	たくさん取る	actions	object	Medical box
+Slide-along	滑る	actions	object	Icy ledge
+Take-uniform	衣装を取る	actions	object	Wardrobe
+Concentrate-potion	薬液を濃縮	actions	object	Retort
+Homogenise-potion	薬液を均一化	actions	object	Agitator
+Crystalise-potion	薬液を結晶化	actions	object	Alembic
+Fulfil-order	出品	actions	object	Conveyor belt
+Fight-privately	個別で戦う	actions	object	Meeting flag
+Leave-group	グループから脱退	actions	object	Meeting flag (private)
+Quick-slide	速く滑る	actions	object	Slope
 Change	変更	actions	object	Scarecrow
 Plant	植える	actions	object	Pumpkin patch
-Carve-pumpkin		actions	object	Pumpkin carving table
+Carve-pumpkin	カボチャを彫る	actions	object	Pumpkin carving table
