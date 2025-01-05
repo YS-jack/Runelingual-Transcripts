@@ -67,7 +67,7 @@ Red dragon	赤竜	name	npc	Red dragon
 Black dragon	黒竜	name	npc	Black dragon
 Green dragon	緑竜	name	npc	Green dragon
 Blue dragon	青竜	name	npc	Blue dragon
-Bronze dragon	銅の竜	name	npc	Bronze dragon
+Bronze dragon	青銅の竜	name	npc	Bronze dragon
 Iron dragon	鉄の竜	name	npc	Iron dragon
 Town Crier	町の触れ役	name	npc	Town Crier
 Gull	カモメ	name	npc	Gull
@@ -272,7 +272,7 @@ Ethereal Guide	優美な案内人	name	npc	Ethereal Guide
 Ethereal Fluke	優美なフルーク	name	npc	Ethereal Fluke
 Ethereal Mimic	優美なミミック	name	npc	Ethereal Mimic
 Me	ワタシ	name	npc	Me
-Suqah	スーカア	name	npc	Suqah
+Suqah	スーカ	name	npc	Suqah
 Scarab Mage	スカラベの魔術師	name	npc	Scarab Mage
 Locust rider	バッタ・ライダー	name	npc	Locust rider
 Giant Scarab	巨大なスカラベ	name	npc	Giant Scarab
@@ -461,7 +461,7 @@ Bouncer	バウンサー	name	npc	Bouncer
 Khazard Ogre	カザードのオーガ	name	npc	Khazard Ogre
 Khazard Scorpion	カザードのサソリ	name	npc	Khazard Scorpion
 Arzinian Avatar of Strength	アージニアンの化身・腕力	name	npc	Arzinian Avatar of Strength
-Arzinian Avatar of Ranging	アージニアンの化身・弓	name	npc	Arzinian Avatar of Ranging
+Arzinian Avatar of Ranging	アージニアンの化身・遠射	name	npc	Arzinian Avatar of Ranging
 Arzinian Avatar of Magic	アージニアンの化身・魔法	name	npc	Arzinian Avatar of Magic
 Arzinian Being of Bordanzan	アージニアンの生命体・ボーダンザン	name	npc	Arzinian Being of Bordanzan
 Saboteur	サボトー	name	npc	Saboteur
@@ -515,7 +515,7 @@ Gyr Falcon	ギール・ファルコン	name	npc	Gyr Falcon
 Prickly kebbit	トゲトゲのケビット	name	npc	Prickly kebbit
 Sabre-toothed kebbit	剣歯ケビット	name	npc	Sabre-toothed kebbit
 Barb-tailed kebbit	とげ尾のケビット	name	npc	Barb-tailed kebbit
-Wild kebbit	野生のケビット	name	npc	Wild kebbit
+Wild kebbit	野生ケビット	name	npc	Wild kebbit
 Artimeus	アーチメウス	name	npc	Artimeus
 Seth Groats	セス・グローツ	name	npc	Seth Groats
 Tassie Slipcast	タシー・スリップカスト	name	npc	Tassie Slipcast
@@ -978,7 +978,7 @@ Gnome companion	ノームの仲間	name	npc	Gnome companion
 Dwarven Boatman	ドワーフの船頭	name	npc	Dwarven Boatman
 Dwarven Miner	ドワーフの鉱夫	name	npc	Dwarven Miner
 Buinn	ブイン	name	npc	Buinn
-Animated Bronze Armour	動く銅の鎧	name	npc	Animated Bronze Armour
+Animated Bronze Armour	動く青銅の鎧	name	npc	Animated Bronze Armour
 Animated Iron Armour	動く鉄の鎧	name	npc	Animated Iron Armour
 Animated Steel Armour	動く鋼鉄の鎧	name	npc	Animated Steel Armour
 Animated Black Armour	動く黒鉄の鎧	name	npc	Animated Black Armour
@@ -1649,7 +1649,7 @@ Tormented Warrior	苦悩する戦士	name	npc	Tormented Warrior
 Fionella	フィオネラ	name	npc	Fionella
 Siegfried Erkle	シエグフライド・エークル	name	npc	Siegfried Erkle
 Nezikchened	ネジクチェンド	name	npc	Nezikchened
-Viyeldi	ヴィイェルディ	name	npc	Viyeldi
+Viyeldi	ヴィーエルディ	name	npc	Viyeldi
 San Tojalon	サン・トジャロン	name	npc	San Tojalon
 Irvig Senay	イーヴィグ・セネイ	name	npc	Irvig Senay
 Ranalph Devere	ラナルフ・デヴェー	name	npc	Ranalph Devere
@@ -2227,7 +2227,7 @@ Sir Rebral	サー・レブラル	name	npc	Sir Rebral
 Toby	トビー	name	npc	Toby
 Twiggy O'Korn	ツイギー・オコーン	name	npc	Twiggy O'Korn
 Spotted kebbit	斑点ケビット	name	npc	Spotted kebbit
-Dark kebbit	暗い色のケビット	name	npc	Dark kebbit
+Dark kebbit	暗ケビット	name	npc	Dark kebbit
 Dashing kebbit	素早いケビット	name	npc	Dashing kebbit
 Enormous Tentacle	巨大な触手	name	npc	Enormous Tentacle
 Vet'ion Jr.	ヴェティオン・Jr.	name	npc	Vet'ion Jr.
@@ -2394,7 +2394,7 @@ Trader	商人	name	npc	Trader
 Trade Referee	貿易審判	name	npc	Trade Referee
 Supreme Commander	最高司令官	name	npc	Supreme Commander
 Gnome traveller	ノームの旅人	name	npc	Gnome traveller
-Ranging Guild Doorman	弓ギルドの玄関係	name	npc	Ranging Guild Doorman
+Ranging Guild Doorman	遠射ギルドの玄関係	name	npc	Ranging Guild Doorman
 Leatherworker	革細工師	name	npc	Leatherworker
 Armour salesman	防具の営業マン	name	npc	Armour salesman
 Bow and Arrow salesman	弓矢の営業マン	name	npc	Bow and Arrow salesman
@@ -2979,7 +2979,7 @@ Arsen the Thief	盗人のアーセン	name	npc	Arsen the Thief
 The Mimic	ザ・ミミック	name	npc	The Mimic
 Yusuf	ユスフ	name	npc	Yusuf
 Francois	フランソワー	name	npc	Francois
-Madame Caldarium	マダム・カルダリウｍｍ	name	npc	Madame Caldarium
+Madame Caldarium	マダム・カルダリウム	name	npc	Madame Caldarium
 Haris	ハリス	name	npc	Haris
 Altarkiz	アルターキズ	name	npc	Altarkiz
 Lord Marshal Brogan	マーシャル・ブローガン様	name	npc	Lord Marshal Brogan
@@ -3441,7 +3441,7 @@ Knight of the Unicorn	ユニコーンの騎士	name	npc	Knight of the Unicorn
 Knight of the Wolf	オオカミの騎士	name	npc	Knight of the Wolf
 Knight of the Lion	ライオンの騎士	name	npc	Knight of the Lion
 Archpriest of the Unicorn	ユニコーンの大司祭	name	npc	Archpriest of the Unicorn
-Darkmeyer Slave	ダーク・メヤーの奴隷	name	npc	Darkmeyer Slave
+Darkmeyer Slave	ダークメヤーの奴隷	name	npc	Darkmeyer Slave
 mad melvin96	mad melvin96	name	npc	mad melvin96
 r2t2pnsh0Ty	r2t2pnsh0Ty	name	npc	r2t2pnsh0Ty
 Jyn	Jyn	name	npc	Jyn
@@ -4084,7 +4084,7 @@ Buffalo	バッファロー	name	npc	Buffalo
 Oryx	オリックス	name	npc	Oryx
 Blood Moon	ブラッド・ムーン	name	npc	Blood Moon
 Eclipse Moon	エクリプス・ムーン	name	npc	Eclipse Moon
-Blue Moon	ブルー・ムーン	name	npc	Blue Moon
+Blue Moon	ブルームーン	name	npc	Blue Moon
 Moon Shield	月の盾	name	npc	Moon Shield
 Blood jaguar	ブラッド・ジャガー	name	npc	Blood jaguar
 Frozen weapons	凍った武器	name	npc	Frozen weapons
@@ -4120,7 +4120,7 @@ Sunlight antelope	日光アンテロープ	name	npc	Sunlight antelope
 Soar Leader Pitri	ソアー・リーダー・ピトリ	name	npc	Soar Leader Pitri
 Orsaga	オーサガ	name	npc	Orsaga
 Orsaga's chinchompa	オーサガのチンチョンパ	name	npc	Orsaga's chinchompa
-Pyre fox	パイヤー・フォックス	name	npc	Pyre fox
+Pyre fox	炎ギツネ	name	npc	Pyre fox
 Embertailed jerboa	火尾トビネズミ	name	npc	Embertailed jerboa
 Metla	メトラ	name	npc	Metla
 Avinia	アヴィニア	name	npc	Avinia
@@ -4172,7 +4172,7 @@ Frog Prin	カエルのプリン	name	npc	Frog Prin
 Frog Prince	カエルの王子	name	npc	Frog Prince
 Frog Princess	カエルの姫	name	npc	Frog Princess
 Enraged Blood Moon	激怒したブラッド・ムーン	name	npc	Enraged Blood Moon
-Enraged Blue Moon	激怒したブルー・ムーン	name	npc	Enraged Blue Moon
+Enraged Blue Moon	激怒したブルームーン	name	npc	Enraged Blue Moon
 Enraged Eclipse Moon	激怒したエクリプス・ムーン	name	npc	Enraged Eclipse Moon
 Hazelmere's hat	ヘイゼルミアの帽子	name	npc	Hazelmere's hat
 Undead Hero	アンデッドのヒーロー	name	npc	Undead Hero

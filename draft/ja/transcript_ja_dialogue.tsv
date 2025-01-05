@@ -556,7 +556,7 @@ Not right now.	今すぐじゃない。	dialogue	Abbot Langley	Player
 Only members of our order can go up there.	あそこに行けるのは、私たちの修道会のメンバーだけだ。	dialogue	Abbot Langley	Abbot Langley
 Oh, sorry.	ああ、すまない。	dialogue	Abbot Langley	Player
 Ah, I was told to expect you, please take this as thanks!	あぁ、君に期待するように言われていたんだ、これはお礼だと思って受け取ってくれ！	dialogue	Abbot Langley	Abbot Langley
-Abbot Langley quickly takes the soft clay, leather boots and bowl of hot water in exchange for a mysterious helmet.	ラングレー僧院長は、不思議なヘルメットと引き換えに、柔らかい粘土、革のブーツ、お湯の入ったボウルをすぐに手にした。	dialogue	Abbot Langley	Abbot Langley
+Abbot Langley quickly takes the soft clay, leather boots and bowl of hot water in exchange for a mysterious helmet.	ラングレー僧院長は、不思議なヘルメットと引き換えに、柔らかい粘土、革のブーツ、お湯の入ったボールをすぐに手にした。	dialogue	Abbot Langley	Abbot Langley
 Congratulations, traveller!	おめでとう、旅人よ！	dialogue	Abbot Langley	Abbot Langley
 Abbot Langley has given you another clue scroll!	ラングレー僧院長が、もうひとつの宝探しの巻物をあなたに渡した！	dialogue	Abbot Langley	Abbot Langley
 Hey, I have something for you but you don't have any space for it!	君に渡したいものがあるんだけど、置く場所がないんだ！	dialogue	Abbot Langley	Abbot Langley
@@ -5811,7 +5811,7 @@ I'd like to collect items.	アイテムを回収したいんだ。	dialogue	Bank
 What is this place?	ここは何ですか？	dialogue	Banker (Canifis)	Banker (Canifis)
 Hello, surface dweller! How can I help you?	こんにちは、地表の住人さん！どうされましたか？	dialogue	Banker (Dorgesh-Kaan)	Banker
 What is this place?	ここは何ですか？	dialogue	Banker (Dorgesh-Kaan)	Player
-This is the Bank of Dorgesh-Kaan! Since surface dwellers began coming into the city, we've made an arrangement with the Bank of Gielinor on the surface, so we can act as one of their branches.	これがドーゲシュ・カアン銀行だ！地表に住む人々がこの街に入ってくるようになってから、私たちは地表にあるギレノー銀行と協定を結び、彼らの支店の1つとして機能できるようになりました。	dialogue	Banker (Dorgesh-Kaan)	Banker
+This is the Bank of Dorgesh-Kaan! Since surface dwellers began coming into the city, we've made an arrangement with the Bank of Gielinor on the surface, so we can act as one of their branches.	これがドーゲシュ・カーン銀行だ！地表に住む人々がこの街に入ってくるようになってから、私たちは地表にあるギレノー銀行と協定を結び、彼らの支店の1つとして機能できるようになりました。	dialogue	Banker (Dorgesh-Kaan)	Banker
 I'd like to access my bank account, please.	銀行口座にアクセスしたいのですが。	dialogue	Banker (Dorgesh-Kaan)	Banker (Dorgesh-Kaan)
 I'd like to check my PIN settings.	暗証番号の設定を確認したい。	dialogue	Banker (Dorgesh-Kaan)	Banker (Dorgesh-Kaan)
 I'd like to collect items.	アイテムを回収したいんだ。	dialogue	Banker (Dorgesh-Kaan)	Banker (Dorgesh-Kaan)
@@ -12656,7 +12656,7 @@ I already know the basics of cooking. Got any tips?		dialogue	Cooking tutor	Cook
 Any advice for an advanced chef?		dialogue	Cooking tutor	Cooking tutor
 Tell me about different food I can make.		dialogue	Cooking tutor	Cooking tutor
 Fish and Meat		dialogue	Cooking tutor	Cooking tutor
-Brewing		dialogue	Cooking tutor	Cooking tutor
+Brewing	醸造酒	dialogue	Cooking tutor	Cooking tutor
 Vegetables		dialogue	Cooking tutor	Cooking tutor
 Pies and Pizza		dialogue	Cooking tutor	Cooking tutor
 Go back to teaching		dialogue	Cooking tutor	Cooking tutor
@@ -21100,7 +21100,7 @@ Tell me about different fish.		dialogue	Fishing tutor	Fishing tutor
 Small Net Fish		dialogue	Fishing tutor	Fishing tutor
 Big Net Fish		dialogue	Fishing tutor	Fishing tutor
 Rod and Fly Fishing		dialogue	Fishing tutor	Fishing tutor
-Lobster pot	ロブスターカゴ	dialogue	Fishing tutor	Fishing tutor
+Lobster pot	ロブスターのカゴ	dialogue	Fishing tutor	Fishing tutor
 Harpoon Fish		dialogue	Fishing tutor	Fishing tutor
 Tell me about...		dialogue	Fishing tutor	Fishing tutor
 Where and what should I fish?		dialogue	Fishing tutor	Fishing tutor
@@ -36506,7 +36506,7 @@ I think I'll have some beef tonight.		dialogue	Lumbridge Cow	Player
 I lost that amulet you gave me.	あなたがくれたアミュレットをなくしてしまったんだ。	dialogue	Lumbridge Guide	Player
 Not to worry. I found it again.	心配はいらない。また見つけたよ。	dialogue	Lumbridge Guide	Lumbridge Guide
 However, you'll need to make space for it before I can give it to you.	ただし、私がそれを渡す前に、あなたはそれを置くスペースを作る必要がある。	dialogue	Lumbridge Guide	Lumbridge Guide
-Phileas hands you the Amulet of the Eye.	フィリアスはあなたに 「目のアミュレット 」を渡す。	dialogue	Lumbridge Guide	Lumbridge Guide
+Phileas hands you the Amulet of the Eye.	フィリアスはあなたに 「ザ・アイのアミュレット 」を渡す。	dialogue	Lumbridge Guide	Lumbridge Guide
 Thanks. I'll try not to lose it this time.	ありがとうございます。今度は失わないようにするよ。	dialogue	Lumbridge Guide	Player
 Any time.	いつでも。	dialogue	Lumbridge Guide	Lumbridge Guide
 Greetings, adventurer. I am Phileas, the Lumbridge Guide. I am here to give information and directions to new players. Is there anything I can help you with?	こんにちは、冒険家。私はフィリアス、ランブリッジの案内人だ。私は新しいプレーヤーに情報と指示を与えるためにここにいます。何かお手伝いできることはありますか？	dialogue	Lumbridge Guide	Lumbridge Guide
@@ -36676,8 +36676,8 @@ They hadn't until recently, but the Z.M.I. found a way there.	最近までそう
 The Z.M.I.? But could that mean...	Z.M.I. ですか?しかし、それはつまり....	dialogue	Lumbridge Guide	Lumbridge Guide
 What?	え？	dialogue	Lumbridge Guide	Player
 Oh, nothing to worry about. Just me being a silly old man. Tell me more about this temple.	ああ、心配することは何もありません。ただ、愚かな老人なのだ。この寺院について詳しく教えてください。	dialogue	Lumbridge Guide	Lumbridge Guide
-It's called the Temple of the Eye. It was built by Saradominist wizards long ago to house a powerful artefact.	目の寺院と呼ばれている。大昔、サラドミニストの魔法使いが強力なアーティファクトを収めるために建てたものだ。	dialogue	Lumbridge Guide	Player
-The Eye?	目？	dialogue	Lumbridge Guide	Lumbridge Guide
+It's called the Temple of the Eye. It was built by Saradominist wizards long ago to house a powerful artefact.	ザ・アイの寺院と呼ばれている。大昔、サラドミニストの魔法使いが強力なアーティファクトを収めるために建てたものだ。	dialogue	Lumbridge Guide	Player
+The Eye?	ザ・アイ？	dialogue	Lumbridge Guide	Lumbridge Guide
 You've heard of it?	聞いたことある？	dialogue	Lumbridge Guide	Player
 Only stories, of which there are very few. Still, I always believed them to be real. After all, why else would an eye be the symbol of the Order of Wizards?	物語だけ、それもほとんどない。それでも、私はいつも彼らが本物だと信じていた。結局のところ、なぜ目が魔術師団のシンボルなのか？	dialogue	Lumbridge Guide	Lumbridge Guide
 Ah, but that reminds me, I was not the first in my family to join the order. This amulet was passed down from generation to generation.	ああ、でもそういえば、私は家族の中で最初に団に入ったわけではなかった。このお守りは代々受け継がれてきた。	dialogue	Lumbridge Guide	Lumbridge Guide
@@ -36693,7 +36693,7 @@ Thanks, Phileas. I wish you luck also.	ありがとう、フィリアス。私�
 Oh, I see. I guess I can't really force you to hand it over. The offer still stands if you ever change your mind.	ああ、なるほど。無理に渡すことはできないだろう。もし気が変わったとしても、オファーはまだ有効だ。	dialogue	Lumbridge Guide	Lumbridge Guide
 Never mind then. I have to go.	じゃあ気にしないで。もう行かなくちゃ。	dialogue	Lumbridge Guide	Player
 You're back. Would you consider giving me that locket? It holds a lot of sentimental value to me. I'll give you that amulet in return.	戻ってきたね。そのロケットを私に譲っていただけませんか？私には感傷的な価値があるんだ。お返しにそのアミュレットをあげよう。	dialogue	Lumbridge Guide	Lumbridge Guide
-Ask about the Amulet of the Eye	目のアミュレットについて尋ねる	dialogue	Lumbridge Guide	Lumbridge Guide
+Ask about the Amulet of the Eye	ザ・アイのアミュレットについて尋ねる	dialogue	Lumbridge Guide	Lumbridge Guide
 Something else	その他	dialogue	Lumbridge Guide	Lumbridge Guide
 Where can I find a quest to go on?	どこに行けばクエストに参加できますか？	dialogue	Lumbridge Guide	Lumbridge Guide
 Yes please.	はい、お願いします。	dialogue	Lumbridge Guide	Lumbridge Guide
@@ -40051,10 +40051,10 @@ You can call me [player name].	私のことは［player name］と呼んでく�
 Ok then, [player name]. My name is Dezzick and I'm a miner by trade. Let's teach you how to mine.	では、［player name］。俺の名前はデジック、本業は鉱夫だ。採掘の仕方を教えてあげよう。	dialogue	Mining Instructor	Mining Instructor
 Mining is very simple, all you need is a pickaxe. The rocks around here contain tin and copper. Why don't you get started by mining some? If you're unsure which is which, you can prospect them to find out.	採掘はとても簡単で、必要なのはツルハシだけだ。この辺りの岩にはスズや銅が含まれている。さっそく採掘してみては？どっちがどっちかわからない場合は、 探ったら調べることができる。	dialogue	Mining Instructor	Mining Instructor
 The rocks around here contain tin and copper. You should try mining some. If you're unsure which is which, you can prospect them to find out.	この辺りの岩にはスズや銅が含まれている。採掘してみたら？どっちがどっちかわからない場合は、 探ったら調べることができる。	dialogue	Mining Instructor	Mining Instructor
-Now that you have some ore, you should smelt it into a bronze bar. You can use the furnace over there to do so.	鉱石が手に入ったので、それを溶解して銅の延べ棒を作ろう。あそこにある炉を使えばいい。	dialogue	Mining Instructor	Mining Instructor
-I have a bronze bar. What now?	銅の延べ棒を持っているよ。どうすればいい？	dialogue	Mining Instructor	Player
-Now that you've got a bar, you can smith it into a weapon. To smith something, you need a hammer and an anvil. There's some anvils just here that you can use. See if you can make a bronze dagger.	延べ棒を手に入れたら、それを鍛えて武器にすることができる。何かを鍛えるには、ハンマーと金床が必要だ。ちょうどここに金床があるから、それを使えばいい。銅の短剣を作れるか見てみよう。	dialogue	Mining Instructor	Mining Instructor
-See if you can use the anvil here to make a bronze dagger.	ここの金床を使って銅の短剣を作れるかどうか見てみよう。	dialogue	Mining Instructor	Mining Instructor
+Now that you have some ore, you should smelt it into a bronze bar. You can use the furnace over there to do so.	鉱石が手に入ったので、それを溶解して青銅の延べ棒を作ろう。あそこにある炉を使えばいい。	dialogue	Mining Instructor	Mining Instructor
+I have a bronze bar. What now?	青銅の延べ棒を持っているよ。どうすればいい？	dialogue	Mining Instructor	Player
+Now that you've got a bar, you can smith it into a weapon. To smith something, you need a hammer and an anvil. There's some anvils just here that you can use. See if you can make a bronze dagger.	延べ棒を手に入れたら、それを鍛えて武器にすることができる。何かを鍛えるには、ハンマーと金床が必要だ。ちょうどここに金床があるから、それを使えばいい。青銅の短剣を作れるか見てみよう。	dialogue	Mining Instructor	Mining Instructor
+See if you can use the anvil here to make a bronze dagger.	ここの金床を使って青銅の短剣を作れるかどうか見てみよう。	dialogue	Mining Instructor	Mining Instructor
 Would you like me to recap anything?	何かまとめましょうか？	dialogue	Mining Instructor	Mining Instructor
 Tell me about prospecting again.	探ることについてもう一度教えてください。	dialogue	Mining Instructor	Player
 It's really very simple. Usually when you go mining you can see if there is ore in a rock or not by its colour.	とてもシンプルなことなんだ。通常、採掘に行くと、岩の色で鉱石があるかどうかがわかる。	dialogue	Mining Instructor	Mining Instructor
@@ -40062,7 +40062,7 @@ If you come across a rock you've not seen before and want to know what it is, or
 then simply right-click on the rock and select prospect to check closely. Anything else you wanted to know?	岩の上で右クリックし、探るを選択するだけでよく確認できる。他に知りたいことは？	dialogue	Mining Instructor	Mining Instructor
 Tell me about mining again.	採掘についてもう一度教えてください。	dialogue	Mining Instructor	Player
 Certainly. To mine you need a pickaxe. Different pickaxes let you mine more efficiently.	もちろん。採掘にはツルハシが必要だ。異なるツルハシを使えば、より効率的に採掘できる。	dialogue	Mining Instructor	Mining Instructor
-Earlier I gave you a bronze pickaxe, which is the most inefficient pickaxe available, but is perfect for a beginner.	先に銅のツルハシを上げたが、これは最も効率の悪いツルハシだが、初心者には最適だ。	dialogue	Mining Instructor	Mining Instructor
+Earlier I gave you a bronze pickaxe, which is the most inefficient pickaxe available, but is perfect for a beginner.	先に青銅のツルハシを上げたが、これは最も効率の悪いツルハシだが、初心者には最適だ。	dialogue	Mining Instructor	Mining Instructor
 To mine, simply click on a rock that contains ore while you have a pickaxe with you, and you will keep mining the rock until you manage to get some ore, or until it is empty.	採掘するには、ツルハシを持っている状態で鉱石を含む岩をクリックするだけで、鉱石が採れるまで、あるいは岩が空になるまで採掘を続けることができる。	dialogue	Mining Instructor	Mining Instructor
 The better the pickaxe you use, the faster you will get ore from the rock you're mining.	良いツルハシを使えば使うほど、採掘している岩から鉱石をより早く得ることができる。	dialogue	Mining Instructor	Mining Instructor
 You will be able to buy better pickaxes from the Dwarven Mine when you reach the mainland, but they can be expensive.	本土に到着したら、ドワーフ鉱山でより良いツルハシを買うことができるが、高価である。	dialogue	Mining Instructor	Mining Instructor
@@ -40078,8 +40078,8 @@ Tell me about Smithing again.	鍛冶についてもう一度教えてくださ�
 When you have acquired enough bars of the metal you wish to work with, you are ready to begin smithing.	使いたい金属の棒が十分に手に入ったら、鍛冶を始める準備だ。	dialogue	Mining Instructor	Mining Instructor
 Take the hammer I gave you, or buy a new one from a general store, and proceed to a nearby anvil.	私が渡したハンマーを持って、あるいは雑貨屋で新しいハンマーを買って、近くの金床まで進みなさい。	dialogue	Mining Instructor	Mining Instructor
 By using a metal bar on an anvil you will be presented with a screen showing the objects you are able to smith at your current level.	金床の上で金属棒を使うと、現在のレベルで鍛錬可能な対象物を示す画面が表示される。	dialogue	Mining Instructor	Mining Instructor
-It's a pretty straightforward skill as I'm sure you discovered while making me that lovely bronze dagger.	銅の短剣を作ってくれたときにわかったと思うけど、とても簡単な技術なんだ。	dialogue	Mining Instructor	Mining Instructor
-The higher Smithing level you are, the better quality the metal you can work with. You start off on bronze and work your way up as your smithing skills increase.	鍛冶のレベルが高ければ高いほど、扱える金属の質も良くなる。最初は銅でスタートし、鍛冶の腕が上がるにつれて上達していく。	dialogue	Mining Instructor	Mining Instructor
+It's a pretty straightforward skill as I'm sure you discovered while making me that lovely bronze dagger.	青銅の短剣を作ってくれたときにわかったと思うけど、とても簡単な技術なんだ。	dialogue	Mining Instructor	Mining Instructor
+The higher Smithing level you are, the better quality the metal you can work with. You start off on bronze and work your way up as your smithing skills increase.	鍛冶のレベルが高ければ高いほど、扱える金属の質も良くなる。最初は青銅でスタートし、鍛冶の腕が上がるにつれて上達していく。	dialogue	Mining Instructor	Mining Instructor
 Nope, I'm ready to move on!	いや、もう準備はできている！	dialogue	Mining Instructor	Player
 Okay then.	それならいい。	dialogue	Mining Instructor	Mining Instructor
 Tell me about prospecting again.	探ることについてもう一度教えてください。	dialogue	Mining Instructor	Mining Instructor
@@ -60813,13 +60813,13 @@ You should check out the combat interface.	コンバット・インターフェ�
 Time for some actual combat! Head into the pen and kill one of those rats.	実戦の時間だ！檻の中に入り、ネズミを1匹殺せ。	dialogue	Vannaka	Combat Instructor
 I did it! I killed a giant rat!	やったよ！巨大なネズミをやっつけた！	dialogue	Vannaka	Player
 I saw. You seem better at this than I thought. Now that you have grasped basic swordplay, let's move on.	見たよ。思っていたより上手に見えるね。基本的な剣さばきを理解したところで、次に進もう。	dialogue	Vannaka	Combat Instructor
-Next up we have ranged attacking. With this you can kill foes from a distance. With ranged, you'll be able to attack the rats without entering the pit meaning they won't be able to fight back.	次は弓だ。これを使えば、遠くから敵を殺すことができる。レンジを使えば、ネズミが反撃できないように、落とし穴に入らずに攻撃することができる。	dialogue	Vannaka	Combat Instructor
+Next up we have ranged attacking. With this you can kill foes from a distance. With ranged, you'll be able to attack the rats without entering the pit meaning they won't be able to fight back.	次は遠射だ。これを使えば、遠くから敵を殺すことができる。レンジを使えば、ネズミが反撃できないように、落とし穴に入らずに攻撃することができる。	dialogue	Vannaka	Combat Instructor
 Use your bow and arrows to kill one of those rats from outside the pen.	弓矢を使って、檻の外でネズミの一匹を殺す。	dialogue	Vannaka	Combat Instructor
 Do you need something?	何か必要なものはありますか？	dialogue	Vannaka	Combat Instructor
 Tell me about combat stats again.	戦闘のステータスについてもう一度教えてください。	dialogue	Vannaka	Player
 Certainly. You have three main combat stats: Strength, Defence and Attack.	もちろん。あなたには3つの主な戦闘ステータスがある： 腕力、守備力、攻撃力だ。	dialogue	Vannaka	Combat Instructor
 Strength determines the maximum hit you will be able to deal with your blows, Defence determines the amount of damage you will be able to defend and Attack determines the accuracy of your blows.	腕力は打撃の最大ヒット数を、守備力は防御のダメージ量を、攻撃力は打撃の正確さを決定する。	dialogue	Vannaka	Combat Instructor
-Other stats are used in combat such as Prayer, Hitpoints, Magic and Ranged. All of these stats can go towards determining your combat level, which is shown near the top of your combat interface screen.	その他のステータスは、祈り、体力、魔法、弓などの戦闘に使用される。これらのステータスはすべて、戦闘インターフェースの画面上部に表示される戦闘レベルを決定する。	dialogue	Vannaka	Combat Instructor
+Other stats are used in combat such as Prayer, Hitpoints, Magic and Ranged. All of these stats can go towards determining your combat level, which is shown near the top of your combat interface screen.	その他のステータスは、祈り、体力、魔法、遠射などの戦闘に使用される。これらのステータスはすべて、戦闘インターフェースの画面上部に表示される戦闘レベルを決定する。	dialogue	Vannaka	Combat Instructor
 You will find out on the mainland that certain items can also affect your stats. There are potions that can be drunk that can alter your stats temporarily, such as raising Strength.	本土に行けば、ある種のアイテムが体力に影響を与えることがわかるだろう。飲むと一時的に体力を上げるなど、ステータスを変化させる増強薬がある。	dialogue	Vannaka	Combat Instructor
 You will also raise your Defence and Attack values by using different weapons and armours.	また、さまざまな武器や防具を使うことで、守備力と攻撃力を上げることができる。	dialogue	Vannaka	Combat Instructor
 Before going into combat with an opponent it is wise to put the mouse over them and see what combat level they are.	相手と戦闘に入る前に、相手の上にマウスを置いて戦闘レベルを確認するのが賢明だ。	dialogue	Vannaka	Combat Instructor
@@ -60838,7 +60838,7 @@ Thinking of being a ranger, eh? Well, okay. I don't enjoy it myself, but I can s
 Ranging employs a lot of different weapons as a skill, not just the shortbow you have there. Spears, throwing knives, and crossbows are all used best at a distance from your enemy.	射撃は、あなたが持っている短弓だけでなく、さまざまな武器をスキルとして採用している。槍、投げナイフ、洋弓銃はいずれも敵から離れた位置で使うのがベストだ。	dialogue	Vannaka	Combat Instructor
 Now, those rats were easy pickings, but on the mainland you will be very lucky if you can find a spot where you can shoot at your enemies without them being able to retaliate.	しかし本土では、敵の反撃を受けずに射撃できる場所を見つけられたら、それはとてもラッキーなことだ。	dialogue	Vannaka	Combat Instructor
 At close range, rangers often do badly in combat. Your best tactic as a ranger is to hit and run, keeping your foe at a distance.	近距離での戦闘では、射手はしばしば不利になる。レンジャーとしての最善の戦術は、ヒット＆ランで敵との距離を保つことだ。	dialogue	Vannaka	Combat Instructor
-Your effectiveness as a ranger is almost entirely dependent on your Ranged stat. As with all skills, the more you train it, the more powerful it will become.	射手としての効果はほとんど弓のステータスに依存する。他のスキル同様、鍛えれば鍛えるほど強力になる。	dialogue	Vannaka	Combat Instructor
+Your effectiveness as a ranger is almost entirely dependent on your Ranged stat. As with all skills, the more you train it, the more powerful it will become.	射手としての効果はほとんど遠射のステータスに依存する。他のスキル同様、鍛えれば鍛えるほど強力になる。	dialogue	Vannaka	Combat Instructor
 Anything else you wanted to know?	他に知りたいことは？	dialogue	Vannaka	Combat Instructor
 Tell me about the Wilderness again.	ウィルダネスについてもう一度教えてください。	dialogue	Vannaka	Player
 Ah yes, the Wilderness. It is a place of evil, mark my words. Many is the colleague I have lost in that foul place.	ああ、そうだ、ウィルダネス。そこは邪悪な場所だ。あの汚い場所で失った同僚は多い。	dialogue	Vannaka	Combat Instructor
@@ -65973,7 +65973,7 @@ Jokes on you! I don't have a bank!		dialogue	Bank Camel	Player
 Well I hope you're very proud of yourself. Your arbitrary restrictions don't make you better than everyone else, you know.		dialogue	Bank Camel	Bank Camel
 Wow, that's harsh.		dialogue	Bank Camel	Player
 Hello, surface dweller! How can I help you?	こんにちは、地表の住人さん！どうされましたか？	dialogue	Banker	Banker
-This is the Bank of Dorgesh-Kaan! Since surface dwellers began coming into the city, we've made an arrangement with the Bank of Gielinor on the surface, so we can act as one of their branches.	これがドーゲシュ・カアン銀行だ！地表に住む人々がこの街に入ってくるようになってから、私たちは地表にあるギレノー銀行と協定を結び、彼らの支店の1つとして機能できるようになりました。	dialogue	Banker	Banker
+This is the Bank of Dorgesh-Kaan! Since surface dwellers began coming into the city, we've made an arrangement with the Bank of Gielinor on the surface, so we can act as one of their branches.	これがドーゲシュ・カーン銀行だ！地表に住む人々がこの街に入ってくるようになってから、私たちは地表にあるギレノー銀行と協定を結び、彼らの支店の1つとして機能できるようになりました。	dialogue	Banker	Banker
 Hi there, can I help you with anything?	こんにちは、何かご用ですか？	dialogue	Banker	Banker
 Is this a bank?	これは銀行ですか？	dialogue	Banker	Player
 Why yes, what else would it be?	そうだ。	dialogue	Banker	Banker

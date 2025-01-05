@@ -297,7 +297,7 @@ source: Fishbowl
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note></xliff:trans-unit><xliff:trans-unit id="41017"><xliff:source>Play-With</xliff:source><xliff:target state="translated">で遊ぶ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Fishbowl
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note></xliff:trans-unit><xliff:trans-unit id="41018"><xliff:source>Feed</xliff:source><xliff:target state="translated">餌を与える</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note></xliff:trans-unit><xliff:trans-unit id="41018"><xliff:source>Feed</xliff:source><xliff:target state="translated">エサを与える</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Fishbowl
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note></xliff:trans-unit><xliff:trans-unit id="41019"><xliff:source>Untangle</xliff:source><xliff:target state="translated">ほどく</xliff:target><xliff:note>category: inventoryActions
@@ -768,7 +768,7 @@ source: Ivandis flail
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22398</xliff:note></xliff:trans-unit><xliff:trans-unit id="41174"><xliff:source>Ver Sinhaza</xliff:source><xliff:target state="translated">ベー・シンハザ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Drakan's medallion
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22400</xliff:note></xliff:trans-unit><xliff:trans-unit id="41175"><xliff:source>Darkmeyer</xliff:source><xliff:target state="translated">ダーク・メヤー</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22400</xliff:note></xliff:trans-unit><xliff:trans-unit id="41175"><xliff:source>Darkmeyer</xliff:source><xliff:target state="translated">ダークメヤー</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Drakan's medallion
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22400</xliff:note></xliff:trans-unit><xliff:trans-unit id="41176"><xliff:source>Slepe</xliff:source><xliff:target state="translated">スレペ</xliff:target><xliff:note>category: inventoryActions
@@ -1170,7 +1170,7 @@ source: Combat bracelet(4)
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41308"><xliff:source>Monastery</xliff:source><xliff:target state="translated">修道院</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Combat bracelet(4)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41309"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">弓ギルド</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41309"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">遠射ギルド</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Combat bracelet(4)
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note></xliff:trans-unit><xliff:trans-unit id="41310"><xliff:source>Fossil Island</xliff:source><xliff:target state="translated">化石島</xliff:target><xliff:note>category: inventoryActions
@@ -1362,7 +1362,7 @@ source: Ring of the elements
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41372"><xliff:source>Fire Altar</xliff:source><xliff:target state="translated">火の祭壇</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ring of the elements
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41373"><xliff:source>Jalsavrah</xliff:source><xliff:target state="translated">ジャルサヴラー</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41373"><xliff:source>Jalsavrah</xliff:source><xliff:target state="translated">ジャルサヴラ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Pharaoh's sceptre
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note></xliff:trans-unit><xliff:trans-unit id="41374"><xliff:source>Jaleustrophos</xliff:source><xliff:target state="translated">ジャルストロフォス</xliff:target><xliff:note>category: inventoryActions

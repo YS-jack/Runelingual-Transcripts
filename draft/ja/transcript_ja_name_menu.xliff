@@ -123,7 +123,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112599">
         <xliff:source>Ranged</xliff:source>
-        <xliff:target state="translated">弓</xliff:target>
+        <xliff:target state="translated">遠射</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: 
@@ -858,7 +858,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112727"><xliff:source>Snare</xliff:source><xliff:target state="translated">スネア</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112728"><xliff:source>Magic Dart</xliff:source><xliff:target state="translated">魔法ダーツ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112728"><xliff:source>Magic Dart</xliff:source><xliff:target state="translated">魔法のダーツ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112729"><xliff:source>Ardougne Teleport</xliff:source><xliff:target state="translated">アルドイン・ワープ</xliff:target><xliff:note>category: name
@@ -1239,7 +1239,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112854"><xliff:source>West Ardougne Teleport</xliff:source><xliff:target state="translated">西アルドイン・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112855"><xliff:source>Superior Demonbane</xliff:source><xliff:target state="translated">優勢</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112855"><xliff:source>Superior Demonbane</xliff:source><xliff:target state="translated">上級悪魔殺し</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112856"><xliff:source>Lesser Corruption</xliff:source><xliff:target state="translated">下位の腐敗</xliff:target><xliff:note>category: name

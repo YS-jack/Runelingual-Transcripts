@@ -14,7 +14,7 @@ Smithing	鍛冶	name	menu
 Defence	守備力	name	menu	
 Herblore	調合	name	menu	
 Fishing	釣り	name	menu	
-Ranged	弓	name	menu	
+Ranged	遠射	name	menu	
 Thieving	盗み	name	menu	
 Cooking	料理	name	menu	
 Prayer	祈り	name	menu	
@@ -143,7 +143,7 @@ Teleport to House	家ワープ	name	menu	spellBookTab
 Crumble Undead	アンデッド崩し	name	menu	spellBookTab
 Iban Blast	アイバン・ブラスト	name	menu	spellBookTab
 Snare	スネア	name	menu	spellBookTab
-Magic Dart	魔法ダーツ	name	menu	spellBookTab
+Magic Dart	魔法のダーツ	name	menu	spellBookTab
 Ardougne Teleport	アルドイン・ワープ	name	menu	spellBookTab
 Earth Blast	アース・ブラスト	name	menu	spellBookTab
 Civitas illa Fortis Teleport	シビリタス・イラ・フォーチス・ワープ	name	menu	spellBookTab
@@ -270,7 +270,7 @@ Resurrect Superior Skeleton	中級スケルトン復活術式	name	menu	spellBoo
 Resurrect Superior Zombie	中級ゾンビ復活術式	name	menu	spellBookTab
 Mark of Darkness	闇の刻印	name	menu	spellBookTab
 West Ardougne Teleport	西アルドイン・ワープ	name	menu	spellBookTab
-Superior Demonbane	優勢	name	menu	spellBookTab
+Superior Demonbane	上級悪魔殺し	name	menu	spellBookTab
 Lesser Corruption	下位の腐敗	name	menu	spellBookTab
 Harmony Island Teleport	ハーモニー島・ワープ	name	menu	spellBookTab
 Vile Vigour	卑劣な活力	name	menu	spellBookTab

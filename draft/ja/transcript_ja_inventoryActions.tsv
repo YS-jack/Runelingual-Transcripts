@@ -96,7 +96,7 @@ Contact	で連絡	inventoryActions	item	Commorb
 Playback	で再生	inventoryActions	item	Commorb
 Talk-At	に話しかける	inventoryActions	item	Fishbowl
 Play-With	で遊ぶ	inventoryActions	item	Fishbowl
-Feed	餌を与える	inventoryActions	item	Fishbowl
+Feed	エサを与える	inventoryActions	item	Fishbowl
 Untangle	ほどく	inventoryActions	item	Fishbowl and net
 Check-charge	チャージ確認	inventoryActions	item	Camulet
 Display	示す	inventoryActions	item	Zombie head
@@ -253,7 +253,7 @@ Charge	チャージする	inventoryActions	item	Sanguinesti staff
 Scry	透視	inventoryActions	item	Oculus orb
 Bloom	咲かせる	inventoryActions	item	Ivandis flail
 Ver Sinhaza	ベー・シンハザ	inventoryActions	item	Drakan's medallion
-Darkmeyer	ダーク・メヤー	inventoryActions	item	Drakan's medallion
+Darkmeyer	ダークメヤー	inventoryActions	item	Drakan's medallion
 Slepe	スレペ	inventoryActions	item	Drakan's medallion
 Tele	ワープ	inventoryActions	item	Rotten carrot
 Kill Bot	ボット抹殺	inventoryActions	item	Rotten carrot
@@ -387,7 +387,7 @@ Cooking Guild	料理ギルド	inventoryActions	item	Skills necklace(4)
 Woodcutting Guild	木こりギルド	inventoryActions	item	Skills necklace(4)
 Champions' Guild	チャンピオン・ギルド	inventoryActions	item	Combat bracelet(4)
 Monastery	修道院	inventoryActions	item	Combat bracelet(4)
-Ranging Guild	弓ギルド	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	遠射ギルド	inventoryActions	item	Combat bracelet(4)
 Fossil Island	化石島	inventoryActions	item	Digsite pendant (1)
 Lithkren Dungeon	リスクレン・ダンジョン	inventoryActions	item	Digsite pendant (1)
 Digsite	発掘現場	inventoryActions	item	Digsite pendant (1)
@@ -451,7 +451,7 @@ Air Altar	大気の祭壇	inventoryActions	item	Ring of the elements
 Water Altar	水の祭壇	inventoryActions	item	Ring of the elements
 Earth Altar	土の祭壇	inventoryActions	item	Ring of the elements
 Fire Altar	火の祭壇	inventoryActions	item	Ring of the elements
-Jalsavrah	ジャルサヴラー	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	ジャルサヴラ	inventoryActions	item	Pharaoh's sceptre
 Jaleustrophos	ジャルストロフォス	inventoryActions	item	Pharaoh's sceptre
 Jaldraocht	ジャルドラオッチ	inventoryActions	item	Pharaoh's sceptre
 Jaltevas	ジャルテヴァス	inventoryActions	item	Pharaoh's sceptre

@@ -147,7 +147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109279">
         <xliff:source>Tithe Farm</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タイス農場</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -187,7 +187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109284">
         <xliff:source>Shooting Stars</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">流れ星</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -2027,7 +2027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109516">
         <xliff:source>Darkmeyer</xliff:source>
-        <xliff:target state="translated">ダーク・メヤー</xliff:target>
+        <xliff:target state="translated">ダークメヤー</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2347,7 +2347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109556">
         <xliff:source>Ranging Guild</xliff:source>
-        <xliff:target state="translated">弓ギルド</xliff:target>
+        <xliff:target state="translated">遠射ギルド</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -6667,7 +6667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110101">
         <xliff:source>Temple of the Eye</xliff:source>
-        <xliff:target state="translated">目の寺院</xliff:target>
+        <xliff:target state="translated">ザ・アイの寺院</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -7611,7 +7611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110219">
         <xliff:source>Bronze Dragons</xliff:source>
-        <xliff:target state="translated">銅の竜</xliff:target>
+        <xliff:target state="translated">青銅の竜</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -7819,7 +7819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110245">
         <xliff:source>Suqahs</xliff:source>
-        <xliff:target state="translated">スーカア</xliff:target>
+        <xliff:target state="translated">スーカ</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -10103,7 +10103,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110541"><xliff:source>Player Owned Houses</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110542"><xliff:source>Tithe Farm</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110542"><xliff:source>Tithe Farm</xliff:source><xliff:target state="translated">タイス農場</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110543"><xliff:source>Last Man Standing</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10118,7 +10118,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110546"><xliff:source>Soul Wars</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110547"><xliff:source>Shooting Stars</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110547"><xliff:source>Shooting Stars</xliff:source><xliff:target state="translated">流れ星</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110548"><xliff:source>Tombs of Amascut</xliff:source><xliff:target state="translated">アマスカットの墓</xliff:target><xliff:note>category: manual
@@ -10808,7 +10808,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110776"><xliff:source>Jormungand's Prison</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110777"><xliff:source>Darkmeyer</xliff:source><xliff:target state="translated">ダーク・メヤー</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110777"><xliff:source>Darkmeyer</xliff:source><xliff:target state="translated">ダークメヤー</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110778"><xliff:source>Meiyerditch Laboratories</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10928,7 +10928,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110816"><xliff:source>Monestery</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110817"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">弓ギルド</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110817"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">遠射ギルド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110818"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: manual
@@ -12548,7 +12548,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111356"><xliff:source>Gain great Prayer XP.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111357"><xliff:source>Temple of the Eye</xliff:source><xliff:target state="translated">目の寺院</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111357"><xliff:source>Temple of the Eye</xliff:source><xliff:target state="translated">ザ・アイの寺院</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111358"><xliff:source>Gain access to the Guardians of the Rift minigame.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -12902,7 +12902,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111474"><xliff:source>Dwarves</xliff:source><xliff:target state="translated">ドワーフ</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111475"><xliff:source>Bronze Dragons</xliff:source><xliff:target state="translated">銅の竜</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111475"><xliff:source>Bronze Dragons</xliff:source><xliff:target state="translated">青銅の竜</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111476"><xliff:source>Iron Dragons</xliff:source><xliff:target state="translated">鉄の竜</xliff:target><xliff:note>category: manual
@@ -12980,7 +12980,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111500"><xliff:source>Goraks</xliff:source><xliff:target state="translated">ゴラク</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111501"><xliff:source>Suqahs</xliff:source><xliff:target state="translated">スーカア</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111501"><xliff:source>Suqahs</xliff:source><xliff:target state="translated">スーカ</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111502"><xliff:source>Brine Rats</xliff:source><xliff:target state="translated">塩水ネズミ</xliff:target><xliff:note>category: manual

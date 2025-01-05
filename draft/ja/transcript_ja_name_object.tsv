@@ -446,7 +446,7 @@ Spooky stairs	不気味な階段	name	object	Spooky stairs
 Sewer pipe	下水管	name	object	Sewer pipe
 Pipe	パイプ	name	object	Pipe
 Manhole cover	マンホールの二タ	name	object	Manhole cover
-Bronze pickaxe	銅のツルハシ	name	object	Bronze pickaxe
+Bronze pickaxe	青銅のツルハシ	name	object	Bronze pickaxe
 Mill	ミル	name	object	Mill
 Marshy jungle vine	湿地のジャングルのツル	name	object	Marshy jungle vine
 Scorched earth	焦げた地面	name	object	Scorched earth
@@ -647,7 +647,7 @@ Stalagmite	石じゅん	name	object	Stalagmite
 Tunnel entrance	トンネルの入口	name	object	Tunnel entrance
 Compost Bin	コンポスト	name	object	Compost Bin
 Cocoon	マユ	name	object	Cocoon
-Fishing rod	釣竿	name	object	Fishing rod
+Fishing rod	釣り竿	name	object	Fishing rod
 Burning bones	燃えている骨	name	object	Burning bones
 Elven lamp	エルフのランプ	name	object	Elven lamp
 Twigs	小枝	name	object	Twigs
@@ -682,11 +682,11 @@ Flaming Fire altar	燃える火の祭壇	name	object	Flaming Fire altar
 Fire altar	火の祭壇	name	object	Fire altar
 Broken Fire altar	壊れた火の祭壇	name	object	Broken Fire altar
 Funeral Pyre	火葬用の木材	name	object	Funeral Pyre
-Solid bronze door	頑丈な銅の扉	name	object	Solid bronze door
+Solid bronze door	頑丈な青銅の扉	name	object	Solid bronze door
 Solid steel door	頑丈な鋼鉄の扉	name	object	Solid steel door
 Solid black door	頑丈な黒鉄の扉	name	object	Solid black door
 Solid silver door	頑丈な銀の扉	name	object	Solid silver door
-Bronze Chest	銅の宝箱	name	object	Bronze Chest
+Bronze Chest	青銅の宝箱	name	object	Bronze Chest
 Steel Chest	鋼鉄の宝箱	name	object	Steel Chest
 Black Chest	黒鉄の宝箱	name	object	Black Chest
 Silver Chest	銀の宝箱	name	object	Silver Chest
@@ -1227,15 +1227,15 @@ Broken mace trap	壊れた槌矛の罠	name	object	Broken mace trap
 Dense runestone	濃密なルーンストーン	name	object	Dense runestone
 Depleted runestone	枯渇したルーンストーン	name	object	Depleted runestone
 Pinball Post	ピンボール・ポスト	name	object	Pinball Post
-Light Jungle	軽いジャングル	name	object	Light Jungle
-Medium Jungle	中程度のジャングル	name	object	Medium Jungle
-Dense Jungle	密なジャングル	name	object	Dense Jungle
+Light Jungle	低密度なジャングル	name	object	Light Jungle
+Medium Jungle	中密度なジャングル	name	object	Medium Jungle
+Dense Jungle	高密度なジャングル	name	object	Dense Jungle
 Rotten village fence	腐った村のフェンス	name	object	Rotten village fence
 Partial fence	フェンスの一部	name	object	Partial fence
 Short fence	短いフェンス	name	object	Short fence
 Medium fence	中程度のフェンス	name	object	Medium fence
 Village fence	村のフェンス	name	object	Village fence
-Gem Rock	宝石の原石	name	object	Gem Rock
+Gem Rock	宝石の原岩	name	object	Gem Rock
 Gout Tuber Plant	ガウト・チューバー	name	object	Gout Tuber Plant
 Mahogany tree	マホガニーの木	name	object	Mahogany tree
 Teak tree	チークの木	name	object	Teak tree
@@ -1382,7 +1382,7 @@ Danger Sign	危険標識	name	object	Danger Sign
 Doric's Whetstone	ドリックの砥石	name	object	Doric's Whetstone
 Torch	松明	name	object	Torch
 Coin Collector	コイン回収機	name	object	Coin Collector
-Food chute	餌落とし	name	object	Food chute
+Food chute	エサ落とし	name	object	Food chute
 Bank	銀行	name	object	Bank
 Stones	石	name	object	Stones
 Overhanging rock	突き出た岩	name	object	Overhanging rock
@@ -1432,7 +1432,7 @@ Mithril rocks	ミスリルの岩	name	object	Mithril rocks
 Adamantite rocks	アダマンタイトの岩	name	object	Adamantite rocks
 Runite rocks	ルーナイトの岩	name	object	Runite rocks
 Blurite rocks	ブルライトの岩	name	object	Blurite rocks
-Gem rocks	宝石の原石	name	object	Gem rocks
+Gem rocks	宝石の原岩	name	object	Gem rocks
 Limestone rock	石灰岩の岩	name	object	Limestone rock
 Pile of rock	岩の山	name	object	Pile of rock
 Sandstone rocks	砂岩の岩	name	object	Sandstone rocks
@@ -1559,7 +1559,7 @@ Old tree	古い木	name	object	Old tree
 Crude boat	粗末なボート	name	object	Crude boat
 Rock and string	岩と紐	name	object	Rock and string
 Pile of Rock	岩の山	name	object	Pile of Rock
-Bronze axe	銅の斧	name	object	Bronze axe
+Bronze axe	青銅の斧	name	object	Bronze axe
 Washbasin	洗面台	name	object	Washbasin
 Colony gate	植民地の門	name	object	Colony gate
 Broken wall	壊れた壁	name	object	Broken wall
@@ -1587,7 +1587,7 @@ Boxing ring	ボクシングのリング	name	object	Boxing ring
 Fencing ring	フェンシングのリング	name	object	Fencing ring
 Combat ring	対戦リング	name	object	Combat ring
 Balance beam	平均台	name	object	Balance beam
-Ranging spot	弓スポット	name	object	Ranging spot
+Ranging spot	遠射スポット	name	object	Ranging spot
 Shoe box	下駄箱	name	object	Shoe box
 Oak drawers	樫の引き出し	name	object	Oak drawers
 Oak wardrobe	樫のタンス	name	object	Oak wardrobe
@@ -1845,7 +1845,7 @@ Game space	ゲームのスペース	name	object	Game space
 Prize chest space	景品入れのスペース	name	object	Prize chest space
 Stone space	石のスペース	name	object	Stone space
 Elemental balance space	均衡のエレメンタルのスペース	name	object	Elemental balance space
-Ranging game space	弓ゲームのスペース	name	object	Ranging game space
+Ranging game space	遠射ゲームのスペース	name	object	Ranging game space
 Floor space mid	床中央のスペース	name	object	Floor space mid
 Floor space side	床横のスペース	name	object	Floor space side
 Floor space corner	床端のスペース	name	object	Floor space corner
@@ -2256,7 +2256,7 @@ Books	本	name	object	Books
 Camping equipment	キャンプ用具	name	object	Camping equipment
 Stone pedestal	石の台座	name	object	Stone pedestal
 Stone door	石の扉	name	object	Stone door
-Birdseed holder	鳥餌の種ホルダー	name	object	Birdseed holder
+Birdseed holder	鳥エサの種ホルダー	name	object	Birdseed holder
 Bird feeder	鳥のエサ入れ	name	object	Bird feeder
 Giant feathers	巨大な羽	name	object	Giant feathers
 Rocky outcrop	岩の露頭	name	object	Rocky outcrop
@@ -2647,8 +2647,8 @@ Potion	薬液	name	object	Potion
 Spectator potion	観戦の薬液	name	object	Spectator potion
 Dominic's coffer	ドミニックの前払い金	name	object	Dominic's coffer
 Rewards chest	報酬の宝箱	name	object	Rewards chest
-Super ranging potion	超弓薬	name	object	Super ranging potion
-Super magic potion	超魔法薬	name	object	Super magic potion
+Super ranging potion	遠射の超増強薬	name	object	Super ranging potion
+Super magic potion	魔力の超増強薬	name	object	Super magic potion
 Overload potion	限界突破薬	name	object	Overload potion
 Absorption potion	吸収の薬液	name	object	Absorption potion
 Anti-dragon shield	ドラゴン耐性の盾	name	object	Anti-dragon shield
@@ -2662,9 +2662,9 @@ Earth rune	土のルーン	name	object	Earth rune
 Fire rune	火のルーン	name	object	Fire rune
 Bear droppings	クマのフン	name	object	Bear droppings
 Pet house space	ペットの家のスペース	name	object	Pet house space
-Oak house	樫の家	name	object	Oak house
-Teak house	チークの家	name	object	Teak house
-Mahogany house	マホガニーの家	name	object	Mahogany house
+Oak house	樫のハウス	name	object	Oak house
+Teak house	チークのハウス	name	object	Teak house
+Mahogany house	マホガニーのハウス	name	object	Mahogany house
 Battle tower	戦闘の塔	name	object	Battle tower
 Broken catapult	壊れたカタパルト	name	object	Broken catapult
 Crossbow	洋弓銃	name	object	Crossbow
@@ -2714,9 +2714,9 @@ Volcanic Forge	火山の炉	name	object	Volcanic Forge
 Wilderness Statistics	ウィルダネスの統計	name	object	Wilderness Statistics
 Artefacts	人工物	name	object	Artefacts
 Cavern	大洞窟	name	object	Cavern
-Consecrated house	聖別された家	name	object	Consecrated house
-Desecrated house	冒涜された家	name	object	Desecrated house
-Nature house	自然の家	name	object	Nature house
+Consecrated house	聖別されたハウス	name	object	Consecrated house
+Desecrated house	冒涜されたハウス	name	object	Desecrated house
+Nature house	自然のハウス	name	object	Nature house
 Habitat space	生息スペース	name	object	Habitat space
 Igloo	イグルー	name	object	Igloo
 Crater	クレーター	name	object	Crater
@@ -2738,7 +2738,7 @@ Mahogany feeder	マホガニーのエサ入れ	name	object	Mahogany feeder
 Appendage	付属物	name	object	Appendage
 The Font of Consumption	消費の源泉	name	object	The Font of Consumption
 The Overseer	監督者	name	object	The Overseer
-Slimy residue	ヌルヌルした残留物	name	object	Slimy residue
+Slimy residue	粘々な残留物	name	object	Slimy residue
 Boils	吹き出物	name	object	Boils
 Overseer's book	監督者の本	name	object	Overseer's book
 Old log	古い丸太	name	object	Old log
@@ -2844,7 +2844,7 @@ Dodgy ground	危険な地盤	name	object	Dodgy ground
 Broken ground	壊れた地盤	name	object	Broken ground
 Dart trap	ダーツの罠	name	object	Dart trap
 Locked chest	閉じている宝箱	name	object	Locked chest
-Bronze Door	銅のドア	name	object	Bronze Door
+Bronze Door	青銅のドア	name	object	Bronze Door
 Burning brazier	燃えている火鉢	name	object	Burning brazier
 Large boulder	大きな岩	name	object	Large boulder
 Monkey trap	サルの罠	name	object	Monkey trap
@@ -2943,8 +2943,8 @@ Mounted Mining Cape	装着された採掘マント	name	object	Mounted Mining Ca
 Mounted Mining Cape (t)	装着された採掘マント（縁）	name	object	Mounted Mining Cape (t)
 Mounted Prayer Cape	装着された祈りマント	name	object	Mounted Prayer Cape
 Mounted Prayer Cape (t)	装着された祈りマント（縁）	name	object	Mounted Prayer Cape (t)
-Mounted Ranged Cape	装着された弓マント	name	object	Mounted Ranged Cape
-Mounted Ranged Cape (t)	装着された弓マント（縁）	name	object	Mounted Ranged Cape (t)
+Mounted Ranged Cape	装着された遠射マント	name	object	Mounted Ranged Cape
+Mounted Ranged Cape (t)	装着された遠射マント（縁）	name	object	Mounted Ranged Cape (t)
 Mounted Runecrafting Cape	装着されたルーン作りマント	name	object	Mounted Runecrafting Cape
 Mounted Runecrafting Cape (t)	装着されたルーン作りマント（縁）	name	object	Mounted Runecrafting Cape (t)
 Mounted Slayer Cape	装着された討伐マント	name	object	Mounted Slayer Cape
@@ -3068,7 +3068,7 @@ Large crystals	大きな水晶	name	object	Large crystals
 Energy well	力の源	name	object	Energy well
 Medivaemia root	メジバエミアの根	name	object	Medivaemia root
 Burst boil	破裂した吹き出物	name	object	Burst boil
-Slimy pillars	ヌルヌルした柱	name	object	Slimy pillars
+Slimy pillars	粘々な柱	name	object	Slimy pillars
 Bucket of Blood	血のバケツ	name	object	Bucket of Blood
 Strange Bells	不思議なベル	name	object	Strange Bells
 Timeline	タイムライン	name	object	Timeline
@@ -3456,7 +3456,7 @@ Little boulder	小さな岩	name	object	Little boulder
 Old fire pit	古い焚火	name	object	Old fire pit
 Fire of Domination	支配の火	name	object	Fire of Domination
 Fire of Nourishment	滋養の火	name	object	Fire of Nourishment
-Fire of Eternal Light	栄光の光の火	name	object	Fire of Eternal Light
+Fire of Eternal Light	不滅な光の火	name	object	Fire of Eternal Light
 Fire of Unseasonal Warmth	季節外れの暖気の火	name	object	Fire of Unseasonal Warmth
 Fire of Dehumidification	除湿の火	name	object	Fire of Dehumidification
 Larran's small chest	ラランの小さな宝箱	name	object	Larran's small chest
@@ -3855,7 +3855,7 @@ Unicorn	ユニコーン	name	object	Unicorn
 Mounted harpoonfish	銛魚の標本	name	object	Mounted harpoonfish
 Ropes	縄	name	object	Ropes
 Buckets	バケツ	name	object	Buckets
-Harpoons	もり	name	object	Harpoons
+Harpoons	銛	name	object	Harpoons
 Damaged mast	損傷したマスト	name	object	Damaged mast
 Water pump	水入れポンプ	name	object	Water pump
 Damaged totem pole	損傷したトーテム・ポール	name	object	Damaged totem pole
@@ -4202,7 +4202,7 @@ Mahogany Homes Display	マホガニー・ホームの展示	name	object	Mahogany
 Ferox Enclave Display	フェロックス・オンクレーブの展示	name	object	Ferox Enclave Display
 Porcine of Interest Display	注目のブタの展示	name	object	Porcine of Interest Display
 Soul Wars Display	ソウル・ウォーズの展示	name	object	Soul Wars Display
-Darkmeyer Display	ダーク・メヤーの展示	name	object	Darkmeyer Display
+Darkmeyer Display	ダークメヤーの展示	name	object	Darkmeyer Display
 Shades of Mort'ton Rework Display	モートンの陰の改良の展示	name	object	Shades of Mort'ton Rework Display
 Trailblazer League Display	トレールブレイザー・リーグの展示	name	object	Trailblazer League Display
 Tzhaar-Ket-Rak Display	ツザー・ケット・ラクの展示	name	object	Tzhaar-Ket-Rak Display
@@ -4506,7 +4506,7 @@ Column of Kourend	クーレンドの柱	name	object	Column of Kourend
 Column of Imafore's Betrayal	イマフォーの裏切りの柱	name	object	Column of Imafore's Betrayal
 Armour of the Cloud Titan	クラウド・タイタンの鎧	name	object	Armour of the Cloud Titan
 Old One Statue	古いモノの像	name	object	Old One Statue
-Fang of the Colossal Wyrm	巨大ヒドラの牙	name	object	Fang of the Colossal Wyrm
+Fang of the Colossal Wyrm	巨大ワームの牙	name	object	Fang of the Colossal Wyrm
 Statue of King Maximus	マクシマス王の像	name	object	Statue of King Maximus
 Statue of Queen Zyanyi	ジアニー女王の像	name	object	Statue of Queen Zyanyi
 Statue of Prince Itzla	イツズラ王子の像	name	object	Statue of Prince Itzla
@@ -4520,8 +4520,8 @@ Leafy bush	葉がたくさん茂る低木	name	object	Leafy bush
 Rough-looking bush	荒々しそうな低木	name	object	Rough-looking bush
 Crypt staircase	地下への階段	name	object	Crypt staircase
 Unlit brazier	未点火の火鉢	name	object	Unlit brazier
-Trail of chocolate	チョコレートの跡	name	object	Trail of chocolate
-Pile of chocolate	チョコレートの山	name	object	Pile of chocolate
+Trail of chocolate	チョコの跡	name	object	Trail of chocolate
+Pile of chocolate	チョコの山	name	object	Pile of chocolate
 Easter egg rock	イースターエッグの岩	name	object	Easter egg rock
 Easter mine cart	イースターのトロッコ	name	object	Easter mine cart
 Pile of eggs	卵の山	name	object	Pile of eggs

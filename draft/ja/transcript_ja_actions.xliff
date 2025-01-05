@@ -219,7 +219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41285">
         <xliff:source>Bait</xliff:source>
-        <xliff:target state="translated">餌を落とす</xliff:target>
+        <xliff:target state="translated">エサを落とす</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Rod Fishing spot
@@ -587,7 +587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41331">
         <xliff:source>Harpoon</xliff:source>
-        <xliff:target state="translated">もりで釣る</xliff:target>
+        <xliff:target state="translated">銛で釣る</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Fishing spot
@@ -1739,7 +1739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41475">
         <xliff:source>Feed</xliff:source>
-        <xliff:target state="translated">餌を与える</xliff:target>
+        <xliff:target state="translated">エサを与える</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Lux grub
@@ -4667,7 +4667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41841">
         <xliff:source>Bait</xliff:source>
-        <xliff:target state="translated">餌を落とす</xliff:target>
+        <xliff:target state="translated">エサを落とす</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Ominous Fishing Spot
@@ -6571,7 +6571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42079">
         <xliff:source>Feed</xliff:source>
-        <xliff:target state="translated">餌を与える</xliff:target>
+        <xliff:target state="translated">エサを与える</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Burning brazier
@@ -8563,7 +8563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42328">
         <xliff:source>Ranging Guild</xliff:source>
-        <xliff:target state="translated">弓ギルド</xliff:target>
+        <xliff:target state="translated">遠射ギルド</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Fancy Jewellery Box
@@ -10133,7 +10133,7 @@ source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109869"><xliff:source>View &lt;colNum0&gt;Fishing&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;釣り&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: skillsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109870"><xliff:source>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;弓&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109870"><xliff:source>View &lt;colNum0&gt;Ranged&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;遠射&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109871"><xliff:source>View &lt;colNum0&gt;Thieving&lt;/col&gt; guide</xliff:source><xliff:target state="translated">&lt;colNum0&gt;盗み&lt;/col&gt;のガイドを表示</xliff:target><xliff:note>category: actions

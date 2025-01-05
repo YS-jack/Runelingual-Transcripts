@@ -26,7 +26,7 @@ Kill	殺す	actions	npc	Pheasant
 Disturb	邪魔する	actions	npc	Phosani's Nightmare
 Gauntlets	手袋をもらう	actions	npc	Avan
 Lure	ルアーを落とす	actions	npc	Rod Fishing spot
-Bait	餌を落とす	actions	npc	Rod Fishing spot
+Bait	エサを落とす	actions	npc	Rod Fishing spot
 Pickpocket	盗む	actions	npc	Guard
 Assignment	討伐任務を受ける	actions	npc	Turael
 Search	探す	actions	npc	Entomologist
@@ -72,7 +72,7 @@ Small Net	小さい漁網で釣る	actions	npc	Fishing spot
 Net	網で釣る	actions	npc	Fishing spot
 Ammo	大砲弾	actions	npc	Leon
 Cage	カゴで釣る	actions	npc	Fishing spot
-Harpoon	もりで釣る	actions	npc	Fishing spot
+Harpoon	銛で釣る	actions	npc	Fishing spot
 Big Net	大きな魚網で釣る	actions	npc	Fishing spot
 Use-rod	竿を使う	actions	npc	Fishing spot
 Escort	エスコート	actions	npc	Smiddi Ryak (hard)
@@ -216,7 +216,7 @@ Check Scores	得点を確認	actions	npc	Captain Kalt
 Contract	契約	actions	npc	Amy
 Port Sarim	サリム港へ移動	actions	npc	Captain Magoro
 Port Piscarilius	ピスカリリウス港へ移動	actions	npc	Captain Magoro
-Feed	餌を与える	actions	npc	Lux grub
+Feed	エサを与える	actions	npc	Lux grub
 Douse	消火	actions	npc	Fire
 Cut	切る	actions	npc	Meat tree
 Smash	砕く	actions	npc	Jewelled Crab
@@ -582,7 +582,7 @@ Swap-options	オプションを入れ替える	actions	object	Lever
 Talk to	話しかける	actions	object	Tree
 Exchange	交換	actions	object	Grand Exchange booth
 Lure	ルアーを落とす	actions	object	Ominous Fishing Spot
-Bait	餌を落とす	actions	object	Ominous Fishing Spot
+Bait	エサを落とす	actions	object	Ominous Fishing Spot
 Fish-In	釣る	actions	object	Aquarium
 Count	数える	actions	object	Pressure Barrel
 Swim	泳ぐ	actions	object	River
@@ -820,7 +820,7 @@ Jars	瓶	actions	object	Boss lair display
 Perks	特性	actions	object	Mounted Max Cape
 Spellbook	魔導書を変更	actions	object	Mounted Magic Cape
 Clip	切り取る	actions	object	Topiary bush
-Feed	餌を与える	actions	object	Burning brazier
+Feed	エサを与える	actions	object	Burning brazier
 Take-hammer	ハンマーを取る	actions	object	Crate
 Take-knife	ナイフを取る	actions	object	Crate
 Take-tinderbox	火口箱を取る	actions	object	Crate
@@ -1069,7 +1069,7 @@ Wintertodt Camp	ウィンタートッド・キャンプ	actions	object	Basic Jew
 Warriors' Guild	戦士ギルド	actions	object	Fancy Jewellery Box
 Champions' Guild	チャンピオン・ギルド	actions	object	Fancy Jewellery Box
 Monastery	修道院	actions	object	Fancy Jewellery Box
-Ranging Guild	弓ギルド	actions	object	Fancy Jewellery Box
+Ranging Guild	遠射ギルド	actions	object	Fancy Jewellery Box
 Mining Guild	採掘ギルド	actions	object	Fancy Jewellery Box
 Crafting Guild	工作ギルド	actions	object	Fancy Jewellery Box
 Cooking Guild	料理ギルド	actions	object	Fancy Jewellery Box
@@ -1341,7 +1341,7 @@ View <colNum0>Smithing</col> guide	<colNum0>鍛冶</col>のガイドを表示	ac
 View <colNum0>Defence</col> guide	<colNum0>守備力</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Herblore</col> guide	<colNum0>調合</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Fishing</col> guide	<colNum0>釣り</col>のガイドを表示	actions	menu	skillsTab
-View <colNum0>Ranged</col> guide	<colNum0>弓</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	<colNum0>遠射</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Thieving</col> guide	<colNum0>盗み</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Cooking</col> guide	<colNum0>料理</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Prayer</col> guide	<colNum0>祈り</col>のガイドを表示	actions	menu	skillsTab
