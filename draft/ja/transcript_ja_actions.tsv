@@ -1562,3 +1562,8 @@ Quick-slide	速く滑る	actions	object	Slope
 Change	変更	actions	object	Scarecrow
 Plant	植える	actions	object	Pumpkin patch
 Carve-pumpkin	カボチャを彫る	actions	object	Pumpkin carving table
+Setup		actions	npc	Ironman tutor
+Drink-from		actions	object	Cauldron
+Big-search		actions	object	Reward pool
+Take-chisel		actions	object	Weak cells
+Channel (Varlamore)		actions	object	Waystone

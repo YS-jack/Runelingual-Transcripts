@@ -467,3 +467,18 @@ Ralos' Rise		inventoryActions	item	Pendant of ates
 North Aldarin		inventoryActions	item	Pendant of ates
 Colour		inventoryActions	item	Beige pumpkin (disgusted)
 Carve		inventoryActions	item	Beige pumpkin (disgusted)
+Change-Style		inventoryActions	item	Infernal harpoon (or)
+Teleport-back		inventoryActions	item	Crystal of echoes
+Check-memories		inventoryActions	item	Crystal of echoes
+Save-memory		inventoryActions	item	Crystal of echoes
+League Debug		inventoryActions	item	League tomato
+Setups		inventoryActions	item	League tomato
+Withdraw-all		inventoryActions	item	Forager's pouch
+Withdraw-last		inventoryActions	item	Forager's pouch
+Current-step		inventoryActions	item	Clue compass
+Collect		inventoryActions	item	Pocket kingdom
+Manage-kingdom		inventoryActions	item	Pocket kingdom
+Relic Emote		inventoryActions	item	Raging echoes cane
+Detatch		inventoryActions	item	Echo venator bow
+Detach		inventoryActions	item	Echo venator bow (uncharged)
+Read-address		inventoryActions	item	Invitations

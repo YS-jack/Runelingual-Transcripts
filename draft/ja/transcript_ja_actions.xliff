@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="41258">
@@ -10796,6 +10797,21 @@ source: Pumpkin patch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55621</xliff:note></xliff:trans-unit><xliff:trans-unit id="110090"><xliff:source>Carve-pumpkin</xliff:source><xliff:target state="translated">カボチャを彫る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Pumpkin carving table
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit><xliff:trans-unit id="110091"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: npc
+source: Ironman tutor
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=311</xliff:note></xliff:trans-unit><xliff:trans-unit id="110092"><xliff:source>Drink-from</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: object
+source: Cauldron
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2024</xliff:note></xliff:trans-unit><xliff:trans-unit id="110093"><xliff:source>Big-search</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: object
+source: Reward pool
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="110094"><xliff:source>Take-chisel</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: object
+source: Weak cells
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=43733</xliff:note></xliff:trans-unit><xliff:trans-unit id="110095"><xliff:source>Channel (Varlamore)</xliff:source><xliff:target/><xliff:note>category: actions
+sub_category: object
+source: Waystone
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="40921">
@@ -1392,24 +1393,69 @@ source: Ring of shadows
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41382"><xliff:source>The Stranglewood</xliff:source><xliff:target state="translated">ストラングルウッド</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ring of shadows
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41383"><xliff:source>The Darkfrost</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note></xliff:trans-unit><xliff:trans-unit id="41383"><xliff:source>The Darkfrost</xliff:source><xliff:target/><xliff:note>category: inventoryActions
 sub_category: item
 source: Pendant of ates
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41384"><xliff:source>Twilight Temple</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41384"><xliff:source>Twilight Temple</xliff:source><xliff:target/><xliff:note>category: inventoryActions
 sub_category: item
 source: Pendant of ates
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41385"><xliff:source>Ralos' Rise</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41385"><xliff:source>Ralos' Rise</xliff:source><xliff:target/><xliff:note>category: inventoryActions
 sub_category: item
 source: Pendant of ates
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41386"><xliff:source>North Aldarin</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41386"><xliff:source>North Aldarin</xliff:source><xliff:target/><xliff:note>category: inventoryActions
 sub_category: item
 source: Pendant of ates
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41387"><xliff:source>Colour</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note></xliff:trans-unit><xliff:trans-unit id="41387"><xliff:source>Colour</xliff:source><xliff:target/><xliff:note>category: inventoryActions
 sub_category: item
 source: Beige pumpkin (disgusted)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30237</xliff:note></xliff:trans-unit><xliff:trans-unit id="41388"><xliff:source>Carve</xliff:source><xliff:target></xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30237</xliff:note></xliff:trans-unit><xliff:trans-unit id="41388"><xliff:source>Carve</xliff:source><xliff:target/><xliff:note>category: inventoryActions
 sub_category: item
 source: Beige pumpkin (disgusted)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30237</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30237</xliff:note></xliff:trans-unit><xliff:trans-unit id="41389"><xliff:source>Change-Style</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Infernal harpoon (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25059</xliff:note></xliff:trans-unit><xliff:trans-unit id="41390"><xliff:source>Teleport-back</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="41391"><xliff:source>Check-memories</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="41392"><xliff:source>Save-memory</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="41393"><xliff:source>League Debug</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: League tomato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25117</xliff:note></xliff:trans-unit><xliff:trans-unit id="41394"><xliff:source>Setups</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: League tomato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25117</xliff:note></xliff:trans-unit><xliff:trans-unit id="41395"><xliff:source>Withdraw-all</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Forager's pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note></xliff:trans-unit><xliff:trans-unit id="41396"><xliff:source>Withdraw-last</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Forager's pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note></xliff:trans-unit><xliff:trans-unit id="41397"><xliff:source>Current-step</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Clue compass
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30363</xliff:note></xliff:trans-unit><xliff:trans-unit id="41398"><xliff:source>Collect</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Pocket kingdom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note></xliff:trans-unit><xliff:trans-unit id="41399"><xliff:source>Manage-kingdom</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Pocket kingdom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note></xliff:trans-unit><xliff:trans-unit id="41400"><xliff:source>Relic Emote</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Raging echoes cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30428</xliff:note></xliff:trans-unit><xliff:trans-unit id="41401"><xliff:source>Detatch</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Echo venator bow
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30434</xliff:note></xliff:trans-unit><xliff:trans-unit id="41402"><xliff:source>Detach</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Echo venator bow (uncharged)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30436</xliff:note></xliff:trans-unit><xliff:trans-unit id="41403"><xliff:source>Read-address</xliff:source><xliff:target/><xliff:note>category: inventoryActions
+sub_category: item
+source: Invitations
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30493</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
