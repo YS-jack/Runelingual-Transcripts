@@ -3403,3 +3403,51 @@ Category: Gun	カテゴリ：銃	interface	mainTabs	combatOptionsTab
 Category: Bladed Staff	カテゴリ：刃付き杖	interface	mainTabs	combatOptionsTab
 Category: Salamander	カテゴリ：サラマンダ	interface	mainTabs	combatOptionsTab
 Category: Multi-style	カテゴリ：多スタイル	interface	mainTabs	combatOptionsTab
+Total level: <Num0>	合計レベル：<Num0>	interface	mainTabs	skillsTab
+Attack XP:	攻撃力XP：	interface	mainTabs	skillsTab
+Hitpoints XP:	体力XP：	interface	mainTabs	skillsTab
+Mining XP:	採掘XP：	interface	mainTabs	skillsTab
+Smithing XP:	鍛冶XP：	interface	mainTabs	skillsTab
+Agility XP:	運動神経XP：	interface	mainTabs	skillsTab
+Strength XP:	腕力XP：	interface	mainTabs	skillsTab
+Defence XP:	守備力XP：	interface	mainTabs	skillsTab
+Ranged XP:	遠射XP：	interface	mainTabs	skillsTab
+Prayer XP:	祈りXP：	interface	mainTabs	skillsTab
+Magic XP:	魔法XP：	interface	mainTabs	skillsTab
+Runecraft XP:	ルーン作りXP：	interface	mainTabs	skillsTab
+Construction XP:	建築XP：	interface	mainTabs	skillsTab
+Hunter XP:	狩人XP：	interface	mainTabs	skillsTab
+Slayer XP:	討伐XP：	interface	mainTabs	skillsTab
+Fletching XP:	木造加工XP：	interface	mainTabs	skillsTab
+Crafting XP:	工作XP：	interface	mainTabs	skillsTab
+Thieving XP:	盗みXP：	interface	mainTabs	skillsTab
+Herblore XP:	調合XP：	interface	mainTabs	skillsTab
+Fishing XP:	釣りXP：	interface	mainTabs	skillsTab
+Cooking XP:	料理XP：	interface	mainTabs	skillsTab
+Firemaking XP:	火起こしXP：	interface	mainTabs	skillsTab
+Woodcutting XP:	木こりXP：	interface	mainTabs	skillsTab
+Farming XP:	農業XP：	interface	mainTabs	skillsTab
+Attack XP:<br>Next level at:<br>Remaining XP:	攻撃力XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Hitpoints XP:<br>Next level at:<br>Remaining XP:	体力XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Mining XP:<br>Next level at:<br>Remaining XP:	採掘XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Smithing XP:<br>Next level at:<br>Remaining XP:	鍛冶XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Agility XP:<br>Next level at:<br>Remaining XP:	運動神経XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Strength XP:<br>Next level at:<br>Remaining XP:	腕力XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Defence XP:<br>Next level at:<br>Remaining XP:	守備力XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Ranged XP:<br>Next level at:<br>Remaining XP:	遠射XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Prayer XP:<br>Next level at:<br>Remaining XP:	祈りXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Magic XP:<br>Next level at:<br>Remaining XP:	魔法XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Runecraft XP:<br>Next level at:<br>Remaining XP:	ルーン作りXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Construction XP:<br>Next level at:<br>Remaining XP:	建築XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Hunter XP:<br>Next level at:<br>Remaining XP:	狩人XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Slayer XP:<br>Next level at:<br>Remaining XP:	討伐XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Fletching XP:<br>Next level at:<br>Remaining XP:	木材加工XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Crafting XP:<br>Next level at:<br>Remaining XP:	工作XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Thieving XP:<br>Next level at:<br>Remaining XP:	盗みXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Herblore XP:<br>Next level at:<br>Remaining XP:	調合XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Fishing XP:<br>Next level at:<br>Remaining XP:	釣りXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Cooking XP:<br>Next level at:<br>Remaining XP:	料理XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Firemaking XP:<br>Next level at:<br>Remaining XP:	火起こしXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Woodcutting XP:<br>Next level at:<br>Remaining XP:	木こりXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Farming XP:<br>Next level at:<br>Remaining XP:	農業XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
+Total XP:	合計XP：	interface	mainTabs	skillsTab

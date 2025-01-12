@@ -467,3 +467,18 @@ Ralos' Rise	ラロスの高まり	inventoryActions	item	Pendant of ates
 North Aldarin	アルダリン北部	inventoryActions	item	Pendant of ates
 Colour	色	inventoryActions	item	Beige pumpkin (disgusted)
 Carve	彫刻	inventoryActions	item	Beige pumpkin (disgusted)
+Change-Style	見た目を変更	inventoryActions	item	Infernal harpoon (or)
+Teleport-back	ワープで戻る	inventoryActions	item	Crystal of echoes
+Check-memories	記憶を確認	inventoryActions	item	Crystal of echoes
+Save-memory	記憶を保存	inventoryActions	item	Crystal of echoes
+League Debug	リーグのデバッグ	inventoryActions	item	League tomato
+Setups	設定	inventoryActions	item	League tomato
+Withdraw-all	全て引き出す	inventoryActions	item	Forager's pouch
+Withdraw-last	前回同様に引き出す	inventoryActions	item	Forager's pouch
+Current-step	現在のステップ	inventoryActions	item	Clue compass
+Collect	アイテムを回収	inventoryActions	item	Pocket kingdom
+Manage-kingdom	王国を管理	inventoryActions	item	Pocket kingdom
+Relic Emote	遺物エモート	inventoryActions	item	Raging echoes cane
+Detatch	取り外す	inventoryActions	item	Echo venator bow
+Detach	取り外す	inventoryActions	item	Echo venator bow (uncharged)
+Read-address	アドレスを読む	inventoryActions	item	Invitations

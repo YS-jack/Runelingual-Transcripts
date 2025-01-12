@@ -25353,6 +25353,150 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118330"><xliff:source>Category: Multi-style</xliff:source><xliff:target state="translated">カテゴリ：多スタイル</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118331"><xliff:source>Total level: &lt;Num0&gt;</xliff:source><xliff:target state="translated">合計レベル：&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118332"><xliff:source>Attack XP:</xliff:source><xliff:target state="translated">攻撃力XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118333"><xliff:source>Hitpoints XP:</xliff:source><xliff:target state="translated">体力XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118334"><xliff:source>Mining XP:</xliff:source><xliff:target state="translated">採掘XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118335"><xliff:source>Smithing XP:</xliff:source><xliff:target state="translated">鍛冶XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118336"><xliff:source>Agility XP:</xliff:source><xliff:target state="translated">運動神経XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118337"><xliff:source>Strength XP:</xliff:source><xliff:target state="translated">腕力XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118338"><xliff:source>Defence XP:</xliff:source><xliff:target state="translated">守備力XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118339"><xliff:source>Ranged XP:</xliff:source><xliff:target state="translated">遠射XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118340"><xliff:source>Prayer XP:</xliff:source><xliff:target state="translated">祈りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118341"><xliff:source>Magic XP:</xliff:source><xliff:target state="translated">魔法XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118342"><xliff:source>Runecraft XP:</xliff:source><xliff:target state="translated">ルーン作りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118343"><xliff:source>Construction XP:</xliff:source><xliff:target state="translated">建築XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118344"><xliff:source>Hunter XP:</xliff:source><xliff:target state="translated">狩人XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118345"><xliff:source>Slayer XP:</xliff:source><xliff:target state="translated">討伐XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118346"><xliff:source>Fletching XP:</xliff:source><xliff:target state="translated">木造加工XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118347"><xliff:source>Crafting XP:</xliff:source><xliff:target state="translated">工作XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118348"><xliff:source>Thieving XP:</xliff:source><xliff:target state="translated">盗みXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118349"><xliff:source>Herblore XP:</xliff:source><xliff:target state="translated">調合XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118350"><xliff:source>Fishing XP:</xliff:source><xliff:target state="translated">釣りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118351"><xliff:source>Cooking XP:</xliff:source><xliff:target state="translated">料理XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118352"><xliff:source>Firemaking XP:</xliff:source><xliff:target state="translated">火起こしXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118353"><xliff:source>Woodcutting XP:</xliff:source><xliff:target state="translated">木こりXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118354"><xliff:source>Farming XP:</xliff:source><xliff:target state="translated">農業XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118355"><xliff:source>Attack XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">攻撃力XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118356"><xliff:source>Hitpoints XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">体力XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118357"><xliff:source>Mining XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">採掘XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118358"><xliff:source>Smithing XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">鍛冶XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118359"><xliff:source>Agility XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">運動神経XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118360"><xliff:source>Strength XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">腕力XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118361"><xliff:source>Defence XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">守備力XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118362"><xliff:source>Ranged XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">遠射XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118363"><xliff:source>Prayer XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">祈りXP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118364"><xliff:source>Magic XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">魔法XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118365"><xliff:source>Runecraft XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">ルーン作りXP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118366"><xliff:source>Construction XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">建築XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118367"><xliff:source>Hunter XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">狩人XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118368"><xliff:source>Slayer XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">討伐XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118369"><xliff:source>Fletching XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">木材加工XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118370"><xliff:source>Crafting XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">工作XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118371"><xliff:source>Thieving XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">盗みXP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118372"><xliff:source>Herblore XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">調合XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118373"><xliff:source>Fishing XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">釣りXP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118374"><xliff:source>Cooking XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">料理XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118375"><xliff:source>Firemaking XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">火起こしXP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118376"><xliff:source>Woodcutting XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">木こりXP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118377"><xliff:source>Farming XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">農業XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118378"><xliff:source>Total XP:</xliff:source><xliff:target state="translated">合計XP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

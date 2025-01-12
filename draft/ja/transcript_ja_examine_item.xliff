@@ -65520,6 +65520,306 @@ source: Halloween scarecrow
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30234</xliff:note></xliff:trans-unit><xliff:trans-unit id="27210"><xliff:source>Perfectly shaped for showcasing various gourds.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
 sub_category: item
 source: Scarecrow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30236</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30236</xliff:note></xliff:trans-unit><xliff:trans-unit id="27211"><xliff:source>I can use this to claim a reward from King Roald.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Certificate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=769</xliff:note></xliff:trans-unit><xliff:trans-unit id="27212"><xliff:source>A swamp coloured pointed snail shell helmet.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Pointed myre snelm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3337</xliff:note></xliff:trans-unit><xliff:trans-unit id="27213"><xliff:source>A red and black pointed snail shell helmet.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Pointed blood'n'tar snelm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3339</xliff:note></xliff:trans-unit><xliff:trans-unit id="27214"><xliff:source>A muddy yellow coloured pointed snail shell helmet.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Pointed ochre snelm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3341</xliff:note></xliff:trans-unit><xliff:trans-unit id="27215"><xliff:source>A moody blue pointed snail shell helmet.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Pointed bruise blue snelm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3343</xliff:note></xliff:trans-unit><xliff:trans-unit id="27216"><xliff:source>I can use this to claim a reward from King Roald, if I get the other half.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Half certificate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11173</xliff:note></xliff:trans-unit><xliff:trans-unit id="27217"><xliff:source>A strong enough memory can take you back to a familiar place.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="27218"><xliff:source>A very powerful axe, echoing with power from the past.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo axe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25110</xliff:note></xliff:trans-unit><xliff:trans-unit id="27219"><xliff:source>A very powerful pickaxe, echoing with power from the past.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo pickaxe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25112</xliff:note></xliff:trans-unit><xliff:trans-unit id="27220"><xliff:source>A very powerful harpoon, echoing with power from the past.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo harpoon
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25114</xliff:note></xliff:trans-unit><xliff:trans-unit id="27221"><xliff:source>A very powerful harpoon in the colours of the Trailblazer League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dragon harpoon (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25373</xliff:note></xliff:trans-unit><xliff:trans-unit id="27222"><xliff:source>A very powerful pickaxe in the colours of the Trailblazer League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dragon pickaxe (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25376</xliff:note></xliff:trans-unit><xliff:trans-unit id="27223"><xliff:source>A very powerful axe in the colours of the Trailblazer League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dragon axe (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25378</xliff:note></xliff:trans-unit><xliff:trans-unit id="27224"><xliff:source>The magical sword is inactive and requires more ancient shards to regain its power.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Arclight (inactive)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30305</xliff:note></xliff:trans-unit><xliff:trans-unit id="27225"><xliff:source>A message from Elias White.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Elias' message
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30307</xliff:note></xliff:trans-unit><xliff:trans-unit id="27226"><xliff:source>A very old key (Used in The Curse of Arrav quest).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Mastaba key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30308</xliff:note></xliff:trans-unit><xliff:trans-unit id="27227"><xliff:source>Some rolled-up plans.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Base plans
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30310</xliff:note></xliff:trans-unit><xliff:trans-unit id="27228"><xliff:source>A key found in Zemouregal's Fort (Used in The Curse of Arrav quest).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Base key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30311</xliff:note></xliff:trans-unit><xliff:trans-unit id="27229"><xliff:source>A canopic jar full of oil.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Canopic jar (oil)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30312</xliff:note></xliff:trans-unit><xliff:trans-unit id="27230"><xliff:source>A canopic jar full of oil and dwellberries.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Canopic jar (oil and berries)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30313</xliff:note></xliff:trans-unit><xliff:trans-unit id="27231"><xliff:source>A canopic jar full of heart-preserving gloop.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Canopic jar (full)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30314</xliff:note></xliff:trans-unit><xliff:trans-unit id="27232"><xliff:source>A card with some sort of code on it.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Code key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30316</xliff:note></xliff:trans-unit><xliff:trans-unit id="27233"><xliff:source>A collection of decoder strips.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Decoder strips
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30317</xliff:note></xliff:trans-unit><xliff:trans-unit id="27234"><xliff:source>Some notes about various Mahjarrat.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Mahjarrat notes (a-j)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30318</xliff:note></xliff:trans-unit><xliff:trans-unit id="27235"><xliff:source>The axe of a legendary hero.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Arrav's axe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30320</xliff:note></xliff:trans-unit><xliff:trans-unit id="27236"><xliff:source>A rusty yet tough helmet.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Zombie helmet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30321</xliff:note></xliff:trans-unit><xliff:trans-unit id="27237"><xliff:source>An old rusty helmet. It needs repairing before it can be used.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Broken zombie helmet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30324</xliff:note></xliff:trans-unit><xliff:trans-unit id="27238"><xliff:source>What you have here is some totally worthless dust. Excellent stuff!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dust
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30328</xliff:note></xliff:trans-unit><xliff:trans-unit id="27239"><xliff:source>A set containing Raging Echoes boots (t1), Raging Echoes trousers (t1), Raging Echoes top (t1) and Raging Echoes hood (t1).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes relic hunter (t1) armour set
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30331</xliff:note></xliff:trans-unit><xliff:trans-unit id="27240"><xliff:source>A set containing Raging Echoes boots (t2), Raging Echoes trousers (t2), Raging Echoes top (t2) and Raging Echoes hood (t2).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes relic hunter (t2) armour set
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30334</xliff:note></xliff:trans-unit><xliff:trans-unit id="27241"><xliff:source>A set containing Raging Echoes boots (t3), Raging Echoes trousers (t3), Raging Echoes top (t3) and Raging Echoes hood (t3).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes relic hunter (t3) armour set
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30337</xliff:note></xliff:trans-unit><xliff:trans-unit id="27242"><xliff:source>A crystalline dagger.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Crystal dagger (perfected)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30340</xliff:note></xliff:trans-unit><xliff:trans-unit id="27243"><xliff:source>A very powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Infernal harpoon (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30342</xliff:note></xliff:trans-unit><xliff:trans-unit id="27244"><xliff:source>A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Infernal harpoon (uncharged)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30343</xliff:note></xliff:trans-unit><xliff:trans-unit id="27245"><xliff:source>A very powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Infernal pickaxe (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30345</xliff:note></xliff:trans-unit><xliff:trans-unit id="27246"><xliff:source>A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Infernal pickaxe (uncharged)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30346</xliff:note></xliff:trans-unit><xliff:trans-unit id="27247"><xliff:source>A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Infernal axe (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30347</xliff:note></xliff:trans-unit><xliff:trans-unit id="27248"><xliff:source>A formerly powerful, fiery axe in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Infernal axe (uncharged)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30348</xliff:note></xliff:trans-unit><xliff:trans-unit id="27249"><xliff:source>A very powerful harpoon in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dragon harpoon (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30349</xliff:note></xliff:trans-unit><xliff:trans-unit id="27250"><xliff:source>A very powerful pickaxe in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dragon pickaxe (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30351</xliff:note></xliff:trans-unit><xliff:trans-unit id="27251"><xliff:source>A very powerful axe in the colours of the Trailblazer Reloaded League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dragon axe (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30352</xliff:note></xliff:trans-unit><xliff:trans-unit id="27252"><xliff:source>A perfect pouch for foraging herbs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Forager's pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note></xliff:trans-unit><xliff:trans-unit id="27253"><xliff:source>Just how deep do the Leprechaun's pockets go?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Leprechaun's vault
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30359</xliff:note></xliff:trans-unit><xliff:trans-unit id="27254"><xliff:source>Allows travel to all banks around Gileinor.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Banker's briefcase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30361</xliff:note></xliff:trans-unit><xliff:trans-unit id="27255"><xliff:source>A useful compass for those in search of treasure.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Clue compass
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30363</xliff:note></xliff:trans-unit><xliff:trans-unit id="27256"><xliff:source>Don't trip!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Pocket kingdom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note></xliff:trans-unit><xliff:trans-unit id="27257"><xliff:source>Is this the true god sword? Or simply a joke replica?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: The dogsword
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30367</xliff:note></xliff:trans-unit><xliff:trans-unit id="27258"><xliff:source>A weapon from a being that truly worships gods.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Sunlight spear
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30369</xliff:note></xliff:trans-unit><xliff:trans-unit id="27259"><xliff:source>An item from a true devil that tunes into the elements of the world to let you re-conceptualise what weakness even means.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Devil's element
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30371</xliff:note></xliff:trans-unit><xliff:trans-unit id="27260"><xliff:source>Fires darts with utmost precision.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Drygore blowpipe (empty)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30373</xliff:note></xliff:trans-unit><xliff:trans-unit id="27261"><xliff:source>An amulet that originated from the one true monarch of the northern province.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Amulet of the monarchs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30376</xliff:note></xliff:trans-unit><xliff:trans-unit id="27262"><xliff:source>A ring only worn by true kings.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Emperor ring
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30378</xliff:note></xliff:trans-unit><xliff:trans-unit id="27263"><xliff:source>Gloves that bring down the composure of any living being nearby.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Gloves of the damned
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30380</xliff:note></xliff:trans-unit><xliff:trans-unit id="27264"><xliff:source>A shield that has had over a thousand unique dragons encase it in flame.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Thousand-dragon ward
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30382</xliff:note></xliff:trans-unit><xliff:trans-unit id="27265"><xliff:source>A powerful crystal blessing that warps the crystalline nature of reality.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Crystal blessing
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30384</xliff:note></xliff:trans-unit><xliff:trans-unit id="27266"><xliff:source>Two bracers that provide a divine connection to the Sun God.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Sunlit bracers
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30386</xliff:note></xliff:trans-unit><xliff:trans-unit id="27267"><xliff:source>A powerful Khopesh, imbued with the power of thunder and lightning.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Thunder khopesh
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30388</xliff:note></xliff:trans-unit><xliff:trans-unit id="27268"><xliff:source>A piece of living nature, with a will for vengeance.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Nature's reprisal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30390</xliff:note></xliff:trans-unit><xliff:trans-unit id="27269"><xliff:source>Crystallised, infernal fire swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Asgarnia echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30393</xliff:note></xliff:trans-unit><xliff:trans-unit id="27270"><xliff:source>Crystallised, queenly rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Desert echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30394</xliff:note></xliff:trans-unit><xliff:trans-unit id="27271"><xliff:source>Crystallised, explosive rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Kandarin echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30396</xliff:note></xliff:trans-unit><xliff:trans-unit id="27272"><xliff:source>Crystallised, stonebound rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Morytania echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30397</xliff:note></xliff:trans-unit><xliff:trans-unit id="27273"><xliff:source>Crystallised, bestial rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Tirannwn echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30398</xliff:note></xliff:trans-unit><xliff:trans-unit id="27274"><xliff:source>Crystallised, draconic rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Wilderness echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30399</xliff:note></xliff:trans-unit><xliff:trans-unit id="27275"><xliff:source>Crystallised, tangled rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Kourend echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30400</xliff:note></xliff:trans-unit><xliff:trans-unit id="27276"><xliff:source>Crystallised, solar rage swirls within it...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Varlamore echo orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30401</xliff:note></xliff:trans-unit><xliff:trans-unit id="27277"><xliff:source>This can be handed to the Sage for a rare item of your choice.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raids megarare voucher
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30402</xliff:note></xliff:trans-unit><xliff:trans-unit id="27278"><xliff:source>The headgear of a Raging Echoes relic hunter.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes hat (t1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30404</xliff:note></xliff:trans-unit><xliff:trans-unit id="27279"><xliff:source>The coat of a Raging Echoes relic hunter.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes top (t1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30406</xliff:note></xliff:trans-unit><xliff:trans-unit id="27280"><xliff:source>The robes of a Raging Echoes relic hunter.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes robeskirt (t1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30408</xliff:note></xliff:trans-unit><xliff:trans-unit id="27281"><xliff:source>The boots of a Raging Echoes relic hunter.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes boots (t1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30410</xliff:note></xliff:trans-unit><xliff:trans-unit id="27282"><xliff:source>The boots of a raging echo relic hunter.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes boots (t3)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30426</xliff:note></xliff:trans-unit><xliff:trans-unit id="27283"><xliff:source>The cane of a Raging Echoes relic hunter.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30428</xliff:note></xliff:trans-unit><xliff:trans-unit id="27284"><xliff:source>A banner showcasing the colours of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes banner
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30430</xliff:note></xliff:trans-unit><xliff:trans-unit id="27285"><xliff:source>Used on a Venator Bow to decorate it in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo venator bow ornament kit
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30432</xliff:note></xliff:trans-unit><xliff:trans-unit id="27286"><xliff:source>Virtus mask in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo virtus mask
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30437</xliff:note></xliff:trans-unit><xliff:trans-unit id="27287"><xliff:source>Virtus robes in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo virtus robe top
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30439</xliff:note></xliff:trans-unit><xliff:trans-unit id="27288"><xliff:source>Used on Virtus robes to decorate them in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo virtus ornament kit
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30443</xliff:note></xliff:trans-unit><xliff:trans-unit id="27289"><xliff:source>Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo ahrim's hood
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30445</xliff:note></xliff:trans-unit><xliff:trans-unit id="27290"><xliff:source>Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo ahrim's robetop
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30447</xliff:note></xliff:trans-unit><xliff:trans-unit id="27291"><xliff:source>Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo ahrim's robeskirt
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30449</xliff:note></xliff:trans-unit><xliff:trans-unit id="27292"><xliff:source>Used on Ahrim's robes to decorate them in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo ahrim's ornament kit
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30451</xliff:note></xliff:trans-unit><xliff:trans-unit id="27293"><xliff:source>A scroll which unlocks the Raging Echoes Home Teleport animation.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Echo home teleport scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30453</xliff:note></xliff:trans-unit><xliff:trans-unit id="27294"><xliff:source>A scroll which unlocks the Raging Echoes death and respawn animation.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes death scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30455</xliff:note></xliff:trans-unit><xliff:trans-unit id="27295"><xliff:source>A scroll which unlocks the Raging Echoes NPC contact.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes npc contact scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30457</xliff:note></xliff:trans-unit><xliff:trans-unit id="27296"><xliff:source>Used on a Nexus inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes nexus scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30459</xliff:note></xliff:trans-unit><xliff:trans-unit id="27297"><xliff:source>Used on a portal inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes portal scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30461</xliff:note></xliff:trans-unit><xliff:trans-unit id="27298"><xliff:source>A fearsome yet stylish souvenir from Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes nexus rug
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30463</xliff:note></xliff:trans-unit><xliff:trans-unit id="27299"><xliff:source>A Dragon Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes dragon trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30465</xliff:note></xliff:trans-unit><xliff:trans-unit id="27300"><xliff:source>A Rune Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes rune trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30467</xliff:note></xliff:trans-unit><xliff:trans-unit id="27301"><xliff:source>An Adamant Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes adamant trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30469</xliff:note></xliff:trans-unit><xliff:trans-unit id="27302"><xliff:source>A Mithril Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes mithril trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30471</xliff:note></xliff:trans-unit><xliff:trans-unit id="27303"><xliff:source>A Steel Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes steel trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30473</xliff:note></xliff:trans-unit><xliff:trans-unit id="27304"><xliff:source>An Iron Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes iron trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30475</xliff:note></xliff:trans-unit><xliff:trans-unit id="27305"><xliff:source>A Bronze Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Raging echoes bronze trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30477</xliff:note></xliff:trans-unit><xliff:trans-unit id="27306"><xliff:source>Won't you come and save me?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Present box hat
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30479</xliff:note></xliff:trans-unit><xliff:trans-unit id="27307"><xliff:source>Bow wow.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dog disguise
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30487</xliff:note></xliff:trans-unit><xliff:trans-unit id="27308"><xliff:source>Warm and cozy.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Festive scarf
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30489</xliff:note></xliff:trans-unit><xliff:trans-unit id="27309"><xliff:source>Why the big... paws?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Dog boots
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30491</xliff:note></xliff:trans-unit><xliff:trans-unit id="27310"><xliff:source>Tastefully decorated invitations to a once-in-a-lifetime adoption event!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Invitations
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30493</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
