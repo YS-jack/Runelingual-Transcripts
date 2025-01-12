@@ -25497,6 +25497,12 @@ source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118378"><xliff:source>Total XP:</xliff:source><xliff:target state="translated">合計XP：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118379"><xliff:source>Next level at:</xliff:source><xliff:target state="translated">次レベル開始：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118380"><xliff:source>Remaining XP:</xliff:source><xliff:target state="translated">残りXP：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

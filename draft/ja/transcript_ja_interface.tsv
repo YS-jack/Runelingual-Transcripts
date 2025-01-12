@@ -3451,3 +3451,5 @@ Firemaking XP:<br>Next level at:<br>Remaining XP:	火起こしXP：<br>次レベ
 Woodcutting XP:<br>Next level at:<br>Remaining XP:	木こりXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
 Farming XP:<br>Next level at:<br>Remaining XP:	農業XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
 Total XP:	合計XP：	interface	mainTabs	skillsTab
+Next level at:	次レベル開始：	interface	mainTabs	skillsTab
+Remaining XP:	残りXP：	interface	mainTabs	skillsTab
