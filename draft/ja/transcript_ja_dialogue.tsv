@@ -2695,14 +2695,14 @@ Well, come back and see me when you do.		dialogue	Alwyn	Alwyn
 Unfortunately all Skillcapes are only available with a free hood, it's part of a skill promotion deal; buy one get one free, you know. So you'll need to free up some inventory space before I can sell you one.		dialogue	Alwyn	Alwyn
 Excellent! Wear that cape with pride my friend.		dialogue	Alwyn	Alwyn
 Can you move my house please?		dialogue	Alwyn	Alwyn
-Rimmington	リミングトンへ移動	dialogue	Alwyn	Alwyn
+Rimmington	リミングトン	dialogue	Alwyn	Alwyn
 Taverley		dialogue	Alwyn	Alwyn
 Pollnivneach		dialogue	Alwyn	Alwyn
 Hosidius		dialogue	Alwyn	Alwyn
 Yes		dialogue	Alwyn	Alwyn
 No	いいえ	dialogue	Alwyn	Alwyn
-Rellekka	レレカへ移動	dialogue	Alwyn	Alwyn
-Brimhaven	ブリムヘブンへ移動	dialogue	Alwyn	Alwyn
+Rellekka	レレカ	dialogue	Alwyn	Alwyn
+Brimhaven	ブリムヘブン	dialogue	Alwyn	Alwyn
 Yanille	ヤニル	dialogue	Alwyn	Alwyn
 Prifddinas	プリフディナス	dialogue	Alwyn	Alwyn
 Can you redecorate my house please?		dialogue	Alwyn	Alwyn
@@ -18915,14 +18915,14 @@ Yes please!		dialogue	Estate agent	Estate agent
 No thanks		dialogue	Estate agent	Estate agent
 Tell me about houses!		dialogue	Estate agent	Estate agent
 Can you move my house please?		dialogue	Estate agent	Estate agent
-Rimmington	リミングトンへ移動	dialogue	Estate agent	Estate agent
+Rimmington	リミングトン	dialogue	Estate agent	Estate agent
 Taverley		dialogue	Estate agent	Estate agent
 Pollnivneach		dialogue	Estate agent	Estate agent
 Hosidius		dialogue	Estate agent	Estate agent
 Yes		dialogue	Estate agent	Estate agent
 No	いいえ	dialogue	Estate agent	Estate agent
-Rellekka	レレカへ移動	dialogue	Estate agent	Estate agent
-Brimhaven	ブリムヘブンへ移動	dialogue	Estate agent	Estate agent
+Rellekka	レレカ	dialogue	Estate agent	Estate agent
+Brimhaven	ブリムヘブン	dialogue	Estate agent	Estate agent
 Yanille	ヤニル	dialogue	Estate agent	Estate agent
 Prifddinas	プリフディナス	dialogue	Estate agent	Estate agent
 Can you redecorate my house please?		dialogue	Estate agent	Estate agent
@@ -53632,7 +53632,7 @@ Guthix		dialogue	Sir Renitee	Sir Renitee
 HAM		dialogue	Sir Renitee	Sir Renitee
 Horse		dialogue	Sir Renitee	Sir Renitee
 Jogre	ジョーガ	dialogue	Sir Renitee	Sir Renitee
-Kandarin		dialogue	Sir Renitee	Sir Renitee
+Kandarin	カンダリン	dialogue	Sir Renitee	Sir Renitee
 Misthalin		dialogue	Sir Renitee	Sir Renitee
 Money		dialogue	Sir Renitee	Sir Renitee
 All right		dialogue	Sir Renitee	Sir Renitee

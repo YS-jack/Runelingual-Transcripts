@@ -89,9 +89,9 @@ Join-Crew	クルーに参加	actions	npc	San Fan
 Join-Team	チームに参加	actions	npc	Honest Jimmy
 Pick-pocket	ポッケをする	actions	npc	Fairy Godfather
 Craft-goods	物を創る	actions	npc	Thakkrad Sigmundson
-Rellekka	レレカへ移動	actions	npc	Maria Gunnars
-Neitiznot	ネイチズノットへ移動	actions	npc	Maria Gunnars
-Jatizso	ジャチゾへ移動	actions	npc	Mord Gunnars
+Rellekka	レレカ	actions	npc	Maria Gunnars
+Neitiznot	ネイチズノット	actions	npc	Maria Gunnars
+Jatizso	ジャチゾ	actions	npc	Mord Gunnars
 Watch-shouting	口喧嘩を観る	actions	npc	Guard
 Kick	蹴る	actions	npc	Bed
 Claim-Tokens	トークンを請求	actions	npc	Lorelai
@@ -143,7 +143,7 @@ Steal-from	盗む	actions	npc	Digsite workman
 Pay-fare	運賃を支払う	actions	npc	Captain Tobias
 Pay-Fare	運賃を支払う	actions	npc	Customs officer
 Go-inside	中へ入る	actions	npc	House
-Pirate's Cove	海賊の隠れ家へ移動	actions	npc	Lokar Searunner
+Pirate's Cove	海賊の隠れ家	actions	npc	Lokar Searunner
 Deposit-items	アイテムを預ける	actions	npc	Peer the Seer
 Miscellania	ミセラニア	actions	npc	Sailor
 Prod	突く	actions	npc	Red Sheep
@@ -214,8 +214,8 @@ Join	参加	actions	npc	Lisa
 Locking	色を固定	actions	npc	Rift guardian
 Check Scores	得点を確認	actions	npc	Captain Kalt
 Contract	契約	actions	npc	Amy
-Port Sarim	サリム港へ移動	actions	npc	Captain Magoro
-Port Piscarilius	ピスカリリウス港へ移動	actions	npc	Captain Magoro
+Port Sarim	サリム港	actions	npc	Captain Magoro
+Port Piscarilius	ピスカリリウス港	actions	npc	Captain Magoro
 Feed	エサを与える	actions	npc	Lux grub
 Douse	消火	actions	npc	Fire
 Cut	切る	actions	npc	Meat tree
@@ -252,13 +252,13 @@ Pay (Redwood tree)	支払う（セコイア）	actions	npc	Alexandra
 Pay (Spirit tree)	支払う（精霊樹）	actions	npc	Latlink Fastbell
 Swap	入れ替える	actions	npc	Ornate combat dummy
 Pay (Celastrus tree)	支払う（セラストラスの木）	actions	npc	Taylor
-Land's End	ランズ・エンドへ移動	actions	npc	Veos
+Land's End	ランズ・エンド	actions	npc	Veos
 Join Castle Wars	キャッスル・ウォーズに参加	actions	npc	Saradominist recruiter
 Holiday-items	イベントアイテムを売買	actions	npc	Diango
 Tan-hides	革をなす	actions	npc	Eodan
-Ardougne	アルドインへ移動	actions	npc	Captain Barnaby
-Brimhaven	ブリムヘブンへ移動	actions	npc	Captain Barnaby
-Rimmington	リミングトンへ移動	actions	npc	Captain Barnaby
+Ardougne	アルドイン	actions	npc	Captain Barnaby
+Brimhaven	ブリムヘブン	actions	npc	Captain Barnaby
+Rimmington	リミングトン	actions	npc	Captain Barnaby
 Enchant	魔法付与	actions	npc	Eluned
 Quick-escape	即離脱	actions	npc	Elena
 Investigate	調査する	actions	npc	Elderly Elf
@@ -268,7 +268,7 @@ Sing	歌う	actions	npc	Reese
 Statistics	統計情報	actions	npc	Ystwyth
 Repair	修復	actions	npc	Aneirin
 Open Adventure Paths	冒険の旅路を開く	actions	npc	Adventurer Jon
-Island of Stone	ストーン島へ移動	actions	npc	Haskell
+Island of Stone	ストーン島	actions	npc	Haskell
 Charter	船を契約	actions	npc	Trader Stan
 Charter-to Brimhaven	ブリムヘブンまで契約	actions	npc	Trader Stan
 Charter-to Catherby	カサビーまで契約	actions	npc	Trader Stan
@@ -576,8 +576,8 @@ Swap	入れ替える	actions	object	Ornate combat dummy
 Take-Coffin	棺を取る	actions	object	Grave
 Make	作る	actions	object	Bed
 Net	網で釣る	actions	object	Fishing spot
-Ardougne	アルドインへ移動	actions	object	Lever
-Edgeville	エッジビルへ移動	actions	object	Lever
+Ardougne	アルドイン	actions	object	Lever
+Edgeville	エッジビル	actions	object	Lever
 Swap-options	オプションを入れ替える	actions	object	Lever
 Talk to	話しかける	actions	object	Tree
 Exchange	交換	actions	object	Grand Exchange booth

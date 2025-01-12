@@ -723,7 +723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41348">
         <xliff:source>Rellekka</xliff:source>
-        <xliff:target state="translated">レレカへ移動</xliff:target>
+        <xliff:target state="translated">レレカ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Maria Gunnars
@@ -731,7 +731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41349">
         <xliff:source>Neitiznot</xliff:source>
-        <xliff:target state="translated">ネイチズノットへ移動</xliff:target>
+        <xliff:target state="translated">ネイチズノット</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Maria Gunnars
@@ -739,7 +739,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41350">
         <xliff:source>Jatizso</xliff:source>
-        <xliff:target state="translated">ジャチゾへ移動</xliff:target>
+        <xliff:target state="translated">ジャチゾ</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Mord Gunnars
@@ -1155,7 +1155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41402">
         <xliff:source>Pirate's Cove</xliff:source>
-        <xliff:target state="translated">海賊の隠れ家へ移動</xliff:target>
+        <xliff:target state="translated">海賊の隠れ家</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Lokar Searunner
@@ -1723,7 +1723,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41473">
         <xliff:source>Port Sarim</xliff:source>
-        <xliff:target state="translated">サリム港へ移動</xliff:target>
+        <xliff:target state="translated">サリム港</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Magoro
@@ -1731,7 +1731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41474">
         <xliff:source>Port Piscarilius</xliff:source>
-        <xliff:target state="translated">ピスカリリウス港へ移動</xliff:target>
+        <xliff:target state="translated">ピスカリリウス港</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Magoro
@@ -2027,7 +2027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41511">
         <xliff:source>Land's End</xliff:source>
-        <xliff:target state="translated">ランズ・エンドへ移動</xliff:target>
+        <xliff:target state="translated">ランズ・エンド</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Veos
@@ -2059,7 +2059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41515">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">アルドインへ移動</xliff:target>
+        <xliff:target state="translated">アルドイン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2067,7 +2067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41516">
         <xliff:source>Brimhaven</xliff:source>
-        <xliff:target state="translated">ブリムヘブンへ移動</xliff:target>
+        <xliff:target state="translated">ブリムヘブン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2075,7 +2075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41517">
         <xliff:source>Rimmington</xliff:source>
-        <xliff:target state="translated">リミングトンへ移動</xliff:target>
+        <xliff:target state="translated">リミングトン</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Captain Barnaby
@@ -2155,7 +2155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41527">
         <xliff:source>Island of Stone</xliff:source>
-        <xliff:target state="translated">ストーン島へ移動</xliff:target>
+        <xliff:target state="translated">ストーン島</xliff:target>
         <xliff:note>category: actions
 sub_category: npc
 source: Haskell
@@ -4619,7 +4619,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41835">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">アルドインへ移動</xliff:target>
+        <xliff:target state="translated">アルドイン</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever
@@ -4627,7 +4627,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41836">
         <xliff:source>Edgeville</xliff:source>
-        <xliff:target state="translated">エッジビルへ移動</xliff:target>
+        <xliff:target state="translated">エッジビル</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Lever

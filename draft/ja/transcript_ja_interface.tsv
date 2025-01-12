@@ -3453,37 +3453,38 @@ Farming XP:<br>Next level at:<br>Remaining XP:	農業XP：<br>次レベル開始
 Total XP:	合計XP：	interface	mainTabs	skillsTab
 Next level at:	次レベル開始：	interface	mainTabs	skillsTab
 Remaining XP:	残りXP：	interface	mainTabs	skillsTab
-Combat Level:		interface	mainTabs	characterSummaryTab
-Total Level:		interface	mainTabs	characterSummaryTab
-Total XP: <colNum0><Num0>,<Num1>,<Num2></col>		interface	mainTabs	characterSummaryTab
-Quests Completed:		interface	mainTabs	characterSummaryTab
-Achievements Completed:		interface	mainTabs	characterSummaryTab
-Combat Tasks Completed:		interface	mainTabs	characterSummaryTab
-Collections Logged:		interface	mainTabs	characterSummaryTab
-Time Played: Click to reveal.		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> days, <Num1> hours</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> days, <Num1> hour</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> day, <Num1> hours</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> day, <Num1> hour</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> hours, <Num1> minutes</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> hours, <Num1> minute</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> hour, <Num1> minutes</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> hour, <Num1> minute</col>		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> minutes		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0><Num0> minute		interface	mainTabs	characterSummaryTab
-Time Played: <colNum0>a minute		interface	mainTabs	characterSummaryTab
-Quest List		interface	mainTabs	questListTab
-Completed: <Num0>/<Num1>		interface	mainTabs	questListTab
-Quest Points: <Num0>/<Num1>		interface	mainTabs	questListTab
-Achievement Diaries		interface	mainTabs	achievementDiaryTab
-Ardougne		interface	mainTabs	achievementDiaryTab
-Desert		interface	mainTabs	achievementDiaryTab
-Falador		interface	mainTabs	achievementDiaryTab
-Fremennik		interface	mainTabs	achievementDiaryTab
-Kandarin		interface	mainTabs	achievementDiaryTab
-Karamja		interface	mainTabs	achievementDiaryTab
-Kourend & Kebos		interface	mainTabs	achievementDiaryTab
-Lumbridge & Draynor		interface	mainTabs	achievementDiaryTab
-Morytania		interface	mainTabs	achievementDiaryTab
-Varrock		interface	mainTabs	achievementDiaryTab
-Western Provinces		interface	mainTabs	achievementDiaryTab
+Combat Level:	戦闘レベル：	interface	mainTabs	characterSummaryTab
+Total Level:	合計レベル：	interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0>,<Num1>,<Num2></col>	合計経験値：<colNum0><Num0>,<Num1>,<Num2></col>	interface	mainTabs	characterSummaryTab
+Quests Completed:	完了数：	interface	mainTabs	characterSummaryTab
+Achievements Completed:	達成数：	interface	mainTabs	characterSummaryTab
+Combat Tasks Completed:	戦闘実績の達成数：	interface	mainTabs	characterSummaryTab
+Collections Logged:	取得アイテム数：	interface	mainTabs	characterSummaryTab
+Time Played: Click to reveal.	プレイ時間：クリックで開示	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> hours</col>	プレイ時間：<colNum0><Num0>日<Num1>時間</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> hour</col>	プレイ時間：<colNum0><Num0>日<Num1>時間</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> hours</col>	プレイ時間：<colNum0><Num0>日<Num1>時間</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> hour</col>	プレイ時間：<colNum0><Num0>日<Num1>時間</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hours, <Num1> minutes</col>	プレイ時間：<colNum0><Num0>時間<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hours, <Num1> minute</col>	プレイ時間：<colNum0><Num0>時間<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hour, <Num1> minutes</col>	プレイ時間：<colNum0><Num0>時間<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hour, <Num1> minute</col>	プレイ時間：<colNum0><Num0>時間<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> minutes	プレイ時間：<colNum0><Num0>分	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> minute	プレイ時間：<colNum0><Num0>分	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0>a minute	プレイ時間：<colNum0>1分	interface	mainTabs	characterSummaryTab
+Quest List	クエスト一覧	interface	mainTabs	questListTab
+Completed: <Num0>/<Num1>	完了数：<Num0>/<Num1>	interface	mainTabs	questListTab
+Quest Points: <Num0>/<Num1>	クエストポイント：<Num0>/<Num1>	interface	mainTabs	questListTab
+Achievement Diaries	達成記録	interface	mainTabs	achievementDiaryTab
+Ardougne	アルドイン	interface	mainTabs	achievementDiaryTab
+Desert	砂漠	interface	mainTabs	achievementDiaryTab
+Falador	ファラドー	interface	mainTabs	achievementDiaryTab
+Fremennik	フレメニック	interface	mainTabs	achievementDiaryTab
+Kandarin	カンダリン	interface	mainTabs	achievementDiaryTab
+Karamja	カラムジャ	interface	mainTabs	achievementDiaryTab
+Kourend & Kebos	クーレンドとケボス	interface	mainTabs	achievementDiaryTab
+Lumbridge & Draynor	ランブリッジとドレイナー	interface	mainTabs	achievementDiaryTab
+Morytania	モリタニア	interface	mainTabs	achievementDiaryTab
+Varrock	ヴァロック	interface	mainTabs	achievementDiaryTab
+Western Provinces	西部地方	interface	mainTabs	achievementDiaryTab
+Total XP: <colNum0><Num0></col>	合計経験値：<colNum0><Num0></col>	interface	mainTabs	characterSummaryTab

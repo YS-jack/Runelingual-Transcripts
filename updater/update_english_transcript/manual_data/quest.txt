@@ -7,8 +7,10 @@ Ascent of Arceuus, The	manual	quest
 The Ascent of Arceuus	manual	quest	
 Gain the Arceuus Memoirs teleport.	manual	quest	
 Alfred Grimhand's Barcrawl	manual	quest	
+MQ: Alfred Grimhand's Barcrawl	manual	quest	
 Embark on a Barbarian rite of passage.	manual	quest	
 Bear Your Soul	manual	quest	
+MQ: Bear Your Soul	manual	quest	
 Gain the Soul Bearer.	manual	quest	
 Below Ice Mountain	manual	quest	
 Gain access to the Ruins of Camdozaal.	manual	quest	
@@ -40,8 +42,10 @@ Gain access to the Corsair Cove Bank.	manual	quest
 Creature of Fenkenstrain	manual	quest	
 Gain a Ring of Charos.	manual	quest	
 Curse of the Empty Lord	manual	quest	
+MQ: Curse of the Empty Lord	manual	quest	
 Gain a set of Ghostly Robes.	manual	quest	
 Daddy's Home	manual	quest	
+MQ: Daddy's Home	manual	quest	
 Learn about the Construction skill.	manual	quest	
 Darkness of Hallowvale	manual	quest	
 Learn the reverse Temple Trekking routes.	manual	quest	
@@ -84,6 +88,7 @@ Enakhra's Lament	manual	quest
 Gain a Camulet.	manual	quest	
 Enchanted Key, The	manual	quest	
 The Enchanted Key	manual	quest	
+MQ: The Enchanted Key	manual	quest	
 Hunt for hidden treasure using the Enchanted Key.	manual	quest	
 Enlightened Journey	manual	quest	
 Gain access to the Balloon transportation.	manual	quest	
@@ -101,6 +106,7 @@ Investigate what's really going on in Zanaris.	manual	quest
 Family Crest	manual	quest	
 Gain Skill-imbued Gauntlets.	manual	quest	
 Family Pest	manual	quest	
+MQ: Family Pest	manual	quest	
 Gain the ability to own all Skill-imbued Gauntlets.	manual	quest	
 Feud, The	manual	quest	
 The Feud	manual	quest	
@@ -126,6 +132,7 @@ Garden of Tranquillity	manual	quest
 Gain an Activated Ring of Charos.	manual	quest	
 General's Shadow, The	manual	quest	
 The General's Shadow	manual	quest	
+MQ: The General's Shadow	manual	quest	
 Gain the Shadow Sword.	manual	quest	
 Gertrude's Cat	manual	quest	
 Gain a pet Kitten.	manual	quest	
@@ -168,6 +175,7 @@ Gain early game Magic XP.	manual	quest
 In Aid of the Myreque	manual	quest	
 Gain access to the Temple Trekking minigame.	manual	quest	
 In Search of Knowledge	manual	quest	
+MQ: In Search of Knowledge	manual	quest	
 Gain an XP Lamp.	manual	quest	
 In Search of the Myreque	manual	quest	
 Start the Myreque storyline.	manual	quest	
@@ -182,6 +190,7 @@ Knight's Sword, The	manual	quest
 The Knight's Sword	manual	quest	
 Gain great Smithing XP.	manual	quest	
 Lair of Tarn Razorlor	manual	quest	
+MQ: Lair of Tarn Razorlor	manual	quest	
 Gain an enchanted Salve Amulet.	manual	quest	
 Legends' Quest	manual	quest	
 Gain access to the Legend's Guild.	manual	quest	
@@ -193,8 +202,10 @@ Gain access to the Bone Weapon Shop.	manual	quest
 Lunar Diplomacy	manual	quest	
 Learn how to cast Lunar spells.	manual	quest	
 Mage Arena I	manual	quest	
+MQ: Mage Arena I	manual	quest	
 Unlock the God spells.	manual	quest	
 Mage Arena II	manual	quest	
+MQ: Mage Arena II	manual	quest	
 Learn how to imbue the God Capes.	manual	quest	
 Making Friends with My Arm	manual	quest	
 Gain great XP and a disease-free herb patch.	manual	quest	
@@ -287,6 +298,7 @@ Gain access to Shilo Village.	manual	quest
 Sins of the Father	manual	quest	
 Gain access to Darkmeyer.	manual	quest	
 Skippy and the Mogres	manual	quest	
+MQ: Skippy and the Mogres	manual	quest	
 Learn how to fight Mogres.	manual	quest	
 Slug Menace, The	manual	quest	
 The Slug Menace	manual	quest	
@@ -346,10 +358,12 @@ Zogre Flesh Eaters	manual	quest
 Learn how to make Relicym's Balm.	manual	quest	
 Frozen Door, The	manual	quest	
 The Frozen Door	manual	quest	
+MQ: The Frozen Door	manual	quest	
 Gain access to Nex in the God Wars Dungeon.	manual	quest	
 Land of the Goblins	manual	quest	
 Continue the Dorgeshuun storyline.	manual	quest	
 Hopespear's Will	manual	quest	
+MQ: Hopespear's Will	manual	quest	
 Gain great Prayer XP.	manual	quest	
 Temple of the Eye	manual	quest	
 Gain access to the Guardians of the Rift minigame.	manual	quest	
@@ -361,6 +375,7 @@ Garden of Death, The	manual	quest
 The Garden of Death	manual	quest	
 Uncover the fate of the Old Ones.	manual	quest	
 Into the Tombs	manual	quest	
+MQ: Into the Tombs	manual	quest	
 Experience the Tombs of Amascut.	manual	quest	
 Recipe for Disaster Another Cook's Quest	manual	quest	
 Recipe for Disaster - Another Cook's Quest	manual	quest	
@@ -390,6 +405,7 @@ Uncover the Secrets of the North and unlock a new boss.	manual	quest
 Desert Treasure II - The Fallen Empire	manual	quest	
 Uncover the history of the Fallen Empire and unlock four new bosses.	manual	quest	
 His Faithful Servants	manual	quest	
+MQ: His Faithful Servants	manual	quest	
 Take on the Barrows Brothers.	manual	quest	
 Path of Glouphrie, The	manual	quest	
 The Path of Glouphrie	manual	quest	
@@ -397,6 +413,7 @@ Unlock the Poison Waste Dungeon.	manual	quest
 Children of the Sun	manual	quest	
 Gain access to the Kingdom of Varlamore.	manual	quest	
 Barbarian Training	manual	quest	
+MQ: Barbarian Training	manual	quest	
 Unlock the strength of a Barbarian.	manual	quest	
 Defender of Varrock	manual	quest	
 Defend Varrock from a zombie invasion.	manual	quest	
@@ -412,3 +429,73 @@ Explore an ancient ruin and unlock the Moons of Peril.	manual	quest
 Ribbiting Tale of a Lily Pad Labour Dispute, The	manual	quest	
 The Ribbiting Tale of a Lily Pad Labour Dispute	manual	quest	
 Solve a ribbiting dispute and gain access to a new Hardwood Farming Patch.	manual	quest	
+Free Quests	manual	quest	
+Members' Quests	manual	quest	
+Miniquests	manual	quest	
+The Curse of Arrav	manual	quest	
+Death on the Isle	manual	quest	
+Ethically Acquired Antiquities	manual	quest	
+The Heart of Darkness	manual	quest	
+Meat and Greet	manual	quest	
+A	manual	quest	
+B	manual	quest	
+C	manual	quest	
+D	manual	quest	
+E	manual	quest	
+F	manual	quest	
+G	manual	quest	
+H	manual	quest	
+I	manual	quest	
+J	manual	quest	
+K	manual	quest	
+L	manual	quest	
+M	manual	quest	
+N	manual	quest	
+O	manual	quest	
+P	manual	quest	
+Q	manual	quest	
+R	manual	quest	
+S	manual	quest	
+T	manual	quest	
+U	manual	quest	
+V	manual	quest	
+W	manual	quest	
+X	manual	quest	
+Y	manual	quest	
+Z	manual	quest	
+In Progress	manual	quest	
+Not Started	manual	quest	
+Completed	manual	quest	
+Novice	manual	quest	
+Intermediate	manual	quest	
+Experienced	manual	quest	
+Master	manual	quest	
+Grand Master	manual	quest	
+Special	manual	quest	
+Very Short	manual	quest	
+Short	manual	quest	
+Medium	manual	quest	
+Long	manual	quest	
+Very Long	manual	quest	
+Camelot	manual	quest	
+Dorgeshuun	manual	quest	
+Dragonkin	manual	quest	
+Elemental Workshop	manual	quest	
+Elf	manual	quest	
+Fairytale	manual	quest	
+Fremennik	manual	quest	
+Gnome	manual	quest	
+Kharidian	manual	quest	
+Kourend	manual	quest	
+Mahjarrat	manual	quest	
+Miscellania	manual	quest	
+Myreque	manual	quest	
+Order of Wizards	manual	quest	
+Penguin	manual	quest	
+Pirate	manual	quest	
+Rag and Bone Man	manual	quest	
+Red Axe	manual	quest	
+Temple Knight	manual	quest	
+Troll	manual	quest	
+Twilight Emissaries	manual	quest	
+Standalone	manual	quest	

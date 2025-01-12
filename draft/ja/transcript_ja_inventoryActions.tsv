@@ -352,7 +352,7 @@ Add-5	５コ加える	inventoryActions	item
 Add-10	10コ加える	inventoryActions	item	
 Add-All	全て加える	inventoryActions	item	
 Add-X	Xコ加える	inventoryActions	item	
-Edgeville	エッジビルへ移動	inventoryActions	item	Amulet of glory(1)
+Edgeville	エッジビル	inventoryActions	item	Amulet of glory(1)
 Karamja	カラムジャ	inventoryActions	item	Amulet of glory(1)
 Draynor Village	ドレイナー村	inventoryActions	item	Amulet of glory(1)
 Al Kharid	アル・カリッド	inventoryActions	item	Amulet of glory(1)
@@ -363,9 +363,9 @@ Castle Wars	キャッスル・ウォーズ	inventoryActions	item	Ring of dueling
 Ferox Enclave	フェロックス・オンクレーブ	inventoryActions	item	Ring of dueling(8)
 Fortis Colosseum	フォーティス闘技場	inventoryActions	item	Ring of dueling(8)
 Bloom	咲かせる	inventoryActions	item	Silver sickle (b)
-Rellekka	レレカへ移動	inventoryActions	item	Enchanted lyre(1)
+Rellekka	レレカ	inventoryActions	item	Enchanted lyre(1)
 Waterbirth Island	ウォーターバース島	inventoryActions	item	Enchanted lyre(1)
-Neitiznot	ネイチズノットへ移動	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	ネイチズノット	inventoryActions	item	Enchanted lyre(1)
 Jatiszo	ジャティスゾ	inventoryActions	item	Enchanted lyre(1)
 Burthorpe	バーソープ	inventoryActions	item	Games necklace(8)
 Barbarian Outpost	蛮族の前哨基地	inventoryActions	item	Games necklace(8)

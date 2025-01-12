@@ -86,7 +86,7 @@ Dreadlocks		manual	hair_beard
 Long		manual	hair_beard	
 Medium		manual	hair_beard	
 Tonsure		manual	hair_beard	
-Short		manual	hair_beard	
+Short	短い	manual	hair_beard	
 Cropped		manual	hair_beard	
 Wild spikes		manual	hair_beard	
 Spikes	スパイク	manual	hair_beard	
@@ -150,26 +150,26 @@ Big Moustache		manual	hair_beard
 Waxed Moustache		manual	hair_beard	
 Dali		manual	hair_beard	
 Vizier		manual	hair_beard	
-Rimmington	リミングトンへ移動	manual	location	
+Rimmington	リミングトン	manual	location	
 Taverley		manual	location	
 Pollnivneach		manual	location	
-Rellekka	レレカへ移動	manual	location	
-Brimhaven	ブリムヘブンへ移動	manual	location	
+Rellekka	レレカ	manual	location	
+Brimhaven	ブリムヘブン	manual	location	
 Yanille	ヤニル	manual	location	
 Hosidius		manual	location	
 Prifddinas	プリフディナス	manual	location	
-Ardougne	アルドインへ移動	manual	location	
-Desert		manual	location	
+Ardougne	アルドイン	manual	location	
+Desert	砂漠	manual	location	
 Falador	ファラドー	manual	location	
 Fremennik	フレメニック	manual	location	
-Kandarin		manual	location	
+Kandarin	カンダリン	manual	location	
 Karamja	カラムジャ	manual	location	
-Lumbridge & Draynor		manual	location	
+Lumbridge & Draynor	ランブリッジとドレイナー	manual	location	
 Morytania	モリタニア	manual	location	
 Varrock	ヴァロック	manual	location	
-Western Provinces		manual	location	
+Western Provinces	西部地方	manual	location	
 Wilderness		manual	location	
-Kourend & Kebos		manual	location	
+Kourend & Kebos	クーレンドとケボス	manual	location	
 Shayzien		manual	location	
 Arceuus	アルセウス	manual	location	
 Lovakengj		manual	location	
@@ -198,9 +198,9 @@ Mort'ton		manual	location
 Mos Le'Harmless		manual	location	
 Nardah	ナーダ	manual	location	
 Port Phasmatys		manual	location	
-Port Piscarilius	ピスカリリウス港へ移動	manual	location	
+Port Piscarilius	ピスカリリウス港	manual	location	
 Piscatoris		manual	location	
-Port Sarim	サリム港へ移動	manual	location	
+Port Sarim	サリム港	manual	location	
 Seers' Village	シアーズ村	manual	location	
 Shilo Village	シャイロ村	manual	location	
 Silvarea		manual	location	
@@ -306,7 +306,7 @@ Crafting Guild	工作ギルド	manual	location
 Cooking Guild	料理ギルド	manual	location	
 Woodcutting Guild	木こりギルド	manual	location	
 Farming Guild	農業ギルド	manual	location	
-Edgeville	エッジビルへ移動	manual	location	
+Edgeville	エッジビル	manual	location	
 Vision		manual	music	
 at the Wizards' Tower.		manual	music	
 Volcanic Vikings		manual	music	
@@ -1342,7 +1342,7 @@ Dreadlocks		manual	hair_beard
 Long		manual	hair_beard	
 Medium		manual	hair_beard	
 Tonsure		manual	hair_beard	
-Short		manual	hair_beard	
+Short	短い	manual	hair_beard	
 Cropped		manual	hair_beard	
 Wild spikes		manual	hair_beard	
 Spikes	スパイク	manual	hair_beard	
@@ -1406,26 +1406,26 @@ Big Moustache		manual	hair_beard
 Waxed Moustache		manual	hair_beard	
 Dali		manual	hair_beard	
 Vizier		manual	hair_beard	
-Rimmington	リミングトンへ移動	manual	location	
+Rimmington	リミングトン	manual	location	
 Taverley		manual	location	
 Pollnivneach		manual	location	
-Rellekka	レレカへ移動	manual	location	
-Brimhaven	ブリムヘブンへ移動	manual	location	
+Rellekka	レレカ	manual	location	
+Brimhaven	ブリムヘブン	manual	location	
 Yanille	ヤニル	manual	location	
 Hosidius		manual	location	
 Prifddinas	プリフディナス	manual	location	
-Ardougne	アルドインへ移動	manual	location	
-Desert		manual	location	
+Ardougne	アルドイン	manual	location	
+Desert	砂漠	manual	location	
 Falador	ファラドー	manual	location	
 Fremennik	フレメニック	manual	location	
-Kandarin		manual	location	
+Kandarin	カンダリン	manual	location	
 Karamja	カラムジャ	manual	location	
-Lumbridge & Draynor		manual	location	
+Lumbridge & Draynor	ランブリッジとドレイナー	manual	location	
 Morytania	モリタニア	manual	location	
 Varrock	ヴァロック	manual	location	
-Western Provinces		manual	location	
+Western Provinces	西部地方	manual	location	
 Wilderness		manual	location	
-Kourend & Kebos		manual	location	
+Kourend & Kebos	クーレンドとケボス	manual	location	
 Shayzien		manual	location	
 Arceuus	アルセウス	manual	location	
 Lovakengj		manual	location	
@@ -1454,9 +1454,9 @@ Mort'ton		manual	location
 Mos Le'Harmless		manual	location	
 Nardah	ナーダ	manual	location	
 Port Phasmatys		manual	location	
-Port Piscarilius	ピスカリリウス港へ移動	manual	location	
+Port Piscarilius	ピスカリリウス港	manual	location	
 Piscatoris		manual	location	
-Port Sarim	サリム港へ移動	manual	location	
+Port Sarim	サリム港	manual	location	
 Seers' Village	シアーズ村	manual	location	
 Shilo Village	シャイロ村	manual	location	
 Silvarea		manual	location	
@@ -1562,7 +1562,7 @@ Crafting Guild	工作ギルド	manual	location
 Cooking Guild	料理ギルド	manual	location	
 Woodcutting Guild	木こりギルド	manual	location	
 Farming Guild	農業ギルド	manual	location	
-Edgeville	エッジビルへ移動	manual	location	
+Edgeville	エッジビル	manual	location	
 Vision		manual	music	
 at the Wizards' Tower.		manual	music	
 Volcanic Vikings		manual	music	
@@ -2511,3 +2511,90 @@ Examine the displays in the Natural History section of the museum and answer Orl
 Gather information from around Gielinor by completing quests and other activities, then speak to Historian Minas.		manual	varrock_museum	
 Discover fossils on fossil island to complete the displays on the bottom floor of the museum.		manual	varrock_museum	
 Crush Barronite deposits in the ruins of Camdozaal to find relics and hand them in to the curator.		manual	varrock_museum	
+MQ: Alfred Grimhand's Barcrawl	アルフレッド・グイムハンドのバー巡り	manual	quest	
+MQ: Bear Your Soul	魂をさらけ出す	manual	quest	
+MQ: Curse of the Empty Lord	虚無の主の呪い	manual	quest	
+MQ: Daddy's Home	父の家	manual	quest	
+MQ: The Enchanted Key	魔法のカギ	manual	quest	
+MQ: Family Pest	家族の厄介者	manual	quest	
+MQ: The General's Shadow	将軍の影	manual	quest	
+MQ: In Search of Knowledge	知識を求めて	manual	quest	
+MQ: Lair of Tarn Razorlor	ターン・ラゾローの隠れ家	manual	quest	
+MQ: Mage Arena I	魔術師アリーナ１	manual	quest	
+MQ: Mage Arena II	魔術師アリーナ１	manual	quest	
+MQ: Skippy and the Mogres	スキッピーとモーガ	manual	quest	
+MQ: The Frozen Door	凍った扉	manual	quest	
+MQ: Hopespear's Will	ホープスピアの遺言	manual	quest	
+MQ: Into the Tombs	墓の中へ	manual	quest	
+MQ: His Faithful Servants	あの方の忠実な従者達	manual	quest	
+MQ: Barbarian Training	蛮族の訓練	manual	quest	
+Free Quests	無課金クエスト：	manual	quest	
+Members' Quests	会員クエスト：	manual	quest	
+Miniquests	ミニクエスト	manual	quest	
+The Curse of Arrav	アラヴの呪い	manual	quest	
+Death on the Isle	島での死	manual	quest	
+Ethically Acquired Antiquities	倫理的に入手された骨董品	manual	quest	
+The Heart of Darkness	暗黒の心臓	manual	quest	
+Meat and Greet	肉とご挨拶	manual	quest	
+A	A	manual	quest	
+B	B	manual	quest	
+C	C	manual	quest	
+D	D	manual	quest	
+E	E	manual	quest	
+F	F	manual	quest	
+G	G	manual	quest	
+H	H	manual	quest	
+I	I	manual	quest	
+J	J	manual	quest	
+K	K	manual	quest	
+L	L	manual	quest	
+M	M	manual	quest	
+N	N	manual	quest	
+O	O	manual	quest	
+P	P	manual	quest	
+Q	Q	manual	quest	
+R	R	manual	quest	
+S	S	manual	quest	
+T	T	manual	quest	
+U	U	manual	quest	
+V	V	manual	quest	
+W	W	manual	quest	
+X	X	manual	quest	
+Y	Y	manual	quest	
+Z	Z	manual	quest	
+In Progress	途中	manual	quest	
+Not Started	未開始	manual	quest	
+Completed	完了	manual	quest	
+Novice	初級	manual	quest	
+Intermediate	中級	manual	quest	
+Experienced	上級	manual	quest	
+Master	達人	manual	quest	
+Grand Master	師匠	manual	quest	
+Special	特殊	manual	quest	
+Very Short	とても短	manual	quest	
+Short	短い	manual	quest	
+Medium	普通	manual	quest	
+Long	長い	manual	quest	
+Very Long	とても長い	manual	quest	
+Camelot	カメロット	manual	quest	
+Dorgeshuun	ドーゲシューン	manual	quest	
+Dragonkin	ドラゴンキン	manual	quest	
+Elemental Workshop	エレメント工房	manual	quest	
+Elf	エルフ	manual	quest	
+Fairytale	おとぎ話	manual	quest	
+Fremennik	フレメニック	manual	quest	
+Gnome	ノーム	manual	quest	
+Kharidian	カリジア	manual	quest	
+Kourend	クーレンド	manual	quest	
+Mahjarrat	マジャラット	manual	quest	
+Miscellania	ミセラニア	manual	quest	
+Myreque	マイラーク	manual	quest	
+Order of Wizards	魔術師団	manual	quest	
+Penguin	ペンギン	manual	quest	
+Pirate	海賊	manual	quest	
+Rag and Bone Man	ぼろきれと骨の男	manual	quest	
+Red Axe	レッド・アックス	manual	quest	
+Temple Knight	寺院の騎士	manual	quest	
+Troll	トロール	manual	quest	
+Twilight Emissaries	黄昏の使者	manual	quest	
+Standalone	独自	manual	quest	
