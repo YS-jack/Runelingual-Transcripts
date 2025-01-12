@@ -3047,7 +3047,7 @@ Crystal structure	水晶の構造	name	object	Crystal structure
 Fallen soldier	倒された兵士	name	object	Fallen soldier
 Beacon	かがり火	name	object	Beacon
 Xerician Statue	ゼリックの像	name	object	Xerician Statue
-Great Olmic Statue	偉大なるオルㇺの像	name	object	Great Olmic Statue
+Great Olmic Statue	偉大なるオルムの像	name	object	Great Olmic Statue
 Drained Crystal	抜き取られたクリスタル	name	object	Drained Crystal
 Lizardman corpse	リザードマンの遺体	name	object	Lizardman corpse
 Lizardman head	リザードマンの頭部	name	object	Lizardman head
@@ -3288,7 +3288,7 @@ Achievement diary display	達成記録の展示	name	object	Achievement diary di
 Elite clue scroll display	超級宝さがしの巻物の展示	name	object	Elite clue scroll display
 Master clue scroll display	達人宝さがしの巻物の展示	name	object	Master clue scroll display
 Runite Minor	Runite Minor	name	object	Runite Minor
-Great Olm display	偉大なるオルㇺの展示	name	object	Great Olm display
+Great Olm display	偉大なるオルムの展示	name	object	Great Olm display
 Tzkal-Zuk display	ツズカル・ザックの展示	name	object	Tzkal-Zuk display
 General Graardor display	グラドー将軍の展示	name	object	General Graardor display
 Corporeal Beast display	コーポリアル獣の展示	name	object	Corporeal Beast display
@@ -3530,7 +3530,7 @@ Barrel of Mud	泥の樽	name	object	Barrel of Mud
 Barrel of Spears	槍の樽	name	object	Barrel of Spears
 Elevator controls	エレベーターのコントローラー	name	object	Elevator controls
 Elevator	エレベーター	name	object	Elevator
-Olmic pillar	オルㇺの柱	name	object	Olmic pillar
+Olmic pillar	オルムの柱	name	object	Olmic pillar
 Lizard dwelling	トカゲの生息地	name	object	Lizard dwelling
 Lizardman eggs	リザードマンの卵	name	object	Lizardman eggs
 Strange hole	不可思議な穴	name	object	Strange hole
@@ -4686,13 +4686,3 @@ Powder grey pumpkin seedling		name	object	Powder grey pumpkin seedling
 Pumpkin patch		name	object	Pumpkin patch
 Storage bin		name	object	Storage bin
 Pumpkin carving table		name	object	Pumpkin carving table
-Metal doors		name	object	Metal doors
-Echoing flames		name	object	Echoing flames
-Candy cane		name	object	Candy cane
-Candy canes		name	object	Candy canes
-Candy cane fence		name	object	Candy cane fence
-Candy cane Fence		name	object	Candy cane Fence
-Broken Sunflowers		name	object	Broken Sunflowers
-Dog Burrow		name	object	Dog Burrow
-Candy cane crate		name	object	Candy cane crate
-Broken candy canes		name	object	Broken candy canes

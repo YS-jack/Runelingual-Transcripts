@@ -675,7 +675,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115011">
         <xliff:source>If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.</xliff:source>
-        <xliff:target state="translated">戦闘中に表示される赤い「ヒットマーク」は敵から受けたダメージ量を表します。</xliff:target>
+        <xliff:target state="translated">戦闘中に表示される赤い「ヒットマーク」は敵から受けたダメージを表します。</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -11147,7 +11147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116320">
         <xliff:source>Protect from Magic</xliff:source>
-        <xliff:target state="translated">魔法から守る</xliff:target>
+        <xliff:target state="translated">魔法の防御</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -11155,7 +11155,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116321">
         <xliff:source>Protect from Missiles</xliff:source>
-        <xliff:target state="translated">発射体から守る</xliff:target>
+        <xliff:target state="translated">発射体の防御</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -11163,7 +11163,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116322">
         <xliff:source>Protect from Melee</xliff:source>
-        <xliff:target state="translated">近接武器から守る</xliff:target>
+        <xliff:target state="translated">近接の加護</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -24225,6 +24225,1134 @@ sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    </xliff:body>
+    <xliff:trans-unit id="117955"><xliff:source>Combat Lvl: &lt;Num0&gt;</xliff:source><xliff:target state="translated">戦闘レベル：&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117956"><xliff:source>Auto Retaliate (On)</xliff:source><xliff:target state="translated">自動反撃（有）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117957"><xliff:source>Auto Retaliate (Off)</xliff:source><xliff:target state="translated">自動反撃（無）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117958"><xliff:source>Special Attack: &lt;Num0&gt;%</xliff:source><xliff:target state="translated">必殺技：&lt;Num0&gt;%</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117959"><xliff:source>When active your character will automatically fight back if attacked.</xliff:source><xliff:target state="translated">有効な場合、攻撃されたらその敵を自動で攻撃します。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117960"><xliff:source>Category: Pickaxe</xliff:source><xliff:target state="translated">カテゴリ：ツルハシ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117961"><xliff:source>Category: Spear</xliff:source><xliff:target state="translated">カテゴリ：槍</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117962"><xliff:source>Category: Axe</xliff:source><xliff:target state="translated">カテゴリ：斧</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117963"><xliff:source>Category: Stab Sword</xliff:source><xliff:target state="translated">カテゴリ：突き剣</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117964"><xliff:source>Category: Thrown</xliff:source><xliff:target state="translated">カテゴリ：投げ物</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117965"><xliff:source>Category: Bow</xliff:source><xliff:target state="translated">カテゴリ：弓</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117966"><xliff:source>Category: Crossbow</xliff:source><xliff:target state="translated">カテゴリ：洋弓銃</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117967"><xliff:source>Category: Staff</xliff:source><xliff:target state="translated">カテゴリ：杖</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117968"><xliff:source>Category: Powered Staff</xliff:source><xliff:target state="translated">カテゴリ：充填された杖</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117969"><xliff:source>(Accurate) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">正確・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117970"><xliff:source>(Accurate) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">正確・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117971"><xliff:source>(Accurate) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">正確・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117972"><xliff:source>(Accurate) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">正確・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117973"><xliff:source>(Accurate) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">正確・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117974"><xliff:source>(Accurate) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">正確・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117975"><xliff:source>(Accurate) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">正確・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117976"><xliff:source>(Accurate) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">正確・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117977"><xliff:source>(Accurate) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">正確・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117978"><xliff:source>(Accurate) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">正確・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117979"><xliff:source>(Accurate) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">正確・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117980"><xliff:source>(Accurate) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">正確・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117981"><xliff:source>(Accurate) (Heavy) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">正確・重量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117982"><xliff:source>(Accurate) (Heavy) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">正確・重量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117983"><xliff:source>(Accurate) (Heavy) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">正確・重量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117984"><xliff:source>(Accurate) (Heavy) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">正確・重量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117985"><xliff:source>(Accurate) (Heavy) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">正確・重量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117986"><xliff:source>(Accurate) (Heavy) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">正確・重量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117987"><xliff:source>(Accurate) (Heavy) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">正確・重量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117988"><xliff:source>(Accurate) (Heavy) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">正確・重量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117989"><xliff:source>(Accurate) (Heavy) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">正確・重量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117990"><xliff:source>(Accurate) (Heavy) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">正確・重量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117991"><xliff:source>(Accurate) (Heavy) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">正確・重量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117992"><xliff:source>(Accurate) (Heavy) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">正確・重量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117993"><xliff:source>(Accurate) (Light) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">正確・軽量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117994"><xliff:source>(Accurate) (Light) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">正確・軽量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117995"><xliff:source>(Accurate) (Light) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">正確・軽量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117996"><xliff:source>(Accurate) (Light) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">正確・軽量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117997"><xliff:source>(Accurate) (Light) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">正確・軽量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117998"><xliff:source>(Accurate) (Light) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">正確・軽量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="117999"><xliff:source>(Accurate) (Light) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">正確・軽量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118000"><xliff:source>(Accurate) (Light) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">正確・軽量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118001"><xliff:source>(Accurate) (Light) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">正確・軽量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118002"><xliff:source>(Accurate) (Light) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">正確・軽量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118003"><xliff:source>(Accurate) (Light) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">正確・軽量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118004"><xliff:source>(Accurate) (Light) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">正確・軽量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118005"><xliff:source>(Accurate) (Standard) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">正確・通常・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118006"><xliff:source>(Accurate) (Standard) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">正確・通常・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118007"><xliff:source>(Accurate) (Standard) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">正確・通常・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118008"><xliff:source>(Accurate) (Standard) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">正確・通常・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118009"><xliff:source>(Accurate) (Standard) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">正確・通常・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118010"><xliff:source>(Accurate) (Standard) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">正確・通常・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118011"><xliff:source>(Accurate) (Standard) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">正確・通常・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118012"><xliff:source>(Accurate) (Standard) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">正確・通常・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118013"><xliff:source>(Accurate) (Standard) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">正確・通常・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118014"><xliff:source>(Accurate) (Standard) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">正確・通常・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118015"><xliff:source>(Accurate) (Standard) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">正確・通常・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118016"><xliff:source>(Accurate) (Standard) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">正確・通常・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118017"><xliff:source>(Aggressive) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">積極的・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118018"><xliff:source>(Aggressive) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">積極的・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118019"><xliff:source>(Aggressive) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">積極的・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118020"><xliff:source>(Aggressive) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">積極的・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118021"><xliff:source>(Aggressive) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">積極的・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118022"><xliff:source>(Aggressive) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">積極的・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118023"><xliff:source>(Aggressive) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">積極的・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118024"><xliff:source>(Aggressive) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">積極的・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118025"><xliff:source>(Aggressive) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">積極的・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118026"><xliff:source>(Aggressive) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">積極的・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118027"><xliff:source>(Aggressive) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">積極的・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118028"><xliff:source>(Aggressive) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">積極的・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118029"><xliff:source>(Aggressive) (Heavy) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">積極的・重量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118030"><xliff:source>(Aggressive) (Heavy) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">積極的・重量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118031"><xliff:source>(Aggressive) (Heavy) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">積極的・重量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118032"><xliff:source>(Aggressive) (Heavy) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">積極的・重量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118033"><xliff:source>(Aggressive) (Heavy) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">積極的・重量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118034"><xliff:source>(Aggressive) (Heavy) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">積極的・重量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118035"><xliff:source>(Aggressive) (Heavy) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">積極的・重量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118036"><xliff:source>(Aggressive) (Heavy) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">積極的・重量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118037"><xliff:source>(Aggressive) (Heavy) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">積極的・重量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118038"><xliff:source>(Aggressive) (Heavy) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">積極的・重量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118039"><xliff:source>(Aggressive) (Heavy) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">積極的・重量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118040"><xliff:source>(Aggressive) (Heavy) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">積極的・重量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118041"><xliff:source>(Aggressive) (Light) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">積極的・軽量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118042"><xliff:source>(Aggressive) (Light) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">積極的・軽量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118043"><xliff:source>(Aggressive) (Light) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">積極的・軽量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118044"><xliff:source>(Aggressive) (Light) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">積極的・軽量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118045"><xliff:source>(Aggressive) (Light) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">積極的・軽量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118046"><xliff:source>(Aggressive) (Light) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">積極的・軽量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118047"><xliff:source>(Aggressive) (Light) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">積極的・軽量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118048"><xliff:source>(Aggressive) (Light) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">積極的・軽量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118049"><xliff:source>(Aggressive) (Light) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">積極的・軽量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118050"><xliff:source>(Aggressive) (Light) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">積極的・軽量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118051"><xliff:source>(Aggressive) (Light) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">積極的・軽量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118052"><xliff:source>(Aggressive) (Light) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">積極的・軽量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118053"><xliff:source>(Aggressive) (Standard) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">積極的・通常・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118054"><xliff:source>(Aggressive) (Standard) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">積極的・通常・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118055"><xliff:source>(Aggressive) (Standard) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">積極的・通常・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118056"><xliff:source>(Aggressive) (Standard) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">積極的・通常・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118057"><xliff:source>(Aggressive) (Standard) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">積極的・通常・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118058"><xliff:source>(Aggressive) (Standard) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">積極的・通常・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118059"><xliff:source>(Aggressive) (Standard) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">積極的・通常・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118060"><xliff:source>(Aggressive) (Standard) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">積極的・通常・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118061"><xliff:source>(Aggressive) (Standard) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">積極的・通常・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118062"><xliff:source>(Aggressive) (Standard) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">積極的・通常・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118063"><xliff:source>(Aggressive) (Standard) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">積極的・通常・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118064"><xliff:source>(Aggressive) (Standard) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">積極的・通常・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118065"><xliff:source>(Defensive) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">守備・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118066"><xliff:source>(Defensive) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">守備・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118067"><xliff:source>(Defensive) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">守備・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118068"><xliff:source>(Defensive) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">守備・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118069"><xliff:source>(Defensive) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">守備・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118070"><xliff:source>(Defensive) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">守備・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118071"><xliff:source>(Defensive) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">守備・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118072"><xliff:source>(Defensive) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">守備・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118073"><xliff:source>(Defensive) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">守備・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118074"><xliff:source>(Defensive) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">守備・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118075"><xliff:source>(Defensive) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">守備・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118076"><xliff:source>(Defensive) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">守備・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118077"><xliff:source>(Defensive) (Heavy) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">守備・重量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118078"><xliff:source>(Defensive) (Heavy) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">守備・重量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118079"><xliff:source>(Defensive) (Heavy) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">守備・重量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118080"><xliff:source>(Defensive) (Heavy) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">守備・重量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118081"><xliff:source>(Defensive) (Heavy) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">守備・重量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118082"><xliff:source>(Defensive) (Heavy) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">守備・重量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118083"><xliff:source>(Defensive) (Heavy) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">守備・重量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118084"><xliff:source>(Defensive) (Heavy) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">守備・重量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118085"><xliff:source>(Defensive) (Heavy) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">守備・重量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118086"><xliff:source>(Defensive) (Heavy) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">守備・重量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118087"><xliff:source>(Defensive) (Heavy) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">守備・重量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118088"><xliff:source>(Defensive) (Heavy) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">守備・重量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118089"><xliff:source>(Defensive) (Light) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">守備・軽量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118090"><xliff:source>(Defensive) (Light) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">守備・軽量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118091"><xliff:source>(Defensive) (Light) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">守備・軽量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118092"><xliff:source>(Defensive) (Light) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">守備・軽量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118093"><xliff:source>(Defensive) (Light) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">守備・軽量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118094"><xliff:source>(Defensive) (Light) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">守備・軽量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118095"><xliff:source>(Defensive) (Light) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">守備・軽量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118096"><xliff:source>(Defensive) (Light) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">守備・軽量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118097"><xliff:source>(Defensive) (Light) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">守備・軽量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118098"><xliff:source>(Defensive) (Light) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">守備・軽量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118099"><xliff:source>(Defensive) (Light) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">守備・軽量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118100"><xliff:source>(Defensive) (Light) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">守備・軽量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118101"><xliff:source>(Defensive) (Standard) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">守備・通常・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118102"><xliff:source>(Defensive) (Standard) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">守備・通常・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118103"><xliff:source>(Defensive) (Standard) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">守備・通常・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118104"><xliff:source>(Defensive) (Standard) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">守備・通常・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118105"><xliff:source>(Defensive) (Standard) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">守備・通常・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118106"><xliff:source>(Defensive) (Standard) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">守備・通常・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118107"><xliff:source>(Defensive) (Standard) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">守備・通常・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118108"><xliff:source>(Defensive) (Standard) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">守備・通常・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118109"><xliff:source>(Defensive) (Standard) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">守備・通常・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118110"><xliff:source>(Defensive) (Standard) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">守備・通常・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118111"><xliff:source>(Defensive) (Standard) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">守備・通常・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118112"><xliff:source>(Defensive) (Standard) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">守備・通常・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118113"><xliff:source>(Controlled) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">バランス・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118114"><xliff:source>(Controlled) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">バランス・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118115"><xliff:source>(Controlled) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">バランス・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118116"><xliff:source>(Controlled) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">バランス・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118117"><xliff:source>(Controlled) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">バランス・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118118"><xliff:source>(Controlled) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">バランス・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118119"><xliff:source>(Controlled) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">バランス・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118120"><xliff:source>(Controlled) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">バランス・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118121"><xliff:source>(Controlled) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">バランス・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118122"><xliff:source>(Controlled) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">バランス・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118123"><xliff:source>(Controlled) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">バランス・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118124"><xliff:source>(Controlled) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">バランス・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118125"><xliff:source>(Controlled) (Heavy) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">バランス・重量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118126"><xliff:source>(Controlled) (Heavy) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">バランス・重量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118127"><xliff:source>(Controlled) (Heavy) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">バランス・重量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118128"><xliff:source>(Controlled) (Heavy) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">バランス・重量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118129"><xliff:source>(Controlled) (Heavy) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">バランス・重量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118130"><xliff:source>(Controlled) (Heavy) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">バランス・重量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118131"><xliff:source>(Controlled) (Heavy) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">バランス・重量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118132"><xliff:source>(Controlled) (Heavy) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">バランス・重量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118133"><xliff:source>(Controlled) (Heavy) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">バランス・重量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118134"><xliff:source>(Controlled) (Heavy) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">バランス・重量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118135"><xliff:source>(Controlled) (Heavy) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">バランス・重量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118136"><xliff:source>(Controlled) (Heavy) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">バランス・重量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118137"><xliff:source>(Controlled) (Light) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">バランス・軽量・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118138"><xliff:source>(Controlled) (Light) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">バランス・軽量・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118139"><xliff:source>(Controlled) (Light) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">バランス・軽量・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118140"><xliff:source>(Controlled) (Light) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">バランス・軽量・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118141"><xliff:source>(Controlled) (Light) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">バランス・軽量・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118142"><xliff:source>(Controlled) (Light) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">バランス・軽量・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118143"><xliff:source>(Controlled) (Light) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">バランス・軽量・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118144"><xliff:source>(Controlled) (Light) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">バランス・軽量・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118145"><xliff:source>(Controlled) (Light) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">バランス・軽量・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118146"><xliff:source>(Controlled) (Light) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">バランス・軽量・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118147"><xliff:source>(Controlled) (Light) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">バランス・軽量・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118148"><xliff:source>(Controlled) (Light) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">バランス・軽量・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118149"><xliff:source>(Controlled) (Standard) (Stab) (Attack XP)</xliff:source><xliff:target state="translated">バランス・通常・刺す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118150"><xliff:source>(Controlled) (Standard) (Stab) (Strength XP)</xliff:source><xliff:target state="translated">バランス・通常・刺す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118151"><xliff:source>(Controlled) (Standard) (Stab) (Defence XP)</xliff:source><xliff:target state="translated">バランス・通常・刺す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118152"><xliff:source>(Controlled) (Standard) (Stab) (Shared XP)</xliff:source><xliff:target state="translated">バランス・通常・刺す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118153"><xliff:source>(Controlled) (Standard) (Slash) (Attack XP)</xliff:source><xliff:target state="translated">バランス・通常・切り裂く・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118154"><xliff:source>(Controlled) (Standard) (Slash) (Strength XP)</xliff:source><xliff:target state="translated">バランス・通常・切り裂く・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118155"><xliff:source>(Controlled) (Standard) (Slash) (Defence XP)</xliff:source><xliff:target state="translated">バランス・通常・切り裂く・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118156"><xliff:source>(Controlled) (Standard) (Slash) (Shared XP)</xliff:source><xliff:target state="translated">バランス・通常・切り裂く・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118157"><xliff:source>(Controlled) (Standard) (Crush) (Attack XP)</xliff:source><xliff:target state="translated">バランス・通常・潰す・攻撃力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118158"><xliff:source>(Controlled) (Standard) (Crush) (Strength XP)</xliff:source><xliff:target state="translated">バランス・通常・潰す・腕力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118159"><xliff:source>(Controlled) (Standard) (Crush) (Defence XP)</xliff:source><xliff:target state="translated">バランス・通常・潰す・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118160"><xliff:source>(Controlled) (Standard) (Crush) (Shared XP)</xliff:source><xliff:target state="translated">バランス・通常・潰す・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118161"><xliff:source>(Accurate) (Light) (Ranged XP)</xliff:source><xliff:target state="translated">正確・軽量・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118162"><xliff:source>(Accurate) (Light) (Defence XP)</xliff:source><xliff:target state="translated">正確・軽量・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118163"><xliff:source>(Accurate) (Light) (Shared XP)</xliff:source><xliff:target state="translated">正確・軽量・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118164"><xliff:source>(Accurate) (Light) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">正確・軽量・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118165"><xliff:source>(Accurate) (Standard) (Ranged XP)</xliff:source><xliff:target state="translated">正確・通常・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118166"><xliff:source>(Accurate) (Standard) (Defence XP)</xliff:source><xliff:target state="translated">正確・通常・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118167"><xliff:source>(Accurate) (Standard) (Shared XP)</xliff:source><xliff:target state="translated">正確・通常・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118168"><xliff:source>(Accurate) (Standard) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">正確・通常・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118169"><xliff:source>(Accurate) (Heavy) (Ranged XP)</xliff:source><xliff:target state="translated">正確・重量・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118170"><xliff:source>(Accurate) (Heavy) (Defence XP)</xliff:source><xliff:target state="translated">正確・重量・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118171"><xliff:source>(Accurate) (Heavy) (Shared XP)</xliff:source><xliff:target state="translated">正確・重量・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118172"><xliff:source>(Accurate) (Heavy) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">正確・重量・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118173"><xliff:source>(Rapid) (Light) (Ranged XP)</xliff:source><xliff:target state="translated">連射・軽量・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118174"><xliff:source>(Rapid) (Light) (Defence XP)</xliff:source><xliff:target state="translated">連射・軽量・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118175"><xliff:source>(Rapid) (Light) (Shared XP)</xliff:source><xliff:target state="translated">連射・軽量・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118176"><xliff:source>(Rapid) (Light) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">連射・軽量・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118177"><xliff:source>(Rapid) (Standard) (Ranged XP)</xliff:source><xliff:target state="translated">連射・通常・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118178"><xliff:source>(Rapid) (Standard) (Defence XP)</xliff:source><xliff:target state="translated">連射・通常・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118179"><xliff:source>(Rapid) (Standard) (Shared XP)</xliff:source><xliff:target state="translated">連射・通常・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118180"><xliff:source>(Rapid) (Standard) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">連射・通常・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118181"><xliff:source>(Rapid) (Heavy) (Ranged XP)</xliff:source><xliff:target state="translated">連射・重量・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118182"><xliff:source>(Rapid) (Heavy) (Defence XP)</xliff:source><xliff:target state="translated">連射・重量・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118183"><xliff:source>(Rapid) (Heavy) (Shared XP)</xliff:source><xliff:target state="translated">連射・重量・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118184"><xliff:source>(Rapid) (Heavy) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">連射・重量・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118185"><xliff:source>(Longrange) (Light) (Ranged XP)</xliff:source><xliff:target state="translated">遠距離・軽量・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118186"><xliff:source>(Longrange) (Light) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・軽量・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118187"><xliff:source>(Longrange) (Light) (Shared XP)</xliff:source><xliff:target state="translated">遠距離・軽量・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118188"><xliff:source>(Longrange) (Light) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・軽量・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118189"><xliff:source>(Longrange) (Standard) (Ranged XP)</xliff:source><xliff:target state="translated">遠距離・通常・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118190"><xliff:source>(Longrange) (Standard) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・通常・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118191"><xliff:source>(Longrange) (Standard) (Shared XP)</xliff:source><xliff:target state="translated">遠距離・通常・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118192"><xliff:source>(Longrange) (Standard) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・通常・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118193"><xliff:source>(Longrange) (Heavy) (Ranged XP)</xliff:source><xliff:target state="translated">遠距離・重量・遠射XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118194"><xliff:source>(Longrange) (Heavy) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・重量・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118195"><xliff:source>(Longrange) (Heavy) (Shared XP)</xliff:source><xliff:target state="translated">遠距離・重量・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118196"><xliff:source>(Longrange) (Heavy) (Ranged XP) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・重量・遠射XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118197"><xliff:source>(Accurate) (Magic XP)</xliff:source><xliff:target state="translated">正確・魔法XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118198"><xliff:source>(Accurate) (Defence XP)</xliff:source><xliff:target state="translated">正確・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118199"><xliff:source>(Accurate) (Shared XP)</xliff:source><xliff:target state="translated">正確・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118200"><xliff:source>(Accurate) (Magic XP) (Defence XP)</xliff:source><xliff:target state="translated">正確・魔法XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118201"><xliff:source>(Longrange) (Magic XP)</xliff:source><xliff:target state="translated">遠距離・魔法XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118202"><xliff:source>(Longrange) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118203"><xliff:source>(Longrange) (Shared XP)</xliff:source><xliff:target state="translated">遠距離・共有XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118204"><xliff:source>(Longrange) (Magic XP) (Defence XP)</xliff:source><xliff:target state="translated">遠距離・魔法XP・守備力XP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118205"><xliff:source>Accurate</xliff:source><xliff:target state="translated">正確に</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118206"><xliff:source>Aggressive</xliff:source><xliff:target state="translated">積極的に</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118207"><xliff:source>Defensive</xliff:source><xliff:target state="translated">守備</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118208"><xliff:source>Controlled</xliff:source><xliff:target state="translated">バランスよく</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118209"><xliff:source>Chop</xliff:source><xliff:target state="translated">切る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118210"><xliff:source>Slash</xliff:source><xliff:target state="translated">切り裂く</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118211"><xliff:source>Stab</xliff:source><xliff:target state="translated">刺す</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118212"><xliff:source>Block</xliff:source><xliff:target state="translated">ブロック</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118213"><xliff:source>Pound</xliff:source><xliff:target state="translated">打つ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118214"><xliff:source>Pummel</xliff:source><xliff:target state="translated">殴打</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118215"><xliff:source>Spike</xliff:source><xliff:target state="translated">突く</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118216"><xliff:source>Impale</xliff:source><xliff:target state="translated">貫く</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118217"><xliff:source>Smash</xliff:source><xliff:target state="translated">砕く</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118218"><xliff:source>Lunge</xliff:source><xliff:target state="translated">突進</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118219"><xliff:source>Swipe</xliff:source><xliff:target state="translated">なぎ払う</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118220"><xliff:source>Hack</xliff:source><xliff:target state="translated">切り開く</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118221"><xliff:source>Reap</xliff:source><xliff:target state="translated">刈り取る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118222"><xliff:source>Rapid</xliff:source><xliff:target state="translated">連射</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118223"><xliff:source>Longrange</xliff:source><xliff:target state="translated">遠距離</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118224"><xliff:source>Flick</xliff:source><xliff:target state="translated">フリック</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118225"><xliff:source>Lash</xliff:source><xliff:target state="translated">鞭打つ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118226"><xliff:source>Deflect</xliff:source><xliff:target state="translated">そらす</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118227"><xliff:source>Fend</xliff:source><xliff:target state="translated">防ぐ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118228"><xliff:source>Bash</xliff:source><xliff:target state="translated">激突</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118229"><xliff:source>Blaze</xliff:source><xliff:target state="translated">ブレイズ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118230"><xliff:source>Scorch</xliff:source><xliff:target state="translated">焦がす</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118231"><xliff:source>Flare</xliff:source><xliff:target state="translated">フレア</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118232"><xliff:source>Focus</xliff:source><xliff:target state="translated">集中</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118233"><xliff:source>Spell</xliff:source><xliff:target state="translated">呪文</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118234"><xliff:source>Retainer: Traps a vampyre juvenile or juvinate provided they have &lt;Num0&gt;% or less hitpoints remaining. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">リテイナー：残り体力が&lt;Num0&gt;%以下のジュビネート・ジュビナイルの吸血鬼を束縛。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118235"><xliff:source>Power of Death: Reduce all melee damage you receive by &lt;Num0&gt;% for the next minute while the staff remains equipped. Stacks with Protect from Melee. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">死の力：１分間この杖を装備している間、受ける近接ダメージを&lt;Num0&gt;%軽減。「近接の加護」と重複可。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118236"><xliff:source>Rampage: Drain your Attack, Defence, Ranged &amp; Magic levels by &lt;Num0&gt;%, while increasing your Strength by &lt;Num1&gt; levels, plus &lt;Num2&gt;% of the drained levels. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">ランページ：攻撃力・守備力・遠射・魔法レベルを&lt;Num0&gt;%低下、低下量の&lt;Num1&gt;%+&lt;Num2&gt;レベルの腕力を上げる。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118237"><xliff:source>Lumber Up: Increase your Woodcutting level by &lt;Num0&gt;. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">ランバー・アップ：木こりレベルを&lt;Num0&gt;上げる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118238"><xliff:source>Rock Knocker: Increase your Mining level by &lt;Num0&gt;. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">ロック・ノッカー：採掘レベルを&lt;Num0&gt;上げる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118239"><xliff:source>Puncture: Deal two quick slashes with &lt;Num0&gt;% increased accuracy and &lt;Num1&gt;% increased damage. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">パンクチャ：命中率＋&lt;Num0&gt;%、ダメージ+&lt;Num1&gt;%の素早い切り裂きで２回攻撃。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118240"><xliff:source>Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">バックスタブ：無防備な対象に命中率を大幅に上げた攻撃を行い、与ダメージ分だけ対象の守備力レベルを低下。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118241"><xliff:source>Sanctuary: Temporarily increase your Defence level by &lt;Num0&gt;. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">サンクチャリ：守備力レベルを一時的に&lt;Num0&gt;上げる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118242"><xliff:source>Cleave: Deal a powerful attack that inflicts &lt;Num0&gt;% more damage. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">クリーブ：ダメージ+&lt;Num0&gt;%の強力な攻撃をする。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118243"><xliff:source>Cleave: Deal a powerful attack that inflicts &lt;Num0&gt;% more damage with &lt;Num1&gt;% increased accuracy and increased speed. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">クリーブ：ダメージ+&lt;Num0&gt;%、命中率+&lt;Num1&gt;で素早い強力な攻撃をする。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118244"><xliff:source>Sever: Deal a slash with increased accuracy that prevents your target from using protection prayers for &lt;Num0&gt; seconds if it successfully hits. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">セバー：命中率が上昇した切り裂き攻撃をし、当たると敵は&lt;Num0&gt;秒間守りの祈りが使えなくなる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118245"><xliff:source>Weaken: Temporarily drain your target's Attack, Strength and Defence by &lt;Num0&gt;%. Is twice as effective against demons. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">弱体化：敵の攻撃力・腕力・守備力を&lt;Num0&gt;%低下。悪魔に対しては効力２倍。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118246"><xliff:source>Liquify: Deal an attack with double the chance of hitting that boosts your Strength, Attack and Defence levels by &lt;Num0&gt;% of the damage dealt. Can only be used underwater. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">液化：命中率２倍の攻撃をし、腕力・攻撃力・守備力レベルを与ダメージの&lt;Num0&gt;%上げる水中でのみ使用可。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118247"><xliff:source>Powerstab: Hit up to fourteen enemies surrounding you. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">パワースタブ：周囲の敵14体までを攻撃。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118248"><xliff:source>The Judgement: Deal an attack that inflicts &lt;Num0&gt;% more damage with double accuracy. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">ザ・ジャッジメント：ダメージ+&lt;Num0&gt;%、命中率２倍の攻撃をする。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118249"><xliff:source>Warstrike: Deal an attack, with double accuracy, that inflicts &lt;Num0&gt;% more damage and drains one of your target's combat stats by the damage dealt. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">ウォーストライク：命中率２倍、ダメージ+&lt;Num0&gt;%で攻撃し、敵の戦闘ステータスを１つ与ダメージだけ低下。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118250"><xliff:source>Healing Blade: Deal an attack that inflicts &lt;Num0&gt;% more damage with double accuracy, while restoring your Hitpoints and Prayer by &lt;Num1&gt;% and &lt;Num2&gt;% of the damage dealt respectively. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">ヒーリング・ブレード：与ダメージ+&lt;Num0&gt;%の命中率２倍の攻撃をし、体力と祈力をそれぞれ与ダメージの&lt;Num1&gt;%と&lt;Num2&gt;%回復。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118251"><xliff:source>Ice Cleave: Deal an attack that inflicts &lt;Num0&gt;% more damage with double accuracy and freezes your target for &lt;Num1&gt; seconds if it successfully hits. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">アイス・クリーブ：与ダメージ+&lt;Num0&gt;%の命中率２倍の攻撃をし、命中すれば相手を&lt;Num1&gt;秒間凍らせる。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118252"><xliff:source>Blood Sacrifice: Deal an attack that inflicts &lt;Num0&gt;% more damage with double accuracy and marks your target for a blood sacrifice. Targets marked for a blood sacrifice will be hit for &lt;Num1&gt; damage after a short delay, unless they move away. If they are hit, you'll also be healed for the damage dealt. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">血の代償：与ダメージ+&lt;Num0&gt;%の命中率２倍の攻撃をし、相手を血の代償の対象にする。血の代償の対象は、移動しない限り、少し遅れて&lt;Num1&gt;のダメージを受ける。対象に命中すれば与ダメージ分だけ自分は体力を回復。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118253"><xliff:source>Saradomin's Lightning: Call upon Saradomin's power to perform an attack that inflicts &lt;Num0&gt;% more melee damage and &lt;Num1&gt;-&lt;Num2&gt; extra magic damage. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">サラドミンの雷：サラドミンの力を呼び起こし、与ダメージ+&lt;Num0&gt;%の近接ダメージと&lt;Num1&gt;-&lt;Num2&gt;の魔法ダメージを与える。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118254"><xliff:source>Saradomin's Lightning: Call upon Saradomin's power to perform an attack with &lt;Num0&gt;% higher max hit. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">サラドミンの雷：サラドミンの力を呼び起こし、最大ダメージ+&lt;Num0&gt;%の攻撃をする。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118255"><xliff:source>Shatter: Increase damage by &lt;Num0&gt;% and accuracy by &lt;Num1&gt;% for one hit. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">粉砕：１ヒットだけ与ダメージ+&lt;Num0&gt;%と命中率+&lt;Num1&gt;%上昇。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118256"><xliff:source>Shatter: Increase damage by &lt;Num0&gt;% and accuracy by &lt;Num1&gt;% for one hit, treats your target's defence as if it was reduced to &lt;Num2&gt;%. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">粉砕：１ヒットだけ与ダメージ+&lt;Num0&gt;%と命中率+&lt;Num1&gt;%上昇、その時だけ敵の守備力を&lt;Num2&gt;%低下(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118257"><xliff:source>Favour of the War God: Deal an attack which hits through Protect from Melee and siphons Prayer points equal to the damage dealt. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">戦神の恩恵： 近接の防御を通して命中する攻撃を与え、与えたダメージ分のPrayer pointsを吸い上げる。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118258"><xliff:source>Impale: Deal an attack with &lt;Num0&gt;% increased Attack and Strength, but with a slower speed. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">インペイル： 攻撃力と腕力を&lt;Num0&gt;%増加させた攻撃をする。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118259"><xliff:source>Quick Smash: Deal an extra attack instantly. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">クイックスマッシュ： 即座に追加攻撃する。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118260"><xliff:source>Energy Drain: Deal an attack with &lt;Num0&gt;% increased accuracy that siphons &lt;Num1&gt;% of your target's run energy. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">エナジードレイン： 命中率が&lt;Num0&gt;%増加した攻撃を与え、対象の走力を&lt;Num1&gt;%吸い取る。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118261"><xliff:source>Binding Tentacle: Bind your target for &lt;Num0&gt; seconds and increase the chance of them being poisoned. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">束縛の触手：対象を&lt;Num0&gt;秒間拘束し、毒状態にする確率を増加させる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118262"><xliff:source>Penance: Deal an attack that inflicts &lt;Num0&gt;% more damage per prayer point that you have used. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">懺悔：使用した祈りポイント1つにつき&lt;Num0&gt;%多いダメージを与える攻撃を行う。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118263"><xliff:source>Shove: Push your target back and stun them for &lt;Num0&gt; seconds. This attack deals no damage. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">突き飛ばす： 対象を押し戻し、&lt;Num0&gt;秒間気絶させる。この攻撃はダメージを与えない。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118264"><xliff:source>Sweep: If your target is small, adjacent targets may be hit too. Otherwise, your target may be hit a second time, with &lt;Num0&gt;% decreased accuracy. Damage in all cases is increased by &lt;Num1&gt;% of your max hit. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">スイープ： 対象が小さい場合、隣接する敵にも命中することがある。そうでない場合、命中率&lt;Num0&gt;%低下した２回目の攻撃をする。いずれにしてもダメージは最大値の&lt;Num1&gt;%増加する。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118265"><xliff:source>Powershot: Deal an attack that is guaranteed to hit your target. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">パワーショット： ターゲットに確実に命中する攻撃を与える。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118266"><xliff:source>Snapshot: Fire two arrows within quick succession, but with reduced accuracy. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">スナップショット： 2本の矢を連続して放つが、命中率は下がる。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118267"><xliff:source>Soulshot: Deal an attack that is guaranteed to hit your target and lowers your target's Magic level by the damage dealt. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">ソウルショット：確実に命中する攻撃を与え、与えたダメージ分だけ対象の魔法レベルを下げる。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118268"><xliff:source>Snipe: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">スナイプ：無防備な敵に命中率を大幅に上げた攻撃を与え、与えたダメージ分だけ敵の防御力を下げる。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118269"><xliff:source>Armadyl Eye: Deal an attack with double accuracy, also doubles the base activation chance of enchanted bolt effects. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">アーマディル・アイ：命中率2倍の攻撃を与え、魔法付与ボルトの効果の基本発動確率を2倍にする。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118270"><xliff:source>Chainhit: Throw an axe which hits your target and then chains to hit further nearby targets, costing &lt;Num0&gt;% additional special attack per extra target. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">チェーンヒット： 斧を投げて敵を攻撃、連鎖してさらに近くの敵に攻撃。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118271"><xliff:source>Toxic Siphon: Deal an attack with &lt;Num0&gt;% increased accuracy that inflicts &lt;Num1&gt;% more damage and heals you for &lt;Num2&gt;% of the damage dealt. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">猛毒抽出：命中率+&lt;Num0&gt;%、与ダメージ+&lt;Num1&gt;%で攻撃し、与えたダメージの&lt;Num2&gt;%回復。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118272"><xliff:source>Smash: Deal an attack that inflicts &lt;Num0&gt;% more damage and lowers your target's Defence level by &lt;Num1&gt;%. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">スマッシュ：与ダメージ+&lt;Num0&gt;%で攻撃し、対象の守備力を&lt;Num1&gt;%低下。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118273"><xliff:source>Slice and Dice: Hit &lt;Num0&gt; times in quick succession, with great accuracy. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">スライス・アンド・ダイス：命中率の高い斬撃を&lt;Num0&gt;回する。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118274"><xliff:source>Concentrated Shot: Deal an attack with &lt;Num0&gt;% increased accuracy and damage, but takes an additional &lt;Num1&gt; seconds to fire. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">集中攻撃：命中率とダメージが&lt;Num0&gt;%増加した攻撃を与えるが、発射までに追加で&lt;Num1&gt;秒かかる。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118275"><xliff:source>Wild Stab: Deal an attack which hits through Protect from Melee with &lt;Num0&gt;% increased accuracy and damage. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">ワイルド・スタブ：命中率とダメージが&lt;Num0&gt;%増加した攻撃を「近接の防御」を通して与える。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118276"><xliff:source>Momentum Throw: Deal a fast attack with &lt;Num0&gt;% improved accuracy. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">モーメンタムスロー：命中率+&lt;Num0&gt;%の素早い攻撃をする。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118277"><xliff:source>Fishstabber: Increase your Fishing level by &lt;Num0&gt;. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">魚刺し：釣りレベルを&lt;Num0&gt;上げる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118278"><xliff:source>Shield Bash: Hit surrounding targets within a &lt;Num0&gt;x&lt;Num1&gt; area with &lt;Num2&gt;% increased accuracy. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">シールドバッシュ： &lt;Num0&gt;x&lt;Num1&gt;の範囲内の敵に対して命中率+&lt;Num2&gt;%の攻撃をする。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118279"><xliff:source>Hammer Blow: Deal an attack with &lt;Num0&gt;% more accuracy and a guaranteed +&lt;Num1&gt; damage. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">ハンマーの一撃：命中率+&lt;Num0&gt;%、確定+&lt;Num1&gt;のダメージを与える。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118280"><xliff:source>Annihilate: Hit your target with &lt;Num0&gt;% extra damage and in multicombat zones, hit all adjacent targets by &lt;Num1&gt;% less damage. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">殲滅： 敵に与ダメージ+&lt;Num0&gt;%で攻撃、混戦区域では隣接する全ての対象に与ダメージ-&lt;Num1&gt;%で攻撃。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118281"><xliff:source>Pulsate: Fire an incredibly powerful burst of energy. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">脈打つ：信じられないほど強力なエネルギーを発射する。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118282"><xliff:source>Hamstring: Deal a minimum of &lt;Num0&gt;% extra damage and hamstring player targets, causing them to lose run energy &lt;Num1&gt;x faster for &lt;Num2&gt; minute. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">ハムストリング：最低&lt;Num0&gt;%の追加ダメージを与え、&lt;Num2&gt;分間&lt;Num1&gt;倍の速さで走力を失わせる。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118283"><xliff:source>Phantom Strike: This does nothing vs non-player targets. As well as dealing a regular attack, your target will suffer that damage again over time. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">ファントムストライク： プレイヤー以外の対象には無効。通常の攻撃に加え、対象は時間経過とともに再びそのダメージを受ける。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118284"><xliff:source>Smash: Deal an attack which deals a minimum of &lt;Num0&gt;% extra damage and lowers your target's Defence level by &lt;Num1&gt;%. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">スマッシュ：最低&lt;Num0&gt;%の追加ダメージを与え、対象の守備力レベルを&lt;Num1&gt;%下げる。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118285"><xliff:source>Feint: Deal an attack which treats your target's defence as if it was reduced by &lt;Num0&gt;%. It will deal a minimum of &lt;Num1&gt;% extra damage. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">フェイント：対象の守備力を&lt;Num0&gt;%低い扱いで攻撃。最低でも与ダメージが&lt;Num1&gt;%上昇する。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118286"><xliff:source>Spear Wall: All damage dealt by this attack is reduced by &lt;Num0&gt;%, but will damage up to sixteen targets surrounding you. After using this attack, you will be immune from melee attacks for &lt;Num1&gt; seconds. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">槍の壁：与ダメージが&lt;Num0&gt;%減少するが、自分を周囲の最大16体の敵を攻撃する。この攻撃を使用した後、&lt;Num1&gt;秒間は近接ダメージを受けない。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118287"><xliff:source>Spear Wall: Will hit twice with second hit deals a damage between &lt;Num0&gt;% - &lt;Num1&gt;% of the first hit damage. After using this attack, you will be immune from melee attacks for &lt;Num2&gt; seconds. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">槍の壁：２回攻撃。 2回目のダメージは初撃の&lt;Num0&gt;%～&lt;Num1&gt;%。この攻撃を使用した後、&lt;Num1&gt;秒間は近接ダメージを受けない。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118288"><xliff:source>Duality: Throws two knives at your opponent. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">二元性：敵にナイフを２本投げる。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118289"><xliff:source>Unleash: Deal an attack which has &lt;Num0&gt;% increased accuracy and &lt;Num1&gt;% increased strength per &lt;Num2&gt;% of the special attack bar used. (&lt;Num3&gt;%)</xliff:source><xliff:target state="translated">開放：残り必殺技バーの&lt;Num2&gt;%を使用するごとに命中率+&lt;Num0&gt;%、ダメージ+&lt;Num1&gt;%で攻撃。(&lt;Num3&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118290"><xliff:source>Immolate: Fire a powerful spell with &lt;Num0&gt;% improved accuracy. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Costs no runes to use. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">焼却：命中率+&lt;Num0&gt;%の強力な魔法を放つ。ダメージは使用者の魔法レベル、装備品のボーナスに応じて変化。ルーンは不要。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118291"><xliff:source>Invocate: Fire a powerful spell that restores your prayer points by &lt;Num0&gt;% of the damage dealt. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Your prayer points can go above your level, to a maximum of &lt;Num1&gt;. Costs no runes to use. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">召喚：与ダメージの&lt;Num0&gt;%の祈力ポイントを回復する強力な魔法を放つ。ダメージは使用者の魔法レベル、装備品のボーナスに応じて変化。レベル以上の祈力ポイントまで回復可能、上限は&lt;Num1&gt;。ルーンは不要。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118292"><xliff:source>Eviscerate: Perform an attack with your true maximum hit and a &lt;Num0&gt;% accuracy bonus. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">殲滅：真の最大ダメージと&lt;Num0&gt;%の命中率ボーナスを持つ攻撃を行う。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118293"><xliff:source>Evoke: Perform an attack with double accuracy, with a guaranteed enchanted bolt activation rate on successful hit. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">呼び起こす： 命中率2倍の攻撃を行い、命中すると魔法付与のボルトの発動率が保証される。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118294"><xliff:source>Wrath of Amascut: Perform an attack with &lt;Num0&gt;% increased accuracy and &lt;Num1&gt;% increased damage, but with halved attack speed. If hit, the opponent will take &lt;Num2&gt;% increased damage for the next &lt;Num3&gt; seconds. This special attack can only be used within the Tombs of Amascut. (&lt;Num4&gt;%)</xliff:source><xliff:target state="translated">アマスカットの怒り：命中率+&lt;Num0&gt;%、与ダメージ+&lt;Num1&gt;%、攻撃速度半減で攻撃。命中した場合、相手はその後&lt;Num3&gt;秒間、&lt;Num2&gt;%増加したダメージを受ける。この必殺技はアマスカットの墓でのみ発動可能。(&lt;Num4&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118295"><xliff:source>Tumeken's Light: Sacrifice &lt;Num0&gt; prayer points to restore your hitpoints to &lt;Num1&gt;% above their maximum, cure all poison, restore all drained stats (except prayer) and fully restore your run energy. This special attack can only be used within the Tombs of Amascut. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">ツメケンの光：祈力ポイント&lt;Num0&gt;消費、体力を最大値の&lt;Num1&gt;%まで回復し、すべての毒を治し、全ての低下ステータス（祈りを除く）と走力を全回復。この必殺技はアマスカットの墓でのみ発動可能。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118296"><xliff:source>Swarm: Fire &lt;Num0&gt; times in quick succession, dealing reduced damage and inflicting poison. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">大群： 低下したダメージと毒を与える攻撃を&lt;Num0&gt;回放つ。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118297"><xliff:source>Bear Down: Perform an attack with double accuracy, dealing additional damage over time, draining your target's agility level and preventing them from running. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">ベアダウン：2倍の命中率で攻撃。追加で継続ダメージを与え、対象の運動神経レベルを下げ、走れなくする。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118298"><xliff:source>Condemn: Fire a powerful spell with increased accuracy and damage, lowering your target's magic and defence levels by up to &lt;Num0&gt;%. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">糾弾：命中率とダメージが増加した強力な魔法を放ち、対象の魔法力と防御力を最大&lt;Num0&gt;%低下させる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118299"><xliff:source>Disrupt: Summon a powerful bolt of lightning that deals guaranteed magic damage based on your max hit. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">混乱：強力な稲妻で確実に最大与ダメージに応じた魔法ダメージを与える。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118300"><xliff:source>Celebrate: Perform an attack to leave the area feeling more festive. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">祝う：お祭り気分を盛り上げる攻撃を行う。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118301"><xliff:source>Behead: Consume all Soul Stacks, attacking with increased damage and accuracy per stack, and healing for &lt;Num0&gt; health per stack. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">斬首： すべてのソウルスタックを消費し、1スタックにつきダメージと命中率が増加、体力を&lt;Num0&gt;回復。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118302"><xliff:source>Pulverize: A crushing blow with &lt;Num0&gt;% bonus accuracy that will reduce your target's defence by &lt;Num1&gt;%. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">粉砕： 命中率+&lt;Num0&gt;%で敵を粉砕し、対象の守備力を&lt;Num1&gt;%低下させる。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118303"><xliff:source>Burning barrage: Attacks &lt;Num0&gt; times in quick succession, with a chance to burn the enemy on each hit. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">バーニング・バラージ：&lt;Num0&gt;回連続で攻撃し、確率で一撃ごとに敵を火傷させる。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118304"><xliff:source>Scorching shackles: A scorching shot with &lt;Num0&gt;% bonus accuracy that will bind and burn enemy demons for &lt;Num1&gt; seconds.) (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">灼熱の足かせ：命中率+&lt;Num0&gt;%の矢を放ち、悪魔の敵を&lt;Num1&gt;秒間拘束し焼却する。 (&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118305"><xliff:source>Scatter ashes: Casts the highest available demonbane spell. If it kills a demon, it refunds its special attack energy cost, and reduces the next attack delay. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">灰を撒き散らす： 使用可能な最も強い悪魔殺し魔法を唱える。悪魔を倒した場合、必殺技エネルギーを消費分回復、次の攻撃までのクールタイムを減少。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118306"><xliff:source>Weaken: Temporarily drain your target's Attack, Strength and Defence by &lt;Num0&gt;%. Is three times as effective against demons. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">弱体化：敵の攻撃力・腕力・守備力を&lt;Num0&gt;%低下。悪魔に対して効力は３倍。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118307"><xliff:source>Division: Fire a powerful piercing blade that reduces the targets Defence by &lt;Num0&gt;% of their Magic Level. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">ディビジョン：対象の守備力を魔法レベルの&lt;Num0&gt;%減少させる強力な刃を放つ。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118308"><xliff:source>Break Shackles: Attack with increased accuracy and damage based on the duration of any binding spells affecting them and ending said effect. This special attack requires the full Frostmoon set to be worn. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">束縛からの開放：拘束呪文の効果時間に応じて命中率+とダメージ+で攻撃し、拘束効果を終了させる。発動条件：全ブルームーン装備を装着すること。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118309"><xliff:source>Blood infusion: Sacrifice &lt;Num0&gt;% of your current hp to deal an attack with &lt;Num1&gt;% increased accuracy and damage, with a guaranteed set effect activation on hit. This special attack requires the full Bloodrager set to be worn. (&lt;Num2&gt;%)</xliff:source><xliff:target state="translated">血液注入：現体力の&lt;Num0&gt;%を犠牲に、命中率とダメージが&lt;Num1&gt;%増加した攻撃をする。発動条件：全ブラッドムーン装備を装着すること。(&lt;Num2&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118310"><xliff:source>Eclipse: Attack with &lt;Num0&gt;% increased accuracy, consuming all remaining burn damage affecting the target and raising the max hit by that amount. This special attack requires the full Eclipse set to be worn. (&lt;Num1&gt;%)</xliff:source><xliff:target state="translated">月食：命中率+&lt;Num0&gt;%で攻撃。対象に残っている燃焼ダメージをすべて消費し、最大ダメージをその分上げる。発動条件：全エクリプス装備を装着すること。（&lt;Num1&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118311"><xliff:source>Virulence: Instantly metabolize any poison you are suffering from to buff your next attack by that amount of damage. (&lt;Num0&gt;%)</xliff:source><xliff:target state="translated">病原性：自分が受けている毒を即座に代謝し、次の攻撃をダメージ分増加。(&lt;Num0&gt;%)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118312"><xliff:source>Category: 2h Sword</xliff:source><xliff:target state="translated">カテゴリ：両手剣</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118313"><xliff:source>Category: Banner</xliff:source><xliff:target state="translated">カテゴリ：バナー</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118314"><xliff:source>Category: Blunt</xliff:source><xliff:target state="translated">カテゴリ：鈍器</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118315"><xliff:source>Category: Bludgeon</xliff:source><xliff:target state="translated">カテゴリ：棍棒</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118316"><xliff:source>Category: Bulwark</xliff:source><xliff:target state="translated">カテゴリ：防壁</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118317"><xliff:source>Category: Claw</xliff:source><xliff:target state="translated">カテゴリ：鉤爪</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118318"><xliff:source>Category: Partisan</xliff:source><xliff:target state="translated">カテゴリ：パルチザン</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118319"><xliff:source>Category: Polearm</xliff:source><xliff:target state="translated">カテゴリ：長槍</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118320"><xliff:source>Category: Polestaff</xliff:source><xliff:target state="translated">カテゴリ：長柄杖</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118321"><xliff:source>Category: Scythe</xliff:source><xliff:target state="translated">カテゴリ：大鎌</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118322"><xliff:source>Category: Slash Sword</xliff:source><xliff:target state="translated">カテゴリ：切り裂き剣</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118323"><xliff:source>Category: Spiked</xliff:source><xliff:target state="translated">カテゴリ：トゲ付き</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118324"><xliff:source>Category: Unarmed</xliff:source><xliff:target state="translated">カテゴリ：素手</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118325"><xliff:source>Category: Whip</xliff:source><xliff:target state="translated">カテゴリ：鞭</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118326"><xliff:source>Category: Chinchompas</xliff:source><xliff:target state="translated">カテゴリ：チンチョンパ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118327"><xliff:source>Category: Gun</xliff:source><xliff:target state="translated">カテゴリ：銃</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118328"><xliff:source>Category: Bladed Staff</xliff:source><xliff:target state="translated">カテゴリ：刃付き杖</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118329"><xliff:source>Category: Salamander</xliff:source><xliff:target state="translated">カテゴリ：サラマンダ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118330"><xliff:source>Category: Multi-style</xliff:source><xliff:target state="translated">カテゴリ：多スタイル</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

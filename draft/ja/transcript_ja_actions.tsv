@@ -1329,7 +1329,7 @@ DPS	DPS	actions	menu
 Search	探す	actions	menu	
 Lookup	検索	actions	menu	
 Auto retaliate	自動反撃	actions	menu	combatOptionsTab
-Use <colNum0>Special Attack</col>	<colNum0>奥義</col> を発動	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	<colNum0>必殺技</col> を発動	actions	menu	combatOptionsTab
 Wiki	ウィキ検索	actions	menu	
 Add to canvas	カンバスに追加	actions	menu	
 View <colNum0>Attack</col> guide	<colNum0>攻撃力</col>のガイドを表示	actions	menu	skillsTab
@@ -1410,7 +1410,7 @@ Enable spell filtering	魔法のフィルタ有効	actions	menu
 Show notifications	通知を表示	actions	menu	
 Add Note	メモに追加	actions	menu	
 Delete	削除	actions	menu	friendsTab
-Message	手紙	actions	menu	friendsTab
+Message	メッセージ	actions	menu	friendsTab
 View Ignore List	無視リストを表示	actions	menu	friendsTab
 Add Friend	フレンド追加	actions	menu	friendsTab
 Delete Friend	フレンド削除	actions	menu	friendsTab
@@ -1478,7 +1478,7 @@ Ironman Group	鉄人グループ	actions	menu	groupTab
 Chat-channel	会話チャンネル	actions	menu	groupTab
 Your Clan	クラン	actions	menu	groupTab
 View another clan	別のクラン	actions	menu	groupTab
-Message	手紙	actions	menu	groupTab
+Message	メッセージ	actions	menu	groupTab
 Remove friend	フレンド削除	actions	menu	groupTab
 Switch world	世界変更	actions	menu	groupTab
 View Poll	投票を見る	actions	menu	accountManagementTab
@@ -1516,8 +1516,8 @@ Activate	発動	actions	item	Magic box
 Crush	潰す	actions	item	Smouldering heart
 Eat-from	から食べる	actions	item	Smouldering pile of flesh
 Accurate	正確に	actions	menu	combatOptionsTab
-Aggressive	激しく	actions	menu	combatOptionsTab
-Defensive	守りながら	actions	menu	combatOptionsTab
+Aggressive	積極的	actions	menu	combatOptionsTab
+Defensive	守備	actions	menu	combatOptionsTab
 Controlled	バランスよく	actions	menu	combatOptionsTab
 Chop	切る	actions	menu	combatOptionsTab
 Slash	切り裂く	actions	menu	combatOptionsTab
@@ -1562,8 +1562,3 @@ Quick-slide	速く滑る	actions	object	Slope
 Change	変更	actions	object	Scarecrow
 Plant	植える	actions	object	Pumpkin patch
 Carve-pumpkin	カボチャを彫る	actions	object	Pumpkin carving table
-Setup		actions	npc	Ironman tutor
-Drink-from		actions	object	Cauldron
-Big-search		actions	object	Reward pool
-Take-chisel		actions	object	Weak cells
-Channel (Varlamore)		actions	object	Waystone

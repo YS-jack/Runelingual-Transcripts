@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="41258">
@@ -10098,7 +10097,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109857"><xliff:source>Auto retaliate</xliff:source><xliff:target state="translated">自動反撃</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109858"><xliff:source>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;奥義&lt;/col&gt; を発動</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109858"><xliff:source>Use &lt;colNum0&gt;Special Attack&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;必殺技&lt;/col&gt; を発動</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109859"><xliff:source>Wiki</xliff:source><xliff:target state="translated">ウィキ検索</xliff:target><xliff:note>category: actions
@@ -10341,7 +10340,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109938"><xliff:source>Delete</xliff:source><xliff:target state="translated">削除</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: friendsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Message</xliff:source><xliff:target state="translated">手紙</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109939"><xliff:source>Message</xliff:source><xliff:target state="translated">メッセージ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: friendsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109940"><xliff:source>View Ignore List</xliff:source><xliff:target state="translated">無視リストを表示</xliff:target><xliff:note>category: actions
@@ -10545,7 +10544,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110006"><xliff:source>View another clan</xliff:source><xliff:target state="translated">別のクラン</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110007"><xliff:source>Message</xliff:source><xliff:target state="translated">手紙</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110007"><xliff:source>Message</xliff:source><xliff:target state="translated">メッセージ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110008"><xliff:source>Remove friend</xliff:source><xliff:target state="translated">フレンド削除</xliff:target><xliff:note>category: actions
@@ -10659,10 +10658,10 @@ source: Smouldering pile of flesh
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29585</xliff:note></xliff:trans-unit><xliff:trans-unit id="110044"><xliff:source>Accurate</xliff:source><xliff:target state="translated">正確に</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110045"><xliff:source>Aggressive</xliff:source><xliff:target state="translated">激しく</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110045"><xliff:source>Aggressive</xliff:source><xliff:target state="translated">積極的</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110046"><xliff:source>Defensive</xliff:source><xliff:target state="translated">守りながら</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110046"><xliff:source>Defensive</xliff:source><xliff:target state="translated">守備</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110047"><xliff:source>Controlled</xliff:source><xliff:target state="translated">バランスよく</xliff:target><xliff:note>category: actions
@@ -10797,21 +10796,6 @@ source: Pumpkin patch
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55621</xliff:note></xliff:trans-unit><xliff:trans-unit id="110090"><xliff:source>Carve-pumpkin</xliff:source><xliff:target state="translated">カボチャを彫る</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Pumpkin carving table
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit><xliff:trans-unit id="110091"><xliff:source>Setup</xliff:source><xliff:target/><xliff:note>category: actions
-sub_category: npc
-source: Ironman tutor
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=311</xliff:note></xliff:trans-unit><xliff:trans-unit id="110092"><xliff:source>Drink-from</xliff:source><xliff:target/><xliff:note>category: actions
-sub_category: object
-source: Cauldron
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=2024</xliff:note></xliff:trans-unit><xliff:trans-unit id="110093"><xliff:source>Big-search</xliff:source><xliff:target/><xliff:note>category: actions
-sub_category: object
-source: Reward pool
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=41297</xliff:note></xliff:trans-unit><xliff:trans-unit id="110094"><xliff:source>Take-chisel</xliff:source><xliff:target/><xliff:note>category: actions
-sub_category: object
-source: Weak cells
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=43733</xliff:note></xliff:trans-unit><xliff:trans-unit id="110095"><xliff:source>Channel (Varlamore)</xliff:source><xliff:target/><xliff:note>category: actions
-sub_category: object
-source: Waystone
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55641</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

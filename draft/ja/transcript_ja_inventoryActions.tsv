@@ -461,24 +461,9 @@ Ghorrock Dungeon	ゴロック・ダンジョン	inventoryActions	item	Ring of sh
 The Scar	ザ・スカー	inventoryActions	item	Ring of shadows
 Lassar Undercity	ラサーの地下都市	inventoryActions	item	Ring of shadows
 The Stranglewood	ストラングルウッド	inventoryActions	item	Ring of shadows
-The Darkfrost		inventoryActions	item	Pendant of ates
-Twilight Temple		inventoryActions	item	Pendant of ates
-Ralos' Rise		inventoryActions	item	Pendant of ates
-North Aldarin		inventoryActions	item	Pendant of ates
-Colour		inventoryActions	item	Beige pumpkin (disgusted)
-Carve		inventoryActions	item	Beige pumpkin (disgusted)
-Change-Style		inventoryActions	item	Infernal harpoon (or)
-Teleport-back		inventoryActions	item	Crystal of echoes
-Check-memories		inventoryActions	item	Crystal of echoes
-Save-memory		inventoryActions	item	Crystal of echoes
-League Debug		inventoryActions	item	League tomato
-Setups		inventoryActions	item	League tomato
-Withdraw-all		inventoryActions	item	Forager's pouch
-Withdraw-last		inventoryActions	item	Forager's pouch
-Current-step		inventoryActions	item	Clue compass
-Collect		inventoryActions	item	Pocket kingdom
-Manage-kingdom		inventoryActions	item	Pocket kingdom
-Relic Emote		inventoryActions	item	Raging echoes cane
-Detatch		inventoryActions	item	Echo venator bow
-Detach		inventoryActions	item	Echo venator bow (uncharged)
-Read-address		inventoryActions	item	Invitations
+The Darkfrost	ダークフロスト	inventoryActions	item	Pendant of ates
+Twilight Temple	黄昏の寺院	inventoryActions	item	Pendant of ates
+Ralos' Rise	ラロスの高まり	inventoryActions	item	Pendant of ates
+North Aldarin	アルダリン北部	inventoryActions	item	Pendant of ates
+Colour	色	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	彫刻	inventoryActions	item	Beige pumpkin (disgusted)

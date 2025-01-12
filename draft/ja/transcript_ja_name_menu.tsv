@@ -1,7 +1,7 @@
 english	translation	category	sub_category	source
 XP drops	XPドロップ	name	menu	
 Quick-prayers	即行の祈り	name	menu	
-Special Attack	奥義	name	menu	
+Special Attack	必殺技	name	menu	
 Instance Map	インスタンスの地図	name	menu	
 Ground Markers	地面マーカー	name	menu	
 Wiki	ウィキ検索	name	menu	
@@ -90,9 +90,9 @@ Incredible Reflexes	とてつもない反射神経	name	menu	prayerTab
 Sharp Eye	鋭い目	name	menu	prayerTab
 Mystic Will	神秘の意思	name	menu	prayerTab
 Rock Skin	岩の肌	name	menu	prayerTab
-Protect from Magic	魔法から守る	name	menu	prayerTab
-Protect from Missiles	発射体から守る	name	menu	prayerTab
-Protect from Melee	近接武器から守る	name	menu	prayerTab
+Protect from Magic	魔法の防御	name	menu	prayerTab
+Protect from Missiles	発射体の防御	name	menu	prayerTab
+Protect from Melee	近接の加護	name	menu	prayerTab
 Thick Skin	厚い肌	name	menu	prayerTab
 Retribution	天罰	name	menu	prayerTab
 Mystic Might	神秘の威力	name	menu	prayerTab
@@ -291,8 +291,8 @@ Greater Corruption	上位の腐敗	name	menu	spellBookTab
 Master Reanimation	超級蘇生術	name	menu	spellBookTab
 Sinister Offering	不吉な供物	name	menu	spellBookTab
 Accurate	正確に	name	menu	combatOptionsTab
-Aggressive	激しく	name	menu	combatOptionsTab
-Defensive	守りながら	name	menu	combatOptionsTab
+Aggressive	積極的に	name	menu	combatOptionsTab
+Defensive	守備	name	menu	combatOptionsTab
 Controlled	バランスよく	name	menu	combatOptionsTab
 Chop	チョップ	name	menu	combatOptionsTab
 Slash	スラッシュ	name	menu	combatOptionsTab

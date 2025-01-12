@@ -1471,7 +1471,7 @@ Ali the Mayor	市長のアリ	name	npc	Ali the Mayor
 Ali the Hag	老婆のアリ	name	npc	Ali the Hag
 Ali the Snake Charmer	ヘビ使いのアリ	name	npc	Ali the Snake Charmer
 Ali the Camel	ラクダのアリ	name	npc	Ali the Camel
-Blackjack seller	棍棒の販売人	name	npc	Blackjack seller
+Blackjack seller	ブラックジャックの販売人	name	npc	Blackjack seller
 Menaphite Leader	メナファイトの長	name	npc	Menaphite Leader
 Ali the Operator	オペレーターのアリ	name	npc	Ali the Operator
 Menaphite Thug	メナファイトの凶漢	name	npc	Menaphite Thug
@@ -1557,7 +1557,7 @@ Valgerd	ヴァルゲルド	name	npc	Valgerd
 Broddi	ブロッディ	name	npc	Broddi
 Ragnvald	ラグンヴァルド	name	npc	Ragnvald
 Vampyre Juvinate	ジュビネート吸血鬼	name	npc	Vampyre Juvinate
-Vampyre Juvenile	少年の吸血鬼	name	npc	Vampyre Juvenile
+Vampyre Juvenile	ジュビナイルの吸血鬼	name	npc	Vampyre Juvenile
 Former Vampyre	元吸血鬼	name	npc	Former Vampyre
 Vyrewatch	吸血鬼監視隊	name	npc	Vyrewatch
 Vanstrom Klause	バンストロム・クロース	name	npc	Vanstrom Klause
@@ -2802,9 +2802,9 @@ Vespine soldier	軍隊スズメバチ	name	npc	Vespine soldier
 Tekton	テクトン	name	npc	Tekton
 Tekton (enraged)	テクトン（怒）	name	npc	Tekton (enraged)
 Scavenger beast	スカベンジャー・ビースト	name	npc	Scavenger beast
-Great Olm (Right claw)	偉大なるオルㇺ（右足）	name	npc	Great Olm (Right claw)
-Great Olm	偉大なるオルㇺ	name	npc	Great Olm
-Great Olm (Left claw)	偉大なるオルㇺ（左足）	name	npc	Great Olm (Left claw)
+Great Olm (Right claw)	偉大なるオルム（右足）	name	npc	Great Olm (Right claw)
+Great Olm	偉大なるオルム	name	npc	Great Olm
+Great Olm (Left claw)	偉大なるオルム（左足）	name	npc	Great Olm (Left claw)
 Fire	火	name	npc	Fire
 Deathly ranger	死の射手	name	npc	Deathly ranger
 Deathly mage	死の魔術師	name	npc	Deathly mage
@@ -4334,17 +4334,3 @@ Bone Squirrel		name	npc	Bone Squirrel
 Huberte	フベルテ	name	npc	Huberte
 Moxi	モキシー	name	npc	Moxi
 Ghost Cat		name	npc	Ghost Cat
-Shepherd Dog		name	npc	Shepherd Dog
-Corgi		name	npc	Corgi
-Yorkie		name	npc	Yorkie
-Golem guard		name	npc	Golem guard
-Small scarab		name	npc	Small scarab
-Jonny the Beard		name	npc	Jonny the Beard
-League Navigator		name	npc	League Navigator
-Unidentified dog		name	npc	Unidentified dog
-Unidentified festive dog		name	npc	Unidentified festive dog
-Sadie		name	npc	Sadie
-Sir Burrus		name	npc	Sir Burrus
-Archibald		name	npc	Archibald
-Kimba		name	npc	Kimba
-Unidentified festive object		name	npc	Unidentified festive object

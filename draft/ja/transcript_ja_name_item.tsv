@@ -955,7 +955,7 @@ Amulet of defence	守備力のアミュレット	name	item	Amulet of defence
 Amulet of power	力のアミュレット	name	item	Amulet of power
 Needle	針	name	item	Needle
 Thread	糸	name	item	Thread
-Shears	鋏	name	item	Shears
+Shears	ハサミ	name	item	Shears
 Wool	羊毛	name	item	Wool
 Cowhide	牛革	name	item	Cowhide
 Leather	革	name	item	Leather
@@ -1657,7 +1657,7 @@ Thin snail	うすいカタツムリ	name	item	Thin snail
 Lean snail	やせたカタツムリ	name	item	Lean snail
 Fat snail	太ったカタツムリ	name	item	Fat snail
 Thin snail meat	うすいカタツムリの肉	name	item	Thin snail meat
-Lean snail meat	瘦せたカタツムリの肉	name	item	Lean snail meat
+Lean snail meat	やせたカタツムリの肉	name	item	Lean snail meat
 Fat snail meat	太ったカタツムリの肉	name	item	Fat snail meat
 Burnt snail	焦げたカタツムリ	name	item	Burnt snail
 Sample bottle	サンプルの瓶	name	item	Sample bottle
@@ -2183,8 +2183,8 @@ Kharidian headpiece	カリジアのヘッドピース	name	item	Kharidian headpi
 Fake beard	偽のヒゲ	name	item	Fake beard
 Karidian disguise	カリジアの変装	name	item	Karidian disguise
 Note	ノート	name	item	Note
-Oak blackjack	樫の棍棒	name	item	Oak blackjack
-Willow blackjack	柳の棍棒	name	item	Willow blackjack
+Oak blackjack	樫のブラックジャック	name	item	Oak blackjack
+Willow blackjack	柳のブラックジャック	name	item	Willow blackjack
 Ugthanki dung	ウグタンキの糞	name	item	Ugthanki dung
 Receipt	レシート	name	item	Receipt
 Hag's poison	老婆の毒	name	item	Hag's poison
@@ -3085,13 +3085,13 @@ Menaphite red hat	赤色のメナファイトの帽子	name	item	Menaphite red h
 Menaphite red top	赤色のメナファイトのトップ	name	item	Menaphite red top
 Menaphite red robe	赤色のメナファイトのローブ	name	item	Menaphite red robe
 Menaphite red kilt	赤色のメナファイトのキルト	name	item	Menaphite red kilt
-Oak blackjack(o)	樫の棍棒（攻）	name	item	Oak blackjack(o)
-Oak blackjack(d)	樫の棍棒（防）	name	item	Oak blackjack(d)
-Willow blackjack(o)	柳の棍棒（攻）	name	item	Willow blackjack(o)
-Willow blackjack(d)	柳の棍棒（防）	name	item	Willow blackjack(d)
-Maple blackjack	楓の棍棒	name	item	Maple blackjack
-Maple blackjack(o)	楓の棍棒（攻）	name	item	Maple blackjack(o)
-Maple blackjack(d)	楓の棍棒（防）	name	item	Maple blackjack(d)
+Oak blackjack(o)	樫のブラックジャック（攻）	name	item	Oak blackjack(o)
+Oak blackjack(d)	樫のブラックジャック（防）	name	item	Oak blackjack(d)
+Willow blackjack(o)	柳のブラックジャック（攻）	name	item	Willow blackjack(o)
+Willow blackjack(d)	柳のブラックジャック（防）	name	item	Willow blackjack(d)
+Maple blackjack	楓のブラックジャック	name	item	Maple blackjack
+Maple blackjack(o)	楓のブラックジャック（攻）	name	item	Maple blackjack(o)
+Maple blackjack(d)	楓のブラックジャック（防）	name	item	Maple blackjack(d)
 Spadeful of coke	コークのシャベル	name	item	Spadeful of coke
 Kandarin headgear	カンダリンのヘッドギア	name	item	Kandarin headgear
 Mage arena cape	魔法アリーナのマント	name	item	Mage arena cape
@@ -4545,7 +4545,7 @@ Proselyte hauberk	改宗者のホーバーク	name	item	Proselyte hauberk
 Proselyte cuisse	改宗者のもも当て	name	item	Proselyte cuisse
 Proselyte tasset	改宗者のタセット	name	item	Proselyte tasset
 Sea slug glue	ウミウシのノリ	name	item	Sea slug glue
-Commorb v2	コモーブⅤ2	name	item	Commorb v2
+Commorb v2	コモーブV2	name	item	Commorb v2
 Door transcription	ドアの転写	name	item	Door transcription
 Dead sea slug	死んだウミウシ	name	item	Dead sea slug
 Page 1	ページ1	name	item	Page 1
@@ -8363,10 +8363,10 @@ Maniacal monkey	狂気のサル	name	item	Maniacal monkey
 Skeleton monkey	スケルトンザル	name	item	Skeleton monkey
 Kruk jr	クラックJr.	name	item	Kruk jr
 Princely monkey	王子っぽいサル	name	item	Princely monkey
-Golden armadyl special attack	黄金のアーマディル奥義	name	item	Golden armadyl special attack
-Golden bandos special attack	黄金のバンドス奥義	name	item	Golden bandos special attack
-Golden saradomin special attack	黄金のサラドミン奥義	name	item	Golden saradomin special attack
-Golden zamorak special attack	黄金のザモラック奥義	name	item	Golden zamorak special attack
+Golden armadyl special attack	黄金のアーマディルの必殺技	name	item	Golden armadyl special attack
+Golden bandos special attack	黄金のバンドスの必殺技	name	item	Golden bandos special attack
+Golden saradomin special attack	黄金のサラドミンの必殺技	name	item	Golden saradomin special attack
+Golden zamorak special attack	黄金のザモラックの必殺技	name	item	Golden zamorak special attack
 Carpenter's helmet	大工の兜	name	item	Carpenter's helmet
 Carpenter's shirt	大工のシャツ	name	item	Carpenter's shirt
 Carpenter's trousers	大工のズボン	name	item	Carpenter's trousers
@@ -10518,103 +10518,3 @@ Powder grey pumpkin (happy)	パウダーグレーのカボチャ（幸）	name	i
 Powder grey pumpkin (laughing)	パウダーグレーのカボチャ（笑）	name	item	Powder grey pumpkin (laughing)
 Scarecrow shirt	かかしのシャツ	name	item	Scarecrow shirt
 Halloween scarecrow	ハロウィンのかかし	name	item	Halloween scarecrow
-Pointed myre snelm		name	item	Pointed myre snelm
-Pointed blood'n'tar snelm		name	item	Pointed blood'n'tar snelm
-Pointed ochre snelm		name	item	Pointed ochre snelm
-Pointed bruise blue snelm		name	item	Pointed bruise blue snelm
-Crystal of echoes		name	item	Crystal of echoes
-Echo axe		name	item	Echo axe
-Echo pickaxe		name	item	Echo pickaxe
-Echo harpoon		name	item	Echo harpoon
-Arclight (inactive)		name	item	Arclight (inactive)
-Elias' message		name	item	Elias' message
-Mastaba key		name	item	Mastaba key
-Base plans		name	item	Base plans
-Base key		name	item	Base key
-Canopic jar (oil)		name	item	Canopic jar (oil)
-Canopic jar (oil and berries)		name	item	Canopic jar (oil and berries)
-Canopic jar (full)		name	item	Canopic jar (full)
-Code key		name	item	Code key
-Decoder strips		name	item	Decoder strips
-Mahjarrat notes (a-j)		name	item	Mahjarrat notes (a-j)
-Mahjarrat notes (k-z)		name	item	Mahjarrat notes (k-z)
-Arrav's axe		name	item	Arrav's axe
-Zombie helmet		name	item	Zombie helmet
-Broken zombie helmet		name	item	Broken zombie helmet
-Dust		name	item	Dust
-Raging echoes relic hunter (t1) armour set		name	item	Raging echoes relic hunter (t1) armour set
-Raging echoes relic hunter (t2) armour set		name	item	Raging echoes relic hunter (t2) armour set
-Raging echoes relic hunter (t3) armour set		name	item	Raging echoes relic hunter (t3) armour set
-Crystal dagger (perfected)		name	item	Crystal dagger (perfected)
-Forager's pouch		name	item	Forager's pouch
-Leprechaun's vault		name	item	Leprechaun's vault
-Banker's briefcase		name	item	Banker's briefcase
-Clue compass		name	item	Clue compass
-Pocket kingdom		name	item	Pocket kingdom
-The dogsword		name	item	The dogsword
-Sunlight spear		name	item	Sunlight spear
-Devil's element		name	item	Devil's element
-Drygore blowpipe (empty)		name	item	Drygore blowpipe (empty)
-Drygore blowpipe		name	item	Drygore blowpipe
-Amulet of the monarchs		name	item	Amulet of the monarchs
-Emperor ring		name	item	Emperor ring
-Gloves of the damned		name	item	Gloves of the damned
-Thousand-dragon ward		name	item	Thousand-dragon ward
-Crystal blessing		name	item	Crystal blessing
-Sunlit bracers		name	item	Sunlit bracers
-Thunder khopesh		name	item	Thunder khopesh
-Nature's reprisal		name	item	Nature's reprisal
-Nature's reprisal (uncharged)		name	item	Nature's reprisal (uncharged)
-Asgarnia echo orb		name	item	Asgarnia echo orb
-Desert echo orb		name	item	Desert echo orb
-Fremennik echo orb		name	item	Fremennik echo orb
-Kandarin echo orb		name	item	Kandarin echo orb
-Morytania echo orb		name	item	Morytania echo orb
-Tirannwn echo orb		name	item	Tirannwn echo orb
-Wilderness echo orb		name	item	Wilderness echo orb
-Kourend echo orb		name	item	Kourend echo orb
-Varlamore echo orb		name	item	Varlamore echo orb
-Raids megarare voucher		name	item	Raids megarare voucher
-Raging echoes hat (t1)		name	item	Raging echoes hat (t1)
-Raging echoes top (t1)		name	item	Raging echoes top (t1)
-Raging echoes robeskirt (t1)		name	item	Raging echoes robeskirt (t1)
-Raging echoes boots (t1)		name	item	Raging echoes boots (t1)
-Raging echoes hat (t2)		name	item	Raging echoes hat (t2)
-Raging echoes top (t2)		name	item	Raging echoes top (t2)
-Raging echoes robeskirt (t2)		name	item	Raging echoes robeskirt (t2)
-Raging echoes boots (t2)		name	item	Raging echoes boots (t2)
-Raging echoes hat (t3)		name	item	Raging echoes hat (t3)
-Raging echoes top (t3)		name	item	Raging echoes top (t3)
-Raging echoes robeskirt (t3)		name	item	Raging echoes robeskirt (t3)
-Raging echoes boots (t3)		name	item	Raging echoes boots (t3)
-Raging echoes cane		name	item	Raging echoes cane
-Raging echoes banner		name	item	Raging echoes banner
-Echo venator bow ornament kit		name	item	Echo venator bow ornament kit
-Echo venator bow		name	item	Echo venator bow
-Echo venator bow (uncharged)		name	item	Echo venator bow (uncharged)
-Echo virtus mask		name	item	Echo virtus mask
-Echo virtus robe top		name	item	Echo virtus robe top
-Echo virtus robe bottom		name	item	Echo virtus robe bottom
-Echo virtus ornament kit		name	item	Echo virtus ornament kit
-Echo ahrim's hood		name	item	Echo ahrim's hood
-Echo ahrim's robetop		name	item	Echo ahrim's robetop
-Echo ahrim's robeskirt		name	item	Echo ahrim's robeskirt
-Echo ahrim's ornament kit		name	item	Echo ahrim's ornament kit
-Echo home teleport scroll		name	item	Echo home teleport scroll
-Raging echoes death scroll		name	item	Raging echoes death scroll
-Raging echoes npc contact scroll		name	item	Raging echoes npc contact scroll
-Raging echoes nexus scroll		name	item	Raging echoes nexus scroll
-Raging echoes portal scroll		name	item	Raging echoes portal scroll
-Raging echoes nexus rug		name	item	Raging echoes nexus rug
-Raging echoes dragon trophy		name	item	Raging echoes dragon trophy
-Raging echoes rune trophy		name	item	Raging echoes rune trophy
-Raging echoes adamant trophy		name	item	Raging echoes adamant trophy
-Raging echoes mithril trophy		name	item	Raging echoes mithril trophy
-Raging echoes steel trophy		name	item	Raging echoes steel trophy
-Raging echoes iron trophy		name	item	Raging echoes iron trophy
-Raging echoes bronze trophy		name	item	Raging echoes bronze trophy
-Present box hat		name	item	Present box hat
-Dog disguise		name	item	Dog disguise
-Festive scarf		name	item	Festive scarf
-Dog boots		name	item	Dog boots
-Invitations		name	item	Invitations

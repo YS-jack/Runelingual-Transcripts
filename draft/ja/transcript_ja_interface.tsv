@@ -83,7 +83,7 @@ Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	黒サラマ
 Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	テク・サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
 Hitpoints	体力	interface	generalUI	skillGuide
 Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).	体力はプレイヤーの健康状態を示します。体力が<Num0>になると死に、リスポーン地点で復活します（通常ランブリッジ）	interface	generalUI	skillGuide
-If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	戦闘中に表示される赤い「ヒットマーク」は敵から受けたダメージ量を表します。	interface	generalUI	skillGuide
+If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	戦闘中に表示される赤い「ヒットマーク」は敵から受けたダメージを表します。	interface	generalUI	skillGuide
 Blue hit splats mean no damage has been dealt.	青いヒットマークはダメージを受けなかったことを表します。	interface	generalUI	skillGuide
 Green hit splats are poison damage.	緑のヒットマークは毒ダメージです。	interface	generalUI	skillGuide
 Teal hit splats are venom damage. (Members)	暗い緑色のヒットマークは猛毒ダメージです。（会員）	interface	generalUI	skillGuide
@@ -1392,9 +1392,9 @@ Mystic Lore	神秘の伝承	interface	generalUI	skillGuide
 Steel Skin	鋼の肌	interface	generalUI	skillGuide
 Ultimate Strength	究極の力	interface	generalUI	skillGuide
 Incredible Reflexes	とてつもない反射神経	interface	generalUI	skillGuide
-Protect from Magic	魔法から守る	interface	generalUI	skillGuide
-Protect from Missiles	発射体から守る	interface	generalUI	skillGuide
-Protect from Melee	近接武器から守る	interface	generalUI	skillGuide
+Protect from Magic	魔法の防御	interface	generalUI	skillGuide
+Protect from Missiles	発射体の防御	interface	generalUI	skillGuide
+Protect from Melee	近接の加護	interface	generalUI	skillGuide
 Eagle Eye	ワシの目	interface	generalUI	skillGuide
 Mystic Might	神秘の威力	interface	generalUI	skillGuide
 Members: Retribution	会員：天罰	interface	generalUI	skillGuide
@@ -3027,3 +3027,379 @@ Adept Hunters' Rumours	達人狩人のルーマー	interface	generalUI	skillGuid
 Imps (worldwide) Preferred bait: Magical beads	小悪魔（世界各地）：エサは魔法のビード	interface	generalUI	skillGuide
 Expert Hunters' Rumours	専門狩人のルーマー	interface	generalUI	skillGuide
 Master Hunters' Rumours	狩人師匠のルーマー	interface	generalUI	skillGuide
+Combat Lvl: <Num0>	戦闘レベル：<Num0>	interface	mainTabs	combatOptionsTab
+Auto Retaliate (On)	自動反撃（有）	interface	mainTabs	combatOptionsTab
+Auto Retaliate (Off)	自動反撃（無）	interface	mainTabs	combatOptionsTab
+Special Attack: <Num0>%	必殺技：<Num0>%	interface	mainTabs	combatOptionsTab
+When active your character will automatically fight back if attacked.	有効な場合、攻撃されたらその敵を自動で攻撃します。	interface	mainTabs	combatOptionsTab
+Category: Pickaxe	カテゴリ：ツルハシ	interface	mainTabs	combatOptionsTab
+Category: Spear	カテゴリ：槍	interface	mainTabs	combatOptionsTab
+Category: Axe	カテゴリ：斧	interface	mainTabs	combatOptionsTab
+Category: Stab Sword	カテゴリ：突き剣	interface	mainTabs	combatOptionsTab
+Category: Thrown	カテゴリ：投げ物	interface	mainTabs	combatOptionsTab
+Category: Bow	カテゴリ：弓	interface	mainTabs	combatOptionsTab
+Category: Crossbow	カテゴリ：洋弓銃	interface	mainTabs	combatOptionsTab
+Category: Staff	カテゴリ：杖	interface	mainTabs	combatOptionsTab
+Category: Powered Staff	カテゴリ：充填された杖	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Attack XP)	正確・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Strength XP)	正確・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Defence XP)	正確・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Shared XP)	正確・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Attack XP)	正確・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Strength XP)	正確・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Defence XP)	正確・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Shared XP)	正確・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Attack XP)	正確・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Strength XP)	正確・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Defence XP)	正確・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Shared XP)	正確・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Attack XP)	正確・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Strength XP)	正確・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Defence XP)	正確・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Shared XP)	正確・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Attack XP)	正確・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Strength XP)	正確・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Defence XP)	正確・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Shared XP)	正確・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Attack XP)	正確・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Strength XP)	正確・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Defence XP)	正確・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Shared XP)	正確・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Attack XP)	正確・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Strength XP)	正確・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Defence XP)	正確・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Shared XP)	正確・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Attack XP)	正確・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Strength XP)	正確・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Defence XP)	正確・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Shared XP)	正確・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Attack XP)	正確・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Strength XP)	正確・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Defence XP)	正確・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Shared XP)	正確・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Attack XP)	正確・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Strength XP)	正確・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Defence XP)	正確・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Shared XP)	正確・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Attack XP)	正確・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Strength XP)	正確・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Defence XP)	正確・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Shared XP)	正確・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Attack XP)	正確・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Strength XP)	正確・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Defence XP)	正確・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Shared XP)	正確・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Attack XP)	積極的・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Strength XP)	積極的・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Defence XP)	積極的・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Shared XP)	積極的・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Attack XP)	積極的・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Strength XP)	積極的・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Defence XP)	積極的・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Shared XP)	積極的・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Attack XP)	積極的・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Strength XP)	積極的・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Defence XP)	積極的・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Shared XP)	積極的・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Attack XP)	積極的・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Strength XP)	積極的・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Defence XP)	積極的・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Shared XP)	積極的・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Attack XP)	積極的・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Strength XP)	積極的・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Defence XP)	積極的・重量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Shared XP)	積極的・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Attack XP)	積極的・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Strength XP)	積極的・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Defence XP)	積極的・重量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Shared XP)	積極的・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Attack XP)	積極的・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Strength XP)	積極的・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Defence XP)	積極的・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Shared XP)	積極的・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Attack XP)	積極的・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Strength XP)	積極的・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Defence XP)	積極的・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Shared XP)	積極的・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Attack XP)	積極的・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Strength XP)	積極的・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Defence XP)	積極的・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Shared XP)	積極的・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Attack XP)	積極的・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Strength XP)	積極的・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Defence XP)	積極的・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Shared XP)	積極的・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Attack XP)	積極的・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Strength XP)	積極的・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Defence XP)	積極的・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Shared XP)	積極的・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Attack XP)	積極的・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Strength XP)	積極的・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Defence XP)	積極的・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Shared XP)	積極的・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Attack XP)	守備・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Strength XP)	守備・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Defence XP)	守備・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Shared XP)	守備・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Attack XP)	守備・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Strength XP)	守備・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Defence XP)	守備・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Shared XP)	守備・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Attack XP)	守備・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Strength XP)	守備・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Defence XP)	守備・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Shared XP)	守備・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Attack XP)	守備・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Strength XP)	守備・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Defence XP)	守備・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Shared XP)	守備・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Attack XP)	守備・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Strength XP)	守備・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Defence XP)	守備・重量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Shared XP)	守備・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Attack XP)	守備・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Strength XP)	守備・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Defence XP)	守備・重量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Shared XP)	守備・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Attack XP)	守備・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Strength XP)	守備・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Defence XP)	守備・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Shared XP)	守備・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Attack XP)	守備・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Strength XP)	守備・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Defence XP)	守備・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Shared XP)	守備・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Attack XP)	守備・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Strength XP)	守備・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Defence XP)	守備・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Shared XP)	守備・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Attack XP)	守備・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Strength XP)	守備・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Defence XP)	守備・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Shared XP)	守備・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Attack XP)	守備・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Strength XP)	守備・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Defence XP)	守備・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Shared XP)	守備・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Attack XP)	守備・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Strength XP)	守備・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Defence XP)	守備・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Shared XP)	守備・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Attack XP)	バランス・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Strength XP)	バランス・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Defence XP)	バランス・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Shared XP)	バランス・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Attack XP)	バランス・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Strength XP)	バランス・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Defence XP)	バランス・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Shared XP)	バランス・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Attack XP)	バランス・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Strength XP)	バランス・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Defence XP)	バランス・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Shared XP)	バランス・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Attack XP)	バランス・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Strength XP)	バランス・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Defence XP)	バランス・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Shared XP)	バランス・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Attack XP)	バランス・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Strength XP)	バランス・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Defence XP)	バランス・重量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Shared XP)	バランス・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Attack XP)	バランス・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Strength XP)	バランス・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Defence XP)	バランス・重量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Shared XP)	バランス・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Attack XP)	バランス・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Strength XP)	バランス・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Defence XP)	バランス・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Shared XP)	バランス・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Attack XP)	バランス・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Strength XP)	バランス・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Defence XP)	バランス・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Shared XP)	バランス・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Attack XP)	バランス・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Strength XP)	バランス・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Defence XP)	バランス・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Shared XP)	バランス・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Attack XP)	バランス・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Strength XP)	バランス・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Defence XP)	バランス・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Shared XP)	バランス・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Attack XP)	バランス・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Strength XP)	バランス・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Defence XP)	バランス・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Shared XP)	バランス・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Attack XP)	バランス・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Strength XP)	バランス・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Defence XP)	バランス・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Shared XP)	バランス・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP)	正確・軽量・遠射XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Defence XP)	正確・軽量・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Shared XP)	正確・軽量・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP) (Defence XP)	正確・軽量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP)	正確・通常・遠射XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Defence XP)	正確・通常・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Shared XP)	正確・通常・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP) (Defence XP)	正確・通常・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP)	正確・重量・遠射XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Defence XP)	正確・重量・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Shared XP)	正確・重量・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP) (Defence XP)	正確・重量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP)	連射・軽量・遠射XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Defence XP)	連射・軽量・守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Shared XP)	連射・軽量・共有XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP) (Defence XP)	連射・軽量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP)	連射・通常・遠射XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Defence XP)	連射・通常・守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Shared XP)	連射・通常・共有XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP) (Defence XP)	連射・通常・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP)	連射・重量・遠射XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Defence XP)	連射・重量・守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Shared XP)	連射・重量・共有XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP) (Defence XP)	連射・重量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP)	遠距離・軽量・遠射XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Defence XP)	遠距離・軽量・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Shared XP)	遠距離・軽量・共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP) (Defence XP)	遠距離・軽量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP)	遠距離・通常・遠射XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Defence XP)	遠距離・通常・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Shared XP)	遠距離・通常・共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP) (Defence XP)	遠距離・通常・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP)	遠距離・重量・遠射XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Defence XP)	遠距離・重量・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Shared XP)	遠距離・重量・共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP) (Defence XP)	遠距離・重量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Magic XP)	正確・魔法XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Defence XP)	正確・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Shared XP)	正確・共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Magic XP) (Defence XP)	正確・魔法XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP)	遠距離・魔法XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Defence XP)	遠距離・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Shared XP)	遠距離・共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP) (Defence XP)	遠距離・魔法XP・守備力XP	interface	mainTabs	combatOptionsTab
+Accurate	正確に	interface	mainTabs	combatOptionsTab
+Aggressive	積極的に	interface	mainTabs	combatOptionsTab
+Defensive	守備	interface	mainTabs	combatOptionsTab
+Controlled	バランスよく	interface	mainTabs	combatOptionsTab
+Chop	切る	interface	mainTabs	combatOptionsTab
+Slash	切り裂く	interface	mainTabs	combatOptionsTab
+Stab	刺す	interface	mainTabs	combatOptionsTab
+Block	ブロック	interface	mainTabs	combatOptionsTab
+Pound	打つ	interface	mainTabs	combatOptionsTab
+Pummel	殴打	interface	mainTabs	combatOptionsTab
+Spike	突く	interface	mainTabs	combatOptionsTab
+Impale	貫く	interface	mainTabs	combatOptionsTab
+Smash	砕く	interface	mainTabs	combatOptionsTab
+Lunge	突進	interface	mainTabs	combatOptionsTab
+Swipe	なぎ払う	interface	mainTabs	combatOptionsTab
+Hack	切り開く	interface	mainTabs	combatOptionsTab
+Reap	刈り取る	interface	mainTabs	combatOptionsTab
+Rapid	連射	interface	mainTabs	combatOptionsTab
+Longrange	遠距離	interface	mainTabs	combatOptionsTab
+Flick	フリック	interface	mainTabs	combatOptionsTab
+Lash	鞭打つ	interface	mainTabs	combatOptionsTab
+Deflect	そらす	interface	mainTabs	combatOptionsTab
+Fend	防ぐ	interface	mainTabs	combatOptionsTab
+Bash	激突	interface	mainTabs	combatOptionsTab
+Blaze	ブレイズ	interface	mainTabs	combatOptionsTab
+Scorch	焦がす	interface	mainTabs	combatOptionsTab
+Flare	フレア	interface	mainTabs	combatOptionsTab
+Focus	集中	interface	mainTabs	combatOptionsTab
+Spell	呪文	interface	mainTabs	combatOptionsTab
+Retainer: Traps a vampyre juvenile or juvinate provided they have <Num0>% or less hitpoints remaining. (<Num1>%)	リテイナー：残り体力が<Num0>%以下のジュビネート・ジュビナイルの吸血鬼を束縛。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Power of Death: Reduce all melee damage you receive by <Num0>% for the next minute while the staff remains equipped. Stacks with Protect from Melee. (<Num1>%)	死の力：１分間この杖を装備している間、受ける近接ダメージを<Num0>%軽減。「近接の加護」と重複可。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Rampage: Drain your Attack, Defence, Ranged & Magic levels by <Num0>%, while increasing your Strength by <Num1> levels, plus <Num2>% of the drained levels. (<Num3>%)	ランページ：攻撃力・守備力・遠射・魔法レベルを<Num0>%低下、低下量の<Num1>%+<Num2>レベルの腕力を上げる。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Lumber Up: Increase your Woodcutting level by <Num0>. (<Num1>%)	ランバー・アップ：木こりレベルを<Num0>上げる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Rock Knocker: Increase your Mining level by <Num0>. (<Num1>%)	ロック・ノッカー：採掘レベルを<Num0>上げる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Puncture: Deal two quick slashes with <Num0>% increased accuracy and <Num1>% increased damage. (<Num2>%)	パンクチャ：命中率＋<Num0>%、ダメージ+<Num1>%の素早い切り裂きで２回攻撃。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (<Num0>%)	バックスタブ：無防備な対象に命中率を大幅に上げた攻撃を行い、与ダメージ分だけ対象の守備力レベルを低下。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Sanctuary: Temporarily increase your Defence level by <Num0>. (<Num1>%)	サンクチャリ：守備力レベルを一時的に<Num0>上げる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Cleave: Deal a powerful attack that inflicts <Num0>% more damage. (<Num1>%)	クリーブ：ダメージ+<Num0>%の強力な攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Cleave: Deal a powerful attack that inflicts <Num0>% more damage with <Num1>% increased accuracy and increased speed. (<Num2>%)	クリーブ：ダメージ+<Num0>%、命中率+<Num1>で素早い強力な攻撃をする。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Sever: Deal a slash with increased accuracy that prevents your target from using protection prayers for <Num0> seconds if it successfully hits. (<Num1>%)	セバー：命中率が上昇した切り裂き攻撃をし、当たると敵は<Num0>秒間守りの祈りが使えなくなる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Weaken: Temporarily drain your target's Attack, Strength and Defence by <Num0>%. Is twice as effective against demons. (<Num1>%)	弱体化：敵の攻撃力・腕力・守備力を<Num0>%低下。悪魔に対しては効力２倍。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Liquify: Deal an attack with double the chance of hitting that boosts your Strength, Attack and Defence levels by <Num0>% of the damage dealt. Can only be used underwater. (<Num1>%)	液化：命中率２倍の攻撃をし、腕力・攻撃力・守備力レベルを与ダメージの<Num0>%上げる水中でのみ使用可。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Powerstab: Hit up to fourteen enemies surrounding you. (<Num0>%)	パワースタブ：周囲の敵14体までを攻撃。(<Num0>%)	interface	mainTabs	combatOptionsTab
+The Judgement: Deal an attack that inflicts <Num0>% more damage with double accuracy. (<Num1>%)	ザ・ジャッジメント：ダメージ+<Num0>%、命中率２倍の攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Warstrike: Deal an attack, with double accuracy, that inflicts <Num0>% more damage and drains one of your target's combat stats by the damage dealt. (<Num1>%)	ウォーストライク：命中率２倍、ダメージ+<Num0>%で攻撃し、敵の戦闘ステータスを１つ与ダメージだけ低下。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Healing Blade: Deal an attack that inflicts <Num0>% more damage with double accuracy, while restoring your Hitpoints and Prayer by <Num1>% and <Num2>% of the damage dealt respectively. (<Num3>%)	ヒーリング・ブレード：与ダメージ+<Num0>%の命中率２倍の攻撃をし、体力と祈力をそれぞれ与ダメージの<Num1>%と<Num2>%回復。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Ice Cleave: Deal an attack that inflicts <Num0>% more damage with double accuracy and freezes your target for <Num1> seconds if it successfully hits. (<Num2>%)	アイス・クリーブ：与ダメージ+<Num0>%の命中率２倍の攻撃をし、命中すれば相手を<Num1>秒間凍らせる。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Blood Sacrifice: Deal an attack that inflicts <Num0>% more damage with double accuracy and marks your target for a blood sacrifice. Targets marked for a blood sacrifice will be hit for <Num1> damage after a short delay, unless they move away. If they are hit, you'll also be healed for the damage dealt. (<Num2>%)	血の代償：与ダメージ+<Num0>%の命中率２倍の攻撃をし、相手を血の代償の対象にする。血の代償の対象は、移動しない限り、少し遅れて<Num1>のダメージを受ける。対象に命中すれば与ダメージ分だけ自分は体力を回復。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Saradomin's Lightning: Call upon Saradomin's power to perform an attack that inflicts <Num0>% more melee damage and <Num1>-<Num2> extra magic damage. (<Num3>%)	サラドミンの雷：サラドミンの力を呼び起こし、与ダメージ+<Num0>%の近接ダメージと<Num1>-<Num2>の魔法ダメージを与える。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Saradomin's Lightning: Call upon Saradomin's power to perform an attack with <Num0>% higher max hit. (<Num1>%)	サラドミンの雷：サラドミンの力を呼び起こし、最大ダメージ+<Num0>%の攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit. (<Num2>%)	粉砕：１ヒットだけ与ダメージ+<Num0>%と命中率+<Num1>%上昇。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit, treats your target's defence as if it was reduced to <Num2>%. (<Num3>%)	粉砕：１ヒットだけ与ダメージ+<Num0>%と命中率+<Num1>%上昇、その時だけ敵の守備力を<Num2>%低下(<Num3>%)	interface	mainTabs	combatOptionsTab
+Favour of the War God: Deal an attack which hits through Protect from Melee and siphons Prayer points equal to the damage dealt. (<Num0>%)	戦神の恩恵： 近接の防御を通して命中する攻撃を与え、与えたダメージ分のPrayer pointsを吸い上げる。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Impale: Deal an attack with <Num0>% increased Attack and Strength, but with a slower speed. (<Num1>%)	インペイル： 攻撃力と腕力を<Num0>%増加させた攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Quick Smash: Deal an extra attack instantly. (<Num0>%)	クイックスマッシュ： 即座に追加攻撃する。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Energy Drain: Deal an attack with <Num0>% increased accuracy that siphons <Num1>% of your target's run energy. (<Num2>%)	エナジードレイン： 命中率が<Num0>%増加した攻撃を与え、対象の走力を<Num1>%吸い取る。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Binding Tentacle: Bind your target for <Num0> seconds and increase the chance of them being poisoned. (<Num1>%)	束縛の触手：対象を<Num0>秒間拘束し、毒状態にする確率を増加させる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Penance: Deal an attack that inflicts <Num0>% more damage per prayer point that you have used. (<Num1>%)	懺悔：使用した祈りポイント1つにつき<Num0>%多いダメージを与える攻撃を行う。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Shove: Push your target back and stun them for <Num0> seconds. This attack deals no damage. (<Num1>%)	突き飛ばす： 対象を押し戻し、<Num0>秒間気絶させる。この攻撃はダメージを与えない。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Sweep: If your target is small, adjacent targets may be hit too. Otherwise, your target may be hit a second time, with <Num0>% decreased accuracy. Damage in all cases is increased by <Num1>% of your max hit. (<Num2>%)	スイープ： 対象が小さい場合、隣接する敵にも命中することがある。そうでない場合、命中率<Num0>%低下した２回目の攻撃をする。いずれにしてもダメージは最大値の<Num1>%増加する。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Powershot: Deal an attack that is guaranteed to hit your target. (<Num0>%)	パワーショット： ターゲットに確実に命中する攻撃を与える。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Snapshot: Fire two arrows within quick succession, but with reduced accuracy. (<Num0>%)	スナップショット： 2本の矢を連続して放つが、命中率は下がる。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Soulshot: Deal an attack that is guaranteed to hit your target and lowers your target's Magic level by the damage dealt. (<Num0>%)	ソウルショット：確実に命中する攻撃を与え、与えたダメージ分だけ対象の魔法レベルを下げる。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Snipe: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (<Num0>%)	スナイプ：無防備な敵に命中率を大幅に上げた攻撃を与え、与えたダメージ分だけ敵の防御力を下げる。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Armadyl Eye: Deal an attack with double accuracy, also doubles the base activation chance of enchanted bolt effects. (<Num0>%)	アーマディル・アイ：命中率2倍の攻撃を与え、魔法付与ボルトの効果の基本発動確率を2倍にする。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Chainhit: Throw an axe which hits your target and then chains to hit further nearby targets, costing <Num0>% additional special attack per extra target. (<Num1>%)	チェーンヒット： 斧を投げて敵を攻撃、連鎖してさらに近くの敵に攻撃。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Toxic Siphon: Deal an attack with <Num0>% increased accuracy that inflicts <Num1>% more damage and heals you for <Num2>% of the damage dealt. (<Num3>%)	猛毒抽出：命中率+<Num0>%、与ダメージ+<Num1>%で攻撃し、与えたダメージの<Num2>%回復。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Smash: Deal an attack that inflicts <Num0>% more damage and lowers your target's Defence level by <Num1>%. (<Num2>%)	スマッシュ：与ダメージ+<Num0>%で攻撃し、対象の守備力を<Num1>%低下。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Slice and Dice: Hit <Num0> times in quick succession, with great accuracy. (<Num1>%)	スライス・アンド・ダイス：命中率の高い斬撃を<Num0>回する。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Concentrated Shot: Deal an attack with <Num0>% increased accuracy and damage, but takes an additional <Num1> seconds to fire. (<Num2>%)	集中攻撃：命中率とダメージが<Num0>%増加した攻撃を与えるが、発射までに追加で<Num1>秒かかる。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Wild Stab: Deal an attack which hits through Protect from Melee with <Num0>% increased accuracy and damage. (<Num1>%)	ワイルド・スタブ：命中率とダメージが<Num0>%増加した攻撃を「近接の防御」を通して与える。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Momentum Throw: Deal a fast attack with <Num0>% improved accuracy. (<Num1>%)	モーメンタムスロー：命中率+<Num0>%の素早い攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Fishstabber: Increase your Fishing level by <Num0>. (<Num1>%)	魚刺し：釣りレベルを<Num0>上げる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Shield Bash: Hit surrounding targets within a <Num0>x<Num1> area with <Num2>% increased accuracy. (<Num3>%)	シールドバッシュ： <Num0>x<Num1>の範囲内の敵に対して命中率+<Num2>%の攻撃をする。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Hammer Blow: Deal an attack with <Num0>% more accuracy and a guaranteed +<Num1> damage. (<Num2>%)	ハンマーの一撃：命中率+<Num0>%、確定+<Num1>のダメージを与える。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Annihilate: Hit your target with <Num0>% extra damage and in multicombat zones, hit all adjacent targets by <Num1>% less damage. (<Num2>%)	殲滅： 敵に与ダメージ+<Num0>%で攻撃、混戦区域では隣接する全ての対象に与ダメージ-<Num1>%で攻撃。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Pulsate: Fire an incredibly powerful burst of energy. (<Num0>%)	脈打つ：信じられないほど強力なエネルギーを発射する。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Hamstring: Deal a minimum of <Num0>% extra damage and hamstring player targets, causing them to lose run energy <Num1>x faster for <Num2> minute. (<Num3>%)	ハムストリング：最低<Num0>%の追加ダメージを与え、<Num2>分間<Num1>倍の速さで走力を失わせる。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Phantom Strike: This does nothing vs non-player targets. As well as dealing a regular attack, your target will suffer that damage again over time. (<Num0>%)	ファントムストライク： プレイヤー以外の対象には無効。通常の攻撃に加え、対象は時間経過とともに再びそのダメージを受ける。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Smash: Deal an attack which deals a minimum of <Num0>% extra damage and lowers your target's Defence level by <Num1>%. (<Num2>%)	スマッシュ：最低<Num0>%の追加ダメージを与え、対象の守備力レベルを<Num1>%下げる。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Feint: Deal an attack which treats your target's defence as if it was reduced by <Num0>%. It will deal a minimum of <Num1>% extra damage. (<Num2>%)	フェイント：対象の守備力を<Num0>%低い扱いで攻撃。最低でも与ダメージが<Num1>%上昇する。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Spear Wall: All damage dealt by this attack is reduced by <Num0>%, but will damage up to sixteen targets surrounding you. After using this attack, you will be immune from melee attacks for <Num1> seconds. (<Num2>%)	槍の壁：与ダメージが<Num0>%減少するが、自分を周囲の最大16体の敵を攻撃する。この攻撃を使用した後、<Num1>秒間は近接ダメージを受けない。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Spear Wall: Will hit twice with second hit deals a damage between <Num0>% - <Num1>% of the first hit damage. After using this attack, you will be immune from melee attacks for <Num2> seconds. (<Num3>%)	槍の壁：２回攻撃。 2回目のダメージは初撃の<Num0>%～<Num1>%。この攻撃を使用した後、<Num1>秒間は近接ダメージを受けない。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Duality: Throws two knives at your opponent. (<Num0>%)	二元性：敵にナイフを２本投げる。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Unleash: Deal an attack which has <Num0>% increased accuracy and <Num1>% increased strength per <Num2>% of the special attack bar used. (<Num3>%)	開放：残り必殺技バーの<Num2>%を使用するごとに命中率+<Num0>%、ダメージ+<Num1>%で攻撃。(<Num3>%)	interface	mainTabs	combatOptionsTab
+Immolate: Fire a powerful spell with <Num0>% improved accuracy. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Costs no runes to use. (<Num1>%)	焼却：命中率+<Num0>%の強力な魔法を放つ。ダメージは使用者の魔法レベル、装備品のボーナスに応じて変化。ルーンは不要。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Invocate: Fire a powerful spell that restores your prayer points by <Num0>% of the damage dealt. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Your prayer points can go above your level, to a maximum of <Num1>. Costs no runes to use. (<Num2>%)	召喚：与ダメージの<Num0>%の祈力ポイントを回復する強力な魔法を放つ。ダメージは使用者の魔法レベル、装備品のボーナスに応じて変化。レベル以上の祈力ポイントまで回復可能、上限は<Num1>。ルーンは不要。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Eviscerate: Perform an attack with your true maximum hit and a <Num0>% accuracy bonus. (<Num1>%)	殲滅：真の最大ダメージと<Num0>%の命中率ボーナスを持つ攻撃を行う。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Evoke: Perform an attack with double accuracy, with a guaranteed enchanted bolt activation rate on successful hit. (<Num0>%)	呼び起こす： 命中率2倍の攻撃を行い、命中すると魔法付与のボルトの発動率が保証される。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Wrath of Amascut: Perform an attack with <Num0>% increased accuracy and <Num1>% increased damage, but with halved attack speed. If hit, the opponent will take <Num2>% increased damage for the next <Num3> seconds. This special attack can only be used within the Tombs of Amascut. (<Num4>%)	アマスカットの怒り：命中率+<Num0>%、与ダメージ+<Num1>%、攻撃速度半減で攻撃。命中した場合、相手はその後<Num3>秒間、<Num2>%増加したダメージを受ける。この必殺技はアマスカットの墓でのみ発動可能。(<Num4>%)	interface	mainTabs	combatOptionsTab
+Tumeken's Light: Sacrifice <Num0> prayer points to restore your hitpoints to <Num1>% above their maximum, cure all poison, restore all drained stats (except prayer) and fully restore your run energy. This special attack can only be used within the Tombs of Amascut. (<Num2>%)	ツメケンの光：祈力ポイント<Num0>消費、体力を最大値の<Num1>%まで回復し、すべての毒を治し、全ての低下ステータス（祈りを除く）と走力を全回復。この必殺技はアマスカットの墓でのみ発動可能。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Swarm: Fire <Num0> times in quick succession, dealing reduced damage and inflicting poison. (<Num1>%)	大群： 低下したダメージと毒を与える攻撃を<Num0>回放つ。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Bear Down: Perform an attack with double accuracy, dealing additional damage over time, draining your target's agility level and preventing them from running. (<Num0>%)	ベアダウン：2倍の命中率で攻撃。追加で継続ダメージを与え、対象の運動神経レベルを下げ、走れなくする。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Condemn: Fire a powerful spell with increased accuracy and damage, lowering your target's magic and defence levels by up to <Num0>%. (<Num1>%)	糾弾：命中率とダメージが増加した強力な魔法を放ち、対象の魔法力と防御力を最大<Num0>%低下させる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Disrupt: Summon a powerful bolt of lightning that deals guaranteed magic damage based on your max hit. (<Num0>%)	混乱：強力な稲妻で確実に最大与ダメージに応じた魔法ダメージを与える。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Celebrate: Perform an attack to leave the area feeling more festive. (<Num0>%)	祝う：お祭り気分を盛り上げる攻撃を行う。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Behead: Consume all Soul Stacks, attacking with increased damage and accuracy per stack, and healing for <Num0> health per stack. (<Num1>%)	斬首： すべてのソウルスタックを消費し、1スタックにつきダメージと命中率が増加、体力を<Num0>回復。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Pulverize: A crushing blow with <Num0>% bonus accuracy that will reduce your target's defence by <Num1>%. (<Num2>%)	粉砕： 命中率+<Num0>%で敵を粉砕し、対象の守備力を<Num1>%低下させる。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Burning barrage: Attacks <Num0> times in quick succession, with a chance to burn the enemy on each hit. (<Num1>%)	バーニング・バラージ：<Num0>回連続で攻撃し、確率で一撃ごとに敵を火傷させる。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Scorching shackles: A scorching shot with <Num0>% bonus accuracy that will bind and burn enemy demons for <Num1> seconds.) (<Num2>%)	灼熱の足かせ：命中率+<Num0>%の矢を放ち、悪魔の敵を<Num1>秒間拘束し焼却する。 (<Num2>%)	interface	mainTabs	combatOptionsTab
+Scatter ashes: Casts the highest available demonbane spell. If it kills a demon, it refunds its special attack energy cost, and reduces the next attack delay. (<Num0>%)	灰を撒き散らす： 使用可能な最も強い悪魔殺し魔法を唱える。悪魔を倒した場合、必殺技エネルギーを消費分回復、次の攻撃までのクールタイムを減少。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Weaken: Temporarily drain your target's Attack, Strength and Defence by <Num0>%. Is three times as effective against demons. (<Num1>%)	弱体化：敵の攻撃力・腕力・守備力を<Num0>%低下。悪魔に対して効力は３倍。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Division: Fire a powerful piercing blade that reduces the targets Defence by <Num0>% of their Magic Level. (<Num1>%)	ディビジョン：対象の守備力を魔法レベルの<Num0>%減少させる強力な刃を放つ。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Break Shackles: Attack with increased accuracy and damage based on the duration of any binding spells affecting them and ending said effect. This special attack requires the full Frostmoon set to be worn. (<Num0>%)	束縛からの開放：拘束呪文の効果時間に応じて命中率+とダメージ+で攻撃し、拘束効果を終了させる。発動条件：全ブルームーン装備を装着すること。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Blood infusion: Sacrifice <Num0>% of your current hp to deal an attack with <Num1>% increased accuracy and damage, with a guaranteed set effect activation on hit. This special attack requires the full Bloodrager set to be worn. (<Num2>%)	血液注入：現体力の<Num0>%を犠牲に、命中率とダメージが<Num1>%増加した攻撃をする。発動条件：全ブラッドムーン装備を装着すること。(<Num2>%)	interface	mainTabs	combatOptionsTab
+Eclipse: Attack with <Num0>% increased accuracy, consuming all remaining burn damage affecting the target and raising the max hit by that amount. This special attack requires the full Eclipse set to be worn. (<Num1>%)	月食：命中率+<Num0>%で攻撃。対象に残っている燃焼ダメージをすべて消費し、最大ダメージをその分上げる。発動条件：全エクリプス装備を装着すること。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Virulence: Instantly metabolize any poison you are suffering from to buff your next attack by that amount of damage. (<Num0>%)	病原性：自分が受けている毒を即座に代謝し、次の攻撃をダメージ分増加。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Category: 2h Sword	カテゴリ：両手剣	interface	mainTabs	combatOptionsTab
+Category: Banner	カテゴリ：バナー	interface	mainTabs	combatOptionsTab
+Category: Blunt	カテゴリ：鈍器	interface	mainTabs	combatOptionsTab
+Category: Bludgeon	カテゴリ：棍棒	interface	mainTabs	combatOptionsTab
+Category: Bulwark	カテゴリ：防壁	interface	mainTabs	combatOptionsTab
+Category: Claw	カテゴリ：鉤爪	interface	mainTabs	combatOptionsTab
+Category: Partisan	カテゴリ：パルチザン	interface	mainTabs	combatOptionsTab
+Category: Polearm	カテゴリ：長槍	interface	mainTabs	combatOptionsTab
+Category: Polestaff	カテゴリ：長柄杖	interface	mainTabs	combatOptionsTab
+Category: Scythe	カテゴリ：大鎌	interface	mainTabs	combatOptionsTab
+Category: Slash Sword	カテゴリ：切り裂き剣	interface	mainTabs	combatOptionsTab
+Category: Spiked	カテゴリ：トゲ付き	interface	mainTabs	combatOptionsTab
+Category: Unarmed	カテゴリ：素手	interface	mainTabs	combatOptionsTab
+Category: Whip	カテゴリ：鞭	interface	mainTabs	combatOptionsTab
+Category: Chinchompas	カテゴリ：チンチョンパ	interface	mainTabs	combatOptionsTab
+Category: Gun	カテゴリ：銃	interface	mainTabs	combatOptionsTab
+Category: Bladed Staff	カテゴリ：刃付き杖	interface	mainTabs	combatOptionsTab
+Category: Salamander	カテゴリ：サラマンダ	interface	mainTabs	combatOptionsTab
+Category: Multi-style	カテゴリ：多スタイル	interface	mainTabs	combatOptionsTab
