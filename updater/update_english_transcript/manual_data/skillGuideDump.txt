@@ -15,19 +15,19 @@ Members: Brine sabre		interface	generalUI	skillGuide
 Members: Ivandis Flail (requires A Taste of Hope)		interface	generalUI	skillGuide
 Members: Mystic staves (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)		interface	generalUI	skillGuide
-Members: Granite maul  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Granite longsword  (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Granite maul (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Granite longsword (with <Num0> Strength)		interface	generalUI	skillGuide
 Members: Blisterwood (requires Sins of the Father)		interface	generalUI	skillGuide
 Members: Keris dagger (requires Contact!)		interface	generalUI	skillGuide
-Members: Ancient staff  (requires Desert Treasure I and <Num0> Magic)		interface	generalUI	skillGuide
-Members: Ancient sceptre  (requires Secrets of the North, <Num0> Strength and <Num1> Magic)		interface	generalUI	skillGuide
-Members: Purging staves  (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Ancient staff (requires Desert Treasure I and <Num0> Magic)		interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Strength and <Num1> Magic)		interface	generalUI	skillGuide
+Members: Purging staves (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Bone mace		interface	generalUI	skillGuide
 Members: Sulphur blades		interface	generalUI	skillGuide
 Members: Glacial temotli		interface	generalUI	skillGuide
 Members: Dragon		interface	generalUI	skillGuide
 Members: Burning claws		interface	generalUI	skillGuide
-Members: Barrelchest Anchor  (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Barrelchest Anchor (with <Num0> Strength)		interface	generalUI	skillGuide
 Members: Obsidian weapons		interface	generalUI	skillGuide
 Members: Viggora's Chainmace		interface	generalUI	skillGuide
 Members: Colossal Blade		interface	generalUI	skillGuide
@@ -35,29 +35,29 @@ Members: <Num0>rd age weapons		interface	generalUI	skillGuide
 Members: Sarachnis cudgel		interface	generalUI	skillGuide
 Members: Zombie axe		interface	generalUI	skillGuide
 Members: Keris partisan (requires Beneath Cursed Sands)		interface	generalUI	skillGuide
-Members: Crystal weaponry  (with <Num0> Agility)		interface	generalUI	skillGuide
+Members: Crystal weaponry (with <Num0> Agility)		interface	generalUI	skillGuide
 Members: Saradomin sword		interface	generalUI	skillGuide
 Members: Zamorakian spear		interface	generalUI	skillGuide
 Members: Abyssal whip & dagger		interface	generalUI	skillGuide
-Members: Abyssal bludgeon  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Ahrim's staff  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Dharok's greataxe  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Torag's hammers  (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Abyssal bludgeon (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Ahrim's staff (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Dharok's greataxe (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Torag's hammers (with <Num0> Strength)		interface	generalUI	skillGuide
 Members: Verac's flail		interface	generalUI	skillGuide
 Members: Guthan's warspear		interface	generalUI	skillGuide
 Members: Ursine Chainmace		interface	generalUI	skillGuide
-Members: Avernic defender  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Dual Macuahuitl  (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Avernic defender (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Dual Macuahuitl (with <Num0> Strength)		interface	generalUI	skillGuide
 Members: Blue moon spear (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Arclight		interface	generalUI	skillGuide
 Members: Godswords		interface	generalUI	skillGuide
-Members: Staff of the Dead  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Staff of Light  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Staff of Balance  (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Staff of the Dead (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Staff of Light (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Staff of Balance (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Abyssal tentacle		interface	generalUI	skillGuide
 Members: Blessed Saradomin sword		interface	generalUI	skillGuide
-Members: Elder maul  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Dinh's bulwark  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Elder maul (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Dinh's bulwark (with <Num0> Defence)		interface	generalUI	skillGuide
 Members: Vesta's blighted longsword		interface	generalUI	skillGuide
 Members: Voidwaker		interface	generalUI	skillGuide
 Members: Emberlight		interface	generalUI	skillGuide
@@ -66,21 +66,21 @@ Members: Ghrazi rapier		interface	generalUI	skillGuide
 Members: Inquisitor's mace		interface	generalUI	skillGuide
 Members: Blade of Saeldor		interface	generalUI	skillGuide
 Members: Noxious Halberd		interface	generalUI	skillGuide
-Members: Scythe of Vitur  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Soulreaper axe  (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Scythe of Vitur (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Soulreaper axe (with <Num0> Strength)		interface	generalUI	skillGuide
 Members: Variants of Keris partisan (requires Beneath Cursed Sands)		interface	generalUI	skillGuide
 Members: Osmumten's Fang		interface	generalUI	skillGuide
 Armour		interface	generalUI	skillGuide
 Salamanders		interface	generalUI	skillGuide
 Armour - Members Only		interface	generalUI	skillGuide
 Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)		interface	generalUI	skillGuide
-Members: Ferocious Gloves  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Ferocious Gloves (with <Num0> Defence)		interface	generalUI	skillGuide
 Salamanders - Members Only		interface	generalUI	skillGuide
-Swamp lizard  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
-Orange salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
-Red salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
-Black salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
-Tecu salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
+Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
+Orange salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
+Red salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
+Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
+Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)		interface	generalUI	skillGuide
 Hitpoints		interface	generalUI	skillGuide
 Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).		interface	generalUI	skillGuide
 If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.		interface	generalUI	skillGuide
@@ -158,8 +158,8 @@ Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (
 Anglerfish: Restores Hitpoints based on your Hitpoints level up to a maximum of <Num0> - can boost beyond your level (Members)		interface	generalUI	skillGuide
 Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)		interface	generalUI	skillGuide
 Equipment - Members Only		interface	generalUI	skillGuide
-Nightmare Staff (without orb)  (with <Num0> Magic)		interface	generalUI	skillGuide
-Nightmare Staff (with orb)  (with <Num0> Magic)		interface	generalUI	skillGuide
+Nightmare Staff (without orb) (with <Num0> Magic)		interface	generalUI	skillGuide
+Nightmare Staff (with orb) (with <Num0> Magic)		interface	generalUI	skillGuide
 Enchanted zenyte jewellery		interface	generalUI	skillGuide
 Amulet of Rancour		interface	generalUI	skillGuide
 Mining		interface	generalUI	skillGuide
@@ -225,59 +225,59 @@ Strength		interface	generalUI	skillGuide
 Bronze warhammer		interface	generalUI	skillGuide
 Iron warhammer		interface	generalUI	skillGuide
 Steel warhammer		interface	generalUI	skillGuide
-Members: Black halberd  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: White halberd  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Black halberd (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: White halberd (with <Num0> Attack)		interface	generalUI	skillGuide
 Black warhammer		interface	generalUI	skillGuide
-Members: White warhammer  (with <Num0> Prayer)		interface	generalUI	skillGuide
-Members: Mithril halberd  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Adamant halberd  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: White warhammer (with <Num0> Prayer)		interface	generalUI	skillGuide
+Members: Mithril halberd (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Adamant halberd (with <Num0> Attack)		interface	generalUI	skillGuide
 Mithril warhammer		interface	generalUI	skillGuide
-Members: Rune halberd  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Rune halberd (with <Num0> Attack)		interface	generalUI	skillGuide
 Adamant warhammer		interface	generalUI	skillGuide
-Members: Hunter's spears  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Members: Dragon halberd  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Hunter's spears (with <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Dragon halberd (with <Num0> Attack)		interface	generalUI	skillGuide
 Rune warhammer		interface	generalUI	skillGuide
-Members: Barrelchest Anchor  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Granite maul  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Granite longsword  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Barrelchest Anchor (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Granite maul (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Granite longsword (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: TzHaar-Ket-Om		interface	generalUI	skillGuide
 Members: Dragon warhammer		interface	generalUI	skillGuide
-Members: Ancient sceptre  (requires Secrets of the North, <Num0> Attack and <Num1> Magic)		interface	generalUI	skillGuide
-Members: Dharok's greataxe  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Torag's hammers  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Abyssal bludgeon  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Elder maul  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Dual Macuahuitl  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Soulreaper axe  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Scythe of Vitur  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Magic)		interface	generalUI	skillGuide
+Members: Dharok's greataxe (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Torag's hammers (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Abyssal bludgeon (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Elder maul (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Dual Macuahuitl (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Soulreaper axe (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Scythe of Vitur (with <Num0> Attack)		interface	generalUI	skillGuide
 Shortcuts		interface	generalUI	skillGuide
 Barbarian		interface	generalUI	skillGuide
-Granite armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Zombie helmet  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Inquisitor's armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-Primordial boots  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Bloodrager set  (with <Num0> Defence)		interface	generalUI	skillGuide
+Granite armour (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Zombie helmet (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Inquisitor's armour (with <Num0> Defence)		interface	generalUI	skillGuide
+Primordial boots (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Bloodrager set (with <Num0> Defence)		interface	generalUI	skillGuide
 Shortcuts - Members Only		interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid  (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
-Karamja  (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
-Escape from the water obelisk island  (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
-Scale the Observatory cliff  (with <Num0> Agility and <Num1> Ranged, after completing the Observatory quest)		interface	generalUI	skillGuide
-Scale the Catherby cliff  (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
-Scale Falador wall  (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
-Scale Yanille wall  (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
-Cross cave, south of Dorgesh-Kaan   (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)		interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
+Karamja (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
+Scale the Observatory cliff (with <Num0> Agility and <Num1> Ranged, after completing the Observatory quest)		interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Agility and <Num1> Ranged)		interface	generalUI	skillGuide
+Cross cave, south of Dorgesh-Kaan  (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)		interface	generalUI	skillGuide
 Areas - Members Only		interface	generalUI	skillGuide
 Access the God Wars Dungeon via the Strength route		interface	generalUI	skillGuide
 Enter the Bandos area of the God Wars Dungeon		interface	generalUI	skillGuide
 Barbarian - Members Only		interface	generalUI	skillGuide
 To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.		interface	generalUI	skillGuide
-Leaping trout  (with <Num0> Agility & <Num1> Fishing)		interface	generalUI	skillGuide
-Leaping salmon  (with <Num0> Agility & <Num1> Fishing)		interface	generalUI	skillGuide
-Tuna  (with <Num0> Fishing)		interface	generalUI	skillGuide
-Harpoonfish  (with <Num0> Fishing)		interface	generalUI	skillGuide
-Leaping sturgeon  (with <Num0> Agility & <Num1> Fishing)		interface	generalUI	skillGuide
-Swordfish  (with <Num0> Fishing)		interface	generalUI	skillGuide
-Shark  (with <Num0> Fishing)		interface	generalUI	skillGuide
+Leaping trout (with <Num0> Agility & <Num1> Fishing)		interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Agility & <Num1> Fishing)		interface	generalUI	skillGuide
+Tuna (with <Num0> Fishing)		interface	generalUI	skillGuide
+Harpoonfish (with <Num0> Fishing)		interface	generalUI	skillGuide
+Leaping sturgeon (with <Num0> Agility & <Num1> Fishing)		interface	generalUI	skillGuide
+Swordfish (with <Num0> Fishing)		interface	generalUI	skillGuide
+Shark (with <Num0> Fishing)		interface	generalUI	skillGuide
 Agility		interface	generalUI	skillGuide
 Courses - Members Only		interface	generalUI	skillGuide
 Gnome Stronghold Agility Course		interface	generalUI	skillGuide
@@ -320,29 +320,29 @@ Access the God Wars Dungeon area via the Agility route		interface	generalUI	skil
 Yanille Dungeon's rubble climb		interface	generalUI	skillGuide
 Enter the Saradomin area of the God Wars Dungeon		interface	generalUI	skillGuide
 Falador Agility shortcut		interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid  (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
 Corsair Cove shortcut		interface	generalUI	skillGuide
-Scale Falador wall  (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
 Jump fence south of Varrock		interface	generalUI	skillGuide
 Scale Goblin village wall		interface	generalUI	skillGuide
-Corsair Cove Dungeon shortcut  (after Dragon Slayer)		interface	generalUI	skillGuide
+Corsair Cove Dungeon shortcut (after Dragon Slayer)		interface	generalUI	skillGuide
 Yanille Agility shortcut		interface	generalUI	skillGuide
 Kourend Catacombs Agility shortcut		interface	generalUI	skillGuide
 Coal Truck log balance		interface	generalUI	skillGuide
 Grand Exchange Agility shortcut		interface	generalUI	skillGuide
-Scale the Observatory cliff  (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)		interface	generalUI	skillGuide
+Scale the Observatory cliff (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)		interface	generalUI	skillGuide
 Eagles' Peak Agility shortcut		interface	generalUI	skillGuide
 Kourend Catacombs pillar jump shortcut		interface	generalUI	skillGuide
 Mount Karuulm lower cliffside climb		interface	generalUI	skillGuide
-Corsair Cove Resource Area shortcut  (after Dragon Slayer)		interface	generalUI	skillGuide
+Corsair Cove Resource Area shortcut (after Dragon Slayer)		interface	generalUI	skillGuide
 Draynor Manor stones to Champions' Guild		interface	generalUI	skillGuide
-Scale the Catherby cliff  (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
 Shilo Village river crossing		interface	generalUI	skillGuide
 Ardougne log balance shortcut		interface	generalUI	skillGuide
-Escape from the water obelisk island  (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
 Gnome Stronghold shortcut		interface	generalUI	skillGuide
 Al Kharid Mining pit cliffside scramble		interface	generalUI	skillGuide
-Scale Yanille wall  (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
 Hosidius lake isle jump		interface	generalUI	skillGuide
 Trollheim easy cliffside scramble		interface	generalUI	skillGuide
 Dwarven Mine narrow crevice		interface	generalUI	skillGuide
@@ -360,7 +360,7 @@ Arceuus essence mine boulder leap		interface	generalUI	skillGuide
 Stepping stone into Morytania near the Nature Grotto		interface	generalUI	skillGuide
 Pipe from Edgeville dungeon to Varrock Sewers		interface	generalUI	skillGuide
 Arceuus essence mine eastern scramble		interface	generalUI	skillGuide
-Karamja crossing, south of volcano  (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
+Karamja crossing, south of volcano (with <Num0> Strength and <Num1> Ranged)		interface	generalUI	skillGuide
 Motherlode Mine dark tunnel		interface	generalUI	skillGuide
 Western Aldarin cliff scramble		interface	generalUI	skillGuide
 Stepping stone by Miscellania docks		interface	generalUI	skillGuide
@@ -395,8 +395,8 @@ Taverley Dungeon shortcuts to blue dragons		interface	generalUI	skillGuide
 Fossil island hardwood shortcut		interface	generalUI	skillGuide
 Al Kharid Palace southern window		interface	generalUI	skillGuide
 Slayer Tower advanced spiked chain climb		interface	generalUI	skillGuide
-Gu'Tanoth wall climb  (after completing the Watchtower quest)		interface	generalUI	skillGuide
-Pollniveach stepping stone		interface	generalUI	skillGuide
+Gu'Tanoth wall climb (after completing the Watchtower quest)		interface	generalUI	skillGuide
+Pollnivneach stepping stone		interface	generalUI	skillGuide
 Stronghold Slayer Cave narrow tunnel		interface	generalUI	skillGuide
 Basic Asgarnian Ice Dungeon wyvern tunnel		interface	generalUI	skillGuide
 Chaos temple Stepping Stone		interface	generalUI	skillGuide
@@ -410,7 +410,7 @@ Island crossing near Zul-Andra		interface	generalUI	skillGuide
 Wilderness Slayer Dungeon Crevices		interface	generalUI	skillGuide
 Iorwerth Dungeon northern shortcut		interface	generalUI	skillGuide
 Shilo village rock climb		interface	generalUI	skillGuide
-Kharazi Jungle vine climb  (with Legends' Guild access)		interface	generalUI	skillGuide
+Kharazi Jungle vine climb (with Legends' Guild access)		interface	generalUI	skillGuide
 Taverley Dungeon spiked blades jump		interface	generalUI	skillGuide
 Waterbirth Dungeon crevice		interface	generalUI	skillGuide
 Lava Maze northern jump		interface	generalUI	skillGuide
@@ -426,14 +426,14 @@ Revenant cave jump (hard)		interface	generalUI	skillGuide
 Viyeldi Caves cliff climb		interface	generalUI	skillGuide
 Meiyerditch Laboratories advanced shortcut.		interface	generalUI	skillGuide
 Viyeldi caves crevice (after completing the Legends' Quest)		interface	generalUI	skillGuide
-Leaping trout  (with <Num0> Strength & <Num1> Fishing)		interface	generalUI	skillGuide
-Leaping salmon  (with <Num0> Strength & <Num1> Fishing)		interface	generalUI	skillGuide
-Leaping sturgeon  (with <Num0> Strength & <Num1> Fishing)		interface	generalUI	skillGuide
+Leaping trout (with <Num0> Strength & <Num1> Fishing)		interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Strength & <Num1> Fishing)		interface	generalUI	skillGuide
+Leaping sturgeon (with <Num0> Strength & <Num1> Fishing)		interface	generalUI	skillGuide
 Other - Members Only		interface	generalUI	skillGuide
-Crystal weaponry  (with <Num0> Attack)		interface	generalUI	skillGuide
+Crystal weaponry (with <Num0> Attack)		interface	generalUI	skillGuide
 Hallowed Sepulchre (Floor <Num0>)		interface	generalUI	skillGuide
 Ring of Endurance		interface	generalUI	skillGuide
-Bow of Faerdhinen  (with <Num0> Ranged)		interface	generalUI	skillGuide
+Bow of Faerdhinen (with <Num0> Ranged)		interface	generalUI	skillGuide
 Smithing		interface	generalUI	skillGuide
 Smelting		interface	generalUI	skillGuide
 Bronze <Num0> tin ore & <Num1> copper ore		interface	generalUI	skillGuide
@@ -662,46 +662,46 @@ Members: Ancient Wyvern shield		interface	generalUI	skillGuide
 Members: Zombie axes and helmets		interface	generalUI	skillGuide
 Defence		interface	generalUI	skillGuide
 Members: Slayer helm		interface	generalUI	skillGuide
-Members: Xerician armour  (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Xerician armour (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Yak-hide		interface	generalUI	skillGuide
-Members: Initiate armour  (after Recruitment Drive, with <Num0> Prayer)		interface	generalUI	skillGuide
+Members: Initiate armour (after Recruitment Drive, with <Num0> Prayer)		interface	generalUI	skillGuide
 Members: Shayzien armour		interface	generalUI	skillGuide
 Adamantite		interface	generalUI	skillGuide
-Members: Inquisitor's armour  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Proselyte armour  (after Slug Menace, with <Num0> Prayer)		interface	generalUI	skillGuide
-Members: Masori armour  (With <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Inquisitor's armour (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Proselyte armour (after Slug Menace, with <Num0> Prayer)		interface	generalUI	skillGuide
+Members: Masori armour (With <Num0> Ranged)		interface	generalUI	skillGuide
 Members: Samurai armour		interface	generalUI	skillGuide
-Members: Rock-shell armour  (after Fremennik Trials)		interface	generalUI	skillGuide
-Members: Dagon'hai robes  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Sunfire Fanatic armour  (with <Num0> Prayer)		interface	generalUI	skillGuide
-Members: Fremennik helmets  (after Fremennik Trials)		interface	generalUI	skillGuide
-Members: Zaryte vambraces  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Members: Granite  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Zombie helmet  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Mixed Hide body, cape, and boots  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Members: Bloodrager set  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Frostmoon set  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Eclipse set  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Members: Helm of neitiznot  (after Fremennik Isles)		interface	generalUI	skillGuide
+Members: Rock-shell armour (after Fremennik Trials)		interface	generalUI	skillGuide
+Members: Dagon'hai robes (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Sunfire Fanatic armour (with <Num0> Prayer)		interface	generalUI	skillGuide
+Members: Fremennik helmets (after Fremennik Trials)		interface	generalUI	skillGuide
+Members: Zaryte vambraces (with <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Granite (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Zombie helmet (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Mixed Hide body, cape, and boots (with <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Bloodrager set (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Frostmoon set (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Eclipse set (with <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Helm of neitiznot (after Fremennik Isles)		interface	generalUI	skillGuide
 Members: Obsidian armour		interface	generalUI	skillGuide
 Members: Bandos armour		interface	generalUI	skillGuide
 Members: <Num0>rd age fighter armour		interface	generalUI	skillGuide
-Members: Ancestral robes  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Avernic defender  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Ancestral robes (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Avernic defender (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Barrows armour		interface	generalUI	skillGuide
 Members: Armadyl armour (with <Num0> Ranged)		interface	generalUI	skillGuide
 Members: Boots of brimstone (with <Num0> Ranged and Magic)		interface	generalUI	skillGuide
 Members: Crystal armour (with <Num0> Agility after Song of the Elves)		interface	generalUI	skillGuide
-Members: Neitiznot faceguard  (after The Fremennik Exiles)		interface	generalUI	skillGuide
+Members: Neitiznot faceguard (after The Fremennik Exiles)		interface	generalUI	skillGuide
 Members: Justiciar armour		interface	generalUI	skillGuide
 Members: Serpentine helm		interface	generalUI	skillGuide
 Members: Guardian boots		interface	generalUI	skillGuide
 Members: Echo boots		interface	generalUI	skillGuide
-Members: Primordial boots  (with <Num0> Strength)		interface	generalUI	skillGuide
-Members: Eternal boots  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Pegasian boots  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Members: Virtus robes  (with <Num0> Magic)		interface	generalUI	skillGuide
-Members: Ferocious Gloves  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Primordial boots (with <Num0> Strength)		interface	generalUI	skillGuide
+Members: Eternal boots (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Pegasian boots (with <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Virtus robes (with <Num0> Magic)		interface	generalUI	skillGuide
+Members: Ferocious Gloves (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Torva armour		interface	generalUI	skillGuide
 Members: Fortified Masori armour (with <Num0> Ranged)		interface	generalUI	skillGuide
 Penance		interface	generalUI	skillGuide
@@ -711,16 +711,16 @@ Penance - Members Only		interface	generalUI	skillGuide
 Fighter torso		interface	generalUI	skillGuide
 Runner boots		interface	generalUI	skillGuide
 Penance gloves		interface	generalUI	skillGuide
-Penance skirt  (with <Num0> Ranged)		interface	generalUI	skillGuide
+Penance skirt (with <Num0> Ranged)		interface	generalUI	skillGuide
 Fighter hat		interface	generalUI	skillGuide
 Ranger hat		interface	generalUI	skillGuide
 Healer hat		interface	generalUI	skillGuide
 Runner hat		interface	generalUI	skillGuide
 Prayers - Members Only		interface	generalUI	skillGuide
-Chivalry  (with <Num0> Prayer, after King's Ransom)		interface	generalUI	skillGuide
-Piety  (with <Num0> Prayer, after King's Ransom)		interface	generalUI	skillGuide
-Rigour  (with <Num0> Prayer, from Chambers of Xeric)		interface	generalUI	skillGuide
-Augury  (with <Num0> Prayer, from Chambers of Xeric)		interface	generalUI	skillGuide
+Chivalry (with <Num0> Prayer, after King's Ransom)		interface	generalUI	skillGuide
+Piety (with <Num0> Prayer, after King's Ransom)		interface	generalUI	skillGuide
+Rigour (with <Num0> Prayer, from Chambers of Xeric)		interface	generalUI	skillGuide
+Augury (with <Num0> Prayer, from Chambers of Xeric)		interface	generalUI	skillGuide
 Shields - Members Only		interface	generalUI	skillGuide
 Members: Oak shield		interface	generalUI	skillGuide
 Members: Willow shield		interface	generalUI	skillGuide
@@ -738,9 +738,9 @@ Members: Dragonfire ward (with <Num0> Ranged)		interface	generalUI	skillGuide
 Members: Ancient Wyvern shield (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Elysian spirit shield (with <Num0> Prayer)		interface	generalUI	skillGuide
 Members: Arcane & Spectral spirit shields (with <Num0> Prayer and <Num1> Magic)		interface	generalUI	skillGuide
-Members: Twisted buckler  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Members: Dinh's bulwark  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Elidinis' Ward  (with <Num0> Prayer and <Num1> Magic)		interface	generalUI	skillGuide
+Members: Twisted buckler (with <Num0> Ranged)		interface	generalUI	skillGuide
+Members: Dinh's bulwark (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Elidinis' Ward (with <Num0> Prayer and <Num1> Magic)		interface	generalUI	skillGuide
 Herblore		interface	generalUI	skillGuide
 Potions - Members Only		interface	generalUI	skillGuide
 You must complete the Druidic Ritual quest before you can use Herblore.		interface	generalUI	skillGuide
@@ -865,20 +865,20 @@ Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</
 Weak Golpar potions:		interface	generalUI	skillGuide
 Standard Golpar potions		interface	generalUI	skillGuide
 Strong Golpar potions		interface	generalUI	skillGuide
-Elder potions  with Stinkhorn mushroom		interface	generalUI	skillGuide
-Kodai potions  with Endarkened juice		interface	generalUI	skillGuide
-Twisted potions  with Cicely		interface	generalUI	skillGuide
+Elder potions with Stinkhorn mushroom		interface	generalUI	skillGuide
+Kodai potions with Endarkened juice		interface	generalUI	skillGuide
+Twisted potions with Cicely		interface	generalUI	skillGuide
 Weak Buchu leaf potions:		interface	generalUI	skillGuide
 Standard Buchu leaf potions		interface	generalUI	skillGuide
 Strong Buchu leaf potions		interface	generalUI	skillGuide
-Revitalisation potions  with Stinkhorn mushroom		interface	generalUI	skillGuide
-Xeric's Aid potions  with Endarkened juice		interface	generalUI	skillGuide
-Prayer enhance potions  with Cicely		interface	generalUI	skillGuide
+Revitalisation potions with Stinkhorn mushroom		interface	generalUI	skillGuide
+Xeric's Aid potions with Endarkened juice		interface	generalUI	skillGuide
+Prayer enhance potions with Cicely		interface	generalUI	skillGuide
 Weak Noxifer potions:		interface	generalUI	skillGuide
 Standard Noxifer potions		interface	generalUI	skillGuide
 Strong Noxifer potions		interface	generalUI	skillGuide
-Antipoison potions  with Cicely		interface	generalUI	skillGuide
-Overload  with Elder, Kodai & Twisted potions		interface	generalUI	skillGuide
+Antipoison potions with Cicely		interface	generalUI	skillGuide
+Overload with Elder, Kodai & Twisted potions		interface	generalUI	skillGuide
 For overload potions, the tier is capped at the tier of the potions used to make it.		interface	generalUI	skillGuide
 Harvest herbs from the <colNum0>Herbiboar</col> on <colNum1>Fossil Island</col> (with <Num0> Hunter).		interface	generalUI	skillGuide
 Use the Herb Sack reward item, purchased from the Tithe Farm or Slayer Masters.		interface	generalUI	skillGuide
@@ -938,13 +938,13 @@ Members: Mottled eel - Aerial fishing (With <Num0> hunter)		interface	generalUI	
 Members: Greater siren - Aerial fishing (With <Num0> hunter)		interface	generalUI	skillGuide
 Lobster - Lobster pot		interface	generalUI	skillGuide
 Members: Dark crab - Lobster pot & Dark fishing bait		interface	generalUI	skillGuide
-Leaping trout - Barbarian rod & most bait types  (with <Num0> Agility & <Num1> Strength)		interface	generalUI	skillGuide
-Tuna  (with <Num0> Strength)		interface	generalUI	skillGuide
-Harpoonfish  (with <Num0> Strength)		interface	generalUI	skillGuide
-Leaping salmon - Barbarian rod & most bait types  (with <Num0> Agility & <Num1> Strength)		interface	generalUI	skillGuide
-Leaping sturgeon - Barbarian rod & most bait types  (with <Num0> Agility & <Num1> Strength)		interface	generalUI	skillGuide
-Swordfish  (with <Num0> Strength)		interface	generalUI	skillGuide
-Shark  (with <Num0> Strength)		interface	generalUI	skillGuide
+Leaping trout - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)		interface	generalUI	skillGuide
+Tuna (with <Num0> Strength)		interface	generalUI	skillGuide
+Harpoonfish (with <Num0> Strength)		interface	generalUI	skillGuide
+Leaping salmon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)		interface	generalUI	skillGuide
+Leaping sturgeon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)		interface	generalUI	skillGuide
+Swordfish (with <Num0> Strength)		interface	generalUI	skillGuide
+Shark (with <Num0> Strength)		interface	generalUI	skillGuide
 Small fishing net		interface	generalUI	skillGuide
 Fishing rod		interface	generalUI	skillGuide
 Members: Big fishing net		interface	generalUI	skillGuide
@@ -971,24 +971,24 @@ Members: Sea turtle - Trawler & Tempoross		interface	generalUI	skillGuide
 Members: Manta ray - Trawler & Tempoross		interface	generalUI	skillGuide
 Ranged		interface	generalUI	skillGuide
 Bows		interface	generalUI	skillGuide
-Standard bows  Ammo: Arrows up to iron		interface	generalUI	skillGuide
-Oak bows  Ammo: Arrows up to steel		interface	generalUI	skillGuide
-Willow bows  Ammo: Arrows up to mithril		interface	generalUI	skillGuide
-Maple bows  Ammo: Arrows up to adamant		interface	generalUI	skillGuide
-Members: Ogre composite bows  Ammo: 'Brutal' arrows up to rune		interface	generalUI	skillGuide
-Members: Yew bows  Ammo: Arrows up to rune		interface	generalUI	skillGuide
-Members: Magic bows  Ammo: Arrows up to amethyst		interface	generalUI	skillGuide
-Members: Bone shortbow  Ammo: Arrows up to amethyst		interface	generalUI	skillGuide
-Members: Seerculls  Ammo: Arrows up to amethyst		interface	generalUI	skillGuide
-Members: Dark bows  Ammo: Arrows up to dragon		interface	generalUI	skillGuide
-Members: Craw's bow  Ammo: None		interface	generalUI	skillGuide
-Members: <Num0>rd age bow  Ammo: Arrows up to dragon		interface	generalUI	skillGuide
-Members: Crystal bows (with <Num0> Agility)  Ammo: None		interface	generalUI	skillGuide
-Members: Webweaver bow  Ammo: None		interface	generalUI	skillGuide
-Members: Scorching bows  Ammo: Arrows up to dragon		interface	generalUI	skillGuide
-Members: Bow of Faerdhinen (with <Num0> Agility)  Ammo: None		interface	generalUI	skillGuide
-Members: Venator bow  Ammo: Arrows up to dragon		interface	generalUI	skillGuide
-Members: Twisted bow  Ammo: Arrows up to dragon		interface	generalUI	skillGuide
+Standard bows Ammo: Arrows up to iron		interface	generalUI	skillGuide
+Oak bows Ammo: Arrows up to steel		interface	generalUI	skillGuide
+Willow bows Ammo: Arrows up to mithril		interface	generalUI	skillGuide
+Maple bows Ammo: Arrows up to adamant		interface	generalUI	skillGuide
+Members: Ogre composite bows Ammo: 'Brutal' arrows up to rune		interface	generalUI	skillGuide
+Members: Yew bows Ammo: Arrows up to rune		interface	generalUI	skillGuide
+Members: Magic bows Ammo: Arrows up to amethyst		interface	generalUI	skillGuide
+Members: Bone shortbow Ammo: Arrows up to amethyst		interface	generalUI	skillGuide
+Members: Seerculls Ammo: Arrows up to amethyst		interface	generalUI	skillGuide
+Members: Dark bows Ammo: Arrows up to dragon		interface	generalUI	skillGuide
+Members: Craw's bow Ammo: None		interface	generalUI	skillGuide
+Members: <Num0>rd age bow Ammo: Arrows up to dragon		interface	generalUI	skillGuide
+Members: Crystal bows (with <Num0> Agility) Ammo: None		interface	generalUI	skillGuide
+Members: Webweaver bow Ammo: None		interface	generalUI	skillGuide
+Members: Scorching bows Ammo: Arrows up to dragon		interface	generalUI	skillGuide
+Members: Bow of Faerdhinen (with <Num0> Agility) Ammo: None		interface	generalUI	skillGuide
+Members: Venator bow Ammo: Arrows up to dragon		interface	generalUI	skillGuide
+Members: Twisted bow Ammo: Arrows up to dragon		interface	generalUI	skillGuide
 Thrown		interface	generalUI	skillGuide
 Crossbows		interface	generalUI	skillGuide
 Miscellaneous		interface	generalUI	skillGuide
@@ -1003,89 +1003,89 @@ Rune items		interface	generalUI	skillGuide
 Chinchompas		interface	generalUI	skillGuide
 Amethyst darts		interface	generalUI	skillGuide
 Carnivorous chinchompas		interface	generalUI	skillGuide
-Hunter's Spears  (with <Num0> Strength)		interface	generalUI	skillGuide
+Hunter's Spears (with <Num0> Strength)		interface	generalUI	skillGuide
 Dragon darts		interface	generalUI	skillGuide
 Dragon knives		interface	generalUI	skillGuide
 TokTz-Xil-Ul		interface	generalUI	skillGuide
 Dragon thrownaxes		interface	generalUI	skillGuide
 Black chinchompas		interface	generalUI	skillGuide
-Eclipse Atlatl (With <Num0> Strength and <Num1> Attack)  Ammo: Atlatl darts		interface	generalUI	skillGuide
+Eclipse Atlatl (With <Num0> Strength and <Num1> Attack) Ammo: Atlatl darts		interface	generalUI	skillGuide
 Toxic blowpipe		interface	generalUI	skillGuide
 Tonalztics of Ralos		interface	generalUI	skillGuide
-Crossbow  Ammo: Bronze crossbow bolts		interface	generalUI	skillGuide
-Phoenix crossbow  Ammo: Bronze crossbow bolts		interface	generalUI	skillGuide
-Members: Bronze crossbow  Ammo: Bronze crossbow bolts		interface	generalUI	skillGuide
-Members: Blurite crossbow  Ammo: Bolts up to blurite		interface	generalUI	skillGuide
-Members: Iron crossbow  Ammo: Bolts up to iron		interface	generalUI	skillGuide
-Members: Dorgeshuun crossbow  Ammo: Bolts up to iron		interface	generalUI	skillGuide
-Members: Steel crossbow  Ammo: Bolts up to steel		interface	generalUI	skillGuide
-Members: Mithril crossbow  Ammo: Bolts up to mithril		interface	generalUI	skillGuide
-Members: Adamantite crossbow  Ammo: Bolts up to adamant		interface	generalUI	skillGuide
-Members: Hunters' crossbow  Ammo: Kebbit bolts		interface	generalUI	skillGuide
-Members: Runite crossbow  Ammo: Bolts up to runite		interface	generalUI	skillGuide
-Members: Dragon crossbow  Ammo: Bolts up to dragon		interface	generalUI	skillGuide
-Members: Sunlight hunters' crossbow  Ammo: Antler bolts.		interface	generalUI	skillGuide
-Members: Dragon hunter crossbow  Ammo: Bolts up to dragon		interface	generalUI	skillGuide
-Members: Armadyl crossbow  Ammo: Bolts up to dragon		interface	generalUI	skillGuide
+Crossbow Ammo: Bronze crossbow bolts		interface	generalUI	skillGuide
+Phoenix crossbow Ammo: Bronze crossbow bolts		interface	generalUI	skillGuide
+Members: Bronze crossbow Ammo: Bronze crossbow bolts		interface	generalUI	skillGuide
+Members: Blurite crossbow Ammo: Bolts up to blurite		interface	generalUI	skillGuide
+Members: Iron crossbow Ammo: Bolts up to iron		interface	generalUI	skillGuide
+Members: Dorgeshuun crossbow Ammo: Bolts up to iron		interface	generalUI	skillGuide
+Members: Steel crossbow Ammo: Bolts up to steel		interface	generalUI	skillGuide
+Members: Mithril crossbow Ammo: Bolts up to mithril		interface	generalUI	skillGuide
+Members: Adamantite crossbow Ammo: Bolts up to adamant		interface	generalUI	skillGuide
+Members: Hunters' crossbow Ammo: Kebbit bolts		interface	generalUI	skillGuide
+Members: Runite crossbow Ammo: Bolts up to runite		interface	generalUI	skillGuide
+Members: Dragon crossbow Ammo: Bolts up to dragon		interface	generalUI	skillGuide
+Members: Sunlight hunters' crossbow Ammo: Antler bolts.		interface	generalUI	skillGuide
+Members: Dragon hunter crossbow Ammo: Bolts up to dragon		interface	generalUI	skillGuide
+Members: Armadyl crossbow Ammo: Bolts up to dragon		interface	generalUI	skillGuide
 Members: Karil's crossbow		interface	generalUI	skillGuide
-Members: Zaryte crossbow  Ammo: Bolts up to dragon		interface	generalUI	skillGuide
+Members: Zaryte crossbow Ammo: Bolts up to dragon		interface	generalUI	skillGuide
 Plain leather items		interface	generalUI	skillGuide
-Hard leather body  (with <Num0> Defence)		interface	generalUI	skillGuide
-Studded leather body  (with <Num0> Defence)		interface	generalUI	skillGuide
+Hard leather body (with <Num0> Defence)		interface	generalUI	skillGuide
+Studded leather body (with <Num0> Defence)		interface	generalUI	skillGuide
 Studded leather chaps		interface	generalUI	skillGuide
 Coif		interface	generalUI	skillGuide
-Members: Hard leather shield   (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Frog-leather   (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Snakeskin armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Snakeskin shield   (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Ava's attractor  (after Animal Magnetism)		interface	generalUI	skillGuide
+Members: Hard leather shield  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Frog-leather  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Snakeskin armour (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Snakeskin shield  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Ava's attractor (after Animal Magnetism)		interface	generalUI	skillGuide
 Members: Ranger boots		interface	generalUI	skillGuide
 Members: Robin Hood hat		interface	generalUI	skillGuide
 Members: Rangers' tunic		interface	generalUI	skillGuide
 Members: Ranger gloves		interface	generalUI	skillGuide
 Members: Rangers' tights		interface	generalUI	skillGuide
-Members: Spined armour  (after The Fremennik Trials, with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Spined armour (after The Fremennik Trials, with <Num0> Defence)		interface	generalUI	skillGuide
 Green dragonhide vambraces		interface	generalUI	skillGuide
 Green dragonhide chaps		interface	generalUI	skillGuide
-Green dragonhide body  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Green dragonhide shield   (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Ava's accumulator  (after Animal Magnetism)		interface	generalUI	skillGuide
+Green dragonhide body (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Green dragonhide shield  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Ava's accumulator (after Animal Magnetism)		interface	generalUI	skillGuide
 Members: Blue dragonhide vambraces		interface	generalUI	skillGuide
 Members: Blue dragonhide chaps		interface	generalUI	skillGuide
-Members: Blue dragonhide body  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Blue dragonhide shield   (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Penance skirt  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Blue dragonhide body (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Blue dragonhide shield  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Penance skirt (with <Num0> Defence)		interface	generalUI	skillGuide
 Members: Red dragonhide vambraces		interface	generalUI	skillGuide
 Members: Red dragonhide chaps		interface	generalUI	skillGuide
-Members: Red dragonhide body  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Red dragonhide shield   (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Red dragonhide body (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Red dragonhide shield  (with <Num0> Defence)		interface	generalUI	skillGuide
 Members: Mixed hide legs		interface	generalUI	skillGuide
-Members: Mixed hide top, cape, and boots  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: <Num0>rd age range armour  (with <Num1> Defence)		interface	generalUI	skillGuide
-Members: Ava's Assembler  (after Dragon Slayer II)		interface	generalUI	skillGuide
+Members: Mixed hide top, cape, and boots (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: <Num0>rd age range armour (with <Num1> Defence)		interface	generalUI	skillGuide
+Members: Ava's Assembler (after Dragon Slayer II)		interface	generalUI	skillGuide
 Members: Black dragonhide vambraces		interface	generalUI	skillGuide
 Members: Black dragonhide chaps		interface	generalUI	skillGuide
-Members: Black dragonhide body  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Black dragonhide shield  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: God dragonhide shields  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: God dragonhide armour  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Black dragonhide body (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Black dragonhide shield (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: God dragonhide shields (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: God dragonhide armour (with <Num0> Defence)		interface	generalUI	skillGuide
 Members: Hueycoatl hide vambraces		interface	generalUI	skillGuide
 Members: Hueycoatl hide chaps		interface	generalUI	skillGuide
-Members: Hueycoatl hide body  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Hueycoatl hide coif  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Armadyl armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Karil's leather armour  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Hueycoatl hide body (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Hueycoatl hide coif (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Armadyl armour (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Karil's leather armour (with <Num0> Defence)		interface	generalUI	skillGuide
 Members: Dragonfire ward (with <Num0> Defence)		interface	generalUI	skillGuide
 Members: Boots of brimstone (with <Num0> Defence and Magic)		interface	generalUI	skillGuide
 Dizana's Quiver Ammo storage: Bolts or Arrows		interface	generalUI	skillGuide
-Members: Eclipse set  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Pegasian boots  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Twisted buckler  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Zaryte vambraces  (with <Num0> Defence)		interface	generalUI	skillGuide
-Members: Masori armour  (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Eclipse set (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Pegasian boots (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Twisted buckler (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Zaryte vambraces (with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Masori armour (with <Num0> Defence)		interface	generalUI	skillGuide
 Miscellaneous - Members Only		interface	generalUI	skillGuide
-Light ballista  Ammo: All Javelins		interface	generalUI	skillGuide
-Heavy ballista (after Monkey Madness II)  Ammo: All Javelins		interface	generalUI	skillGuide
+Light ballista Ammo: All Javelins		interface	generalUI	skillGuide
+Heavy ballista (after Monkey Madness II) Ammo: All Javelins		interface	generalUI	skillGuide
 Scale Falador wall (with <Num0> Agility and <Num1> Strength)		interface	generalUI	skillGuide
 Scale Yanille wall (with <Num0> Agility and <Num1> Strength)		interface	generalUI	skillGuide
 Scale Observatory cliff (after Observatory quest) (with <Num0> Agility and <Num1> Strength)		interface	generalUI	skillGuide
@@ -1401,12 +1401,12 @@ Members: Retribution		interface	generalUI	skillGuide
 Members: Redemption		interface	generalUI	skillGuide
 Members: Smite		interface	generalUI	skillGuide
 Members: Preserve		interface	generalUI	skillGuide
-Members: Chivalry  (with <Num0> Defence, after King's Ransom)		interface	generalUI	skillGuide
-Members: Piety  (with <Num0> Defence, after King's Ransom)		interface	generalUI	skillGuide
-Members: Rigour  (with <Num0> Defence, from Chambers of Xeric)		interface	generalUI	skillGuide
-Members: Augury  (with <Num0> Defence, from Chambers of Xeric)		interface	generalUI	skillGuide
-Initiate armour  (after Recruitment Drive, with <Num0> Defence)		interface	generalUI	skillGuide
-Proselyte armour  (after Slug Menace, with <Num0> Defence)		interface	generalUI	skillGuide
+Members: Chivalry (with <Num0> Defence, after King's Ransom)		interface	generalUI	skillGuide
+Members: Piety (with <Num0> Defence, after King's Ransom)		interface	generalUI	skillGuide
+Members: Rigour (with <Num0> Defence, from Chambers of Xeric)		interface	generalUI	skillGuide
+Members: Augury (with <Num0> Defence, from Chambers of Xeric)		interface	generalUI	skillGuide
+Initiate armour (after Recruitment Drive, with <Num0> Defence)		interface	generalUI	skillGuide
+Proselyte armour (after Slug Menace, with <Num0> Defence)		interface	generalUI	skillGuide
 Vestment robe top		interface	generalUI	skillGuide
 Vestment robe legs		interface	generalUI	skillGuide
 Void Knight equipment (with <Num0> combat stats)		interface	generalUI	skillGuide
@@ -1895,27 +1895,27 @@ Ape Atoll teleport		interface	generalUI	skillGuide
 Master Reanimation		interface	generalUI	skillGuide
 Sinister Offering (After A Kingdom Divided)		interface	generalUI	skillGuide
 Wizard boots		interface	generalUI	skillGuide
-Xerician armour  (with <Num0> Defence)		interface	generalUI	skillGuide
+Xerician armour (with <Num0> Defence)		interface	generalUI	skillGuide
 Elder chaos druid robes		interface	generalUI	skillGuide
-Mystic robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Enchanted robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Robes of darkness  (with <Num0> Defence)		interface	generalUI	skillGuide
-Splitbark armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-Skeletal armour  (after The Fremmenik Trials, with <Num0> Defence)		interface	generalUI	skillGuide
-Infinity robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Swampbark armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-God capes  (after Mage Arena)		interface	generalUI	skillGuide
-Bloodbark armour  (with <Num0> Defence)		interface	generalUI	skillGuide
-Lunar armour  (after Lunar Diplomacy, with <Num0> Defence)		interface	generalUI	skillGuide
-<Num0>rd age robes  (with <Num1> Defence)		interface	generalUI	skillGuide
+Mystic robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Enchanted robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Robes of darkness (with <Num0> Defence)		interface	generalUI	skillGuide
+Splitbark armour (with <Num0> Defence)		interface	generalUI	skillGuide
+Skeletal armour (after The Fremmenik Trials, with <Num0> Defence)		interface	generalUI	skillGuide
+Infinity robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Swampbark armour (with <Num0> Defence)		interface	generalUI	skillGuide
+God capes (after Mage Arena)		interface	generalUI	skillGuide
+Bloodbark armour (with <Num0> Defence)		interface	generalUI	skillGuide
+Lunar armour (after Lunar Diplomacy, with <Num0> Defence)		interface	generalUI	skillGuide
+<Num0>rd age robes (with <Num1> Defence)		interface	generalUI	skillGuide
 Occult necklace		interface	generalUI	skillGuide
-Dagon'hai robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Ahrims robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Boots of brimstone  (with <Num0> Defence and Ranged)		interface	generalUI	skillGuide
-Eternal boots  (with <Num0> Defence)		interface	generalUI	skillGuide
-Frostmoon robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Ancestral robes  (with <Num0> Defence)		interface	generalUI	skillGuide
-Virtus robes  (with <Num0> Defence)		interface	generalUI	skillGuide
+Dagon'hai robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Ahrims robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Boots of brimstone (with <Num0> Defence and Ranged)		interface	generalUI	skillGuide
+Eternal boots (with <Num0> Defence)		interface	generalUI	skillGuide
+Frostmoon robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Ancestral robes (with <Num0> Defence)		interface	generalUI	skillGuide
+Virtus robes (with <Num0> Defence)		interface	generalUI	skillGuide
 Bolts - Members Only		interface	generalUI	skillGuide
 Opal-tipped crossbow bolts <Num0> cosmic + <Num1> air runes		interface	generalUI	skillGuide
 Sapphire-tipped crossbow bolts <Num0> cosmic + <Num1> water + <Num2> mind rune		interface	generalUI	skillGuide
@@ -1932,33 +1932,33 @@ Bryophyta's staff (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Mystic staves (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Beginner wand		interface	generalUI	skillGuide
 Members: Apprentice wand		interface	generalUI	skillGuide
-Members: Ancient staff  (requires Desert Treasure I and <Num0> Attack)		interface	generalUI	skillGuide
-Members: Slayer's staff  (with <Num0> Slayer)		interface	generalUI	skillGuide
+Members: Ancient staff (requires Desert Treasure I and <Num0> Attack)		interface	generalUI	skillGuide
+Members: Slayer's staff (with <Num0> Slayer)		interface	generalUI	skillGuide
 Members: Bone staff		interface	generalUI	skillGuide
 Members: Teacher wand		interface	generalUI	skillGuide
 Members: Master wand		interface	generalUI	skillGuide
 Members: Thammaron's Sceptre		interface	generalUI	skillGuide
-Members: God staves  (requires Mage Arena I)		interface	generalUI	skillGuide
-Members: TokTz-Mej-Tal  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: God staves (requires Mage Arena I)		interface	generalUI	skillGuide
+Members: TokTz-Mej-Tal (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Warped sceptre		interface	generalUI	skillGuide
 Members: <Num0>rd age wand		interface	generalUI	skillGuide
 Members: Dragon hunter wand		interface	generalUI	skillGuide
-Members: Ahrim's staff  (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Ancient sceptre  (requires Secrets of the North, <Num0> Attack and <Num1> Strength)		interface	generalUI	skillGuide
+Members: Ahrim's staff (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Strength)		interface	generalUI	skillGuide
 Members: Accursed Sceptre		interface	generalUI	skillGuide
-Members: Nightmare Staff (without orb)  (with <Num0> Hitpoints)		interface	generalUI	skillGuide
+Members: Nightmare Staff (without orb) (with <Num0> Hitpoints)		interface	generalUI	skillGuide
 Members: Staff of the Dead (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Upgraded Ancient Sceptre (requires Desert Treasure II, <Num0> Attack and <Num1> Strength)		interface	generalUI	skillGuide
 Members: Staff of Light (with <Num0> Attack)		interface	generalUI	skillGuide
-Members: Staff of Balance  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Staff of Balance (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Trident of the Seas		interface	generalUI	skillGuide
-Members: Slayer's staff (e)  (with <Num0> Slayer)		interface	generalUI	skillGuide
-Members: Frostmoon Spear  (with <Num0> Attack)		interface	generalUI	skillGuide
+Members: Slayer's staff (e) (with <Num0> Slayer)		interface	generalUI	skillGuide
+Members: Frostmoon Spear (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Purging staff (with <Num0> Attack)		interface	generalUI	skillGuide
 Members: Trident of the Swamp		interface	generalUI	skillGuide
 Members: Kodai Wand		interface	generalUI	skillGuide
 Members: Sanguinesti staff		interface	generalUI	skillGuide
-Members: Nightmare Staff (with orb)  (with <Num0> Hitpoints)		interface	generalUI	skillGuide
+Members: Nightmare Staff (with orb) (with <Num0> Hitpoints)		interface	generalUI	skillGuide
 Members: Tumeken's Shadow		interface	generalUI	skillGuide
 Tome of Water		interface	generalUI	skillGuide
 Tome of Earth		interface	generalUI	skillGuide
@@ -2245,39 +2245,39 @@ Smoke devil		interface	generalUI	skillGuide
 Hydras		interface	generalUI	skillGuide
 Monsters		interface	generalUI	skillGuide
 Slayer Masters		interface	generalUI	skillGuide
-Spiny helmet  (with <Num0> Defence)		interface	generalUI	skillGuide
+Spiny helmet (with <Num0> Defence)		interface	generalUI	skillGuide
 Rock hammer & Rock Thrownhammer		interface	generalUI	skillGuide
 Reinforced Goggles		interface	generalUI	skillGuide
 Facemask		interface	generalUI	skillGuide
 Earmuffs		interface	generalUI	skillGuide
-Mirror shield  (with <Num0> Defence)		interface	generalUI	skillGuide
+Mirror shield (with <Num0> Defence)		interface	generalUI	skillGuide
 Fishing explosive		interface	generalUI	skillGuide
-Harpie bug lantern  (not a light source)		interface	generalUI	skillGuide
+Harpie bug lantern (not a light source)		interface	generalUI	skillGuide
 Witchwood icon		interface	generalUI	skillGuide
 Insulated boots		interface	generalUI	skillGuide
 Slayer bell		interface	generalUI	skillGuide
 Slayer gloves		interface	generalUI	skillGuide
 Boots of Stone		interface	generalUI	skillGuide
-Leaf-bladed spear and sword  (with <Num0> Attack)		interface	generalUI	skillGuide
-Leaf-bladed battleaxe  (with <Num0> Attack)		interface	generalUI	skillGuide
-Broad arrows  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Broad bolts  (with <Num0> Ranged)		interface	generalUI	skillGuide
-Slayer's staff  (with <Num0> Magic)		interface	generalUI	skillGuide
-Slayer's staff (e)  (with <Num0> Magic)		interface	generalUI	skillGuide
+Leaf-bladed spear and sword (with <Num0> Attack)		interface	generalUI	skillGuide
+Leaf-bladed battleaxe (with <Num0> Attack)		interface	generalUI	skillGuide
+Broad arrows (with <Num0> Ranged)		interface	generalUI	skillGuide
+Broad bolts (with <Num0> Ranged)		interface	generalUI	skillGuide
+Slayer's staff (with <Num0> Magic)		interface	generalUI	skillGuide
+Slayer's staff (e) (with <Num0> Magic)		interface	generalUI	skillGuide
 Fungicide spray		interface	generalUI	skillGuide
 Nose peg		interface	generalUI	skillGuide
-V's shield  (with <Num0> Defence)		interface	generalUI	skillGuide
-Amethyst broad bolts  (with <Num0> Ranged)		interface	generalUI	skillGuide
+V's shield (with <Num0> Defence)		interface	generalUI	skillGuide
+Amethyst broad bolts (with <Num0> Ranged)		interface	generalUI	skillGuide
 Slayer Masters - Members Only		interface	generalUI	skillGuide
-Wilderness master  (no requirements)		interface	generalUI	skillGuide
-Draynor Village master  (after A Porcine of Interest)		interface	generalUI	skillGuide
-Burthorpe master  (with level <Num0> combat)		interface	generalUI	skillGuide
-Canifis master  (with level <Num0> combat)		interface	generalUI	skillGuide
-Edgeville Dungeon master  (with level <Num0> combat)		interface	generalUI	skillGuide
-Zanaris master  (with level <Num0> combat)		interface	generalUI	skillGuide
-Mount Karuulm master  (with level <Num0> combat)		interface	generalUI	skillGuide
-Gnome Stronghold master  (with level <Num0> combat)		interface	generalUI	skillGuide
-Shilo Village master  (with level <Num0> combat)		interface	generalUI	skillGuide
+Wilderness master (no requirements)		interface	generalUI	skillGuide
+Draynor Village master (after A Porcine of Interest)		interface	generalUI	skillGuide
+Burthorpe master (with level <Num0> combat)		interface	generalUI	skillGuide
+Canifis master (with level <Num0> combat)		interface	generalUI	skillGuide
+Edgeville Dungeon master (with level <Num0> combat)		interface	generalUI	skillGuide
+Zanaris master (with level <Num0> combat)		interface	generalUI	skillGuide
+Mount Karuulm master (with level <Num0> combat)		interface	generalUI	skillGuide
+Gnome Stronghold master (with level <Num0> combat)		interface	generalUI	skillGuide
+Shilo Village master (with level <Num0> combat)		interface	generalUI	skillGuide
 Farming		interface	generalUI	skillGuide
 Allotments - Members Only		interface	generalUI	skillGuide
 Potatoes Payment: Compost x<Num0>		interface	generalUI	skillGuide
@@ -2330,7 +2330,7 @@ Poison ivy bushes		interface	generalUI	skillGuide
 Flowers - Members Only		interface	generalUI	skillGuide
 Marigolds Protects onions, tomatoes and potatoes		interface	generalUI	skillGuide
 Rosemary Protects cabbages from disease		interface	generalUI	skillGuide
-Make and place a scarecrow  Protects sweetcorn from birds		interface	generalUI	skillGuide
+Make and place a scarecrow Protects sweetcorn from birds		interface	generalUI	skillGuide
 Nasturtiums Protects watermelons from disease		interface	generalUI	skillGuide
 Woad		interface	generalUI	skillGuide
 Limpwurt plants		interface	generalUI	skillGuide
@@ -2448,9 +2448,9 @@ Workbench with lathe		interface	generalUI	skillGuide
 Ancient altar		interface	generalUI	skillGuide
 Lunar altar		interface	generalUI	skillGuide
 Dark altar		interface	generalUI	skillGuide
-Occult altar  (upgrade from Ancient)		interface	generalUI	skillGuide
-Occult altar  (upgrade from Lunar)		interface	generalUI	skillGuide
-Occult altar  (upgrade from Dark)		interface	generalUI	skillGuide
+Occult altar (upgrade from Ancient)		interface	generalUI	skillGuide
+Occult altar (upgrade from Lunar)		interface	generalUI	skillGuide
+Occult altar (upgrade from Dark)		interface	generalUI	skillGuide
 Surfaces - Members Only		interface	generalUI	skillGuide
 Crude wooden chair		interface	generalUI	skillGuide
 Wooden chair		interface	generalUI	skillGuide
@@ -2742,10 +2742,10 @@ Obsidian fence		interface	generalUI	skillGuide
 Fairy ring		interface	generalUI	skillGuide
 Fancy rejuvenation pool		interface	generalUI	skillGuide
 Volcanic theme		interface	generalUI	skillGuide
-Marble garden bench  (decoration only)		interface	generalUI	skillGuide
+Marble garden bench (decoration only)		interface	generalUI	skillGuide
 Ornate rejuvenation pool		interface	generalUI	skillGuide
 Spirit tree & fairy ring		interface	generalUI	skillGuide
-Obsidian garden bench  (decoration only)		interface	generalUI	skillGuide
+Obsidian garden bench (decoration only)		interface	generalUI	skillGuide
 Dungeon - Members Only		interface	generalUI	skillGuide
 Throne room floor decoration		interface	generalUI	skillGuide
 Oak cage		interface	generalUI	skillGuide

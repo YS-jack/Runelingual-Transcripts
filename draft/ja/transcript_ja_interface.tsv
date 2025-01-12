@@ -15,19 +15,19 @@ Members: Brine sabre	会員：塩水サーベル	interface	generalUI	skillGuide
 Members: Ivandis Flail (requires A Taste of Hope)	会員：イバンディスの鎖鎌（「希望の味」後）	interface	generalUI	skillGuide
 Members: Mystic staves (with <Num0> Magic)	会員：秘伝の杖（魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	会員：ヴォイド・ナイトの装備（各戦闘スキル<Num0>と祈り<Num1>も）	interface	generalUI	skillGuide
-Members: Granite maul  (with <Num0> Strength)	会員：花崗岩の大槌（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Granite longsword  (with <Num0> Strength)	会員：花崗岩の長剣（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Granite maul (with <Num0> Strength)	会員：花崗岩の大槌（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Granite longsword (with <Num0> Strength)	会員：花崗岩の長剣（腕力<Num0>も）	interface	generalUI	skillGuide
 Members: Blisterwood (requires Sins of the Father)	会員：ブリスターウッド（「父の罪」後」）	interface	generalUI	skillGuide
 Members: Keris dagger (requires Contact!)	会員：ケリスの短剣（「接触！」後）	interface	generalUI	skillGuide
-Members: Ancient staff  (requires Desert Treasure I and <Num0> Magic)	会員：古代の杖（「砂漠の宝１」と魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Ancient sceptre  (requires Secrets of the North, <Num0> Strength and <Num1> Magic)	会員：古代の笏（「北陸の秘密」と腕力<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
-Members: Purging staves  (with <Num0> Magic)	会員：浄化の杖（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Ancient staff (requires Desert Treasure I and <Num0> Magic)	会員：古代の杖（「砂漠の宝１」と魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Strength and <Num1> Magic)	会員：古代の笏（「北陸の秘密」と腕力<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
+Members: Purging staves (with <Num0> Magic)	会員：浄化の杖（魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Bone mace	会員：骨の槌矛	interface	generalUI	skillGuide
 Members: Sulphur blades	会員：硫黄の刃	interface	generalUI	skillGuide
 Members: Glacial temotli	会員：氷河のテモトリ	interface	generalUI	skillGuide
 Members: Dragon	会員：竜鉄	interface	generalUI	skillGuide
 Members: Burning claws	会員：燃える鉤爪	interface	generalUI	skillGuide
-Members: Barrelchest Anchor  (with <Num0> Strength)	会員：バレルチェストの碇（腕力40も）	interface	generalUI	skillGuide
+Members: Barrelchest Anchor (with <Num0> Strength)	会員：バレルチェストの碇（腕力40も）	interface	generalUI	skillGuide
 Members: Obsidian weapons	会員：黒曜石の武器	interface	generalUI	skillGuide
 Members: Viggora's Chainmace	会員：ヴィゴラの鎖槌矛	interface	generalUI	skillGuide
 Members: Colossal Blade	会員：でかいブレード	interface	generalUI	skillGuide
@@ -35,29 +35,29 @@ Members: <Num0>rd age weapons	会員：第<Num0>紀の武器	interface	generalUI
 Members: Sarachnis cudgel	会員：サラチニスの棍棒	interface	generalUI	skillGuide
 Members: Zombie axe	会員：ゾンビの斧	interface	generalUI	skillGuide
 Members: Keris partisan (requires Beneath Cursed Sands)	会員：ケリス・パルチザン（「呪われた砂の下」後）	interface	generalUI	skillGuide
-Members: Crystal weaponry  (with <Num0> Agility)	会員：水晶の武器（運動神経<Num0>も）	interface	generalUI	skillGuide
+Members: Crystal weaponry (with <Num0> Agility)	会員：水晶の武器（運動神経<Num0>も）	interface	generalUI	skillGuide
 Members: Saradomin sword	会員：サラドミンの剣	interface	generalUI	skillGuide
 Members: Zamorakian spear	会員：ザモラックの槍	interface	generalUI	skillGuide
 Members: Abyssal whip & dagger	会員：深淵の鞭、短剣	interface	generalUI	skillGuide
-Members: Abyssal bludgeon  (with <Num0> Strength)	会員：深淵の棍棒（腕力70も）	interface	generalUI	skillGuide
-Members: Ahrim's staff  (with <Num0> Magic)	会員：アリムの杖（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Dharok's greataxe  (with <Num0> Strength)	会員：ダロックの大斧（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Torag's hammers  (with <Num0> Strength)	会員：トラグのハンマー（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Abyssal bludgeon (with <Num0> Strength)	会員：深淵の棍棒（腕力70も）	interface	generalUI	skillGuide
+Members: Ahrim's staff (with <Num0> Magic)	会員：アリムの杖（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Dharok's greataxe (with <Num0> Strength)	会員：ダロックの大斧（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Torag's hammers (with <Num0> Strength)	会員：トラグのハンマー（腕力<Num0>も）	interface	generalUI	skillGuide
 Members: Verac's flail	会員：ヴェラックの鎖鎌	interface	generalUI	skillGuide
 Members: Guthan's warspear	会員：ガサンの戦槍	interface	generalUI	skillGuide
 Members: Ursine Chainmace	会員：ウーサインの鎖槌矛	interface	generalUI	skillGuide
-Members: Avernic defender  (with <Num0> Defence)	会員：アバーニックの副刀（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Dual Macuahuitl  (with <Num0> Strength)	会員：二刀流マクアヒートル（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Avernic defender (with <Num0> Defence)	会員：アバーニックの副刀（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Dual Macuahuitl (with <Num0> Strength)	会員：二刀流マクアヒートル（腕力<Num0>も）	interface	generalUI	skillGuide
 Members: Blue moon spear (with <Num0> Magic)	会員：ブルームーンの槍（魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Arclight	会員：アークライト	interface	generalUI	skillGuide
 Members: Godswords	会員：神剣	interface	generalUI	skillGuide
-Members: Staff of the Dead  (with <Num0> Magic)	会員：死者の杖（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Staff of Light  (with <Num0> Magic)	会員：光の杖（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Staff of Balance  (with <Num0> Magic)	会員：平衡の杖（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Staff of the Dead (with <Num0> Magic)	会員：死者の杖（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Staff of Light (with <Num0> Magic)	会員：光の杖（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Staff of Balance (with <Num0> Magic)	会員：平衡の杖（魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Abyssal tentacle	会員：深淵の触手	interface	generalUI	skillGuide
 Members: Blessed Saradomin sword	会員：サラドミンの祝福の剣	interface	generalUI	skillGuide
-Members: Elder maul  (with <Num0> Strength)	会員：エルダーの大槌（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Dinh's bulwark  (with <Num0> Defence)	会員：ディンの防壁（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Elder maul (with <Num0> Strength)	会員：エルダーの大槌（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Dinh's bulwark (with <Num0> Defence)	会員：ディンの防壁（守備力<Num0>も）	interface	generalUI	skillGuide
 Members: Vesta's blighted longsword	会員：ベスタの荒廃した長剣	interface	generalUI	skillGuide
 Members: Voidwaker	会員：ボイドウェーカー	interface	generalUI	skillGuide
 Members: Emberlight	会員：エンバーライト	interface	generalUI	skillGuide
@@ -66,21 +66,21 @@ Members: Ghrazi rapier	会員：グラージ・レイピア	interface	generalUI	
 Members: Inquisitor's mace	会員：異端審問官の鎚矛	interface	generalUI	skillGuide
 Members: Blade of Saeldor	会員：サードルの刃	interface	generalUI	skillGuide
 Members: Noxious Halberd	会員：猛毒の矛槍	interface	generalUI	skillGuide
-Members: Scythe of Vitur  (with <Num0> Strength)	会員：ヴァーチャーの大鎌（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Soulreaper axe  (with <Num0> Strength)	会員：ソウルリーパーの斧（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Scythe of Vitur (with <Num0> Strength)	会員：ヴァーチャーの大鎌（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Soulreaper axe (with <Num0> Strength)	会員：ソウルリーパーの斧（腕力<Num0>も）	interface	generalUI	skillGuide
 Members: Variants of Keris partisan (requires Beneath Cursed Sands)	会員：ケリス・パルチザン全種（「呪われた砂の下」後）	interface	generalUI	skillGuide
 Members: Osmumten's Fang	会員：オスマンテンの牙	interface	generalUI	skillGuide
 Armour	鎧	interface	generalUI	skillGuide
 Salamanders	サラマンダ	interface	generalUI	skillGuide
 Armour - Members Only	鎧：会員限定	interface	generalUI	skillGuide
 Void Knight equipment (with <Num0> combat stats and <Num1> Prayer)	ヴォイド・ナイトの装備（各戦闘スキル<Num0>と祈り<Num1>も）	interface	generalUI	skillGuide
-Members: Ferocious Gloves  (with <Num0> Defence)	会員：残忍な手袋（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Ferocious Gloves (with <Num0> Defence)	会員：残忍な手袋（守備力<Num0>も）	interface	generalUI	skillGuide
 Salamanders - Members Only	サラマンダ：会員限定	interface	generalUI	skillGuide
-Swamp lizard  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	沼トカゲ（攻撃力<Num0>・遠射<Num1>・魔法が全て<Num2>）	interface	generalUI	skillGuide
-Orange salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	オレンジ・サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
-Red salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	赤サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
-Black salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	黒サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
-Tecu salamander  (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	テク・サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
+Swamp lizard (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	沼トカゲ（攻撃力<Num0>・遠射<Num1>・魔法が全て<Num2>）	interface	generalUI	skillGuide
+Orange salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	オレンジ・サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
+Red salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	赤サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
+Black salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	黒サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
+Tecu salamander (with <Num0> Attack, <Num1> Ranged & <Num2> Magic)	テク・サラマンダ（攻撃力<Num0>・遠射<Num1>・魔法<Num2>）	interface	generalUI	skillGuide
 Hitpoints	体力	interface	generalUI	skillGuide
 Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).	体力はプレイヤーの健康状態を示します。体力が<Num0>になると死に、リスポーン地点で復活します（通常ランブリッジ）	interface	generalUI	skillGuide
 If you see any red 'hit splats' during combat, the number shown corresponds to the number of Hitpoints lost as a result of that strike.	戦闘中に表示される赤い「ヒットマーク」は敵から受けたダメージ量を表します。	interface	generalUI	skillGuide
@@ -158,8 +158,8 @@ Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (
 Anglerfish: Restores Hitpoints based on your Hitpoints level up to a maximum of <Num0> - can boost beyond your level (Members)	ペリカンアンコウ：体力レベルに応じて最大<Num0>体力を回復。上限以上の回復可能。（会員）	interface	generalUI	skillGuide
 Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)	サラドミンの秘薬：体力レベルの<Num0>%+<Num1>回復。上限以上の回復可能。（会員）	interface	generalUI	skillGuide
 Equipment - Members Only	装備：会員限定	interface	generalUI	skillGuide
-Nightmare Staff (without orb)  (with <Num0> Magic)	悪夢の杖（オーブ無）（魔法<Num0>も）	interface	generalUI	skillGuide
-Nightmare Staff (with orb)  (with <Num0> Magic)	悪夢の杖（オーブ有）（魔法<Num0>も）	interface	generalUI	skillGuide
+Nightmare Staff (without orb) (with <Num0> Magic)	悪夢の杖（オーブ無）（魔法<Num0>も）	interface	generalUI	skillGuide
+Nightmare Staff (with orb) (with <Num0> Magic)	悪夢の杖（オーブ有）（魔法<Num0>も）	interface	generalUI	skillGuide
 Enchanted zenyte jewellery	魔法付与されたゼナイトの宝石	interface	generalUI	skillGuide
 Amulet of Rancour	怨恨のアミュレット	interface	generalUI	skillGuide
 Mining	採掘	interface	generalUI	skillGuide
@@ -225,59 +225,59 @@ Strength	腕力	interface	generalUI	skillGuide
 Bronze warhammer	青銅の戦鎚	interface	generalUI	skillGuide
 Iron warhammer	鉄の戦鎚	interface	generalUI	skillGuide
 Steel warhammer	鋼鉄の戦鎚	interface	generalUI	skillGuide
-Members: Black halberd  (with <Num0> Attack)	会員：黒鉄の矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: White halberd  (with <Num0> Attack)	会員：白鉄の矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Black halberd (with <Num0> Attack)	会員：黒鉄の矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: White halberd (with <Num0> Attack)	会員：白鉄の矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Black warhammer	黒鉄の戦鎚	interface	generalUI	skillGuide
-Members: White warhammer  (with <Num0> Prayer)	会員：白鉄の戦鎚（祈り<Num0>も）	interface	generalUI	skillGuide
-Members: Mithril halberd  (with <Num0> Attack)	会員：ミスリルの矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Adamant halberd  (with <Num0> Attack)	会員：アダマントの矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: White warhammer (with <Num0> Prayer)	会員：白鉄の戦鎚（祈り<Num0>も）	interface	generalUI	skillGuide
+Members: Mithril halberd (with <Num0> Attack)	会員：ミスリルの矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Adamant halberd (with <Num0> Attack)	会員：アダマントの矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Mithril warhammer	ミスリルの戦鎚	interface	generalUI	skillGuide
-Members: Rune halberd  (with <Num0> Attack)	会員：ルーンの矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Rune halberd (with <Num0> Attack)	会員：ルーンの矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Adamant warhammer	アダマントの戦鎚	interface	generalUI	skillGuide
-Members: Hunter's spears  (with <Num0> Ranged)	会員：狩人の槍（遠射<Num0>も）	interface	generalUI	skillGuide
-Members: Dragon halberd  (with <Num0> Attack)	会員：竜鉄の矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Hunter's spears (with <Num0> Ranged)	会員：狩人の槍（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Dragon halberd (with <Num0> Attack)	会員：竜鉄の矛槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Rune warhammer	ルーンの戦鎚	interface	generalUI	skillGuide
-Members: Barrelchest Anchor  (with <Num0> Attack)	会員：バレルチェストの碇（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Granite maul  (with <Num0> Attack)	会員：花崗岩の大槌（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Granite longsword  (with <Num0> Attack)	会員：花崗岩の長剣（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Barrelchest Anchor (with <Num0> Attack)	会員：バレルチェストの碇（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Granite maul (with <Num0> Attack)	会員：花崗岩の大槌（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Granite longsword (with <Num0> Attack)	会員：花崗岩の長剣（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: TzHaar-Ket-Om	会員：ツザー・ケット・オム	interface	generalUI	skillGuide
 Members: Dragon warhammer	会員：竜鉄の戦鎚	interface	generalUI	skillGuide
-Members: Ancient sceptre  (requires Secrets of the North, <Num0> Attack and <Num1> Magic)	会員：古代の笏（「北陸の秘密」と攻撃力<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
-Members: Dharok's greataxe  (with <Num0> Attack)	会員：ダロックの大斧（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Torag's hammers  (with <Num0> Attack)	会員：トラグのハンマー（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Abyssal bludgeon  (with <Num0> Attack)	会員：深淵の棍棒（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Elder maul  (with <Num0> Attack)	会員：エルダーの大槌（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Dual Macuahuitl  (with <Num0> Attack)	会員：二刀流マクアヒートル（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Soulreaper axe  (with <Num0> Attack)	会員：ソウルリーパーの斧（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Scythe of Vitur  (with <Num0> Attack)	会員：ヴァーチャーの大鎌（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Magic)	会員：古代の笏（「北陸の秘密」と攻撃力<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
+Members: Dharok's greataxe (with <Num0> Attack)	会員：ダロックの大斧（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Torag's hammers (with <Num0> Attack)	会員：トラグのハンマー（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Abyssal bludgeon (with <Num0> Attack)	会員：深淵の棍棒（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Elder maul (with <Num0> Attack)	会員：エルダーの大槌（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Dual Macuahuitl (with <Num0> Attack)	会員：二刀流マクアヒートル（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Soulreaper axe (with <Num0> Attack)	会員：ソウルリーパーの斧（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Scythe of Vitur (with <Num0> Attack)	会員：ヴァーチャーの大鎌（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Shortcuts	近道	interface	generalUI	skillGuide
 Barbarian	蛮族	interface	generalUI	skillGuide
-Granite armour  (with <Num0> Defence)	花崗岩の防具（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Zombie helmet  (with <Num0> Defence)	会員：ゾンビの兜（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Inquisitor's armour  (with <Num0> Defence)	会員：異端審問官の防具（守備力<Num0>も）	interface	generalUI	skillGuide
-Primordial boots  (with <Num0> Defence)	原初の靴（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Bloodrager set  (with <Num0> Defence)	会員：ブラッド・ムーン装備セット（守備力<Num0>も）	interface	generalUI	skillGuide
+Granite armour (with <Num0> Defence)	花崗岩の防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Zombie helmet (with <Num0> Defence)	会員：ゾンビの兜（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Inquisitor's armour (with <Num0> Defence)	会員：異端審問官の防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Primordial boots (with <Num0> Defence)	原初の靴（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Bloodrager set (with <Num0> Defence)	会員：ブラッド・ムーン装備セット（守備力<Num0>も）	interface	generalUI	skillGuide
 Shortcuts - Members Only	近道：会員限定	interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid  (with <Num0> Agility and <Num1> Ranged)	ラム川を渡ってアル・カリッドへ（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
-Karamja  (with <Num0> Agility and <Num1> Ranged)	カラムジャ（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
-Escape from the water obelisk island  (with <Num0> Agility and <Num1> Ranged)	水オベリスクの島から脱出（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
-Scale the Observatory cliff  (with <Num0> Agility and <Num1> Ranged, after completing the Observatory quest)	天文台の崖を登る（運動神経<Num0>と遠射<Num1>と「天文台クエスト」後）	interface	generalUI	skillGuide
-Scale the Catherby cliff  (with <Num0> Agility and <Num1> Ranged)	カサビーの崖を登る（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
-Scale Falador wall  (with <Num0> Agility and <Num1> Ranged)	ファラドーの壁を登る（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
-Scale Yanille wall  (with <Num0> Agility and <Num1> Ranged)	ヤニルの壁を登る（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
-Cross cave, south of Dorgesh-Kaan   (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)	南ドーゲシュ・カーン洞窟通過（運動神経<Num0>・腕力<Num1>と「ドーゲシューンに死を」後）	interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Agility and <Num1> Ranged)	ラム川を渡ってアル・カリッドへ（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Karamja (with <Num0> Agility and <Num1> Ranged)	カラムジャ（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Agility and <Num1> Ranged)	カラムジャ（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Scale the Observatory cliff (with <Num0> Agility and <Num1> Ranged, after completing the Observatory quest)	水オベリスクの島から脱出（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Agility and <Num1> Ranged)	天文台の崖を登る（運動神経<Num0>と遠射<Num1>と「天文台クエスト」後）	interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Agility and <Num1> Ranged)	カサビーの崖を登る（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Agility and <Num1> Ranged)	ファラドーの壁を登る（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Cross cave, south of Dorgesh-Kaan  (with <Num0> Agility and <Num1> Strength, after completing Death to the Dorgeshuun)	ヤニルの壁を登る（運動神経<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Areas - Members Only	エリア：会員限定	interface	generalUI	skillGuide
 Access the God Wars Dungeon via the Strength route	神戦ダンジョンへの腕力ルート	interface	generalUI	skillGuide
 Enter the Bandos area of the God Wars Dungeon	神戦ダンジョンのバンドス占領地に入る	interface	generalUI	skillGuide
 Barbarian - Members Only	蛮族：会員限定	interface	generalUI	skillGuide
 To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.	蛮族流の釣りを学ぶには釣り<Num0>・運動神経<Num1>・腕力<Num2>になったらオットー・ゴッドプレスドに話そう	interface	generalUI	skillGuide
-Leaping trout  (with <Num0> Agility & <Num1> Fishing)	飛びマス（運動神経<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
-Leaping salmon  (with <Num0> Agility & <Num1> Fishing)	飛びサケ（運動神経<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
-Tuna  (with <Num0> Fishing)	マグロ（釣り<Num0>も）	interface	generalUI	skillGuide
-Harpoonfish  (with <Num0> Fishing)	銛魚（釣り<Num0>も）	interface	generalUI	skillGuide
-Leaping sturgeon  (with <Num0> Agility & <Num1> Fishing)	飛びチョウザメ（運動神経<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
-Swordfish  (with <Num0> Fishing)	カジキ（釣り<Num0>も）	interface	generalUI	skillGuide
-Shark  (with <Num0> Fishing)	サメ（釣り<Num0>も）	interface	generalUI	skillGuide
+Leaping trout (with <Num0> Agility & <Num1> Fishing)	南ドーゲシュ・カーン洞窟通過（運動神経<Num0>・腕力<Num1>と「ドーゲシューンに死を」後）	interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Agility & <Num1> Fishing)	飛びサケ（運動神経<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
+Tuna (with <Num0> Fishing)	マグロ（釣り<Num0>も）	interface	generalUI	skillGuide
+Harpoonfish (with <Num0> Fishing)	銛魚（釣り<Num0>も）	interface	generalUI	skillGuide
+Leaping sturgeon (with <Num0> Agility & <Num1> Fishing)	飛びチョウザメ（運動神経<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
+Swordfish (with <Num0> Fishing)	カジキ（釣り<Num0>も）	interface	generalUI	skillGuide
+Shark (with <Num0> Fishing)	サメ（釣り<Num0>も）	interface	generalUI	skillGuide
 Agility	運動神経	interface	generalUI	skillGuide
 Courses - Members Only	コース：会員限定	interface	generalUI	skillGuide
 Gnome Stronghold Agility Course	ノーム要塞コース	interface	generalUI	skillGuide
@@ -320,29 +320,29 @@ Access the God Wars Dungeon area via the Agility route	神戦ダンジョンへ�
 Yanille Dungeon's rubble climb	ヤニルのダンジョンのがれき登り	interface	generalUI	skillGuide
 Enter the Saradomin area of the God Wars Dungeon	神戦ダンジョンのサラドミン占領地に入る	interface	generalUI	skillGuide
 Falador Agility shortcut	ファラドーの近道	interface	generalUI	skillGuide
-Cross the River Lum to Al Kharid  (with <Num0> Strength and <Num1> Ranged)	ラム川を渡ってアル・カリッドへ（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Cross the River Lum to Al Kharid (with <Num0> Strength and <Num1> Ranged)	ラム川を渡ってアル・カリッドへ（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Corsair Cove shortcut	私掠船の隠れ家の近道	interface	generalUI	skillGuide
-Scale Falador wall  (with <Num0> Strength and <Num1> Ranged)	ファラドーの壁を登る（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Scale Falador wall (with <Num0> Strength and <Num1> Ranged)	ファラドーの壁を登る（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Jump fence south of Varrock	ヴァロック南のフェンスを飛び越える	interface	generalUI	skillGuide
 Scale Goblin village wall	ゴブリン村の壁を登る	interface	generalUI	skillGuide
-Corsair Cove Dungeon shortcut  (after Dragon Slayer)	私掠船の隠れ家ダンジョンの近道（「ドラゴン・スレイヤー」後	interface	generalUI	skillGuide
+Corsair Cove Dungeon shortcut (after Dragon Slayer)	私掠船の隠れ家ダンジョンの近道（「ドラゴン・スレイヤー」後	interface	generalUI	skillGuide
 Yanille Agility shortcut	ヤニルの近道	interface	generalUI	skillGuide
 Kourend Catacombs Agility shortcut	クーレンド地下墓地の近道	interface	generalUI	skillGuide
 Coal Truck log balance	石炭トラックの丸太渡り	interface	generalUI	skillGuide
 Grand Exchange Agility shortcut	グランド・エクスチェンジの近道	interface	generalUI	skillGuide
-Scale the Observatory cliff  (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)	天文台の崖を登る（腕力<Num0>と遠射<Num1>と「天文台クエスト」後）	interface	generalUI	skillGuide
+Scale the Observatory cliff (with <Num0> Strength and <Num1> Ranged, after completing the Observatory quest)	天文台の崖を登る（腕力<Num0>と遠射<Num1>と「天文台クエスト」後）	interface	generalUI	skillGuide
 Eagles' Peak Agility shortcut	ワシの峰の近道	interface	generalUI	skillGuide
 Kourend Catacombs pillar jump shortcut	クーレンド地下墓地の柱飛びの近道	interface	generalUI	skillGuide
 Mount Karuulm lower cliffside climb	カルールム山の低い方の崖登り	interface	generalUI	skillGuide
-Corsair Cove Resource Area shortcut  (after Dragon Slayer)	私掠船の隠れ家の資源エリアの近道（「ドラゴン・スレイヤー」後	interface	generalUI	skillGuide
+Corsair Cove Resource Area shortcut (after Dragon Slayer)	私掠船の隠れ家の資源エリアの近道（「ドラゴン・スレイヤー」後	interface	generalUI	skillGuide
 Draynor Manor stones to Champions' Guild	ドレイナー邸宅近くのチャンピオン・ギルドへの踏み石	interface	generalUI	skillGuide
-Scale the Catherby cliff  (with <Num0> Strength and <Num1> Ranged)	カサビーの崖を登る（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Scale the Catherby cliff (with <Num0> Strength and <Num1> Ranged)	カサビーの崖を登る（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Shilo Village river crossing	シャイロ村の川渡り	interface	generalUI	skillGuide
 Ardougne log balance shortcut	アルドインの丸太バランスの近道	interface	generalUI	skillGuide
-Escape from the water obelisk island  (with <Num0> Strength and <Num1> Ranged)	水オベリスクの島から脱出（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Escape from the water obelisk island (with <Num0> Strength and <Num1> Ranged)	水オベリスクの島から脱出（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Gnome Stronghold shortcut	ノーム要塞の近道	interface	generalUI	skillGuide
 Al Kharid Mining pit cliffside scramble	アル・カリッドの採掘ピットの崖のよじ登り	interface	generalUI	skillGuide
-Scale Yanille wall  (with <Num0> Strength and <Num1> Ranged)	ヤニルの壁を登る（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Scale Yanille wall (with <Num0> Strength and <Num1> Ranged)	ヤニルの壁を登る（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Hosidius lake isle jump	ホシディアスの湖の島のジャンプ	interface	generalUI	skillGuide
 Trollheim easy cliffside scramble	トロールハイムの簡単な崖のよじ登り	interface	generalUI	skillGuide
 Dwarven Mine narrow crevice	ドワーフ鉱山の細い亀裂	interface	generalUI	skillGuide
@@ -360,7 +360,7 @@ Arceuus essence mine boulder leap	アルセウスの素鉱山の岩跳び	interf
 Stepping stone into Morytania near the Nature Grotto	自然洞窟近くのモリタニアへの踏み石	interface	generalUI	skillGuide
 Pipe from Edgeville dungeon to Varrock Sewers	エッジビルダンジョンからヴァロック下水路へのパイプ	interface	generalUI	skillGuide
 Arceuus essence mine eastern scramble	アルセウスの素鉱山の東側よじ登り	interface	generalUI	skillGuide
-Karamja crossing, south of volcano  (with <Num0> Strength and <Num1> Ranged)	カラムジャ横断、火山の南（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
+Karamja crossing, south of volcano (with <Num0> Strength and <Num1> Ranged)	カラムジャ横断、火山の南（腕力<Num0>と遠射<Num1>も）	interface	generalUI	skillGuide
 Motherlode Mine dark tunnel	富鉱帯鉱山の暗いトンネル	interface	generalUI	skillGuide
 Western Aldarin cliff scramble	西アルダリンの崖よじ登り	interface	generalUI	skillGuide
 Stepping stone by Miscellania docks	ミセラニア港の踏み石	interface	generalUI	skillGuide
@@ -395,8 +395,8 @@ Taverley Dungeon shortcuts to blue dragons	タベリーダンジョンの青竜�
 Fossil island hardwood shortcut	化石島の鋼材への近道	interface	generalUI	skillGuide
 Al Kharid Palace southern window	アル・カリッド宮殿の南の窓	interface	generalUI	skillGuide
 Slayer Tower advanced spiked chain climb	討伐の塔の難しいトゲ付き鎖登り	interface	generalUI	skillGuide
-Gu'Tanoth wall climb  (after completing the Watchtower quest)	グタノスの壁よじ登り（「監視塔」後）	interface	generalUI	skillGuide
-Pollniveach stepping stone	ポルニヴィーチの踏み石	interface	generalUI	skillGuide
+Gu'Tanoth wall climb (after completing the Watchtower quest)	グタノスの壁よじ登り（「監視塔」後）	interface	generalUI	skillGuide
+Pollnivneach stepping stone	ポルニヴィーチの踏み石	interface	generalUI	skillGuide
 Stronghold Slayer Cave narrow tunnel	要塞討伐洞窟の狭いトンネル	interface	generalUI	skillGuide
 Basic Asgarnian Ice Dungeon wyvern tunnel	アスガニアのアイスダンジョンのワイバーンの通常トンネル	interface	generalUI	skillGuide
 Chaos temple Stepping Stone	混沌の寺院の踏み石	interface	generalUI	skillGuide
@@ -410,7 +410,7 @@ Island crossing near Zul-Andra	ズル・アンドラ近くの島渡り	interface
 Wilderness Slayer Dungeon Crevices	ウィルダネス討伐ダンジョンの亀裂	interface	generalUI	skillGuide
 Iorwerth Dungeon northern shortcut	イオワース・ダンジョン北側の近道	interface	generalUI	skillGuide
 Shilo village rock climb	シャイロ村の岩登り	interface	generalUI	skillGuide
-Kharazi Jungle vine climb  (with Legends' Guild access)	カラジージャングルのツル登り（伝説ギルドへのアクセス要）	interface	generalUI	skillGuide
+Kharazi Jungle vine climb (with Legends' Guild access)	カラジージャングルのツル登り（伝説ギルドへのアクセス要）	interface	generalUI	skillGuide
 Taverley Dungeon spiked blades jump	タベリーダンジョンのトゲ刃ジャンプ	interface	generalUI	skillGuide
 Waterbirth Dungeon crevice	ウォーターバース・ダンジョンの亀裂	interface	generalUI	skillGuide
 Lava Maze northern jump	溶岩迷路の北側のジャンプ	interface	generalUI	skillGuide
@@ -426,14 +426,14 @@ Revenant cave jump (hard)	幽鬼洞窟のジャンプ（難）	interface	general
 Viyeldi Caves cliff climb	ヴィーエルディ洞窟の崖登り	interface	generalUI	skillGuide
 Meiyerditch Laboratories advanced shortcut.	メイヤーディッチ研究室のの高度な近道	interface	generalUI	skillGuide
 Viyeldi caves crevice (after completing the Legends' Quest)	ヴィーエルディ洞窟の亀裂（「レジェンド・クエスト」後）	interface	generalUI	skillGuide
-Leaping trout  (with <Num0> Strength & <Num1> Fishing)	飛びマス（腕力<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
-Leaping salmon  (with <Num0> Strength & <Num1> Fishing)	飛びサケ（腕力<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
-Leaping sturgeon  (with <Num0> Strength & <Num1> Fishing)	飛びチョウザメ（腕力<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
+Leaping trout (with <Num0> Strength & <Num1> Fishing)	飛びマス（腕力<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
+Leaping salmon (with <Num0> Strength & <Num1> Fishing)	飛びサケ（腕力<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
+Leaping sturgeon (with <Num0> Strength & <Num1> Fishing)	飛びチョウザメ（腕力<Num0>と釣り<Num1>も）	interface	generalUI	skillGuide
 Other - Members Only	その他：会員限定	interface	generalUI	skillGuide
-Crystal weaponry  (with <Num0> Attack)	会員：水晶の武器（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Crystal weaponry (with <Num0> Attack)	会員：水晶の武器（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Hallowed Sepulchre (Floor <Num0>)	聖なるセプルカ（第<Num0>層）	interface	generalUI	skillGuide
 Ring of Endurance	持久力の指輪	interface	generalUI	skillGuide
-Bow of Faerdhinen  (with <Num0> Ranged)	フェルディネンの弓（遠射<Num0>も）	interface	generalUI	skillGuide
+Bow of Faerdhinen (with <Num0> Ranged)	フェルディネンの弓（遠射<Num0>も）	interface	generalUI	skillGuide
 Smithing	鍛冶	interface	generalUI	skillGuide
 Smelting	溶解	interface	generalUI	skillGuide
 Bronze <Num0> tin ore & <Num1> copper ore	青銅：スズ鉱石<Num0>と銅鉱石<Num1>	interface	generalUI	skillGuide
@@ -662,46 +662,46 @@ Members: Ancient Wyvern shield	会員：古代ワイバーンの盾	interface	ge
 Members: Zombie axes and helmets	会員：会員：ゾンビの斧と兜	interface	generalUI	skillGuide
 Defence	守備力	interface	generalUI	skillGuide
 Members: Slayer helm	会員：討伐兜	interface	generalUI	skillGuide
-Members: Xerician armour  (with <Num0> Magic)	会員：ゼリックの防具（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Xerician armour (with <Num0> Magic)	会員：ゼリックの防具（魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Yak-hide	会員：ヤク皮	interface	generalUI	skillGuide
-Members: Initiate armour  (after Recruitment Drive, with <Num0> Prayer)	会員：新信者の防具（「採用活動」と祈り<Num0>）	interface	generalUI	skillGuide
+Members: Initiate armour (after Recruitment Drive, with <Num0> Prayer)	会員：新信者の防具（「採用活動」と祈り<Num0>）	interface	generalUI	skillGuide
 Members: Shayzien armour	会員：シャイジエンの防具	interface	generalUI	skillGuide
 Adamantite	アダマンタイト	interface	generalUI	skillGuide
-Members: Inquisitor's armour  (with <Num0> Strength)	会員：異端審問官の防具（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Proselyte armour  (after Slug Menace, with <Num0> Prayer)	会員：改宗者の防具（「ナメクジの脅威」と祈り<Num0>）	interface	generalUI	skillGuide
-Members: Masori armour  (With <Num0> Ranged)	会員：マゾーリの防具（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Inquisitor's armour (with <Num0> Strength)	会員：異端審問官の防具（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Proselyte armour (after Slug Menace, with <Num0> Prayer)	会員：改宗者の防具（「ナメクジの脅威」と祈り<Num0>）	interface	generalUI	skillGuide
+Members: Masori armour (With <Num0> Ranged)	会員：マゾーリの防具（遠射<Num0>も）	interface	generalUI	skillGuide
 Members: Samurai armour	会員：サムライの防具	interface	generalUI	skillGuide
-Members: Rock-shell armour  (after Fremennik Trials)	会員：岩殻の防具（「フレメニックの試験」後）	interface	generalUI	skillGuide
-Members: Dagon'hai robes  (with <Num0> Magic)	会員：ダゴンハイローブ（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Sunfire Fanatic armour  (with <Num0> Prayer)	会員：陽炎狂信者の防具（祈り<Num0>も）	interface	generalUI	skillGuide
-Members: Fremennik helmets  (after Fremennik Trials)	会員：フレメニックの兜（「フレメニックの試験」後）	interface	generalUI	skillGuide
-Members: Zaryte vambraces  (with <Num0> Ranged)	会員：ザーライトの腕甲（遠射<Num0>も）	interface	generalUI	skillGuide
-Members: Granite  (with <Num0> Strength)	会員：花崗岩（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Zombie helmet  (with <Num0> Strength)	会員：ゾンビの兜（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Mixed Hide body, cape, and boots  (with <Num0> Ranged)	会員：ミックス革のトップ、マント、靴（遠射<Num0>も）	interface	generalUI	skillGuide
-Members: Bloodrager set  (with <Num0> Strength)	会員：ブラッド・ムーン装備セット（腕力<Num0>も）	interface	generalUI	skillGuide
-Members: Frostmoon set  (with <Num0> Magic)	会員：ブルームーン装備セット（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Eclipse set  (with <Num0> Ranged)	会員：エクリプス装備セット（遠射<Num0>も）	interface	generalUI	skillGuide
-Members: Helm of neitiznot  (after Fremennik Isles)	会員：ネイチズノットのヘルム（「フレメニックの試験」後）	interface	generalUI	skillGuide
+Members: Rock-shell armour (after Fremennik Trials)	会員：岩殻の防具（「フレメニックの試験」後）	interface	generalUI	skillGuide
+Members: Dagon'hai robes (with <Num0> Magic)	会員：ダゴンハイローブ（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Sunfire Fanatic armour (with <Num0> Prayer)	会員：陽炎狂信者の防具（祈り<Num0>も）	interface	generalUI	skillGuide
+Members: Fremennik helmets (after Fremennik Trials)	会員：フレメニックの兜（「フレメニックの試験」後）	interface	generalUI	skillGuide
+Members: Zaryte vambraces (with <Num0> Ranged)	会員：ザーライトの腕甲（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Granite (with <Num0> Strength)	会員：花崗岩（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Zombie helmet (with <Num0> Strength)	会員：ゾンビの兜（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Mixed Hide body, cape, and boots (with <Num0> Ranged)	会員：ミックス革のトップ、マント、靴（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Bloodrager set (with <Num0> Strength)	会員：ブラッド・ムーン装備セット（腕力<Num0>も）	interface	generalUI	skillGuide
+Members: Frostmoon set (with <Num0> Magic)	会員：ブルームーン装備セット（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Eclipse set (with <Num0> Ranged)	会員：エクリプス装備セット（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Helm of neitiznot (after Fremennik Isles)	会員：ネイチズノットのヘルム（「フレメニックの試験」後）	interface	generalUI	skillGuide
 Members: Obsidian armour	会員：黒曜石の防具	interface	generalUI	skillGuide
 Members: Bandos armour	会員：バンドスの防具	interface	generalUI	skillGuide
 Members: <Num0>rd age fighter armour	会員：第<Num0>紀のファイターの防具	interface	generalUI	skillGuide
-Members: Ancestral robes  (with <Num0> Magic)	会員：祖先のローブ（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Avernic defender  (with <Num0> Attack)	会員：アバーニックの副刀（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Ancestral robes (with <Num0> Magic)	会員：祖先のローブ（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Avernic defender (with <Num0> Attack)	会員：アバーニックの副刀（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Barrows armour	会員：バロウズの防具	interface	generalUI	skillGuide
 Members: Armadyl armour (with <Num0> Ranged)	会員：アーマディルの防具（遠射<Num0>も）	interface	generalUI	skillGuide
 Members: Boots of brimstone (with <Num0> Ranged and Magic)	会員：ブリムストーンの靴（遠射と魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Crystal armour (with <Num0> Agility after Song of the Elves)	会員：水晶の防具（運動神経<Num0>、「エルフの歌」後）	interface	generalUI	skillGuide
-Members: Neitiznot faceguard  (after The Fremennik Exiles)	会員：ネイチズノットのフェイスガード（「フレメニックの追放者」後）	interface	generalUI	skillGuide
+Members: Neitiznot faceguard (after The Fremennik Exiles)	会員：ネイチズノットのフェイスガード（「フレメニックの追放者」後）	interface	generalUI	skillGuide
 Members: Justiciar armour	会員：司法高官の防具	interface	generalUI	skillGuide
 Members: Serpentine helm	会員：蛇行の兜	interface	generalUI	skillGuide
 Members: Guardian boots	会員：守護者の靴	interface	generalUI	skillGuide
 Members: Echo boots	会員：エコー・ブーツ	interface	generalUI	skillGuide
-Members: Primordial boots  (with <Num0> Strength)	会員：原初の靴（腕力<Num0>）	interface	generalUI	skillGuide
-Members: Eternal boots  (with <Num0> Magic)	会員：不朽の靴（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Pegasian boots  (with <Num0> Ranged)	会員：ペガサスの靴（遠射<Num0>も）	interface	generalUI	skillGuide
-Members: Virtus robes  (with <Num0> Magic)	会員：ヴァータスのローブ（魔法<Num0>も）	interface	generalUI	skillGuide
-Members: Ferocious Gloves  (with <Num0> Attack)	会員：残忍な手袋（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Primordial boots (with <Num0> Strength)	会員：原初の靴（腕力<Num0>）	interface	generalUI	skillGuide
+Members: Eternal boots (with <Num0> Magic)	会員：不朽の靴（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Pegasian boots (with <Num0> Ranged)	会員：ペガサスの靴（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Virtus robes (with <Num0> Magic)	会員：ヴァータスのローブ（魔法<Num0>も）	interface	generalUI	skillGuide
+Members: Ferocious Gloves (with <Num0> Attack)	会員：残忍な手袋（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Torva armour	会員：トーヴァの防具	interface	generalUI	skillGuide
 Members: Fortified Masori armour (with <Num0> Ranged)	会員：強化されたマゾーリの防具（遠射<Num0>も）	interface	generalUI	skillGuide
 Penance	ペナンス	interface	generalUI	skillGuide
@@ -711,16 +711,16 @@ Penance - Members Only	ペナンス：会員限定	interface	generalUI	skillGuid
 Fighter torso	ファイターの胴体	interface	generalUI	skillGuide
 Runner boots	ランナーの靴	interface	generalUI	skillGuide
 Penance gloves	ペナンスの手袋	interface	generalUI	skillGuide
-Penance skirt  (with <Num0> Ranged)	ペナンスのスカート（遠射<Num0>も）	interface	generalUI	skillGuide
+Penance skirt (with <Num0> Ranged)	ペナンスのスカート（遠射<Num0>も）	interface	generalUI	skillGuide
 Fighter hat	ファイターの帽子	interface	generalUI	skillGuide
 Ranger hat	射手の帽子	interface	generalUI	skillGuide
 Healer hat	回復者の帽子	interface	generalUI	skillGuide
 Runner hat	ランナーの帽子	interface	generalUI	skillGuide
 Prayers - Members Only	祈り：会員限定	interface	generalUI	skillGuide
-Chivalry  (with <Num0> Prayer, after King's Ransom)	騎士道（祈り<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
-Piety  (with <Num0> Prayer, after King's Ransom)	敬神（祈り<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
-Rigour  (with <Num0> Prayer, from Chambers of Xeric)	困苦（祈り<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
-Augury  (with <Num0> Prayer, from Chambers of Xeric)	前兆（祈り<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
+Chivalry (with <Num0> Prayer, after King's Ransom)	騎士道（祈り<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
+Piety (with <Num0> Prayer, after King's Ransom)	敬神（祈り<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
+Rigour (with <Num0> Prayer, from Chambers of Xeric)	困苦（祈り<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
+Augury (with <Num0> Prayer, from Chambers of Xeric)	前兆（祈り<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
 Shields - Members Only	盾：会員限定	interface	generalUI	skillGuide
 Members: Oak shield	会員：樫の盾	interface	generalUI	skillGuide
 Members: Willow shield	会員：柳の盾	interface	generalUI	skillGuide
@@ -738,9 +738,9 @@ Members: Dragonfire ward (with <Num0> Ranged)	会員：竜炎のワード（遠�
 Members: Ancient Wyvern shield (with <Num0> Magic)	会員：古代のワイバーンの盾（魔法<Num0>も）	interface	generalUI	skillGuide
 Members: Elysian spirit shield (with <Num0> Prayer)	会員：エリシアン霊盾（祈り<Num0>も）	interface	generalUI	skillGuide
 Members: Arcane & Spectral spirit shields (with <Num0> Prayer and <Num1> Magic)	会員：アーケインとスペクトラル霊盾（祈り<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
-Members: Twisted buckler  (with <Num0> Ranged)	会員：歪みのバックラー（遠射<Num0>も）	interface	generalUI	skillGuide
-Members: Dinh's bulwark  (with <Num0> Attack)	会員：ディンの防壁（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Elidinis' Ward  (with <Num0> Prayer and <Num1> Magic)	会員：エリディニスの盾（祈り<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
+Members: Twisted buckler (with <Num0> Ranged)	会員：歪みのバックラー（遠射<Num0>も）	interface	generalUI	skillGuide
+Members: Dinh's bulwark (with <Num0> Attack)	会員：ディンの防壁（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Elidinis' Ward (with <Num0> Prayer and <Num1> Magic)	会員：エリディニスの盾（祈り<Num0>と魔法<Num1>）	interface	generalUI	skillGuide
 Herblore	調合	interface	generalUI	skillGuide
 Potions - Members Only	薬液：会員限定	interface	generalUI	skillGuide
 You must complete the Druidic Ritual quest before you can use Herblore.	クエスト「ドルイドの儀式」完了で調合スキルは解放されます。	interface	generalUI	skillGuide
@@ -861,24 +861,26 @@ Ancient mix	古代のミックス	interface	generalUI	skillGuide
 Super antifire mix	超火耐性のミックス	interface	generalUI	skillGuide
 Extended super antifire mix	長効な超火耐性のミックス	interface	generalUI	skillGuide
 Raids - Members Only	レイド：会員限定	interface	generalUI	skillGuide
+Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</col>, depending on your Herblore level.	調合レベルによって薬液は<colNum0>強</col>・ <colNum1>普通</col>・ <colNum2>弱</col>を作れます。	interface	generalUI	skillGuide
 Weak Golpar potions:	弱いゴルパル薬液：	interface	generalUI	skillGuide
 Standard Golpar potions	普通のゴルパル薬液	interface	generalUI	skillGuide
 Strong Golpar potions	強いゴルパル薬液	interface	generalUI	skillGuide
-Elder potions  with Stinkhorn mushroom	エルダーの増強薬：クサトゲキノコで	interface	generalUI	skillGuide
-Kodai potions  with Endarkened juice	コダイ増強薬：黒く染まった汁で	interface	generalUI	skillGuide
-Twisted potions  with Cicely	歪んだ増強薬：チチェリで	interface	generalUI	skillGuide
+Elder potions with Stinkhorn mushroom	エルダーの増強薬：クサトゲキノコで	interface	generalUI	skillGuide
+Kodai potions with Endarkened juice	コダイ増強薬：黒く染まった汁で	interface	generalUI	skillGuide
+Twisted potions with Cicely	歪んだ増強薬：チチェリで	interface	generalUI	skillGuide
 Weak Buchu leaf potions:	弱いブチュの薬液：	interface	generalUI	skillGuide
 Standard Buchu leaf potions	普通のブチュの薬液	interface	generalUI	skillGuide
 Strong Buchu leaf potions	強いブチュの薬液	interface	generalUI	skillGuide
-Revitalisation potions  with Stinkhorn mushroom	活性化の薬液：クサトゲキノコで	interface	generalUI	skillGuide
-Xeric's Aid potions  with Endarkened juice	ゼリックの援助：黒く染まった汁で	interface	generalUI	skillGuide
-Prayer enhance potions  with Cicely	祈祷強化：チチェリで	interface	generalUI	skillGuide
+Revitalisation potions with Stinkhorn mushroom	活性化の薬液：クサトゲキノコで	interface	generalUI	skillGuide
+Xeric's Aid potions with Endarkened juice	ゼリックの援助：黒く染まった汁で	interface	generalUI	skillGuide
+Prayer enhance potions with Cicely	祈祷強化：チチェリで	interface	generalUI	skillGuide
 Weak Noxifer potions:	弱いノキシファの薬液：	interface	generalUI	skillGuide
 Standard Noxifer potions	普通のノキシファの薬液	interface	generalUI	skillGuide
 Strong Noxifer potions	強いノキシファの薬液	interface	generalUI	skillGuide
-Antipoison potions  with Cicely	解毒剤：チチェリで	interface	generalUI	skillGuide
-Overload  with Elder, Kodai & Twisted potions	限界突破の薬液：エルダー、コダイ、歪んだ薬液で	interface	generalUI	skillGuide
+Antipoison potions with Cicely	解毒剤：チチェリで	interface	generalUI	skillGuide
+Overload with Elder, Kodai & Twisted potions	限界突破の薬液：エルダー、コダイ、歪んだ薬液で	interface	generalUI	skillGuide
 For overload potions, the tier is capped at the tier of the potions used to make it.	限界突破の薬液は、素材薬液の作成に必要なレベルによってブースト量が決まる。	interface	generalUI	skillGuide
+Harvest herbs from the <colNum0>Herbiboar</col> on <colNum1>Fossil Island</col> (with <Num0> Hunter).	<colNum1>化石島</col>に生息する<colNum0>ハービボア</col>から薬草を採る（狩人<Num0>も）	interface	generalUI	skillGuide
 Use the Herb Sack reward item, purchased from the Tithe Farm or Slayer Masters.	薬草袋の使用：タイス農場か討伐の達人から購入可能なアイテム	interface	generalUI	skillGuide
 Mammoth-might mix (Mastering Mixology).	マンモス・マイト・ミックス（ミクソロジ・マスター）	interface	generalUI	skillGuide
 Alco-augmentator (Mastering Mixology).	アルコ拡張薬（ミクソルジ・マスター）	interface	generalUI	skillGuide
@@ -936,13 +938,13 @@ Members: Mottled eel - Aerial fishing (With <Num0> hunter)	会員：まだらウ
 Members: Greater siren - Aerial fishing (With <Num0> hunter)	会員：オオサイレン：空中釣り（狩人<Num0>も）	interface	generalUI	skillGuide
 Lobster - Lobster pot	ロブスター：ロブスターのカゴ	interface	generalUI	skillGuide
 Members: Dark crab - Lobster pot & Dark fishing bait	会員：暗黒のカニ：ロブスターのカゴ＆暗黒の釣りエサ	interface	generalUI	skillGuide
-Leaping trout - Barbarian rod & most bait types  (with <Num0> Agility & <Num1> Strength)	飛びマス：蛮族の釣り竿＆大半のエサ（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
-Tuna  (with <Num0> Strength)	マグロ（腕力<Num0>も）	interface	generalUI	skillGuide
-Harpoonfish  (with <Num0> Strength)	銛魚（腕力<Num0>）	interface	generalUI	skillGuide
-Leaping salmon - Barbarian rod & most bait types  (with <Num0> Agility & <Num1> Strength)	飛びサケ：蛮族の釣り竿＆大半のエサ（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
-Leaping sturgeon - Barbarian rod & most bait types  (with <Num0> Agility & <Num1> Strength)	飛びチョウザメ：蛮族の釣り竿＆大半のエサ（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
-Swordfish  (with <Num0> Strength)	カジキ（腕力<Num0>も）	interface	generalUI	skillGuide
-Shark  (with <Num0> Strength)	サメ（腕力<Num0>も）	interface	generalUI	skillGuide
+Leaping trout - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	飛びマス：蛮族の釣り竿＆大半のエサ（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
+Tuna (with <Num0> Strength)	マグロ（腕力<Num0>も）	interface	generalUI	skillGuide
+Harpoonfish (with <Num0> Strength)	銛魚（腕力<Num0>）	interface	generalUI	skillGuide
+Leaping salmon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	飛びサケ：蛮族の釣り竿＆大半のエサ（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
+Leaping sturgeon - Barbarian rod & most bait types (with <Num0> Agility & <Num1> Strength)	飛びチョウザメ：蛮族の釣り竿＆大半のエサ（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
+Swordfish (with <Num0> Strength)	カジキ（腕力<Num0>も）	interface	generalUI	skillGuide
+Shark (with <Num0> Strength)	サメ（腕力<Num0>も）	interface	generalUI	skillGuide
 Small fishing net	小さい漁網	interface	generalUI	skillGuide
 Fishing rod	釣り竿	interface	generalUI	skillGuide
 Members: Big fishing net	会員：大きな魚網	interface	generalUI	skillGuide
@@ -969,24 +971,24 @@ Members: Sea turtle - Trawler & Tempoross	会員：ウミガメ：トローラ�
 Members: Manta ray - Trawler & Tempoross	会員：マンタ：トローラー＆テンポロス	interface	generalUI	skillGuide
 Ranged	遠射	interface	generalUI	skillGuide
 Bows	弓	interface	generalUI	skillGuide
-Standard bows  Ammo: Arrows up to iron	普通の弓：鉄の矢まで	interface	generalUI	skillGuide
-Oak bows  Ammo: Arrows up to steel	樫の弓：鋼鉄の矢まで	interface	generalUI	skillGuide
-Willow bows  Ammo: Arrows up to mithril	柳の弓：ミスリルの矢まで	interface	generalUI	skillGuide
-Maple bows  Ammo: Arrows up to adamant	楓の弓：アダマントの矢まで	interface	generalUI	skillGuide
-Members: Ogre composite bows  Ammo: 'Brutal' arrows up to rune	会員：オルグのコンプ弓：「残酷な」ルーンの矢まで	interface	generalUI	skillGuide
-Members: Yew bows  Ammo: Arrows up to rune	会員：イチイの弓：ルーンの矢まで	interface	generalUI	skillGuide
-Members: Magic bows  Ammo: Arrows up to amethyst	会員：魔法樹の弓：アメシストの矢まで	interface	generalUI	skillGuide
-Members: Bone shortbow  Ammo: Arrows up to amethyst	会員：骨の短弓：アメシストの矢まで	interface	generalUI	skillGuide
-Members: Seerculls  Ammo: Arrows up to amethyst	会員：シールカル：アメシストの矢まで	interface	generalUI	skillGuide
-Members: Dark bows  Ammo: Arrows up to dragon	会員：暗黒弓：竜鉄の矢まで	interface	generalUI	skillGuide
-Members: Craw's bow  Ammo: None	会員：クロウの弓：矢は不要	interface	generalUI	skillGuide
-Members: <Num0>rd age bow  Ammo: Arrows up to dragon	会員：第<Num0>紀の弓：竜鉄の矢まで	interface	generalUI	skillGuide
-Members: Crystal bows (with <Num0> Agility)  Ammo: None	会員：水晶の弓（運動神経<Num0>も）：矢は不要	interface	generalUI	skillGuide
-Members: Webweaver bow  Ammo: None	会員：ウェブウィーバーの弓：矢は不要	interface	generalUI	skillGuide
-Members: Scorching bows  Ammo: Arrows up to dragon	会員：灼熱の弓：竜鉄の矢まで	interface	generalUI	skillGuide
-Members: Bow of Faerdhinen (with <Num0> Agility)  Ammo: None	会員：フェルディネンの弓（運動神経<Num0>も）：矢は不要	interface	generalUI	skillGuide
-Members: Venator bow  Ammo: Arrows up to dragon	会員：ベネターの弓：竜鉄の矢まで	interface	generalUI	skillGuide
-Members: Twisted bow  Ammo: Arrows up to dragon	会員：歪みの弓：ドラゴンまでの矢	interface	generalUI	skillGuide
+Standard bows Ammo: Arrows up to iron	普通の弓：鉄の矢まで	interface	generalUI	skillGuide
+Oak bows Ammo: Arrows up to steel	樫の弓：鋼鉄の矢まで	interface	generalUI	skillGuide
+Willow bows Ammo: Arrows up to mithril	柳の弓：ミスリルの矢まで	interface	generalUI	skillGuide
+Maple bows Ammo: Arrows up to adamant	楓の弓：アダマントの矢まで	interface	generalUI	skillGuide
+Members: Ogre composite bows Ammo: 'Brutal' arrows up to rune	会員：オルグのコンプ弓：「残酷な」ルーンの矢まで	interface	generalUI	skillGuide
+Members: Yew bows Ammo: Arrows up to rune	会員：イチイの弓：ルーンの矢まで	interface	generalUI	skillGuide
+Members: Magic bows Ammo: Arrows up to amethyst	会員：魔法樹の弓：アメシストの矢まで	interface	generalUI	skillGuide
+Members: Bone shortbow Ammo: Arrows up to amethyst	会員：骨の短弓：アメシストの矢まで	interface	generalUI	skillGuide
+Members: Seerculls Ammo: Arrows up to amethyst	会員：シールカル：アメシストの矢まで	interface	generalUI	skillGuide
+Members: Dark bows Ammo: Arrows up to dragon	会員：暗黒弓：竜鉄の矢まで	interface	generalUI	skillGuide
+Members: Craw's bow Ammo: None	会員：クロウの弓：矢は不要	interface	generalUI	skillGuide
+Members: <Num0>rd age bow Ammo: Arrows up to dragon	会員：第<Num0>紀の弓：竜鉄の矢まで	interface	generalUI	skillGuide
+Members: Crystal bows (with <Num0> Agility) Ammo: None	会員：水晶の弓（運動神経<Num0>も）：矢は不要	interface	generalUI	skillGuide
+Members: Webweaver bow Ammo: None	会員：ウェブウィーバーの弓：矢は不要	interface	generalUI	skillGuide
+Members: Scorching bows Ammo: Arrows up to dragon	会員：灼熱の弓：竜鉄の矢まで	interface	generalUI	skillGuide
+Members: Bow of Faerdhinen (with <Num0> Agility) Ammo: None	会員：フェルディネンの弓（運動神経<Num0>も）：矢は不要	interface	generalUI	skillGuide
+Members: Venator bow Ammo: Arrows up to dragon	会員：ベネターの弓：竜鉄の矢まで	interface	generalUI	skillGuide
+Members: Twisted bow Ammo: Arrows up to dragon	会員：歪みの弓：ドラゴンまでの矢	interface	generalUI	skillGuide
 Thrown	投げ物	interface	generalUI	skillGuide
 Crossbows	洋弓銃	interface	generalUI	skillGuide
 Miscellaneous	雑多	interface	generalUI	skillGuide
@@ -1001,89 +1003,89 @@ Rune items	ルーンのアイテム	interface	generalUI	skillGuide
 Chinchompas	チンチョンパ	interface	generalUI	skillGuide
 Amethyst darts	アメシストのダーツ	interface	generalUI	skillGuide
 Carnivorous chinchompas	肉食チンチョンパ	interface	generalUI	skillGuide
-Hunter's Spears  (with <Num0> Strength)	会員：狩人の槍（腕力<Num0>も）	interface	generalUI	skillGuide
+Hunter's Spears (with <Num0> Strength)	会員：狩人の槍（腕力<Num0>も）	interface	generalUI	skillGuide
 Dragon darts	竜鉄のダーツ	interface	generalUI	skillGuide
 Dragon knives	竜鉄のナイフ	interface	generalUI	skillGuide
 TokTz-Xil-Ul	トクツ・ジル・ウル	interface	generalUI	skillGuide
 Dragon thrownaxes	竜鉄の投げ斧	interface	generalUI	skillGuide
 Black chinchompas	黒チンチョンパ	interface	generalUI	skillGuide
-Eclipse Atlatl (With <Num0> Strength and <Num1> Attack)  Ammo: Atlatl darts	エクリプスのアトラトル（腕力<Num0>と攻撃力<Num1>）：アトラトルのダーツ	interface	generalUI	skillGuide
+Eclipse Atlatl (With <Num0> Strength and <Num1> Attack) Ammo: Atlatl darts	エクリプスのアトラトル（腕力<Num0>と攻撃力<Num1>）：アトラトルのダーツ	interface	generalUI	skillGuide
 Toxic blowpipe	有毒吹き矢	interface	generalUI	skillGuide
 Tonalztics of Ralos	ラロスのトナルスチックス	interface	generalUI	skillGuide
-Crossbow  Ammo: Bronze crossbow bolts	洋弓銃：青銅のボルト	interface	generalUI	skillGuide
-Phoenix crossbow  Ammo: Bronze crossbow bolts	フェニックスの洋弓銃：青銅のボルト	interface	generalUI	skillGuide
-Members: Bronze crossbow  Ammo: Bronze crossbow bolts	会員：青銅の洋弓銃：青銅のボルト	interface	generalUI	skillGuide
-Members: Blurite crossbow  Ammo: Bolts up to blurite	会員：ブルライトの洋弓銃：ブルライトのボルトまで	interface	generalUI	skillGuide
-Members: Iron crossbow  Ammo: Bolts up to iron	会員：鉄の洋弓銃：鉄のボルトまで	interface	generalUI	skillGuide
-Members: Dorgeshuun crossbow  Ammo: Bolts up to iron	会員：ドーゲシューンの洋弓銃：鉄のボルトまで	interface	generalUI	skillGuide
-Members: Steel crossbow  Ammo: Bolts up to steel	会員：鋼鉄の洋弓銃：鋼鉄のボルトまで	interface	generalUI	skillGuide
-Members: Mithril crossbow  Ammo: Bolts up to mithril	会員：ミスリルの洋弓銃：ミスリルのボルトまで	interface	generalUI	skillGuide
-Members: Adamantite crossbow  Ammo: Bolts up to adamant	会員：アダマンタイトの洋弓銃：アダマントのボルトまで	interface	generalUI	skillGuide
-Members: Hunters' crossbow  Ammo: Kebbit bolts	会員：狩人の洋弓銃：ケビットのボルト	interface	generalUI	skillGuide
-Members: Runite crossbow  Ammo: Bolts up to runite	会員：ルーナイトの洋弓銃：ルーナイトのボルトまで	interface	generalUI	skillGuide
-Members: Dragon crossbow  Ammo: Bolts up to dragon	会員：竜鉄の洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
-Members: Sunlight hunters' crossbow  Ammo: Antler bolts.	会員：狩人の日光の洋弓銃：枝角ボルト	interface	generalUI	skillGuide
-Members: Dragon hunter crossbow  Ammo: Bolts up to dragon	会員：竜狩りの洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
-Members: Armadyl crossbow  Ammo: Bolts up to dragon	会員：アーマディルの洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
+Crossbow Ammo: Bronze crossbow bolts	洋弓銃：青銅のボルト	interface	generalUI	skillGuide
+Phoenix crossbow Ammo: Bronze crossbow bolts	フェニックスの洋弓銃：青銅のボルト	interface	generalUI	skillGuide
+Members: Bronze crossbow Ammo: Bronze crossbow bolts	会員：青銅の洋弓銃：青銅のボルト	interface	generalUI	skillGuide
+Members: Blurite crossbow Ammo: Bolts up to blurite	会員：ブルライトの洋弓銃：ブルライトのボルトまで	interface	generalUI	skillGuide
+Members: Iron crossbow Ammo: Bolts up to iron	会員：鉄の洋弓銃：鉄のボルトまで	interface	generalUI	skillGuide
+Members: Dorgeshuun crossbow Ammo: Bolts up to iron	会員：ドーゲシューンの洋弓銃：鉄のボルトまで	interface	generalUI	skillGuide
+Members: Steel crossbow Ammo: Bolts up to steel	会員：鋼鉄の洋弓銃：鋼鉄のボルトまで	interface	generalUI	skillGuide
+Members: Mithril crossbow Ammo: Bolts up to mithril	会員：ミスリルの洋弓銃：ミスリルのボルトまで	interface	generalUI	skillGuide
+Members: Adamantite crossbow Ammo: Bolts up to adamant	会員：アダマンタイトの洋弓銃：アダマントのボルトまで	interface	generalUI	skillGuide
+Members: Hunters' crossbow Ammo: Kebbit bolts	会員：狩人の洋弓銃：ケビットのボルト	interface	generalUI	skillGuide
+Members: Runite crossbow Ammo: Bolts up to runite	会員：ルーナイトの洋弓銃：ルーナイトのボルトまで	interface	generalUI	skillGuide
+Members: Dragon crossbow Ammo: Bolts up to dragon	会員：竜鉄の洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
+Members: Sunlight hunters' crossbow Ammo: Antler bolts.	会員：狩人の日光の洋弓銃：枝角ボルト	interface	generalUI	skillGuide
+Members: Dragon hunter crossbow Ammo: Bolts up to dragon	会員：竜狩りの洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
+Members: Armadyl crossbow Ammo: Bolts up to dragon	会員：アーマディルの洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
 Members: Karil's crossbow	会員：カリルの洋弓銃	interface	generalUI	skillGuide
-Members: Zaryte crossbow  Ammo: Bolts up to dragon	会員：ザーライトの洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
+Members: Zaryte crossbow Ammo: Bolts up to dragon	会員：ザーライトの洋弓銃：竜鉄のボルトまで	interface	generalUI	skillGuide
 Plain leather items	普通の革のアイテム	interface	generalUI	skillGuide
-Hard leather body  (with <Num0> Defence)	硬革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
-Studded leather body  (with <Num0> Defence)	トゲ付きのボディ（守備力<Num0>）	interface	generalUI	skillGuide
+Hard leather body (with <Num0> Defence)	硬革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
+Studded leather body (with <Num0> Defence)	トゲ付きのボディ（守備力<Num0>）	interface	generalUI	skillGuide
 Studded leather chaps	トゲ付きチャップス	interface	generalUI	skillGuide
 Coif	コイフ	interface	generalUI	skillGuide
-Members: Hard leather shield   (with <Num0> Defence)	会員：硬革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Frog-leather   (with <Num0> Defence)	会員：カエル革（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Snakeskin armour  (with <Num0> Defence)	会員：蛇革の防具（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Snakeskin shield   (with <Num0> Defence)	会員：蛇革の盾（守備力<Num0>）	interface	generalUI	skillGuide
-Members: Ava's attractor  (after Animal Magnetism)	会員：アヴァのアトラクター（「動物の磁性」後）	interface	generalUI	skillGuide
+Members: Hard leather shield  (with <Num0> Defence)	会員：硬革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Frog-leather  (with <Num0> Defence)	会員：カエル革（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Snakeskin armour (with <Num0> Defence)	会員：蛇革の防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Snakeskin shield  (with <Num0> Defence)	会員：蛇革の盾（守備力<Num0>）	interface	generalUI	skillGuide
+Members: Ava's attractor (after Animal Magnetism)	会員：アヴァのアトラクター（「動物の磁性」後）	interface	generalUI	skillGuide
 Members: Ranger boots	会員：射手の靴	interface	generalUI	skillGuide
 Members: Robin Hood hat	会員：ロビン・フッドの帽子	interface	generalUI	skillGuide
 Members: Rangers' tunic	会員：射手のチュニック	interface	generalUI	skillGuide
 Members: Ranger gloves	会員：射手の手袋	interface	generalUI	skillGuide
 Members: Rangers' tights	会員：射手のタイツ	interface	generalUI	skillGuide
-Members: Spined armour  (after The Fremennik Trials, with <Num0> Defence)	会員：トゲの防具（「フレメニックの試練」後、守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Spined armour (after The Fremennik Trials, with <Num0> Defence)	会員：トゲの防具（「フレメニックの試練」後、守備力<Num0>も）	interface	generalUI	skillGuide
 Green dragonhide vambraces	緑竜革の腕甲	interface	generalUI	skillGuide
 Green dragonhide chaps	緑竜革のチャップス	interface	generalUI	skillGuide
-Green dragonhide body  (with <Num0> Defence)	緑竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Green dragonhide shield   (with <Num0> Defence)	会員：緑竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Ava's accumulator  (after Animal Magnetism)	会員：アヴァのアキュムレータ（「動物の磁性」後）	interface	generalUI	skillGuide
+Green dragonhide body (with <Num0> Defence)	緑竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Green dragonhide shield  (with <Num0> Defence)	会員：緑竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Ava's accumulator (after Animal Magnetism)	会員：アヴァのアキュムレータ（「動物の磁性」後）	interface	generalUI	skillGuide
 Members: Blue dragonhide vambraces	会員：青竜革の腕甲	interface	generalUI	skillGuide
 Members: Blue dragonhide chaps	会員：青竜革のチャップス	interface	generalUI	skillGuide
-Members: Blue dragonhide body  (with <Num0> Defence)	会員：青竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Blue dragonhide shield   (with <Num0> Defence)	会員：青竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Penance skirt  (with <Num0> Defence)	会員：ペナンスのスカート（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Blue dragonhide body (with <Num0> Defence)	会員：青竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Blue dragonhide shield  (with <Num0> Defence)	会員：青竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Penance skirt (with <Num0> Defence)	会員：ペナンスのスカート（守備力<Num0>も）	interface	generalUI	skillGuide
 Members: Red dragonhide vambraces	会員：赤竜革の腕甲	interface	generalUI	skillGuide
 Members: Red dragonhide chaps	会員：赤竜革のチャップス	interface	generalUI	skillGuide
-Members: Red dragonhide body  (with <Num0> Defence)	会員：赤竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Red dragonhide shield   (with <Num0> Defence)	会員：赤竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Red dragonhide body (with <Num0> Defence)	会員：赤竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Red dragonhide shield  (with <Num0> Defence)	会員：赤竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
 Members: Mixed hide legs	会員：混合革のレッグ	interface	generalUI	skillGuide
-Members: Mixed hide top, cape, and boots  (with <Num0> Defence)	会員：ミックス革のトップ、マント、靴（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: <Num0>rd age range armour  (with <Num1> Defence)	会員：第<Num0>紀の射手の防具（守備力<Num1>も）	interface	generalUI	skillGuide
-Members: Ava's Assembler  (after Dragon Slayer II)	会員：アヴァのアセンブラ（「ドラゴン・スレイヤー２」後）	interface	generalUI	skillGuide
+Members: Mixed hide top, cape, and boots (with <Num0> Defence)	会員：ミックス革のトップ、マント、靴（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: <Num0>rd age range armour (with <Num1> Defence)	会員：第<Num0>紀の射手の防具（守備力<Num1>も）	interface	generalUI	skillGuide
+Members: Ava's Assembler (after Dragon Slayer II)	会員：アヴァのアセンブラ（「ドラゴン・スレイヤー２」後）	interface	generalUI	skillGuide
 Members: Black dragonhide vambraces	会員：黒竜革の腕甲	interface	generalUI	skillGuide
 Members: Black dragonhide chaps	会員：黒竜革のチャップス	interface	generalUI	skillGuide
-Members: Black dragonhide body  (with <Num0> Defence)	会員：黒竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Black dragonhide shield  (with <Num0> Defence)	会員：黒竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: God dragonhide shields  (with <Num0> Defence)	会員：神の革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: God dragonhide armour  (with <Num0> Defence)	会員：神の革の防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Black dragonhide body (with <Num0> Defence)	会員：黒竜革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Black dragonhide shield (with <Num0> Defence)	会員：黒竜革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: God dragonhide shields (with <Num0> Defence)	会員：神の革の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: God dragonhide armour (with <Num0> Defence)	会員：神の革の防具（守備力<Num0>も）	interface	generalUI	skillGuide
 Members: Hueycoatl hide vambraces	会員：フエコアトル革の腕甲	interface	generalUI	skillGuide
 Members: Hueycoatl hide chaps	会員：フエコアトル革のチャップス	interface	generalUI	skillGuide
-Members: Hueycoatl hide body  (with <Num0> Defence)	会員：フエコアトル革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Hueycoatl hide coif  (with <Num0> Defence)	会員：フエコアトル革のコイフ（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Armadyl armour  (with <Num0> Defence)	会員：アーマディルの防具（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Karil's leather armour  (with <Num0> Defence)	会員：カリルの防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Hueycoatl hide body (with <Num0> Defence)	会員：フエコアトル革のボディ（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Hueycoatl hide coif (with <Num0> Defence)	会員：フエコアトル革のコイフ（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Armadyl armour (with <Num0> Defence)	会員：アーマディルの防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Karil's leather armour (with <Num0> Defence)	会員：カリルの防具（守備力<Num0>も）	interface	generalUI	skillGuide
 Members: Dragonfire ward (with <Num0> Defence)	会員：竜炎のワード（守備力<Num0>も）	interface	generalUI	skillGuide
 Members: Boots of brimstone (with <Num0> Defence and Magic)	会員：ブリムストーンの靴（守備力と魔法<Num0>も）	interface	generalUI	skillGuide
 Dizana's Quiver Ammo storage: Bolts or Arrows	ディザナの矢筒：ボルトか矢の装備枠	interface	generalUI	skillGuide
-Members: Eclipse set  (with <Num0> Defence)	会員：エクリプス装備セット（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Pegasian boots  (with <Num0> Defence)	会員：ペガサスの靴（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Twisted buckler  (with <Num0> Defence)	会員：歪みのバックラー（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Zaryte vambraces  (with <Num0> Defence)	会員：ザーライトの腕甲（守備力<Num0>も）	interface	generalUI	skillGuide
-Members: Masori armour  (with <Num0> Defence)	会員：マゾーリの防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Eclipse set (with <Num0> Defence)	会員：エクリプス装備セット（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Pegasian boots (with <Num0> Defence)	会員：ペガサスの靴（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Twisted buckler (with <Num0> Defence)	会員：歪みのバックラー（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Zaryte vambraces (with <Num0> Defence)	会員：ザーライトの腕甲（守備力<Num0>も）	interface	generalUI	skillGuide
+Members: Masori armour (with <Num0> Defence)	会員：マゾーリの防具（守備力<Num0>も）	interface	generalUI	skillGuide
 Miscellaneous - Members Only	雑多：会員限定	interface	generalUI	skillGuide
-Light ballista  Ammo: All Javelins	軽量バリスタ：投槍に全種対応	interface	generalUI	skillGuide
-Heavy ballista (after Monkey Madness II)  Ammo: All Javelins	重量バリスタ（「サルの狂気２」後）：投槍に全種対応	interface	generalUI	skillGuide
+Light ballista Ammo: All Javelins	軽量バリスタ：投槍に全種対応	interface	generalUI	skillGuide
+Heavy ballista (after Monkey Madness II) Ammo: All Javelins	重量バリスタ（「サルの狂気２」後）：投槍に全種対応	interface	generalUI	skillGuide
 Scale Falador wall (with <Num0> Agility and <Num1> Strength)	ファラドーの壁を登る（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
 Scale Yanille wall (with <Num0> Agility and <Num1> Strength)	ヤニルの壁を登る（運動神経<Num0>と腕力<Num1>も）	interface	generalUI	skillGuide
 Scale Observatory cliff (after Observatory quest) (with <Num0> Agility and <Num1> Strength)	天文台の崖を登る（運動神経<Num0>と腕力<Num1>、「天文台クエスト」後）	interface	generalUI	skillGuide
@@ -1399,12 +1401,12 @@ Members: Retribution	会員：天罰	interface	generalUI	skillGuide
 Members: Redemption	会員：しょく罪	interface	generalUI	skillGuide
 Members: Smite	会員：懲罰	interface	generalUI	skillGuide
 Members: Preserve	会員：温存	interface	generalUI	skillGuide
-Members: Chivalry  (with <Num0> Defence, after King's Ransom)	会員：騎士道（守備力<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
-Members: Piety  (with <Num0> Defence, after King's Ransom)	会員：敬神（守備力<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
-Members: Rigour  (with <Num0> Defence, from Chambers of Xeric)	会員：困苦（守備力<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
-Members: Augury  (with <Num0> Defence, from Chambers of Xeric)	会員:会員：困苦（守備力<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
-Initiate armour  (after Recruitment Drive, with <Num0> Defence)	新信者の防具（「採用活動」と守備力<Num0>）	interface	generalUI	skillGuide
-Proselyte armour  (after Slug Menace, with <Num0> Defence)	改宗者の防具（「ナメクジの脅威」と守備力<Num0>）	interface	generalUI	skillGuide
+Members: Chivalry (with <Num0> Defence, after King's Ransom)	会員：騎士道（守備力<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
+Members: Piety (with <Num0> Defence, after King's Ransom)	会員：敬神（守備力<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
+Members: Rigour (with <Num0> Defence, from Chambers of Xeric)	会員：困苦（守備力<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
+Members: Augury (with <Num0> Defence, from Chambers of Xeric)	会員:会員：困苦（守備力<Num0>、ゼリックの部屋から入手）	interface	generalUI	skillGuide
+Initiate armour (after Recruitment Drive, with <Num0> Defence)	新信者の防具（「採用活動」と守備力<Num0>）	interface	generalUI	skillGuide
+Proselyte armour (after Slug Menace, with <Num0> Defence)	改宗者の防具（「ナメクジの脅威」と守備力<Num0>）	interface	generalUI	skillGuide
 Vestment robe top	各神のローブ上	interface	generalUI	skillGuide
 Vestment robe legs	各神のローブ下	interface	generalUI	skillGuide
 Void Knight equipment (with <Num0> combat stats)	ヴォイド・ナイトの装備（各戦闘スキル<Num0>も）	interface	generalUI	skillGuide
@@ -1893,27 +1895,27 @@ Ape Atoll teleport	エイプ・アトール・ワープ	interface	generalUI	skil
 Master Reanimation	超級蘇生術	interface	generalUI	skillGuide
 Sinister Offering (After A Kingdom Divided)	不吉な供物（「分裂した王国」後）	interface	generalUI	skillGuide
 Wizard boots	魔法使いの靴	interface	generalUI	skillGuide
-Xerician armour  (with <Num0> Defence)	ゼリックの防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Xerician armour (with <Num0> Defence)	ゼリックの防具（守備力<Num0>も）	interface	generalUI	skillGuide
 Elder chaos druid robes	混沌ドルイドの長老のローブ	interface	generalUI	skillGuide
-Mystic robes  (with <Num0> Defence)	秘伝のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Enchanted robes  (with <Num0> Defence)	魔法のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Robes of darkness  (with <Num0> Defence)	闇のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Splitbark armour  (with <Num0> Defence)	分樹皮の防具（守備力<Num0>も）	interface	generalUI	skillGuide
-Skeletal armour  (after The Fremmenik Trials, with <Num0> Defence)	骨の防具（「フレメニックの試練」後、守備力<Num0>も）	interface	generalUI	skillGuide
-Infinity robes  (with <Num0> Defence)	無限のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Swampbark armour  (with <Num0> Defence)	沼樹皮の鎧（守備力<Num0>も）	interface	generalUI	skillGuide
-God capes  (after Mage Arena)	神々のマント（「魔術師アリーナ１」後）	interface	generalUI	skillGuide
-Bloodbark armour  (with <Num0> Defence)	血樹皮の防具（守備力<Num0>も）	interface	generalUI	skillGuide
-Lunar armour  (after Lunar Diplomacy, with <Num0> Defence)	ルーナの防具（「ルーナ族との外交」後、守備力<Num0>も）	interface	generalUI	skillGuide
-<Num0>rd age robes  (with <Num1> Defence)	第<Num0>紀のローブ（守備力<Num1>も）	interface	generalUI	skillGuide
+Mystic robes (with <Num0> Defence)	秘伝のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Enchanted robes (with <Num0> Defence)	魔法のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Robes of darkness (with <Num0> Defence)	闇のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Splitbark armour (with <Num0> Defence)	分樹皮の防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Skeletal armour (after The Fremmenik Trials, with <Num0> Defence)	骨の防具（「フレメニックの試練」後、守備力<Num0>も）	interface	generalUI	skillGuide
+Infinity robes (with <Num0> Defence)	無限のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Swampbark armour (with <Num0> Defence)	沼樹皮の鎧（守備力<Num0>も）	interface	generalUI	skillGuide
+God capes (after Mage Arena)	神々のマント（「魔術師アリーナ１」後）	interface	generalUI	skillGuide
+Bloodbark armour (with <Num0> Defence)	血樹皮の防具（守備力<Num0>も）	interface	generalUI	skillGuide
+Lunar armour (after Lunar Diplomacy, with <Num0> Defence)	ルーナの防具（「ルーナ族との外交」後、守備力<Num0>も）	interface	generalUI	skillGuide
+<Num0>rd age robes (with <Num1> Defence)	第<Num0>紀のローブ（守備力<Num1>も）	interface	generalUI	skillGuide
 Occult necklace	オカルトのネックレス	interface	generalUI	skillGuide
-Dagon'hai robes  (with <Num0> Defence)	ダゴンハイローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Ahrims robes  (with <Num0> Defence)	アリムのローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Boots of brimstone  (with <Num0> Defence and Ranged)	ブリムストーンの靴（守備力と遠射<Num0>も）	interface	generalUI	skillGuide
-Eternal boots  (with <Num0> Defence)	不朽の靴（守備力<Num0>も）	interface	generalUI	skillGuide
-Frostmoon robes  (with <Num0> Defence)	ブルームーンのローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Ancestral robes  (with <Num0> Defence)	祖先のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
-Virtus robes  (with <Num0> Defence)	ヴァータスのローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Dagon'hai robes (with <Num0> Defence)	ダゴンハイローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Ahrims robes (with <Num0> Defence)	アリムのローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Boots of brimstone (with <Num0> Defence and Ranged)	ブリムストーンの靴（守備力と遠射<Num0>も）	interface	generalUI	skillGuide
+Eternal boots (with <Num0> Defence)	不朽の靴（守備力<Num0>も）	interface	generalUI	skillGuide
+Frostmoon robes (with <Num0> Defence)	ブルームーンのローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Ancestral robes (with <Num0> Defence)	祖先のローブ（守備力<Num0>も）	interface	generalUI	skillGuide
+Virtus robes (with <Num0> Defence)	ヴァータスのローブ（守備力<Num0>も）	interface	generalUI	skillGuide
 Bolts - Members Only	ボルトに魔法付与：会員限定	interface	generalUI	skillGuide
 Opal-tipped crossbow bolts <Num0> cosmic + <Num1> air runes	オパールのボルト：宇宙<Num0>+大気<Num1>	interface	generalUI	skillGuide
 Sapphire-tipped crossbow bolts <Num0> cosmic + <Num1> water + <Num2> mind rune	サファイアのボルト：宇宙<Num0>+水<Num1>+心<Num2>	interface	generalUI	skillGuide
@@ -1930,33 +1932,33 @@ Bryophyta's staff (with <Num0> Attack)	ブリオフィタの杖（攻撃力<Num0
 Members: Mystic staves (with <Num0> Attack)	会員：秘伝の杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Beginner wand	会員：初心者のワンド	interface	generalUI	skillGuide
 Members: Apprentice wand	会員：弟子のワンド	interface	generalUI	skillGuide
-Members: Ancient staff  (requires Desert Treasure I and <Num0> Attack)	会員：古代の杖（「砂漠の宝１」と攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Slayer's staff  (with <Num0> Slayer)	会員：討伐者の杖（討伐<Num0>も）	interface	generalUI	skillGuide
+Members: Ancient staff (requires Desert Treasure I and <Num0> Attack)	会員：古代の杖（「砂漠の宝１」と攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Slayer's staff (with <Num0> Slayer)	会員：討伐者の杖（討伐<Num0>も）	interface	generalUI	skillGuide
 Members: Bone staff	会員：骨の杖	interface	generalUI	skillGuide
 Members: Teacher wand	会員：先生のワンド	interface	generalUI	skillGuide
 Members: Master wand	会員：師匠のワンド	interface	generalUI	skillGuide
 Members: Thammaron's Sceptre	会員：サマロンの笏	interface	generalUI	skillGuide
-Members: God staves  (requires Mage Arena I)	会員：神々の杖（「魔術師アリーナ２」後）	interface	generalUI	skillGuide
-Members: TokTz-Mej-Tal  (with <Num0> Attack)	会員：トクツ・メジ・タル（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: God staves (requires Mage Arena I)	会員：神々の杖（「魔術師アリーナ２」後）	interface	generalUI	skillGuide
+Members: TokTz-Mej-Tal (with <Num0> Attack)	会員：トクツ・メジ・タル（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Warped sceptre	会員：歪んだ笏	interface	generalUI	skillGuide
 Members: <Num0>rd age wand	会員：第<Num0>紀のワンド	interface	generalUI	skillGuide
 Members: Dragon hunter wand	会員：竜狩りの杖	interface	generalUI	skillGuide
-Members: Ahrim's staff  (with <Num0> Attack)	会員：アリムの杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Ancient sceptre  (requires Secrets of the North, <Num0> Attack and <Num1> Strength)	会員：古代の笏（「北陸の秘密」と攻撃力<Num0>と腕力<Num1>）	interface	generalUI	skillGuide
+Members: Ahrim's staff (with <Num0> Attack)	会員：アリムの杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Ancient sceptre (requires Secrets of the North, <Num0> Attack and <Num1> Strength)	会員：古代の笏（「北陸の秘密」と攻撃力<Num0>と腕力<Num1>）	interface	generalUI	skillGuide
 Members: Accursed Sceptre	会員：呪いの笏	interface	generalUI	skillGuide
-Members: Nightmare Staff (without orb)  (with <Num0> Hitpoints)	会員：悪夢の杖（オーブ無）（体力<Num0>も）	interface	generalUI	skillGuide
+Members: Nightmare Staff (without orb) (with <Num0> Hitpoints)	会員：悪夢の杖（オーブ無）（体力<Num0>も）	interface	generalUI	skillGuide
 Members: Staff of the Dead (with <Num0> Attack)	会員：会員：死者の杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Upgraded Ancient Sceptre (requires Desert Treasure II, <Num0> Attack and <Num1> Strength)	会員：強化後の古代の笏（「北陸の秘密」と攻撃力<Num0>と腕力<Num1>）	interface	generalUI	skillGuide
 Members: Staff of Light (with <Num0> Attack)	会員：光の杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Members: Staff of Balance  (with <Num0> Attack)	会員：平衡の杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Staff of Balance (with <Num0> Attack)	会員：平衡の杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Trident of the Seas	会員：遠海のトライデント	interface	generalUI	skillGuide
-Members: Slayer's staff (e)  (with <Num0> Slayer)	会員：討伐者の杖（魔）（討伐<Num0>も）	interface	generalUI	skillGuide
-Members: Frostmoon Spear  (with <Num0> Attack)	会員：ブルームーンの槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Members: Slayer's staff (e) (with <Num0> Slayer)	会員：討伐者の杖（魔）（討伐<Num0>も）	interface	generalUI	skillGuide
+Members: Frostmoon Spear (with <Num0> Attack)	会員：ブルームーンの槍（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Purging staff (with <Num0> Attack)	会員：浄化の杖（攻撃力<Num0>も）	interface	generalUI	skillGuide
 Members: Trident of the Swamp	会員：沼のトライデント	interface	generalUI	skillGuide
 Members: Kodai Wand	会員：コダイのワンド	interface	generalUI	skillGuide
 Members: Sanguinesti staff	会員：サンギネスティ杖	interface	generalUI	skillGuide
-Members: Nightmare Staff (with orb)  (with <Num0> Hitpoints)	会員：悪夢の杖（オーブ有）（体力<Num0>も）	interface	generalUI	skillGuide
+Members: Nightmare Staff (with orb) (with <Num0> Hitpoints)	会員：悪夢の杖（オーブ有）（体力<Num0>も）	interface	generalUI	skillGuide
 Members: Tumeken's Shadow	会員:ツメケンの影	interface	generalUI	skillGuide
 Tome of Water	水の書	interface	generalUI	skillGuide
 Tome of Earth	土の書	interface	generalUI	skillGuide
@@ -2243,39 +2245,39 @@ Smoke devil	スモーク・デビル	interface	generalUI	skillGuide
 Hydras	ヒドラ	interface	generalUI	skillGuide
 Monsters	討伐対象	interface	generalUI	skillGuide
 Slayer Masters	討伐の達人	interface	generalUI	skillGuide
-Spiny helmet  (with <Num0> Defence)	トゲの兜（守備力<Num0>も）	interface	generalUI	skillGuide
+Spiny helmet (with <Num0> Defence)	トゲの兜（守備力<Num0>も）	interface	generalUI	skillGuide
 Rock hammer & Rock Thrownhammer	岩のハンマー＆岩の投げハンマー	interface	generalUI	skillGuide
 Reinforced Goggles	強化されたゴーグル	interface	generalUI	skillGuide
 Facemask	マスク	interface	generalUI	skillGuide
 Earmuffs	耳当て	interface	generalUI	skillGuide
-Mirror shield  (with <Num0> Defence)	鏡の盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Mirror shield (with <Num0> Defence)	鏡の盾（守備力<Num0>も）	interface	generalUI	skillGuide
 Fishing explosive	釣り用爆弾	interface	generalUI	skillGuide
-Harpie bug lantern  (not a light source)	虫ランタン（光源ではない）	interface	generalUI	skillGuide
+Harpie bug lantern (not a light source)	虫ランタン（光源ではない）	interface	generalUI	skillGuide
 Witchwood icon	ウィッチウッドのアイコン	interface	generalUI	skillGuide
 Insulated boots	断熱靴	interface	generalUI	skillGuide
 Slayer bell	討伐の鐘	interface	generalUI	skillGuide
 Slayer gloves	討伐の手袋	interface	generalUI	skillGuide
 Boots of Stone	石の靴	interface	generalUI	skillGuide
-Leaf-bladed spear and sword  (with <Num0> Attack)	葉刃の槍と剣（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Leaf-bladed battleaxe  (with <Num0> Attack)	葉刃の戦斧（攻撃力<Num0>も）	interface	generalUI	skillGuide
-Broad arrows  (with <Num0> Ranged)	太矢（遠射<Num0>も）	interface	generalUI	skillGuide
-Broad bolts  (with <Num0> Ranged)	太ボルト（遠射<Num0>も）	interface	generalUI	skillGuide
-Slayer's staff  (with <Num0> Magic)	討伐者の杖（魔法<Num0>も）	interface	generalUI	skillGuide
-Slayer's staff (e)  (with <Num0> Magic)	討伐者の杖（魔）（魔法<Num0>も）	interface	generalUI	skillGuide
+Leaf-bladed spear and sword (with <Num0> Attack)	葉刃の槍と剣（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Leaf-bladed battleaxe (with <Num0> Attack)	葉刃の戦斧（攻撃力<Num0>も）	interface	generalUI	skillGuide
+Broad arrows (with <Num0> Ranged)	太矢（遠射<Num0>も）	interface	generalUI	skillGuide
+Broad bolts (with <Num0> Ranged)	太ボルト（遠射<Num0>も）	interface	generalUI	skillGuide
+Slayer's staff (with <Num0> Magic)	討伐者の杖（魔法<Num0>も）	interface	generalUI	skillGuide
+Slayer's staff (e) (with <Num0> Magic)	討伐者の杖（魔）（魔法<Num0>も）	interface	generalUI	skillGuide
 Fungicide spray	殺菌剤のスプレー 	interface	generalUI	skillGuide
 Nose peg	鼻バサミ	interface	generalUI	skillGuide
-V's shield  (with <Num0> Defence)	Vの盾（守備力<Num0>も）	interface	generalUI	skillGuide
-Amethyst broad bolts  (with <Num0> Ranged)	アメシストの太ボルト（遠射<Num0>も）	interface	generalUI	skillGuide
+V's shield (with <Num0> Defence)	Vの盾（守備力<Num0>も）	interface	generalUI	skillGuide
+Amethyst broad bolts (with <Num0> Ranged)	アメシストの太ボルト（遠射<Num0>も）	interface	generalUI	skillGuide
 Slayer Masters - Members Only	討伐の達人：会員限定	interface	generalUI	skillGuide
-Wilderness master  (no requirements)	ウィルダネスの達人（条件無し）	interface	generalUI	skillGuide
-Draynor Village master  (after A Porcine of Interest)	ドレイナー村の達人（「重要参考豚」後）	interface	generalUI	skillGuide
-Burthorpe master  (with level <Num0> combat)	バーソープの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
-Canifis master  (with level <Num0> combat)	キャナフィスの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
-Edgeville Dungeon master  (with level <Num0> combat)	エッジビル・ダンジョンの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
-Zanaris master  (with level <Num0> combat)	ザナリスの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
-Mount Karuulm master  (with level <Num0> combat)	カルールム山の達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
-Gnome Stronghold master  (with level <Num0> combat)	ノーム要塞の達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
-Shilo Village master  (with level <Num0> combat)	シャイロ村の達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Wilderness master (no requirements)	ウィルダネスの達人（条件無し）	interface	generalUI	skillGuide
+Draynor Village master (after A Porcine of Interest)	ドレイナー村の達人（「重要参考豚」後）	interface	generalUI	skillGuide
+Burthorpe master (with level <Num0> combat)	バーソープの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Canifis master (with level <Num0> combat)	キャナフィスの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Edgeville Dungeon master (with level <Num0> combat)	エッジビル・ダンジョンの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Zanaris master (with level <Num0> combat)	ザナリスの達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Mount Karuulm master (with level <Num0> combat)	カルールム山の達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Gnome Stronghold master (with level <Num0> combat)	ノーム要塞の達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
+Shilo Village master (with level <Num0> combat)	シャイロ村の達人（戦闘レベル<Num0>）	interface	generalUI	skillGuide
 Farming	農業	interface	generalUI	skillGuide
 Allotments - Members Only	アロメント：会員限定	interface	generalUI	skillGuide
 Potatoes Payment: Compost x<Num0>	ジャガイモの保証：堆肥<Num0>個	interface	generalUI	skillGuide
@@ -2328,7 +2330,7 @@ Poison ivy bushes	ツタウルシの低木	interface	generalUI	skillGuide
 Flowers - Members Only	花：会員限定	interface	generalUI	skillGuide
 Marigolds Protects onions, tomatoes and potatoes	マリーゴールドは玉ねぎ、トマト、ジャガイモの成長を保証	interface	generalUI	skillGuide
 Rosemary Protects cabbages from disease	ローズマリーはキャベツを守る	interface	generalUI	skillGuide
-Make and place a scarecrow  Protects sweetcorn from birds	カカシを作成・設置すればコーンを鳥から守る	interface	generalUI	skillGuide
+Make and place a scarecrow Protects sweetcorn from birds	カカシを作成・設置すればコーンを鳥から守る	interface	generalUI	skillGuide
 Nasturtiums Protects watermelons from disease	ナスタチウムはスイカを守る	interface	generalUI	skillGuide
 Woad	アイ	interface	generalUI	skillGuide
 Limpwurt plants	リンプワートの株	interface	generalUI	skillGuide
@@ -2446,9 +2448,9 @@ Workbench with lathe	旋盤付き作業台	interface	generalUI	skillGuide
 Ancient altar	古代の祭壇	interface	generalUI	skillGuide
 Lunar altar	ルーナの祭壇	interface	generalUI	skillGuide
 Dark altar	暗黒の祭壇	interface	generalUI	skillGuide
-Occult altar  (upgrade from Ancient)	オカルトの祭壇（古代版から昇格）	interface	generalUI	skillGuide
-Occult altar  (upgrade from Lunar)	オカルトの祭壇（ルーナ版から昇格）	interface	generalUI	skillGuide
-Occult altar  (upgrade from Dark)	オカルトの祭壇（暗黒版から昇格）	interface	generalUI	skillGuide
+Occult altar (upgrade from Ancient)	オカルトの祭壇（古代版から昇格）	interface	generalUI	skillGuide
+Occult altar (upgrade from Lunar)	オカルトの祭壇（ルーナ版から昇格）	interface	generalUI	skillGuide
+Occult altar (upgrade from Dark)	オカルトの祭壇（暗黒版から昇格）	interface	generalUI	skillGuide
 Surfaces - Members Only	地上：会員限定	interface	generalUI	skillGuide
 Crude wooden chair	粗末な木の椅子	interface	generalUI	skillGuide
 Wooden chair	木製の椅子	interface	generalUI	skillGuide
@@ -2740,10 +2742,10 @@ Obsidian fence	黒曜石のフェンス	interface	generalUI	skillGuide
 Fairy ring	妖精の輪	interface	generalUI	skillGuide
 Fancy rejuvenation pool	おしゃれな再生の飲み場	interface	generalUI	skillGuide
 Volcanic theme	火山のテーマ	interface	generalUI	skillGuide
-Marble garden bench  (decoration only)	大理石のガーデンベンチ（装飾のみ）	interface	generalUI	skillGuide
+Marble garden bench (decoration only)	大理石のガーデンベンチ（装飾のみ）	interface	generalUI	skillGuide
 Ornate rejuvenation pool	華麗な再生の飲み場	interface	generalUI	skillGuide
 Spirit tree & fairy ring	精霊樹と妖精の輪	interface	generalUI	skillGuide
-Obsidian garden bench  (decoration only)	黒曜石のガーデンベンチ（装飾のみ）	interface	generalUI	skillGuide
+Obsidian garden bench (decoration only)	黒曜石のガーデンベンチ（装飾のみ）	interface	generalUI	skillGuide
 Dungeon - Members Only	ダンジョン：会員限定	interface	generalUI	skillGuide
 Throne room floor decoration	王室の床の装飾	interface	generalUI	skillGuide
 Oak cage	樫のケージ	interface	generalUI	skillGuide
@@ -3025,5 +3027,3 @@ Adept Hunters' Rumours	達人狩人のルーマー	interface	generalUI	skillGuid
 Imps (worldwide) Preferred bait: Magical beads	小悪魔（世界各地）：エサは魔法のビード	interface	generalUI	skillGuide
 Expert Hunters' Rumours	専門狩人のルーマー	interface	generalUI	skillGuide
 Master Hunters' Rumours	狩人師匠のルーマー	interface	generalUI	skillGuide
-Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</col>, depending on your Herblore level.	調合レベルによって薬液は<colNum0>強</col>・ <colNum1>普通</col>・ <colNum2>弱</col>を作れます。	interface	generalUI	skillGuide
-Harvest herbs from the <colNum0>Herbiboar</col> on <colNum1>Fossil Island</col> (with <Num0> Hunter).	<colNum1>化石島</col>に生息する<colNum0>ハービボア</col>から薬草を採る（狩人<Num0>も）	interface	generalUI	skillGuide
