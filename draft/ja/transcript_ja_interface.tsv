@@ -3453,3 +3453,37 @@ Farming XP:<br>Next level at:<br>Remaining XP:	農業XP：<br>次レベル開始
 Total XP:	合計XP：	interface	mainTabs	skillsTab
 Next level at:	次レベル開始：	interface	mainTabs	skillsTab
 Remaining XP:	残りXP：	interface	mainTabs	skillsTab
+Combat Level:		interface	mainTabs	characterSummaryTab
+Total Level:		interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0>,<Num1>,<Num2></col>		interface	mainTabs	characterSummaryTab
+Quests Completed:		interface	mainTabs	characterSummaryTab
+Achievements Completed:		interface	mainTabs	characterSummaryTab
+Combat Tasks Completed:		interface	mainTabs	characterSummaryTab
+Collections Logged:		interface	mainTabs	characterSummaryTab
+Time Played: Click to reveal.		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> hours</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> hour</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> hours</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> hour</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hours, <Num1> minutes</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hours, <Num1> minute</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hour, <Num1> minutes</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hour, <Num1> minute</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> minutes		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> minute		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0>a minute		interface	mainTabs	characterSummaryTab
+Quest List		interface	mainTabs	questListTab
+Completed: <Num0>/<Num1>		interface	mainTabs	questListTab
+Quest Points: <Num0>/<Num1>		interface	mainTabs	questListTab
+Achievement Diaries		interface	mainTabs	achievementDiaryTab
+Ardougne		interface	mainTabs	achievementDiaryTab
+Desert		interface	mainTabs	achievementDiaryTab
+Falador		interface	mainTabs	achievementDiaryTab
+Fremennik		interface	mainTabs	achievementDiaryTab
+Kandarin		interface	mainTabs	achievementDiaryTab
+Karamja		interface	mainTabs	achievementDiaryTab
+Kourend & Kebos		interface	mainTabs	achievementDiaryTab
+Lumbridge & Draynor		interface	mainTabs	achievementDiaryTab
+Morytania		interface	mainTabs	achievementDiaryTab
+Varrock		interface	mainTabs	achievementDiaryTab
+Western Provinces		interface	mainTabs	achievementDiaryTab

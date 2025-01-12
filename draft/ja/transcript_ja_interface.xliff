@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="114927">
@@ -25503,6 +25504,108 @@ source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118380"><xliff:source>Remaining XP:</xliff:source><xliff:target state="translated">残りXP：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: skillsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118381"><xliff:source>Combat Level:</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118382"><xliff:source>Total Level:</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118383"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;,&lt;Num1&gt;,&lt;Num2&gt;&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118384"><xliff:source>Quests Completed:</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118385"><xliff:source>Achievements Completed:</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118386"><xliff:source>Combat Tasks Completed:</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118387"><xliff:source>Collections Logged:</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118388"><xliff:source>Time Played: Click to reveal.</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118389"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; days, &lt;Num1&gt; hours&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118390"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; days, &lt;Num1&gt; hour&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118391"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; day, &lt;Num1&gt; hours&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118392"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; day, &lt;Num1&gt; hour&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118393"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; hours, &lt;Num1&gt; minutes&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118394"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; hours, &lt;Num1&gt; minute&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118395"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; hour, &lt;Num1&gt; minutes&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118396"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; hour, &lt;Num1&gt; minute&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118397"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; minutes</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118398"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; minute</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118399"><xliff:source>Time Played: &lt;colNum0&gt;a minute</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118400"><xliff:source>Quest List</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118401"><xliff:source>Completed: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118402"><xliff:source>Quest Points: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: questListTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118403"><xliff:source>Achievement Diaries</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118404"><xliff:source>Ardougne</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118405"><xliff:source>Desert</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118406"><xliff:source>Falador</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118407"><xliff:source>Fremennik</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118408"><xliff:source>Kandarin</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118409"><xliff:source>Karamja</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118410"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118411"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118412"><xliff:source>Morytania</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118413"><xliff:source>Varrock</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118414"><xliff:source>Western Provinces</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: mainTabs
+source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
