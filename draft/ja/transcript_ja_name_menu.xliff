@@ -681,7 +681,7 @@ sub_category: menu
 source: groupTab
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    <xliff:trans-unit id="112669"><xliff:source>Redemption</xliff:source><xliff:target state="translated">しょく罪</xliff:target><xliff:note>category: name
+    <xliff:trans-unit id="112669"><xliff:source>Redemption</xliff:source><xliff:target state="translated">贖罪</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112670"><xliff:source>Protect Item</xliff:source><xliff:target state="translated">アイテム保護</xliff:target><xliff:note>category: name
@@ -693,16 +693,16 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112672"><xliff:source>Sharp Eye</xliff:source><xliff:target state="translated">鋭い目</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112673"><xliff:source>Mystic Will</xliff:source><xliff:target state="translated">神秘の意思</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112673"><xliff:source>Mystic Will</xliff:source><xliff:target state="translated">神秘的な意思</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112674"><xliff:source>Rock Skin</xliff:source><xliff:target state="translated">岩の肌</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112675"><xliff:source>Protect from Magic</xliff:source><xliff:target state="translated">魔法の防御</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112675"><xliff:source>Protect from Magic</xliff:source><xliff:target state="translated">魔法防御</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112676"><xliff:source>Protect from Missiles</xliff:source><xliff:target state="translated">発射体の防御</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112676"><xliff:source>Protect from Missiles</xliff:source><xliff:target state="translated">発射体防御</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112677"><xliff:source>Protect from Melee</xliff:source><xliff:target state="translated">近接の加護</xliff:target><xliff:note>category: name
@@ -732,7 +732,7 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112685"><xliff:source>Burst of Strength</xliff:source><xliff:target state="translated">力の爆発</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112686"><xliff:source>Mystic Lore</xliff:source><xliff:target state="translated">神秘の伝承</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112686"><xliff:source>Mystic Lore</xliff:source><xliff:target state="translated">神秘的な伝承</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112687"><xliff:source>Augury</xliff:source><xliff:target state="translated">前兆</xliff:target><xliff:note>category: name

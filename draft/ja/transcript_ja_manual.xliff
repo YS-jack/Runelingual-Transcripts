@@ -1323,7 +1323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109428">
         <xliff:source>Lumbridge &amp; Draynor</xliff:source>
-        <xliff:target state="translated">ランブリッジとドレイナー</xliff:target>
+        <xliff:target state="translated">ランブ…ドレイナー</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1355,7 +1355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109432">
         <xliff:source>Wilderness</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィルダネス</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2891,7 +2891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109624">
         <xliff:source>Wilderness</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィルダネス</xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2915,7 +2915,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109627">
         <xliff:source>Wilderness </xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ウィルダネス </xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3867,7 +3867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109751">
         <xliff:source>Another Slice of H.A.M.</xliff:source>
-        <xliff:target state="translated">もう１スライスのH.A.M</xliff:target>
+        <xliff:target state="translated">もう１枚のH.A.M.</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -10544,7 +10544,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110688"><xliff:source>Karamja</xliff:source><xliff:target state="translated">カラムジャ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target state="translated">ランブリッジとドレイナー</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target state="translated">ランブ…ドレイナー</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110690"><xliff:source>Morytania</xliff:source><xliff:target state="translated">モリタニア</xliff:target><xliff:note>category: manual
@@ -10556,7 +10556,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110692"><xliff:source>Western Provinces</xliff:source><xliff:target state="translated">西部地方</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110693"><xliff:source>Wilderness</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110693"><xliff:source>Wilderness</xliff:source><xliff:target state="translated">ウィルダネス</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110694"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target state="translated">クーレンドとケボス</xliff:target><xliff:note>category: manual
@@ -11132,7 +11132,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110884"><xliff:source>Wild Side</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110885"><xliff:source>Wilderness</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110885"><xliff:source>Wilderness</xliff:source><xliff:target state="translated">ウィルダネス</xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110886"><xliff:source>Revenants</xliff:source><xliff:target state="translated">幽鬼</xliff:target><xliff:note>category: manual
@@ -11141,7 +11141,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110887"><xliff:source>in the Revenant Caves.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110888"><xliff:source>Wilderness </xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110888"><xliff:source>Wilderness </xliff:source><xliff:target state="translated">ウィルダネス </xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110889"><xliff:source>Wildwood</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -11498,7 +11498,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111006"><xliff:source>Learn how to equip Ava's ranged devices.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xliff:source>Another Slice of H.A.M.</xliff:source><xliff:target state="translated">もう１スライスのH.A.M</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xliff:source>Another Slice of H.A.M.</xliff:source><xliff:target state="translated">もう１枚のH.A.M.</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111008"><xliff:source>Learn how to use the Goblin Village teleport spheres.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual

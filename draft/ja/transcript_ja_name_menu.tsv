@@ -84,14 +84,14 @@ Hiscores	ハイスコア	name	menu	accountManagementTab
 Old School Wiki	オールドスクール・ウィキ	name	menu	accountManagementTab
 Merchandise	商品サイト	name	menu	accountManagementTab
 <colNum0>PvP Arena</col> options	<colNum0>PvPアリーナ</col> のオプション	name	menu	groupTab
-Redemption	しょく罪	name	menu	prayerTab
+Redemption	贖罪	name	menu	prayerTab
 Protect Item	アイテム保護	name	menu	prayerTab
 Incredible Reflexes	とてつもない反射神経	name	menu	prayerTab
 Sharp Eye	鋭い目	name	menu	prayerTab
-Mystic Will	神秘の意思	name	menu	prayerTab
+Mystic Will	神秘的な意思	name	menu	prayerTab
 Rock Skin	岩の肌	name	menu	prayerTab
-Protect from Magic	魔法の防御	name	menu	prayerTab
-Protect from Missiles	発射体の防御	name	menu	prayerTab
+Protect from Magic	魔法防御	name	menu	prayerTab
+Protect from Missiles	発射体防御	name	menu	prayerTab
 Protect from Melee	近接の加護	name	menu	prayerTab
 Thick Skin	厚い肌	name	menu	prayerTab
 Retribution	天罰	name	menu	prayerTab
@@ -101,7 +101,7 @@ Piety	敬神	name	menu	prayerTab
 Ultimate Strength	究極の力	name	menu	prayerTab
 Improved Reflexes	向上した反射神経	name	menu	prayerTab
 Burst of Strength	力の爆発	name	menu	prayerTab
-Mystic Lore	神秘の伝承	name	menu	prayerTab
+Mystic Lore	神秘的な伝承	name	menu	prayerTab
 Augury	前兆	name	menu	prayerTab
 Hawk Eye	タカの目	name	menu	prayerTab
 Chivalry	騎士道	name	menu	prayerTab

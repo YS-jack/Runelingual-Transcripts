@@ -1380,7 +1380,7 @@ Thick Skin	厚い肌	interface	generalUI	skillGuide
 Burst of Strength	力の爆発	interface	generalUI	skillGuide
 Clarity of Thought	明確な思考	interface	generalUI	skillGuide
 Sharp Eye	鋭い目	interface	generalUI	skillGuide
-Mystic Will	神秘の意思	interface	generalUI	skillGuide
+Mystic Will	神秘的な意思	interface	generalUI	skillGuide
 Rock Skin	岩の肌	interface	generalUI	skillGuide
 Superhuman Strength	超人的な力	interface	generalUI	skillGuide
 Improved Reflexes	向上した反射神経	interface	generalUI	skillGuide
@@ -1388,17 +1388,17 @@ Rapid Restore	急激な再生	interface	generalUI	skillGuide
 Rapid Heal	急激な回復	interface	generalUI	skillGuide
 Protect Item	アイテム保護	interface	generalUI	skillGuide
 Hawk Eye	タカの目	interface	generalUI	skillGuide
-Mystic Lore	神秘の伝承	interface	generalUI	skillGuide
+Mystic Lore	神秘的な伝承	interface	generalUI	skillGuide
 Steel Skin	鋼の肌	interface	generalUI	skillGuide
 Ultimate Strength	究極の力	interface	generalUI	skillGuide
 Incredible Reflexes	とてつもない反射神経	interface	generalUI	skillGuide
-Protect from Magic	魔法の防御	interface	generalUI	skillGuide
-Protect from Missiles	発射体の防御	interface	generalUI	skillGuide
+Protect from Magic	魔法防御	interface	generalUI	skillGuide
+Protect from Missiles	発射体防御	interface	generalUI	skillGuide
 Protect from Melee	近接の加護	interface	generalUI	skillGuide
 Eagle Eye	ワシの目	interface	generalUI	skillGuide
 Mystic Might	神秘の威力	interface	generalUI	skillGuide
 Members: Retribution	会員：天罰	interface	generalUI	skillGuide
-Members: Redemption	会員：しょく罪	interface	generalUI	skillGuide
+Members: Redemption	会員：贖罪	interface	generalUI	skillGuide
 Members: Smite	会員：懲罰	interface	generalUI	skillGuide
 Members: Preserve	会員：温存	interface	generalUI	skillGuide
 Members: Chivalry (with <Num0> Defence, after King's Ransom)	会員：騎士道（守備力<Num0>と「王の身代金」後）	interface	generalUI	skillGuide
@@ -3329,7 +3329,7 @@ Saradomin's Lightning: Call upon Saradomin's power to perform an attack that inf
 Saradomin's Lightning: Call upon Saradomin's power to perform an attack with <Num0>% higher max hit. (<Num1>%)	サラドミンの雷：サラドミンの力を呼び起こし、最大ダメージ+<Num0>%の攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
 Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit. (<Num2>%)	粉砕：１ヒットだけ与ダメージ+<Num0>%と命中率+<Num1>%上昇。(<Num2>%)	interface	mainTabs	combatOptionsTab
 Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit, treats your target's defence as if it was reduced to <Num2>%. (<Num3>%)	粉砕：１ヒットだけ与ダメージ+<Num0>%と命中率+<Num1>%上昇、その時だけ敵の守備力を<Num2>%低下(<Num3>%)	interface	mainTabs	combatOptionsTab
-Favour of the War God: Deal an attack which hits through Protect from Melee and siphons Prayer points equal to the damage dealt. (<Num0>%)	戦神の恩恵： 近接の防御を通して命中する攻撃を与え、与えたダメージ分のPrayer pointsを吸い上げる。(<Num0>%)	interface	mainTabs	combatOptionsTab
+Favour of the War God: Deal an attack which hits through Protect from Melee and siphons Prayer points equal to the damage dealt. (<Num0>%)	戦神の恩恵： 近接防御を通して命中する攻撃を与え、与えたダメージ分のPrayer pointsを吸い上げる。(<Num0>%)	interface	mainTabs	combatOptionsTab
 Impale: Deal an attack with <Num0>% increased Attack and Strength, but with a slower speed. (<Num1>%)	インペイル： 攻撃力と腕力を<Num0>%増加させた攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
 Quick Smash: Deal an extra attack instantly. (<Num0>%)	クイックスマッシュ： 即座に追加攻撃する。(<Num0>%)	interface	mainTabs	combatOptionsTab
 Energy Drain: Deal an attack with <Num0>% increased accuracy that siphons <Num1>% of your target's run energy. (<Num2>%)	エナジードレイン： 命中率が<Num0>%増加した攻撃を与え、対象の走力を<Num1>%吸い取る。(<Num2>%)	interface	mainTabs	combatOptionsTab
@@ -3347,7 +3347,7 @@ Toxic Siphon: Deal an attack with <Num0>% increased accuracy that inflicts <Num1
 Smash: Deal an attack that inflicts <Num0>% more damage and lowers your target's Defence level by <Num1>%. (<Num2>%)	スマッシュ：与ダメージ+<Num0>%で攻撃し、対象の守備力を<Num1>%低下。(<Num2>%)	interface	mainTabs	combatOptionsTab
 Slice and Dice: Hit <Num0> times in quick succession, with great accuracy. (<Num1>%)	スライス・アンド・ダイス：命中率の高い斬撃を<Num0>回する。（<Num1>%)	interface	mainTabs	combatOptionsTab
 Concentrated Shot: Deal an attack with <Num0>% increased accuracy and damage, but takes an additional <Num1> seconds to fire. (<Num2>%)	集中攻撃：命中率とダメージが<Num0>%増加した攻撃を与えるが、発射までに追加で<Num1>秒かかる。(<Num2>%)	interface	mainTabs	combatOptionsTab
-Wild Stab: Deal an attack which hits through Protect from Melee with <Num0>% increased accuracy and damage. (<Num1>%)	ワイルド・スタブ：命中率とダメージが<Num0>%増加した攻撃を「近接の防御」を通して与える。（<Num1>%)	interface	mainTabs	combatOptionsTab
+Wild Stab: Deal an attack which hits through Protect from Melee with <Num0>% increased accuracy and damage. (<Num1>%)	ワイルド・スタブ：命中率とダメージが<Num0>%増加した攻撃を「近接防御」を通して与える。（<Num1>%)	interface	mainTabs	combatOptionsTab
 Momentum Throw: Deal a fast attack with <Num0>% improved accuracy. (<Num1>%)	モーメンタムスロー：命中率+<Num0>%の素早い攻撃をする。（<Num1>%)	interface	mainTabs	combatOptionsTab
 Fishstabber: Increase your Fishing level by <Num0>. (<Num1>%)	魚刺し：釣りレベルを<Num0>上げる。（<Num1>%)	interface	mainTabs	combatOptionsTab
 Shield Bash: Hit surrounding targets within a <Num0>x<Num1> area with <Num2>% increased accuracy. (<Num3>%)	シールドバッシュ： <Num0>x<Num1>の範囲内の敵に対して命中率+<Num2>%の攻撃をする。(<Num3>%)	interface	mainTabs	combatOptionsTab
@@ -3403,7 +3403,7 @@ Category: Gun	カテゴリ：銃	interface	mainTabs	combatOptionsTab
 Category: Bladed Staff	カテゴリ：刃付き杖	interface	mainTabs	combatOptionsTab
 Category: Salamander	カテゴリ：サラマンダ	interface	mainTabs	combatOptionsTab
 Category: Multi-style	カテゴリ：多スタイル	interface	mainTabs	combatOptionsTab
-Total level: <Num0>	合計レベル：<Num0>	interface	mainTabs	skillsTab
+Total level: <Num0>	合計レベル<Num0>	interface	mainTabs	skillsTab
 Attack XP:	攻撃力XP：	interface	mainTabs	skillsTab
 Hitpoints XP:	体力XP：	interface	mainTabs	skillsTab
 Mining XP:	採掘XP：	interface	mainTabs	skillsTab
@@ -3473,8 +3473,8 @@ Time Played: <colNum0><Num0> minutes	プレイ時間：<colNum0><Num0>分	interf
 Time Played: <colNum0><Num0> minute	プレイ時間：<colNum0><Num0>分	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0>a minute	プレイ時間：<colNum0>1分	interface	mainTabs	characterSummaryTab
 Quest List	クエスト一覧	interface	mainTabs	questListTab
-Completed: <Num0>/<Num1>	完了数：<asis><Num0></asis>/<asis><Num1></asis>	interface	mainTabs	questListTab
-Quest Points: <Num0>/<Num1>	クエストポイント：<asis><Num0></asis>/<asis><Num1></asis>	interface	mainTabs	questListTab
+Completed: <Num0>/<Num1>	完了数： <asis><Num0>/<Num1></asis>	interface	mainTabs	questListTab
+Quest Points: <Num0>/<Num1>	クエストPt： <asis><Num0>/<Num1></asis>	interface	mainTabs	questListTab
 Achievement Diaries	達成記録	interface	mainTabs	achievementDiaryTab
 Ardougne	アルドイン	interface	mainTabs	achievementDiaryTab
 Desert	砂漠	interface	mainTabs	achievementDiaryTab
@@ -3489,3 +3489,39 @@ Varrock	ヴァロック	interface	mainTabs	achievementDiaryTab
 Western Provinces	西部地方	interface	mainTabs	achievementDiaryTab
 Total XP: <colNum0><Num0></col>	合計XP： <colNum0><asis><Num0></asis></col>	interface	mainTabs	characterSummaryTab
 Wilderness	ウィルダネス	interface	mainTabs	achievementDiaryTab
+Filters	フィルター	interface	mainTabs	prayerTab
+Prayer Filters	祈りのフィルター	interface	mainTabs	prayerTab
+Show lower tiers of tiered prayers	下位互換の祈りを表示	interface	mainTabs	prayerTab
+Show tiered prayers even if multi-skill prayers are available	複数スキル対称の祈りに含まれる単一スキルの祈りを表示	interface	mainTabs	prayerTab
+Show <colNum0>Rapid Healing</col> prayers	<colNum0>回復速系の祈り</col>を表示	interface	mainTabs	prayerTab
+Show prayers you lack the Prayer level to activate	レベル不足な祈りを表示	interface	mainTabs	prayerTab
+Show prayers you lack the requirements to activate	条件未達成の祈りを表示	interface	mainTabs	prayerTab
+Level <Num0><br>Protect Item<br>Keep <Num1> extra item if you die.	レベル<Num0><br>アイテム保護<br>死亡時に保護するアイテムが+<Num1>	interface	mainTabs	prayerTab
+Level <Num0><br>Redemption<br>Heals you when damaged<br>and health falls<br>below <Num1>%.	レベル<Num0><br>贖罪<br>被ダメージ後、<br>体力が<Num1>%<br>以下なら回復する	interface	mainTabs	prayerTab
+Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.	レベル<Num0><br>急激な回復<br>体力回復速度が<br><Num1>倍になる	interface	mainTabs	prayerTab
+Level <Num0><br>Sharp Eye<br>Increases your Ranging by <Num1>%.	レベル<Num0><br>鋭い目<br>遠射力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Will<br>Increases your magical attack and defence by <Num1>%.	レベル<Num0><br>神秘的な意思<br>魔法攻撃・守備力を+<Num1>%	interface	mainTabs	prayerTab
+Level <Num0><br>Rapid Restore<br><Num1>x restore rate for all stats<br>except Hitpoints and Prayer.	レベル<Num0><br>急激な再生<br>体力と祈力以外の<br>回復速度が<Num1>倍	interface	mainTabs	prayerTab
+Level <Num0><br>Steel Skin<br>Increases your defence by <Num1>%.	レベル<Num0><br>鋼の肌<br>守備力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Clarity of Thought<br>Increases your attack by <Num1>%.	レベル<Num0><br>明確な思考<br>攻撃力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Lore<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.	レベル<Num0><br>神秘的な伝承<br>魔法攻撃・守備力を+<Num1>%、魔法ダメージ+<Num2>%	interface	mainTabs	prayerTab
+Level <Num0><br>Thick Skin<br>Increases your defence by <Num1>%.	レベル<Num0><br>厚い肌<br>守備力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Retribution<br>Inflicts damage to nearby<br>targets if you die.	レベル<Num0><br>天罰<br>死亡時、付近の対象に<br>ダメージを与える	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Magic<br>Protection from magical attacks.	レベル<Num0><br>魔法防御<br>魔法攻撃から身を守る	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Missiles<br>Protection from ranged attacks.	レベル<Num0><br>発射体防御<br>遠射攻撃から身を守る	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Melee<br>Protection from close attacks.	レベル<Num0><br>近接防御<br>近接攻撃から身を守る	interface	mainTabs	prayerTab
+Level <Num0><br>Ultimate Strength<br>Increases your strength by <Num1>%.	レベル<Num0><br>究極の力<br>腕力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Improved Reflexes<br>Increases your attack by <Num1>%.	レベル<Num0><br>向上した反射神経<br>攻撃力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Piety<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.	レベル<Num0><br>敬神<br>守備力+<Num1>%、腕力+<Num2>%、攻撃力+<Num3>%	interface	mainTabs	prayerTab
+Level <Num0><br>Eagle Eye<br>Increases your Ranging by <Num1>%.	レベル<Num0><br>ワシの目<br>遠射力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Might<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.	レベル<Num0><br>神秘の威力<br>魔法攻撃・守備力を+<Num1>%、魔法ダメージ+<Num2>%	interface	mainTabs	prayerTab
+Level <Num0><br>Incredible Reflexes<br>Increases your attack by <Num1>%.	レベル<Num0><br>とてつもない反射神経<br>攻撃力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Rock Skin<br>Increases your defence by <Num1>%.	レベル<Num0><br>岩の肌<br>守備力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Hawk Eye<br>Increases your Ranging by <Num1>%.	レベル<Num0><br>タカの目<br>遠射力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Burst of Strength<br>Increases your strength by <Num1>%.	レベル<Num0><br>力の爆発<br>腕力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Smite<br><Num1>/<Num2> of damage dealt is<br>also removed from<br>opponent's Prayer.	レベル<Num0><br>懲罰<br>与ダメージの<Num1>/<Num2>の値、<br>相手の祈力を<br>低下させる	interface	mainTabs	prayerTab
+Level <Num0><br>Preserve<br>Boosted stats last <Num1>% longer.	レベル<Num0><br>温存<br>ステータス上昇時間が+<Num1>%	interface	mainTabs	prayerTab
+Level <Num0><br>Augury<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>% and your defence by <Num3>%.	レベル<Num0><br>前兆<br>魔法攻撃・守備力を+<Num1>%、魔法ダメージ+<Num2>%、守備力+<Num3>%	interface	mainTabs	prayerTab
+Level <Num0><br>Rigour<br>Increases your ranged attack by <Num1>% and damage by <Num2>%, and your defence by <Num3>%.	レベル<Num0><br>困苦<br>遠射攻撃力+<Num1>%、ダメージ+<Num2>%、守備力+<Num3>%	interface	mainTabs	prayerTab
+Level <Num0><br>Superhuman Strength<br>Increases your strength by <Num1>%.	レベル<Num0><br>超人的な力<br>腕力を<Num1>%上げる	interface	mainTabs	prayerTab
+Level <Num0><br>Chivalry<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.	レベル<Num0><br>騎士道<br>守備力+<Num1>%、腕力+<Num2>%、攻撃力+<Num3>%	interface	mainTabs	prayerTab
