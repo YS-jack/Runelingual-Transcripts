@@ -25605,7 +25605,7 @@ source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118414"><xliff:source>Western Provinces</xliff:source><xliff:target state="translated">西部地方</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118415"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">合計XP：&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118415"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">合計&lt;asis&gt;XP&lt;/asis&gt;XP：&lt;asis&gt;&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

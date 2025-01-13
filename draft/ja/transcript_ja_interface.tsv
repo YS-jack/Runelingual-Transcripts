@@ -3487,4 +3487,4 @@ Lumbridge & Draynor	ランブリッジとドレイナー	interface	mainTabs	achi
 Morytania	モリタニア	interface	mainTabs	achievementDiaryTab
 Varrock	ヴァロック	interface	mainTabs	achievementDiaryTab
 Western Provinces	西部地方	interface	mainTabs	achievementDiaryTab
-Total XP: <colNum0><Num0></col>	合計XP：<colNum0><Num0></col>	interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0></col>	合計<asis>XP</asis>XP：<asis><colNum0><Num0></col></asis>	interface	mainTabs	characterSummaryTab
