@@ -1261,11 +1261,11 @@ Open Activity Adviser	推奨コンテンツを確認	actions	menu
 <colNum0>Set chat mode:</col> Public (/@p)	<colNum0>チャット切り替え:</col> 公共(/@p)	actions	menu	
 Clear history	履歴削除	actions	menu	
 Switch tab	タブ切り替え	actions	menu	
-Configure filter	フィルタ設定	actions	menu	
+Configure filter	絞込設定	actions	menu	
 <colNum0>Game:</col> Clear history	<colNum0>ゲーム:</col> 履歴削除	actions	menu	
-<colNum0>Game:</col> Filter	<colNum0>ゲーム:</col> フィルタ	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>ゲーム:</col> 絞込	actions	menu	
 Setup your autochat	自動チャット設定	actions	menu	
-Filter public chat	公共チャットをフィルタ	actions	menu	
+Filter public chat	公共チャットをフィルター	actions	menu	
 <colNum0>Public:</col> Clear history	<colNum0>公共:</col> 履歴削除	actions	menu	
 <colNum0>Public:</col> Hide	<colNum0>公共:</col> 隠す	actions	menu	
 <colNum0>Public:</col> Show none	<colNum0>公共:</col> 非表示	actions	menu	
@@ -1296,7 +1296,7 @@ Achievement Diaries	達成記録	actions	menu
 Inventory	カバン	actions	menu	
 Worn Equipment	装備品	actions	menu	
 Enable prayer reordering	祈りの再配置有効	actions	menu	
-Disable prayer filtering	祈りのフィルタ有効	actions	menu	
+Disable prayer filtering	祈りのフィルター有効	actions	menu	
 Prayer	祈り	actions	menu	
 Enable spell reordering	魔法の再配置有効	actions	menu	
 Disable spell filtering	魔法の再配置無効	actions	menu	
@@ -1404,9 +1404,9 @@ View guide prices	参考価格を表示	actions	menu	wornEquipmentTab
 View items kept on death	死亡時に保持するアイテムを表示	actions	menu	wornEquipmentTab
 Call follower	従者を呼ぶ	actions	menu	wornEquipmentTab
 Disable prayer reordering	祈りの再配置無効	actions	menu	
-Enable prayer filtering	祈りのフィルタ有効	actions	menu	
+Enable prayer filtering	祈りのフィルター有効	actions	menu	
 Disable spell reordering	魔法の再配置無効	actions	menu	
-Enable spell filtering	魔法のフィルタ有効	actions	menu	
+Enable spell filtering	魔法のフィルター有効	actions	menu	
 Show notifications	通知を表示	actions	menu	
 Add Note	メモに追加	actions	menu	
 Delete	削除	actions	menu	friendsTab

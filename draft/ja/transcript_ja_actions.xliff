@@ -9893,19 +9893,19 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109789"><xliff:source>Switch tab</xliff:source><xliff:target state="translated">タブ切り替え</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Configure filter</xliff:source><xliff:target state="translated">フィルタ設定</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109790"><xliff:source>Configure filter</xliff:source><xliff:target state="translated">絞込設定</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109791"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; フィルタ</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109792"><xliff:source>&lt;colNum0&gt;Game:&lt;/col&gt; Filter</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゲーム:&lt;/col&gt; 絞込</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109793"><xliff:source>Setup your autochat</xliff:source><xliff:target state="translated">自動チャット設定</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Filter public chat</xliff:source><xliff:target state="translated">公共チャットをフィルタ</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109794"><xliff:source>Filter public chat</xliff:source><xliff:target state="translated">公共チャットをフィルター</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109795"><xliff:source>&lt;colNum0&gt;Public:&lt;/col&gt; Clear history</xliff:source><xliff:target state="translated">&lt;colNum0&gt;公共:&lt;/col&gt; 履歴削除</xliff:target><xliff:note>category: actions
@@ -9998,7 +9998,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109824"><xliff:source>Enable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Disable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109825"><xliff:source>Disable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Prayer</xliff:source><xliff:target state="translated">祈り</xliff:target><xliff:note>category: actions
@@ -10322,13 +10322,13 @@ source: wornEquipmentTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109932"><xliff:source>Disable prayer reordering</xliff:source><xliff:target state="translated">祈りの再配置無効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルタ有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Disable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルタ有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Show notifications</xliff:source><xliff:target state="translated">通知を表示</xliff:target><xliff:note>category: actions

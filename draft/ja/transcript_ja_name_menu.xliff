@@ -681,7 +681,7 @@ sub_category: menu
 source: groupTab
 wiki_url: None</xliff:note>
       </xliff:trans-unit>
-    <xliff:trans-unit id="112669"><xliff:source>Redemption</xliff:source><xliff:target state="translated">贖罪</xliff:target><xliff:note>category: name
+    <xliff:trans-unit id="112669"><xliff:source>Redemption</xliff:source><xliff:target state="translated">しょく罪</xliff:target><xliff:note>category: name
 sub_category: menu
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112670"><xliff:source>Protect Item</xliff:source><xliff:target state="translated">アイテム保護</xliff:target><xliff:note>category: name

@@ -11195,7 +11195,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116326">
         <xliff:source>Members: Redemption</xliff:source>
-        <xliff:target state="translated">会員：贖罪</xliff:target>
+        <xliff:target state="translated">会員：しょく罪</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -25612,10 +25612,10 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118416"><xli
 sub_category: mainTabs
 source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit>
-<xliff:trans-unit id="118417"><xliff:source>Filters</xliff:source><xliff:target state="translated">フィルタ</xliff:target><xliff:note>category: interface
+<xliff:trans-unit id="118417"><xliff:source>Filters</xliff:source><xliff:target state="translated">絞込</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118418"><xliff:source>Prayer Filters</xliff:source><xliff:target state="translated">祈りのフィルター</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118418"><xliff:source>Prayer Filters</xliff:source><xliff:target state="translated">祈りの絞込</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118419"><xliff:source>Show lower tiers of tiered prayers</xliff:source><xliff:target state="translated">下位互換の祈りを表示</xliff:target><xliff:note>category: interface
@@ -25636,7 +25636,7 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118424"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect Item&lt;br&gt;Keep &lt;Num1&gt; extra item if you die.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;アイテム保護&lt;br&gt;死亡時に保護するアイテムが&lt;br&gt;&lt;Num1&gt;個増える</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118425"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Redemption&lt;br&gt;Heals you when damaged&lt;br&gt;and health falls&lt;br&gt;below &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;贖罪&lt;br&gt;被ダメージ後、&lt;br&gt;体力が&lt;Num1&gt;%&lt;br&gt;以下なら回復する</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118425"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Redemption&lt;br&gt;Heals you when damaged&lt;br&gt;and health falls&lt;br&gt;below &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;しょく罪&lt;br&gt;ダメージを受けて体力が&lt;br&gt;&lt;Num1&gt;%以下まで下がった&lt;br&gt;場合に体力を回復する</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118426"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Heal&lt;br&gt;&lt;Num1&gt;x restore rate for&lt;br&gt;Hitpoints stat.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;急激な回復&lt;br&gt;体力回復速度が&lt;br&gt;&lt;Num1&gt;倍になる</xliff:target><xliff:note>category: interface
@@ -25657,7 +25657,7 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118431"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Clarity of Thought&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;明確な思考&lt;br&gt;攻撃力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118432"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Lore&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;神秘的な伝承&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、魔法ダメージ+&lt;Num2&gt;%</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118432"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Lore&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;神秘的な伝承&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、&lt;br&gt;魔法ダメージ+&lt;Num2&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118433"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Thick Skin&lt;br&gt;Increases your defence by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;厚い肌&lt;br&gt;守備力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
@@ -25681,13 +25681,13 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118439"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Improved Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;向上した反射神経&lt;br&gt;攻撃力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118440"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Piety&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;敬神&lt;br&gt;守備力+&lt;Num1&gt;%、腕力+&lt;Num2&gt;%、攻撃力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118440"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Piety&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;敬神&lt;br&gt;守備力+&lt;Num1&gt;%、腕力+&lt;Num2&gt;%、&lt;br&gt;攻撃力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118441"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Eagle Eye&lt;br&gt;Increases your Ranging by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;ワシの目&lt;br&gt;遠射力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118442"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Might&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;神秘の威力&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、魔法ダメージ+&lt;Num2&gt;%</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118442"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Might&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;神秘の威力&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、&lt;br&gt;魔法ダメージ+&lt;Num2&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118443"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Incredible Reflexes&lt;br&gt;Increases your attack by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;とてつもない反射神経&lt;br&gt;攻撃力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
@@ -25702,22 +25702,22 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118446"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Burst of Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;力の爆発&lt;br&gt;腕力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118447"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Smite&lt;br&gt;&lt;Num1&gt;/&lt;Num2&gt; of damage dealt is&lt;br&gt;also removed from&lt;br&gt;opponent's Prayer.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;懲罰&lt;br&gt;与ダメージの&lt;Num1&gt;/&lt;Num2&gt;の値、&lt;br&gt;相手の祈力を&lt;br&gt;低下させる</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118447"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Smite&lt;br&gt;&lt;Num1&gt;/&lt;Num2&gt; of damage dealt is&lt;br&gt;also removed from&lt;br&gt;opponent's Prayer.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;ちょう罰&lt;br&gt;与ダメージの&lt;Num1&gt;/&lt;Num2&gt;の値だけ&lt;br&gt;相手の祈力を低下させる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118448"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Preserve&lt;br&gt;Boosted stats last &lt;Num1&gt;% longer.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;温存&lt;br&gt;ステータス上昇時間が+&lt;Num1&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118449"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Augury&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;% and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;前兆&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、魔法ダメージ+&lt;Num2&gt;%、守備力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118449"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Augury&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;% and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;前兆&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、&lt;br&gt;魔法ダメージ+&lt;Num2&gt;%、&lt;br&gt;守備力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118450"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rigour&lt;br&gt;Increases your ranged attack by &lt;Num1&gt;% and damage by &lt;Num2&gt;%, and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;困苦&lt;br&gt;遠射攻撃力+&lt;Num1&gt;%、ダメージ+&lt;Num2&gt;%、守備力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118450"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rigour&lt;br&gt;Increases your ranged attack by &lt;Num1&gt;% and damage by &lt;Num2&gt;%, and your defence by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;困苦&lt;br&gt;遠射攻撃力+&lt;Num1&gt;%、&lt;br&gt;ダメージ+&lt;Num2&gt;%、&lt;br&gt;守備力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118451"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Superhuman Strength&lt;br&gt;Increases your strength by &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;超人的な力&lt;br&gt;腕力を&lt;Num1&gt;%上げる</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118452"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;騎士道&lt;br&gt;守備力+&lt;Num1&gt;%、腕力+&lt;Num2&gt;%、攻撃力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118452"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;騎士道&lt;br&gt;守備力+&lt;Num1&gt;%、腕力+&lt;Num2&gt;%、&lt;br&gt;攻撃力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
