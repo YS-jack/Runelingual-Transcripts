@@ -33,26 +33,6 @@ def getBGColor(filename):
     return BGCOLOR[0], COLORORDER[0]
 
 
-def getCharName(char):
-    if char == '\\':
-        return 'back_slash'
-    if char == '/':
-        return 'forward_slash'
-    if char == ':':
-        return 'colon'
-    if char == '*':
-        return 'star'
-    if char == '?':
-        return 'question'
-    if char == '"':
-        return 'double-quotation'
-    if char == '<':
-        return 'greaterthan'
-    if char == '>':
-        return 'lessthan'
-    if char == '|':
-        return 'or'
-
 def read_file_to_list(file_path):
     char_list = []
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -82,9 +62,9 @@ def setGoodFontSize(char):
         width = math.floor(FONTSIZE*0.65)
     elif char in ('f', 'r','｝','｛','＾'):
         width = math.floor(FONTSIZE*0.6)
-    elif char in ('1','t', 'J', 'I','"','(',')','[',']', '{','}','\\','_','-','、','。','「','」','*','/','~','”','^','`'):
+    elif char in ('1','t', 'J', 'I','"','(',')','[',']', '{','}','\\','_','-','、','。','「','」','*','/','~','”','^','`','・'):
         width = math.floor(FONTSIZE*0.5)
-    elif char in (' ', 'i', '|','!', '　', '\'',':',';', 'l','j','’','（','）','：','；','.',',','|'):
+    elif char in (' ', 'i', '|','!', '　', '\'',':',';', 'l','j','’','（','）','：','；','.',',','|','…'):
         width = math.ceil(FONTSIZE*0.3)
     return width
 # review :8217 8221
