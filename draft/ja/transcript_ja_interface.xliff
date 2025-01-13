@@ -25612,7 +25612,7 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118416"><xli
 sub_category: mainTabs
 source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit>
-<xliff:trans-unit id="118417"><xliff:source>Filters</xliff:source><xliff:target state="translated">フィルター</xliff:target><xliff:note>category: interface
+<xliff:trans-unit id="118417"><xliff:source>Filters</xliff:source><xliff:target state="translated">フィルタ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118418"><xliff:source>Prayer Filters</xliff:source><xliff:target state="translated">祈りのフィルター</xliff:target><xliff:note>category: interface
@@ -25621,7 +25621,7 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118419"><xliff:source>Show lower tiers of tiered prayers</xliff:source><xliff:target state="translated">下位互換の祈りを表示</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118420"><xliff:source>Show tiered prayers even if multi-skill prayers are available</xliff:source><xliff:target state="translated">複数スキル対称の祈りに含まれる単一スキルの祈りを表示</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118420"><xliff:source>Show tiered prayers even if multi-skill prayers are available</xliff:source><xliff:target state="translated">複数スキル対称の祈りに効果が含まれる祈りを表示</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118421"><xliff:source>Show &lt;colNum0&gt;Rapid Healing&lt;/col&gt; prayers</xliff:source><xliff:target state="translated">&lt;colNum0&gt;回復速系の祈り&lt;/col&gt;を表示</xliff:target><xliff:note>category: interface
@@ -25633,7 +25633,7 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118423"><xliff:source>Show prayers you lack the requirements to activate</xliff:source><xliff:target state="translated">条件未達成の祈りを表示</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118424"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect Item&lt;br&gt;Keep &lt;Num1&gt; extra item if you die.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;アイテム保護&lt;br&gt;死亡時に保護するアイテムが+&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118424"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect Item&lt;br&gt;Keep &lt;Num1&gt; extra item if you die.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;アイテム保護&lt;br&gt;死亡時に保護するアイテムが&lt;br&gt;&lt;Num1&gt;個増える</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118425"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Redemption&lt;br&gt;Heals you when damaged&lt;br&gt;and health falls&lt;br&gt;below &lt;Num1&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;贖罪&lt;br&gt;被ダメージ後、&lt;br&gt;体力が&lt;Num1&gt;%&lt;br&gt;以下なら回復する</xliff:target><xliff:note>category: interface

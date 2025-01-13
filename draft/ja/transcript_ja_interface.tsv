@@ -3489,14 +3489,14 @@ Varrock	ヴァロック	interface	mainTabs	achievementDiaryTab
 Western Provinces	西部地方	interface	mainTabs	achievementDiaryTab
 Total XP: <colNum0><Num0></col>	合計XP： <colNum0><asis><Num0></asis></col>	interface	mainTabs	characterSummaryTab
 Wilderness	ウィルダネス	interface	mainTabs	achievementDiaryTab
-Filters	フィルター	interface	mainTabs	prayerTab
+Filters	フィルタ	interface	mainTabs	prayerTab
 Prayer Filters	祈りのフィルター	interface	mainTabs	prayerTab
 Show lower tiers of tiered prayers	下位互換の祈りを表示	interface	mainTabs	prayerTab
-Show tiered prayers even if multi-skill prayers are available	複数スキル対称の祈りに含まれる単一スキルの祈りを表示	interface	mainTabs	prayerTab
+Show tiered prayers even if multi-skill prayers are available	複数スキル対称の祈りに効果が含まれる祈りを表示	interface	mainTabs	prayerTab
 Show <colNum0>Rapid Healing</col> prayers	<colNum0>回復速系の祈り</col>を表示	interface	mainTabs	prayerTab
 Show prayers you lack the Prayer level to activate	レベル不足な祈りを表示	interface	mainTabs	prayerTab
 Show prayers you lack the requirements to activate	条件未達成の祈りを表示	interface	mainTabs	prayerTab
-Level <Num0><br>Protect Item<br>Keep <Num1> extra item if you die.	レベル<Num0><br>アイテム保護<br>死亡時に保護するアイテムが+<Num1>	interface	mainTabs	prayerTab
+Level <Num0><br>Protect Item<br>Keep <Num1> extra item if you die.	レベル<Num0><br>アイテム保護<br>死亡時に保護するアイテムが<br><Num1>個増える	interface	mainTabs	prayerTab
 Level <Num0><br>Redemption<br>Heals you when damaged<br>and health falls<br>below <Num1>%.	レベル<Num0><br>贖罪<br>被ダメージ後、<br>体力が<Num1>%<br>以下なら回復する	interface	mainTabs	prayerTab
 Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.	レベル<Num0><br>急激な回復<br>体力回復速度が<br><Num1>倍になる	interface	mainTabs	prayerTab
 Level <Num0><br>Sharp Eye<br>Increases your Ranging by <Num1>%.	レベル<Num0><br>鋭い目<br>遠射力を<Num1>%上げる	interface	mainTabs	prayerTab
