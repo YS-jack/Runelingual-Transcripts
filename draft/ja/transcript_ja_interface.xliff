@@ -25509,19 +25509,19 @@ source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118382"><xliff:source>Total Level:</xliff:source><xliff:target state="translated">合計レベル：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118383"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;,&lt;Num1&gt;,&lt;Num2&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">合計経験値：&lt;colNum0&gt;&lt;Num0&gt;,&lt;Num1&gt;,&lt;Num2&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118383"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;,&lt;Num1&gt;,&lt;Num2&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">合計XP：&lt;colNum0&gt;&lt;Num0&gt;,&lt;Num1&gt;,&lt;Num2&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118384"><xliff:source>Quests Completed:</xliff:source><xliff:target state="translated">完了数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118384"><xliff:source>Quests Completed:</xliff:source><xliff:target state="translated">完了クエスト数：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118385"><xliff:source>Achievements Completed:</xliff:source><xliff:target state="translated">達成数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118385"><xliff:source>Achievements Completed:</xliff:source><xliff:target state="translated">達成記録の達成数：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118386"><xliff:source>Combat Tasks Completed:</xliff:source><xliff:target state="translated">戦闘実績の達成数：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118387"><xliff:source>Collections Logged:</xliff:source><xliff:target state="translated">取得アイテム数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118387"><xliff:source>Collections Logged:</xliff:source><xliff:target state="translated">固有アイテム取得数：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118388"><xliff:source>Time Played: Click to reveal.</xliff:source><xliff:target state="translated">プレイ時間：クリックで開示</xliff:target><xliff:note>category: interface
@@ -25605,7 +25605,7 @@ source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118414"><xliff:source>Western Provinces</xliff:source><xliff:target state="translated">西部地方</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118415"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">合計経験値：&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118415"><xliff:source>Total XP: &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">合計XP：&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

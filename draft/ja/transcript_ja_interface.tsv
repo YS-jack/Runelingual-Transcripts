@@ -3455,11 +3455,11 @@ Next level at:	次レベル開始：	interface	mainTabs	skillsTab
 Remaining XP:	残りXP：	interface	mainTabs	skillsTab
 Combat Level:	戦闘レベル：	interface	mainTabs	characterSummaryTab
 Total Level:	合計レベル：	interface	mainTabs	characterSummaryTab
-Total XP: <colNum0><Num0>,<Num1>,<Num2></col>	合計経験値：<colNum0><Num0>,<Num1>,<Num2></col>	interface	mainTabs	characterSummaryTab
-Quests Completed:	完了数：	interface	mainTabs	characterSummaryTab
-Achievements Completed:	達成数：	interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0>,<Num1>,<Num2></col>	合計XP：<colNum0><Num0>,<Num1>,<Num2></col>	interface	mainTabs	characterSummaryTab
+Quests Completed:	完了クエスト数：	interface	mainTabs	characterSummaryTab
+Achievements Completed:	達成記録の達成数：	interface	mainTabs	characterSummaryTab
 Combat Tasks Completed:	戦闘実績の達成数：	interface	mainTabs	characterSummaryTab
-Collections Logged:	取得アイテム数：	interface	mainTabs	characterSummaryTab
+Collections Logged:	固有アイテム取得数：	interface	mainTabs	characterSummaryTab
 Time Played: Click to reveal.	プレイ時間：クリックで開示	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> days, <Num1> hours</col>	プレイ時間：<colNum0><Num0>日<Num1>時間</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> days, <Num1> hour</col>	プレイ時間：<colNum0><Num0>日<Num1>時間</col>	interface	mainTabs	characterSummaryTab
@@ -3487,4 +3487,4 @@ Lumbridge & Draynor	ランブリッジとドレイナー	interface	mainTabs	achi
 Morytania	モリタニア	interface	mainTabs	achievementDiaryTab
 Varrock	ヴァロック	interface	mainTabs	achievementDiaryTab
 Western Provinces	西部地方	interface	mainTabs	achievementDiaryTab
-Total XP: <colNum0><Num0></col>	合計経験値：<colNum0><Num0></col>	interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0></col>	合計XP：<colNum0><Num0></col>	interface	mainTabs	characterSummaryTab
