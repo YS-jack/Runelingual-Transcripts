@@ -25563,10 +25563,10 @@ source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118400"><xliff:source>Quest List</xliff:source><xliff:target state="translated">クエスト一覧</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: questListTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118401"><xliff:source>Completed: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target state="translated">完了数：&lt;Num0&gt;/&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118401"><xliff:source>Completed: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target state="translated">完了数：&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;/&lt;asis&gt;&lt;Num1&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: questListTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118402"><xliff:source>Quest Points: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target state="translated">クエストポイント：&lt;Num0&gt;/&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118402"><xliff:source>Quest Points: &lt;Num0&gt;/&lt;Num1&gt;</xliff:source><xliff:target state="translated">クエストポイント：&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;/&lt;asis&gt;&lt;Num1&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: questListTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118403"><xliff:source>Achievement Diaries</xliff:source><xliff:target state="translated">達成記録</xliff:target><xliff:note>category: interface
@@ -25593,7 +25593,7 @@ source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118410"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target state="translated">クーレンドとケボス</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: achievementDiaryTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118411"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target state="translated">ランブリッジとドレイナー</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118411"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target state="translated">ランブ…ドレイナー</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: achievementDiaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118412"><xliff:source>Morytania</xliff:source><xliff:target state="translated">モリタニア</xliff:target><xliff:note>category: interface
