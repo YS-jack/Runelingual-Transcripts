@@ -14243,7 +14243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116707">
         <xliff:source>Shadow rush</xliff:source>
-        <xliff:target state="translated">シャドー・ラッシュ</xliff:target>
+        <xliff:target state="translated">シャドウ・ラッシュ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -14291,7 +14291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116713">
         <xliff:source>Shadow burst</xliff:source>
-        <xliff:target state="translated">シャドー・バースト</xliff:target>
+        <xliff:target state="translated">シャドウ・バースト</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -14339,7 +14339,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116719">
         <xliff:source>Shadow blitz</xliff:source>
-        <xliff:target state="translated">シャドー・ブリッツ</xliff:target>
+        <xliff:target state="translated">シャドウ・ブリッツ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -14387,7 +14387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116725">
         <xliff:source>Shadow barrage</xliff:source>
-        <xliff:target state="translated">シャドー・バラージ</xliff:target>
+        <xliff:target state="translated">シャドウ・バラージ</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -25720,6 +25720,1047 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118452"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Chivalry&lt;br&gt;Increases your defence by &lt;Num1&gt;%, strength by &lt;Num2&gt;%, and attack by &lt;Num3&gt;%.</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;騎士道&lt;br&gt;守備力+&lt;Num1&gt;%、腕力+&lt;Num2&gt;%、&lt;br&gt;攻撃力+&lt;Num3&gt;%</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118453"><xliff:source>Filters</xliff:source><xliff:target state="translated">絞込</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118454"><xliff:source>Lumbridge Home Teleport</xliff:source><xliff:target state="translated">ランブリッジ帰還ワープ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118455"><xliff:source>Requires no runes - recharge time &lt;Num0&gt; mins. Warning: This spell takes a long time to cast and will be interrupted by combat.</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118456"><xliff:source>Level &lt;Num0&gt;: Wind Strike</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118457"><xliff:source>A basic Air missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118458"><xliff:source>Crossbow Bolt Enchantments</xliff:source><xliff:target state="translated">ボルトに魔法付与</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118459"><xliff:source>View the various crossbow bolt enchantment spells (&lt;Num0&gt;+ Magic required)</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118460"><xliff:source>Level &lt;Num0&gt;: Water Strike</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118461"><xliff:source>A basic Water missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118462"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target state="translated">宝石に魔法付与</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118463"><xliff:source>View the various jewellery enchantment spells (&lt;Num0&gt;+ Magic required)</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118464"><xliff:source>Level &lt;Num0&gt;: Earth Strike</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118465"><xliff:source>A basic Earth missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118466"><xliff:source>Level &lt;Num0&gt;: Weaken</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118467"><xliff:source>Reduces your opponent's strength by &lt;Num0&gt;%</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118468"><xliff:source>Level &lt;Num0&gt;: Low Level Alchemy</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118469"><xliff:source>Converts an item into gold</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118470"><xliff:source>Level &lt;Num0&gt;: Telekinetic Grab</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118471"><xliff:source>Take an item you can see but can't reach</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118472"><xliff:source>Level &lt;Num0&gt;: Bind</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118473"><xliff:source>Holds your opponent for &lt;Num0&gt; seconds</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118474"><xliff:source>Level &lt;Num0&gt;: Curse</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118475"><xliff:source>Reduces your opponent's defence by &lt;Num0&gt;%</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118476"><xliff:source>Level &lt;Num0&gt;: Wind Bolt</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118477"><xliff:source>A low level Air missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118478"><xliff:source>Level &lt;Num0&gt;: Bones to Bananas</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118479"><xliff:source>Changes held bones into bananas</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118480"><xliff:source>Level &lt;Num0&gt;: Fire Strike</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118481"><xliff:source>A basic Fire missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118482"><xliff:source>Level &lt;Num0&gt;: Water Bolt</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118483"><xliff:source>A low level Water missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118484"><xliff:source>Level &lt;Num0&gt;: Varrock Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118485"><xliff:source>Teleports you to Varrock</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118486"><xliff:source>Level &lt;Num0&gt;: Earth Bolt</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118487"><xliff:source>A low level Earth missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118488"><xliff:source>Level &lt;Num0&gt;: Lumbridge Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118489"><xliff:source>Teleports you to Lumbridge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118490"><xliff:source>Level &lt;Num0&gt;: Fire Bolt</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118491"><xliff:source>A low level Fire missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118492"><xliff:source>Level &lt;Num0&gt;: Falador Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118493"><xliff:source>Teleports you to Falador</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118494"><xliff:source>Level &lt;Num0&gt;: Crumble Undead</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118495"><xliff:source>Hits skeletons, ghosts, shades &amp; zombies hard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118496"><xliff:source>Level &lt;Num0&gt;: Iban Blast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118497"><xliff:source>Summons the wrath of Iban</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118498"><xliff:source>Level &lt;Num0&gt;: Kourend Castle Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118499"><xliff:source>Teleports you to Kourend Castle</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118500"><xliff:source>Level &lt;Num0&gt;: Water Blast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118501"><xliff:source>A medium level Water missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118502"><xliff:source>Level &lt;Num0&gt;: Camelot Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118503"><xliff:source>Teleports you to Camelot</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118504"><xliff:source>Level &lt;Num0&gt;: Superheat Item</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118505"><xliff:source>Smelt ore without a furnace</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118506"><xliff:source>Level &lt;Num0&gt;: Wind Blast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118507"><xliff:source>A medium level Air missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118508"><xliff:source>Level &lt;Num0&gt;: Teleport to House</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118509"><xliff:source>Teleports you to your house</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118510"><xliff:source>Level &lt;Num0&gt;: Snare</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118511"><xliff:source>Level &lt;Num0&gt;: Magic Dart</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118512"><xliff:source>A magic dart of slaying</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118513"><xliff:source>Level &lt;Num0&gt;: Ardougne Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118514"><xliff:source>Teleports you to Ardougne</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118515"><xliff:source>Level &lt;Num0&gt;: Earth Blast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118516"><xliff:source>A medium level Earth missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118517"><xliff:source>Level &lt;Num0&gt;: Civitas illa Fortis Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118518"><xliff:source>Teleports you to Civitas illa Fortis</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118519"><xliff:source>Level &lt;Num0&gt;: High Level Alchemy</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118520"><xliff:source>Converts an item into more gold</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118521"><xliff:source>Level &lt;Num0&gt;: Charge Water Orb</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118522"><xliff:source>Needs to be cast on a water obelisk</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118523"><xliff:source>Level &lt;Num0&gt;: Flames of Zamorak</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118524"><xliff:source>Summons the power of Zamorak</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118525"><xliff:source>Level &lt;Num0&gt;: Claws of Guthix</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118526"><xliff:source>Summons the power of Guthix</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118527"><xliff:source>Level &lt;Num0&gt;: Saradomin Strike</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118528"><xliff:source>Summons the power of Saradomin</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118529"><xliff:source>Level &lt;Num0&gt;: Bones to Peaches</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118530"><xliff:source>Turns Bones into Peaches</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118531"><xliff:source>Level &lt;Num0&gt;: Charge Earth Orb</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118532"><xliff:source>Needs to be cast on an earth obelisk</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118533"><xliff:source>Level &lt;Num0&gt;: Fire Blast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118534"><xliff:source>A medium level Fire missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118535"><xliff:source>Level &lt;Num0&gt;: Watchtower Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118536"><xliff:source>Teleports you to the Watchtower</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118537"><xliff:source>Level &lt;Num0&gt;: Trollheim Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118538"><xliff:source>Teleports you to Trollheim</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118539"><xliff:source>Level &lt;Num0&gt;: Wind Wave</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118540"><xliff:source>A high level Air missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118541"><xliff:source>Level &lt;Num0&gt;: Charge Fire Orb</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118542"><xliff:source>Needs to be cast on a fire obelisk</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118543"><xliff:source>Level &lt;Num0&gt;: Ape Atoll Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118544"><xliff:source>Teleports you to Ape Atoll</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118545"><xliff:source>Level &lt;Num0&gt;: Water Wave</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118546"><xliff:source>A high level Water missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118547"><xliff:source>Level &lt;Num0&gt;: Charge Air Orb</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118548"><xliff:source>Needs to be cast on an air obelisk</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118549"><xliff:source>Level &lt;Num0&gt;: Vulnerability</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118550"><xliff:source>Level &lt;Num0&gt;: Charge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118551"><xliff:source>Temporarily increases the power of the three arena spells when wearing Mage Arena capes</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118552"><xliff:source>Level &lt;Num0&gt;: Stun</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118553"><xliff:source>Reduces your opponent's attack by &lt;Num0&gt;%</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118554"><xliff:source>Level &lt;Num0&gt;: Entangle</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118555"><xliff:source>Level &lt;Num0&gt;: Fire Wave</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118556"><xliff:source>A high level Fire missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118557"><xliff:source>Level &lt;Num0&gt;: Teleother Lumbridge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118558"><xliff:source>Teleports target to Lumbridge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118559"><xliff:source>Level &lt;Num0&gt;: Enfeeble</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118560"><xliff:source>Level &lt;Num0&gt;: Earth Wave</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118561"><xliff:source>A high level Earth missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118562"><xliff:source>Level &lt;Num0&gt;: Wind Surge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118563"><xliff:source>A very high level Air missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118564"><xliff:source>Level &lt;Num0&gt;: Teleother Falador</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118565"><xliff:source>Teleports target to Falador</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118566"><xliff:source>Level &lt;Num0&gt;: Water Surge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118567"><xliff:source>A very high level Water missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118568"><xliff:source>Level &lt;Num0&gt;: Tele Block</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118569"><xliff:source>Stops your target from teleporting</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118570"><xliff:source>Level &lt;Num0&gt;: Teleport to Target</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118571"><xliff:source>Teleports you near your Target</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118572"><xliff:source>Level &lt;Num0&gt;: Teleother Camelot</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118573"><xliff:source>Teleports target to Camelot</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118574"><xliff:source>Level &lt;Num0&gt;: Earth Surge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118575"><xliff:source>A very high level Earth missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118576"><xliff:source>Level &lt;Num0&gt;: Fire Surge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118577"><xliff:source>A very high level Fire missile</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118578"><xliff:source>Edgeville Home Teleport</xliff:source><xliff:target state="translated">エッジビル帰還ワープ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118579"><xliff:source>Level &lt;Num0&gt;: Smoke Rush</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118580"><xliff:source>A single target smoke attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118581"><xliff:source>Level &lt;Num0&gt;: Shadow Rush</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118582"><xliff:source>A single target shadow attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118583"><xliff:source>Level &lt;Num0&gt;: Paddewwa Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118584"><xliff:source>A teleportation spell</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118585"><xliff:source>Level &lt;Num0&gt;: Smoke Burst</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118586"><xliff:source>A multi-target smoke attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118587"><xliff:source>Level &lt;Num0&gt;: Senntisten Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118588"><xliff:source>Level &lt;Num0&gt;: Ice Rush</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118589"><xliff:source>A single target ice attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118590"><xliff:source>Level &lt;Num0&gt;: Blood Rush</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118591"><xliff:source>A single target blood attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118592"><xliff:source>Level &lt;Num0&gt;: Shadow Burst</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118593"><xliff:source>A multi-target shadow attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118594"><xliff:source>Level &lt;Num0&gt;: Kharyrll Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118595"><xliff:source>Level &lt;Num0&gt;: Blood Burst</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118596"><xliff:source>A multi-target blood attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118597"><xliff:source>Level &lt;Num0&gt;: Ice Burst</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118598"><xliff:source>A multi-target ice attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118599"><xliff:source>Level &lt;Num0&gt;: Dareeyak Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118600"><xliff:source>Level &lt;Num0&gt;: Shadow Blitz</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118601"><xliff:source>A single target strong shadow attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118602"><xliff:source>Level &lt;Num0&gt;: Smoke Blitz</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118603"><xliff:source>A single target strong smoke attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118604"><xliff:source>Level &lt;Num0&gt;: Lassar Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118605"><xliff:source>Level &lt;Num0&gt;: Blood Blitz</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118606"><xliff:source>A single target strong blood attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118607"><xliff:source>Level &lt;Num0&gt;: Ice Blitz</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118608"><xliff:source>A single target strong ice attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118609"><xliff:source>Level &lt;Num0&gt;: Carrallanger Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118610"><xliff:source>Level &lt;Num0&gt;: Blood Barrage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118611"><xliff:source>A multi-target strong blood attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118612"><xliff:source>Level &lt;Num0&gt;: Annakarl Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118613"><xliff:source>Level &lt;Num0&gt;: Shadow Barrage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118614"><xliff:source>A multi-target strong shadow attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118615"><xliff:source>Level &lt;Num0&gt;: Smoke Barrage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118616"><xliff:source>A multi-target strong smoke attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118617"><xliff:source>Level &lt;Num0&gt;: Ice Barrage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118618"><xliff:source>A multi-target strong ice attack</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118619"><xliff:source>Level &lt;Num0&gt;: Ghorrock Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118620"><xliff:source>Lunar Home Teleport</xliff:source><xliff:target state="translated">ルーナ帰還ワープ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118621"><xliff:source>Level &lt;Num0&gt;: Bake Pie</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118622"><xliff:source>Bake pies without a stove</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118623"><xliff:source>Level &lt;Num0&gt;: Geomancy</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118624"><xliff:source>Checks the status of your main Farming patches</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118625"><xliff:source>Level &lt;Num0&gt;: Cure Plant</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118626"><xliff:source>Cures disease on farming patch</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118627"><xliff:source>Level &lt;Num0&gt;: Monster Examine</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118628"><xliff:source>Detect the combat statistics of a monster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118629"><xliff:source>Level &lt;Num0&gt;: Tele Group Moonclan</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118630"><xliff:source>Teleports players to Moonclan Island</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118631"><xliff:source>Level &lt;Num0&gt;: Moonclan Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118632"><xliff:source>Teleports you to Moonclan Island</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118633"><xliff:source>Level &lt;Num0&gt;: Humidify</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118634"><xliff:source>Fills certain vessels with water</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118635"><xliff:source>Level &lt;Num0&gt;: Cure Other</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118636"><xliff:source>Cure poisoned players</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118637"><xliff:source>Level &lt;Num0&gt;: NPC Contact</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118638"><xliff:source>Speak with various NPCs</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118639"><xliff:source>Level &lt;Num0&gt;: Cure Me</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118640"><xliff:source>Cure Poison</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118641"><xliff:source>Level &lt;Num0&gt;: Ourania Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118642"><xliff:source>Teleports you to the Ourania altar</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118643"><xliff:source>Level &lt;Num0&gt;: Hunter Kit</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118644"><xliff:source>Get a kit of hunter gear</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118645"><xliff:source>Level &lt;Num0&gt;: Waterbirth Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118646"><xliff:source>Teleports you to Waterbirth Island</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118647"><xliff:source>Level &lt;Num0&gt;: Tele Group Waterbirth</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118648"><xliff:source>Teleports players to Waterbirth Island</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118649"><xliff:source>Level &lt;Num0&gt;: Spin Flax</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118650"><xliff:source>Turn flax into bowstring</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118651"><xliff:source>Level &lt;Num0&gt;: Tele Group Barbarian</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118652"><xliff:source>Teleports players to the Barbarian Outpost</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118653"><xliff:source>Level &lt;Num0&gt;: Barbarian Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118654"><xliff:source>Teleports you to the Barbarian Outpost</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118655"><xliff:source>Level &lt;Num0&gt;: Stat Spy</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118656"><xliff:source>Cast on another player to see their skill levels</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118657"><xliff:source>Level &lt;Num0&gt;: Cure Group</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118658"><xliff:source>Cure poison on players</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118659"><xliff:source>Level &lt;Num0&gt;: Superglass Make</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118660"><xliff:source>Make glass without a furnace</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118661"><xliff:source>Level &lt;Num0&gt;: Tan Leather</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118662"><xliff:source>Tans up to &lt;Num0&gt; hides</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118663"><xliff:source>Level &lt;Num0&gt;: Khazard Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118664"><xliff:source>Teleports you to Port Khazard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118665"><xliff:source>Level &lt;Num0&gt;: Tele Group Khazard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118666"><xliff:source>Teleports players to Port Khazard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118667"><xliff:source>Level &lt;Num0&gt;: Dream</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118668"><xliff:source>Take a rest and restore Hitpoints &lt;Num0&gt; times faster</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118669"><xliff:source>Level &lt;Num0&gt;: Boost Potion Share</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118670"><xliff:source>Shares a potion with up to &lt;Num0&gt; nearby players</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118671"><xliff:source>Level &lt;Num0&gt;: Fertile Soil</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118672"><xliff:source>Fertilise a farming patch with super compost</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118673"><xliff:source>Level &lt;Num0&gt;: Magic Imbue</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118674"><xliff:source>Combine runes without a talisman</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118675"><xliff:source>Level &lt;Num0&gt;: Stat Restore Pot Share</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118676"><xliff:source>Level &lt;Num0&gt;: String Jewellery</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118677"><xliff:source>String amulets without wool</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118678"><xliff:source>Level &lt;Num0&gt;: Fishing Guild Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118679"><xliff:source>Teleports you to the Fishing Guild</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118680"><xliff:source>Level &lt;Num0&gt;: Tele Group Fishing Guild</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118681"><xliff:source>Teleports players to the Fishing Guild</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118682"><xliff:source>Level &lt;Num0&gt;: Plank Make</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118683"><xliff:source>Turn logs into planks</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118684"><xliff:source>Level &lt;Num0&gt;: Catherby Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118685"><xliff:source>Teleports you to Catherby</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118686"><xliff:source>Level &lt;Num0&gt;: Energy Transfer</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118687"><xliff:source>Spend Hitpoints and SA energy to give another SA and run energy</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118688"><xliff:source>Level &lt;Num0&gt;: Tele Group Ice Plateau</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118689"><xliff:source>Teleports players to Ice Plateau</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118690"><xliff:source>Level &lt;Num0&gt;: Ice Plateau Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118691"><xliff:source>Teleports you to Ice Plateau</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118692"><xliff:source>Level &lt;Num0&gt;: Recharge Dragonstone</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118693"><xliff:source>Recharges enchanted dragonstone jewellery</xliff:source><xliff:target state="translated">竜石の宝石をチャージ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118694"><xliff:source>Level &lt;Num0&gt;: Tele Group Catherby</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118695"><xliff:source>Teleports players to Catherby</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118696"><xliff:source>Level &lt;Num0&gt;: Heal Other</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118697"><xliff:source>Transfers up to &lt;Num0&gt;% of Hitpoints to another player</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118698"><xliff:source>Level &lt;Num0&gt;: Vengeance Other</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118699"><xliff:source>Allows another player to rebound damage to an opponent</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118700"><xliff:source>Level &lt;Num0&gt;: Vengeance</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118701"><xliff:source>Rebound damage to an opponent</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118702"><xliff:source>Level &lt;Num0&gt;: Heal Group</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118703"><xliff:source>Transfers up to &lt;Num0&gt;% of Hitpoints to a group</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118704"><xliff:source>Level &lt;Num0&gt;: Spellbook Swap</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118705"><xliff:source>Change to another spellbook for &lt;Num0&gt; spell cast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118706"><xliff:source>Arceuus Home Teleport</xliff:source><xliff:target state="translated">アルセウス帰還ワープ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118707"><xliff:source>Level &lt;Num0&gt;: Arceuus Library Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118708"><xliff:source>Teleports you to the Arceuus Library</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118709"><xliff:source>Level &lt;Num0&gt;: Basic Reanimation</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118710"><xliff:source>Reanimates a low levelled creature</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118711"><xliff:source>Level &lt;Num0&gt;: Draynor Manor Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118712"><xliff:source>Teleports you to Draynor Manor</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118713"><xliff:source>Level &lt;Num0&gt;: Battlefront Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118714"><xliff:source>Teleports you to the grave north west of the Kebos Battlefront</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118715"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Skeleton</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118716"><xliff:source>Calls upon a lesser skeletal thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118717"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Ghost</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118718"><xliff:source>Calls upon a lesser ghostly thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118719"><xliff:source>Level &lt;Num0&gt;: Ghostly Grasp</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118720"><xliff:source>Deals minor damage with a low chance of holding your target</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118721"><xliff:source>Level &lt;Num0&gt;: Respawn Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118722"><xliff:source>Teleports you to your respawn location</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118723"><xliff:source>Level &lt;Num0&gt;: Mind Altar Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118724"><xliff:source>Teleports you to the Mind Altar</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118725"><xliff:source>Level &lt;Num0&gt;: Resurrect Lesser Zombie</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118726"><xliff:source>Calls upon a lesser zombified thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118727"><xliff:source>Level &lt;Num0&gt;: Salve Graveyard Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118728"><xliff:source>Teleports you to the graveyard on the River Salve</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118729"><xliff:source>Level &lt;Num0&gt;: Adept Reanimation</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118730"><xliff:source>Reanimates a medium levelled creature</xliff:source><xliff:target state="translated">中級モンスターを蘇生する</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118731"><xliff:source>Level &lt;Num0&gt;: Inferior Demonbane</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118732"><xliff:source>Hits a demon for minor damage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118733"><xliff:source>Level &lt;Num0&gt;: Shadow Veil</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118734"><xliff:source>Reduces your chance of being caught when pickpocketing</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118735"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Skeleton</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118736"><xliff:source>Calls upon a superior skeletal thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118737"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Ghost</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118738"><xliff:source>Calls upon a superior ghostly thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118739"><xliff:source>Level &lt;Num0&gt;: Skeletal Grasp</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118740"><xliff:source>Deals medium damage with a medium chance of holding your target</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118741"><xliff:source>Level &lt;Num0&gt;: Dark Lure</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118742"><xliff:source>Lures your target towards you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118743"><xliff:source>Level &lt;Num0&gt;: Fenkenstrain's Castle Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118744"><xliff:source>Teleports you to Fenkenstrain's Castle</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118745"><xliff:source>Level &lt;Num0&gt;: Resurrect Superior Zombie</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118746"><xliff:source>Calls upon a superior zombified thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118747"><xliff:source>Level &lt;Num0&gt;: Mark of Darkness</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118748"><xliff:source>Makes your offensive Arceuus spells more potent</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118749"><xliff:source>Level &lt;Num0&gt;: West Ardougne Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118750"><xliff:source>Teleports you to West Ardougne</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118751"><xliff:source>Level &lt;Num0&gt;: Superior Demonbane</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118752"><xliff:source>Hits a demon for moderate damage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118753"><xliff:source>Level &lt;Num0&gt;: Lesser Corruption</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118754"><xliff:source>Imbues your attacks with a lesser corruption</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118755"><xliff:source>Level &lt;Num0&gt;: Expert Reanimation</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118756"><xliff:source>Reanimates a high levelled creature</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118757"><xliff:source>Level &lt;Num0&gt;: Cemetery Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118758"><xliff:source>Teleports you to the Forgotten Cemetery</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118759"><xliff:source>Level &lt;Num0&gt;: Degrime</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118760"><xliff:source>Cleans all of your grimy herbs</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118761"><xliff:source>Level &lt;Num0&gt;: Vile Vigour</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118762"><xliff:source>Converts your available prayer points into run energy</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118763"><xliff:source>Level &lt;Num0&gt;: Harmony Island Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118764"><xliff:source>Teleports you to Harmony Island</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118765"><xliff:source>Level &lt;Num0&gt;: Ward of Arceuus</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118766"><xliff:source>Gives you protection from the effects of offensive Arceuus spells and demonic attacks</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118767"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Ghost</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118768"><xliff:source>Calls upon a greater ghostly thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118769"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Skeleton</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118770"><xliff:source>Calls upon a greater skeletal thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118771"><xliff:source>Level &lt;Num0&gt;: Resurrect Greater Zombie</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118772"><xliff:source>Calls upon a greater zombified thrall to fight alongside you</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118773"><xliff:source>Level &lt;Num0&gt;: Resurrect Crops</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118774"><xliff:source>Gives a chance to resurrect dead farming crops</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118775"><xliff:source>Level &lt;Num0&gt;: Demonic Offering</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118776"><xliff:source>Converts demonic ashes into prayer points and experience</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118777"><xliff:source>Level &lt;Num0&gt;: Barrows Teleport</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118778"><xliff:source>Teleports you to the Barrows brothers' graveyard</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118779"><xliff:source>Level &lt;Num0&gt;: Dark Demonbane</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118780"><xliff:source>Hits a demon for major damage</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118781"><xliff:source>Level &lt;Num0&gt;: Death Charge</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118782"><xliff:source>Restores some of your special attack energy when you defeat a foe</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118783"><xliff:source>Level &lt;Num0&gt;: Undead Grasp</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118784"><xliff:source>Deals major damage with a high chance of holding your target</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118785"><xliff:source>Level &lt;Num0&gt;: Greater Corruption</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118786"><xliff:source>Imbues your attacks with a greater corruption</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118787"><xliff:source>Level &lt;Num0&gt;: Master Reanimation</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118788"><xliff:source>Reanimates a very high levelled creature</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118789"><xliff:source>Teleports you to the dungeon under the Ape Atoll temple</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118790"><xliff:source>Level &lt;Num0&gt;: Sinister Offering</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118791"><xliff:source>Converts bones into prayer points and experience</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118792"><xliff:source>Spell Filters</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118793"><xliff:source>Show &lt;colNum0&gt;Combat&lt;/col&gt; spells</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118794"><xliff:source>Show &lt;colNum0&gt;Teleport&lt;/col&gt; spells</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118795"><xliff:source>Show &lt;colNum0&gt;Utility&lt;/col&gt; spells</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118796"><xliff:source>Show spells you lack the Magic level to cast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118797"><xliff:source>Show spells you lack the runes to cast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118798"><xliff:source>Show spells you lack the requirements to cast</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118799"><xliff:source>Enable icon resizing (outside PvP areas)</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

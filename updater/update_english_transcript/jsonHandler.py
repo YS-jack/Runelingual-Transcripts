@@ -185,6 +185,12 @@ def dictListToSQL(dict_data,
     skip_if_same_value_in_column: list of column names to check if the record already exists in the table
                                 will only store if no records matches all values in the stated column
     """
+    for dict in dict_data: # todo: test this
+        for key, value in dict.items():
+            if value is not None:
+                value = replace_special_spaces(value)
+        
+
     conn, c = connect_to_db(database_path)
 
     #create_table if it doesn't exist
@@ -206,9 +212,10 @@ def addAllTSVToSQL(TSVDir):
     for file in os.listdir(TSVDir):
         added_records = 0
         # open each files
-        with open(TSVDir + file, 'r') as f:
+        with open(TSVDir + file, 'r', encoding='utf-8') as f:
 
             for i,line in enumerate(f):
+                line = replace_special_spaces(line)
                 if line.strip() in ['', None, '\n']: # skip empty lines
                     continue
                 line = line.replace('\n','').split('\t')
@@ -228,6 +235,35 @@ def addAllTSVToSQL(TSVDir):
     conn.commit()
     print("Added all manually created CSV files to SQL")
 
+def replace_special_spaces(input_str):
+    if input_str is None:
+        return None
+
+    special_spaces = [32, 160, 8195, 8194, 8201, 8202, 8203, 12288]
+    result = []
+
+    for char in input_str:
+        code_point = ord(char)
+        if code_point in special_spaces:
+            result.append(' ')
+        else:
+            result.append(char)
+
+    return ''.join(result)
+
+#for testing
+def print_char_ids(input_str):
+    for char in input_str:
+        print(f"Character: {char}, ID: {ord(char)}")
+
 if __name__ == "__main__":
     #jsonFileToSQL(common.CACHE_UPDATED_PATH)
-    addAllTSVToSQL(common.MANUAL_FILE_DIR)
+    #addAllTSVToSQL(common.MANUAL_FILE_DIR)
+    original = "Senntisten Teleport"
+    replaced = replace_special_spaces(original) # should return "hello world"
+    print(original == replaced)
+    print(original + ":")
+    print_char_ids(original)
+
+    print(replaced + ":")
+    print_char_ids(replaced)

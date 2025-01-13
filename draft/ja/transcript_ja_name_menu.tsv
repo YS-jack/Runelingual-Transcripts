@@ -180,18 +180,18 @@ Earth Surge	アース・サージ	name	menu	spellBookTab
 Fire Surge	ファイヤー・サージ	name	menu	spellBookTab
 Edgeville Home Teleport	エッジビル帰還ワープ	name	menu	spellBookTab
 Smoke Rush	スモーク・ラッシュ	name	menu	spellBookTab
-Shadow Rush	シャドー・ラッシュ	name	menu	spellBookTab
+Shadow Rush	シャドウ・ラッシュ	name	menu	spellBookTab
 PaddewwaﾂTeleport	パデワ・ワープ	name	menu	spellBookTab
 Smoke Burst	スモーク・バースト	name	menu	spellBookTab
 SenntistenﾂTeleport	センチステン・ワープ	name	menu	spellBookTab
 Ice Rush	アイス・ラッシュ	name	menu	spellBookTab
 Blood Rush	ブラッド・ラッシュ	name	menu	spellBookTab
-ShadowﾂBurst	シャドー・バースト	name	menu	spellBookTab
+ShadowﾂBurst	シャドウ・バースト	name	menu	spellBookTab
 KharyrllﾂTeleport	カリール・ワープ	name	menu	spellBookTab
 Blood Burst	ブラッド・バースト	name	menu	spellBookTab
 Ice Burst	アイス・バースト	name	menu	spellBookTab
 DareeyakﾂTeleport	ダリーヤク・ワープ	name	menu	spellBookTab
-ShadowﾂBlitz	シャドー・ブリッツ	name	menu	spellBookTab
+ShadowﾂBlitz	シャドウ・ブリッツ	name	menu	spellBookTab
 Smoke Blitz	スモーク・ブリッツ	name	menu	spellBookTab
 LassarﾂTeleport	ラサー・ワープ	name	menu	spellBookTab
 Blood Blitz	ブラッド・ブリッツ	name	menu	spellBookTab
@@ -199,7 +199,7 @@ Ice Blitz	アイス・ブリッツ	name	menu	spellBookTab
 Carrallanger Teleport	カラランガー・ワープ	name	menu	spellBookTab
 Blood Barrage	ブラッド・バラージ	name	menu	spellBookTab
 Annakarl Teleport	アナカール・ワープ	name	menu	spellBookTab
-ShadowﾂBarrage	シャドー・バラージ	name	menu	spellBookTab
+ShadowﾂBarrage	シャドウ・バラージ	name	menu	spellBookTab
 Smoke Barrage	スモーク・バラージ	name	menu	spellBookTab
 Ice Barrage	アイス・バラージ	name	menu	spellBookTab
 Ghorrock Teleport	ゴロック・ワープ	name	menu	spellBookTab
@@ -317,3 +317,12 @@ Bash	激突	name	menu	combatOptionsTab
 Blaze	ブレイズ	name	menu	combatOptionsTab
 Scorch	焦がす	name	menu	combatOptionsTab
 Flare	フレア	name	menu	combatOptionsTab
+Senntisten Teleport	センチステン・ワープ	name	menu	spellBookTab
+Paddewwa Teleport	パデワ・ワープ	name	menu	spellBookTab
+Shadow Burst	シャドウ・バースト	name	menu	spellBookTab
+Kharyrll Teleport	カリール・ワープ	name	menu	spellBookTab
+Dareeyak Teleport	ダリーヤク・ワープ	name	menu	spellBookTab
+Shadow Blitz	シャドウ・ブリッツ	name	menu	spellBookTab
+Lassar Teleport	ラサー・ワープ	name	menu	spellBookTab
+Shadow Barrage	シャドウ・バラージ	name	menu	spellBookTab
+Grand Exchange	グランド・エクスチェンジ	name	menu	accountManagementTab
