@@ -3473,8 +3473,8 @@ Time Played: <colNum0><Num0> minutes	プレイ時間：<colNum0><Num0>分	interf
 Time Played: <colNum0><Num0> minute	プレイ時間：<colNum0><Num0>分	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0>a minute	プレイ時間：<colNum0>1分	interface	mainTabs	characterSummaryTab
 Quest List	クエスト一覧	interface	mainTabs	questListTab
-Completed: <Num0>/<Num1>	完了数：<Num0>/<Num1>	interface	mainTabs	questListTab
-Quest Points: <Num0>/<Num1>	クエストポイント：<Num0>/<Num1>	interface	mainTabs	questListTab
+Completed: <Num0>/<Num1>	完了数：<asis><Num0></asis>/<asis><Num1></asis>	interface	mainTabs	questListTab
+Quest Points: <Num0>/<Num1>	クエストポイント：<asis><Num0></asis>/<asis><Num1></asis>	interface	mainTabs	questListTab
 Achievement Diaries	達成記録	interface	mainTabs	achievementDiaryTab
 Ardougne	アルドイン	interface	mainTabs	achievementDiaryTab
 Desert	砂漠	interface	mainTabs	achievementDiaryTab
@@ -3483,7 +3483,7 @@ Fremennik	フレメニック	interface	mainTabs	achievementDiaryTab
 Kandarin	カンダリン	interface	mainTabs	achievementDiaryTab
 Karamja	カラムジャ	interface	mainTabs	achievementDiaryTab
 Kourend & Kebos	クーレンドとケボス	interface	mainTabs	achievementDiaryTab
-Lumbridge & Draynor	ランブリッジとドレイナー	interface	mainTabs	achievementDiaryTab
+Lumbridge & Draynor	ランブ…ドレイナー	interface	mainTabs	achievementDiaryTab
 Morytania	モリタニア	interface	mainTabs	achievementDiaryTab
 Varrock	ヴァロック	interface	mainTabs	achievementDiaryTab
 Western Provinces	西部地方	interface	mainTabs	achievementDiaryTab
