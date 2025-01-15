@@ -5307,7 +5307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41921">
         <xliff:source>Teleport to Destination</xliff:source>
-        <xliff:target state="translated">目的地へワープ</xliff:target>
+        <xliff:target state="translated">目的地にワープ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Obelisk
@@ -7899,7 +7899,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42245">
         <xliff:source>Teleport to destination</xliff:source>
-        <xliff:target state="translated">目的地へワープ</xliff:target>
+        <xliff:target state="translated">目的地にワープ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Obelisk
@@ -10004,10 +10004,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109826"><xliff:source>Prayer</xliff:source><xliff:target state="translated">祈り</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109827"><xliff:source>Enable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109827"><xliff:source>Enable spell reordering</xliff:source><xliff:target state="translated">呪文の再配置有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109828"><xliff:source>Disable spell filtering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109828"><xliff:source>Disable spell filtering</xliff:source><xliff:target state="translated">呪文の再配置無効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109829"><xliff:source>Magic</xliff:source><xliff:target state="translated">魔法</xliff:target><xliff:note>category: actions
@@ -10325,10 +10325,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109933"><xliff:source>Enable prayer filtering</xliff:source><xliff:target state="translated">祈りのフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Disable spell reordering</xliff:source><xliff:target state="translated">魔法の再配置無効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109934"><xliff:source>Disable spell reordering</xliff:source><xliff:target state="translated">呪文の再配置無効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">魔法のフィルター有効</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109935"><xliff:source>Enable spell filtering</xliff:source><xliff:target state="translated">呪文のフィルター有効</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109936"><xliff:source>Show notifications</xliff:source><xliff:target state="translated">通知を表示</xliff:target><xliff:note>category: actions

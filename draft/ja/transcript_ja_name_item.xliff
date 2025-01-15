@@ -47555,7 +47555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5945">
         <xliff:source>Target teleport scroll</xliff:source>
-        <xliff:target state="translated">標的へワープの巻物</xliff:target>
+        <xliff:target state="translated">標的にワープの巻物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Target teleport scroll
@@ -65307,7 +65307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8164">
         <xliff:source>Target teleport</xliff:source>
-        <xliff:target state="translated">標的へワープ</xliff:target>
+        <xliff:target state="translated">標的にワープ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Target teleport

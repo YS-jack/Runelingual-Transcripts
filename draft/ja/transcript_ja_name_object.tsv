@@ -1044,11 +1044,11 @@ Apple Tree	リンゴの木	name	object	Apple Tree
 Stone Pile	石の山	name	object	Stone Pile
 Fermenting Vat	発酵槽	name	object	Fermenting Vat
 Valve	バルブ	name	object	Valve
-Belladonna patch	ベラドンナの小区画	name	object	Belladonna patch
+Belladonna patch	ベラドンナの畑	name	object	Belladonna patch
 Belladonna	ベラドンナ	name	object	Belladonna
 Diseased Belladonna	病気のベラドンナ	name	object	Diseased Belladonna
 Dead Belladonna	死んだベラドンナ	name	object	Dead Belladonna
-Bush Patch	低木の小区画	name	object	Bush Patch
+Bush Patch	低木の畑	name	object	Bush Patch
 Cadavaberry bush	カダバベリーの低木	name	object	Cadavaberry bush
 Diseased cadavaberry bush	病気のカダバベリーの低木	name	object	Diseased cadavaberry bush
 Dead cadavaberry bush	死んだカダバベリーの低木	name	object	Dead cadavaberry bush
@@ -1067,17 +1067,17 @@ Dead redberry bush	死んだレッドベリーの低木	name	object	Dead redberr
 Whiteberry bush	ホワイトベリーの低木	name	object	Whiteberry bush
 Diseased whiteberry bush	病気のホワイトベリーの低木	name	object	Diseased whiteberry bush
 Dead whiteberry bush	死んだホワイトベリーの低木	name	object	Dead whiteberry bush
-Cactus patch	サボテンの小区画	name	object	Cactus patch
+Cactus patch	サボテンの畑	name	object	Cactus patch
 Diseased cactus	病気のサボテン	name	object	Diseased cactus
 Dead cactus	死んだサボテン	name	object	Dead cactus
-Calquat patch	カルカンの小区間	name	object	Calquat patch
+Calquat patch	カルカンの畑	name	object	Calquat patch
 Calquat tree	カルカンの木	name	object	Calquat tree
 Diseased Calquat	病気のカルカン	name	object	Diseased Calquat
 Dead Calquat	死んだカルカン	name	object	Dead Calquat
 Supplies	物資	name	object	Supplies
 Exit portal	出口ポータル	name	object	Exit portal
 Barrier	バリア	name	object	Barrier
-Flower Patch	花の小区画	name	object	Flower Patch
+Flower Patch	花の畑	name	object	Flower Patch
 Limpwurt plant	リンプワートの株	name	object	Limpwurt plant
 Diseased limpwurt plant	病気のリンプワートの株	name	object	Diseased limpwurt plant
 Dead limpwurt plant	死んだリンプワートの株	name	object	Dead limpwurt plant
@@ -1107,7 +1107,7 @@ Curry tree	カレーの木	name	object	Curry tree
 Diseased curry tree	病気のカレーの木	name	object	Diseased curry tree
 Dead curry tree	死んだカレーの木	name	object	Dead curry tree
 Curry tree stump	カレーの木の切り株	name	object	Curry tree stump
-Fruit Tree Patch	果実の木の小区画	name	object	Fruit Tree Patch
+Fruit Tree Patch	果実の木の畑	name	object	Fruit Tree Patch
 Orange tree	オレンジの木	name	object	Orange tree
 Diseased orange tree	病気のオレンジの木	name	object	Diseased orange tree
 Dead orange tree	死んだオレンジの木	name	object	Dead orange tree
@@ -1119,7 +1119,7 @@ Papaya tree	パパイヤの木	name	object	Papaya tree
 Diseased papaya tree	病気のパパイヤの木	name	object	Diseased papaya tree
 Dead papaya tree	死んだパパイヤの木	name	object	Dead papaya tree
 Papaya tree stump	パパイヤの木の切り株	name	object	Papaya tree stump
-Herb patch	薬草の小区画	name	object	Herb patch
+Herb patch	薬草の畑	name	object	Herb patch
 Diseased herbs	病気の薬草	name	object	Diseased herbs
 Dead herbs	死んだ薬草	name	object	Dead herbs
 Asgarnian Hops	アスガニアン・ホップ	name	object	Asgarnian Hops
@@ -1131,7 +1131,7 @@ Dead Hammerstone Hops	死んだハマーストーン・ホップ	name	object	Dea
 Barley	大麦	name	object	Barley
 Diseased Barley	病気の大麦	name	object	Diseased Barley
 Dead Barley	死んだ大麦	name	object	Dead Barley
-Hops Patch	ホップの小区間	name	object	Hops Patch
+Hops Patch	ホップの畑	name	object	Hops Patch
 Krandorian Hops	クランドリアン・ホップ	name	object	Krandorian Hops
 Diseased Krandorian Hops	病気のクランドリアン・ホップ	name	object	Diseased Krandorian Hops
 Dead Krandorian Hops	死んだクランドリアン・ホップ	name	object	Dead Krandorian Hops
@@ -1144,16 +1144,16 @@ Dead Wildblood Hops	死んだワイルドブラッド・ホップ	name	object	De
 Yanillian Hops	ヤニリアン・ホップ	name	object	Yanillian Hops
 Diseased Yanillian Hops	病気のヤニリアン・ホップ	name	object	Diseased Yanillian Hops
 Dead Yanillian Hops	死んだヤニリアン・ホップ	name	object	Dead Yanillian Hops
-Mushroom patch	キノコの小区画	name	object	Mushroom patch
+Mushroom patch	キノコの畑	name	object	Mushroom patch
 Bittercap Mushrooms	ビタキャップダケ	name	object	Bittercap Mushrooms
 Diseased Bittercap Mushrooms	病気のビタキャップダケ	name	object	Diseased Bittercap Mushrooms
 Dead Bittercap Mushrooms	死んだビタキャップダケ	name	object	Dead Bittercap Mushrooms
-Spirit Tree Patch	精霊樹の小区画	name	object	Spirit Tree Patch
+Spirit Tree Patch	精霊樹の畑	name	object	Spirit Tree Patch
 Spirit Tree	精霊樹	name	object	Spirit Tree
 Spirit Tree Stump	精霊樹の切り株	name	object	Spirit Tree Stump
 Diseased Spirit Tree	病気の精霊樹	name	object	Diseased Spirit Tree
 Dead Spirit Tree	死んだ精霊樹	name	object	Dead Spirit Tree
-Tree patch	木製の小区画	name	object	Tree patch
+Tree patch	木製の畑	name	object	Tree patch
 Magic tree stump	魔法樹の切り株	name	object	Magic tree stump
 Diseased Magic Tree	病気の魔法樹	name	object	Diseased Magic Tree
 Dead Magic Tree	死んだ魔法樹	name	object	Dead Magic Tree
@@ -1214,7 +1214,7 @@ Closed Chest	閉じた宝箱	name	object	Closed Chest
 Open Chest	開いた宝箱	name	object	Open Chest
 Apple Press	リンゴ圧縮機	name	object	Apple Press
 Rotten Apple Pile	腐ったリンゴの山	name	object	Rotten Apple Pile
-Kelda Hops Patch	ケルダ・ホップの小区画	name	object	Kelda Hops Patch
+Kelda Hops Patch	ケルダ・ホップの畑	name	object	Kelda Hops Patch
 Kelda Hops	ケルダ・ホップ	name	object	Kelda Hops
 Kelda Stout	ケルダのスタウト	name	object	Kelda Stout
 Dwarven machinery	ドワーフの機材	name	object	Dwarven machinery
@@ -1267,19 +1267,19 @@ Golden lantern	金のちょうちん	name	object	Golden lantern
 Gold Screen	金屏風	name	object	Gold Screen
 Hole in the wall	壁の穴	name	object	Hole in the wall
 Patched Wall	修復された壁	name	object	Patched Wall
-Delphinium patch	デルフィニウムの小区画	name	object	Delphinium patch
+Delphinium patch	デルフィニウムの畑	name	object	Delphinium patch
 Delphiniums	デルフィニウム	name	object	Delphiniums
-Pink rose bush patch	ピンクのバラの小区画	name	object	Pink rose bush patch
-White rose bush patch	白いバラの小区画	name	object	White rose bush patch
-Red rose bush patch	赤いバラの小区画	name	object	Red rose bush patch
+Pink rose bush patch	ピンクのバラの畑	name	object	Pink rose bush patch
+White rose bush patch	白いバラの畑	name	object	White rose bush patch
+Red rose bush patch	赤いバラの畑	name	object	Red rose bush patch
 Rose bush	バラの低木	name	object	Rose bush
 Orchids	ラン	name	object	Orchids
 Plantpot	植木鉢	name	object	Plantpot
 Yellow orchids	黄色いラン	name	object	Yellow orchids
-White Tree patch	白い木の小区画	name	object	White Tree patch
-Snowdrop patch	スノードロップの小区画	name	object	Snowdrop patch
+White Tree patch	白い木の畑	name	object	White Tree patch
+Snowdrop patch	スノードロップの畑	name	object	Snowdrop patch
 Snowdrops	スノードロップ	name	object	Snowdrops
-Vine patch	ツルの小区画	name	object	Vine patch
+Vine patch	ツルの畑	name	object	Vine patch
 Vines	ツル	name	object	Vines
 Statue plinth	像の台座	name	object	Statue plinth
 Grapevines	ブドウのツル	name	object	Grapevines
@@ -1301,7 +1301,7 @@ Ornate wilderness combat dummy	華麗なウィルダネス戦闘バッグ	name	o
 Ornate kalphite combat dummy	華麗なカルファイト戦闘バッグ	name	object	Ornate kalphite combat dummy
 Ornate kurask combat dummy	華麗なクラスク戦闘バッグ	name	object	Ornate kurask combat dummy
 Private portal	専用のポータル	name	object	Private portal
-Unferth's patch	アンフェースの小区画	name	object	Unferth's patch
+Unferth's patch	アンフェースの畑	name	object	Unferth's patch
 Potato plants	ジャガイモ	name	object	Potato plants
 Potatoes	ジャガイモ	name	object	Potatoes
 Tree Stump	木の切り株	name	object	Tree Stump
@@ -1328,8 +1328,8 @@ Copper rocks	銅の岩	name	object	Copper rocks
 Tin rocks	スズの岩	name	object	Tin rocks
 Ominous Fishing Spot	不吉な釣り場	name	object	Ominous Fishing Spot
 Aquarium	水族館	name	object	Aquarium
-Blindweed Patch	ブラインド草の小区画	name	object	Blindweed Patch
-Trashed Patch	捨てられた小区画	name	object	Trashed Patch
+Blindweed Patch	ブラインド草の畑	name	object	Blindweed Patch
+Trashed Patch	捨てられた畑	name	object	Trashed Patch
 Stagnant Lake	よどんだ湖	name	object	Stagnant Lake
 Chimney Pipe	煙突のパイプ	name	object	Chimney Pipe
 Wooden Stair	木製の階段	name	object	Wooden Stair
@@ -1409,7 +1409,7 @@ Stone Ladder	石のハシゴ	name	object	Stone Ladder
 Secret entrance	秘密の入口	name	object	Secret entrance
 Light	火をつける	name	object	Light
 Magic spell	かけられた魔法	name	object	Magic spell
-Treated patch	処理された小区画	name	object	Treated patch
+Treated patch	処理された畑	name	object	Treated patch
 Cave rocks	洞窟の岩	name	object	Cave rocks
 Broken Cannon	壊れた大砲	name	object	Broken Cannon
 Plunder Storage	盗品の貯蔵庫	name	object	Plunder Storage
@@ -1809,9 +1809,9 @@ Strange shrine	不思議な聖堂	name	object	Strange shrine
 Pile of fish	魚の山	name	object	Pile of fish
 Water Source	水源	name	object	Water Source
 Picnic table	ピクニックのテーブル	name	object	Picnic table
-Weedy patch	雑草まみれの小区画	name	object	Weedy patch
-Dry patch	乾燥した小区画	name	object	Dry patch
-Barren patch	やせた小区画	name	object	Barren patch
+Weedy patch	雑草まみれの畑	name	object	Weedy patch
+Dry patch	乾燥した畑	name	object	Dry patch
+Barren patch	やせた畑	name	object	Barren patch
 Dyed fabric	染まった生地	name	object	Dyed fabric
 Steam Vent	蒸気孔	name	object	Steam Vent
 Ropeswing	 縄のブランコ	name	object	Ropeswing
@@ -2210,7 +2210,7 @@ Fish	魚	name	object	Fish
 Dolphin	イルカ	name	object	Dolphin
 Soil patch	まき床	name	object	Soil patch
 Weeds	雑草	name	object	Weeds
-New farming patch	新しい農地	name	object	New farming patch
+New farming patch	新しい畑	name	object	New farming patch
 Hardy goutweed	頑健なグート草	name	object	Hardy goutweed
 Diseased hardy goutweed	病気のグート草	name	object	Diseased hardy goutweed
 Dead hardy goutweed	死んだグート草	name	object	Dead hardy goutweed
@@ -2343,7 +2343,7 @@ Wooden platform	木製のプラットホーム	name	object	Wooden platform
 Ice	氷	name	object	Ice
 A crack	ひび	name	object	A crack
 Avalanche	雪崩	name	object	Avalanche
-Firm snow patch	頑丈な雪の小区画	name	object	Firm snow patch
+Firm snow patch	頑丈な雪の畑	name	object	Firm snow patch
 Bird hide structure	鳥監視の隠れ家	name	object	Bird hide structure
 Snowy bird hide	雪の鳥監視の隠れ家	name	object	Snowy bird hide
 Destroyed bird hide	破壊された隠れ家	name	object	Destroyed bird hide
@@ -2759,7 +2759,7 @@ Food cupboard	食べ物の棚	name	object	Food cupboard
 Utensil cupboard	調理器具棚	name	object	Utensil cupboard
 Meat table	肉のテーブル	name	object	Meat table
 Buffet table	ビュッフェのテーブル	name	object	Buffet table
-Tithe patch	タイスの小区画	name	object	Tithe patch
+Tithe patch	タイスの畑	name	object	Tithe patch
 Golovanova seedling	ゴロバノバの苗	name	object	Golovanova seedling
 Blighted Golovanova seedling	荒廃したゴロバノバの苗	name	object	Blighted Golovanova seedling
 Golovanova plant	ゴロバノバの株	name	object	Golovanova plant
@@ -3103,7 +3103,7 @@ Diseased Mahogany	病気のマホガニー	name	object	Diseased Mahogany
 Dead Mahogany	死んだマホガニー	name	object	Dead Mahogany
 Diseased Teak	病気のチーク	name	object	Diseased Teak
 Dead Teak	死んだチーク	name	object	Dead Teak
-Seaweed patch	海藻の小区画	name	object	Seaweed patch
+Seaweed patch	海藻の畑	name	object	Seaweed patch
 Seaweed	海藻	name	object	Seaweed
 Diseased seaweed	病気の海藻	name	object	Diseased seaweed
 Dead seaweed	死んだ海藻	name	object	Dead seaweed
@@ -3493,19 +3493,19 @@ Snape grass seedling	スネイプ草の苗	name	object	Snape grass seedling
 Snape grass plant	スネイプ草の株	name	object	Snape grass plant
 Diseased Snape grass	病気のスネイプ草	name	object	Diseased Snape grass
 Dead Snape grass	死んだスネイプ草	name	object	Dead Snape grass
-Celastrus patch	サラストラスの小区画	name	object	Celastrus patch
+Celastrus patch	サラストラスの畑	name	object	Celastrus patch
 Celastrus tree	セラストラスの木	name	object	Celastrus tree
 Diseased celastrus tree	病気のセラストラスの木	name	object	Diseased celastrus tree
 Dead celastrus tree	死んだセラストラスの木	name	object	Dead celastrus tree
 Harvested Celastrus tree	収穫されたセラストラスの木	name	object	Harvested Celastrus tree
 Celastrus tree stump	セラストラスの木の切り株	name	object	Celastrus tree stump
-Hespori patch	ヘスポリの小区画	name	object	Hespori patch
+Hespori patch	ヘスポリの畑	name	object	Hespori patch
 Hespori	ヘスポリ	name	object	Hespori
 Potato cactus	ジャガイモサボテン	name	object	Potato cactus
 Diseased Potato cactus	病気のジャガイモサボテン	name	object	Diseased Potato cactus
 Dead Potato cactus	死んだジャガイモサボテン	name	object	Dead Potato cactus
 Big Compost Bin	大きなコンポスト	name	object	Big Compost Bin
-Anima patch	生命力の小区画	name	object	Anima patch
+Anima patch	生命力の畑	name	object	Anima patch
 Iasor plant	イアソーの株	name	object	Iasor plant
 Withering Iasor plant	しおれていくイアソーの株	name	object	Withering Iasor plant
 Dead Iasor plant	死んだイアソーの株	name	object	Dead Iasor plant
@@ -3519,7 +3519,7 @@ Dragonfruit tree	ドラゴンフルーツの木	name	object	Dragonfruit tree
 Diseased dragonfruit plant	病気のドラゴンフルーツの木	name	object	Diseased dragonfruit plant
 Dead dragonfruit plant	死んだドラゴンフルーツの木	name	object	Dead dragonfruit plant
 Dragonfruit tree stump	ドラゴンフルーツの木の切り株	name	object	Dragonfruit tree stump
-Redwood tree patch	セコイアの木の小区画	name	object	Redwood tree patch
+Redwood tree patch	セコイアの木の畑	name	object	Redwood tree patch
 Dead Redwood tree	死んだセコイアの木	name	object	Dead Redwood tree
 Diseased Redwood tree	病気のセコイアの木	name	object	Diseased Redwood tree
 Death	死	name	object	Death
@@ -3593,7 +3593,7 @@ Broken sun altar	壊れた太陽の祭壇	name	object	Broken sun altar
 Empty Sarcophagus	空のサルコファガス	name	object	Empty Sarcophagus
 Floor tile	床タイル	name	object	Floor tile
 Fog marker	霧マーカー	name	object	Fog marker
-Crystal tree patch	水晶樹の小区画	name	object	Crystal tree patch
+Crystal tree patch	水晶樹の畑	name	object	Crystal tree patch
 Crystal tree	水晶樹	name	object	Crystal tree
 Soft clay rocks	軟らかい粘土の岩	name	object	Soft clay rocks
 Statue of Baxtorian	バクストリアン像	name	object	Statue of Baxtorian
@@ -3616,7 +3616,7 @@ Mourner	哀悼者	name	object	Mourner
 Knight of Ardougne	アルドインの騎士	name	object	Knight of Ardougne
 Man	男	name	object	Man
 Woman	女	name	object	Woman
-Farming patch	農業用の小区画	name	object	Farming patch
+Farming patch	畑	name	object	Farming patch
 Herb	薬草	name	object	Herb
 Blocked Crevice	ふさがれた隙間	name	object	Blocked Crevice
 Broken Well	壊れた井戸	name	object	Broken Well

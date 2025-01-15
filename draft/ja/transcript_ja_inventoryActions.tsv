@@ -199,11 +199,11 @@ Unload	取り出す	inventoryActions	item	Toxic blowpipe
 Untrim	縁を取る	inventoryActions	item	Quest point cape (t)
 Duradel	ヅラデル	inventoryActions	item	Karamja gloves 4
 Ecto Teleport	でエクトーヘワープ	inventoryActions	item	Morytania legs 1
-Burgh Teleport	でバーグへワープ	inventoryActions	item	Morytania legs 3
+Burgh Teleport	でバーグにワープ	inventoryActions	item	Morytania legs 3
 Activity	活動	inventoryActions	item	Bonecrusher
 Recharge-prayer	祈力を回復	inventoryActions	item	Falador shield 1
-Monastery Teleport	で修道院へワープ	inventoryActions	item	Ardougne cloak 1
-Farm Teleport	で農場へワープ	inventoryActions	item	Ardougne cloak 2
+Monastery Teleport	で修道院にワープ	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	で農場にワープ	inventoryActions	item	Ardougne cloak 2
 Energy	エネルギー	inventoryActions	item	Explorer's ring 1
 Alchemy	錬金術	inventoryActions	item	Explorer's ring 1
 Functions	機能	inventoryActions	item	Explorer's ring 2
@@ -414,7 +414,7 @@ Xeric's Inferno	ゼリックの猛火	inventoryActions	item	Xeric's talisman
 Xeric's Heart	ゼリックの中心	inventoryActions	item	Xeric's talisman
 Xeric's Honour	ゼリックの名誉	inventoryActions	item	Xeric's talisman
 Check Charges	チャージ確認	inventoryActions	item	Chronicle
-Teleport to Target	標的へワープ	inventoryActions	item	Dead orb
+Teleport to Target	標的にワープ	inventoryActions	item	Dead orb
 Recoil Settings	反射の設定	inventoryActions	item	Ring of suffering (r)
 The Outpost	前哨基地	inventoryActions	item	Necklace of passage(5)
 Eagles' Eyrie	ワシの巣	inventoryActions	item	Necklace of passage(5)

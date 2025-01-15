@@ -396,8 +396,8 @@ Start again!	もう一度始めよう！	dialogue	'The Guns'	'The Guns'
 Hello?	こんにちは。	dialogue	1337mage43	Player
 Hello?	こんにちは。	dialogue	1337mage43	1337mage43
 Hey, I started the conversation!	やあ、私が会話を始めたんだ！	dialogue	1337mage43	Player
-No you didn't. Get out of my spell!	いいえ、そうではありません。私の呪縛から逃れろ	dialogue	1337mage43	1337mage43
-No! Get out of my spell!	いや、違う！私の呪縛から逃れろ	dialogue	1337mage43	Player
+No you didn't. Get out of my spell!	いいえ、そうではありません。私の呪文から逃れろ	dialogue	1337mage43	1337mage43
+No! Get out of my spell!	いや、違う！私の呪文から逃れろ	dialogue	1337mage43	Player
 Cry-baby.	泣き虫だ。	dialogue	1337mage43	Player
 What! I'm no cry-baby, you cry-baby!	え？私は泣き虫じゃない、お前だ！	dialogue	1337mage43	1337mage43
 I'm reporting you!	あなたをレポートする！	dialogue	1337mage43	1337mage43
@@ -36566,7 +36566,7 @@ Where can I get food to heal myself?	自分を癒すための食べ物はどこ�
 There are many different foods in the game such as cabbage, fish, meat and many more. Which do you wish to hear about?	ゲームには、キャベツ、魚、肉など、さまざまな食べ物が登場する。どちらが聞きたい？	dialogue	Lumbridge Guide	Lumbridge Guide
 How do I get cabbages?	キャベツの入手方法は？	dialogue	Lumbridge Guide	Player
 There is a field a little distance to the north of here packed full of cabbages which are there for the picking.	ここから少し北に行ったところに、キャベツがぎっしり詰まった畑がある。	dialogue	Lumbridge Guide	Lumbridge Guide
-You could also farm your own cabbages; there's a Farming patch just south of Falador.	また、ファラドールのすぐ南には農園があり、自分でキャベツを栽培することもできる。	dialogue	Lumbridge Guide	Lumbridge Guide
+You could also farm your own cabbages; there's a Farming patch just south of Falador.	また、ファラドールのすぐ南には畑があり、自分でキャベツを栽培することもできる。	dialogue	Lumbridge Guide	Lumbridge Guide
 No thank you.	いえ、ありがとう。	dialogue	Lumbridge Guide	Lumbridge Guide
 How do I fish?	どうやって釣りをすればいいの？	dialogue	Lumbridge Guide	Player
 I am confused. You are already an experienced fisher. You should know the answer to that already.	戸惑っている。あなたはすでに経験豊富な漁師だ。その答えはもうわかっているはずだ。	dialogue	Lumbridge Guide	Lumbridge Guide

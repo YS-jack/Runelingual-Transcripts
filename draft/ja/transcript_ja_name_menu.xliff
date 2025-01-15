@@ -939,7 +939,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112754"><xliff:source>Teleother Camelot</xliff:source><xliff:target state="translated">カメロット・他ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112755"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">標的へワープ</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112755"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">標的にワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112756"><xliff:source>Tele Block</xliff:source><xliff:target state="translated">ワープ阻止</xliff:target><xliff:note>category: name
@@ -1056,7 +1056,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112793"><xliff:source>NPC Contact</xliff:source><xliff:target state="translated">NPC通信</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112794"><xliff:source>Cure Other</xliff:source><xliff:target state="translated">仲間治癒</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112794"><xliff:source>Cure Other</xliff:source><xliff:target state="translated">仲間を治癒</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112795"><xliff:source>Humidify</xliff:source><xliff:target state="translated">加湿</xliff:target><xliff:note>category: name
@@ -1155,10 +1155,10 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112826"><xliff:source>Energy Transfer</xliff:source><xliff:target state="translated">力の譲渡</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112827"><xliff:source>Heal Other</xliff:source><xliff:target state="translated">他者を回復</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112827"><xliff:source>Heal Other</xliff:source><xliff:target state="translated">仲間を回復</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112828"><xliff:source>Vengeance Other</xliff:source><xliff:target state="translated">復讐・他者</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112828"><xliff:source>Vengeance Other</xliff:source><xliff:target state="translated">復讐・仲間</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112829"><xliff:source>Vengeance</xliff:source><xliff:target state="translated">復讐</xliff:target><xliff:note>category: name

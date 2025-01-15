@@ -606,7 +606,7 @@ source: Karamja gloves 4
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13103</xliff:note></xliff:trans-unit><xliff:trans-unit id="41120"><xliff:source>Ecto Teleport</xliff:source><xliff:target state="translated">でエクトーヘワープ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Morytania legs 1
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13112</xliff:note></xliff:trans-unit><xliff:trans-unit id="41121"><xliff:source>Burgh Teleport</xliff:source><xliff:target state="translated">でバーグへワープ</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13112</xliff:note></xliff:trans-unit><xliff:trans-unit id="41121"><xliff:source>Burgh Teleport</xliff:source><xliff:target state="translated">でバーグにワープ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Morytania legs 3
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13114</xliff:note></xliff:trans-unit><xliff:trans-unit id="41122"><xliff:source>Activity</xliff:source><xliff:target state="translated">活動</xliff:target><xliff:note>category: inventoryActions
@@ -615,10 +615,10 @@ source: Bonecrusher
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13116</xliff:note></xliff:trans-unit><xliff:trans-unit id="41123"><xliff:source>Recharge-prayer</xliff:source><xliff:target state="translated">祈力を回復</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Falador shield 1
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13117</xliff:note></xliff:trans-unit><xliff:trans-unit id="41124"><xliff:source>Monastery Teleport</xliff:source><xliff:target state="translated">で修道院へワープ</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13117</xliff:note></xliff:trans-unit><xliff:trans-unit id="41124"><xliff:source>Monastery Teleport</xliff:source><xliff:target state="translated">で修道院にワープ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ardougne cloak 1
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13121</xliff:note></xliff:trans-unit><xliff:trans-unit id="41125"><xliff:source>Farm Teleport</xliff:source><xliff:target state="translated">で農場へワープ</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13121</xliff:note></xliff:trans-unit><xliff:trans-unit id="41125"><xliff:source>Farm Teleport</xliff:source><xliff:target state="translated">で農場にワープ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Ardougne cloak 2
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13122</xliff:note></xliff:trans-unit><xliff:trans-unit id="41126"><xliff:source>Energy</xliff:source><xliff:target state="translated">エネルギー</xliff:target><xliff:note>category: inventoryActions
@@ -1251,7 +1251,7 @@ source: Xeric's talisman
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note></xliff:trans-unit><xliff:trans-unit id="41335"><xliff:source>Check Charges</xliff:source><xliff:target state="translated">チャージ確認</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Chronicle
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13660</xliff:note></xliff:trans-unit><xliff:trans-unit id="41336"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">標的へワープ</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13660</xliff:note></xliff:trans-unit><xliff:trans-unit id="41336"><xliff:source>Teleport to Target</xliff:source><xliff:target state="translated">標的にワープ</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Dead orb
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=17152</xliff:note></xliff:trans-unit><xliff:trans-unit id="41337"><xliff:source>Recoil Settings</xliff:source><xliff:target state="translated">反射の設定</xliff:target><xliff:note>category: inventoryActions

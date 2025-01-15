@@ -170,7 +170,7 @@ Fire Wave	ファイヤー・ウェーブ	name	menu	spellBookTab
 Entangle	束縛	name	menu	spellBookTab
 Stun	スタン	name	menu	spellBookTab
 Teleother Camelot	カメロット・他ワープ	name	menu	spellBookTab
-Teleport to Target	標的へワープ	name	menu	spellBookTab
+Teleport to Target	標的にワープ	name	menu	spellBookTab
 Tele Block	ワープ阻止	name	menu	spellBookTab
 Water Surge	ウォーター・サージ	name	menu	spellBookTab
 Teleother Falador	ファラドー・他ワープ	name	menu	spellBookTab
@@ -209,7 +209,7 @@ Geomancy	ジェオマンシー	name	menu	spellBookTab
 Cure Plant	植物治癒	name	menu	spellBookTab
 Monster Examine	魔獣解析	name	menu	spellBookTab
 NPC Contact	NPC通信	name	menu	spellBookTab
-Cure Other	仲間治癒	name	menu	spellBookTab
+Cure Other	仲間を治癒	name	menu	spellBookTab
 Humidify	加湿	name	menu	spellBookTab
 Moonclan Teleport	ムーンクラン・ワープ	name	menu	spellBookTab
 Tele Group Moonclan	ムーンクラン・集団ワープ	name	menu	spellBookTab
@@ -242,8 +242,8 @@ Recharge Dragonstone	竜石チャージ	name	menu	spellBookTab
 Ice Plateau Teleport	アイス・プラトー・ワープ	name	menu	spellBookTab
 Tele Group Ice Plateau	アイス・プラトー・集団ワープ	name	menu	spellBookTab
 Energy Transfer	力の譲渡	name	menu	spellBookTab
-Heal Other	他者を回復	name	menu	spellBookTab
-Vengeance Other	復讐・他者	name	menu	spellBookTab
+Heal Other	仲間を回復	name	menu	spellBookTab
+Vengeance Other	復讐・仲間	name	menu	spellBookTab
 Vengeance	復讐	name	menu	spellBookTab
 Heal Group	集団回復	name	menu	spellBookTab
 Spellbook Swap	魔導書の切替	name	menu	spellBookTab

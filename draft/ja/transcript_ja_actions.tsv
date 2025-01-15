@@ -662,7 +662,7 @@ Climb-through (private)	すり抜ける（専用）	actions	object	Broken bars
 Peek (normal)	覗く（通常）	actions	object	Broken bars
 Eat	食べる	actions	object	Food Pile
 Leap	飛び越える	actions	object	Gap
-Teleport to Destination	目的地へワープ	actions	object	Obelisk
+Teleport to Destination	目的地にワープ	actions	object	Obelisk
 Set Destination	目的地を設定	actions	object	Obelisk
 Hurdle	飛び越える	actions	object	Ledge
 Jump-off	飛び降りる	actions	object	Edge
@@ -986,7 +986,7 @@ Pay	支払う	actions	object	Volcano Entrance
 Feel	探る	actions	object	Gas hole
 Add to	加える	actions	object	Large Fossil Support
 Climb through	登りって通り抜ける	actions	object	Hole
-Teleport to destination	目的地へワープ	actions	object	Obelisk
+Teleport to destination	目的地にワープ	actions	object	Obelisk
 Set destination	目的地を設定	actions	object	Obelisk
 Jump to	ジャンプ	actions	object	Pillar
 Preferences	優先設定	actions	object	Log storage
@@ -1298,8 +1298,8 @@ Worn Equipment	装備品	actions	menu
 Enable prayer reordering	祈りの再配置有効	actions	menu	
 Disable prayer filtering	祈りのフィルター有効	actions	menu	
 Prayer	祈り	actions	menu	
-Enable spell reordering	魔法の再配置有効	actions	menu	
-Disable spell filtering	魔法の再配置無効	actions	menu	
+Enable spell reordering	呪文の再配置有効	actions	menu	
+Disable spell filtering	呪文の再配置無効	actions	menu	
 Magic	魔法	actions	menu	
 Friends List	フレンド一覧	actions	menu	
 Account Management	アカウント設定	actions	menu	
@@ -1405,8 +1405,8 @@ View items kept on death	死亡時に保持するアイテムを表示	actions	m
 Call follower	従者を呼ぶ	actions	menu	wornEquipmentTab
 Disable prayer reordering	祈りの再配置無効	actions	menu	
 Enable prayer filtering	祈りのフィルター有効	actions	menu	
-Disable spell reordering	魔法の再配置無効	actions	menu	
-Enable spell filtering	魔法のフィルター有効	actions	menu	
+Disable spell reordering	呪文の再配置無効	actions	menu	
+Enable spell filtering	呪文のフィルター有効	actions	menu	
 Show notifications	通知を表示	actions	menu	
 Add Note	メモに追加	actions	menu	
 Delete	削除	actions	menu	friendsTab

@@ -346,3 +346,13 @@ Show spells you lack the Magic level to cast		interface	mainTabs	spellBookTab
 Show spells you lack the runes to cast		interface	mainTabs	spellBookTab
 Show spells you lack the requirements to cast		interface	mainTabs	spellBookTab
 Enable icon resizing (outside PvP areas)		interface	mainTabs	spellBookTab
+Level <Num0>: Lvl-<Num1> Enchant		interface	mainTabs	spellBookTab
+For use on sapphire and opal jewellery		interface	mainTabs	spellBookTab
+For use on emerald and jade jewellery		interface	mainTabs	spellBookTab
+For use on ruby and topaz jewellery		interface	mainTabs	spellBookTab
+For use on diamond jewellery		interface	mainTabs	spellBookTab
+For use on dragonstone jewellery		interface	mainTabs	spellBookTab
+For use on onyx jewellery		interface	mainTabs	spellBookTab
+For use on zenyte jewellery		interface	mainTabs	spellBookTab
+Back		interface	mainTabs	spellBookTab
+Return to the full spellbook view		interface	mainTabs	spellBookTab
