@@ -25846,7 +25846,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118494"><xliff:source>Level &lt;Num0&gt;: Crumble Undead</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;アンデッド崩し</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118495"><xliff:source>Hits skeletons, ghosts, shades &amp; zombies hard</xliff:source><xliff:target state="translated">スケルトン・幽霊・陰・ゾンビに対して強い魔法</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118495"><xliff:source>Hits skeletons, ghosts, shades &amp; zombies hard</xliff:source><xliff:target state="translated">スケルトン・幽霊・陰・ゾンビに&lt;br&gt;対して強い魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118496"><xliff:source>Level &lt;Num0&gt;: Iban Blast</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;アイバン・ブラスト</xliff:target><xliff:note>category: interface
@@ -25894,7 +25894,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118510"><xliff:source>Level &lt;Num0&gt;: Snare</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;スネア</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118511"><xliff:source>Level &lt;Num0&gt;: Magic Dart</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118511"><xliff:source>Level &lt;Num0&gt;: Magic Dart</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：魔法のダーツ&lt;br&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118512"><xliff:source>A magic dart of slaying</xliff:source><xliff:target state="translated">討伐用の魔法発射体</xliff:target><xliff:note>category: interface
@@ -25912,7 +25912,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118516"><xliff:source>A medium level Earth missile</xliff:source><xliff:target state="translated">中級土魔法</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118517"><xliff:source>Level &lt;Num0&gt;: Civitas illa Fortis Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：シビリタス・&lt;br&gt;イラ・フォーチス・&lt;br&gt;ワープ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118517"><xliff:source>Level &lt;Num0&gt;: Civitas illa Fortis Teleport</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：シビリタス・イラ・&lt;br&gt;フォーチス・ワープ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118518"><xliff:source>Teleports you to Civitas illa Fortis</xliff:source><xliff:target state="translated">シビリタス・イラ・フォーチスに&lt;br&gt;ワープ</xliff:target><xliff:note>category: interface
@@ -26245,7 +26245,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118627"><xliff:source>Level &lt;Num0&gt;: Monster Examine</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;魔獣解析</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118628"><xliff:source>Detect the combat statistics of a monster</xliff:source><xliff:target state="translated">モンスターの戦闘ステータスを察知</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118628"><xliff:source>Detect the combat statistics of a monster</xliff:source><xliff:target state="translated">モンスターの戦闘ステータスを&lt;br&gt;魔法で察知する</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118629"><xliff:source>Level &lt;Num0&gt;: Tele Group Moonclan</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;ムーンクラン・集団ワープ</xliff:target><xliff:note>category: interface
@@ -26821,13 +26821,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118819"><xliff:source>Reduces your opponent's&lt;br&gt;defence by &lt;Num0&gt;%</xliff:source><xliff:target state="translated">敵の腕力を&lt;Num0&gt;%減</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118820"><xliff:source>&lt;Num0&gt;K/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;千&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118820"><xliff:source>&lt;Num0&gt;K/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;K/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118821"><xliff:source>&lt;Num0&gt;M&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;百万&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118821"><xliff:source>&lt;Num0&gt;M&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;M/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118822"><xliff:source>&lt;Num0&gt;B/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;十億&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118822"><xliff:source>&lt;Num0&gt;B/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;B/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118823"><xliff:source>Summons the power of Guthix&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">ガシックスの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface

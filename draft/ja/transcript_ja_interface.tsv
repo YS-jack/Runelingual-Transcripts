@@ -3567,7 +3567,7 @@ A low level Fire missile	低級火魔法	interface	mainTabs	spellBookTab
 Level <Num0>: Falador Teleport	レベル<Num0>：<br>ファラドー・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Falador	ファラドーにワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Crumble Undead	レベル<Num0>：<br>アンデッド崩し	interface	mainTabs	spellBookTab
-Hits skeletons, ghosts, shades & zombies hard	スケルトン・幽霊・陰・ゾンビに対して強い魔法	interface	mainTabs	spellBookTab
+Hits skeletons, ghosts, shades & zombies hard	スケルトン・幽霊・陰・ゾンビに<br>対して強い魔法	interface	mainTabs	spellBookTab
 Level <Num0>: Iban Blast	レベル<Num0>：<br>アイバン・ブラスト	interface	mainTabs	spellBookTab
 Summons the wrath of Iban	アイバンの憤怒を呼び起こす	interface	mainTabs	spellBookTab
 Level <Num0>: Kourend Castle Teleport	レベル<Num0>：<br>クーレンド城ワープ	interface	mainTabs	spellBookTab
@@ -3583,13 +3583,13 @@ A medium level Air missile	中級大気魔法	interface	mainTabs	spellBookTab
 Level <Num0>: Teleport to House	レベル<Num0>：<br>家ワープ	interface	mainTabs	spellBookTab
 Teleports you to your house	自宅にワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Snare	レベル<Num0>：<br>スネア	interface	mainTabs	spellBookTab
-Level <Num0>: Magic Dart	レベル<Num0>：<br>	interface	mainTabs	spellBookTab
+Level <Num0>: Magic Dart	レベル<Num0>：魔法のダーツ<br>	interface	mainTabs	spellBookTab
 A magic dart of slaying	討伐用の魔法発射体	interface	mainTabs	spellBookTab
 Level <Num0>: Ardougne Teleport	レベル<Num0>：<br>アルドイン・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Ardougne	アルドインにワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Earth Blast	レベル<Num0>：<br>アース・ブラスト	interface	mainTabs	spellBookTab
 A medium level Earth missile	中級土魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Civitas illa Fortis Teleport	レベル<Num0>：シビリタス・<br>イラ・フォーチス・<br>ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Civitas illa Fortis Teleport	レベル<Num0>：シビリタス・イラ・<br>フォーチス・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Civitas illa Fortis	シビリタス・イラ・フォーチスに<br>ワープ	interface	mainTabs	spellBookTab
 Level <Num0>: High Level Alchemy	レベル<Num0>：<br>上級錬金術	interface	mainTabs	spellBookTab
 Converts an item into more gold	アイテムをより多くの金に変える	interface	mainTabs	spellBookTab
@@ -3700,7 +3700,7 @@ Checks the status of your main Farming patches	主要な畑の状態を確認	in
 Level <Num0>: Cure Plant	レベル<Num0>：<br>植物治癒	interface	mainTabs	spellBookTab
 Cures disease on farming patch	畑の病気を治す	interface	mainTabs	spellBookTab
 Level <Num0>: Monster Examine	レベル<Num0>：<br>魔獣解析	interface	mainTabs	spellBookTab
-Detect the combat statistics of a monster	モンスターの戦闘ステータスを察知	interface	mainTabs	spellBookTab
+Detect the combat statistics of a monster	モンスターの戦闘ステータスを<br>魔法で察知する	interface	mainTabs	spellBookTab
 Level <Num0>: Tele Group Moonclan	レベル<Num0>：<br>ムーンクラン・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to Moonclan Island	複数人でムーンクランにワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Moonclan Teleport	レベル<Num0>：<br>ムーンクラン・ワープ	interface	mainTabs	spellBookTab
@@ -3892,9 +3892,9 @@ Summons the power of Saradomin <colNum0>Requires Mage Arena I</col>	サラドミ
 Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する	interface	mainTabs	spellBookTab
 Reduces your opponent's<br>strength by <Num0>%	敵の腕力を<Num0>%減	interface	mainTabs	spellBookTab
 Reduces your opponent's<br>defence by <Num0>%	敵の腕力を<Num0>%減	interface	mainTabs	spellBookTab
-<Num0>K/<Num1>	<Num0><asis>*</asis>千<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
-<Num0>M<Num1>	<Num0><asis>*</asis>百万<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
-<Num0>B/<Num1>	<Num0><asis>*</asis>十億<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
+<Num0>K/<Num1>	<Num0><asis>K/</asis><Num1>	interface	mainTabs	spellBookTab
+<Num0>M<Num1>	<Num0><asis>M/</asis><Num1>	interface	mainTabs	spellBookTab
+<Num0>B/<Num1>	<Num0><asis>B/</asis><Num1>	interface	mainTabs	spellBookTab
 Summons the power of Guthix<br><colNum0>Requires Mage Arena I</col>	ガシックスの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
 Summons the power of Saradomin<br><colNum0>Requires Mage Arena I</col>	サラドミンの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
 Teleports you to the Watchtower<br><colNum0>Requires Watchtower</col>	監視塔にワープ<br><colNum0>「監視塔」後</col>	interface	mainTabs	spellBookTab
