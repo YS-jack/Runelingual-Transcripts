@@ -1416,7 +1416,7 @@ Add Friend	フレンド追加	actions	menu	friendsTab
 Delete Friend	フレンド削除	actions	menu	friendsTab
 View Friends List	フレンド一覧を表示	actions	menu	ignoreTab
 Delete	削除	actions	menu	ignoreTab
-Add Name	名前を追加	actions	menu	ignoreTab
+Add Name	追加	actions	menu	ignoreTab
 Delete Name	名前を削除	actions	menu	ignoreTab
 Account	アカウント	actions	menu	accountManagementTab
 Community	コミュニティ	actions	menu	accountManagementTab

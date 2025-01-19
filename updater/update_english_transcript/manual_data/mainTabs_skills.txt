@@ -26,3 +26,13 @@ Farming XP:		interface	mainTabs	skillsTab
 Total XP:		interface	mainTabs	skillsTab
 Next level at:		interface	mainTabs	skillsTab
 Remaining XP:		interface	mainTabs	skillsTab
+<colNum0>Construction:</col>		interface	mainTabs	skillsTab
+<colNum0>Members Only</col>		interface	mainTabs	skillsTab
+<colNum0>Hunter:</col>		interface	mainTabs	skillsTab
+Free Total Level:		interface	mainTabs	skillsTab
+<colNum0>Farming:</col>		interface	mainTabs	skillsTab
+<colNum0>Slayer:</col>		interface	mainTabs	skillsTab
+<colNum0>Fletching:</col>		interface	mainTabs	skillsTab
+<colNum0>Thieving:</col>		interface	mainTabs	skillsTab
+<colNum0>Herblore:</col>		interface	mainTabs	skillsTab
+<colNum0>Agility:</col>		interface	mainTabs	skillsTab

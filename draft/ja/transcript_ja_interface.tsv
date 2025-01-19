@@ -3592,7 +3592,7 @@ A medium level Earth missile	中級土魔法	interface	mainTabs	spellBookTab
 Level <Num0>: Civitas illa Fortis Teleport	レベル<Num0>：シビリタス・イラ・<br>フォーチス・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Civitas illa Fortis	シビリタス・イラ・フォーチスに<br>ワープ	interface	mainTabs	spellBookTab
 Level <Num0>: High Level Alchemy	レベル<Num0>：<br>上級錬金術	interface	mainTabs	spellBookTab
-Converts an item into more gold	アイテムをより多くの金に変える	interface	mainTabs	spellBookTab
+Converts an item into more gold	アイテムをより多くの金に<br>変える	interface	mainTabs	spellBookTab
 Level <Num0>: Charge Water Orb	レベル<Num0>：<br>水のオーブ錬成	interface	mainTabs	spellBookTab
 Needs to be cast on a water obelisk	水オベリスクに唱える	interface	mainTabs	spellBookTab
 Level <Num0>: Flames of Zamorak	レベル<Num0>：<br>ザモラックの炎	interface	mainTabs	spellBookTab
@@ -3901,11 +3901,11 @@ Teleports you to the Watchtower<br><colNum0>Requires Watchtower</col>	監視塔�
 Summons the power of Zamorak<br><colNum0>Requires Mage Arena I</col>	ザモラックの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
 Teleports you to Trollheim<br><colNum0>Requires Eadgar's Ruse</col>	トロールハイムにワープ<br><colNum0>「エドガーの策略」後</col>	interface	mainTabs	spellBookTab
 Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Requires Mage Arena I</col>	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
-Friends - W<Num0> (<Num1>/<Num2>)	友達：世<asis><Num0>(<Num1>/<Num2>)</asis>	interface	mainTabs	friendsTab
+Friends - W<Num0> (<Num1>/<Num2>)	友達：世<Num0><asis>(<Num1>/<Num2>)</asis>	interface	mainTabs	friendsTab
 <colNum0>World <Num0>	<colNum0>世界<Num0>	interface	mainTabs	friendsTab
 Offline	不在	interface	mainTabs	friendsTab
 Del Friend	フレンド<br>削除	interface	mainTabs	friendsTab
-Ignores - W<Num0> (<Num1>/<Num2>)	無視：世<asis><Num0>(<Num1>/<Num2>)</asis>	interface	mainTabs	ignoreTab
+Ignores - W<Num0> (<Num1>/<Num2>)	無視：世<Num0><asis>(<Num1>/<Num2>)</asis>	interface	mainTabs	ignoreTab
 Add Name	追加	interface	mainTabs	ignoreTab
 Del Name	削除	interface	mainTabs	ignoreTab
 Add Friend	フレンド<br>追加	interface	mainTabs	friendsTab
@@ -3972,3 +3972,16 @@ Teleports you near your Target<br><colNum0>Members Only</col>	標的付近にワ
 Teleports target to Camelot<br><colNum0>Members Only</col>	目標をカメロットにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
 A very high level Earth missile<br><colNum0>Members Only</col>	特級土魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
 A very high level Fire missile<br><colNum0>Members Only</col>	特級火魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+<colNum0>Construction:</col>	<colNum0>建築：</col>	interface	mainTabs	skillsTab
+<colNum0>Members Only</col>	<colNum0>会員限定</col>	interface	mainTabs	skillsTab
+<colNum0>Hunter:</col>	<colNum0>狩人：</col>	interface	mainTabs	skillsTab
+Free Total Level:	無課金合計Lv：	interface	mainTabs	skillsTab
+<colNum0>Farming:</col>	<colNum0>農業：</col>	interface	mainTabs	skillsTab
+<colNum0>Slayer:</col>	<colNum0>討伐：</col>	interface	mainTabs	skillsTab
+<colNum0>Fletching:</col>	<colNum0>木材加工：</col>	interface	mainTabs	skillsTab
+<colNum0>Thieving:</col>	<colNum0>盗み：</col>	interface	mainTabs	skillsTab
+<colNum0>Herblore:</col>	<colNum0>調合：</col>	interface	mainTabs	skillsTab
+<colNum0>Agility:</col>	<colNum0>運動神経：</col>	interface	mainTabs	skillsTab
+For use on dragonstone jewellery<br><colNum0>Members Only</col>	竜石の宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+For use on onyx jewellery<br><colNum0>Members Only</col>	オニキスの宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+For use on zenyte jewellery<br><colNum0>Members Only</col>	ゼナイトの宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
