@@ -3882,3 +3882,16 @@ For use on onyx jewellery	オニキスの宝石用	interface	mainTabs	spellBookT
 For use on zenyte jewellery	ゼナイトの宝石用	interface	mainTabs	spellBookTab
 Back	戻る	interface	mainTabs	spellBookTab
 Return to the full spellbook view	魔導書全体へ戻る	interface	mainTabs	spellBookTab
+Level <Num0>: Confuse	レベル<Num0>：<br>混乱	interface	mainTabs	spellBookTab
+Summons the power of Zamorak <colNum0>Requires Mage Arena I</col>	ザモラックの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Temporarily increases the power of the three arena spells when wearing Mage Arena capes <colNum0>Requires Mage Arena I</col>	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Teleports you to Trollheim <colNum0>Requires Eadgar's Ruse</col>	トロールハイムにワープ<br><colNum0>「エドガーの策略」後</col>	interface	mainTabs	spellBookTab
+Teleports you to the Watchtower <colNum0>Requires Watchtower</col>	監視塔にワープ<br><colNum0>「監視塔」後</col>	interface	mainTabs	spellBookTab
+Summons the power of Guthix <colNum0>Requires Mage Arena I</col>	ガシックスの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Summons the power of Saradomin <colNum0>Requires Mage Arena I</col>	サラドミンの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する	interface	mainTabs	spellBookTab
+Reduces your opponent's<br>strength by <Num0>%	敵の腕力を<Num0>%減	interface	mainTabs	spellBookTab
+Reduces your opponent's<br>defence by <Num0>%	敵の腕力を<Num0>%減	interface	mainTabs	spellBookTab
+<Num0>K/<Num1>	<Num0><asis>*</asis>千<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
+<Num0>M<Num1>	<Num0><asis>*</asis>百万<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
+<Num0>B/<Num1>	<Num0><asis>*</asis>十億<asis>/</asis><Num1>	interface	mainTabs	spellBookTab

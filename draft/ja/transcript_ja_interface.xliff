@@ -26791,6 +26791,45 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118809"><xliff:source>Return to the full spellbook view</xliff:source><xliff:target state="translated">魔導書全体へ戻る</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118810"><xliff:source>Level &lt;Num0&gt;: Confuse</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;混乱</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118811"><xliff:source>Summons the power of Zamorak &lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">ザモラックの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118812"><xliff:source>Temporarily increases the power of the three arena spells when wearing Mage Arena capes &lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">魔術師アリーナのマント装着時&lt;br&gt;一定時間３種のアリーナ魔法を&lt;br&gt;強化する&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118813"><xliff:source>Teleports you to Trollheim &lt;colNum0&gt;Requires Eadgar's Ruse&lt;/col&gt;</xliff:source><xliff:target state="translated">トロールハイムにワープ&lt;br&gt;&lt;colNum0&gt;「エドガーの策略」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118814"><xliff:source>Teleports you to the Watchtower &lt;colNum0&gt;Requires Watchtower&lt;/col&gt;</xliff:source><xliff:target state="translated">監視塔にワープ&lt;br&gt;&lt;colNum0&gt;「監視塔」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118815"><xliff:source>Summons the power of Guthix &lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">ガシックスの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118816"><xliff:source>Summons the power of Saradomin &lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">サラドミンの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118817"><xliff:source>Temporarily increases the power&lt;br&gt;of the three arena spells when wearing Mage Arena capes</xliff:source><xliff:target state="translated">魔術師アリーナのマント装着時&lt;br&gt;一定時間３種のアリーナ魔法を&lt;br&gt;強化する</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118818"><xliff:source>Reduces your opponent's&lt;br&gt;strength by &lt;Num0&gt;%</xliff:source><xliff:target state="translated">敵の腕力を&lt;Num0&gt;%減</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118819"><xliff:source>Reduces your opponent's&lt;br&gt;defence by &lt;Num0&gt;%</xliff:source><xliff:target state="translated">敵の腕力を&lt;Num0&gt;%減</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118820"><xliff:source>&lt;Num0&gt;K/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;千&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118821"><xliff:source>&lt;Num0&gt;M&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;百万&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118822"><xliff:source>&lt;Num0&gt;B/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;十億&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
