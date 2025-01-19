@@ -1867,7 +1867,7 @@ Inferior Demonbane	劣勢・悪魔殺し	interface	generalUI	skillGuide
 Shadow Veil (After A Kingdom Divided)	影のベール（「分裂した王国」後）	interface	generalUI	skillGuide
 Fenkenstrain's Castle teleport	フェンケンストレイン城・ワープ	interface	generalUI	skillGuide
 Dark Lure (After A Kingdom Divided)	闇の誘い（「分裂した王国」後）	interface	generalUI	skillGuide
-Skeletal Grasp (After A Kingdom Divided)	スケルトン掌握（「分裂した王国」後）	interface	generalUI	skillGuide
+Skeletal Grasp (After A Kingdom Divided)	骨の掌握（「分裂した王国」後）	interface	generalUI	skillGuide
 Resurrect Superior Ghost (After A Kingdom Divided)	中級ゴースト復活術式（「分裂した王国」後）	interface	generalUI	skillGuide
 Resurrect Superior Skeleton (After A Kingdom Divided)	中級スケルトン復活術式（「分裂した王国」後）	interface	generalUI	skillGuide
 Resurrect Superior Zombie (After A Kingdom Divided)	中級ゾンビ復活術式（「分裂した王国」後）	interface	generalUI	skillGuide
@@ -3527,342 +3527,342 @@ Level <Num0><br>Superhuman Strength<br>Increases your strength by <Num1>%.	レ�
 Level <Num0><br>Chivalry<br>Increases your defence by <Num1>%, strength by <Num2>%, and attack by <Num3>%.	レベル<Num0><br>騎士道<br>守備力+<Num1>%、腕力+<Num2>%、<br>攻撃力+<Num3>%	interface	mainTabs	prayerTab
 Filters	絞込	interface	mainTabs	spellBookTab
 Lumbridge Home Teleport	ランブリッジ帰還ワープ	interface	mainTabs	spellBookTab
-Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.	ルーン不要、使用後<Num0>分間は使用不可警告：長時間の詠唱が必要、戦闘で中断される	interface	mainTabs	spellBookTab
-Level <Num0>: Wind Strike	レベル<Num0>：ウィンド・ストライク	interface	mainTabs	spellBookTab
+Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.	ルーン不要、使用後<Num0>分間は<br>使用できない。<br>警告：長時間の詠唱が<br>必要で戦闘で中断する	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Strike	レベル<Num0>：<br>ウィンド・ストライク	interface	mainTabs	spellBookTab
 A basic Air missile	基礎的な大気魔法	interface	mainTabs	spellBookTab
 Crossbow Bolt Enchantments	ボルトに魔法付与	interface	mainTabs	spellBookTab
 View the various crossbow bolt enchantment spells (<Num0>+ Magic required)	可能なボルトの魔法付与を確認<br>（魔法Lv<Num0>+）	interface	mainTabs	spellBookTab
-Level <Num0>: Water Strike	レベル<Num0>：ウォーター・ストライク	interface	mainTabs	spellBookTab
+Level <Num0>: Water Strike	レベル<Num0>：<br>ウォーター・ストライク	interface	mainTabs	spellBookTab
 A basic Water missile	基礎的な水魔法	interface	mainTabs	spellBookTab
 Jewellery Enchantments	宝石に魔法付与	interface	mainTabs	spellBookTab
 View the various jewellery enchantment spells (<Num0>+ Magic required)	可能な宝石の魔法付与を確認<br>（魔法Lv<Num0>+）	interface	mainTabs	spellBookTab
-Level <Num0>: Earth Strike	レベル<Num0>：アース・ストライク	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Strike	レベル<Num0>：<br>アース・ストライク	interface	mainTabs	spellBookTab
 A basic Earth missile	基礎的な土魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Weaken	レベル<Num0>：弱体化	interface	mainTabs	spellBookTab
+Level <Num0>: Weaken	レベル<Num0>：<br>弱体化	interface	mainTabs	spellBookTab
 Reduces your opponent's strength by <Num0>%	敵の腕力を<Num0>%減	interface	mainTabs	spellBookTab
-Level <Num0>: Low Level Alchemy	レベル<Num0>：初級錬金術	interface	mainTabs	spellBookTab
+Level <Num0>: Low Level Alchemy	レベル<Num0>：<br>初級錬金術	interface	mainTabs	spellBookTab
 Converts an item into gold	アイテムを金に変える	interface	mainTabs	spellBookTab
-Level <Num0>: Telekinetic Grab	レベル<Num0>：掌握	interface	mainTabs	spellBookTab
-Take an item you can see but can't reach	見えるけど届かないアイテムが拾える	interface	mainTabs	spellBookTab
-Level <Num0>: Bind	レベル<Num0>：バインド	interface	mainTabs	spellBookTab
+Level <Num0>: Telekinetic Grab	レベル<Num0>：<br>掌握	interface	mainTabs	spellBookTab
+Take an item you can see but can't reach	見えるけど届かないアイテムが<br>拾える	interface	mainTabs	spellBookTab
+Level <Num0>: Bind	レベル<Num0>：<br>バインド	interface	mainTabs	spellBookTab
 Holds your opponent for <Num0> seconds	敵を<Num0>秒間拘束する	interface	mainTabs	spellBookTab
-Level <Num0>: Curse	レベル<Num0>：呪い	interface	mainTabs	spellBookTab
+Level <Num0>: Curse	レベル<Num0>：<br>呪い	interface	mainTabs	spellBookTab
 Reduces your opponent's defence by <Num0>%	敵の守備力を<Num0>%減	interface	mainTabs	spellBookTab
-Level <Num0>: Wind Bolt	レベル<Num0>：ウィンド・ボルト	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Bolt	レベル<Num0>：<br>ウィンド・ボルト	interface	mainTabs	spellBookTab
 A low level Air missile	低級大気魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Bones to Bananas	レベル<Num0>：骨をバナナに	interface	mainTabs	spellBookTab
+Level <Num0>: Bones to Bananas	レベル<Num0>：<br>骨をバナナに	interface	mainTabs	spellBookTab
 Changes held bones into bananas	所持中の骨をバナナに変える	interface	mainTabs	spellBookTab
-Level <Num0>: Fire Strike	レベル<Num0>：ファイヤー・ストライク	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Strike	レベル<Num0>：<br>ファイヤー・ストライク	interface	mainTabs	spellBookTab
 A basic Fire missile	基礎的な火魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Water Bolt	レベル<Num0>：ウォーター・ボルト	interface	mainTabs	spellBookTab
+Level <Num0>: Water Bolt	レベル<Num0>：<br>ウォーター・ボルト	interface	mainTabs	spellBookTab
 A low level Water missile	低級水魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Varrock Teleport	レベル<Num0>：ヴァロック・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Varrock Teleport	レベル<Num0>：<br>ヴァロック・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Varrock	ヴァロックにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Earth Bolt	レベル<Num0>：アース・ボルト	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Bolt	レベル<Num0>：<br>アース・ボルト	interface	mainTabs	spellBookTab
 A low level Earth missile	低級土魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Lumbridge Teleport	レベル<Num0>：ランブリッジ・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Lumbridge Teleport	レベル<Num0>：<br>ランブリッジ・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Lumbridge	ランブリッジにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Fire Bolt	レベル<Num0>：ファイヤー・ボルト	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Bolt	レベル<Num0>：<br>ファイヤー・ボルト	interface	mainTabs	spellBookTab
 A low level Fire missile	低級火魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Falador Teleport	レベル<Num0>：ファラドー・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Falador Teleport	レベル<Num0>：<br>ファラドー・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Falador	ファラドーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Crumble Undead	レベル<Num0>：アンデッド崩し	interface	mainTabs	spellBookTab
-Hits skeletons, ghosts, shades & zombies hard	スケルトン・幽霊・陰・<br>ゾンビに強い魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Iban Blast	レベル<Num0>：アイバン・ブラスト	interface	mainTabs	spellBookTab
+Level <Num0>: Crumble Undead	レベル<Num0>：<br>アンデッド崩し	interface	mainTabs	spellBookTab
+Hits skeletons, ghosts, shades & zombies hard	スケルトン・幽霊・陰・ゾンビに対して強い魔法	interface	mainTabs	spellBookTab
+Level <Num0>: Iban Blast	レベル<Num0>：<br>アイバン・ブラスト	interface	mainTabs	spellBookTab
 Summons the wrath of Iban	アイバンの憤怒を呼び起こす	interface	mainTabs	spellBookTab
-Level <Num0>: Kourend Castle Teleport	レベル<Num0>：クーレンド城ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Kourend Castle Teleport	レベル<Num0>：<br>クーレンド城ワープ	interface	mainTabs	spellBookTab
 Teleports you to Kourend Castle	クーレンド城にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Water Blast	レベル<Num0>：ウォーター・ブラスト	interface	mainTabs	spellBookTab
+Level <Num0>: Water Blast	レベル<Num0>：<br>ウォーター・ブラスト	interface	mainTabs	spellBookTab
 A medium level Water missile	中級水魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Camelot Teleport	レベル<Num0>：カメロット・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Camelot Teleport	レベル<Num0>：<br>カメロット・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Camelot	カメロットにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Superheat Item	レベル<Num0>：超加熱	interface	mainTabs	spellBookTab
+Level <Num0>: Superheat Item	レベル<Num0>：<br>超加熱	interface	mainTabs	spellBookTab
 Smelt ore without a furnace	鉱石を炉なしで溶解	interface	mainTabs	spellBookTab
-Level <Num0>: Wind Blast	レベル<Num0>：ウィンド・ブラスト	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Blast	レベル<Num0>：<br>ウィンド・ブラスト	interface	mainTabs	spellBookTab
 A medium level Air missile	中級大気魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Teleport to House	レベル<Num0>：家ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Teleport to House	レベル<Num0>：<br>家ワープ	interface	mainTabs	spellBookTab
 Teleports you to your house	自宅にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Snare	レベル<Num0>：スネア	interface	mainTabs	spellBookTab
-Level <Num0>: Magic Dart	レベル<Num0>：	interface	mainTabs	spellBookTab
+Level <Num0>: Snare	レベル<Num0>：<br>スネア	interface	mainTabs	spellBookTab
+Level <Num0>: Magic Dart	レベル<Num0>：<br>	interface	mainTabs	spellBookTab
 A magic dart of slaying	討伐用の魔法発射体	interface	mainTabs	spellBookTab
-Level <Num0>: Ardougne Teleport	レベル<Num0>：アルドイン・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Ardougne Teleport	レベル<Num0>：<br>アルドイン・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Ardougne	アルドインにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Earth Blast	レベル<Num0>：アース・ブラスト	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Blast	レベル<Num0>：<br>アース・ブラスト	interface	mainTabs	spellBookTab
 A medium level Earth missile	中級土魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Civitas illa Fortis Teleport	レベル<Num0>：シビリタス・ワープ	interface	mainTabs	spellBookTab
-Teleports you to Civitas illa Fortis	シビリタス・イラ・フォーチスにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: High Level Alchemy	レベル<Num0>：上級錬金術	interface	mainTabs	spellBookTab
+Level <Num0>: Civitas illa Fortis Teleport	レベル<Num0>：シビリタス・<br>イラ・フォーチス・<br>ワープ	interface	mainTabs	spellBookTab
+Teleports you to Civitas illa Fortis	シビリタス・イラ・フォーチスに<br>ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: High Level Alchemy	レベル<Num0>：<br>上級錬金術	interface	mainTabs	spellBookTab
 Converts an item into more gold	アイテムをより多くの金に変える	interface	mainTabs	spellBookTab
-Level <Num0>: Charge Water Orb	レベル<Num0>：水のオーブ錬成	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Water Orb	レベル<Num0>：<br>水のオーブ錬成	interface	mainTabs	spellBookTab
 Needs to be cast on a water obelisk	水オベリスクに唱える	interface	mainTabs	spellBookTab
-Level <Num0>: Flames of Zamorak	レベル<Num0>：ザモラックの炎	interface	mainTabs	spellBookTab
+Level <Num0>: Flames of Zamorak	レベル<Num0>：<br>ザモラックの炎	interface	mainTabs	spellBookTab
 Summons the power of Zamorak	ザモラックの力を呼び起こす	interface	mainTabs	spellBookTab
-Level <Num0>: Claws of Guthix	レベル<Num0>：ガシックスの鉤爪	interface	mainTabs	spellBookTab
+Level <Num0>: Claws of Guthix	レベル<Num0>：<br>ガシックスの鉤爪	interface	mainTabs	spellBookTab
 Summons the power of Guthix	ガシックスの力を呼び起こす	interface	mainTabs	spellBookTab
-Level <Num0>: Saradomin Strike	レベル<Num0>：サラドミン・ストライク	interface	mainTabs	spellBookTab
+Level <Num0>: Saradomin Strike	レベル<Num0>：<br>サラドミン・ストライク	interface	mainTabs	spellBookTab
 Summons the power of Saradomin	サラドミンの力を呼び起こす	interface	mainTabs	spellBookTab
-Level <Num0>: Bones to Peaches	レベル<Num0>：骨をモモに	interface	mainTabs	spellBookTab
+Level <Num0>: Bones to Peaches	レベル<Num0>：<br>骨をモモに	interface	mainTabs	spellBookTab
 Turns Bones into Peaches	骨をモモに変える	interface	mainTabs	spellBookTab
-Level <Num0>: Charge Earth Orb	レベル<Num0>：土のオーブ錬成	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Earth Orb	レベル<Num0>：<br>土のオーブ錬成	interface	mainTabs	spellBookTab
 Needs to be cast on an earth obelisk	土オベリスクに唱える	interface	mainTabs	spellBookTab
-Level <Num0>: Fire Blast	レベル<Num0>：ファイヤー・ブラスト	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Blast	レベル<Num0>：<br>ファイヤー・ブラスト	interface	mainTabs	spellBookTab
 A medium level Fire missile	中級火魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Watchtower Teleport	レベル<Num0>：監視塔ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Watchtower Teleport	レベル<Num0>：<br>監視塔ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Watchtower	監視塔にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Trollheim Teleport	レベル<Num0>：トロールハイム・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Trollheim Teleport	レベル<Num0>：<br>トロールハイム・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Trollheim	トロールハイムにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Wind Wave	レベル<Num0>：ウィンド・ウェーブ	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Wave	レベル<Num0>：<br>ウィンド・ウェーブ	interface	mainTabs	spellBookTab
 A high level Air missile	上級大気魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Charge Fire Orb	レベル<Num0>：火のオーブ錬成	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Fire Orb	レベル<Num0>：<br>火のオーブ錬成	interface	mainTabs	spellBookTab
 Needs to be cast on a fire obelisk	火オベリスクに唱える	interface	mainTabs	spellBookTab
-Level <Num0>: Ape Atoll Teleport	レベル<Num0>：エイプ・アトール・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Ape Atoll Teleport	レベル<Num0>：<br>エイプ・アトール・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Ape Atoll	エイプ・アトールにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Water Wave	レベル<Num0>：ウォーター・ウェーブ	interface	mainTabs	spellBookTab
+Level <Num0>: Water Wave	レベル<Num0>：<br>ウォーター・ウェーブ	interface	mainTabs	spellBookTab
 A high level Water missile	上級水魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Charge Air Orb	レベル<Num0>：大気のオーブ錬成	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Air Orb	レベル<Num0>：<br>大気のオーブ錬成	interface	mainTabs	spellBookTab
 Needs to be cast on an air obelisk	大気オベリスクに唱える	interface	mainTabs	spellBookTab
-Level <Num0>: Vulnerability	レベル<Num0>：脆弱性	interface	mainTabs	spellBookTab
-Level <Num0>: Charge	レベル<Num0>：チャージ	interface	mainTabs	spellBookTab
-Temporarily increases the power of the three arena spells when wearing Mage Arena capes	魔術師アリーナのマント装着時、<br>一定時間３種のアリーナ魔法を強化	interface	mainTabs	spellBookTab
-Level <Num0>: Stun	レベル<Num0>：スタン	interface	mainTabs	spellBookTab
+Level <Num0>: Vulnerability	レベル<Num0>：<br>脆弱性	interface	mainTabs	spellBookTab
+Level <Num0>: Charge	レベル<Num0>：<br>チャージ	interface	mainTabs	spellBookTab
+Temporarily increases the power of the three arena spells when wearing Mage Arena capes	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する	interface	mainTabs	spellBookTab
+Level <Num0>: Stun	レベル<Num0>：<br>スタン	interface	mainTabs	spellBookTab
 Reduces your opponent's attack by <Num0>%	敵の攻撃力を<Num0>%減	interface	mainTabs	spellBookTab
-Level <Num0>: Entangle	レベル<Num0>：束縛	interface	mainTabs	spellBookTab
-Level <Num0>: Fire Wave	レベル<Num0>：ファイヤー・ウェーブ	interface	mainTabs	spellBookTab
+Level <Num0>: Entangle	レベル<Num0>：<br>束縛	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Wave	レベル<Num0>：<br>ファイヤー・ウェーブ	interface	mainTabs	spellBookTab
 A high level Fire missile	上級火魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Teleother Lumbridge	レベル<Num0>：ランブリッジ・他ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Teleother Lumbridge	レベル<Num0>：<br>ランブリッジ・他ワープ	interface	mainTabs	spellBookTab
 Teleports target to Lumbridge	目標をランブリッジにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Enfeeble	レベル<Num0>：衰弱	interface	mainTabs	spellBookTab
-Level <Num0>: Earth Wave	レベル<Num0>：アース・ウェーブ	interface	mainTabs	spellBookTab
+Level <Num0>: Enfeeble	レベル<Num0>：<br>衰弱	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Wave	レベル<Num0>：<br>アース・ウェーブ	interface	mainTabs	spellBookTab
 A high level Earth missile	上級土魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Wind Surge	レベル<Num0>：ウィンド・サージ	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Surge	レベル<Num0>：<br>ウィンド・サージ	interface	mainTabs	spellBookTab
 A very high level Air missile	特級大気魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Teleother Falador	レベル<Num0>：ファラドー・他ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Teleother Falador	レベル<Num0>：<br>ファラドー・他ワープ	interface	mainTabs	spellBookTab
 Teleports target to Falador	目標をファラドーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Water Surge	レベル<Num0>：ウォーター・サージ	interface	mainTabs	spellBookTab
+Level <Num0>: Water Surge	レベル<Num0>：<br>ウォーター・サージ	interface	mainTabs	spellBookTab
 A very high level Water missile	特級水魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Block	レベル<Num0>：ワープ阻止	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Block	レベル<Num0>：<br>ワープ阻止	interface	mainTabs	spellBookTab
 Stops your target from teleporting	目標のワープを阻止する	interface	mainTabs	spellBookTab
-Level <Num0>: Teleport to Target	レベル<Num0>：標的にワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Teleport to Target	レベル<Num0>：<br>標的にワープ	interface	mainTabs	spellBookTab
 Teleports you near your Target	標的付近にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Teleother Camelot	レベル<Num0>：カメロット・他ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Teleother Camelot	レベル<Num0>：<br>カメロット・他ワープ	interface	mainTabs	spellBookTab
 Teleports target to Camelot	目標をカメロットにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Earth Surge	レベル<Num0>：アース・サージ	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Surge	レベル<Num0>：<br>アース・サージ	interface	mainTabs	spellBookTab
 A very high level Earth missile	特級土魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Fire Surge	レベル<Num0>：ファイヤー・サージ	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Surge	レベル<Num0>：<br>ファイヤー・サージ	interface	mainTabs	spellBookTab
 A very high level Fire missile	特級火魔法	interface	mainTabs	spellBookTab
 Edgeville Home Teleport	エッジビル帰還ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Rush	レベル<Num0>：スモーク・ラッシュ	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Rush	レベル<Num0>：<br>スモーク・ラッシュ	interface	mainTabs	spellBookTab
 A single target smoke attack	煙の単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Rush	レベル<Num0>：シャドウ・ラッシュ	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Rush	レベル<Num0>：<br>シャドウ・ラッシュ	interface	mainTabs	spellBookTab
 A single target shadow attack	影の単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Paddewwa Teleport	レベル<Num0>：パデワ・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Paddewwa Teleport	レベル<Num0>：<br>パデワ・ワープ	interface	mainTabs	spellBookTab
 A teleportation spell	ワープ魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Burst	レベル<Num0>：スモーク・バースト	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Burst	レベル<Num0>：<br>スモーク・バースト	interface	mainTabs	spellBookTab
 A multi-target smoke attack	煙の範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Senntisten Teleport	レベル<Num0>：センチステン・ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Ice Rush	レベル<Num0>：アイス・ラッシュ	interface	mainTabs	spellBookTab
+Level <Num0>: Senntisten Teleport	レベル<Num0>：<br>センチステン・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Rush	レベル<Num0>：<br>アイス・ラッシュ	interface	mainTabs	spellBookTab
 A single target ice attack	氷の単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Blood Rush	レベル<Num0>：ブラッド・ラッシュ	interface	mainTabs	spellBookTab
+Level <Num0>: Blood Rush	レベル<Num0>：<br>ブラッド・ラッシュ	interface	mainTabs	spellBookTab
 A single target blood attack	血の単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Burst	レベル<Num0>：シャドウ・バースト	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Burst	レベル<Num0>：<br>シャドウ・バースト	interface	mainTabs	spellBookTab
 A multi-target shadow attack	影の範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Kharyrll Teleport	レベル<Num0>：カリール・ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Blood Burst	レベル<Num0>：ブラッド・バースト	interface	mainTabs	spellBookTab
+Level <Num0>: Kharyrll Teleport	レベル<Num0>：<br>カリール・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Blood Burst	レベル<Num0>：<br>ブラッド・バースト	interface	mainTabs	spellBookTab
 A multi-target blood attack	血の範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Ice Burst	レベル<Num0>：アイス・バースト	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Burst	レベル<Num0>：<br>アイス・バースト	interface	mainTabs	spellBookTab
 A multi-target ice attack	氷の範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Dareeyak Teleport	レベル<Num0>：ダリーヤク・ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Blitz	レベル<Num0>：シャドウ・ブリッツ	interface	mainTabs	spellBookTab
+Level <Num0>: Dareeyak Teleport	レベル<Num0>：<br>ダリーヤク・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Blitz	レベル<Num0>：<br>シャドウ・ブリッツ	interface	mainTabs	spellBookTab
 A single target strong shadow attack	影の強い単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Blitz	レベル<Num0>：スモーク・ブリッツ	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Blitz	レベル<Num0>：<br>スモーク・ブリッツ	interface	mainTabs	spellBookTab
 A single target strong smoke attack	煙の強い単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Lassar Teleport	レベル<Num0>：ラサー・ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Blood Blitz	レベル<Num0>：ブラッド・ブリッツ	interface	mainTabs	spellBookTab
+Level <Num0>: Lassar Teleport	レベル<Num0>：<br>ラサー・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Blood Blitz	レベル<Num0>：<br>ブラッド・ブリッツ	interface	mainTabs	spellBookTab
 A single target strong blood attack	血の強い単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Ice Blitz	レベル<Num0>：アイス・ブリッツ	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Blitz	レベル<Num0>：<br>アイス・ブリッツ	interface	mainTabs	spellBookTab
 A single target strong ice attack	氷の強い単体攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Carrallanger Teleport	レベル<Num0>：カラランガー・ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Blood Barrage	レベル<Num0>：ブラッド・バラージ	interface	mainTabs	spellBookTab
+Level <Num0>: Carrallanger Teleport	レベル<Num0>：<br>カラランガー・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Blood Barrage	レベル<Num0>：<br>ブラッド・バラージ	interface	mainTabs	spellBookTab
 A multi-target strong blood attack	血の強い範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Annakarl Teleport	レベル<Num0>：アナカール・ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Barrage	レベル<Num0>：シャドウ・バラージ	interface	mainTabs	spellBookTab
+Level <Num0>: Annakarl Teleport	レベル<Num0>：<br>アナカール・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Barrage	レベル<Num0>：<br>シャドウ・バラージ	interface	mainTabs	spellBookTab
 A multi-target strong shadow attack	影の強い範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Barrage	レベル<Num0>：スモーク・バラージ	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Barrage	レベル<Num0>：<br>スモーク・バラージ	interface	mainTabs	spellBookTab
 A multi-target strong smoke attack	煙の強い範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Ice Barrage	レベル<Num0>：アイス・バラージ	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Barrage	レベル<Num0>：<br>アイス・バラージ	interface	mainTabs	spellBookTab
 A multi-target strong ice attack	氷の強い範囲攻撃魔法	interface	mainTabs	spellBookTab
-Level <Num0>: Ghorrock Teleport	レベル<Num0>：ゴロック・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Ghorrock Teleport	レベル<Num0>：<br>ゴロック・ワープ	interface	mainTabs	spellBookTab
 Lunar Home Teleport	ルーナ帰還ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Bake Pie	レベル<Num0>：パイを焼く	interface	mainTabs	spellBookTab
+Level <Num0>: Bake Pie	レベル<Num0>：<br>パイを焼く	interface	mainTabs	spellBookTab
 Bake pies without a stove	パイをストーブなしで焼く	interface	mainTabs	spellBookTab
-Level <Num0>: Geomancy	レベル<Num0>：ジェオマンシー	interface	mainTabs	spellBookTab
+Level <Num0>: Geomancy	レベル<Num0>：<br>ジェオマンシー	interface	mainTabs	spellBookTab
 Checks the status of your main Farming patches	主要な畑の状態を確認	interface	mainTabs	spellBookTab
-Level <Num0>: Cure Plant	レベル<Num0>：植物治癒	interface	mainTabs	spellBookTab
+Level <Num0>: Cure Plant	レベル<Num0>：<br>植物治癒	interface	mainTabs	spellBookTab
 Cures disease on farming patch	畑の病気を治す	interface	mainTabs	spellBookTab
-Level <Num0>: Monster Examine	レベル<Num0>：魔獣解析	interface	mainTabs	spellBookTab
+Level <Num0>: Monster Examine	レベル<Num0>：<br>魔獣解析	interface	mainTabs	spellBookTab
 Detect the combat statistics of a monster	モンスターの戦闘ステータスを察知	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Moonclan	レベル<Num0>：ムーンクラン・集団ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Moonclan	レベル<Num0>：<br>ムーンクラン・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to Moonclan Island	複数人でムーンクランにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Moonclan Teleport	レベル<Num0>：ムーンクラン・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Moonclan Teleport	レベル<Num0>：<br>ムーンクラン・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Moonclan Island	ムーンクランにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Humidify	レベル<Num0>：加湿	interface	mainTabs	spellBookTab
+Level <Num0>: Humidify	レベル<Num0>：<br>加湿	interface	mainTabs	spellBookTab
 Fills certain vessels with water	特定の容器を水で満たす	interface	mainTabs	spellBookTab
-Level <Num0>: Cure Other	レベル<Num0>：仲間を治癒	interface	mainTabs	spellBookTab
+Level <Num0>: Cure Other	レベル<Num0>：<br>仲間を治癒	interface	mainTabs	spellBookTab
 Cure poisoned players	他人を解毒する	interface	mainTabs	spellBookTab
-Level <Num0>: NPC Contact	レベル<Num0>：NPC通信	interface	mainTabs	spellBookTab
+Level <Num0>: NPC Contact	レベル<Num0>：<br>NPC通信	interface	mainTabs	spellBookTab
 Speak with various NPCs	様々なNPCと会話する	interface	mainTabs	spellBookTab
-Level <Num0>: Cure Me	レベル<Num0>：自己治癒	interface	mainTabs	spellBookTab
+Level <Num0>: Cure Me	レベル<Num0>：<br>自己治癒	interface	mainTabs	spellBookTab
 Cure Poison	解毒する	interface	mainTabs	spellBookTab
-Level <Num0>: Ourania Teleport	レベル<Num0>：ウラニア・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Ourania Teleport	レベル<Num0>：<br>ウラニア・ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Ourania altar	ウラニアの祭壇にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Hunter Kit	レベル<Num0>：狩り道具	interface	mainTabs	spellBookTab
+Level <Num0>: Hunter Kit	レベル<Num0>：<br>狩り道具	interface	mainTabs	spellBookTab
 Get a kit of hunter gear	狩人の道具一式をもらう	interface	mainTabs	spellBookTab
-Level <Num0>: Waterbirth Teleport	レベル<Num0>：ウォーターバース・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Waterbirth Teleport	レベル<Num0>：<br>ウォーターバース・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Waterbirth Island	ウォーターバース島にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Waterbirth	レベル<Num0>：ウォーターバース・集団ワープ	interface	mainTabs	spellBookTab
-Teleports players to Waterbirth Island	複数人でウォーターバース島にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Spin Flax	レベル<Num0>：亜麻加工	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Waterbirth	レベル<Num0>：<br>ウォーターバース・集団ワープ	interface	mainTabs	spellBookTab
+Teleports players to Waterbirth Island	複数人でウォーターバース島に<br>ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Spin Flax	レベル<Num0>：<br>亜麻加工	interface	mainTabs	spellBookTab
 Turn flax into bowstring	亜麻を弓弦に変える	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Barbarian	レベル<Num0>：蛮族基地・集団ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Barbarian	レベル<Num0>：<br>蛮族基地・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to the Barbarian Outpost	複数人で蛮族基地にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Barbarian Teleport	レベル<Num0>：蛮族基地ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Barbarian Teleport	レベル<Num0>：<br>蛮族基地ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Barbarian Outpost	蛮族基地にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Stat Spy	レベル<Num0>：ステータス覗き	interface	mainTabs	spellBookTab
-Cast on another player to see their skill levels	他のプレイヤーのスキルレベルを確認	interface	mainTabs	spellBookTab
-Level <Num0>: Cure Group	レベル<Num0>：集団治癒	interface	mainTabs	spellBookTab
+Level <Num0>: Stat Spy	レベル<Num0>：<br>ステータス覗き	interface	mainTabs	spellBookTab
+Cast on another player to see their skill levels	他のプレイヤーの<br>スキルレベルを確認	interface	mainTabs	spellBookTab
+Level <Num0>: Cure Group	レベル<Num0>：<br>集団治癒	interface	mainTabs	spellBookTab
 Cure poison on players	複数人を解毒する	interface	mainTabs	spellBookTab
-Level <Num0>: Superglass Make	レベル<Num0>：超ガラス加工	interface	mainTabs	spellBookTab
+Level <Num0>: Superglass Make	レベル<Num0>：<br>超ガラス加工	interface	mainTabs	spellBookTab
 Make glass without a furnace	ガラスを炉なしで作れる	interface	mainTabs	spellBookTab
-Level <Num0>: Tan Leather	レベル<Num0>：皮を革に	interface	mainTabs	spellBookTab
+Level <Num0>: Tan Leather	レベル<Num0>：<br>皮を革に	interface	mainTabs	spellBookTab
 Tans up to <Num0> hides	皮を<Num0>枚までなす	interface	mainTabs	spellBookTab
-Level <Num0>: Khazard Teleport	レベル<Num0>：カザード・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Khazard Teleport	レベル<Num0>：<br>カザード・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Port Khazard	カザード港にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Khazard	レベル<Num0>：カザード・集団ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Khazard	レベル<Num0>：<br>カザード・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to Port Khazard	複数人でカザード港にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Dream	レベル<Num0>：夢中	interface	mainTabs	spellBookTab
+Level <Num0>: Dream	レベル<Num0>：<br>夢中	interface	mainTabs	spellBookTab
 Take a rest and restore Hitpoints <Num0> times faster	休んで体力を<Num0>倍速く回復	interface	mainTabs	spellBookTab
-Level <Num0>: Boost Potion Share	レベル<Num0>：強化薬共有	interface	mainTabs	spellBookTab
+Level <Num0>: Boost Potion Share	レベル<Num0>：<br>強化薬共有	interface	mainTabs	spellBookTab
 Shares a potion with up to <Num0> nearby players	薬液の効能を周囲<Num0>人と共有	interface	mainTabs	spellBookTab
-Level <Num0>: Fertile Soil	レベル<Num0>：肥えた土地	interface	mainTabs	spellBookTab
+Level <Num0>: Fertile Soil	レベル<Num0>：<br>肥えた土地	interface	mainTabs	spellBookTab
 Fertilise a farming patch with super compost	畑を良質な堆肥で肥やす	interface	mainTabs	spellBookTab
-Level <Num0>: Magic Imbue	レベル<Num0>：魔力を込める	interface	mainTabs	spellBookTab
+Level <Num0>: Magic Imbue	レベル<Num0>：<br>魔力を込める	interface	mainTabs	spellBookTab
 Combine runes without a talisman	タリスマン無しでルーンを合成	interface	mainTabs	spellBookTab
-Level <Num0>: Stat Restore Pot Share	レベル<Num0>：ステ回復薬共有	interface	mainTabs	spellBookTab
-Level <Num0>: String Jewellery	レベル<Num0>：宝石に紐	interface	mainTabs	spellBookTab
-String amulets without wool	アミュレットを毛糸なしで紐を付ける	interface	mainTabs	spellBookTab
-Level <Num0>: Fishing Guild Teleport	レベル<Num0>：釣りギルド・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Stat Restore Pot Share	レベル<Num0>：<br>ステ回復薬共有	interface	mainTabs	spellBookTab
+Level <Num0>: String Jewellery	レベル<Num0>：<br>宝石に紐	interface	mainTabs	spellBookTab
+String amulets without wool	アミュレットに魔法で<br>紐を付ける	interface	mainTabs	spellBookTab
+Level <Num0>: Fishing Guild Teleport	レベル<Num0>：<br>釣りギルド・ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Fishing Guild	釣りギルドにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Fishing Guild	レベル<Num0>：釣りギルド・集団ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Fishing Guild	レベル<Num0>：<br>釣りギルド・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to the Fishing Guild	複数人で釣りギルドにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Plank Make	レベル<Num0>：板材加工	interface	mainTabs	spellBookTab
+Level <Num0>: Plank Make	レベル<Num0>：<br>板材加工	interface	mainTabs	spellBookTab
 Turn logs into planks	丸太を板に変える	interface	mainTabs	spellBookTab
-Level <Num0>: Catherby Teleport	レベル<Num0>：カサビー・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Catherby Teleport	レベル<Num0>：<br>カサビー・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Catherby	カサビーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Energy Transfer	レベル<Num0>：力の譲渡	interface	mainTabs	spellBookTab
-Spend Hitpoints and SA energy to give another SA and run energy	体力と必殺技エネルギーを使い他プレイヤーに<br>必殺技エネルギーと走力を送る	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Ice Plateau	レベル<Num0>：アイス・プラトー・集団ワープ	interface	mainTabs	spellBookTab
-Teleports players to Ice Plateau	複数人でアイス・プラトーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Ice Plateau Teleport	レベル<Num0>：アイス・プラトー・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Energy Transfer	レベル<Num0>：<br>力の譲渡	interface	mainTabs	spellBookTab
+Spend Hitpoints and SA energy to give another SA and run energy	体力と必殺技エネルギーを使い<br>他プレイヤーに走力と<br>必殺技エネルギーを送る	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Ice Plateau	レベル<Num0>：<br>アイス・プラトー・集団ワープ	interface	mainTabs	spellBookTab
+Teleports players to Ice Plateau	複数人でアイス・プラトーに<br>ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Plateau Teleport	レベル<Num0>：<br>アイス・プラトー・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Ice Plateau	アイス・プラトーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Recharge Dragonstone	レベル<Num0>：竜石チャージ	interface	mainTabs	spellBookTab
+Level <Num0>: Recharge Dragonstone	レベル<Num0>：<br>竜石チャージ	interface	mainTabs	spellBookTab
 Recharges enchanted dragonstone jewellery	竜石の宝石をチャージ	interface	mainTabs	spellBookTab
-Level <Num0>: Tele Group Catherby	レベル<Num0>：カサビー・集団ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Group Catherby	レベル<Num0>：<br>カサビー・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to Catherby	複数人でカサビーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Heal Other	レベル<Num0>：仲間を回復	interface	mainTabs	spellBookTab
+Level <Num0>: Heal Other	レベル<Num0>：<br>仲間を回復	interface	mainTabs	spellBookTab
 Transfers up to <Num0>% of Hitpoints to another player	<Num0>%まで体力を仲間に送る	interface	mainTabs	spellBookTab
-Level <Num0>: Vengeance Other	レベル<Num0>：復讐・仲間	interface	mainTabs	spellBookTab
+Level <Num0>: Vengeance Other	レベル<Num0>：<br>復讐・仲間	interface	mainTabs	spellBookTab
 Allows another player to rebound damage to an opponent	仲間が敵にダメージを反射する	interface	mainTabs	spellBookTab
-Level <Num0>: Vengeance	レベル<Num0>：復讐	interface	mainTabs	spellBookTab
+Level <Num0>: Vengeance	レベル<Num0>：<br>復讐	interface	mainTabs	spellBookTab
 Rebound damage to an opponent	敵にダメージを反射する	interface	mainTabs	spellBookTab
-Level <Num0>: Heal Group	レベル<Num0>：集団回復	interface	mainTabs	spellBookTab
+Level <Num0>: Heal Group	レベル<Num0>：<br>集団回復	interface	mainTabs	spellBookTab
 Transfers up to <Num0>% of Hitpoints to a group	体力を<Num0>%まで集団に送る	interface	mainTabs	spellBookTab
-Level <Num0>: Spellbook Swap	レベル<Num0>：魔導書の切替	interface	mainTabs	spellBookTab
+Level <Num0>: Spellbook Swap	レベル<Num0>：<br>魔導書の切替	interface	mainTabs	spellBookTab
 Change to another spellbook for <Num0> spell cast	<Num0>詠唱だけ別の魔導書を使う	interface	mainTabs	spellBookTab
 Arceuus Home Teleport	アルセウス帰還ワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Arceuus Library Teleport	レベル<Num0>：アルセウス図書館ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Arceuus Library Teleport	レベル<Num0>：<br>アルセウス図書館ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Arceuus Library	アルセウス図書館にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Basic Reanimation	レベル<Num0>：基本蘇生術	interface	mainTabs	spellBookTab
+Level <Num0>: Basic Reanimation	レベル<Num0>：<br>基本蘇生術	interface	mainTabs	spellBookTab
 Reanimates a low levelled creature	低級モンスターを蘇生	interface	mainTabs	spellBookTab
-Level <Num0>: Draynor Manor Teleport	レベル<Num0>：ドレイナー邸宅ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Draynor Manor Teleport	レベル<Num0>：<br>ドレイナー邸宅ワープ	interface	mainTabs	spellBookTab
 Teleports you to Draynor Manor	ドレイナー邸宅にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Battlefront Teleport	レベル<Num0>：戦線ワープ	interface	mainTabs	spellBookTab
-Teleports you to the grave north west of the Kebos Battlefront	ケボス戦線の北西の墓地にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Lesser Skeleton	レベル<Num0>：下位スケルトン復活術式	interface	mainTabs	spellBookTab
-Calls upon a lesser skeletal thrall to fight alongside you	共闘する下位スケルトンのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Lesser Ghost	レベル<Num0>：下位ゴースト復活術式	interface	mainTabs	spellBookTab
-Calls upon a lesser ghostly thrall to fight alongside you	共闘する下位ゴーストのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Ghostly Grasp	レベル<Num0>：霊的掌握	interface	mainTabs	spellBookTab
-Deals minor damage with a low chance of holding your target	小ダメージを与え、低確率で敵を束縛する	interface	mainTabs	spellBookTab
-Level <Num0>: Respawn Teleport	レベル<Num0>：復活地点ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Battlefront Teleport	レベル<Num0>：<br>戦線ワープ	interface	mainTabs	spellBookTab
+Teleports you to the grave north west of the Kebos Battlefront	ケボス戦線の北西の墓地に<br>ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Lesser Skeleton	レベル<Num0>：<br>下位スケルトン復活術式	interface	mainTabs	spellBookTab
+Calls upon a lesser skeletal thrall to fight alongside you	共闘する下位スケルトンの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Lesser Ghost	レベル<Num0>：<br>下位ゴースト復活術式	interface	mainTabs	spellBookTab
+Calls upon a lesser ghostly thrall to fight alongside you	共闘する下位ゴーストの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Ghostly Grasp	レベル<Num0>：<br>霊的掌握	interface	mainTabs	spellBookTab
+Deals minor damage with a low chance of holding your target	小ダメージを与え、<br>低確率で敵を束縛する	interface	mainTabs	spellBookTab
+Level <Num0>: Respawn Teleport	レベル<Num0>：<br>復活地点ワープ	interface	mainTabs	spellBookTab
 Teleports you to your respawn location	復活地点にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Mind Altar Teleport	レベル<Num0>：心の祭壇ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Mind Altar Teleport	レベル<Num0>：<br>心の祭壇ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Mind Altar	心の祭壇にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Lesser Zombie	レベル<Num0>：下位ゾンビ復活術式	interface	mainTabs	spellBookTab
-Calls upon a lesser zombified thrall to fight alongside you	共闘する下位ゾンビのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Salve Graveyard Teleport	レベル<Num0>：サルヴ基地ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Lesser Zombie	レベル<Num0>：<br>下位ゾンビ復活術式	interface	mainTabs	spellBookTab
+Calls upon a lesser zombified thrall to fight alongside you	共闘する下位ゾンビの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Salve Graveyard Teleport	レベル<Num0>：<br>サルヴ基地ワープ	interface	mainTabs	spellBookTab
 Teleports you to the graveyard on the River Salve	サルヴ川沿いの墓地にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Adept Reanimation	レベル<Num0>：応用蘇生術	interface	mainTabs	spellBookTab
+Level <Num0>: Adept Reanimation	レベル<Num0>：<br>応用蘇生術	interface	mainTabs	spellBookTab
 Reanimates a medium levelled creature	中級モンスターを蘇生する	interface	mainTabs	spellBookTab
-Level <Num0>: Inferior Demonbane	レベル<Num0>：下級悪魔殺し	interface	mainTabs	spellBookTab
+Level <Num0>: Inferior Demonbane	レベル<Num0>：<br>下級悪魔殺し	interface	mainTabs	spellBookTab
 Hits a demon for minor damage	悪魔に小ダメージを与える	interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Veil	レベル<Num0>：影のベール	interface	mainTabs	spellBookTab
-Reduces your chance of being caught when pickpocketing	スリをして見つかる確率を下げる	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Superior Skeleton	レベル<Num0>：中位スケルトン復活術式	interface	mainTabs	spellBookTab
-Calls upon a superior skeletal thrall to fight alongside you	共闘する中位スケルトンのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Superior Ghost	レベル<Num0>：中位ゴースト復活術式	interface	mainTabs	spellBookTab
-Calls upon a superior ghostly thrall to fight alongside you	共闘する中位ゴーストのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Skeletal Grasp	レベル<Num0>：スケルトン掌握	interface	mainTabs	spellBookTab
-Deals medium damage with a medium chance of holding your target	中ダメージを与え、中確率で敵を束縛する	interface	mainTabs	spellBookTab
-Level <Num0>: Dark Lure	レベル<Num0>：闇の誘い	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Veil	レベル<Num0>：<br>影のベール	interface	mainTabs	spellBookTab
+Reduces your chance of being caught when pickpocketing	スリをして見つかる確率を<br>下げる	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Superior Skeleton	レベル<Num0>：<br>中位スケルトン復活術式	interface	mainTabs	spellBookTab
+Calls upon a superior skeletal thrall to fight alongside you	共闘する中位スケルトンの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Superior Ghost	レベル<Num0>：<br>中位ゴースト復活術式	interface	mainTabs	spellBookTab
+Calls upon a superior ghostly thrall to fight alongside you	共闘する中位ゴーストの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Skeletal Grasp	レベル<Num0>：<br>骨の掌握	interface	mainTabs	spellBookTab
+Deals medium damage with a medium chance of holding your target	中ダメージを与え、<br>中確率で敵を束縛する	interface	mainTabs	spellBookTab
+Level <Num0>: Dark Lure	レベル<Num0>：<br>闇の誘い	interface	mainTabs	spellBookTab
 Lures your target towards you	敵をおびき寄せる	interface	mainTabs	spellBookTab
-Level <Num0>: Fenkenstrain's Castle Teleport	レベル<Num0>：フェンケンストレイン城・ワープ	interface	mainTabs	spellBookTab
-Teleports you to Fenkenstrain's Castle	フェンケンストレイン城にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Superior Zombie	レベル<Num0>：中位ゾンビ復活術式	interface	mainTabs	spellBookTab
-Calls upon a superior zombified thrall to fight alongside you	共闘する中位ゾンビのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Mark of Darkness	レベル<Num0>：闇の刻印	interface	mainTabs	spellBookTab
-Makes your offensive Arceuus spells more potent	攻撃的なアルセウス魔法をより強力にする。	interface	mainTabs	spellBookTab
-Level <Num0>: West Ardougne Teleport	レベル<Num0>：西アルドイン・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Fenkenstrain's Castle Teleport	レベル<Num0>：フェンケンストレ<br>イン城・ワープ	interface	mainTabs	spellBookTab
+Teleports you to Fenkenstrain's Castle	フェンケンストレイン城に<br>ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Superior Zombie	レベル<Num0>：<br>中位ゾンビ復活術式	interface	mainTabs	spellBookTab
+Calls upon a superior zombified thrall to fight alongside you	共闘する中位ゾンビの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Mark of Darkness	レベル<Num0>：<br>闇の刻印	interface	mainTabs	spellBookTab
+Makes your offensive Arceuus spells more potent	攻撃的なアルセウス魔法を<br>強化する	interface	mainTabs	spellBookTab
+Level <Num0>: West Ardougne Teleport	レベル<Num0>：<br>西アルドイン・ワープ	interface	mainTabs	spellBookTab
 Teleports you to West Ardougne	西アルドインにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Superior Demonbane	レベル<Num0>：上級悪魔殺し	interface	mainTabs	spellBookTab
+Level <Num0>: Superior Demonbane	レベル<Num0>：<br>上級悪魔殺し	interface	mainTabs	spellBookTab
 Hits a demon for moderate damage	悪魔に中ダメージを与える	interface	mainTabs	spellBookTab
-Level <Num0>: Lesser Corruption	レベル<Num0>：下位の腐敗	interface	mainTabs	spellBookTab
+Level <Num0>: Lesser Corruption	レベル<Num0>：<br>下位の腐敗	interface	mainTabs	spellBookTab
 Imbues your attacks with a lesser corruption	攻撃に下位の腐敗を込める	interface	mainTabs	spellBookTab
-Level <Num0>: Expert Reanimation	レベル<Num0>：専門蘇生術	interface	mainTabs	spellBookTab
+Level <Num0>: Expert Reanimation	レベル<Num0>：<br>専門蘇生術	interface	mainTabs	spellBookTab
 Reanimates a high levelled creature	上級モンスターを蘇生する	interface	mainTabs	spellBookTab
-Level <Num0>: Cemetery Teleport	レベル<Num0>：セメトリー・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Cemetery Teleport	レベル<Num0>：<br>セメトリー・ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Forgotten Cemetery	忘却のセメトリーにワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Degrime	レベル<Num0>：汚れ落とし	interface	mainTabs	spellBookTab
+Level <Num0>: Degrime	レベル<Num0>：<br>汚れ落とし	interface	mainTabs	spellBookTab
 Cleans all of your grimy herbs	薬草の汚れを全て落とす	interface	mainTabs	spellBookTab
-Level <Num0>: Vile Vigour	レベル<Num0>：卑劣な活力	interface	mainTabs	spellBookTab
+Level <Num0>: Vile Vigour	レベル<Num0>：<br>卑劣な活力	interface	mainTabs	spellBookTab
 Converts your available prayer points into run energy	祈力を走力に変換	interface	mainTabs	spellBookTab
-Level <Num0>: Harmony Island Teleport	レベル<Num0>：ハーモニー島・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Harmony Island Teleport	レベル<Num0>：<br>ハーモニー島・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Harmony Island	ハーモニー島にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Ward of Arceuus	レベル<Num0>：アルセウス・ワード	interface	mainTabs	spellBookTab
-Gives you protection from the effects of offensive Arceuus spells and demonic attacks	攻撃的なアルセウス魔法と悪魔の攻撃から防御してくれる	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Greater Ghost	レベル<Num0>：上位ゴースト復活術式	interface	mainTabs	spellBookTab
-Calls upon a greater ghostly thrall to fight alongside you	共闘すると上級ゴーストのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Greater Skeleton	レベル<Num0>：上位スケルトン復活術式	interface	mainTabs	spellBookTab
-Calls upon a greater skeletal thrall to fight alongside you	共闘する上位スケルトンのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Greater Zombie	レベル<Num0>：上位ゾンビ復活術式	interface	mainTabs	spellBookTab
-Calls upon a greater zombified thrall to fight alongside you	共闘する上位ゾンビのスロールを呼ぶ	interface	mainTabs	spellBookTab
-Level <Num0>: Resurrect Crops	レベル<Num0>：作物蘇生	interface	mainTabs	spellBookTab
+Level <Num0>: Ward of Arceuus	レベル<Num0>：<br>アルセウス・ワード	interface	mainTabs	spellBookTab
+Gives you protection from the effects of offensive Arceuus spells and demonic attacks	攻撃的なアルセウス魔法と<br>悪魔の攻撃から身を守る	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Greater Ghost	レベル<Num0>：<br>上位ゴースト復活術式	interface	mainTabs	spellBookTab
+Calls upon a greater ghostly thrall to fight alongside you	共闘すると上級ゴーストの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Greater Skeleton	レベル<Num0>：<br>上位スケルトン復活術式	interface	mainTabs	spellBookTab
+Calls upon a greater skeletal thrall to fight alongside you	共闘する上位スケルトンの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Greater Zombie	レベル<Num0>：<br>上位ゾンビ復活術式	interface	mainTabs	spellBookTab
+Calls upon a greater zombified thrall to fight alongside you	共闘する上位ゾンビの<br>スロールを呼ぶ	interface	mainTabs	spellBookTab
+Level <Num0>: Resurrect Crops	レベル<Num0>：<br>作物蘇生	interface	mainTabs	spellBookTab
 Gives a chance to resurrect dead farming crops	死んだ作物を確率で蘇生する	interface	mainTabs	spellBookTab
-Level <Num0>: Demonic Offering	レベル<Num0>：悪魔的供物	interface	mainTabs	spellBookTab
+Level <Num0>: Demonic Offering	レベル<Num0>：<br>悪魔的供物	interface	mainTabs	spellBookTab
 Converts demonic ashes into prayer points and experience	悪魔の灰を祈力と経験値に変換	interface	mainTabs	spellBookTab
-Level <Num0>: Barrows Teleport	レベル<Num0>：バロウズ・ワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Barrows Teleport	レベル<Num0>：<br>バロウズ・ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Barrows brothers' graveyard	バロウズ兄弟の墓地にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Dark Demonbane	レベル<Num0>：暗黒の悪魔殺し	interface	mainTabs	spellBookTab
+Level <Num0>: Dark Demonbane	レベル<Num0>：<br>暗黒の悪魔殺し	interface	mainTabs	spellBookTab
 Hits a demon for major damage	悪魔に大ダメージを与える	interface	mainTabs	spellBookTab
-Level <Num0>: Death Charge	レベル<Num0>：死による回復	interface	mainTabs	spellBookTab
-Restores some of your special attack energy when you defeat a foe	敵討伐で必殺技エネルギーを回復	interface	mainTabs	spellBookTab
-Level <Num0>: Undead Grasp	レベル<Num0>：不死の掌握	interface	mainTabs	spellBookTab
-Deals major damage with a high chance of holding your target	大ダメージを与え、高確率で敵を束縛する	interface	mainTabs	spellBookTab
-Level <Num0>: Greater Corruption	レベル<Num0>：上位の腐敗	interface	mainTabs	spellBookTab
+Level <Num0>: Death Charge	レベル<Num0>：<br>死による回復	interface	mainTabs	spellBookTab
+Restores some of your special attack energy when you defeat a foe	敵を討伐すると<br>必殺技エネルギーを回復する	interface	mainTabs	spellBookTab
+Level <Num0>: Undead Grasp	レベル<Num0>：<br>不死の掌握	interface	mainTabs	spellBookTab
+Deals major damage with a high chance of holding your target	大ダメージを与え、<br>高確率で敵を束縛する	interface	mainTabs	spellBookTab
+Level <Num0>: Greater Corruption	レベル<Num0>：<br>上位の腐敗	interface	mainTabs	spellBookTab
 Imbues your attacks with a greater corruption	攻撃に上位の腐敗を込める	interface	mainTabs	spellBookTab
-Level <Num0>: Master Reanimation	レベル<Num0>：超級蘇生術	interface	mainTabs	spellBookTab
+Level <Num0>: Master Reanimation	レベル<Num0>：<br>超級蘇生術	interface	mainTabs	spellBookTab
 Reanimates a very high levelled creature	超上級モンスターを蘇生する	interface	mainTabs	spellBookTab
-Teleports you to the dungeon under the Ape Atoll temple	エイプ・アトール地下の寺院にワープ	interface	mainTabs	spellBookTab
-Level <Num0>: Sinister Offering	レベル<Num0>：不吉な供物	interface	mainTabs	spellBookTab
+Teleports you to the dungeon under the Ape Atoll temple	エイプ・アトール地下の<br>寺院にワープ	interface	mainTabs	spellBookTab
+Level <Num0>: Sinister Offering	レベル<Num0>：<br>不吉な供物	interface	mainTabs	spellBookTab
 Converts bones into prayer points and experience	骨を祈力と経験値に変換	interface	mainTabs	spellBookTab
 Spell Filters	魔法フィルター	interface	mainTabs	spellBookTab
 Show <colNum0>Combat</col> spells	<colNum0>戦闘</col>魔法を表示	interface	mainTabs	spellBookTab
@@ -3872,7 +3872,7 @@ Show spells you lack the Magic level to cast	魔法レベル不足の呪文を�
 Show spells you lack the runes to cast	ルーン不足の呪文を表示	interface	mainTabs	spellBookTab
 Show spells you lack the requirements to cast	条件未達成な呪文を表示	interface	mainTabs	spellBookTab
 Enable icon resizing (outside PvP areas)	拡大アイコン（PvP外のみ）	interface	mainTabs	spellBookTab
-Level <Num0>: Lvl-<Num1> Enchant	レベル<Num0>：魔法付与<Num1>	interface	mainTabs	spellBookTab
+Level <Num0>: Lvl-<Num1> Enchant	レベル<Num0>：<br>魔法付与<Num1>	interface	mainTabs	spellBookTab
 For use on sapphire and opal jewellery	オパールかサファイヤの宝石用	interface	mainTabs	spellBookTab
 For use on emerald and jade jewellery	エメラルドかヒスイの宝石用	interface	mainTabs	spellBookTab
 For use on ruby and topaz jewellery	ルビーとトパーズの宝石用	interface	mainTabs	spellBookTab
