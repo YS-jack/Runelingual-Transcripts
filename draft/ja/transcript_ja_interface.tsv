@@ -3895,3 +3895,9 @@ Reduces your opponent's<br>defence by <Num0>%	敵の腕力を<Num0>%減	interfac
 <Num0>K/<Num1>	<Num0><asis>*</asis>千<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
 <Num0>M<Num1>	<Num0><asis>*</asis>百万<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
 <Num0>B/<Num1>	<Num0><asis>*</asis>十億<asis>/</asis><Num1>	interface	mainTabs	spellBookTab
+Summons the power of Guthix<br><colNum0>Requires Mage Arena I</col>	ガシックスの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Summons the power of Saradomin<br><colNum0>Requires Mage Arena I</col>	サラドミンの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Teleports you to the Watchtower<br><colNum0>Requires Watchtower</col>	監視塔にワープ<br><colNum0>「監視塔」後</col>	interface	mainTabs	spellBookTab
+Summons the power of Zamorak<br><colNum0>Requires Mage Arena I</col>	ザモラックの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Teleports you to Trollheim<br><colNum0>Requires Eadgar's Ruse</col>	トロールハイムにワープ<br><colNum0>「エドガーの策略」後</col>	interface	mainTabs	spellBookTab
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Requires Mage Arena I</col>	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab

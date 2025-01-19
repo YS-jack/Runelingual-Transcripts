@@ -26830,6 +26830,24 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118822"><xliff:source>&lt;Num0&gt;B/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;*&lt;/asis&gt;十億&lt;asis&gt;/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118823"><xliff:source>Summons the power of Guthix&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">ガシックスの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118824"><xliff:source>Summons the power of Saradomin&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">サラドミンの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118825"><xliff:source>Teleports you to the Watchtower&lt;br&gt;&lt;colNum0&gt;Requires Watchtower&lt;/col&gt;</xliff:source><xliff:target state="translated">監視塔にワープ&lt;br&gt;&lt;colNum0&gt;「監視塔」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118826"><xliff:source>Summons the power of Zamorak&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">ザモラックの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118827"><xliff:source>Teleports you to Trollheim&lt;br&gt;&lt;colNum0&gt;Requires Eadgar's Ruse&lt;/col&gt;</xliff:source><xliff:target state="translated">トロールハイムにワープ&lt;br&gt;&lt;colNum0&gt;「エドガーの策略」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118828"><xliff:source>Temporarily increases the power&lt;br&gt;of the three arena spells when wearing Mage Arena capes&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">魔術師アリーナのマント装着時&lt;br&gt;一定時間３種のアリーナ魔法を&lt;br&gt;強化する&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
