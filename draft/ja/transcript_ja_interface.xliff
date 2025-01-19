@@ -25894,7 +25894,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118510"><xliff:source>Level &lt;Num0&gt;: Snare</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;スネア</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118511"><xliff:source>Level &lt;Num0&gt;: Magic Dart</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：魔法のダーツ&lt;br&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118511"><xliff:source>Level &lt;Num0&gt;: Magic Dart</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;：&lt;br&gt;魔法のダーツ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118512"><xliff:source>A magic dart of slaying</xliff:source><xliff:target state="translated">討伐用の魔法発射体</xliff:target><xliff:note>category: interface
@@ -26846,6 +26846,219 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118827"><xli
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118828"><xliff:source>Temporarily increases the power&lt;br&gt;of the three arena spells when wearing Mage Arena capes&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">魔術師アリーナのマント装着時&lt;br&gt;一定時間３種のアリーナ魔法を&lt;br&gt;強化する&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118829"><xliff:source>Friends - W&lt;Num0&gt; (&lt;Num1&gt;/&lt;Num2&gt;)</xliff:source><xliff:target state="translated">友達：世&lt;asis&gt;&lt;Num0&gt;(&lt;Num1&gt;/&lt;Num2&gt;)&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118830"><xliff:source>&lt;colNum0&gt;World &lt;Num0&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118831"><xliff:source>Offline</xliff:source><xliff:target state="translated">不在</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118832"><xliff:source>Del Friend</xliff:source><xliff:target state="translated">フレンド&lt;br&gt;削除</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118833"><xliff:source>Ignores - W&lt;Num0&gt; (&lt;Num1&gt;/&lt;Num2&gt;)</xliff:source><xliff:target state="translated">無視：世&lt;asis&gt;&lt;Num0&gt;(&lt;Num1&gt;/&lt;Num2&gt;)&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118834"><xliff:source>Add Name</xliff:source><xliff:target state="translated">追加</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118835"><xliff:source>Del Name</xliff:source><xliff:target state="translated">削除</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118836"><xliff:source>Add Friend</xliff:source><xliff:target state="translated">フレンド&lt;br&gt;追加</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118837"><xliff:source>You may ignore users by using the button below, or by right-clicking on a message from them and selecting to add them to your ignore list.</xliff:source><xliff:target state="translated">下のボタンを使ってユーザーを無視するか、そのユーザーからのメッセージを右クリックして無視リストに追加を選択するとこの「無視リスト」に追加できます。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: ignoreTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118838"><xliff:source>You may add friends by using the button below, or by right-clicking on a message from them and selecting to add them as a friend.</xliff:source><xliff:target state="translated">下のボタン、または相手からのメッセージを右クリックし、「フレンド追加」を選択することで、この「フレンドリスト」に追加することができます。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118839"><xliff:source>Account</xliff:source><xliff:target state="translated">アカウント</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118840"><xliff:source>Membership: &lt;Num0&gt; days left</xliff:source><xliff:target state="translated">会員：残り&lt;Num0&gt;日</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118841"><xliff:source>Open Store</xliff:source><xliff:target state="translated">ストアを開く</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118842"><xliff:source>Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118843"><xliff:source>Inbox: &lt;Num0&gt; unread messages</xliff:source><xliff:target state="translated">受信箱：未読&lt;Num0&gt;件</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118844"><xliff:source>View Inbox</xliff:source><xliff:target state="translated">受信箱を確認</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118845"><xliff:source>Name Changer</xliff:source><xliff:target state="translated">名前変更</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118846"><xliff:source>Membership: &lt;colNum0&gt;None&lt;/col&gt;</xliff:source><xliff:target state="translated">会員：&lt;colNum0&gt;なし&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118847"><xliff:source>Upgrade Now</xliff:source><xliff:target state="translated">会員になる</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118848"><xliff:source>View Benefits</xliff:source><xliff:target state="translated">特典を見る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118849"><xliff:source>Community</xliff:source><xliff:target state="translated">コミュニティ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118850"><xliff:source>Current Poll: &lt;colNum0&gt;Inactive&lt;/col&gt;</xliff:source><xliff:target state="translated">現在の投票：&lt;colNum0&gt;なし&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118851"><xliff:source>View Poll</xliff:source><xliff:target state="translated">投票を見る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118852"><xliff:source>View History</xliff:source><xliff:target state="translated">履歴を表示</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118853"><xliff:source>Latest Update</xliff:source><xliff:target state="translated">最新アップデート</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118854"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュースを表示</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118855"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブを表示</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118856"><xliff:source>Useful Links</xliff:source><xliff:target state="translated">便利なリンク</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118857"><xliff:source>Old School Website</xliff:source><xliff:target state="translated">オールドスクールのサイト</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118858"><xliff:source>Customer Support</xliff:source><xliff:target state="translated">サポートセンタ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118859"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118860"><xliff:source>Hiscores</xliff:source><xliff:target state="translated">ハイスコア</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118861"><xliff:source>Old School Wiki</xliff:source><xliff:target state="translated">オールドスクール・ウィキ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118862"><xliff:source>Merchandise</xliff:source><xliff:target state="translated">商品サイト</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118863"><xliff:source>Name: &lt;playerName&gt;</xliff:source><xliff:target state="translated">名前：&lt;playerName&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118864"><xliff:source>View the various crossbow bolt enchantment spells (&lt;Num0&gt;+ Magic required)&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">可能なボルトの魔法付与を確認&lt;br&gt;（魔法Lv&lt;Num0&gt;+）&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118865"><xliff:source>Summons the wrath of Iban&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">アイバンの憤怒を呼び起こす&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118866"><xliff:source>Teleports you to Kourend Castle&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">クーレンド城にワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118867"><xliff:source>Teleports you to Camelot&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">カメロットにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118868"><xliff:source>Teleports you to your house&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">自宅にワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118869"><xliff:source>A magic dart of slaying&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">討伐用の魔法発射体&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118870"><xliff:source>Teleports you to Ardougne&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">アルドインにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118871"><xliff:source>Teleports you to Civitas illa Fortis&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">シビリタス・イラ・フォーチスに&lt;br&gt;ワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118872"><xliff:source>Needs to be cast on a water obelisk&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">水オベリスクに唱える&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118873"><xliff:source>Summons the power of Zamorak&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">ザモラックの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118874"><xliff:source>Summons the power of Guthix&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">ガシックスの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118875"><xliff:source>Summons the power of Saradomin&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">サラドミンの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118876"><xliff:source>Turns Bones into Peaches&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">骨をモモに変える&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118877"><xliff:source>Needs to be cast on an earth obelisk&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">土オベリスクに唱える&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118878"><xliff:source>Teleports you to the Watchtower&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">監視塔にワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118879"><xliff:source>Teleports you to Trollheim&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">トロールハイムにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118880"><xliff:source>A high level Air missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">上級大気魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118881"><xliff:source>Needs to be cast on a fire obelisk&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">火オベリスクに唱える&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118882"><xliff:source>Teleports you to Ape Atoll&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">エイプ・アトールにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118883"><xliff:source>A high level Water missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">上級水魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118884"><xliff:source>Needs to be cast on an air obelisk&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">大気オベリスクに唱える&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118885"><xliff:source>Reduces your opponent's defence by &lt;Num0&gt;%&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">敵の守備力を&lt;Num0&gt;%減&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118886"><xliff:source>Temporarily increases the power&lt;br&gt;of the three arena spells when wearing Mage Arena capes&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">魔術師アリーナのマント装着時&lt;br&gt;一定時間３種のアリーナ魔法を&lt;br&gt;強化する&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118887"><xliff:source>Reduces your opponent's attack by &lt;Num0&gt;%&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">敵の攻撃力を&lt;Num0&gt;%減&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118888"><xliff:source>Holds your opponent for &lt;Num0&gt; seconds&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">敵を&lt;Num0&gt;秒間拘束する&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118889"><xliff:source>A high level Fire missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">上級火魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118890"><xliff:source>Teleports target to Lumbridge&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">目標をランブリッジにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118891"><xliff:source>Reduces your opponent's strength by &lt;Num0&gt;%&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">敵の腕力を&lt;Num0&gt;%減&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118892"><xliff:source>A high level Earth missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">上級土魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118893"><xliff:source>A very high level Air missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">特級大気魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118894"><xliff:source>Teleports target to Falador&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">目標をファラドーにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118895"><xliff:source>A very high level Water missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">特級水魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118896"><xliff:source>Teleports you near your Target&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">標的付近にワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118897"><xliff:source>Teleports target to Camelot&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">目標をカメロットにワープ&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118898"><xliff:source>A very high level Earth missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">特級土魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: spellBookTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118899"><xliff:source>A very high level Fire missile&lt;br&gt;&lt;colNum0&gt;Members Only&lt;/col&gt;</xliff:source><xliff:target state="translated">特級火魔法&lt;br&gt;&lt;colNum0&gt;会員限定&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

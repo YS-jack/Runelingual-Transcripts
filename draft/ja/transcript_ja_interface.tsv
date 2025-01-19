@@ -3583,7 +3583,7 @@ A medium level Air missile	中級大気魔法	interface	mainTabs	spellBookTab
 Level <Num0>: Teleport to House	レベル<Num0>：<br>家ワープ	interface	mainTabs	spellBookTab
 Teleports you to your house	自宅にワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Snare	レベル<Num0>：<br>スネア	interface	mainTabs	spellBookTab
-Level <Num0>: Magic Dart	レベル<Num0>：魔法のダーツ<br>	interface	mainTabs	spellBookTab
+Level <Num0>: Magic Dart	レベル<Num0>：<br>魔法のダーツ	interface	mainTabs	spellBookTab
 A magic dart of slaying	討伐用の魔法発射体	interface	mainTabs	spellBookTab
 Level <Num0>: Ardougne Teleport	レベル<Num0>：<br>アルドイン・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Ardougne	アルドインにワープ	interface	mainTabs	spellBookTab
@@ -3901,3 +3901,74 @@ Teleports you to the Watchtower<br><colNum0>Requires Watchtower</col>	監視塔�
 Summons the power of Zamorak<br><colNum0>Requires Mage Arena I</col>	ザモラックの力を呼び起こす<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
 Teleports you to Trollheim<br><colNum0>Requires Eadgar's Ruse</col>	トロールハイムにワープ<br><colNum0>「エドガーの策略」後</col>	interface	mainTabs	spellBookTab
 Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Requires Mage Arena I</col>	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する<br><colNum0>「魔術師アリーナ１」後</col>	interface	mainTabs	spellBookTab
+Friends - W<Num0> (<Num1>/<Num2>)	友達：世<asis><Num0>(<Num1>/<Num2>)</asis>	interface	mainTabs	friendsTab
+<colNum0>World <Num0>	<colNum0>世界<Num0>	interface	mainTabs	friendsTab
+Offline	不在	interface	mainTabs	friendsTab
+Del Friend	フレンド<br>削除	interface	mainTabs	friendsTab
+Ignores - W<Num0> (<Num1>/<Num2>)	無視：世<asis><Num0>(<Num1>/<Num2>)</asis>	interface	mainTabs	ignoreTab
+Add Name	追加	interface	mainTabs	ignoreTab
+Del Name	削除	interface	mainTabs	ignoreTab
+Add Friend	フレンド<br>追加	interface	mainTabs	friendsTab
+You may ignore users by using the button below, or by right-clicking on a message from them and selecting to add them to your ignore list.	下のボタンを使ってユーザーを無視するか、そのユーザーからのメッセージを右クリックして無視リストに追加を選択するとこの「無視リスト」に追加できます。	interface	mainTabs	ignoreTab
+You may add friends by using the button below, or by right-clicking on a message from them and selecting to add them as a friend.	下のボタン、または相手からのメッセージを右クリックし、「フレンド追加」を選択することで、この「フレンドリスト」に追加することができます。	interface	mainTabs	friendsTab
+Account	アカウント	interface	mainTabs	accountManagementTab
+Membership: <Num0> days left	会員：残り<Num0>日	interface	mainTabs	accountManagementTab
+Open Store	ストアを開く	interface	mainTabs	accountManagementTab
+Bond Pouch	ボンド入れ	interface	mainTabs	accountManagementTab
+Inbox: <Num0> unread messages	受信箱：未読<Num0>件	interface	mainTabs	accountManagementTab
+View Inbox	受信箱を確認	interface	mainTabs	accountManagementTab
+Name Changer	名前変更	interface	mainTabs	accountManagementTab
+Membership: <colNum0>None</col>	会員：<colNum0>なし</col>	interface	mainTabs	accountManagementTab
+Upgrade Now	会員になる	interface	mainTabs	accountManagementTab
+View Benefits	特典を見る	interface	mainTabs	accountManagementTab
+Community	コミュニティ	interface	mainTabs	accountManagementTab
+Current Poll: <colNum0>Inactive</col>	現在の投票：<colNum0>なし</col>	interface	mainTabs	accountManagementTab
+View Poll	投票を見る	interface	mainTabs	accountManagementTab
+View History	履歴を表示	interface	mainTabs	accountManagementTab
+Latest Update	最新アップデート	interface	mainTabs	accountManagementTab
+View Newspost	ニュースを表示	interface	mainTabs	accountManagementTab
+View Archive	アーカイブを表示	interface	mainTabs	accountManagementTab
+Useful Links	便利なリンク	interface	mainTabs	accountManagementTab
+Old School Website	オールドスクールのサイト	interface	mainTabs	accountManagementTab
+Customer Support	サポートセンタ	interface	mainTabs	accountManagementTab
+Grand Exchange	グランド・エクスチェンジ	interface	mainTabs	accountManagementTab
+Hiscores	ハイスコア	interface	mainTabs	accountManagementTab
+Old School Wiki	オールドスクール・ウィキ	interface	mainTabs	accountManagementTab
+Merchandise	商品サイト	interface	mainTabs	accountManagementTab
+Name: <playerName>	名前：<playerName>	interface	mainTabs	accountManagementTab
+View the various crossbow bolt enchantment spells (<Num0>+ Magic required)<br><colNum0>Members Only</col>	可能なボルトの魔法付与を確認<br>（魔法Lv<Num0>+）<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Summons the wrath of Iban<br><colNum0>Members Only</col>	アイバンの憤怒を呼び起こす<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to Kourend Castle<br><colNum0>Members Only</col>	クーレンド城にワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to Camelot<br><colNum0>Members Only</col>	カメロットにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to your house<br><colNum0>Members Only</col>	自宅にワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A magic dart of slaying<br><colNum0>Members Only</col>	討伐用の魔法発射体<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to Ardougne<br><colNum0>Members Only</col>	アルドインにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to Civitas illa Fortis<br><colNum0>Members Only</col>	シビリタス・イラ・フォーチスに<br>ワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Needs to be cast on a water obelisk<br><colNum0>Members Only</col>	水オベリスクに唱える<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Summons the power of Zamorak<br><colNum0>Members Only</col>	ザモラックの力を呼び起こす<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Summons the power of Guthix<br><colNum0>Members Only</col>	ガシックスの力を呼び起こす<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Summons the power of Saradomin<br><colNum0>Members Only</col>	サラドミンの力を呼び起こす<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Turns Bones into Peaches<br><colNum0>Members Only</col>	骨をモモに変える<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Needs to be cast on an earth obelisk<br><colNum0>Members Only</col>	土オベリスクに唱える<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to the Watchtower<br><colNum0>Members Only</col>	監視塔にワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to Trollheim<br><colNum0>Members Only</col>	トロールハイムにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A high level Air missile<br><colNum0>Members Only</col>	上級大気魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Needs to be cast on a fire obelisk<br><colNum0>Members Only</col>	火オベリスクに唱える<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you to Ape Atoll<br><colNum0>Members Only</col>	エイプ・アトールにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A high level Water missile<br><colNum0>Members Only</col>	上級水魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Needs to be cast on an air obelisk<br><colNum0>Members Only</col>	大気オベリスクに唱える<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Reduces your opponent's defence by <Num0>%<br><colNum0>Members Only</col>	敵の守備力を<Num0>%減<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Members Only</col>	魔術師アリーナのマント装着時<br>一定時間３種のアリーナ魔法を<br>強化する<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Reduces your opponent's attack by <Num0>%<br><colNum0>Members Only</col>	敵の攻撃力を<Num0>%減<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Holds your opponent for <Num0> seconds<br><colNum0>Members Only</col>	敵を<Num0>秒間拘束する<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A high level Fire missile<br><colNum0>Members Only</col>	上級火魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports target to Lumbridge<br><colNum0>Members Only</col>	目標をランブリッジにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Reduces your opponent's strength by <Num0>%<br><colNum0>Members Only</col>	敵の腕力を<Num0>%減<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A high level Earth missile<br><colNum0>Members Only</col>	上級土魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A very high level Air missile<br><colNum0>Members Only</col>	特級大気魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports target to Falador<br><colNum0>Members Only</col>	目標をファラドーにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A very high level Water missile<br><colNum0>Members Only</col>	特級水魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports you near your Target<br><colNum0>Members Only</col>	標的付近にワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+Teleports target to Camelot<br><colNum0>Members Only</col>	目標をカメロットにワープ<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A very high level Earth missile<br><colNum0>Members Only</col>	特級土魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+A very high level Fire missile<br><colNum0>Members Only</col>	特級火魔法<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
