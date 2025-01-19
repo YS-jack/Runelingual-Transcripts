@@ -26821,13 +26821,13 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118819"><xliff:source>Reduces your opponent's&lt;br&gt;defence by &lt;Num0&gt;%</xliff:source><xliff:target state="translated">敵の腕力を&lt;Num0&gt;%減</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118820"><xliff:source>&lt;Num0&gt;K/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;K/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118820"><xliff:source>&lt;Num0&gt;K/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;asis&gt;&lt;Num0&gt;K/&lt;Num1&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118821"><xliff:source>&lt;Num0&gt;M&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;M/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118821"><xliff:source>&lt;Num0&gt;M&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;asis&gt;&lt;Num0&gt;M/&lt;Num1&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118822"><xliff:source>&lt;Num0&gt;B/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;Num0&gt;&lt;asis&gt;B/&lt;/asis&gt;&lt;Num1&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118822"><xliff:source>&lt;Num0&gt;B/&lt;Num1&gt;</xliff:source><xliff:target state="translated">&lt;asis&gt;&lt;Num0&gt;B/&lt;Num1&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118823"><xliff:source>Summons the power of Guthix&lt;br&gt;&lt;colNum0&gt;Requires Mage Arena I&lt;/col&gt;</xliff:source><xliff:target state="translated">ガシックスの力を呼び起こす&lt;br&gt;&lt;colNum0&gt;「魔術師アリーナ１」後&lt;/col&gt;</xliff:target><xliff:note>category: interface
