@@ -1,0 +1,1559 @@
+english	translation	category	sub_category	source
+Study	Studer	actions	item	Fire
+Remove	Fjern	actions	item	Oak lectern
+Lay	Legg	actions	item	Bird snare
+Activate	Aktiver	actions	item	Magic box
+Crush	Knus	actions	item	Smouldering heart
+Eat-from	Spis fra	actions	item	Smouldering pile of flesh
+Examine	Utforsk	actions	item	
+Take	Ta	actions	item	
+Light	Tenn	actions	item	
+Walk here	Gå her	actions	manual	
+Examine	Undersøk	actions	manual	
+Cancel	Kanseller	actions	manual	
+Add to canvas	Legg til lerret	actions	manual	
+Wiki	Wiki	actions	manual	
+Walk here	Gå her	actions	manual	
+Cancel	Kanseller	actions	manual	
+Accurate	Nøyaktig	actions	menu	combatOptionsTab
+Aggressive	Aggressiv	actions	menu	combatOptionsTab
+Defensive	Defensive	actions	menu	combatOptionsTab
+Controlled	Kontrollert	actions	menu	combatOptionsTab
+Chop	Hakk	actions	menu	combatOptionsTab
+Slash	Slash	actions	menu	combatOptionsTab
+Stab	Stikk	actions	menu	combatOptionsTab
+Block	Blokker	actions	menu	combatOptionsTab
+Pound	Bank	actions	menu	combatOptionsTab
+Pummel	Slå	actions	menu	combatOptionsTab
+Spike	Spidd	actions	menu	combatOptionsTab
+Impale	Stikk	actions	menu	combatOptionsTab
+Smash	Knus	actions	menu	combatOptionsTab
+Lunge	Stikk	actions	menu	combatOptionsTab
+Swipe	Sveip	actions	menu	combatOptionsTab
+Hack	Hugg	actions	menu	combatOptionsTab
+Reap	Høste	actions	menu	combatOptionsTab
+Rapid	Hurtig	actions	menu	combatOptionsTab
+Longrange	Lang avstand	actions	menu	combatOptionsTab
+Flick	Flick	actions	menu	combatOptionsTab
+Lash	Pisk	actions	menu	combatOptionsTab
+Deflect	Avlede	actions	menu	combatOptionsTab
+Fend	Avverg	actions	menu	combatOptionsTab
+Bash	Slå	actions	menu	combatOptionsTab
+Blaze	Tenn	actions	menu	combatOptionsTab
+Scorch	Brenn	actions	menu	combatOptionsTab
+Flare	Bluss	actions	menu	combatOptionsTab
+Animation	Animasjon	actions	menu	spellBookTab
+Hide	Gjem	actions	menu	spellBookTab
+Cast	Kast	actions	menu	spellBookTab
+Unhide	Ugjem	actions	menu	spellBookTab
+View	Vis	actions	menu	spellBookTab
+Warnings	Advarsler	actions	menu	spellBookTab
+Configure	Konfigurer	actions	menu	spellBookTab
+Grand Exchange	Grand Exchange	actions	menu	spellBookTab
+Seers'	Seers'	actions	menu	spellBookTab
+Group: Previous	Gruppe: Forrige	actions	menu	spellBookTab
+Group: Choose	Gruppe: Velg	actions	menu	spellBookTab
+Outside	Utsiden	actions	menu	spellBookTab
+Yanille	Yanille	actions	menu	spellBookTab
+Enable warning	Skru på advarsel	actions	menu	spellBookTab
+Disable warning	Skru av advarsel	actions	menu	spellBookTab
+Turael	Turael	actions	menu	spellBookTab
+Target	Mål	actions	menu	spellBookTab
+Setup	Oppsett	actions	menu	spellBookTab
+Arceuus	Arceuus	actions	menu	spellBookTab
+Ancient	Eldgammel	actions	menu	spellBookTab
+Standard	Standard	actions	menu	spellBookTab
+Reanimate	Reanimer	actions	menu	spellBookTab
+Resurrect	Gjennoppstå	actions	menu	spellBookTab
+Adjust Music Volume	Endre musikkvolum	actions	menu	settingsTab
+Adjust Area Sound Volume	Endre stedsvolum	actions	menu	settingsTab
+Adjust Sound Effect Volume	Endre lydeffektvolum	actions	menu	settingsTab
+Toggle unlock message	Advarsel for ny musikk	actions	menu	settingsTab
+Play	Spille	actions	menu	
+Open Activity Adviser	Åpne aktivitetsanbefaler	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	<colNum0>Sett chattemodus:</col> Gruppe (/@g)	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>Sett chattemodus:</col> Gjesteklan (/@gc)	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>Sett chattemodus:</col> Klan (/@c)	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	<colNum0>Sett chattemodus:</col> Kanal(/@f)	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	<colNum0>Sett chattemodus:</col> Offentlig (/@p)	actions	menu	
+Clear history	Slett historie	actions	menu	
+Switch tab	Bytt tab	actions	menu	
+Configure filter	Konfigurer filter	actions	menu	
+<colNum0>Game:</col> Clear history	<colNum0>Spill:</col> Slett historie	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>Spill:</col> Filter	actions	menu	
+Setup your autochat	Sett opp autochat	actions	menu	
+Filter public chat	Filtrer offentlig chat	actions	menu	
+<colNum0>Public:</col> Clear history	<colNum0>Offentlig:</col> Slett historie	actions	menu	
+<colNum0>Public:</col> Hide	<colNum0>Offentlig:</col> Gjem	actions	menu	
+<colNum0>Public:</col> Show none	<colNum0>Offentlig:</col> Vis ingen	actions	menu	
+<colNum0>Public:</col> Show friends	<colNum0>Offentlig:</col> Vis venner	actions	menu	
+<colNum0>Public:</col> Show standard	<colNum0>Offentlig:</col> Vis standard	actions	menu	
+<colNum0>Public:</col> Show autochat	<colNum0>Offentlig:</col> Vis autochat	actions	menu	
+<colNum0>Private:</col> Clear history	<colNum0>Privat:</col> Slett historie	actions	menu	
+<colNum0>Private:</col> Show none	<colNum0>Privat:</col> Vis ingen	actions	menu	
+<colNum0>Private:</col> Show friends	<colNum0>Privat:</col> Vis venner	actions	menu	
+<colNum0>Private:</col> Show all	<colNum0>Privat:</col> Vis alle	actions	menu	
+<colNum0>Channel:</col> Clear history	<colNum0>Kanal:</col> Slett historie	actions	menu	
+<colNum0>Channel:</col> Show none	<colNum0>Kanal:</col> Vis ingen	actions	menu	
+<colNum0>Channel:</col> Show friends	<colNum0>Kanal:</col> Vis venner	actions	menu	
+<colNum0>Channel:</col> Show all	<colNum0>Kanal:</col> Vis alle	actions	menu	
+<colNum0>Clan:</col> Clear history	<colNum0>Klan:</col> Slett historie	actions	menu	
+<colNum0>Clan:</col> Show none	<colNum0>Klan:</col> Vis ingen	actions	menu	
+<colNum0>Clan:</col> Show friends	<colNum0>Klan:</col> Vis venner	actions	menu	
+<colNum0>Clan:</col> Show all	<colNum0>Klan:</col> Vis alle	actions	menu	
+<colNum0>Group:</col> Clear history	<colNum0>Gruppe:</col> Slett historie	actions	menu	
+<colNum0>Group:</col> Show none	<colNum0>Gruppe:</col> Vis ingen	actions	menu	
+<colNum0>Group:</col> Show friends	<colNum0>Gruppe:</col> Vis venner	actions	menu	
+<colNum0>Group:</col> Show all	<colNum0>Gruppe:</col> Vis alle	actions	menu	
+Report game bug	Rapporter spillfeil	actions	menu	
+Report abuse	Rapporter misbruk	actions	menu	
+Combat Options	Slossalternativer	actions	menu	
+Skills	Ferdigheter	actions	menu	
+Achievement Diaries	Oppnåelsesdagbøker	actions	menu	
+Inventory	Ryggsekk	actions	menu	
+Worn Equipment	Utstyr	actions	menu	
+Enable prayer reordering	Skru på flytting av bønn	actions	menu	
+Disable prayer filtering	Skru av bønnefilter	actions	menu	
+Prayer	Bønn	actions	menu	
+Enable spell reordering	Skru på flytting av trolldom	actions	menu	
+Disable spell filtering	Skru av trolldomsfiltrering	actions	menu	
+Magic	Trolldom	actions	menu	
+Friends List	Venneliste	actions	menu	
+Account Management	Brukeradministrasjon	actions	menu	
+Ironman Group	Jernmanngruppe	actions	menu	
+Settings	Innstillinger	actions	menu	
+Emotes	Følelser	actions	menu	
+Music Player	Musikkspiller	actions	menu	
+Logout	Logg ut	actions	menu	
+Look West	Se Vest	actions	menu	
+Look South	Se Sør	actions	menu	
+Look East	Se Øst	actions	menu	
+Look North	Se Nord	actions	menu	
+Setup	Oppsett	actions	menu	
+Hide	Gjem	actions	menu	
+Show	Vis	actions	menu	
+Activate	Aktiver	actions	menu	
+Toggle Run	Skru på løping	actions	menu	
+Use	Bruk	actions	menu	
+Bond Pouch	Bondepung	actions	menu	
+Open Store	Åpne Butikk	actions	menu	
+Clear	Klarer	actions	menu	
+Import	Importer	actions	menu	
+Export	Eksporter	actions	menu	
+Fullscreen <colNum0>World Map</col>	Fullskjerm <colNum0>Verdenskart</col>	actions	menu	
+Floating <colNum0>World Map</col>	Flytende <colNum0>Verdenskart</col>	actions	menu	
+DPS	DPS	actions	menu	
+Search	Søk	actions	menu	
+Lookup	Sjekk-opp	actions	menu	
+Auto retaliate	Slå tilbake automatisk	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	Bruk <colNum0>Spesialangrep</col>	actions	menu	combatOptionsTab
+Wiki	Wiki	actions	menu	
+Add to canvas	Legg til lerret	actions	menu	
+View <colNum0>Attack</col> guide	Vis <colNum0>Angrep</col>sguide	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	Vis <colNum0>Livspoeng</col>sguide	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	Vis <colNum0>Hakke</col>sguide	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	Vis <colNum0>Styrke</col>guide	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	Vis <colNum0>Smidighet</col>sguide	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	Vis <colNum0>Smie</col>guide	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	Vis <colNum0>Forsvar</col>guide	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	Vis <colNum0>Urtebrygging</col>guide	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	Vis <colNum0>Fiske</col>guide	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	Vis <colNum0>Avstandss</col>guide	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	Vis <colNum0>Tyveri</col>guide	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	Vis <colNum0>Matlagings</col>guide	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	Vis <colNum0>Bønne</col>guide	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	Vis <colNum0>Håndverks</col>guide	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	Vis <colNum0>Brannlagings</col>guide	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	Vis <colNum0>Trolldom</col>guide	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	Vis <colNum0>Pilflettings</col>guide	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	Vis <colNum0>Trehuggings</col>guide	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	Vis <colNum0>Runelaging</col>guide	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	Vis <colNum0>Slakte</col>guide	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	Vis <colNum0>Jordbruks</col>guide	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	Vis <colNum0>Konstruksjons</col>guide	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	Vis <colNum0>Jakte</col>guide	actions	menu	skillsTab
+Character Summary	Brukersammendrag	actions	menu	characterSummaryTab
+Achievement Diaries	Oppnåelsesdagbøker	actions	menu	characterSummaryTab
+Quest List	Oppdragsliste	actions	menu	characterSummaryTab
+Character Summary	Brukersammendrag	actions	menu	achievementDiaryTab
+Achievement Diaries	Oppnåelsesdagbøker	actions	menu	achievementDiaryTab
+Quest List	Oppdragsliste	actions	menu	achievementDiaryTab
+Character Summary	Brukersammendrag	actions	menu	questListTab
+Achievement Diaries	Oppnåelsesdagbøker	actions	menu	questListTab
+Quest List	Oppdragsliste	actions	menu	questListTab
+Character Summary	Brukersammendrag	actions	menu	
+Quest List	Oppdragsliste	actions	menu	
+Rewards	Belønninger	actions	menu	characterSummaryTab
+Tasks	Oppgaver	actions	menu	characterSummaryTab
+Bosses	Bosser	actions	menu	characterSummaryTab
+Overview	Overblikk	actions	menu	characterSummaryTab
+Collection Log	Samlelogg	actions	menu	characterSummaryTab
+Reveal	Vis	actions	menu	characterSummaryTab
+Hide	Gjem	actions	menu	characterSummaryTab
+Open	Åpne	actions	menu	questListTab
+Close	Lukk	actions	menu	questListTab
+Start Quest Helper	Start Oppdragshjelper	actions	menu	questListTab
+Open wiki quick guide:	Åpne wiki hurtigguide:	actions	menu	questListTab
+Open wiki guide:	Åpne wiki guide:	actions	menu	questListTab
+Show on map:	Vis på kart:	actions	menu	questListTab
+Read journal:	Les journal:	actions	menu	questListTab
+Start Helper	Start hjelper	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	Åpne <colNum0>Ardougne Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	Åpne <colNum0>Desert Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	Åpne <colNum0>Falador Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	Åpne <colNum0>Fremennik Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	Åpne <colNum0>Kandarin Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	Åpne <colNum0>Karamja Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	Åpne <colNum0>Kourend & Kebos Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	Åpne <colNum0>Lumbridge & Draynor Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	Åpne <colNum0>Morytania Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	Åpne <colNum0>Varrock Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	Wiki <colNum0>Vestlige Provinser Journal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	Åpne <colNum0>Vestlige Provinser Journal</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	Wiki <colNum0>Vildmarksjournal</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	Åpne <colNum0>Vildmarksjournal</col>	actions	menu	achievementDiaryTab
+View equipment stats	Vis utstyrstats	actions	menu	wornEquipmentTab
+View guide prices	Vis veiledende priser	actions	menu	wornEquipmentTab
+View items kept on death	Vis utstyr beholdt ved død	actions	menu	wornEquipmentTab
+Call follower	Kall på følger	actions	menu	wornEquipmentTab
+Disable prayer reordering	Skru av plassbytte på bønn	actions	menu	
+Enable prayer filtering	Skru på bønnefiltrering	actions	menu	
+Disable spell reordering	Skru av plassbytte på trolldom	actions	menu	
+Enable spell filtering	Skru på trolldomsfiltrering	actions	menu	
+Show notifications	Vis varsler	actions	menu	
+Add Note	Legg til notat	actions	menu	
+Delete	Slett	actions	menu	friendsTab
+Message	Meld	actions	menu	friendsTab
+View Ignore List	Vis ignoreringsliste	actions	menu	friendsTab
+Add Friend	Legg til venn	actions	menu	friendsTab
+Delete Friend	Slett venn	actions	menu	friendsTab
+View Friends List	Vis venneliste	actions	menu	ignoreTab
+Delete	Slett	actions	menu	ignoreTab
+Add Name	Lett til navn	actions	menu	ignoreTab
+Delete Name	Slett navn	actions	menu	ignoreTab
+Account	Bruker	actions	menu	accountManagementTab
+Community	Fellesskap	actions	menu	accountManagementTab
+Useful Links	Nyttige lenker	actions	menu	accountManagementTab
+Open Store	Åpne butikk	actions	menu	accountManagementTab
+Bond Pouch	Bondepung	actions	menu	accountManagementTab
+View Inbox	Vis inboks	actions	menu	accountManagementTab
+Name Changer	Navnebytter	actions	menu	accountManagementTab
+View History	Vis historie	actions	menu	accountManagementTab
+View Newspost	Vis nyhetsartikkel	actions	menu	accountManagementTab
+View Archive	Vis arkiv	actions	menu	accountManagementTab
+Open	Åpne	actions	menu	accountManagementTab
+Settings	Innstillinger	actions	menu	groupTab
+Refresh	Oppdater	actions	menu	groupTab
+Join	Bli med	actions	menu	groupTab
+Setup	Oppsett	actions	menu	groupTab
+Find	Finn	actions	menu	groupTab
+Open	Åpne	actions	menu	groupTab
+Teleport	Teleporter	actions	menu	groupTab
+Select	Velg	actions	menu	groupTab
+Toggle skull prevention	Skru på hodeskallebeskyttelse	actions	menu	settingsTab
+Toggle Accept Aid	Skru på hjelp fra andre	actions	menu	settingsTab
+Toggle Run	Skru på løping	actions	menu	settingsTab
+View House Options	Vis hus-instillinger	actions	menu	settingsTab
+Open Bond Pouch	Åpne bondepung	actions	menu	settingsTab
+All Settings	Alle innstillinger	actions	menu	settingsTab
+Controls	Kontrollert	actions	menu	settingsTab
+Display	Skjerm	actions	menu	settingsTab
+Audio	Lyd	actions	menu	settingsTab
+Unmute	Unmute	actions	menu	settingsTab
+Adjust Brightness	Endre lysstyrke	actions	menu	settingsTab
+Restore Default Zoom	Sett til vanlig zoom	actions	menu	settingsTab
+Disable	Skru av	actions	menu	settingsTab
+Select	Velg	actions	menu	settingsTab
+Perform	Gjør	actions	menu	emotesTab
+Area	Område	actions	menu	musicTab
+Manual	Manuell	actions	menu	musicTab
+Random	Tilfeldig	actions	menu	musicTab
+Unlock hint	Åpningshint	actions	menu	musicTab
+Play	Spill	actions	menu	musicTab
+Thumbs Up	Tommel opp	actions	menu	logoutTab
+Thumbs Down	Tommel ned	actions	menu	logoutTab
+World Switcher	Verdensbytter	actions	menu	logoutTab
+Logout	Logg ut	actions	menu	logoutTab
+Favourite	Favoritt	actions	menu	worldSwitcherTab
+Switch	Bytt	actions	menu	worldSwitcherTab
+Logout	Logg ut	actions	menu	worldSwitcherTab
+Clear	Klarer	actions	menu	worldSwitcherTab
+Close	Lukk	actions	menu	worldSwitcherTab
+Configure	Konfigurer	actions	menu	worldSwitcherTab
+Grouping	Gruppering	actions	menu	groupTab
+Ironman Group	Jernmanngruppe	actions	menu	groupTab
+Chat-channel	Chattekanal	actions	menu	groupTab
+Your Clan	Din Klan	actions	menu	groupTab
+View another clan	Vis en annen klan	actions	menu	groupTab
+Message	Meld	actions	menu	groupTab
+Remove friend	Fjern venn	actions	menu	groupTab
+Switch world	Bytt verden	actions	menu	groupTab
+View Poll	Vis avstemning	actions	menu	accountManagementTab
+Hide	Gjem	actions	menu	prayerTab
+Activate	Aktiver	actions	menu	prayerTab
+Unhide	Vis	actions	menu	prayerTab
+Deactivate	Deaktiver	actions	menu	prayerTab
+Talk-to	Snakk med	actions	npc	Tool Leprechaun
+Exchange	Utveksle	actions	npc	Tool Leprechaun
+Attack	Angrip	actions	npc	Molanisk
+Trade	Handle	actions	npc	Hudo
+Travel	Reise	actions	npc	Rug Merchant
+Pet	Klapp	actions	npc	Dog
+Guess-letter	Gjett bokstav	actions	npc	Hangman game
+Banish	Forvis	actions	npc	Hangman game
+Reset	Tilbakestill	actions	npc	Hangman game
+Hit	Treff	actions	npc	Combat stone
+Dismiss	Ignorer	actions	npc	Dr Jekyll
+Rewards	Belønninger	actions	npc	Emblem Trader
+Skull	Hodeskalle	actions	npc	Emblem Trader
+Pay	Betal	actions	npc	Ayesha
+Armour	Rustning	actions	npc	Ironman tutor
+Check-pets	Sjekk kjæledyr	actions	npc	Leagues Tutor
+Collect-items	Samle-gjenstander	actions	npc	Leagues Tutor
+Claim-trophies	Krev-trofeer	actions	npc	Leagues Tutor
+Pick-up	Plukk opp	actions	npc	Dark core
+Metamorphosis	Metamorfose	actions	npc	Dark core
+Pick	Plukke	actions	npc	Strange plant
+Grab	Grip	actions	npc	Suspect
+Pop	Pop	actions	npc	Balloon Animal
+Kill	Drep	actions	npc	Pheasant
+Disturb	Forstyrr	actions	npc	Phosani's Nightmare
+Gauntlets	Hansker	actions	npc	Avan
+Lure	Lur	actions	npc	Rod Fishing spot
+Bait	Agn	actions	npc	Rod Fishing spot
+Pickpocket	Lommetyv	actions	npc	Guard
+Assignment	Oppgave	actions	npc	Turael
+Search	Søk	actions	npc	Entomologist
+Confront	Konfronter	actions	npc	Mi-Gor
+Transport	Transporter	actions	npc	Brother Tranquility
+Intimidate	Skrem	actions	npc	Zombie swab
+Fish	Fisk	actions	npc	Fishing spot
+Smash-ice	Knus-is	actions	npc	Ice block
+Shear	Klipp	actions	npc	Sheep
+Knock-Out	Slå-ut	actions	npc	Bandit
+Bank	Bank	actions	npc	Banker
+Collect	Samle	actions	npc	Banker
+Check-Approval	Sjekk-godkjenning	actions	npc	Arnor
+Tuxedo-time	Smoking-tid	actions	npc	Larry
+Mines	Gruver	actions	npc	Dartog
+Cellar	Kjeller	actions	npc	Dartog
+Sew	Sy	actions	npc	Patchy
+Dream	Drøm	actions	npc	Dominic Onion
+Take-boat	Ta båt	actions	npc	Monk of Entrana
+Inspect	Undersøk	actions	npc	Lumbridge Guide
+Trade-General-Store	Bytte-General-Butikk	actions	npc	Razmire Keelgan
+Trade-Builders-Store	Bytte-Bygge-Butikk	actions	npc	Razmire Keelgan
+Haircut	Hårklipp	actions	npc	Hairdresser
+Shave	Barbere	actions	npc	Hairdresser
+Makeover	Makeover	actions	npc	Makeover Mage
+Talk-To	Snakk med	actions	npc	Tarquin
+Quick-falcon	Kvikkfalk	actions	npc	Matthias
+Retrieve	Hent	actions	npc	Gyr Falcon
+Give-Sword	Gi-Sverd	actions	npc	Tindel Marchant
+Mine	Hakk	actions	npc	Elemental rock
+Push	Trykk	actions	npc	Trolley
+Pull	Dra	actions	npc	Trolley
+Big-push	Stort dytt	actions	npc	Trolley
+Place	Plasser	actions	npc	Trolley
+Claim-arrows	Krev-piler	actions	npc	Rantz
+Inflate	Pump	actions	npc	Swamp toad
+Pluck	Plukk	actions	npc	Chompy bird
+Shout-to	Rop-til	actions	npc	Nickolaus
+Quick-travel	Rask reise	actions	npc	Desert eagle
+Walk-past	Gå forbi	actions	npc	Eagle
+Threaten	True	actions	npc	Kebbit
+Small Net	Lite nett	actions	npc	Fishing spot
+Net	Nett	actions	npc	Fishing spot
+Ammo	Ammunisjon	actions	npc	Leon
+Cage	Bur	actions	npc	Fishing spot
+Harpoon	Harpun	actions	npc	Fishing spot
+Big Net	Stort nett	actions	npc	Fishing spot
+Use-rod	Bruk-stang	actions	npc	Fishing spot
+Escort	Eskorter	actions	npc	Smiddi Ryak (hard)
+Supply	Lever	actions	npc	Smiddi Ryak (hard)
+Claim-runes	Krev-runer	actions	npc	Lundail
+Chase	Jag	actions	npc	Cat
+Interact	Interager	actions	npc	Cat
+Catch	Fang	actions	npc	Baby impling
+Get-rewards	Få belønninger	actions	npc	Commander Connad
+Tutorial	Opplæring	actions	npc	Captain Cain
+Start-minigame	Start-minispill	actions	npc	Guardian mummy
+Teleport	Teleporter	actions	npc	Apprentice
+Join-Crew	Bli med I crew	actions	npc	San Fan
+Join-Team	Bli med i teamet	actions	npc	Honest Jimmy
+Pick-pocket	Lommetyv	actions	npc	Fairy Godfather
+Craft-goods	Håndverksvarer	actions	npc	Thakkrad Sigmundson
+Rellekka	Rellekka	actions	npc	Maria Gunnars
+Neitiznot	Neitiznot	actions	npc	Maria Gunnars
+Jatizso	Jatizso	actions	npc	Mord Gunnars
+Watch-shouting	Klokke-roping	actions	npc	Guard
+Kick	Spark	actions	npc	Bed
+Claim-Tokens	Krev-tokens	actions	npc	Lorelai
+History	Historie	actions	npc	Grand Exchange Clerk
+Sets	Sett	actions	npc	Grand Exchange Clerk
+Prices	Priser	actions	npc	Brugsen Bursen
+Exchange fire cape	Bytt brannkappe	actions	npc	TzHaar-Mej-Jal
+Destroy	Ødelegg	actions	npc	Door-support
+Tickets	Billetter	actions	npc	Cart conductor
+Listen-to	Lytt til	actions	npc	Red Axe Director
+Claim-Shield	Krev-skjold	actions	npc	Gamfred
+talk	Snakk	actions	npc	Gate of War
+Get job (easy)	Få jobb (enkelt)	actions	npc	Gianne jnr.
+Get job (hard)	Få jobb (vanskelig)	actions	npc	Gianne jnr.
+Repairs	Reparasjoner	actions	npc	Dark Mage
+Sober-Up	Gjør edru	actions	npc	Skippy
+Walk here	Gå her	actions	npc	Purepker895
+Follow	Følg	actions	npc	Purepker895
+Pay (north-west)	Betal (nord-vest)	actions	npc	Elstan
+Pay (south-east)	Betal (sør-øst)	actions	npc	Elstan
+Pay (north)	Betal (nord)	actions	npc	Dantaera
+Pay (south)	Betal (sør)	actions	npc	Dantaera
+Detach	Løsne	actions	npc	Combat dummy
+Upgrade	Oppgrader	actions	npc	Combat dummy
+Remove	Fjern	actions	npc	Combat dummy
+Shoo	Shoo	actions	npc	Clockwork cat
+Fur Clothing	Pelsklær	actions	npc	Asyff
+Shoo-away	Skrev-vekk	actions	npc	Stray dog
+Tease	Ert	actions	npc	Sabre-toothed kyatt
+Leave	Forlat	actions	npc	Squire
+Claim-slime	Krev-slim	actions	npc	Robin
+Use	Bruk	actions	npc	Portal
+Exit	Forlat	actions	npc	Portal
+Relocate	Omplasser	actions	npc	Estate agent
+Redecorate	Puss opp	actions	npc	Estate agent
+Buy-plank	Kjøp-planke	actions	npc	Sawmill operator
+Age	Alder	actions	npc	Hans
+Tackle	Takle	actions	npc	Gnome baller
+Pass-to	Sentre-til	actions	npc	Gnome winger
+Claim	Krev	actions	npc	Ranged combat tutor
+Buy	Kjøp	actions	npc	Fadli
+Heal	Helbred	actions	npc	A'abla
+Stroke	Klapp	actions	npc	Gertrude's cat
+Climb-over	Klatre over	actions	npc	Pile of bones
+Melt	Smelte	actions	npc	Crust of ice
+Clear	Klar	actions	npc	Furnace grate
+Take	Ta	actions	npc	Iron pickaxe
+Steal-from	Stjele-fra	actions	npc	Digsite workman
+Pay-fare	Pay-fare	actions	npc	Captain Tobias
+Pay-Fare	Pay-Fare	actions	npc	Customs officer
+Go-inside	Gå inn	actions	npc	House
+Pirate's Cove	Pirate's Cove	actions	npc	Lokar Searunner
+Deposit-items	Sett-inn-varer	actions	npc	Peer the Seer
+Miscellania	Miscellania	actions	npc	Sailor
+Prod	Prod	actions	npc	Red Sheep
+Return-Home	Returner-hjem	actions	npc	Bill Teach
+Devices	Enheter	actions	npc	Ava
+Chop	Hugge	actions	npc	Undead tree
+Roll	Rulle	actions	npc	Boulder
+Watch	Klokke	actions	npc	Mercenary Captain
+Buy-pass	Kjøp-pass	actions	npc	Shantay
+Pass	Pass	actions	npc	Shantay Guard
+Fly	Fly	actions	npc	Auguste
+Decant	Dekanter	actions	npc	Zahur
+Clean	Rengjøre	actions	npc	Zahur
+Make unfinished potion(s)	Lag uferdige potion(er)	actions	npc	Zahur
+Shoot	Skyte	actions	npc	Target
+Shop	Butikk	actions	npc	Ezekial Lovecraft
+Board	Borde	actions	npc	Ogre boat
+Potions	Potions	actions	npc	Apothecary
+Grab-feather	Grip-fjær	actions	npc	Desert Phoenix
+Take-from	Ta-fra	actions	npc	Jig cart
+Coffer	Kasse	actions	npc	Yohnus
+Call-Over	Ring-over	actions	npc	Zombie
+Insult	Fornærmelse	actions	npc	Zombie
+Scare	Skremme	actions	npc	Zombie
+Skin	Hud	actions	npc	Swamp snake
+Burn	Brenne	actions	npc	Barricade
+Extinguish	Slukk	actions	npc	Barricade
+Quick-withdraw	Hurtigtrekk	actions	npc	Elnock Inquisitor
+Check-gates	Sjekk-porter	actions	npc	Wandering impling
+Sand	Sand	actions	npc	Bert
+Request-supplies	Be om forsyninger	actions	npc	Bork Sigmundson
+Listen	Lytte	actions	npc	Key Master
+Check	Sjekke	actions	npc	Probita
+View Laps	Se runder	actions	npc	Grace
+Toggle Counter	Slå på telleren	actions	npc	Grace
+Tap	Trykk på	actions	npc	Skullball
+Show-Goal	Vis-mål	actions	npc	Skullball
+Give-Stick	Gi-Stikk	actions	npc	Agility Trainer
+Waterbirth Island	Waterbirth Island	actions	npc	Jarvald
+Take-flyer	Ta-flyer	actions	npc	Ali the Leaflet Dropper
+Trade-with	Bytte med	actions	npc	Rewards Guardian
+Trade-Co-op	Trade Co-op	actions	npc	Gabooty
+Trade-Drinks	Handel-drikker	actions	npc	Gabooty
+Send-parcel	Send-pakke	actions	npc	Rionasta
+Peek	Kikk	actions	npc	Eye
+Deposit-box	Pantboks	actions	npc	Financial Seer
+Move	Flytte	actions	npc	Boulder
+Log-storage	Logg-lagring	actions	npc	Friendly Forester
+Claim Sand	Krev Sand	actions	npc	Drew
+Deposit buckets	Innskuddsbøtter	actions	npc	Drew
+Toggle warnings	Slå på advarsler	actions	npc	Doomsayer
+Remove PvP Protection	Fjern PvP-beskyttelse	actions	npc	Doomsayer
+Observe	Observere	actions	npc	Maze Guardian
+New-maze	Ny-labyrint	actions	npc	Maze Guardian
+Maxhit Variant	Maxhit-variant	actions	npc	Combat Test
+Kill-count	Antall drepte	actions	npc	Soldier
+Canyon-count (east)	Canyon-telling (øst)	actions	npc	Soldier
+Canyon-count (west)	Canyon-telling (vest)	actions	npc	Soldier
+Pay (north-east)	Betal (nord-øst)	actions	npc	Marisi
+Pay (south-west)	Betal (sørvest)	actions	npc	Marisi
+Task	Oppgave	actions	npc	Captain Khaled
+Help	Hjelp	actions	npc	Villia
+Spellbook	Stavebok	actions	npc	Tyss
+Climb-on	Klatre på	actions	npc	Stunted demonic gorilla
+Glider	Glidefly	actions	npc	Captain Shoracks
+Watermill	Vannmølle	actions	npc	Mistag
+Join	Bli med	actions	npc	Lisa
+Locking	Låsing	actions	npc	Rift guardian
+Check Scores	Sjekk score	actions	npc	Captain Kalt
+Contract	Kontrakt	actions	npc	Amy
+Port Sarim	Port Sarim	actions	npc	Captain Magoro
+Port Piscarilius	Port Piscarilius	actions	npc	Captain Magoro
+Feed	Mate	actions	npc	Lux grub
+Douse	Douse	actions	npc	Fire
+Cut	Kutt	actions	npc	Meat tree
+Smash	Knuse	actions	npc	Jewelled Crab
+Claim-cape	Krav-kappe	actions	npc	Captain Rimor
+Set-difficulty	Sett-vanskelighet	actions	npc	Captain Rimor
+Fight	Slåss	actions	npc	Abigale
+Bars	Barer	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	Toggle-mineraler	actions	npc	Belona
+Kitten	Kattunge	actions	npc	Gertrude
+Toggle-vials	Veksle-ampuller	actions	npc	Barbarian guard
+Redeem-code	Løs inn kode	actions	npc	Recruiter
+Purchase Amulet	Kjøp amulett	actions	npc	Wizard Mizgog
+Staves	Staver	actions	npc	Dark Mage
+Deboard	Påhengsmotor	actions	npc	Barge guard
+Toggle Fossils	Slå på fossiler	actions	npc	Peter
+Poke	Stikke	actions	npc	Bobbing fossil
+Training	Opplæring	actions	npc	Mairin
+Harvest	Innhøsting	actions	npc	Herbiboar
+Stun	Bedøve	actions	npc	Hoop Snake
+Murder	Mord	actions	npc	Conrad King
+Challenge	Utfordring	actions	npc	The Mimic
+Quick-Travel	Rask-reise	actions	npc	Barge guard
+Escape	Flykte	actions	npc	Brundt the Chieftain
+Scry	Skrik	actions	npc	Abigaila
+Claim Pet Rock	Gjør krav på Pet Rock	actions	npc	Askeladden
+Standard Variant	Standard variant	actions	npc	Combat Test (maxhit)
+Get-log	Få-logg	actions	npc	The Collector
+Count-log	Tellelogg	actions	npc	The Collector
+Get bird	Få fugl	actions	npc	Alry the Angler
+Pay (Fruit tree)	Betal (frukttre)	actions	npc	Nikkie
+Pay (tree patch)	Betal (trelapp)	actions	npc	Rosie
+Pay (Redwood tree)	Betal (Redwood-tre)	actions	npc	Alexandra
+Pay (Spirit tree)	Betal (åndstre)	actions	npc	Latlink Fastbell
+Swap	Bytt	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	Betal (Celastrus tre)	actions	npc	Taylor
+Land's End	Land's End	actions	npc	Veos
+Join Castle Wars	Bli med i Castle Wars	actions	npc	Saradominist recruiter
+Holiday-items	Ferie-artikler	actions	npc	Diango
+Tan-hides	Tan-huder	actions	npc	Eodan
+Ardougne	Ardougne	actions	npc	Captain Barnaby
+Brimhaven	Brimhaven	actions	npc	Captain Barnaby
+Rimmington	Rimmington	actions	npc	Captain Barnaby
+Enchant	Fortryll	actions	npc	Eluned
+Quick-escape	Rask rømning	actions	npc	Elena
+Investigate	Undersøk	actions	npc	Elderly Elf
+Fix-exoskeleton	Fix-eksoskjelett	actions	npc	Elderly Elf
+Chop down	Hakk ned	actions	npc	Tree
+Sing	Synge	actions	npc	Reese
+Statistics	Statistikk	actions	npc	Ystwyth
+Repair	Reparere	actions	npc	Aneirin
+Open Adventure Paths	Åpne eventyrstier	actions	npc	Adventurer Jon
+Island of Stone	Øya av stein	actions	npc	Haskell
+Charter	Leie	actions	npc	Trader Stan
+Charter-to Brimhaven	Charter-til Brimhaven	actions	npc	Trader Stan
+Charter-to Catherby	Charter-til Catherby	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	Charter-til Mos Le'Harmless	actions	npc	Trader Stan
+Charter-to Musa Point	Charter-til Musa Point	actions	npc	Trader Stan
+Charter-to Port Khazard	Charter-til Port Khazard	actions	npc	Trader Stan
+Charter-to Port Phasmatys	Charter-til Port Phasmatys	actions	npc	Trader Stan
+Charter-to Port Sarim	Charter-til Port Sarim	actions	npc	Trader Stan
+Charter-to Shipyard	Charter-til verft	actions	npc	Trader Stan
+Charter-to Corsair Cove	Charter-til Corsair Cove	actions	npc	Trader Stan
+Charter-to Prifddinas	Charter-til kapital	actions	npc	Trader Stan
+Charter-to Port Tyras	Charter til Port Dekk	actions	npc	Trader Stan
+Charge	Lade	actions	npc	Totem
+Spectate	Ta en titt	actions	npc	The Nightmare
+Convert-shards	Konverter-skår	actions	npc	Noranna Tytanin
+Loot	Plyndre	actions	npc	Grave
+Lap-count	Rundteller	actions	npc	Bobawu
+Value	Verdi	actions	npc	Skully
+Settings	Innstillinger	actions	npc	Skully
+Ungael	Ikke gå	actions	npc	Torfinn
+Glider-to Ta Quir Priw	Glider-til Ta Quir Priw	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	Glider-til Gandius	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	Glider-til Kar-Hewo	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	Glider-til Lemanto Andra	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	Glider-to Sindarpos	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	Glider-to Ookookolly Undri	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	Glider-til Lemantolly Undri	actions	npc	Captain Dalbur
+Other-services	Andre-tjenester	actions	npc	Thessalia
+Leave-tutorial	Permisjonsopplæring	actions	npc	Nomad
+Fill	Fylle	actions	npc	Ammunition crate
+Check-ammo	Sjekk ammunisjon	actions	npc	Ammunition crate
+Forfeit	Tapt	actions	npc	Captain Pudi
+Locks	Låser	actions	npc	Dampe
+Take-net	Ta-nett	actions	npc	Spirit Angler
+Ferry	Ferje	actions	npc	Ferryman Sathwood
+Awaken	Våkne opp	actions	npc	Rubble
+Items	Varer	actions	npc	Clerk
+Buy-sphere	Kjøp-sfære	actions	npc	Oldak
+Power-up	Oppstart	actions	npc	The Great Guardian
+Buy-crystals	Kjøp krystaller	actions	npc	Rick
+Quick-lock	Hurtiglås	actions	npc	Apprentice Tamara
+Strike	Streik	actions	npc	Hill Giant
+Hand-in	Innlevering	actions	npc	Kovac
+Commission	Kommisjon	actions	npc	Kovac
+Talk	Snakke	actions	npc	Hannibal
+Proceed	Fortsette	actions	npc	Osmumten
+Begin	Begynne	actions	npc	Osmumten
+Water	Vann	actions	npc	Palm of Resourcefulness
+Check-costume	Sjekk-kostyme	actions	npc	Costumed child
+Trick-or-treat	Trick-or-treat	actions	npc	Generous Treater
+Scare-away	Skremme bort	actions	npc	Spooky dog
+Tend-to	Tendens til	actions	npc	Flowering bush (Lilac)
+Emote	Emot	actions	npc	Wisp
+Deposit	Innskudd	actions	npc	Woodcutting Leprechaun
+Cast	Cast	actions	npc	Fishing spot
+Reset-room	Tilbakestill-rom	actions	npc	Cerebral pathfinder
+Take-lure	Ta-lokke	actions	npc	Light leech
+Build	Bygge	actions	npc	Unfinished Beehive
+Disarm	Avvæpne	actions	npc	Fox trap
+Prune	Beskjær	actions	npc	Entling
+Prune-top	Sviske-topp	actions	npc	Entling
+Prune-back	Beskjære-rygg	actions	npc	Entling
+Prune-sides	Sviske-sider	actions	npc	Entling
+Charter-to Port Piscarilius	Charter-til Port Piscarilius	actions	npc	Trader Stan
+Charter-to Land's End	Charter-to Land's End	actions	npc	Trader Stan
+Mark	Merke	actions	npc	Guard
+Unmark	Fjern merking	actions	npc	Guard
+Charter-to Civitas illa Fortis	Charter-til den sterke byen	actions	npc	Trader Stan
+Charter-to Aldarin	Charter-til Aldarin	actions	npc	Trader Stan
+Charter-to Sunset Coast	Charter-til Sunset Coast	actions	npc	Trader Stan
+Charter-to Tempestus	Charter-til Tempestus	actions	npc	Trader Stan
+Start-wave	Start-bølge	actions	npc	Minimus
+Scoreboard	Resultattavle	actions	npc	Eyatlalli
+Rumour	Rykte	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	Rykte-innstillinger	actions	npc	Guild Scribe Verity
+Fur-clothing	Pels-klær	actions	npc	Pellem
+Recharge-whistle	Lade-fløyte	actions	npc	Soar Leader Pitri
+Trade-in	Innbytte	actions	npc	Oriana
+Last-destination	Siste destinasjon	actions	npc	Renu
+Setup	Oppsett	actions	npc	Ironman tutor
+Assignment	Oppdrag	actions	npc	Vannaka
+Attract	Tiltrekk	actions	npc	Light creature
+Last-tier contract	Siste-nivå kontrakt	actions	npc	Amy
+Plant-orb	Plant-kule	actions	npc	Surok Magis
+Metamorph	Metamorfose	actions	npc	Nid
+Choose	Velg	actions	npc	Tenoch
+Check-on	Sjekk-på	actions	npc	Man
+Stats	Stats	actions	npc	Worm Tongue
+Examine	Utforsk	actions	npc	
+Search	Søk	actions	object	Crate
+Enter	Gå	actions	object	Cave Entrance
+Open	Åpne	actions	object	Door
+Inspect	Undersøke	actions	object	Broken multicannon
+Fire	Ild	actions	object	Dwarf multicannon
+Pick-up	Henting	actions	object	Dwarf multicannon
+Empty	Tømme	actions	object	Dwarf multicannon
+Climb-down	Klatre ned	actions	object	Ladder
+Climb-up	Klatre opp	actions	object	Ladder
+Climb-over	Klatre over	actions	object	Rock pile
+Prod	Prod	actions	object	Sacks
+Pull	Dra	actions	object	Lever
+Go-through	Gå gjennom	actions	object	Gate
+Fish	Fisk	actions	object	Fishing spot
+Squeeze-through	Klem gjennom	actions	object	Loose Railing
+Check	Sjekke	actions	object	Vine
+Pray-at	Be-kl	actions	object	Chaos altar
+Smash	Knuse	actions	object	Giant crystal
+Hide-in	Gjem seg inn	actions	object	Crate
+Take-from	Ta-fra	actions	object	Beehive
+Cross	Kryss	actions	object	Gangplank
+Knock-at	Bank på	actions	object	Large door
+Search for traps	Søk etter feller	actions	object	Lever
+Shut	Lukke	actions	object	Open chest
+Cook	Kokk	actions	object	Cooking range
+Burst	Burst	actions	object	Party Balloon
+Jump-up	Hopp opp	actions	object	Rocks
+Operate	Operere	actions	object	Winch
+Pick	Plukke	actions	object	Potato
+Close	Lukke	actions	object	Large open cupboard
+Play	Spille	actions	object	Church organ
+Use	Bruk	actions	object	Crevice
+Peek	Kikk	actions	object	Crevice
+Private	Privat	actions	object	Crevice
+Jump	Hoppe	actions	object	Broken Fence
+Steal-from	Stjele-fra	actions	object	Tea stall
+Take	Ta	actions	object	Small fishing net
+Exit	Gå	actions	object	Cave exit
+Suck	Suge	actions	object	Swamp bubbles
+Reset	Tilbakestill	actions	object	Shaking box
+Slash	Slash	actions	object	Web
+Weave	Veve	actions	object	Loom
+Attack	Angrep	actions	object	Dummy
+Read	Lese	actions	object	Plaque
+Chop down	Hakk ned	actions	object	Tree
+Push	Trykk	actions	object	Wall
+Take-1	Ta-1	actions	object	Bandage table
+Take-5	Ta-5	actions	object	Bandage table
+Take-10	Ta-10	actions	object	Bandage table
+Commune	kommune	actions	object	Lever
+Board	Borde	actions	object	Log raft
+Swim to	Svøm til	actions	object	Rock
+Take treasure	Ta skatten	actions	object	Chalice
+Climb	Klatre	actions	object	Dead Tree
+Get in	Gå inn	actions	object	Barrel
+Chop	Hugge	actions	object	Achey Tree
+Drink From	Drikk fra	actions	object	Cauldron
+Smelt	Smelt	actions	object	Furnace
+Smith	Smith	actions	object	Anvil
+Hit	Treff	actions	object	Dummy
+Fill	Fylle	actions	object	Crate
+Look-at	Se-på	actions	object	Mound of earth
+Investigate	Undersøk	actions	object	Strange looking stone
+Craft	Håndverk	actions	object	Smashed table
+Disembark	Gå i land	actions	object	Crude raft
+Pay-fare	Pay-fare	actions	object	Travel cart
+Listen-at	Hør-på	actions	object	Grill
+Pan	Panne	actions	object	Panning point
+Shoot	Skyte	actions	object	Gnome goal
+Deposit	Innskudd	actions	object	Chest
+Climb-on	Klatre på	actions	object	Barrel
+Kick	Sparke	actions	object	Loose panel
+Rotate	Rotere	actions	object	Crane
+Walk-down	Gå ned	actions	object	Spooky stairs
+Walk-up	Walk-up	actions	object	Spooky stairs
+Repair	Reparere	actions	object	Hole
+Walk-Down	Walk-Down	actions	object	Stairs
+Walk-Up	Walk-Up	actions	object	Stairs
+Mine	Mine	actions	object	Rock slide
+Look at	Se på	actions	object	Winch
+Cut	Kutt	actions	object	Kharidian cactus (Healthy)
+Watch	Klokke	actions	object	Mine door entrance
+Look-in	Se inn	actions	object	Barrel
+Look in	Se inn	actions	object	Barrel
+Collect	Samle	actions	object	Bank chest
+Climb-to	Klatre til	actions	object	Rock
+Climb down	Klatre ned	actions	object	Rock
+Walk through	Gå gjennom	actions	object	Mine cave
+Walk-through	Gå gjennom	actions	object	Tent door
+Remove	Fjerne	actions	object	Hellhound
+Steal-From	Stjele-fra	actions	object	Counter
+Prospect	Prospekt	actions	object	Rock of Dalgroth
+Leave	Forlate	actions	object	Cave exit
+Jump-Over	Hopp over	actions	object	Gap
+Turn	Sving	actions	object	Sewer valve
+Look-under	Se under	actions	object	Potted plant
+Step-into	Gå inn	actions	object	Sparkling pool
+Chop-down	Kutt ned	actions	object	Jungle tree
+Touch	Røre	actions	object	Fire Wall
+search	søk	actions	object	Desk
+Smash-to-bits	Smash-to-bits	actions	object	Boulder
+Jump-over	Hopp over	actions	object	Jagged wall
+Look	Se	actions	object	Carved rock
+Lift	Løfte	actions	object	Totem pole
+Shake	Riste	actions	object	Leafy Palm Tree
+Cut down	Kutt ned	actions	object	Arctic pine tree
+Forfeit	Tapt	actions	object	Entrance
+Bank	Bank	actions	object	Open chest
+Buy	Kjøpe	actions	object	Crate
+Pass-through	Gjennomføring	actions	object	Tunnel
+Descend	Gå ned	actions	object	Cave
+Ascend	Stige	actions	object	Cave
+Picklock	Picklock	actions	object	Gate
+Fire-at	Brann-på	actions	object	Guide rope
+Unlock	Låse opp	actions	object	Locked Ogre chest
+Study	Studere	actions	object	Monument
+Take-cutting	Ta-skjæring	actions	object	Budding branch
+Walk-on	Gå på	actions	object	Balancing rope
+Walk-across	Gå på tvers	actions	object	Balancing ledge
+Swing-across	Sving over	actions	object	Monkey bars
+Swing-on	Sving på	actions	object	Rope swing
+Jump-on	Hopp på	actions	object	Pillar
+Tag	Tag	actions	object	Ticket Dispenser
+Climb-across	Klatre over	actions	object	Hand holds
+Toggle-warning	Toggle-advarsel	actions	object	Cave entrance
+Dump	Dump	actions	object	Compost Bin
+Step-over	Gå over	actions	object	Tripwire
+Pass	Pass	actions	object	Sticks
+Reinforce	Forsterke	actions	object	Temple wall
+Light	Lys	actions	object	Fire altar
+Summon	Innkalle	actions	object	Strange altar
+Cut-branch	Kutt-gren	actions	object	Swaying tree
+Put-inside	Sett inn	actions	object	Pipe
+Spin	Spinne	actions	object	Spinning wheel
+Capture	Fangst	actions	object	Standard Stand
+Jump-to	Hopp til	actions	object	Stepping stone
+Collapse	Kollapse	actions	object	Cave wall
+Lock	Låse	actions	object	Door
+View	Utsikt	actions	object	Scoreboard
+View Stats	Se statistikk	actions	object	Scoreboard
+Build	Bygge	actions	object	Chair space
+Remove board advert	Fjern tavleannonsen	actions	object	Portal
+Remove-room	Fjern-rom	actions	object	Dungeon entrance
+Jump-across	Hopp på tvers	actions	object	Basalt rock
+View-game	Se-spill	actions	object	Table
+Weed	Ugress	actions	object	Herbs
+Jump off	Hopp av	actions	object	End of bridge
+Talk-to	Snakke med	actions	object	Awowogei
+Pick-lock	Pick-lock	actions	object	Jail Door
+Steal from	Stjele fra	actions	object	Crafting Stall
+Crawl-down	Kryp ned	actions	object	Cart tunnel
+Crawl-through	Kryp gjennom	actions	object	Cart tunnel
+Go-down	Gå ned	actions	object	Lift
+Go-up	Gå opp	actions	object	Lift
+Slide	Skyv	actions	object	Slope
+Squeeze-past	Klem-forbi	actions	object	Stalagmite
+Wind	Vind	actions	object	Clock
+Dig	Du	actions	object	Grave
+Pick-Lock	Pick-Lock	actions	object	Trapdoor
+Take-axe	Ta-øks	actions	object	Logs
+Ring-bell	Ringeklokke	actions	object	Antiques Shop Stall
+Listen-to	Lytt til	actions	object	Shining pool
+Pick-from	Velg fra	actions	object	Thorny bushes
+Dig-up	Grave opp	actions	object	Mud
+Dig-below	Grav-under	actions	object	Roots
+Jump-through	Hopp gjennom	actions	object	Wall of flame
+Take-beer	Ta øl	actions	object	Table
+Hide-behind	Gjem seg bak	actions	object	Cactus
+Smoke	Røyk	actions	object	Smokey well
+Look-into	Se inn	actions	object	Mystical mirror
+Step-off	Step-off	actions	object	Ice ledge
+Climb-through	Klatre gjennom	actions	object	Hole
+Collect-from	Hente-fra	actions	object	Weeping wall
+Sit-on	Sitt på	actions	object	Chair
+Upgrade	Oppgrader	actions	object	Tools
+Work-at	Arbeid-at	actions	object	Workbench
+Make-helmet	Lag-hjelm	actions	object	Helmet pluming stand
+Ring	Ringe	actions	object	Bell
+Quick-board	Gå om bord raskt	actions	object	Swamp Boaty
+Ride	Ri	actions	object	Train cart
+Observe	Observere	actions	object	Telescope
+Leave-area	Permisjonsområde	actions	object	Ladder
+Crack	Crack	actions	object	Wall safe
+Pull-spade	Trekk-spade	actions	object	Stone Door
+Guide	Guide	actions	object	Belladonna patch
+Rake	Rake	actions	object	Belladonna patch
+Cure	Kurere	actions	object	Diseased Belladonna
+Clear	Klar	actions	object	Dead Belladonna
+Check-health	Sjekk helse	actions	object	Cadavaberry bush
+Prune	Beskjær	actions	object	Diseased cadavaberry bush
+Pick-spine	Plukk-rygg	actions	object	Cactus
+Pick-fruit	Plukkfrukt	actions	object	Calquat tree
+Gear	Utstyr	actions	object	Supplies
+Stats	Statistikk	actions	object	Supplies
+Standard spellbook	Standard stavebok	actions	object	Altar
+Ancient spellbook	Gammel trolldomsbok	actions	object	Altar
+Lunar spellbook	Månebok	actions	object	Altar
+Arceuus spellbook	Arceuus tryllebok	actions	object	Altar
+Pick-apple	Plukk-eple	actions	object	Apple tree
+Pick-pineapple	Plukk-ananas	actions	object	Pineapple plant
+Pick-banana	Plukk-banan	actions	object	Banana tree
+Pick-leaf	Plukk-blad	actions	object	Curry tree
+Pick-orange	Plukk-oransje	actions	object	Orange tree
+Pick-coconut	Plukk-kokosnøtt	actions	object	Palm tree
+Harvest	Innhøsting	actions	object	Asgarnian Hops
+Travel	Reise	actions	object	Spirit Tree
+Milk	Melk	actions	object	Dairy cow
+Steal-cowbell	Stjel-kubjelle	actions	object	Dairy cow
+Dismantle	Demontere	actions	object	Young tree
+Set-trap	Sett-felle	actions	object	Young tree
+Release	Utgivelse	actions	object	Gnome on a rack
+Level	Nivå	actions	object	Kelda Stout
+Control	Kontroll	actions	object	Dwarven machinery
+Return	Retur	actions	object	Train cart
+Chip	Chip	actions	object	Dense runestone
+Hack	Hack	actions	object	Light Jungle
+Quick-Pay(100)	Hurtigbetaling (100)	actions	object	Hardwood Grove Doors
+Refuel	Fylle drivstoff	actions	object	Stove
+Retrieve	Hent	actions	object	Bars
+Pedal	Pedal	actions	object	Pedals
+Put-ore-on	Legg-malm-på	actions	object	Conveyor belt
+Fill-bucket	Fyll-bøtte	actions	object	Sink
+Take-seed	Ta-frø	actions	object	Roses
+Attach	Feste	actions	object	Ornate combat dummy
+Swap	Bytt	actions	object	Ornate combat dummy
+Take-Coffin	Ta-kiste	actions	object	Grave
+Make	Lage	actions	object	Bed
+Net	Nett	actions	object	Fishing spot
+Ardougne	Ardougne	actions	object	Lever
+Edgeville	Edgeville	actions	object	Lever
+Swap-options	Bytte-alternativer	actions	object	Lever
+Talk to	Snakk med	actions	object	Tree
+Exchange	Utveksling	actions	object	Grand Exchange booth
+Lure	Lure	actions	object	Ominous Fishing Spot
+Bait	Agn	actions	object	Ominous Fishing Spot
+Fish-In	Fish-In	actions	object	Aquarium
+Count	Telle	actions	object	Pressure Barrel
+Swim	Svømme	actions	object	River
+Look-up	Slå opp	actions	object	Trellis
+Spectate	Ta en titt	actions	object	Rat wall
+Deposit-box	Pantboks	actions	object	Bank booth
+Grab	Gripe	actions	object	Bones
+Remove-coal	Fjern-kull	actions	object	Coal Truck
+Take-sigil	Ta-sigil	actions	object	Pedestal
+Empty-Out	Tøm ut	actions	object	Cannon
+Fire!	Ild!	actions	object	Cannon
+Loot	Plyndre	actions	object	Crate
+Plunder	Plyndre	actions	object	Closed chest
+Ransack	Ransack	actions	object	Barrel
+Count-plunder	Greve-plyndring	actions	object	Plunder Storage
+Store-plunder	Butikk-plyndring	actions	object	Plunder Storage
+Take-powder	Ta-pulver	actions	object	Powder Barrel
+Waterproof	Vanntett	actions	object	Ship hull
+Balance	Balansere	actions	object	Narrow wall
+Teeth-grip	Tanngrep	actions	object	Zip line
+Drain	Drenere	actions	object	Barrel
+Churn	Churn	actions	object	Dairy churn
+Zanaris	Zanaris	actions	object	Fairy ring
+Configure	Konfigurer	actions	object	Fairy ring
+Last-destination (AIP)	Siste destinasjon (AIP)	actions	object	Fairy ring
+Escape	Flykte	actions	object	Cave entrance
+Examine	Undersøke	actions	object	Healing certificate
+Shape-Canoe	Shape-kano	actions	object	Canoe Station
+Float Log	Flytelogg	actions	object	Canoe Station
+Float Canoe	Flytekano	actions	object	Canoe Station
+Paddle Log	Padlelogg	actions	object	Canoe Station
+Paddle Canoe	Padle kano	actions	object	Canoe Station
+Look-inside	Se inn	actions	object	Mole hill
+Buy-food	Kjøp mat	actions	object	Chest
+Buy-items	Kjøpe-varer	actions	object	Chest
+Quick-escape	Rask rømning	actions	object	Door
+Drink-from	Drikke-fra	actions	object	Fountain
+Pick-Fruit	Plukk-frukt	actions	object	Sq'irk tree
+Stand-on	Stå på	actions	object	Balance beam
+Get-down	Kom deg ned	actions	object	Balance beam
+Change-clothes	Skifte-klær	actions	object	Shoe box
+Preen	Preen	actions	object	Shaving stand
+Haircut	Hårklipp	actions	object	Shaving stand
+Shave	Barbere	actions	object	Shaving stand
+Pray	Be	actions	object	Altar
+Re-light	Tenn på nytt	actions	object	Incense burner
+Build-in	Innebygd	actions	object	Cage
+Force	Makt	actions	object	Door
+Activate	Aktiver	actions	object	Treasure Hunt Fairy House
+Set-up	Oppsett	actions	object	Attack stone
+Hoop	Bøyle	actions	object	Stick
+Throw-at	Kast på	actions	object	Dartboard
+Shoot-at	Skyt på	actions	object	Archery target
+Karamja	Karamja	actions	object	Amulet of Glory
+Draynor Village	Draynor Village	actions	object	Amulet of Glory
+Al Kharid	Al Kharid	actions	object	Amulet of Glory
+Take-kettle	Ta-kjele	actions	object	Firepit with hook
+Sleep-in	Sov inn	actions	object	Pet blanket
+Last-destination (AIS)	Siste destinasjon (AIS)	actions	object	Fairy ring
+Last-destination (AIR)	Siste destinasjon (AIR)	actions	object	Fairy ring
+Last-destination (AIQ)	Siste destinasjon (AIQ)	actions	object	Fairy ring
+Direct-portal	Direkte-portal	actions	object	Scrying pool
+Scry	Skrik	actions	object	Scrying pool
+Challenge-mode	Utfordringsmodus	actions	object	Lever
+Evade-event	Unngå-hendelse	actions	object	Path
+Continue-trek	Fortsett turen	actions	object	Path
+Swing-from	Sving-fra	actions	object	Swamp tree branch
+Cut-vine	Kutt vin	actions	object	Swamp tree
+Escape-event	Escape-hendelse	actions	object	Boat
+Return-to-Burgh	Retur til Burgh	actions	object	Path
+Remove-Pot	Fjern-Pot	actions	object	Pot-boiler
+Remove-Bone	Fjern-bein	actions	object	Pot-boiler
+Jump-down	Hopp ned	actions	object	Rocks
+Use-Driftwood	Bruk-Driftwood	actions	object	Embers
+Climb-through (normal)	Gjennomstigning (normal)	actions	object	Broken bars
+Climb-through (private)	Gjennomstigning (privat)	actions	object	Broken bars
+Peek (normal)	Kikk (normal)	actions	object	Broken bars
+Eat	Spise	actions	object	Food Pile
+Leap	Hoppe	actions	object	Gap
+Teleport to Destination	Teleporter til destinasjon	actions	object	Obelisk
+Set Destination	Angi destinasjon	actions	object	Obelisk
+Hurdle	Hindre	actions	object	Ledge
+Jump-off	Hopp av	actions	object	Edge
+Vault	Hvelv	actions	object	Pole-vault
+Jump-in	Hopp inn	actions	object	Pile of fish
+Take-pickaxe	Ta-hakke	actions	object	Rocks
+Use-Lift	Bruk-løft	actions	object	Platform
+Take-Beam	Take-Beam	actions	object	Crate
+Take-Pulley-Beam	Ta-trinse-bjelke	actions	object	Crate
+Take-Rope	Take-Rope	actions	object	Crate
+Swing Across	Sving over	actions	object	Monkeybars
+Home	Hjem	actions	object	Portal
+Build mode	Byggemodus	actions	object	Portal
+Friend's house	Venns hus	actions	object	Portal
+Swing	Svinge	actions	object	Rope
+Sit-On	Sitt-på	actions	object	Piano stool
+Pick Nuts	Plukk nøtter	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	Plukk banan	actions	object	Strange banana tree
+Throw	Kaste	actions	object	Shot
+Unblock	Fjern blokkering	actions	object	Tunnel
+Take-Rum	Ta-Rum	actions	object	Conveyor Belt
+Pump	Pumpe	actions	object	Steam Pump
+Vent	Vent	actions	object	Steam Pump
+Take-Log	Ta-logg	actions	object	Log Store
+Take-Tool	Ta-verktøy	actions	object	Workbench
+Cut-Down	Cut-Down	actions	object	Jungle tree
+Pay-toll(2-Ecto)	Betalingsavgift (2-Ecto)	actions	object	Energy Barrier
+Jump-To	Hopp til	actions	object	Rock
+Enter-cloud	Enter-sky	actions	object	Cloud bank
+Listen	Lytte	actions	object	Crevice
+Manoeuvre-past	Manøver-forbi	actions	object	Tight-gap
+Climb-under	Klatre-under	actions	object	Castle wall
+Climb-into	Klatre inn	actions	object	Hole
+Jump-onto	Hopp inn på	actions	object	Stepping stone
+Press	Pressen	actions	object	Zero
+Step-on	Trå på	actions	object	Platform
+Worship	Tilbedelse	actions	object	Ectofuntus
+Status	Status	actions	object	Bone grinder
+Talk-To	Snakk med	actions	object	Pirate Captain
+Admire	Beundre	actions	object	Tall mirror
+Roll	Rulle	actions	object	Dice
+Grapple	Gripe	actions	object	Rocks
+Take-bowl	Ta-skål	actions	object	Table
+Sing-crystal	Sing-krystall	actions	object	Singing bowl
+test	test	actions	object	Argento
+Crawl-under	Kryp under	actions	object	Wall
+Fix	Fastsette	actions	object	Bellows
+Bend	Bøye	actions	object	Cell wall window
+Steal	Stjele	actions	object	Candles
+Deactivate	Deaktiver	actions	object	Magic box
+Trap	Felle	actions	object	Pit
+Flush	Skyll	actions	object	Rabbit hole
+Shout-over	Shout-over	actions	object	Rockslide
+Pull-down	Trekk ned	actions	object	Eagle lever
+Push-up	Push-up	actions	object	Eagle lever
+Quick-start	Rask start	actions	object	Ladder
+Reset-wave	Tilbakestill-bølge	actions	object	Door
+Dunk	Dunk	actions	object	Lava crater
+Block	Blokkere	actions	object	Penance cave
+Demolish	Rive	actions	object	Penance cave
+Take-Arrows	Ta-piler	actions	object	Attacker item machine
+Take-Runes	Take-Runes	actions	object	Attacker item machine
+Stock-Up	Lager-Up	actions	object	Defender item machine
+Take-Crackers	Take-Crackers	actions	object	Defender item machine
+Take-Tofu	Ta-Tofu	actions	object	Defender item machine
+Take-Worms	Ta-ormer	actions	object	Defender item machine
+Take-Vial	Ta-hetteglass	actions	object	Healer item machine
+Take-Meat	Ta-kjøtt	actions	object	Healer item machine
+Call	Ringe	actions	object	Horn of glory
+Get-Spikes	Få-Spikes	actions	object	Petrified mushroom
+Load	Laste	actions	object	Egg hopper
+Evade	Unngå	actions	object	Trap
+Disable	Deaktiver	actions	object	Trap
+Harpoon	Harpun	actions	object	Fishing spot
+Cage	Bur	actions	object	Fishing spot
+Leave Tomb	Forlat Tomb	actions	object	Tomb Door
+Quick-leave	Rask avreise	actions	object	Tomb Door
+Tread-softly	Trå mykt	actions	object	Icicles
+Convert	Konvertere	actions	object	Collector Converter
+Check for Snakes	Se etter slanger	actions	object	Urn
+Charm Snake	Charm Snake	actions	object	Urn
+Cut-wood	Kutt-tre	actions	object	Woodcutting stump
+Cross-bridge	Kryssbro	actions	object	Rope bridge
+Exit-cave	Utgangshule	actions	object	Exit cavern
+Decapitate	Decapitate	actions	object	Ice Troll King
+Jump-from	Hopp fra	actions	object	Stepping stone
+Peer-through	Peer-through	actions	object	Peephole
+Add-bottom	Legg til bunn	actions	object	Crate
+Return-to-Paterdomus	Retur-til-Paterdomus	actions	object	Path
+Excavate	Grave	actions	object	Statue
+Quick Pass	Hurtigpass	actions	object	Flames
+Tamper	Tamper	actions	object	Device
+Untie	Knytte opp	actions	object	Zanik
+Walk-along	Gå-med	actions	object	Tunnel
+Swing across	Sving over	actions	object	Monkeybars
+Animate	Animer	actions	object	Magical Animator
+Check Kudos	Sjekk Kudos	actions	object	Information booth
+Add finds	Legg til funn	actions	object	Storage crate
+Clean	Rengjøre	actions	object	Specimen table
+Talk-into	Snakk inn	actions	object	Drain Pipe
+Wind-up	Avvikling	actions	object	Gramophone
+Turn-Off	Slå av	actions	object	Gramophone
+Climb up	Klatre opp	actions	object	Beard
+Exit-through	Forlat-gjennom	actions	object	Fire rift
+Push-through	Skyv-gjennom	actions	object	Magical wheat
+Dive in	Dykk inn	actions	object	Whirlpool
+Construct	Konstruer	actions	object	Pyre site
+Rummage	Rot	actions	object	Skeleton
+Burn-down	Brenn ned	actions	object	Boil
+Take From	Ta fra	actions	object	Barrel of flour
+Reach	Nå	actions	object	Vent
+Free	Frigjør	actions	object	King Arthur
+Break	Knus	actions	object	Smashed window
+Distract	Distraher	actions	object	Eyes
+Drink	Drikk	actions	object	Potion
+Store	Lagre	actions	object	Super ranging potion
+Equip	Ta på	actions	object	Anti-dragon shield
+Teleport	Teleporter	actions	object	Zamorak altar
+Tie-rope	Knyt-tau	actions	object	Rock
+Move	Flytt	actions	object	Boulder
+Claim-staves	Krev-staver	actions	object	Barrel
+Climb-off	Klatre av	actions	object	Ice bridge
+Crawl	Kryp	actions	object	Cave
+Join	Bli med	actions	object	Challenge portal
+Hammer	Hammer	actions	object	Broken strut
+Toggle K/D	Slå på K/D	actions	object	Wilderness Statistics
+Make-raft	Lag-flåte	actions	object	Old log
+Weiss	Weiss	actions	object	Portal Nexus
+Teleport Menu	Teleport meny	actions	object	Portal Nexus
+Configuration	Konfigurasjon	actions	object	Portal Nexus
+Toggle XP	Slå på XP	actions	object	Deadman chest
+Take-X	Ta-X	actions	object	Meat table
+Serve	Tjene	actions	object	Buffet table
+Water	Vann	actions	object	Golovanova seedling
+Bind	Binde	actions	object	Blood Altar
+Venerate	Ærede	actions	object	Dark Altar
+Take-remains	Ta-rester	actions	object	Kruk
+Scale	Skala	actions	object	Rocks
+Walk on	Gå videre	actions	object	Vine
+Look-in-all	Se-i-alt	actions	object	Hole
+Disarm	Avvæpne	actions	object	Floor spikes
+Pass through	Gå gjennom	actions	object	Sliced web
+Gaze-into	Blikk inn i	actions	object	Burning brazier
+Reset-time	Tilbakestillingstid	actions	object	Burning brazier
+Balance-across	Balanse på tvers	actions	object	Steep roof
+Leave Cavern	Forlat Cavern	actions	object	Inanimate Altar
+Story	Historie	actions	object	Juna
+Climb over	Klatre over	actions	object	Broken cart
+Claim	Krav	actions	object	Reward chest
+Add-House	Add-House	actions	object	House Advertisement
+Visit-Last	Besøk-Siste	actions	object	House Advertisement
+Cross-to	Kryss til	actions	object	Rock
+Setup	Oppsett	actions	object	Tip jar
+Jars	Krukker	actions	object	Boss lair display
+Perks	Fordeler	actions	object	Mounted Max Cape
+Spellbook	Spellbook	actions	object	Mounted Magic Cape
+Clip	Klipp	actions	object	Topiary bush
+Feed	Mate	actions	object	Burning brazier
+Take-hammer	Ta-hammer	actions	object	Crate
+Take-knife	Ta-kniv	actions	object	Crate
+Take-tinderbox	Ta-fyrstikkeske	actions	object	Crate
+Take-concoction	Ta-sammenblanding	actions	object	Crate
+Take-5-concoction	Ta-5-sammensetning	actions	object	Crate
+Take-10-concoction	Ta-10-sammensetning	actions	object	Crate
+Last-destination (ALP)	Siste destinasjon (ALP)	actions	object	Fairy ring
+Last-destination (ALS)	Siste destinasjon (ALS)	actions	object	Fairy ring
+Last-destination (ALR)	Siste destinasjon (ALR)	actions	object	Fairy ring
+Last-destination (ALQ)	Siste destinasjon (ALQ)	actions	object	Fairy ring
+Last-destination (AKP)	Siste destinasjon (AKP)	actions	object	Fairy ring
+Last-destination (AKS)	Siste destinasjon (AKS)	actions	object	Fairy ring
+Last-destination (AKR)	Siste destinasjon (AKR)	actions	object	Fairy ring
+Last-destination (AKQ)	Siste destinasjon (AKQ)	actions	object	Fairy ring
+Last-destination (AJP)	Siste destinasjon (AJP)	actions	object	Fairy ring
+Last-destination (AJS)	Siste destinasjon (AJS)	actions	object	Fairy ring
+Last-destination (AJR)	Siste destinasjon (AJR)	actions	object	Fairy ring
+Last-destination (AJQ)	Siste destinasjon (AJQ)	actions	object	Fairy ring
+Last-destination (DIP)	Siste destinasjon (DIP)	actions	object	Fairy ring
+Last-destination (DIS)	Siste destinasjon (DIS)	actions	object	Fairy ring
+Last-destination (DIR)	Siste destinasjon (DIR)	actions	object	Fairy ring
+Last-destination (DIQ)	Siste destinasjon (DIQ)	actions	object	Fairy ring
+Last-destination (DLP)	Siste destinasjon (DLP)	actions	object	Fairy ring
+Last-destination (DLS)	Siste destinasjon (DLS)	actions	object	Fairy ring
+Last-destination (DLR)	Siste destinasjon (DLR)	actions	object	Fairy ring
+Last-destination (DLQ)	Siste destinasjon (DLQ)	actions	object	Fairy ring
+Last-destination (DKP)	Siste destinasjon (DKP)	actions	object	Fairy ring
+Last-destination (DKS)	Siste destinasjon (DKS)	actions	object	Fairy ring
+Last-destination (DKR)	Siste destinasjon (DKR)	actions	object	Fairy ring
+Last-destination (DKQ)	Siste destinasjon (DKQ)	actions	object	Fairy ring
+Last-destination (DJP)	Siste destinasjon (DJP)	actions	object	Fairy ring
+Last-destination (DJS)	Siste destinasjon (DJS)	actions	object	Fairy ring
+Last-destination (DJR)	Siste destinasjon (DJR)	actions	object	Fairy ring
+Last-destination (DJQ)	Siste destinasjon (DJQ)	actions	object	Fairy ring
+Last-destination (CIP)	Siste destinasjon (CIP)	actions	object	Fairy ring
+Last-destination (CIS)	Siste destinasjon (CIS)	actions	object	Fairy ring
+Last-destination (CIR)	Siste destinasjon (CIR)	actions	object	Fairy ring
+Last-destination (CIQ)	Siste destinasjon (CIQ)	actions	object	Fairy ring
+Last-destination (CLP)	Siste destinasjon (CLP)	actions	object	Fairy ring
+Last-destination (CLS)	Siste destinasjon (CLS)	actions	object	Fairy ring
+Last-destination (CLR)	Siste destinasjon (CLR)	actions	object	Fairy ring
+Last-destination (CLQ)	Siste destinasjon (CLQ)	actions	object	Fairy ring
+Last-destination (CKP)	Siste destinasjon (CKP)	actions	object	Fairy ring
+Last-destination (CKS)	Siste destinasjon (CKS)	actions	object	Fairy ring
+Last-destination (CKR)	Siste destinasjon (CKR)	actions	object	Fairy ring
+Last-destination (CKQ)	Siste destinasjon (CKQ)	actions	object	Fairy ring
+Last-destination (CJP)	Siste destinasjon (CJP)	actions	object	Fairy ring
+Last-destination (CJS)	Siste destinasjon (CJS)	actions	object	Fairy ring
+Last-destination (CJR)	Siste destinasjon (CJR)	actions	object	Fairy ring
+Last-destination (CJQ)	Siste destinasjon (CJQ)	actions	object	Fairy ring
+Last-destination (BIP)	Siste destinasjon (BIP)	actions	object	Fairy ring
+Last-destination (BIS)	Siste destinasjon (BIS)	actions	object	Fairy ring
+Last-destination (BIR)	Siste destinasjon (BIR)	actions	object	Fairy ring
+Last-destination (BIQ)	Siste destinasjon (BIQ)	actions	object	Fairy ring
+Last-destination (BLP)	Siste destinasjon (BLP)	actions	object	Fairy ring
+Last-destination (BLS)	Siste destinasjon (BLS)	actions	object	Fairy ring
+Last-destination (BLR)	Siste destinasjon (BLR)	actions	object	Fairy ring
+Last-destination (BLQ)	Siste destinasjon (BLQ)	actions	object	Fairy ring
+Last-destination (BKP)	Siste destinasjon (BKP)	actions	object	Fairy ring
+Last-destination (BKS)	Siste destinasjon (BKS)	actions	object	Fairy ring
+Last-destination (BKR)	Siste destinasjon (BKR)	actions	object	Fairy ring
+Last-destination (BKQ)	Siste destinasjon (BKQ)	actions	object	Fairy ring
+Last-destination (BJP)	Siste destinasjon (BJP)	actions	object	Fairy ring
+Last-destination (BJS)	Siste destinasjon (BJS)	actions	object	Fairy ring
+Last-destination (BJR)	Siste destinasjon (BJR)	actions	object	Fairy ring
+Last-destination (BJQ)	Siste destinasjon (BJQ)	actions	object	Fairy ring
+Tree	Tre	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	Ring-Zanaris	actions	object	Spiritual Fairy Tree
+Ring-configure	Ring-konfigurer	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	Ring-siste-destinasjon (AIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	Ring-siste-destinasjon (AIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	Ring-siste-destinasjon (AIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	Ring-siste-destinasjon (AIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	Ring-siste-destinasjon (ALP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	Ring-siste-destinasjon (ALS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	Ring-siste-destinasjon (ALR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	Ring-siste-destinasjon (ALQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	Ring-siste-destinasjon (AKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	Ring-siste-destinasjon (AKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	Ring-siste-destinasjon (AKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	Ring-siste-destinasjon (AKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	Ring-siste-destinasjon (AJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	Ring-siste-destinasjon (AJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	Ring-siste-destinasjon (AJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	Ring-siste-destinasjon (AJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	Ring-siste-destinasjon (DIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	Ring-siste-destinasjon (DIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	Ring-siste-destinasjon (DIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	Ring-siste-destinasjon (DIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	Ring-siste-destinasjon (DLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	Ring-siste-destinasjon (DLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	Ring-siste-destinasjon (DLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	Ring-siste-destinasjon (DLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	Ring-siste-destinasjon (DKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	Ring-siste-destinasjon (DKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	Ring siste destinasjon (DKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	Ring-siste-destinasjon (DKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	Ring-siste-destinasjon (DJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	Ring-siste-destinasjon (DJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	Ring-siste-destinasjon (DJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	Ring-siste-destinasjon (DJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	Ring-siste-destinasjon (CIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	Ring-siste-destinasjon (CIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	Ring-siste-destinasjon (CIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	Ring-siste-destinasjon (CIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	Ring-siste-destinasjon (CLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	Ring-siste-destinasjon (CLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	Ring-siste-destinasjon (CLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	Ring-siste-destinasjon (CLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	Ring-siste-destinasjon (CKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	Ring-siste-destinasjon (CKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	Ring-siste-destinasjon (CKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	Ring-siste-destinasjon (CKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	Ring-siste-destinasjon (CJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	Ring-siste-destinasjon (CJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	Ring-siste-destinasjon (CJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	Ring-siste-destinasjon (CJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	Ring-siste-destinasjon (BIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	Ring-siste-destinasjon (BIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	Ring-siste-destinasjon (BIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	Ring-siste-destinasjon (BIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	Ring-siste-destinasjon (BLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	Ring-siste-destinasjon (BLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	Ring-siste-destinasjon (BLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	Ring-siste-destinasjon (BLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	Ring-siste-destinasjon (BKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	Ring-siste-destinasjon (BKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	Ring-siste-destinasjon (BKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	Ring-siste-destinasjon (BKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	Ring-siste-destinasjon (BJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	Ring-siste-destinasjon (BJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	Ring-siste-destinasjon (BJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	Ring-siste-destinasjon (BJQ)	actions	object	Spiritual Fairy Tree
+Craft-rune	Håndverk-rune	actions	object	Altar
+Fuel	Brensel	actions	object	Brazier
+Dispel	Fordriv	actions	object	Shimmering barrier
+Shared	Delt	actions	object	Small storage unit
+Take Rake	Ta Rake	actions	object	Old tools
+Take Spade	Ta Spade	actions	object	Old tools
+Take Seed Dibber	Ta Seed Dibber	actions	object	Old tools
+Pick-lots	Plukkepartier	actions	object	Gourd tree
+Quick-pass	Gå forbi fort	actions	object	Mystical barrier
+Coffer	Kasse	actions	object	Furnace
+Quick-exit	Rask utgang	actions	object	Cave exit
+Travel to platform	Reis til plattform	actions	object	Row boat
+Leave platform	Forlat plattformen	actions	object	Row boat
+Check count	Sjekk antall	actions	object	Rock
+Toggle warning	Slå advarsel	actions	object	Rock
+Seeds	Frø	actions	object	Birdhouse (empty)
+Interact	Samhandle	actions	object	Birdhouse
+Inject	Injiser	actions	object	Sulliuscep
+Jump on	Hopp på	actions	object	Rubber cap mushroom
+Navigate	Naviger	actions	object	Obstacle
+Climb Down	Klatre ned	actions	object	Trap Door
+Climb Up	Klatre opp	actions	object	Rope anchor
+Dive	Stup	actions	object	Rowboat
+Build on	Bygg på	actions	object	Ring of Stones
+Take tools	Ta verktøy	actions	object	Crate
+Set up	Sett opp	actions	object	Drift net anchors
+Take down	Ta ned	actions	object	Drift net anchors
+Pick up	Plukk opp	actions	object	Pile of Fishbowls
+Pay	Betal	actions	object	Volcano Entrance
+Feel	Føl	actions	object	Gas hole
+Add to	Legg til	actions	object	Large Fossil Support
+Climb through	Klatre gjennom	actions	object	Hole
+Teleport to destination	Teleporter til destinasjon	actions	object	Obelisk
+Set destination	Angi destinasjon	actions	object	Obelisk
+Jump to	Hopp til	actions	object	Pillar
+Preferences	Preferanser	actions	object	Log storage
+Absorb	Absorber	actions	object	Energy Sphere
+Reminisce	Husk	actions	object	Pool of Dreams
+Nets	Nett	actions	object	Annette
+Ancient	Eldgamle	actions	object	Altar of the Occult
+Lunar	Månebok	actions	object	Altar of the Occult
+Arceuus	Arceus	actions	object	Altar of the Occult
+Standard	Standard	actions	object	Altar of the Occult
+Recharge-jewellery	Recharge-smykker	actions	object	Totem Pole
+Douse	Slukk	actions	object	Fire
+Heal	Helbred	actions	object	Fremennik warrior
+Complete	Fullfør	actions	object	Incomplete map
+Check-Count	Sjekk-antall	actions	object	Gate
+Clamber	Klatre	actions	object	Rock Pile
+Look-through	Se gjennom	actions	object	Window
+Charge-at	Lad-ved	actions	object	Vyre well
+Quick-enter	Rask inn	actions	object	Door
+Resign	Si opp	actions	object	Vyre Orator
+Varrock	Varrock	actions	object	Varrock Portal
+Grand Exchange	Grand Exchange	actions	object	Varrock Portal
+Toggle	Veksle	actions	object	Varrock Portal
+Camelot	Camelot	actions	object	Camelot Portal
+Seers' Village	Seernes landsby	actions	object	Camelot Portal
+Watchtower	Vakttårnet	actions	object	Yanille Watchtower Portal
+Yanille	Yanille	actions	object	Yanille Watchtower Portal
+Quick-Enter	Gå inn fort	actions	object	Formidable passage
+Iceberg	Isfjell	actions	object	Boat
+Lumbridge	Lumbridge	actions	object	Portal Nexus
+Falador	Falador	actions	object	Portal Nexus
+Senntisten	Sennister	actions	object	Portal Nexus
+Marim	Mary	actions	object	Portal Nexus
+Kharyrll	Kharyrll	actions	object	Portal Nexus
+Lunar Isle	Lunar Isle	actions	object	Portal Nexus
+Great Kourend	Flott Kourend	actions	object	Portal Nexus
+Waterbirth Island	Waterbirth Island	actions	object	Portal Nexus
+Fishing Guild	Fiskelaug	actions	object	Portal Nexus
+Annakarl	Annakarl	actions	object	Portal Nexus
+Troll Stronghold	Troll høyborg	actions	object	Portal Nexus
+Look out	Se opp	actions	object	Xeric's Talisman
+Teleport menu	Teleporter meny	actions	object	Xeric's Talisman
+Glade	Lysning	actions	object	Xeric's Talisman
+Inferno	Inferno	actions	object	Xeric's Talisman
+Heart	Hjerte	actions	object	Xeric's Talisman
+Honour	Ære	actions	object	Xeric's Talisman
+Digsite	Digsite	actions	object	Digsite Pendant
+Fossil Island	Fossiløya	actions	object	Digsite Pendant
+Lithkren	Lithkren	actions	object	Digsite Pendant
+Catherby	Catherby	actions	object	Portal Nexus
+Ghorrock	Ghorrock	actions	object	Portal Nexus
+Carrallanger	Carrallanger	actions	object	Portal Nexus
+Ancients	Ancients	actions	object	Supplies
+Start	Start	actions	object	Steam Generator
+Align	Juster	actions	object	Power Grid
+Fill-jug	Fyll-mugge	actions	object	Coolant Dispenser
+Cleanse	Rens	actions	object	Refinery
+Rebalance	Rebalanser	actions	object	Energy Pylon
+Pick-dragonfruit	Plukk-dragefrukt	actions	object	Dragonfruit tree
+Crawl through	Kryp gjennom	actions	object	Tunnel
+Quick-open	Hurtigåpning	actions	object	Alchemical door
+Take-rock	Ta-rock	actions	object	Rubble
+Quick-Exit	Forlat fort	actions	object	Ancient Fire
+Check-Faith	Sjekk-Tro	actions	object	Sacred Bone Burner
+Enter-crypt	Enter-krypt	actions	object	Thick Web
+Follow	Følge	actions	object	Tracks
+Fill-from	Fyll-fra	actions	object	Water Pump
+Channel	Kanal	actions	object	Teleport Platform
+Enter-corrupted	Enter-ødelagt	actions	object	The Gauntlet
+Refine	Raffinere	actions	object	Furnace
+Imbue	Imbue	actions	object	Altar
+PvP Arena	PvP Arena	actions	object	Basic Jewellery Box
+Castle Wars	Castle Wars	actions	object	Basic Jewellery Box
+Ferox Enclave	Ferox enklave	actions	object	Basic Jewellery Box
+Burthorpe	Burthorpe	actions	object	Basic Jewellery Box
+Barbarian Outpost	Barbarisk utpost	actions	object	Basic Jewellery Box
+Corporeal Beast	Corporale Beist	actions	object	Basic Jewellery Box
+Tears of Guthix	Tears of Guthix	actions	object	Basic Jewellery Box
+Wintertodt Camp	Wintertodt leir	actions	object	Basic Jewellery Box
+Warriors' Guild	Warriors' Guild	actions	object	Fancy Jewellery Box
+Champions' Guild	Champions' Guild	actions	object	Fancy Jewellery Box
+Monastery	Kloster	actions	object	Fancy Jewellery Box
+Ranging Guild	Ranging Guild	actions	object	Fancy Jewellery Box
+Mining Guild	Gruvelaug	actions	object	Fancy Jewellery Box
+Crafting Guild	Håndverkslaug	actions	object	Fancy Jewellery Box
+Cooking Guild	Cooking Guild	actions	object	Fancy Jewellery Box
+Woodcutting Guild	Vedhuggerlaug	actions	object	Fancy Jewellery Box
+Farming Guild	Farming Guild	actions	object	Fancy Jewellery Box
+Miscellania	Miscellania	actions	object	Ornate Jewellery Box
+Falador Park	Falador Park	actions	object	Ornate Jewellery Box
+Dondakan's Rock	Dondakan's Rock	actions	object	Ornate Jewellery Box
+Draynor Manor	Draynor Manor	actions	object	Portal Nexus
+Battlefront	Battlefront	actions	object	Portal Nexus
+Mind Altar	Tankealteret	actions	object	Portal Nexus
+Salve Graveyard	Salve kirkegård	actions	object	Portal Nexus
+Fenkenstrain's Castle	Fenkenstrains slott	actions	object	Portal Nexus
+West Ardougne	Vest Ardougne	actions	object	Portal Nexus
+Harmony Island	Harmoniøya	actions	object	Portal Nexus
+Cemetery	Gravplass	actions	object	Portal Nexus
+Barrows	Barrows	actions	object	Portal Nexus
+Ape Atoll Dungeon	Ape Atoll Dungeon	actions	object	Portal Nexus
+Destroy	Ødelegg	actions	object	Lab table
+Stamp-out	Tramp-ut	actions	object	Magical Fire
+Continue	Fortsett	actions	object	Path
+Climp-up	Klatre-opp	actions	object	Stairs
+Check-statistics (Personal)	Sjekk-statistikk (personlig)	actions	object	Noticeboard
+Check-statistics (Global)	Sjekk-statistikk (global)	actions	object	Noticeboard
+Sacrifice	Ofre	actions	object	Saradomin Brazier
+Walk-over	Gå-over	actions	object	Bridge
+Conjure	Trylle	actions	object	Portal frame
+Search-for-traps	Søk etter feller	actions	object	Coffin
+Pass-Through	Pass-Through	actions	object	Casual
+Cut-foot	Kutt-fot	actions	object	Dead sourhog
+Take-candy	Ta-godteri	actions	object	Magical pumpkin
+Jump-Down	Hopp ned	actions	object	Crevice
+Channel (Asgarnia)	Kanal (Asgarnia)	actions	object	Waystone
+Channel (Misthalin)	Kanal (Misthalin)	actions	object	Waystone
+Channel (Kandarin)	Kanal (Kandarin)	actions	object	Waystone
+Channel (Fremennik)	Kanal (Fremennik)	actions	object	Waystone
+Channel (Kharidian Desert)	Kanal (Kharidian Desert)	actions	object	Waystone
+Channel (Morytania)	Kanal (Morytania)	actions	object	Waystone
+Channel (Tirannwn)	Kanal (Tirannwn)	actions	object	Waystone
+Channel (Karamja)	Kanal (Karamja)	actions	object	Waystone
+Channel (Wilderness)	Kanal (villmark)	actions	object	Waystone
+Slayer	Slakt	actions	object	Kings' ladder
+Open (normal)	Åpen (normal)	actions	object	Big door
+Open (private)	Åpen (privat)	actions	object	Big door
+Climb-down (normal)	Klatre ned (normal)	actions	object	Tunnel entrance
+Climb-down (private)	Klatre ned (privat)	actions	object	Tunnel entrance
+Sacrifice-fragments	Offer-fragmenter	actions	object	Soul Obelisk
+Remove-decorations	Fjern-dekorasjoner	actions	object	Christmas curtains
+Untether	Untether	actions	object	Mast
+Tether	Tether	actions	object	Mast
+Remove-trophy	Fjern-trofé	actions	object	Trophy pedestal
+View-trophies	Visningstrofeer	actions	object	Oak trophy case
+Remove-banner	Fjern-banner	actions	object	Banner stand
+Remove-outfit	Ta av antrekket	actions	object	Oak outfit stand
+Spin-globe	Spinn-globe	actions	object	Trailblazer globe
+League-statistics	Liga-statistikk	actions	object	League Accomplishment Scroll
+League-rankings	Liga-rangeringer	actions	object	League Accomplishment Scroll
+League-firsts	Liga-første	actions	object	League Accomplishment Scroll
+Cook-at	Cook-at	actions	object	Shrine
+Quick-climb	Rask klatring	actions	object	Rope ladder
+Arceuus Library	Arceuus bibliotek	actions	object	Portal Nexus
+Prepare-fish	Forbered-fisk	actions	object	Preparation Table
+Offer-fish	Tilbud-fisk	actions	object	Altar
+Entertain	Underholde	actions	object	Piano
+Play-quietly	Lek-stille	actions	object	Piano
+Background-music	Bakgrunnsmusikk	actions	object	Piano
+Enter-member	Enter-medlem	actions	object	Clan hall portal
+Enter-guest	Enter-gjest	actions	object	Clan hall portal
+Pet	Kjæledyr	actions	object	Cat
+Pass (normal)	Pass (normal)	actions	object	Ancient Barrier
+Pass (private)	Pass (privat)	actions	object	Ancient Barrier
+Adjust	Justere	actions	object	Machine
+Say-name	Si navn	actions	object	Grave
+Deposit-runes	Innskuddsruner	actions	object	Deposit Pool
+Deposit-items	Innskuddsvarer	actions	object	Deposit Pool
+Visual-effects	Visuelle effekter	actions	object	Barrier
+Toggle-talisman	Toggle-talisman	actions	object	Guardian of Air
+Assemble	Samle	actions	object	Essence pile (elemental)
+Place-cell	Plass-celle	actions	object	Inactive cell tile
+Exit-through (Kourend)	Exit-through (Kourend)	actions	object	Blood rift
+Pay-toll(10gp)	Betalingsavgift (10gp)	actions	object	Gate
+Pour	Til	actions	object	Crucible (full)
+Heat-preform	Varme-preform	actions	object	Lava pool
+Dunk-preform	Dunk-preform	actions	object	Lava pool
+Cool-preform	Cool-preform	actions	object	Waterfall
+Quench-preform	Slokke-preform	actions	object	Waterfall
+Store-preform	Store-preform	actions	object	Preform storage
+Take-preform	Ta-preform	actions	object	Preform storage
+Rank	Rang	actions	object	Arena recruitment board
+Quick-use	Bruk raskt	actions	object	Staging area steps
+Quick-Pass	Gå forbi raskt	actions	object	Barrier
+Flip	Vend	actions	object	Pressure plate
+Rotate-clockwise	Roter med klokken	actions	object	Mirror
+Rotate-anticlockwise	Roter mot klokken	actions	object	Mirror
+Deposit-pickaxe	Sett-inn-hakke	actions	object	Statue
+Quick-Use	Bruk raskt	actions	object	Teleport crystal
+Quick-Board	Gå om bord raskt	actions	object	Sacrificial boat
+Check-permissions	Sjekk-tillatelser	actions	object	Chest
+Pickup	Henting	actions	object	Gingerbread
+Check-times	Sjekk-tider	actions	object	Santa's log
+Push-against	Skyv-mot	actions	object	Wall
+Check-Fee	Sjekk-gebyr	actions	object	Crevice
+Peer-into	Peer-in	actions	object	Prifddinas Display
+Release-bees	Slipp-bier	actions	object	Beehive
+Add-mulch	Legg til mulch	actions	object	Struggling sapling
+Read (Awakened)	Les (våknet)	actions	object	Scoreboard
+Attach-rope	Festetau	actions	object	Rock
+Climb-rope	Klatre-tau	actions	object	Rock
+Build-barricade	Bygg-barrikade	actions	object	Surface
+Take-supplies	Ta forsyninger	actions	object	Stone chest
+Lockpick	Låsepirk	actions	object	Stone chest (locked)
+Burn	Brenn	actions	object	Shipwreck
+Burn`	Brenn`	actions	object	Gunpowder
+Withdraw	Trekk tilbake	actions	object	Extract orifice
+Tend-to	Pleie	actions	object	Forester's Campfire
+Rest	Hvil	actions	object	Forester's Campfire
+Retrieve-egg	Hente-egg	actions	object	Pheasant Nest
+Revert	Gå tilbake	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	Kanal (Great Kourend)	actions	object	Waystone
+Travel-End	Reiseslutt	actions	object	Portal
+Travel-Start	Reise-Start	actions	object	Portal
+Reload	Last inn på nytt	actions	object	Steps
+Collect-reward	Samle-belønning	actions	object	Table
+Look-over	Se over	actions	object	Balcony
+Walk-to	Gå-til	actions	object	Blue tile
+Civitas illa Fortis	Civitas illa Fortis	actions	object	Portal Nexus
+Fortis Colosseum	Fortis Colosseum	actions	object	Basic Jewellery Box
+View-stats	Visningsstatistikk	actions	object	Colosseum scoreboard
+View-glory	Vis-herlighet	actions	object	Colosseum scoreboard
+Sabotage	Saboter	actions	object	Lily pad
+Plant-evidence	Plant bevis	actions	object	Capybara Dung
+Rustle	Rasling	actions	object	Bush
+Make-cuppa	Lag-kopp	actions	object	Cooking stove
+Align-net	Juster-nett	actions	object	Stream
+Take-from Fishing	Ta fra Fiske	actions	object	Supply crates
+Take-from Hunting	Ta fra Jakt	actions	object	Supply crates
+Take-from Herblore	Ta fra Brygging	actions	object	Supply crates
+Take-log	Ta-kubbe	actions	object	Roots
+Bask	Bask	actions	object	Shrine of Ralos
+Cimb-down	Gå ned	actions	object	Open trapdoor
+Bless	Velsigne	actions	object	Exposed altar
+Deposit-eggs	Sett inn egg	actions	object	Easter mine cart
+Redeem	Løs inn	actions	object	Agility dispenser
+Squeeze-Through	Klem-gjennom	actions	object	Crevice
+Jump-Across	Hopp over	actions	object	Dry stone wall
+Drink-from	Drikk-fra	actions	object	Cauldron
+Build	Bygg	actions	object	Funeral Pyre
+Take-5 concoctions	Ta-sammenblanding	actions	object	Crate
+Take-10 concoctions	Ta-5-sammensetning	actions	object	Crate
+Emir's Arena	Ta-10-sammensetning	actions	object	Basic Jewellery Box
+Big-search	Stort-søk	actions	object	Reward pool
+Solo-start	Start alene	actions	object	Rope ladder
+Take-chisel	Ta-meisel	actions	object	Weak cells
+Cross-over	Kryss-over	actions	object	Broken wall
+Take-many	Ta-mange	actions	object	Medical box
+Slide-along	Skli-ved	actions	object	Icy ledge
+Take-uniform	Ta-uniform	actions	object	Wardrobe
+Concentrate-potion	Konsentrer-trylledrikk	actions	object	Retort
+Homogenise-potion	Homogeniser-trylledrikk	actions	object	Agitator
+Crystalise-potion	Krystalliser-trylledrikk	actions	object	Alembic
+Fulfil-order	Fullfør-ordre	actions	object	Conveyor belt
+Fight-privately	Sloss-privat	actions	object	Meeting flag
+Leave-group	Forlat-gruppe	actions	object	Meeting flag (private)
+Quick-slide	Hurtig-skli	actions	object	Slope
+Change	Bytt	actions	object	Scarecrow
+Plant	Plante	actions	object	Pumpkin patch
+Carve-pumpkin	Skjær-gresskar	actions	object	Pumpkin carving table
+Channel (Varlamore)	Kanaliser (Varlamore)	actions	object	Waystone
+Follow	Følg	actions	player	
+Trade with	Bytte med	actions	player	
+Lookup	Sjekk opp	actions	player	
+Equipment	Utstyr	actions	player	
+Report	Rapporter	actions	player	
