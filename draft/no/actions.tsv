@@ -665,7 +665,7 @@ Examine	Utforsk	actions	npc
 Search	Søk	actions	object	Crate
 Enter	Gå	actions	object	Cave Entrance
 Open	Åpne	actions	object	Door
-Inspect	Undersøke	actions	object	Broken multicannon
+Inspect	Undersøk	actions	object	Broken multicannon
 Fire	Ild	actions	object	Dwarf multicannon
 Pick-up	Henting	actions	object	Dwarf multicannon
 Empty	Tømme	actions	object	Dwarf multicannon
@@ -923,7 +923,7 @@ Zanaris	Zanaris	actions	object	Fairy ring
 Configure	Konfigurer	actions	object	Fairy ring
 Last-destination (AIP)	Siste destinasjon (AIP)	actions	object	Fairy ring
 Escape	Flykte	actions	object	Cave entrance
-Examine	Undersøke	actions	object	Healing certificate
+Examine	Undersøk	actions	object	Healing certificate
 Shape-Canoe	Shape-kano	actions	object	Canoe Station
 Float Log	Flytelogg	actions	object	Canoe Station
 Float Canoe	Flytekano	actions	object	Canoe Station
