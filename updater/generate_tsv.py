@@ -6,7 +6,7 @@ import update_nonEn_transcripts
 os.path.dirname(os.path.abspath(__file__))
 from update_english_transcript import common
 
-def xlsx_to_tsv(xlsx_file_path, target_dir, columns=None):
+def xlsx_to_tsv(xlsx_file_path, target_dir, target_lang_code, columns=None):
 	# Load the Excel file
 	xls = pd.ExcelFile(xlsx_file_path)
 	
@@ -27,7 +27,7 @@ def xlsx_to_tsv(xlsx_file_path, target_dir, columns=None):
 			df = df[columns]
 		
 		# Construct the TSV filename based on the Excel sheet name
-		tsv_filename = os.path.join(output_dir, f"{sheet_name}.tsv")
+		tsv_filename = os.path.join(output_dir, f"transcript_{target_lang_code}_{sheet_name}.tsv")
 		
 		# Save the DataFrame to a TSV file
 		df.to_csv(tsv_filename, sep='\t', index=False)
@@ -45,7 +45,7 @@ def oneExcel_to_manyTSV(target_lang_code):
 		exit(1)
 	
 	columns = ['english', 'translation', 'category', 'sub_category', 'source']
-	xlsx_to_tsv(xlsx_file_path, draft_lang_dir, columns=columns)
+	xlsx_to_tsv(xlsx_file_path, draft_lang_dir, target_lang_code, columns=columns)
 
 def xliff_to_tsv(xliff_file_path, tsv_file_path, columns=None):
 	xliff_df = update_nonEn_transcripts.xliff_to_dataframe(xliff_file_path)

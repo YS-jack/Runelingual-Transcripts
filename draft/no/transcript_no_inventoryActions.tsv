@@ -371,7 +371,7 @@ Cooking Guild	Matlagingslaug	inventoryActions	item	Skills necklace(4)
 Woodcutting Guild	Trehuggelaug	inventoryActions	item	Skills necklace(4)
 Champions' Guild	Mesterlaug	inventoryActions	item	Combat bracelet(4)
 Monastery	Kloster	inventoryActions	item	Combat bracelet(4)
-Ranging Guild	Avstandsangrepslaug	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	Avstandsslaug	inventoryActions	item	Combat bracelet(4)
 Fossil Island	Fossiløy	inventoryActions	item	Digsite pendant (1)
 Lithkren Dungeon	Lithkren Hule	inventoryActions	item	Digsite pendant (1)
 Digsite	Gravested	inventoryActions	item	Digsite pendant (1)
@@ -400,7 +400,7 @@ Xeric's Heart	Xeric's Hjerte	inventoryActions	item	Xeric's talisman
 Xeric's Honour	Xeric's Ære	inventoryActions	item	Xeric's talisman
 Check Charges	Sjekk ladning	inventoryActions	item	Chronicle
 Teleport to Target	Teleporter til mål	inventoryActions	item	Dead orb
-Recoil Settings		inventoryActions	item	Ring of suffering (r)
+Recoil Settings	Rekylinnstillinger	inventoryActions	item	Ring of suffering (r)
 Swap	Bytt	inventoryActions	item	Bruma torch
 The Outpost	Utposten	inventoryActions	item	Necklace of passage(5)
 Eagles' Eyrie	Ørnerede	inventoryActions	item	Necklace of passage(5)
