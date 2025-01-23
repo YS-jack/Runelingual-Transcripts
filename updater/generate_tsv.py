@@ -12,7 +12,6 @@ def xlsx_to_tsv(xlsx_file_path, target_dir, target_lang_code, columns=None):
 	
 	# Get the list of sheet names
 	sheet_names = xls.sheet_names
-	target_lang_code = target_lang_code
 	
 	# Define the directory to save TSV files
 	output_dir = target_dir
