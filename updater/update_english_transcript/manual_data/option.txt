@@ -5,6 +5,7 @@ Examine	inventoryActions	item
 Examine	actions	item	
 Take	actions	item	
 Light	actions	item	
+(Members)	actions	item	
 Cancel	actions	manual	
 Follow	actions	player	
 Trade with	actions	player	
