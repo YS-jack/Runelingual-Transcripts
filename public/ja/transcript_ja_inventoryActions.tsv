@@ -96,7 +96,7 @@ Contact	で連絡	inventoryActions	item	Commorb
 Playback	で再生	inventoryActions	item	Commorb
 Talk-At	に話しかける	inventoryActions	item	Fishbowl
 Play-With	で遊ぶ	inventoryActions	item	Fishbowl
-Feed	餌を与える	inventoryActions	item	Fishbowl
+Feed	エサを与える	inventoryActions	item	Fishbowl
 Untangle	ほどく	inventoryActions	item	Fishbowl and net
 Check-charge	チャージ確認	inventoryActions	item	Camulet
 Display	示す	inventoryActions	item	Zombie head
@@ -199,11 +199,11 @@ Unload	取り出す	inventoryActions	item	Toxic blowpipe
 Untrim	縁を取る	inventoryActions	item	Quest point cape (t)
 Duradel	ヅラデル	inventoryActions	item	Karamja gloves 4
 Ecto Teleport	でエクトーヘワープ	inventoryActions	item	Morytania legs 1
-Burgh Teleport	でバーグへワープ	inventoryActions	item	Morytania legs 3
+Burgh Teleport	でバーグにワープ	inventoryActions	item	Morytania legs 3
 Activity	活動	inventoryActions	item	Bonecrusher
 Recharge-prayer	祈力を回復	inventoryActions	item	Falador shield 1
-Monastery Teleport	で修道院へワープ	inventoryActions	item	Ardougne cloak 1
-Farm Teleport	で農場へワープ	inventoryActions	item	Ardougne cloak 2
+Monastery Teleport	で修道院にワープ	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	で農場にワープ	inventoryActions	item	Ardougne cloak 2
 Energy	エネルギー	inventoryActions	item	Explorer's ring 1
 Alchemy	錬金術	inventoryActions	item	Explorer's ring 1
 Functions	機能	inventoryActions	item	Explorer's ring 2
@@ -253,7 +253,7 @@ Charge	チャージする	inventoryActions	item	Sanguinesti staff
 Scry	透視	inventoryActions	item	Oculus orb
 Bloom	咲かせる	inventoryActions	item	Ivandis flail
 Ver Sinhaza	ベー・シンハザ	inventoryActions	item	Drakan's medallion
-Darkmeyer	ダーク・メヤー	inventoryActions	item	Drakan's medallion
+Darkmeyer	ダークメヤー	inventoryActions	item	Drakan's medallion
 Slepe	スレペ	inventoryActions	item	Drakan's medallion
 Tele	ワープ	inventoryActions	item	Rotten carrot
 Kill Bot	ボット抹殺	inventoryActions	item	Rotten carrot
@@ -352,7 +352,7 @@ Add-5	５コ加える	inventoryActions	item
 Add-10	10コ加える	inventoryActions	item	
 Add-All	全て加える	inventoryActions	item	
 Add-X	Xコ加える	inventoryActions	item	
-Edgeville	エッジビルへ移動	inventoryActions	item	Amulet of glory(1)
+Edgeville	エッジビル	inventoryActions	item	Amulet of glory(1)
 Karamja	カラムジャ	inventoryActions	item	Amulet of glory(1)
 Draynor Village	ドレイナー村	inventoryActions	item	Amulet of glory(1)
 Al Kharid	アル・カリッド	inventoryActions	item	Amulet of glory(1)
@@ -363,9 +363,9 @@ Castle Wars	キャッスル・ウォーズ	inventoryActions	item	Ring of dueling
 Ferox Enclave	フェロックス・オンクレーブ	inventoryActions	item	Ring of dueling(8)
 Fortis Colosseum	フォーティス闘技場	inventoryActions	item	Ring of dueling(8)
 Bloom	咲かせる	inventoryActions	item	Silver sickle (b)
-Rellekka	レレカへ移動	inventoryActions	item	Enchanted lyre(1)
+Rellekka	レレカ	inventoryActions	item	Enchanted lyre(1)
 Waterbirth Island	ウォーターバース島	inventoryActions	item	Enchanted lyre(1)
-Neitiznot	ネイチズノットへ移動	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	ネイチズノット	inventoryActions	item	Enchanted lyre(1)
 Jatiszo	ジャティスゾ	inventoryActions	item	Enchanted lyre(1)
 Burthorpe	バーソープ	inventoryActions	item	Games necklace(8)
 Barbarian Outpost	蛮族の前哨基地	inventoryActions	item	Games necklace(8)
@@ -387,7 +387,7 @@ Cooking Guild	料理ギルド	inventoryActions	item	Skills necklace(4)
 Woodcutting Guild	木こりギルド	inventoryActions	item	Skills necklace(4)
 Champions' Guild	チャンピオン・ギルド	inventoryActions	item	Combat bracelet(4)
 Monastery	修道院	inventoryActions	item	Combat bracelet(4)
-Ranging Guild	弓ギルド	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	遠射ギルド	inventoryActions	item	Combat bracelet(4)
 Fossil Island	化石島	inventoryActions	item	Digsite pendant (1)
 Lithkren Dungeon	リスクレン・ダンジョン	inventoryActions	item	Digsite pendant (1)
 Digsite	発掘現場	inventoryActions	item	Digsite pendant (1)
@@ -414,7 +414,7 @@ Xeric's Inferno	ゼリックの猛火	inventoryActions	item	Xeric's talisman
 Xeric's Heart	ゼリックの中心	inventoryActions	item	Xeric's talisman
 Xeric's Honour	ゼリックの名誉	inventoryActions	item	Xeric's talisman
 Check Charges	チャージ確認	inventoryActions	item	Chronicle
-Teleport to Target	標的へワープ	inventoryActions	item	Dead orb
+Teleport to Target	標的にワープ	inventoryActions	item	Dead orb
 Recoil Settings	反射の設定	inventoryActions	item	Ring of suffering (r)
 The Outpost	前哨基地	inventoryActions	item	Necklace of passage(5)
 Eagles' Eyrie	ワシの巣	inventoryActions	item	Necklace of passage(5)
@@ -451,7 +451,7 @@ Air Altar	大気の祭壇	inventoryActions	item	Ring of the elements
 Water Altar	水の祭壇	inventoryActions	item	Ring of the elements
 Earth Altar	土の祭壇	inventoryActions	item	Ring of the elements
 Fire Altar	火の祭壇	inventoryActions	item	Ring of the elements
-Jalsavrah	ジャルサヴラー	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	ジャルサヴラ	inventoryActions	item	Pharaoh's sceptre
 Jaleustrophos	ジャルストロフォス	inventoryActions	item	Pharaoh's sceptre
 Jaldraocht	ジャルドラオッチ	inventoryActions	item	Pharaoh's sceptre
 Jaltevas	ジャルテヴァス	inventoryActions	item	Pharaoh's sceptre
@@ -461,9 +461,24 @@ Ghorrock Dungeon	ゴロック・ダンジョン	inventoryActions	item	Ring of sh
 The Scar	ザ・スカー	inventoryActions	item	Ring of shadows
 Lassar Undercity	ラサーの地下都市	inventoryActions	item	Ring of shadows
 The Stranglewood	ストラングルウッド	inventoryActions	item	Ring of shadows
-The Darkfrost		inventoryActions	item	Pendant of ates
-Twilight Temple		inventoryActions	item	Pendant of ates
-Ralos' Rise		inventoryActions	item	Pendant of ates
-North Aldarin		inventoryActions	item	Pendant of ates
-Colour		inventoryActions	item	Beige pumpkin (disgusted)
-Carve		inventoryActions	item	Beige pumpkin (disgusted)
+The Darkfrost	ダークフロスト	inventoryActions	item	Pendant of ates
+Twilight Temple	黄昏の寺院	inventoryActions	item	Pendant of ates
+Ralos' Rise	ラロスの高まり	inventoryActions	item	Pendant of ates
+North Aldarin	アルダリン北部	inventoryActions	item	Pendant of ates
+Colour	色	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	彫刻	inventoryActions	item	Beige pumpkin (disgusted)
+Change-Style	見た目を変更	inventoryActions	item	Infernal harpoon (or)
+Teleport-back	ワープで戻る	inventoryActions	item	Crystal of echoes
+Check-memories	記憶を確認	inventoryActions	item	Crystal of echoes
+Save-memory	記憶を保存	inventoryActions	item	Crystal of echoes
+League Debug	リーグのデバッグ	inventoryActions	item	League tomato
+Setups	設定	inventoryActions	item	League tomato
+Withdraw-all	全て引き出す	inventoryActions	item	Forager's pouch
+Withdraw-last	前回同様に引き出す	inventoryActions	item	Forager's pouch
+Current-step	現在のステップ	inventoryActions	item	Clue compass
+Collect	アイテムを回収	inventoryActions	item	Pocket kingdom
+Manage-kingdom	王国を管理	inventoryActions	item	Pocket kingdom
+Relic Emote	遺物エモート	inventoryActions	item	Raging echoes cane
+Detatch	取り外す	inventoryActions	item	Echo venator bow
+Detach	取り外す	inventoryActions	item	Echo venator bow (uncharged)
+Read-address	アドレスを読む	inventoryActions	item	Invitations

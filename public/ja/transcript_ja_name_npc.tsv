@@ -67,7 +67,7 @@ Red dragon	赤竜	name	npc	Red dragon
 Black dragon	黒竜	name	npc	Black dragon
 Green dragon	緑竜	name	npc	Green dragon
 Blue dragon	青竜	name	npc	Blue dragon
-Bronze dragon	銅の竜	name	npc	Bronze dragon
+Bronze dragon	青銅の竜	name	npc	Bronze dragon
 Iron dragon	鉄の竜	name	npc	Iron dragon
 Town Crier	町の触れ役	name	npc	Town Crier
 Gull	カモメ	name	npc	Gull
@@ -272,7 +272,7 @@ Ethereal Guide	優美な案内人	name	npc	Ethereal Guide
 Ethereal Fluke	優美なフルーク	name	npc	Ethereal Fluke
 Ethereal Mimic	優美なミミック	name	npc	Ethereal Mimic
 Me	ワタシ	name	npc	Me
-Suqah	スーカア	name	npc	Suqah
+Suqah	スーカ	name	npc	Suqah
 Scarab Mage	スカラベの魔術師	name	npc	Scarab Mage
 Locust rider	バッタ・ライダー	name	npc	Locust rider
 Giant Scarab	巨大なスカラベ	name	npc	Giant Scarab
@@ -461,7 +461,7 @@ Bouncer	バウンサー	name	npc	Bouncer
 Khazard Ogre	カザードのオーガ	name	npc	Khazard Ogre
 Khazard Scorpion	カザードのサソリ	name	npc	Khazard Scorpion
 Arzinian Avatar of Strength	アージニアンの化身・腕力	name	npc	Arzinian Avatar of Strength
-Arzinian Avatar of Ranging	アージニアンの化身・弓	name	npc	Arzinian Avatar of Ranging
+Arzinian Avatar of Ranging	アージニアンの化身・遠射	name	npc	Arzinian Avatar of Ranging
 Arzinian Avatar of Magic	アージニアンの化身・魔法	name	npc	Arzinian Avatar of Magic
 Arzinian Being of Bordanzan	アージニアンの生命体・ボーダンザン	name	npc	Arzinian Being of Bordanzan
 Saboteur	サボトー	name	npc	Saboteur
@@ -515,7 +515,7 @@ Gyr Falcon	ギール・ファルコン	name	npc	Gyr Falcon
 Prickly kebbit	トゲトゲのケビット	name	npc	Prickly kebbit
 Sabre-toothed kebbit	剣歯ケビット	name	npc	Sabre-toothed kebbit
 Barb-tailed kebbit	とげ尾のケビット	name	npc	Barb-tailed kebbit
-Wild kebbit	野生のケビット	name	npc	Wild kebbit
+Wild kebbit	野生ケビット	name	npc	Wild kebbit
 Artimeus	アーチメウス	name	npc	Artimeus
 Seth Groats	セス・グローツ	name	npc	Seth Groats
 Tassie Slipcast	タシー・スリップカスト	name	npc	Tassie Slipcast
@@ -875,16 +875,16 @@ General Graardor	グラドー将軍	name	npc	General Graardor
 Sergeant Strongstack	ストロングスタック軍曹	name	npc	Sergeant Strongstack
 Sergeant Steelwill	スチールウィル軍曹	name	npc	Sergeant Steelwill
 Sergeant Grimspike	グリムスパイク軍曹	name	npc	Sergeant Grimspike
-Purple Pewter Director	ムラサキ・ピューターの監督	name	npc	Purple Pewter Director
-Blue Opal Director	アオ・オパールの監督	name	npc	Blue Opal Director
-Yellow Fortune Director	キ・フォーチュンの監督	name	npc	Yellow Fortune Director
-Green Gemstone Director	ミドリ・ジェムストーンの監督	name	npc	Green Gemstone Director
-White Chisel Director	シロ・チーゼルの監督	name	npc	White Chisel Director
-Silver Cog Director	ギン・コグの監督	name	npc	Silver Cog Director
-Brown Engine Director	チャ・エンジンの監督	name	npc	Brown Engine Director
-Red Axe Director	アカ・アックスの監督	name	npc	Red Axe Director
+Purple Pewter Director	パープル・ピューターの監督	name	npc	Purple Pewter Director
+Blue Opal Director	ブルー・オパールの監督	name	npc	Blue Opal Director
+Yellow Fortune Director	イエロー・フォーチュンの監督	name	npc	Yellow Fortune Director
+Green Gemstone Director	グリーン・ジェムストーンの監督	name	npc	Green Gemstone Director
+White Chisel Director	ホワイト・チーゼルの監督	name	npc	White Chisel Director
+Silver Cog Director	シルバー・コグの監督	name	npc	Silver Cog Director
+Brown Engine Director	ブラウン・エンジンの監督	name	npc	Brown Engine Director
+Red Axe Director	レッド・アックスの監督	name	npc	Red Axe Director
 Commander Veldaban	ベルダバン司令官	name	npc	Commander Veldaban
-Red Axe Cat	アカ・アックスのネコ	name	npc	Red Axe Cat
+Red Axe Cat	レッド・アックスのネコ	name	npc	Red Axe Cat
 Black Guard Berserker	黒い衛兵バーザーカー	name	npc	Black Guard Berserker
 Door-support	ドアの支え	name	npc	Door-support
 Door	ドア	name	npc	Door
@@ -969,7 +969,7 @@ Kjut	クジュツ	name	npc	Kjut
 Tombar	トンバー	name	npc	Tombar
 Odmar	オドマール	name	npc	Odmar
 Audmann	オドマン	name	npc	Audmann
-Red Axe Henchman	アカ・アックスの子分	name	npc	Red Axe Henchman
+Red Axe Henchman	レッド・アックスの子分	name	npc	Red Axe Henchman
 Colonel Grimsson	グリムソン大佐	name	npc	Colonel Grimsson
 Ogre shaman	オーガ・シャーマン	name	npc	Ogre shaman
 Grunsh	グランシュ	name	npc	Grunsh
@@ -978,7 +978,7 @@ Gnome companion	ノームの仲間	name	npc	Gnome companion
 Dwarven Boatman	ドワーフの船頭	name	npc	Dwarven Boatman
 Dwarven Miner	ドワーフの鉱夫	name	npc	Dwarven Miner
 Buinn	ブイン	name	npc	Buinn
-Animated Bronze Armour	動く銅の鎧	name	npc	Animated Bronze Armour
+Animated Bronze Armour	動く青銅の鎧	name	npc	Animated Bronze Armour
 Animated Iron Armour	動く鉄の鎧	name	npc	Animated Iron Armour
 Animated Steel Armour	動く鋼鉄の鎧	name	npc	Animated Steel Armour
 Animated Black Armour	動く黒鉄の鎧	name	npc	Animated Black Armour
@@ -1412,7 +1412,7 @@ Lucien	ルシエン	name	npc	Lucien
 Guardian of Armadyl	アーマディルの守護者	name	npc	Guardian of Armadyl
 Winelda	ウィンデラ	name	npc	Winelda
 Fire Warrior of Lesarkus	レサークスの火の戦士	name	npc	Fire Warrior of Lesarkus
-Shadow Hound	シャドー・ハウンド	name	npc	Shadow Hound
+Shadow Hound	シャドウ・ハウンド	name	npc	Shadow Hound
 Mysterious ghost	不可思議な幽霊	name	npc	Mysterious ghost
 Fareed	ファリード	name	npc	Fareed
 Kamil	カミル	name	npc	Kamil
@@ -1471,7 +1471,7 @@ Ali the Mayor	市長のアリ	name	npc	Ali the Mayor
 Ali the Hag	老婆のアリ	name	npc	Ali the Hag
 Ali the Snake Charmer	ヘビ使いのアリ	name	npc	Ali the Snake Charmer
 Ali the Camel	ラクダのアリ	name	npc	Ali the Camel
-Blackjack seller	棍棒の販売人	name	npc	Blackjack seller
+Blackjack seller	ブラックジャックの販売人	name	npc	Blackjack seller
 Menaphite Leader	メナファイトの長	name	npc	Menaphite Leader
 Ali the Operator	オペレーターのアリ	name	npc	Ali the Operator
 Menaphite Thug	メナファイトの凶漢	name	npc	Menaphite Thug
@@ -1557,7 +1557,7 @@ Valgerd	ヴァルゲルド	name	npc	Valgerd
 Broddi	ブロッディ	name	npc	Broddi
 Ragnvald	ラグンヴァルド	name	npc	Ragnvald
 Vampyre Juvinate	ジュビネート吸血鬼	name	npc	Vampyre Juvinate
-Vampyre Juvenile	少年の吸血鬼	name	npc	Vampyre Juvenile
+Vampyre Juvenile	ジュビナイルの吸血鬼	name	npc	Vampyre Juvenile
 Former Vampyre	元吸血鬼	name	npc	Former Vampyre
 Vyrewatch	吸血鬼監視隊	name	npc	Vyrewatch
 Vanstrom Klause	バンストロム・クロース	name	npc	Vanstrom Klause
@@ -1649,7 +1649,7 @@ Tormented Warrior	苦悩する戦士	name	npc	Tormented Warrior
 Fionella	フィオネラ	name	npc	Fionella
 Siegfried Erkle	シエグフライド・エークル	name	npc	Siegfried Erkle
 Nezikchened	ネジクチェンド	name	npc	Nezikchened
-Viyeldi	ヴィイェルディ	name	npc	Viyeldi
+Viyeldi	ヴィーエルディ	name	npc	Viyeldi
 San Tojalon	サン・トジャロン	name	npc	San Tojalon
 Irvig Senay	イーヴィグ・セネイ	name	npc	Irvig Senay
 Ranalph Devere	ラナルフ・デヴェー	name	npc	Ranalph Devere
@@ -1852,8 +1852,8 @@ Skeleton fremennik	スケルトンのフレメニック	name	npc	Skeleton fremen
 Ulfric	ウルフリック	name	npc	Ulfric
 Brine rat	塩水ネズミ	name	npc	Brine rat
 Chadwell	チャドウェル	name	npc	Chadwell
-Blessed spider	祝福されたクモ	name	npc	Blessed spider
-Blessed giant rat	祝福された巨大ネズミ	name	npc	Blessed giant rat
+Blessed spider	祝福のクモ	name	npc	Blessed spider
+Blessed giant rat	祝福の巨大ネズミ	name	npc	Blessed giant rat
 Niloof	ニルーフ	name	npc	Niloof
 Klank	クランク	name	npc	Klank
 Kamen	カメン	name	npc	Kamen
@@ -2138,7 +2138,7 @@ The Monkey's Uncle	サルの叔父	name	npc	The Monkey's Uncle
 The Monkey's Aunt	サルの叔母	name	npc	The Monkey's Aunt
 Monkey Guard	サルの衛兵	name	npc	Monkey Guard
 Monkey Archer	サルのアーチャー	name	npc	Monkey Archer
-Elder Guard	サルの長老	name	npc	Elder Guard
+Elder Guard	長老の衛兵	name	npc	Elder Guard
 Monkey Zombie	サルのゾンビ	name	npc	Monkey Zombie
 Bonzara	ボンザラ	name	npc	Bonzara
 Elf Warrior	エルフの戦士	name	npc	Elf Warrior
@@ -2227,7 +2227,7 @@ Sir Rebral	サー・レブラル	name	npc	Sir Rebral
 Toby	トビー	name	npc	Toby
 Twiggy O'Korn	ツイギー・オコーン	name	npc	Twiggy O'Korn
 Spotted kebbit	斑点ケビット	name	npc	Spotted kebbit
-Dark kebbit	暗い色のケビット	name	npc	Dark kebbit
+Dark kebbit	暗ケビット	name	npc	Dark kebbit
 Dashing kebbit	素早いケビット	name	npc	Dashing kebbit
 Enormous Tentacle	巨大な触手	name	npc	Enormous Tentacle
 Vet'ion Jr.	ヴェティオン・Jr.	name	npc	Vet'ion Jr.
@@ -2366,14 +2366,14 @@ Pet rock	ペットの石	name	npc	Pet rock
 Rewards Guardian	報酬の守護者	name	npc	Rewards Guardian
 Charmed Warrior	魅了された戦士	name	npc	Charmed Warrior
 Secretary	秘書	name	npc	Secretary
-Purple Pewter Secretary	ムラサキ・ピューターの秘書	name	npc	Purple Pewter Secretary
-Yellow Fortune Secretary	キ・フォーチュンの秘書	name	npc	Yellow Fortune Secretary
-Blue Opal Secretary	アオ・オパールの秘書	name	npc	Blue Opal Secretary
-Green Gemstone Secretary	ミドリ・ジェムストーンの秘書	name	npc	Green Gemstone Secretary
-White Chisel Secretary	シロ・チーゼルの秘書	name	npc	White Chisel Secretary
-Silver Cog Secretary	ギン・コグの秘書	name	npc	Silver Cog Secretary
-Brown Engine Secretary	チャ・エンジンの秘書	name	npc	Brown Engine Secretary
-Red Axe Secretary	アカ・アックスの秘書	name	npc	Red Axe Secretary
+Purple Pewter Secretary	パープル・ピューターの秘書	name	npc	Purple Pewter Secretary
+Yellow Fortune Secretary	イエロー・フォーチュンの秘書	name	npc	Yellow Fortune Secretary
+Blue Opal Secretary	ブルー・オパールの秘書	name	npc	Blue Opal Secretary
+Green Gemstone Secretary	グリーン・ジェムストーンの秘書	name	npc	Green Gemstone Secretary
+White Chisel Secretary	ホワイト・チーゼルの秘書	name	npc	White Chisel Secretary
+Silver Cog Secretary	シルバー・コグの秘書	name	npc	Silver Cog Secretary
+Brown Engine Secretary	ブラウン・エンジンの秘書	name	npc	Brown Engine Secretary
+Red Axe Secretary	レッド・アックスの秘書	name	npc	Red Axe Secretary
 Orlando Smith	オルランド・スミス	name	npc	Orlando Smith
 Natural historian	自然史家	name	npc	Natural historian
 Leech display	ヒルの展示	name	npc	Leech display
@@ -2394,7 +2394,7 @@ Trader	商人	name	npc	Trader
 Trade Referee	貿易審判	name	npc	Trade Referee
 Supreme Commander	最高司令官	name	npc	Supreme Commander
 Gnome traveller	ノームの旅人	name	npc	Gnome traveller
-Ranging Guild Doorman	弓ギルドの玄関係	name	npc	Ranging Guild Doorman
+Ranging Guild Doorman	遠射ギルドの玄関係	name	npc	Ranging Guild Doorman
 Leatherworker	革細工師	name	npc	Leatherworker
 Armour salesman	防具の営業マン	name	npc	Armour salesman
 Bow and Arrow salesman	弓矢の営業マン	name	npc	Bow and Arrow salesman
@@ -2802,9 +2802,9 @@ Vespine soldier	軍隊スズメバチ	name	npc	Vespine soldier
 Tekton	テクトン	name	npc	Tekton
 Tekton (enraged)	テクトン（怒）	name	npc	Tekton (enraged)
 Scavenger beast	スカベンジャー・ビースト	name	npc	Scavenger beast
-Great Olm (Right claw)	偉大なるオルㇺ（右足）	name	npc	Great Olm (Right claw)
-Great Olm	偉大なるオルㇺ	name	npc	Great Olm
-Great Olm (Left claw)	偉大なるオルㇺ（左足）	name	npc	Great Olm (Left claw)
+Great Olm (Right claw)	偉大なるオルム（右足）	name	npc	Great Olm (Right claw)
+Great Olm	偉大なるオルム	name	npc	Great Olm
+Great Olm (Left claw)	偉大なるオルム（左足）	name	npc	Great Olm (Left claw)
 Fire	火	name	npc	Fire
 Deathly ranger	死の射手	name	npc	Deathly ranger
 Deathly mage	死の魔術師	name	npc	Deathly mage
@@ -2979,7 +2979,7 @@ Arsen the Thief	盗人のアーセン	name	npc	Arsen the Thief
 The Mimic	ザ・ミミック	name	npc	The Mimic
 Yusuf	ユスフ	name	npc	Yusuf
 Francois	フランソワー	name	npc	Francois
-Madame Caldarium	マダム・カルダリウｍｍ	name	npc	Madame Caldarium
+Madame Caldarium	マダム・カルダリウム	name	npc	Madame Caldarium
 Haris	ハリス	name	npc	Haris
 Altarkiz	アルターキズ	name	npc	Altarkiz
 Lord Marshal Brogan	マーシャル・ブローガン様	name	npc	Lord Marshal Brogan
@@ -3441,7 +3441,7 @@ Knight of the Unicorn	ユニコーンの騎士	name	npc	Knight of the Unicorn
 Knight of the Wolf	オオカミの騎士	name	npc	Knight of the Wolf
 Knight of the Lion	ライオンの騎士	name	npc	Knight of the Lion
 Archpriest of the Unicorn	ユニコーンの大司祭	name	npc	Archpriest of the Unicorn
-Darkmeyer Slave	ダーク・メヤーの奴隷	name	npc	Darkmeyer Slave
+Darkmeyer Slave	ダークメヤーの奴隷	name	npc	Darkmeyer Slave
 mad melvin96	mad melvin96	name	npc	mad melvin96
 r2t2pnsh0Ty	r2t2pnsh0Ty	name	npc	r2t2pnsh0Ty
 Jyn	Jyn	name	npc	Jyn
@@ -4084,7 +4084,7 @@ Buffalo	バッファロー	name	npc	Buffalo
 Oryx	オリックス	name	npc	Oryx
 Blood Moon	ブラッド・ムーン	name	npc	Blood Moon
 Eclipse Moon	エクリプス・ムーン	name	npc	Eclipse Moon
-Blue Moon	ブルー・ムーン	name	npc	Blue Moon
+Blue Moon	ブルームーン	name	npc	Blue Moon
 Moon Shield	月の盾	name	npc	Moon Shield
 Blood jaguar	ブラッド・ジャガー	name	npc	Blood jaguar
 Frozen weapons	凍った武器	name	npc	Frozen weapons
@@ -4120,7 +4120,7 @@ Sunlight antelope	日光アンテロープ	name	npc	Sunlight antelope
 Soar Leader Pitri	ソアー・リーダー・ピトリ	name	npc	Soar Leader Pitri
 Orsaga	オーサガ	name	npc	Orsaga
 Orsaga's chinchompa	オーサガのチンチョンパ	name	npc	Orsaga's chinchompa
-Pyre fox	パイヤー・フォックス	name	npc	Pyre fox
+Pyre fox	炎ギツネ	name	npc	Pyre fox
 Embertailed jerboa	火尾トビネズミ	name	npc	Embertailed jerboa
 Metla	メトラ	name	npc	Metla
 Avinia	アヴィニア	name	npc	Avinia
@@ -4172,7 +4172,7 @@ Frog Prin	カエルのプリン	name	npc	Frog Prin
 Frog Prince	カエルの王子	name	npc	Frog Prince
 Frog Princess	カエルの姫	name	npc	Frog Princess
 Enraged Blood Moon	激怒したブラッド・ムーン	name	npc	Enraged Blood Moon
-Enraged Blue Moon	激怒したブルー・ムーン	name	npc	Enraged Blue Moon
+Enraged Blue Moon	激怒したブルームーン	name	npc	Enraged Blue Moon
 Enraged Eclipse Moon	激怒したエクリプス・ムーン	name	npc	Enraged Eclipse Moon
 Hazelmere's hat	ヘイゼルミアの帽子	name	npc	Hazelmere's hat
 Undead Hero	アンデッドのヒーロー	name	npc	Undead Hero
@@ -4334,3 +4334,17 @@ Bone Squirrel		name	npc	Bone Squirrel
 Huberte	フベルテ	name	npc	Huberte
 Moxi	モキシー	name	npc	Moxi
 Ghost Cat		name	npc	Ghost Cat
+Shepherd Dog		name	npc	Shepherd Dog
+Corgi		name	npc	Corgi
+Yorkie		name	npc	Yorkie
+Golem guard		name	npc	Golem guard
+Small scarab		name	npc	Small scarab
+Jonny the Beard		name	npc	Jonny the Beard
+League Navigator		name	npc	League Navigator
+Unidentified dog		name	npc	Unidentified dog
+Unidentified festive dog		name	npc	Unidentified festive dog
+Sadie		name	npc	Sadie
+Sir Burrus		name	npc	Sir Burrus
+Archibald		name	npc	Archibald
+Kimba		name	npc	Kimba
+Unidentified festive object		name	npc	Unidentified festive object

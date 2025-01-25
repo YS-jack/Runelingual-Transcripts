@@ -76898,6 +76898,138 @@ source: Pumpkin carving table
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55643</xliff:note></xliff:trans-unit><xliff:trans-unit id="41259"><xliff:source>It's missing something to be quite scary enough.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
 sub_category: object
 source: Scarecrow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55644</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55644</xliff:note></xliff:trans-unit><xliff:trans-unit id="41260"><xliff:source>An entrance, but to where?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Entry
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=50201</xliff:note></xliff:trans-unit><xliff:trans-unit id="41261"><xliff:source>A mural consisting of ancient drawings and hieroglyphs.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mural
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=50267</xliff:note></xliff:trans-unit><xliff:trans-unit id="41262"><xliff:source>Some very solid doors.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Doors
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=50510</xliff:note></xliff:trans-unit><xliff:trans-unit id="41263"><xliff:source>Some massive, reinforced metal doors.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Metal doors
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=50517</xliff:note></xliff:trans-unit><xliff:trans-unit id="41264"><xliff:source>Did I really crawl through that?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Pipe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=50524</xliff:note></xliff:trans-unit><xliff:trans-unit id="41265"><xliff:source>So that's what's producing all the energy down here.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Caged Killerwatt
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=50541</xliff:note></xliff:trans-unit><xliff:trans-unit id="41266"><xliff:source>A basket packed with hearty vegetables.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Food pot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=51748</xliff:note></xliff:trans-unit><xliff:trans-unit id="41267"><xliff:source>Someone ate all the vegetables!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=51749</xliff:note></xliff:trans-unit><xliff:trans-unit id="41268"><xliff:source>Ready to be filled with beans.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=51751</xliff:note></xliff:trans-unit><xliff:trans-unit id="41269"><xliff:source>Where did the local grain go?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty pot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=51753</xliff:note></xliff:trans-unit><xliff:trans-unit id="41270"><xliff:source>The contents have been used for cooking.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Empty basket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=51755</xliff:note></xliff:trans-unit><xliff:trans-unit id="41271"><xliff:source>Here is recorded for posterity all the times I robbed this place.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mural
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55775</xliff:note></xliff:trans-unit><xliff:trans-unit id="41272"><xliff:source>They lead deeper into the mastaba.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stairs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55785</xliff:note></xliff:trans-unit><xliff:trans-unit id="41273"><xliff:source>They lead back to the upper level of the mastaba.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Stairs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55786</xliff:note></xliff:trans-unit><xliff:trans-unit id="41274"><xliff:source>The statue of Het is holding out an Echo pickaxe.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55808</xliff:note></xliff:trans-unit><xliff:trans-unit id="41275"><xliff:source>The statue of Het is holding out a trailblazer reloaded pickaxe.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Statue
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55809</xliff:note></xliff:trans-unit><xliff:trans-unit id="41276"><xliff:source>Wait, isn't it my echo pickaxe?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cavity
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55810</xliff:note></xliff:trans-unit><xliff:trans-unit id="41277"><xliff:source>Wait, isn't it my trailblazer reloaded pickaxe?</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cavity
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55811</xliff:note></xliff:trans-unit><xliff:trans-unit id="41278"><xliff:source>A limestone pedestal with a bronze trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55815</xliff:note></xliff:trans-unit><xliff:trans-unit id="41279"><xliff:source>A limestone pedestal with an iron trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55816</xliff:note></xliff:trans-unit><xliff:trans-unit id="41280"><xliff:source>A limestone pedestal with a steel trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55817</xliff:note></xliff:trans-unit><xliff:trans-unit id="41281"><xliff:source>A limestone pedestal with a mithril trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55818</xliff:note></xliff:trans-unit><xliff:trans-unit id="41282"><xliff:source>A limestone pedestal with an adamant trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55819</xliff:note></xliff:trans-unit><xliff:trans-unit id="41283"><xliff:source>A limestone pedestal with a rune trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55820</xliff:note></xliff:trans-unit><xliff:trans-unit id="41284"><xliff:source>A limestone pedestal with a dragon trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55821</xliff:note></xliff:trans-unit><xliff:trans-unit id="41285"><xliff:source>A marble pedestal with a bronze trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55822</xliff:note></xliff:trans-unit><xliff:trans-unit id="41286"><xliff:source>A marble pedestal with an iron trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55823</xliff:note></xliff:trans-unit><xliff:trans-unit id="41287"><xliff:source>A marble pedestal with a steel trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55824</xliff:note></xliff:trans-unit><xliff:trans-unit id="41288"><xliff:source>A marble pedestal with a mithril trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55825</xliff:note></xliff:trans-unit><xliff:trans-unit id="41289"><xliff:source>A marble pedestal with an adamant trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55826</xliff:note></xliff:trans-unit><xliff:trans-unit id="41290"><xliff:source>A marble pedestal with a rune trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55827</xliff:note></xliff:trans-unit><xliff:trans-unit id="41291"><xliff:source>A marble pedestal with a dragon trophy from the Raging Echoes League.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate trophy pedestal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55828</xliff:note></xliff:trans-unit><xliff:trans-unit id="41292"><xliff:source>A stand displaying a banner from Leagues V - Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Banner stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55857</xliff:note></xliff:trans-unit><xliff:trans-unit id="41293"><xliff:source>An ornate stand displaying a banner from Leagues V - Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Ornate banner stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55858</xliff:note></xliff:trans-unit><xliff:trans-unit id="41294"><xliff:source>An oak outfit stand displaying a set of Raging Echo Relic Hunter (T1)</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Oak outfit stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55859</xliff:note></xliff:trans-unit><xliff:trans-unit id="41295"><xliff:source>An oak outfit stand displaying a set of Raging Echo Relic Hunter (T2)</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Oak outfit stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55860</xliff:note></xliff:trans-unit><xliff:trans-unit id="41296"><xliff:source>An oak outfit stand displaying a set of Raging Echo Relic Hunter (T3)</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Oak outfit stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55861</xliff:note></xliff:trans-unit><xliff:trans-unit id="41297"><xliff:source>A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T1)</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mahogany outfit stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55862</xliff:note></xliff:trans-unit><xliff:trans-unit id="41298"><xliff:source>A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T2)</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mahogany outfit stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55863</xliff:note></xliff:trans-unit><xliff:trans-unit id="41299"><xliff:source>A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T3)</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Mahogany outfit stand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55864</xliff:note></xliff:trans-unit><xliff:trans-unit id="41300"><xliff:source>A rug adorned with the icon of Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rug
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55904</xliff:note></xliff:trans-unit><xliff:trans-unit id="41301"><xliff:source>A fearsome yet stylish souvenir from Leagues V: Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Rug
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55905</xliff:note></xliff:trans-unit><xliff:trans-unit id="41302"><xliff:source>It harnesses the power of Raging Echoes.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Scrying pool
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55907</xliff:note></xliff:trans-unit><xliff:trans-unit id="41303"><xliff:source>Lightning and brimstone.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Echoing flames
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55909</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

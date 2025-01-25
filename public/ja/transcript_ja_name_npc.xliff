@@ -547,7 +547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10251">
         <xliff:source>Bronze dragon</xliff:source>
-        <xliff:target state="translated">銅の竜</xliff:target>
+        <xliff:target state="translated">青銅の竜</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Bronze dragon
@@ -2187,7 +2187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10456">
         <xliff:source>Suqah</xliff:source>
-        <xliff:target state="translated">スーカア</xliff:target>
+        <xliff:target state="translated">スーカ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Suqah
@@ -3699,7 +3699,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10645">
         <xliff:source>Arzinian Avatar of Ranging</xliff:source>
-        <xliff:target state="translated">アージニアンの化身・弓</xliff:target>
+        <xliff:target state="translated">アージニアンの化身・遠射</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Arzinian Avatar of Ranging
@@ -4131,7 +4131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10699">
         <xliff:source>Wild kebbit</xliff:source>
-        <xliff:target state="translated">野生のケビット</xliff:target>
+        <xliff:target state="translated">野生ケビット</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wild kebbit
@@ -7011,7 +7011,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11059">
         <xliff:source>Purple Pewter Director</xliff:source>
-        <xliff:target state="translated">ムラサキ・ピューターの監督</xliff:target>
+        <xliff:target state="translated">パープル・ピューターの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Purple Pewter Director
@@ -7019,7 +7019,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11060">
         <xliff:source>Blue Opal Director</xliff:source>
-        <xliff:target state="translated">アオ・オパールの監督</xliff:target>
+        <xliff:target state="translated">ブルー・オパールの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blue Opal Director
@@ -7027,7 +7027,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11061">
         <xliff:source>Yellow Fortune Director</xliff:source>
-        <xliff:target state="translated">キ・フォーチュンの監督</xliff:target>
+        <xliff:target state="translated">イエロー・フォーチュンの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Yellow Fortune Director
@@ -7035,7 +7035,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11062">
         <xliff:source>Green Gemstone Director</xliff:source>
-        <xliff:target state="translated">ミドリ・ジェムストーンの監督</xliff:target>
+        <xliff:target state="translated">グリーン・ジェムストーンの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Green Gemstone Director
@@ -7043,7 +7043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11063">
         <xliff:source>White Chisel Director</xliff:source>
-        <xliff:target state="translated">シロ・チーゼルの監督</xliff:target>
+        <xliff:target state="translated">ホワイト・チーゼルの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: White Chisel Director
@@ -7051,7 +7051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11064">
         <xliff:source>Silver Cog Director</xliff:source>
-        <xliff:target state="translated">ギン・コグの監督</xliff:target>
+        <xliff:target state="translated">シルバー・コグの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Silver Cog Director
@@ -7059,7 +7059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11065">
         <xliff:source>Brown Engine Director</xliff:source>
-        <xliff:target state="translated">チャ・エンジンの監督</xliff:target>
+        <xliff:target state="translated">ブラウン・エンジンの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Brown Engine Director
@@ -7067,7 +7067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11066">
         <xliff:source>Red Axe Director</xliff:source>
-        <xliff:target state="translated">アカ・アックスの監督</xliff:target>
+        <xliff:target state="translated">レッド・アックスの監督</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Red Axe Director
@@ -7083,7 +7083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11068">
         <xliff:source>Red Axe Cat</xliff:source>
-        <xliff:target state="translated">アカ・アックスのネコ</xliff:target>
+        <xliff:target state="translated">レッド・アックスのネコ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Red Axe Cat
@@ -7763,7 +7763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11153">
         <xliff:source>Red Axe Henchman</xliff:source>
-        <xliff:target state="translated">アカ・アックスの子分</xliff:target>
+        <xliff:target state="translated">レッド・アックスの子分</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Red Axe Henchman
@@ -7835,7 +7835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11162">
         <xliff:source>Animated Bronze Armour</xliff:source>
-        <xliff:target state="translated">動く銅の鎧</xliff:target>
+        <xliff:target state="translated">動く青銅の鎧</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Animated Bronze Armour
@@ -11307,7 +11307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11596">
         <xliff:source>Shadow Hound</xliff:source>
-        <xliff:target state="translated">シャドー・ハウンド</xliff:target>
+        <xliff:target state="translated">シャドウ・ハウンド</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Shadow Hound
@@ -11779,7 +11779,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11655">
         <xliff:source>Blackjack seller</xliff:source>
-        <xliff:target state="translated">棍棒の販売人</xliff:target>
+        <xliff:target state="translated">ブラックジャックの販売人</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blackjack seller
@@ -12467,7 +12467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11741">
         <xliff:source>Vampyre Juvenile</xliff:source>
-        <xliff:target state="translated">少年の吸血鬼</xliff:target>
+        <xliff:target state="translated">ジュビナイルの吸血鬼</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Vampyre Juvenile
@@ -13203,7 +13203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11833">
         <xliff:source>Viyeldi</xliff:source>
-        <xliff:target state="translated">ヴィイェルディ</xliff:target>
+        <xliff:target state="translated">ヴィーエルディ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Viyeldi
@@ -14827,7 +14827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12036">
         <xliff:source>Blessed spider</xliff:source>
-        <xliff:target state="translated">祝福されたクモ</xliff:target>
+        <xliff:target state="translated">祝福のクモ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blessed spider
@@ -14835,7 +14835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12037">
         <xliff:source>Blessed giant rat</xliff:source>
-        <xliff:target state="translated">祝福された巨大ネズミ</xliff:target>
+        <xliff:target state="translated">祝福の巨大ネズミ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blessed giant rat
@@ -17115,7 +17115,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12322">
         <xliff:source>Elder Guard</xliff:source>
-        <xliff:target state="translated">サルの長老</xliff:target>
+        <xliff:target state="translated">長老の衛兵</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Elder Guard
@@ -17827,7 +17827,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12411">
         <xliff:source>Dark kebbit</xliff:source>
-        <xliff:target state="translated">暗い色のケビット</xliff:target>
+        <xliff:target state="translated">暗ケビット</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Dark kebbit
@@ -18939,7 +18939,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12550">
         <xliff:source>Purple Pewter Secretary</xliff:source>
-        <xliff:target state="translated">ムラサキ・ピューターの秘書</xliff:target>
+        <xliff:target state="translated">パープル・ピューターの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Purple Pewter Secretary
@@ -18947,7 +18947,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12551">
         <xliff:source>Yellow Fortune Secretary</xliff:source>
-        <xliff:target state="translated">キ・フォーチュンの秘書</xliff:target>
+        <xliff:target state="translated">イエロー・フォーチュンの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Yellow Fortune Secretary
@@ -18955,7 +18955,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12552">
         <xliff:source>Blue Opal Secretary</xliff:source>
-        <xliff:target state="translated">アオ・オパールの秘書</xliff:target>
+        <xliff:target state="translated">ブルー・オパールの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blue Opal Secretary
@@ -18963,7 +18963,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12553">
         <xliff:source>Green Gemstone Secretary</xliff:source>
-        <xliff:target state="translated">ミドリ・ジェムストーンの秘書</xliff:target>
+        <xliff:target state="translated">グリーン・ジェムストーンの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Green Gemstone Secretary
@@ -18971,7 +18971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12554">
         <xliff:source>White Chisel Secretary</xliff:source>
-        <xliff:target state="translated">シロ・チーゼルの秘書</xliff:target>
+        <xliff:target state="translated">ホワイト・チーゼルの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: White Chisel Secretary
@@ -18979,7 +18979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12555">
         <xliff:source>Silver Cog Secretary</xliff:source>
-        <xliff:target state="translated">ギン・コグの秘書</xliff:target>
+        <xliff:target state="translated">シルバー・コグの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Silver Cog Secretary
@@ -18987,7 +18987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12556">
         <xliff:source>Brown Engine Secretary</xliff:source>
-        <xliff:target state="translated">チャ・エンジンの秘書</xliff:target>
+        <xliff:target state="translated">ブラウン・エンジンの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Brown Engine Secretary
@@ -18995,7 +18995,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12557">
         <xliff:source>Red Axe Secretary</xliff:source>
-        <xliff:target state="translated">アカ・アックスの秘書</xliff:target>
+        <xliff:target state="translated">レッド・アックスの秘書</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Red Axe Secretary
@@ -19163,7 +19163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12578">
         <xliff:source>Ranging Guild Doorman</xliff:source>
-        <xliff:target state="translated">弓ギルドの玄関係</xliff:target>
+        <xliff:target state="translated">遠射ギルドの玄関係</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ranging Guild Doorman
@@ -22427,7 +22427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12986">
         <xliff:source>Great Olm (Right claw)</xliff:source>
-        <xliff:target state="translated">偉大なるオルㇺ（右足）</xliff:target>
+        <xliff:target state="translated">偉大なるオルム（右足）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Great Olm (Right claw)
@@ -22435,7 +22435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12987">
         <xliff:source>Great Olm</xliff:source>
-        <xliff:target state="translated">偉大なるオルㇺ</xliff:target>
+        <xliff:target state="translated">偉大なるオルム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Great Olm
@@ -22443,7 +22443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12988">
         <xliff:source>Great Olm (Left claw)</xliff:source>
-        <xliff:target state="translated">偉大なるオルㇺ（左足）</xliff:target>
+        <xliff:target state="translated">偉大なるオルム（左足）</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Great Olm (Left claw)
@@ -23843,7 +23843,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13163">
         <xliff:source>Madame Caldarium</xliff:source>
-        <xliff:target state="translated">マダム・カルダリウｍｍ</xliff:target>
+        <xliff:target state="translated">マダム・カルダリウム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Madame Caldarium
@@ -27539,7 +27539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13625">
         <xliff:source>Darkmeyer Slave</xliff:source>
-        <xliff:target state="translated">ダーク・メヤーの奴隷</xliff:target>
+        <xliff:target state="translated">ダークメヤーの奴隷</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Darkmeyer Slave
@@ -32683,7 +32683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14268">
         <xliff:source>Blue Moon</xliff:source>
-        <xliff:target state="translated">ブルー・ムーン</xliff:target>
+        <xliff:target state="translated">ブルームーン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Blue Moon
@@ -32971,7 +32971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14304">
         <xliff:source>Pyre fox</xliff:source>
-        <xliff:target state="translated">パイヤー・フォックス</xliff:target>
+        <xliff:target state="translated">炎ギツネ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Pyre fox
@@ -33387,7 +33387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14356">
         <xliff:source>Enraged Blue Moon</xliff:source>
-        <xliff:target state="translated">激怒したブルー・ムーン</xliff:target>
+        <xliff:target state="translated">激怒したブルームーン</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Enraged Blue Moon
@@ -33881,6 +33881,48 @@ source: Moxi
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14034</xliff:note></xliff:trans-unit><xliff:trans-unit id="14517"><xliff:source>Ghost Cat</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: npc
 source: Ghost Cat
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14109</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14109</xliff:note></xliff:trans-unit><xliff:trans-unit id="14518"><xliff:source>Shepherd Dog</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Shepherd Dog
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=10476</xliff:note></xliff:trans-unit><xliff:trans-unit id="14519"><xliff:source>Corgi</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Corgi
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12593</xliff:note></xliff:trans-unit><xliff:trans-unit id="14520"><xliff:source>Yorkie</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Yorkie
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12596</xliff:note></xliff:trans-unit><xliff:trans-unit id="14521"><xliff:source>Golem guard</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Golem guard
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14125</xliff:note></xliff:trans-unit><xliff:trans-unit id="14522"><xliff:source>Small scarab</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Small scarab
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14126</xliff:note></xliff:trans-unit><xliff:trans-unit id="14523"><xliff:source>Jonny the Beard</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Jonny the Beard
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14138</xliff:note></xliff:trans-unit><xliff:trans-unit id="14524"><xliff:source>League Navigator</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: League Navigator
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14145</xliff:note></xliff:trans-unit><xliff:trans-unit id="14525"><xliff:source>Unidentified dog</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Unidentified dog
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14150</xliff:note></xliff:trans-unit><xliff:trans-unit id="14526"><xliff:source>Unidentified festive dog</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Unidentified festive dog
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14160</xliff:note></xliff:trans-unit><xliff:trans-unit id="14527"><xliff:source>Sadie</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Sadie
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14162</xliff:note></xliff:trans-unit><xliff:trans-unit id="14528"><xliff:source>Sir Burrus</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Sir Burrus
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14164</xliff:note></xliff:trans-unit><xliff:trans-unit id="14529"><xliff:source>Archibald</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Archibald
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14166</xliff:note></xliff:trans-unit><xliff:trans-unit id="14530"><xliff:source>Kimba</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Kimba
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14170</xliff:note></xliff:trans-unit><xliff:trans-unit id="14531"><xliff:source>Unidentified festive object</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+sub_category: npc
+source: Unidentified festive object
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14186</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

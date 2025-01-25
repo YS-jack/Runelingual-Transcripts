@@ -26,7 +26,7 @@ Kill	殺す	actions	npc	Pheasant
 Disturb	邪魔する	actions	npc	Phosani's Nightmare
 Gauntlets	手袋をもらう	actions	npc	Avan
 Lure	ルアーを落とす	actions	npc	Rod Fishing spot
-Bait	餌を落とす	actions	npc	Rod Fishing spot
+Bait	エサを落とす	actions	npc	Rod Fishing spot
 Pickpocket	盗む	actions	npc	Guard
 Assignment	討伐任務を受ける	actions	npc	Turael
 Search	探す	actions	npc	Entomologist
@@ -72,7 +72,7 @@ Small Net	小さい漁網で釣る	actions	npc	Fishing spot
 Net	網で釣る	actions	npc	Fishing spot
 Ammo	大砲弾	actions	npc	Leon
 Cage	カゴで釣る	actions	npc	Fishing spot
-Harpoon	もりで釣る	actions	npc	Fishing spot
+Harpoon	銛で釣る	actions	npc	Fishing spot
 Big Net	大きな魚網で釣る	actions	npc	Fishing spot
 Use-rod	竿を使う	actions	npc	Fishing spot
 Escort	エスコート	actions	npc	Smiddi Ryak (hard)
@@ -89,9 +89,9 @@ Join-Crew	クルーに参加	actions	npc	San Fan
 Join-Team	チームに参加	actions	npc	Honest Jimmy
 Pick-pocket	ポッケをする	actions	npc	Fairy Godfather
 Craft-goods	物を創る	actions	npc	Thakkrad Sigmundson
-Rellekka	レレカへ移動	actions	npc	Maria Gunnars
-Neitiznot	ネイチズノットへ移動	actions	npc	Maria Gunnars
-Jatizso	ジャチゾへ移動	actions	npc	Mord Gunnars
+Rellekka	レレカ	actions	npc	Maria Gunnars
+Neitiznot	ネイチズノット	actions	npc	Maria Gunnars
+Jatizso	ジャチゾ	actions	npc	Mord Gunnars
 Watch-shouting	口喧嘩を観る	actions	npc	Guard
 Kick	蹴る	actions	npc	Bed
 Claim-Tokens	トークンを請求	actions	npc	Lorelai
@@ -124,7 +124,7 @@ Tease	挑発する	actions	npc	Sabre-toothed kyatt
 Leave	去る	actions	npc	Squire
 Claim-slime	スライムを請求	actions	npc	Robin
 Use	使う	actions	npc	Portal
-Exit	出口	actions	npc	Portal
+Exit	出る	actions	npc	Portal
 Relocate	再配置	actions	npc	Estate agent
 Redecorate	模様替え	actions	npc	Estate agent
 Buy-plank	板を購入	actions	npc	Sawmill operator
@@ -143,7 +143,7 @@ Steal-from	盗む	actions	npc	Digsite workman
 Pay-fare	運賃を支払う	actions	npc	Captain Tobias
 Pay-Fare	運賃を支払う	actions	npc	Customs officer
 Go-inside	中へ入る	actions	npc	House
-Pirate's Cove	海賊の隠れ家へ移動	actions	npc	Lokar Searunner
+Pirate's Cove	海賊の隠れ家	actions	npc	Lokar Searunner
 Deposit-items	アイテムを預ける	actions	npc	Peer the Seer
 Miscellania	ミセラニア	actions	npc	Sailor
 Prod	突く	actions	npc	Red Sheep
@@ -214,9 +214,9 @@ Join	参加	actions	npc	Lisa
 Locking	色を固定	actions	npc	Rift guardian
 Check Scores	得点を確認	actions	npc	Captain Kalt
 Contract	契約	actions	npc	Amy
-Port Sarim	サリム港へ移動	actions	npc	Captain Magoro
-Port Piscarilius	ピスカリリウス港へ移動	actions	npc	Captain Magoro
-Feed	餌を与える	actions	npc	Lux grub
+Port Sarim	サリム港	actions	npc	Captain Magoro
+Port Piscarilius	ピスカリリウス港	actions	npc	Captain Magoro
+Feed	エサを与える	actions	npc	Lux grub
 Douse	消火	actions	npc	Fire
 Cut	切る	actions	npc	Meat tree
 Smash	砕く	actions	npc	Jewelled Crab
@@ -252,13 +252,13 @@ Pay (Redwood tree)	支払う（セコイア）	actions	npc	Alexandra
 Pay (Spirit tree)	支払う（精霊樹）	actions	npc	Latlink Fastbell
 Swap	入れ替える	actions	npc	Ornate combat dummy
 Pay (Celastrus tree)	支払う（セラストラスの木）	actions	npc	Taylor
-Land's End	ランズ・エンドへ移動	actions	npc	Veos
+Land's End	ランズ・エンド	actions	npc	Veos
 Join Castle Wars	キャッスル・ウォーズに参加	actions	npc	Saradominist recruiter
 Holiday-items	イベントアイテムを売買	actions	npc	Diango
 Tan-hides	革をなす	actions	npc	Eodan
-Ardougne	アルドインへ移動	actions	npc	Captain Barnaby
-Brimhaven	ブリムヘブンへ移動	actions	npc	Captain Barnaby
-Rimmington	リミングトンへ移動	actions	npc	Captain Barnaby
+Ardougne	アルドイン	actions	npc	Captain Barnaby
+Brimhaven	ブリムヘブン	actions	npc	Captain Barnaby
+Rimmington	リミングトン	actions	npc	Captain Barnaby
 Enchant	魔法付与	actions	npc	Eluned
 Quick-escape	即離脱	actions	npc	Elena
 Investigate	調査する	actions	npc	Elderly Elf
@@ -268,7 +268,7 @@ Sing	歌う	actions	npc	Reese
 Statistics	統計情報	actions	npc	Ystwyth
 Repair	修復	actions	npc	Aneirin
 Open Adventure Paths	冒険の旅路を開く	actions	npc	Adventurer Jon
-Island of Stone	ストーン島へ移動	actions	npc	Haskell
+Island of Stone	ストーン島	actions	npc	Haskell
 Charter	船を契約	actions	npc	Trader Stan
 Charter-to Brimhaven	ブリムヘブンまで契約	actions	npc	Trader Stan
 Charter-to Catherby	カサビーまで契約	actions	npc	Trader Stan
@@ -576,13 +576,13 @@ Swap	入れ替える	actions	object	Ornate combat dummy
 Take-Coffin	棺を取る	actions	object	Grave
 Make	作る	actions	object	Bed
 Net	網で釣る	actions	object	Fishing spot
-Ardougne	アルドインへ移動	actions	object	Lever
-Edgeville	エッジビルへ移動	actions	object	Lever
+Ardougne	アルドイン	actions	object	Lever
+Edgeville	エッジビル	actions	object	Lever
 Swap-options	オプションを入れ替える	actions	object	Lever
 Talk to	話しかける	actions	object	Tree
 Exchange	交換	actions	object	Grand Exchange booth
 Lure	ルアーを落とす	actions	object	Ominous Fishing Spot
-Bait	餌を落とす	actions	object	Ominous Fishing Spot
+Bait	エサを落とす	actions	object	Ominous Fishing Spot
 Fish-In	釣る	actions	object	Aquarium
 Count	数える	actions	object	Pressure Barrel
 Swim	泳ぐ	actions	object	River
@@ -662,7 +662,7 @@ Climb-through (private)	すり抜ける（専用）	actions	object	Broken bars
 Peek (normal)	覗く（通常）	actions	object	Broken bars
 Eat	食べる	actions	object	Food Pile
 Leap	飛び越える	actions	object	Gap
-Teleport to Destination	目的地へワープ	actions	object	Obelisk
+Teleport to Destination	目的地にワープ	actions	object	Obelisk
 Set Destination	目的地を設定	actions	object	Obelisk
 Hurdle	飛び越える	actions	object	Ledge
 Jump-off	飛び降りる	actions	object	Edge
@@ -820,7 +820,7 @@ Jars	瓶	actions	object	Boss lair display
 Perks	特性	actions	object	Mounted Max Cape
 Spellbook	魔導書を変更	actions	object	Mounted Magic Cape
 Clip	切り取る	actions	object	Topiary bush
-Feed	餌を与える	actions	object	Burning brazier
+Feed	エサを与える	actions	object	Burning brazier
 Take-hammer	ハンマーを取る	actions	object	Crate
 Take-knife	ナイフを取る	actions	object	Crate
 Take-tinderbox	火口箱を取る	actions	object	Crate
@@ -986,7 +986,7 @@ Pay	支払う	actions	object	Volcano Entrance
 Feel	探る	actions	object	Gas hole
 Add to	加える	actions	object	Large Fossil Support
 Climb through	登りって通り抜ける	actions	object	Hole
-Teleport to destination	目的地へワープ	actions	object	Obelisk
+Teleport to destination	目的地にワープ	actions	object	Obelisk
 Set destination	目的地を設定	actions	object	Obelisk
 Jump to	ジャンプ	actions	object	Pillar
 Preferences	優先設定	actions	object	Log storage
@@ -1069,7 +1069,7 @@ Wintertodt Camp	ウィンタートッド・キャンプ	actions	object	Basic Jew
 Warriors' Guild	戦士ギルド	actions	object	Fancy Jewellery Box
 Champions' Guild	チャンピオン・ギルド	actions	object	Fancy Jewellery Box
 Monastery	修道院	actions	object	Fancy Jewellery Box
-Ranging Guild	弓ギルド	actions	object	Fancy Jewellery Box
+Ranging Guild	遠射ギルド	actions	object	Fancy Jewellery Box
 Mining Guild	採掘ギルド	actions	object	Fancy Jewellery Box
 Crafting Guild	工作ギルド	actions	object	Fancy Jewellery Box
 Cooking Guild	料理ギルド	actions	object	Fancy Jewellery Box
@@ -1261,11 +1261,11 @@ Open Activity Adviser	推奨コンテンツを確認	actions	menu
 <colNum0>Set chat mode:</col> Public (/@p)	<colNum0>チャット切り替え:</col> 公共(/@p)	actions	menu	
 Clear history	履歴削除	actions	menu	
 Switch tab	タブ切り替え	actions	menu	
-Configure filter	フィルタ設定	actions	menu	
+Configure filter	絞込設定	actions	menu	
 <colNum0>Game:</col> Clear history	<colNum0>ゲーム:</col> 履歴削除	actions	menu	
-<colNum0>Game:</col> Filter	<colNum0>ゲーム:</col> フィルタ	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>ゲーム:</col> 絞込	actions	menu	
 Setup your autochat	自動チャット設定	actions	menu	
-Filter public chat	公共チャットをフィルタ	actions	menu	
+Filter public chat	公共チャットをフィルター	actions	menu	
 <colNum0>Public:</col> Clear history	<colNum0>公共:</col> 履歴削除	actions	menu	
 <colNum0>Public:</col> Hide	<colNum0>公共:</col> 隠す	actions	menu	
 <colNum0>Public:</col> Show none	<colNum0>公共:</col> 非表示	actions	menu	
@@ -1296,10 +1296,10 @@ Achievement Diaries	達成記録	actions	menu
 Inventory	カバン	actions	menu	
 Worn Equipment	装備品	actions	menu	
 Enable prayer reordering	祈りの再配置有効	actions	menu	
-Disable prayer filtering	祈りのフィルタ有効	actions	menu	
+Disable prayer filtering	祈りのフィルター有効	actions	menu	
 Prayer	祈り	actions	menu	
-Enable spell reordering	魔法の再配置有効	actions	menu	
-Disable spell filtering	魔法の再配置無効	actions	menu	
+Enable spell reordering	呪文の再配置有効	actions	menu	
+Disable spell filtering	呪文のフィルター無効	actions	menu	
 Magic	魔法	actions	menu	
 Friends List	フレンド一覧	actions	menu	
 Account Management	アカウント設定	actions	menu	
@@ -1329,7 +1329,7 @@ DPS	DPS	actions	menu
 Search	探す	actions	menu	
 Lookup	検索	actions	menu	
 Auto retaliate	自動反撃	actions	menu	combatOptionsTab
-Use <colNum0>Special Attack</col>	<colNum0>奥義</col> を発動	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	<colNum0>必殺技</col> を発動	actions	menu	combatOptionsTab
 Wiki	ウィキ検索	actions	menu	
 Add to canvas	カンバスに追加	actions	menu	
 View <colNum0>Attack</col> guide	<colNum0>攻撃力</col>のガイドを表示	actions	menu	skillsTab
@@ -1341,7 +1341,7 @@ View <colNum0>Smithing</col> guide	<colNum0>鍛冶</col>のガイドを表示	ac
 View <colNum0>Defence</col> guide	<colNum0>守備力</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Herblore</col> guide	<colNum0>調合</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Fishing</col> guide	<colNum0>釣り</col>のガイドを表示	actions	menu	skillsTab
-View <colNum0>Ranged</col> guide	<colNum0>弓</col>のガイドを表示	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	<colNum0>遠射</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Thieving</col> guide	<colNum0>盗み</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Cooking</col> guide	<colNum0>料理</col>のガイドを表示	actions	menu	skillsTab
 View <colNum0>Prayer</col> guide	<colNum0>祈り</col>のガイドを表示	actions	menu	skillsTab
@@ -1404,13 +1404,13 @@ View guide prices	参考価格を表示	actions	menu	wornEquipmentTab
 View items kept on death	死亡時に保持するアイテムを表示	actions	menu	wornEquipmentTab
 Call follower	従者を呼ぶ	actions	menu	wornEquipmentTab
 Disable prayer reordering	祈りの再配置無効	actions	menu	
-Enable prayer filtering	祈りのフィルタ有効	actions	menu	
-Disable spell reordering	魔法の再配置無効	actions	menu	
-Enable spell filtering	魔法のフィルタ有効	actions	menu	
+Enable prayer filtering	祈りのフィルター有効	actions	menu	
+Disable spell reordering	呪文の再配置無効	actions	menu	
+Enable spell filtering	呪文のフィルター有効	actions	menu	
 Show notifications	通知を表示	actions	menu	
 Add Note	メモに追加	actions	menu	
 Delete	削除	actions	menu	friendsTab
-Message	手紙	actions	menu	friendsTab
+Message	メッセージ	actions	menu	friendsTab
 View Ignore List	無視リストを表示	actions	menu	friendsTab
 Add Friend	フレンド追加	actions	menu	friendsTab
 Delete Friend	フレンド削除	actions	menu	friendsTab
@@ -1426,8 +1426,8 @@ Bond Pouch	ボンド入れ	actions	menu	accountManagementTab
 View Inbox	受信箱を確認	actions	menu	accountManagementTab
 Name Changer	名前変更	actions	menu	accountManagementTab
 View History	履歴を表示	actions	menu	accountManagementTab
-View Newspost	ニュースを表示	actions	menu	accountManagementTab
-View Archive	アーカイブを表示	actions	menu	accountManagementTab
+View Newspost	ニュース	actions	menu	accountManagementTab
+View Archive	アーカイブ	actions	menu	accountManagementTab
 Open	開く	actions	menu	accountManagementTab
 Settings	設定	actions	menu	groupTab
 Refresh	更新	actions	menu	groupTab
@@ -1478,7 +1478,7 @@ Ironman Group	鉄人グループ	actions	menu	groupTab
 Chat-channel	会話チャンネル	actions	menu	groupTab
 Your Clan	クラン	actions	menu	groupTab
 View another clan	別のクラン	actions	menu	groupTab
-Message	手紙	actions	menu	groupTab
+Message	メッセージ	actions	menu	groupTab
 Remove friend	フレンド削除	actions	menu	groupTab
 Switch world	世界変更	actions	menu	groupTab
 View Poll	投票を見る	actions	menu	accountManagementTab
@@ -1516,8 +1516,8 @@ Activate	発動	actions	item	Magic box
 Crush	潰す	actions	item	Smouldering heart
 Eat-from	から食べる	actions	item	Smouldering pile of flesh
 Accurate	正確に	actions	menu	combatOptionsTab
-Aggressive	激しく	actions	menu	combatOptionsTab
-Defensive	守りながら	actions	menu	combatOptionsTab
+Aggressive	積極的	actions	menu	combatOptionsTab
+Defensive	守備	actions	menu	combatOptionsTab
 Controlled	バランスよく	actions	menu	combatOptionsTab
 Chop	切る	actions	menu	combatOptionsTab
 Slash	切り裂く	actions	menu	combatOptionsTab
@@ -1542,23 +1542,32 @@ Bash	激突	actions	menu	combatOptionsTab
 Blaze	ブレイズ	actions	menu	combatOptionsTab
 Scorch	焦がす	actions	menu	combatOptionsTab
 Flare	フレア	actions	menu	combatOptionsTab
-Last-tier contract		actions	npc	Amy
-Metamorph		actions	npc	Nid
-Choose		actions	npc	Tenoch
-Check-on		actions	npc	Man
+Last-tier contract	以前の契約難易度	actions	npc	Amy
+Metamorph	変形	actions	npc	Nid
+Choose	選択	actions	npc	Tenoch
+Check-on	確認	actions	npc	Man
 Stats	ステータス	actions	npc	Worm Tongue
-Take-5 concoctions		actions	object	Crate
-Take-10 concoctions		actions	object	Crate
-Take-many		actions	object	Medical box
-Slide-along		actions	object	Icy ledge
-Take-uniform		actions	object	Wardrobe
-Concentrate-potion		actions	object	Retort
-Homogenise-potion		actions	object	Agitator
-Crystalise-potion		actions	object	Alembic
-Fulfil-order		actions	object	Conveyor belt
-Fight-privately		actions	object	Meeting flag
-Leave-group		actions	object	Meeting flag (private)
-Quick-slide		actions	object	Slope
+Take-5 concoctions	5個混合物を取る	actions	object	Crate
+Take-10 concoctions	10個混合物を取る	actions	object	Crate
+Take-many	たくさん取る	actions	object	Medical box
+Slide-along	滑る	actions	object	Icy ledge
+Take-uniform	衣装を取る	actions	object	Wardrobe
+Concentrate-potion	薬液を濃縮	actions	object	Retort
+Homogenise-potion	薬液を均一化	actions	object	Agitator
+Crystalise-potion	薬液を結晶化	actions	object	Alembic
+Fulfil-order	出品	actions	object	Conveyor belt
+Fight-privately	個別で戦う	actions	object	Meeting flag
+Leave-group	グループから脱退	actions	object	Meeting flag (private)
+Quick-slide	速く滑る	actions	object	Slope
 Change	変更	actions	object	Scarecrow
 Plant	植える	actions	object	Pumpkin patch
-Carve-pumpkin		actions	object	Pumpkin carving table
+Carve-pumpkin	カボチャを彫る	actions	object	Pumpkin carving table
+Setup	設定	actions	npc	Ironman tutor
+Drink-from	から飲む	actions	object	Cauldron
+Big-search	よく探す	actions	object	Reward pool
+Take-chisel	ノミを取る	actions	object	Weak cells
+Channel (Varlamore)	転換（ヴァーラモー）	actions	object	Waystone
+Punch	殴る	actions	menu	combatOptionsTab
+Kick	蹴る	actions	menu	combatOptionsTab
+Unarmed	素手	actions	menu	combatOptionsTab
+(Members)	（会員）	actions	item	
