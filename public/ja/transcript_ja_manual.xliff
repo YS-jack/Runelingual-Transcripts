@@ -147,7 +147,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109279">
         <xliff:source>Tithe Farm</xliff:source>
-        <xliff:target state="translated">タイス農場</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -187,7 +187,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109284">
         <xliff:source>Shooting Stars</xliff:source>
-        <xliff:target state="translated">流れ星</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -699,7 +699,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109350">
         <xliff:source>Short</xliff:source>
-        <xliff:target state="translated">短い</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1211,7 +1211,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109414">
         <xliff:source>Rimmington</xliff:source>
-        <xliff:target state="translated">リミングトン</xliff:target>
+        <xliff:target state="translated">リミングトンへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1235,7 +1235,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109417">
         <xliff:source>Rellekka</xliff:source>
-        <xliff:target state="translated">レレカ</xliff:target>
+        <xliff:target state="translated">レレカへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1243,7 +1243,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109418">
         <xliff:source>Brimhaven</xliff:source>
-        <xliff:target state="translated">ブリムヘブン</xliff:target>
+        <xliff:target state="translated">ブリムヘブンへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1275,7 +1275,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109422">
         <xliff:source>Ardougne</xliff:source>
-        <xliff:target state="translated">アルドイン</xliff:target>
+        <xliff:target state="translated">アルドインへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1283,7 +1283,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109423">
         <xliff:source>Desert</xliff:source>
-        <xliff:target state="translated">砂漠</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1307,7 +1307,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109426">
         <xliff:source>Kandarin</xliff:source>
-        <xliff:target state="translated">カンダリン</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1323,7 +1323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109428">
         <xliff:source>Lumbridge &amp; Draynor</xliff:source>
-        <xliff:target state="translated">ランブ…ドレイナー</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1347,7 +1347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109431">
         <xliff:source>Western Provinces</xliff:source>
-        <xliff:target state="translated">西部地方</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1355,7 +1355,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109432">
         <xliff:source>Wilderness</xliff:source>
-        <xliff:target state="translated">ウィルダネス</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1363,7 +1363,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109433">
         <xliff:source>Kourend &amp; Kebos</xliff:source>
-        <xliff:target state="translated">クーレンドとケボス</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1595,7 +1595,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109462">
         <xliff:source>Port Piscarilius</xliff:source>
-        <xliff:target state="translated">ピスカリリウス港</xliff:target>
+        <xliff:target state="translated">ピスカリリウス港へ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1611,7 +1611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109464">
         <xliff:source>Port Sarim</xliff:source>
-        <xliff:target state="translated">サリム港</xliff:target>
+        <xliff:target state="translated">サリム港へ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2027,7 +2027,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109516">
         <xliff:source>Darkmeyer</xliff:source>
-        <xliff:target state="translated">ダークメヤー</xliff:target>
+        <xliff:target state="translated">ダーク・メヤー</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2347,7 +2347,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109556">
         <xliff:source>Ranging Guild</xliff:source>
-        <xliff:target state="translated">遠射ギルド</xliff:target>
+        <xliff:target state="translated">弓ギルド</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2459,7 +2459,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109570">
         <xliff:source>Edgeville</xliff:source>
-        <xliff:target state="translated">エッジビル</xliff:target>
+        <xliff:target state="translated">エッジビルへ移動</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2891,7 +2891,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109624">
         <xliff:source>Wilderness</xliff:source>
-        <xliff:target state="translated">ウィルダネス</xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -2915,7 +2915,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109627">
         <xliff:source>Wilderness </xliff:source>
-        <xliff:target state="translated">ウィルダネス </xliff:target>
+        <xliff:target></xliff:target>
         <xliff:note>category: manual
 sub_category: music
 source: None
@@ -3867,7 +3867,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109751">
         <xliff:source>Another Slice of H.A.M.</xliff:source>
-        <xliff:target state="translated">もう１枚のH.A.M.</xliff:target>
+        <xliff:target state="translated">もう１スライスのH.A.M</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -6667,7 +6667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110101">
         <xliff:source>Temple of the Eye</xliff:source>
-        <xliff:target state="translated">ザ・アイの寺院</xliff:target>
+        <xliff:target state="translated">目の寺院</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -7611,7 +7611,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110219">
         <xliff:source>Bronze Dragons</xliff:source>
-        <xliff:target state="translated">青銅の竜</xliff:target>
+        <xliff:target state="translated">銅の竜</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -7819,7 +7819,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110245">
         <xliff:source>Suqahs</xliff:source>
-        <xliff:target state="translated">スーカ</xliff:target>
+        <xliff:target state="translated">スーカア</xliff:target>
         <xliff:note>category: manual
 sub_category: slayer_mob
 source: None
@@ -10103,7 +10103,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110541"><xliff:source>Player Owned Houses</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110542"><xliff:source>Tithe Farm</xliff:source><xliff:target state="translated">タイス農場</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110542"><xliff:source>Tithe Farm</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110543"><xliff:source>Last Man Standing</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10118,7 +10118,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110546"><xliff:source>Soul Wars</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110547"><xliff:source>Shooting Stars</xliff:source><xliff:target state="translated">流れ星</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110547"><xliff:source>Shooting Stars</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110548"><xliff:source>Tombs of Amascut</xliff:source><xliff:target state="translated">アマスカットの墓</xliff:target><xliff:note>category: manual
@@ -10310,7 +10310,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110610"><xliff:source>Tonsure</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110611"><xliff:source>Short</xliff:source><xliff:target state="translated">短い</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110611"><xliff:source>Short</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110612"><xliff:source>Cropped</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10502,7 +10502,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110674"><xliff:source>Vizier</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110675"><xliff:source>Rimmington</xliff:source><xliff:target state="translated">リミングトン</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110675"><xliff:source>Rimmington</xliff:source><xliff:target state="translated">リミングトンへ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110676"><xliff:source>Taverley</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10511,10 +10511,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110677"><xliff:source>Pollnivneach</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110678"><xliff:source>Rellekka</xliff:source><xliff:target state="translated">レレカ</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110678"><xliff:source>Rellekka</xliff:source><xliff:target state="translated">レレカへ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110679"><xliff:source>Brimhaven</xliff:source><xliff:target state="translated">ブリムヘブン</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110679"><xliff:source>Brimhaven</xliff:source><xliff:target state="translated">ブリムヘブンへ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110680"><xliff:source>Yanille</xliff:source><xliff:target state="translated">ヤニル</xliff:target><xliff:note>category: manual
@@ -10526,10 +10526,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110682"><xliff:source>Prifddinas</xliff:source><xliff:target state="translated">プリフディナス</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110683"><xliff:source>Ardougne</xliff:source><xliff:target state="translated">アルドイン</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110683"><xliff:source>Ardougne</xliff:source><xliff:target state="translated">アルドインへ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110684"><xliff:source>Desert</xliff:source><xliff:target state="translated">砂漠</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110684"><xliff:source>Desert</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110685"><xliff:source>Falador</xliff:source><xliff:target state="translated">ファラドー</xliff:target><xliff:note>category: manual
@@ -10538,13 +10538,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110686"><xliff:source>Fremennik</xliff:source><xliff:target state="translated">フレメニック</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110687"><xliff:source>Kandarin</xliff:source><xliff:target state="translated">カンダリン</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110687"><xliff:source>Kandarin</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110688"><xliff:source>Karamja</xliff:source><xliff:target state="translated">カラムジャ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target state="translated">ランブ…ドレイナー</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110689"><xliff:source>Lumbridge &amp; Draynor</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110690"><xliff:source>Morytania</xliff:source><xliff:target state="translated">モリタニア</xliff:target><xliff:note>category: manual
@@ -10553,13 +10553,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110691"><xliff:source>Varrock</xliff:source><xliff:target state="translated">ヴァロック</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110692"><xliff:source>Western Provinces</xliff:source><xliff:target state="translated">西部地方</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110692"><xliff:source>Western Provinces</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110693"><xliff:source>Wilderness</xliff:source><xliff:target state="translated">ウィルダネス</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110693"><xliff:source>Wilderness</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110694"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target state="translated">クーレンドとケボス</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110694"><xliff:source>Kourend &amp; Kebos</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110695"><xliff:source>Shayzien</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10646,13 +10646,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110722"><xliff:source>Port Phasmatys</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110723"><xliff:source>Port Piscarilius</xliff:source><xliff:target state="translated">ピスカリリウス港</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110723"><xliff:source>Port Piscarilius</xliff:source><xliff:target state="translated">ピスカリリウス港へ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110724"><xliff:source>Piscatoris</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110725"><xliff:source>Port Sarim</xliff:source><xliff:target state="translated">サリム港</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110725"><xliff:source>Port Sarim</xliff:source><xliff:target state="translated">サリム港へ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110726"><xliff:source>Seers' Village</xliff:source><xliff:target state="translated">シアーズ村</xliff:target><xliff:note>category: manual
@@ -10808,7 +10808,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110776"><xliff:source>Jormungand's Prison</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110777"><xliff:source>Darkmeyer</xliff:source><xliff:target state="translated">ダークメヤー</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110777"><xliff:source>Darkmeyer</xliff:source><xliff:target state="translated">ダーク・メヤー</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110778"><xliff:source>Meiyerditch Laboratories</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10928,7 +10928,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110816"><xliff:source>Monestery</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110817"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">遠射ギルド</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110817"><xliff:source>Ranging Guild</xliff:source><xliff:target state="translated">弓ギルド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110818"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: manual
@@ -10970,7 +10970,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110830"><xliff:source>Farming Guild</xliff:source><xliff:target state="translated">農業ギルド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110831"><xliff:source>Edgeville</xliff:source><xliff:target state="translated">エッジビル</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110831"><xliff:source>Edgeville</xliff:source><xliff:target state="translated">エッジビルへ移動</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110832"><xliff:source>Vision</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -11132,7 +11132,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110884"><xliff:source>Wild Side</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110885"><xliff:source>Wilderness</xliff:source><xliff:target state="translated">ウィルダネス</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110885"><xliff:source>Wilderness</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110886"><xliff:source>Revenants</xliff:source><xliff:target state="translated">幽鬼</xliff:target><xliff:note>category: manual
@@ -11141,7 +11141,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110887"><xliff:source>in the Revenant Caves.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110888"><xliff:source>Wilderness </xliff:source><xliff:target state="translated">ウィルダネス </xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110888"><xliff:source>Wilderness </xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: music
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110889"><xliff:source>Wildwood</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -11498,7 +11498,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111006"><xliff:source>Learn how to equip Ava's ranged devices.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xliff:source>Another Slice of H.A.M.</xliff:source><xliff:target state="translated">もう１枚のH.A.M.</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111007"><xliff:source>Another Slice of H.A.M.</xliff:source><xliff:target state="translated">もう１スライスのH.A.M</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111008"><xliff:source>Learn how to use the Goblin Village teleport spheres.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -12548,7 +12548,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111356"><xliff:source>Gain great Prayer XP.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111357"><xliff:source>Temple of the Eye</xliff:source><xliff:target state="translated">ザ・アイの寺院</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111357"><xliff:source>Temple of the Eye</xliff:source><xliff:target state="translated">目の寺院</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111358"><xliff:source>Gain access to the Guardians of the Rift minigame.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -12902,7 +12902,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111474"><xliff:source>Dwarves</xliff:source><xliff:target state="translated">ドワーフ</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111475"><xliff:source>Bronze Dragons</xliff:source><xliff:target state="translated">青銅の竜</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111475"><xliff:source>Bronze Dragons</xliff:source><xliff:target state="translated">銅の竜</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111476"><xliff:source>Iron Dragons</xliff:source><xliff:target state="translated">鉄の竜</xliff:target><xliff:note>category: manual
@@ -12980,7 +12980,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111500"><xliff:source>Goraks</xliff:source><xliff:target state="translated">ゴラク</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111501"><xliff:source>Suqahs</xliff:source><xliff:target state="translated">スーカ</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111501"><xliff:source>Suqahs</xliff:source><xliff:target state="translated">スーカア</xliff:target><xliff:note>category: manual
 sub_category: slayer_mob
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111502"><xliff:source>Brine Rats</xliff:source><xliff:target state="translated">塩水ネズミ</xliff:target><xliff:note>category: manual
@@ -13816,270 +13816,6 @@ sub_category: varrock_museum
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111779"><xliff:source>Crush Barronite deposits in the ruins of Camdozaal to find relics and hand them in to the curator.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: varrock_museum
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111780"><xliff:source>MQ: Alfred Grimhand's Barcrawl</xliff:source><xliff:target state="translated">アルフレッド・グイムハンドのバー巡り</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111781"><xliff:source>MQ: Bear Your Soul</xliff:source><xliff:target state="translated">魂をさらけ出す</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111782"><xliff:source>MQ: Curse of the Empty Lord</xliff:source><xliff:target state="translated">虚無の主の呪い</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111783"><xliff:source>MQ: Daddy's Home</xliff:source><xliff:target state="translated">父の家</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111784"><xliff:source>MQ: The Enchanted Key</xliff:source><xliff:target state="translated">魔法のカギ</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111785"><xliff:source>MQ: Family Pest</xliff:source><xliff:target state="translated">家族の厄介者</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111786"><xliff:source>MQ: The General's Shadow</xliff:source><xliff:target state="translated">将軍の影</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111787"><xliff:source>MQ: In Search of Knowledge</xliff:source><xliff:target state="translated">知識を求めて</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111788"><xliff:source>MQ: Lair of Tarn Razorlor</xliff:source><xliff:target state="translated">ターン・ラゾローの隠れ家</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111789"><xliff:source>MQ: Mage Arena I</xliff:source><xliff:target state="translated">魔術師アリーナ１</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111790"><xliff:source>MQ: Mage Arena II</xliff:source><xliff:target state="translated">魔術師アリーナ１</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111791"><xliff:source>MQ: Skippy and the Mogres</xliff:source><xliff:target state="translated">スキッピーとモーガ</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111792"><xliff:source>MQ: The Frozen Door</xliff:source><xliff:target state="translated">凍った扉</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111793"><xliff:source>MQ: Hopespear's Will</xliff:source><xliff:target state="translated">ホープスピアの遺言</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111794"><xliff:source>MQ: Into the Tombs</xliff:source><xliff:target state="translated">墓の中へ</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111795"><xliff:source>MQ: His Faithful Servants</xliff:source><xliff:target state="translated">あの方の忠実な従者達</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111796"><xliff:source>MQ: Barbarian Training</xliff:source><xliff:target state="translated">蛮族の訓練</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111797"><xliff:source>Free Quests</xliff:source><xliff:target state="translated">無課金クエスト：</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111798"><xliff:source>Members' Quests</xliff:source><xliff:target state="translated">会員クエスト：</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111799"><xliff:source>Miniquests</xliff:source><xliff:target state="translated">ミニクエスト</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111800"><xliff:source>The Curse of Arrav</xliff:source><xliff:target state="translated">アラヴの呪い</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111801"><xliff:source>Death on the Isle</xliff:source><xliff:target state="translated">島での死</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111802"><xliff:source>Ethically Acquired Antiquities</xliff:source><xliff:target state="translated">倫理的に入手された骨董品</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111803"><xliff:source>The Heart of Darkness</xliff:source><xliff:target state="translated">暗黒の心臓</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111804"><xliff:source>Meat and Greet</xliff:source><xliff:target state="translated">肉とご挨拶</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111805"><xliff:source>A</xliff:source><xliff:target state="translated">A</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111806"><xliff:source>B</xliff:source><xliff:target state="translated">B</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111807"><xliff:source>C</xliff:source><xliff:target state="translated">C</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111808"><xliff:source>D</xliff:source><xliff:target state="translated">D</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111809"><xliff:source>E</xliff:source><xliff:target state="translated">E</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111810"><xliff:source>F</xliff:source><xliff:target state="translated">F</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111811"><xliff:source>G</xliff:source><xliff:target state="translated">G</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111812"><xliff:source>H</xliff:source><xliff:target state="translated">H</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111813"><xliff:source>I</xliff:source><xliff:target state="translated">I</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111814"><xliff:source>J</xliff:source><xliff:target state="translated">J</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111815"><xliff:source>K</xliff:source><xliff:target state="translated">K</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111816"><xliff:source>L</xliff:source><xliff:target state="translated">L</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111817"><xliff:source>M</xliff:source><xliff:target state="translated">M</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111818"><xliff:source>N</xliff:source><xliff:target state="translated">N</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111819"><xliff:source>O</xliff:source><xliff:target state="translated">O</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111820"><xliff:source>P</xliff:source><xliff:target state="translated">P</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111821"><xliff:source>Q</xliff:source><xliff:target state="translated">Q</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111822"><xliff:source>R</xliff:source><xliff:target state="translated">R</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111823"><xliff:source>S</xliff:source><xliff:target state="translated">S</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111824"><xliff:source>T</xliff:source><xliff:target state="translated">T</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111825"><xliff:source>U</xliff:source><xliff:target state="translated">U</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111826"><xliff:source>V</xliff:source><xliff:target state="translated">V</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111827"><xliff:source>W</xliff:source><xliff:target state="translated">W</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111828"><xliff:source>X</xliff:source><xliff:target state="translated">X</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111829"><xliff:source>Y</xliff:source><xliff:target state="translated">Y</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111830"><xliff:source>Z</xliff:source><xliff:target state="translated">Z</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111831"><xliff:source>In Progress</xliff:source><xliff:target state="translated">途中</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111832"><xliff:source>Not Started</xliff:source><xliff:target state="translated">未開始</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111833"><xliff:source>Completed</xliff:source><xliff:target state="translated">完了</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111834"><xliff:source>Novice</xliff:source><xliff:target state="translated">初級</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111835"><xliff:source>Intermediate</xliff:source><xliff:target state="translated">中級</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111836"><xliff:source>Experienced</xliff:source><xliff:target state="translated">上級</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111837"><xliff:source>Master</xliff:source><xliff:target state="translated">達人</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111838"><xliff:source>Grand Master</xliff:source><xliff:target state="translated">師匠</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111839"><xliff:source>Special</xliff:source><xliff:target state="translated">特殊</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111840"><xliff:source>Very Short</xliff:source><xliff:target state="translated">とても短</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111841"><xliff:source>Short</xliff:source><xliff:target state="translated">短い</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111842"><xliff:source>Medium</xliff:source><xliff:target state="translated">普通</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111843"><xliff:source>Long</xliff:source><xliff:target state="translated">長い</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111844"><xliff:source>Very Long</xliff:source><xliff:target state="translated">とても長い</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111845"><xliff:source>Camelot</xliff:source><xliff:target state="translated">カメロット</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111846"><xliff:source>Dorgeshuun</xliff:source><xliff:target state="translated">ドーゲシューン</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111847"><xliff:source>Dragonkin</xliff:source><xliff:target state="translated">ドラゴンキン</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111848"><xliff:source>Elemental Workshop</xliff:source><xliff:target state="translated">エレメント工房</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111849"><xliff:source>Elf</xliff:source><xliff:target state="translated">エルフ</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111850"><xliff:source>Fairytale</xliff:source><xliff:target state="translated">おとぎ話</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111851"><xliff:source>Fremennik</xliff:source><xliff:target state="translated">フレメニック</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111852"><xliff:source>Gnome</xliff:source><xliff:target state="translated">ノーム</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111853"><xliff:source>Kharidian</xliff:source><xliff:target state="translated">カリジア</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111854"><xliff:source>Kourend</xliff:source><xliff:target state="translated">クーレンド</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111855"><xliff:source>Mahjarrat</xliff:source><xliff:target state="translated">マジャラット</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111856"><xliff:source>Miscellania</xliff:source><xliff:target state="translated">ミセラニア</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111857"><xliff:source>Myreque</xliff:source><xliff:target state="translated">マイラーク</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111858"><xliff:source>Order of Wizards</xliff:source><xliff:target state="translated">魔術師団</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111859"><xliff:source>Penguin</xliff:source><xliff:target state="translated">ペンギン</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111860"><xliff:source>Pirate</xliff:source><xliff:target state="translated">海賊</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111861"><xliff:source>Rag and Bone Man</xliff:source><xliff:target state="translated">ぼろきれと骨の男</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111862"><xliff:source>Red Axe</xliff:source><xliff:target state="translated">レッド・アックス</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111863"><xliff:source>Temple Knight</xliff:source><xliff:target state="translated">寺院の騎士</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111864"><xliff:source>Troll</xliff:source><xliff:target state="translated">トロール</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111865"><xliff:source>Twilight Emissaries</xliff:source><xliff:target state="translated">黄昏の使者</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111866"><xliff:source>Standalone</xliff:source><xliff:target state="translated">独自</xliff:target><xliff:note>category: manual
-sub_category: quest
-source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111867"><xliff:source>MQ: Enter the Abyss</xliff:source><xliff:target state="translated">深淵へ</xliff:target><xliff:note>category: manual
-sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>

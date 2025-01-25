@@ -1,7 +1,7 @@
 english	translation	category	sub_category	source
 XP drops	XPドロップ	name	menu	
 Quick-prayers	即行の祈り	name	menu	
-Special Attack	必殺技	name	menu	
+Special Attack	奥義	name	menu	
 Instance Map	インスタンスの地図	name	menu	
 Ground Markers	地面マーカー	name	menu	
 Wiki	ウィキ検索	name	menu	
@@ -14,7 +14,7 @@ Smithing	鍛冶	name	menu
 Defence	守備力	name	menu	
 Herblore	調合	name	menu	
 Fishing	釣り	name	menu	
-Ranged	遠射	name	menu	
+Ranged	弓	name	menu	
 Thieving	盗み	name	menu	
 Cooking	料理	name	menu	
 Prayer	祈り	name	menu	
@@ -77,22 +77,22 @@ Wilderness Elite Diary	ウィルダネスの超級日記	name	menu	achievementDi
 Wilderness Hard Diary	ウィルダネスの上級日記	name	menu	achievementDiaryTab
 Wilderness Medium Diary	ウィルダネスの中級日記	name	menu	achievementDiaryTab
 Wilderness Easy Diary	ウィルダネスの初級日記	name	menu	achievementDiaryTab
-Old School Website	ホームページ	name	menu	accountManagementTab
-Customer Support	サポート	name	menu	accountManagementTab
+Old School Website	オールドスクールのサイト	name	menu	accountManagementTab
+Customer Support	サポートセンタ	name	menu	accountManagementTab
 GrandﾂExchange	グランド・エクスチェンジ	name	menu	accountManagementTab
 Hiscores	ハイスコア	name	menu	accountManagementTab
-Old School Wiki	ウィキサイト	name	menu	accountManagementTab
+Old School Wiki	オールドスクール・ウィキ	name	menu	accountManagementTab
 Merchandise	商品サイト	name	menu	accountManagementTab
 <colNum0>PvP Arena</col> options	<colNum0>PvPアリーナ</col> のオプション	name	menu	groupTab
-Redemption	贖罪	name	menu	prayerTab
+Redemption	しょく罪	name	menu	prayerTab
 Protect Item	アイテム保護	name	menu	prayerTab
 Incredible Reflexes	とてつもない反射神経	name	menu	prayerTab
 Sharp Eye	鋭い目	name	menu	prayerTab
-Mystic Will	神秘的な意思	name	menu	prayerTab
+Mystic Will	神秘の意思	name	menu	prayerTab
 Rock Skin	岩の肌	name	menu	prayerTab
-Protect from Magic	魔法防御	name	menu	prayerTab
-Protect from Missiles	発射体防御	name	menu	prayerTab
-Protect from Melee	近接の加護	name	menu	prayerTab
+Protect from Magic	魔法から守る	name	menu	prayerTab
+Protect from Missiles	発射体から守る	name	menu	prayerTab
+Protect from Melee	近接武器から守る	name	menu	prayerTab
 Thick Skin	厚い肌	name	menu	prayerTab
 Retribution	天罰	name	menu	prayerTab
 Mystic Might	神秘の威力	name	menu	prayerTab
@@ -101,7 +101,7 @@ Piety	敬神	name	menu	prayerTab
 Ultimate Strength	究極の力	name	menu	prayerTab
 Improved Reflexes	向上した反射神経	name	menu	prayerTab
 Burst of Strength	力の爆発	name	menu	prayerTab
-Mystic Lore	神秘的な伝承	name	menu	prayerTab
+Mystic Lore	神秘の伝承	name	menu	prayerTab
 Augury	前兆	name	menu	prayerTab
 Hawk Eye	タカの目	name	menu	prayerTab
 Chivalry	騎士道	name	menu	prayerTab
@@ -143,7 +143,7 @@ Teleport to House	家ワープ	name	menu	spellBookTab
 Crumble Undead	アンデッド崩し	name	menu	spellBookTab
 Iban Blast	アイバン・ブラスト	name	menu	spellBookTab
 Snare	スネア	name	menu	spellBookTab
-Magic Dart	魔法のダーツ	name	menu	spellBookTab
+Magic Dart	魔法ダーツ	name	menu	spellBookTab
 Ardougne Teleport	アルドイン・ワープ	name	menu	spellBookTab
 Earth Blast	アース・ブラスト	name	menu	spellBookTab
 Civitas illa Fortis Teleport	シビリタス・イラ・フォーチス・ワープ	name	menu	spellBookTab
@@ -170,7 +170,7 @@ Fire Wave	ファイヤー・ウェーブ	name	menu	spellBookTab
 Entangle	束縛	name	menu	spellBookTab
 Stun	スタン	name	menu	spellBookTab
 Teleother Camelot	カメロット・他ワープ	name	menu	spellBookTab
-Teleport to Target	標的にワープ	name	menu	spellBookTab
+Teleport to Target	標的へワープ	name	menu	spellBookTab
 Tele Block	ワープ阻止	name	menu	spellBookTab
 Water Surge	ウォーター・サージ	name	menu	spellBookTab
 Teleother Falador	ファラドー・他ワープ	name	menu	spellBookTab
@@ -180,18 +180,18 @@ Earth Surge	アース・サージ	name	menu	spellBookTab
 Fire Surge	ファイヤー・サージ	name	menu	spellBookTab
 Edgeville Home Teleport	エッジビル帰還ワープ	name	menu	spellBookTab
 Smoke Rush	スモーク・ラッシュ	name	menu	spellBookTab
-Shadow Rush	シャドウ・ラッシュ	name	menu	spellBookTab
+Shadow Rush	シャドー・ラッシュ	name	menu	spellBookTab
 PaddewwaﾂTeleport	パデワ・ワープ	name	menu	spellBookTab
 Smoke Burst	スモーク・バースト	name	menu	spellBookTab
 SenntistenﾂTeleport	センチステン・ワープ	name	menu	spellBookTab
 Ice Rush	アイス・ラッシュ	name	menu	spellBookTab
 Blood Rush	ブラッド・ラッシュ	name	menu	spellBookTab
-ShadowﾂBurst	シャドウ・バースト	name	menu	spellBookTab
+ShadowﾂBurst	シャドー・バースト	name	menu	spellBookTab
 KharyrllﾂTeleport	カリール・ワープ	name	menu	spellBookTab
 Blood Burst	ブラッド・バースト	name	menu	spellBookTab
 Ice Burst	アイス・バースト	name	menu	spellBookTab
 DareeyakﾂTeleport	ダリーヤク・ワープ	name	menu	spellBookTab
-ShadowﾂBlitz	シャドウ・ブリッツ	name	menu	spellBookTab
+ShadowﾂBlitz	シャドー・ブリッツ	name	menu	spellBookTab
 Smoke Blitz	スモーク・ブリッツ	name	menu	spellBookTab
 LassarﾂTeleport	ラサー・ワープ	name	menu	spellBookTab
 Blood Blitz	ブラッド・ブリッツ	name	menu	spellBookTab
@@ -199,7 +199,7 @@ Ice Blitz	アイス・ブリッツ	name	menu	spellBookTab
 Carrallanger Teleport	カラランガー・ワープ	name	menu	spellBookTab
 Blood Barrage	ブラッド・バラージ	name	menu	spellBookTab
 Annakarl Teleport	アナカール・ワープ	name	menu	spellBookTab
-ShadowﾂBarrage	シャドウ・バラージ	name	menu	spellBookTab
+ShadowﾂBarrage	シャドー・バラージ	name	menu	spellBookTab
 Smoke Barrage	スモーク・バラージ	name	menu	spellBookTab
 Ice Barrage	アイス・バラージ	name	menu	spellBookTab
 Ghorrock Teleport	ゴロック・ワープ	name	menu	spellBookTab
@@ -209,7 +209,7 @@ Geomancy	ジェオマンシー	name	menu	spellBookTab
 Cure Plant	植物治癒	name	menu	spellBookTab
 Monster Examine	魔獣解析	name	menu	spellBookTab
 NPC Contact	NPC通信	name	menu	spellBookTab
-Cure Other	仲間を治癒	name	menu	spellBookTab
+Cure Other	仲間治癒	name	menu	spellBookTab
 Humidify	加湿	name	menu	spellBookTab
 Moonclan Teleport	ムーンクラン・ワープ	name	menu	spellBookTab
 Tele Group Moonclan	ムーンクラン・集団ワープ	name	menu	spellBookTab
@@ -242,8 +242,8 @@ Recharge Dragonstone	竜石チャージ	name	menu	spellBookTab
 Ice Plateau Teleport	アイス・プラトー・ワープ	name	menu	spellBookTab
 Tele Group Ice Plateau	アイス・プラトー・集団ワープ	name	menu	spellBookTab
 Energy Transfer	力の譲渡	name	menu	spellBookTab
-Heal Other	仲間を回復	name	menu	spellBookTab
-Vengeance Other	復讐・仲間	name	menu	spellBookTab
+Heal Other	他者を回復	name	menu	spellBookTab
+Vengeance Other	復讐・他者	name	menu	spellBookTab
 Vengeance	復讐	name	menu	spellBookTab
 Heal Group	集団回復	name	menu	spellBookTab
 Spellbook Swap	魔導書の切替	name	menu	spellBookTab
@@ -264,13 +264,13 @@ Inferior Demonbane	劣勢・悪魔殺し	name	menu	spellBookTab
 Shadow Veil	影のベール	name	menu	spellBookTab
 Fenkenstrain's Castle Teleport	フェンケンストレイン城・ワープ	name	menu	spellBookTab
 Dark Lure	闇の誘い	name	menu	spellBookTab
-Skeletal Grasp	骨の掌握	name	menu	spellBookTab
+Skeletal Grasp	スケルトン掌握	name	menu	spellBookTab
 Resurrect Superior Ghost	中級ゴースト復活術式	name	menu	spellBookTab
 Resurrect Superior Skeleton	中級スケルトン復活術式	name	menu	spellBookTab
 Resurrect Superior Zombie	中級ゾンビ復活術式	name	menu	spellBookTab
 Mark of Darkness	闇の刻印	name	menu	spellBookTab
 West Ardougne Teleport	西アルドイン・ワープ	name	menu	spellBookTab
-Superior Demonbane	上級悪魔殺し	name	menu	spellBookTab
+Superior Demonbane	優勢	name	menu	spellBookTab
 Lesser Corruption	下位の腐敗	name	menu	spellBookTab
 Harmony Island Teleport	ハーモニー島・ワープ	name	menu	spellBookTab
 Vile Vigour	卑劣な活力	name	menu	spellBookTab
@@ -291,8 +291,8 @@ Greater Corruption	上位の腐敗	name	menu	spellBookTab
 Master Reanimation	超級蘇生術	name	menu	spellBookTab
 Sinister Offering	不吉な供物	name	menu	spellBookTab
 Accurate	正確に	name	menu	combatOptionsTab
-Aggressive	積極的に	name	menu	combatOptionsTab
-Defensive	守備	name	menu	combatOptionsTab
+Aggressive	激しく	name	menu	combatOptionsTab
+Defensive	守りながら	name	menu	combatOptionsTab
 Controlled	バランスよく	name	menu	combatOptionsTab
 Chop	チョップ	name	menu	combatOptionsTab
 Slash	スラッシュ	name	menu	combatOptionsTab
@@ -317,12 +317,3 @@ Bash	激突	name	menu	combatOptionsTab
 Blaze	ブレイズ	name	menu	combatOptionsTab
 Scorch	焦がす	name	menu	combatOptionsTab
 Flare	フレア	name	menu	combatOptionsTab
-Senntisten Teleport	センチステン・ワープ	name	menu	spellBookTab
-Paddewwa Teleport	パデワ・ワープ	name	menu	spellBookTab
-Shadow Burst	シャドウ・バースト	name	menu	spellBookTab
-Kharyrll Teleport	カリール・ワープ	name	menu	spellBookTab
-Dareeyak Teleport	ダリーヤク・ワープ	name	menu	spellBookTab
-Shadow Blitz	シャドウ・ブリッツ	name	menu	spellBookTab
-Lassar Teleport	ラサー・ワープ	name	menu	spellBookTab
-Shadow Barrage	シャドウ・バラージ	name	menu	spellBookTab
-Grand Exchange	グランド・エクスチェンジ	name	menu	accountManagementTab

@@ -3057,9 +3057,9 @@ A tablet containing a magic spell.		examine	item	Bones to bananas
 Boxing ring	ボクシングのリング	examine	item	Boxing ring
 Fencing ring	フェンシングのリング	examine	item	Fencing ring
 Combat ring	対戦リング	examine	item	Combat ring
-Ranging pedestals	遠射のペデスタル	examine	item	Ranging pedestals
+Ranging pedestals	弓のペデスタル	examine	item	Ranging pedestals
 Balance beam	平均台	examine	item	Balance beam
-Boxing glove rack	ボクシングの手袋かけ	examine	item	Glove rack
+Boxing glove rack		examine	item	Glove rack
 Weapons rack	武器のラック	examine	item	Weapons rack
 Extra weapons rack	追加武器のラック	examine	item	Extra weapons rack
 Wooden bed	木製のベッド	examine	item	Wooden bed
@@ -3067,16 +3067,16 @@ Oak bed	樫のベッド	examine	item	Oak bed
 Large oak bed	大きな樫のベッド	examine	item	Large oak bed
 Teak bed	チークのベッド	examine	item	Teak bed
 Large teak bed	大きなチークのベッド	examine	item	Large teak bed
-Mahogany four-poster bed	マホガニーの4柱式ベッド	examine	item	4-poster
-Gilded mahogany four-poster bed	黄金の4柱式ベッド	examine	item	Gilded 4-poster
+Mahogany four-poster bed		examine	item	4-poster
+Gilded mahogany four-poster bed		examine	item	Gilded 4-poster
 Shoe box	下駄箱	examine	item	Shoe box
-Oak chest of drawers	樫の引き出し	examine	item	Oak drawers
-Oak wardrobe (bedroom)	樫のタンス（寝室）	examine	item	Oak wardrobe
-Teak chest of drawers	チークの引き出し	examine	item	Teak drawers
-Teak wardrobe (bedroom)	チークのタンス（寝室）	examine	item	Teak wardrobe
-Mahogany wardrobe (bedroom)	マホガニーのタンス（寝室）	examine	item	Mahogany wardrobe
-Gilded mahogany wardrobe (bedroom)	黄金のタンス（寝室）	examine	item	Gilded wardrobe
-Wooden shaving stand	木製の髭剃りスタンド	examine	item	Shaving stand
+Oak chest of drawers		examine	item	Oak drawers
+Oak wardrobe (bedroom)		examine	item	Oak wardrobe
+Teak chest of drawers		examine	item	Teak drawers
+Teak wardrobe (bedroom)		examine	item	Teak wardrobe
+Mahogany wardrobe (bedroom)		examine	item	Mahogany wardrobe
+Gilded mahogany wardrobe (bedroom)		examine	item	Gilded wardrobe
+Wooden shaving stand		examine	item	Shaving stand
 Oak shaving stand	樫の髭剃りスタンド	examine	item	Oak shaving stand
 Oak dresser	樫のドレッサー	examine	item	Oak dresser
 Teak dresser	チークのドレッサー	examine	item	Teak dresser
@@ -3085,37 +3085,37 @@ Mahogany dresser	マホガニーのドレッサー	examine	item	Mahogany dresser
 Gilded mahogany dresser		examine	item	Gilded dresser
 Oak clock	樫の時計	examine	item	Oak clock
 Teak clock	チークの時計	examine	item	Teak clock
-Gilded mahogany clock	黄金の時計	examine	item	Gilded clock
+Gilded mahogany clock		examine	item	Gilded clock
 Saradomin symbol	サラドミンのシンボル	examine	item	Saradomin symbol
 Symbol of Zamorak	ザモラックの印	examine	item	Zamorak symbol
 Symbol of Guthix	ガシックスの印	examine	item	Guthix symbol
 Icon of Saradomin	サラドミンの肖像	examine	item	Saradomin icon
 Icon of Zamorak	ザモラックの肖像	examine	item	Zamorak icon
 Icon of Guthix	ガシックスの肖像	examine	item	Guthix icon
-Icon of Bob the Cat	ネコのボブの肖像	examine	item	Bob icon
+Icon of Bob the Cat		examine	item	Bob icon
 Oak altar	樫の祭壇	examine	item	Oak altar
 Teak altar	チークの祭壇	examine	item	Teak altar
-Cloth-covered teak altar	布が掛けられた祭壇	examine	item	Cloth-covered altar
-Cloth-covered mahogany altar	布が掛けられたマホガニーの祭壇	examine	item	Mahogany altar
+Cloth-covered teak altar		examine	item	Cloth-covered altar
+Cloth-covered mahogany altar		examine	item	Mahogany altar
 Limestone altar	石灰岩の祭壇	examine	item	Limestone altar
 Marble altar	大理石の祭壇	examine	item	Marble altar
-Gilded marble altar	黄金の祭壇	examine	item	Gilded altar
-Wooden torches (chapel)	木製の松明（チャペル）	examine	item	Wooden torches
-Steel torches (chapel)	鋼鉄の松明（チャペル）	examine	item	Steel torches
+Gilded marble altar		examine	item	Gilded altar
+Wooden torches (chapel)		examine	item	Wooden torches
+Steel torches (chapel)		examine	item	Steel torches
 Steel candlesticks	鋼鉄の燭台	examine	item	Steel candlesticks
 Gold candlesticks	金の燭台	examine	item	Gold candlesticks
-Oak incense burners	樫の香炉	examine	item	Incense burners
-Mahogany incense burners	マホガニーの香炉	examine	item	Mahogany burners
+Oak incense burners		examine	item	Incense burners
+Mahogany incense burners		examine	item	Mahogany burners
 Marble incense burners		examine	item	Marble burners
-Shuttered chapel window	チャペルのシャッターが閉じた窓	examine	item	Shuttered window
-Decorative chapel window	チャペルの装飾された窓	examine	item	Decorative window
-Stained-glass chapel window	チャペルのステンドグラスの窓	examine	item	Stained glass
-Chapel windchimes	チャペルの風鈴	examine	item	Windchimes
-Chapel bells	ベル	examine	item	Bells
-Chapel organ	チャペルのオルガン	examine	item	Organ
-Small chapel statue	チャペルの小さな像	examine	item	Small statues
-Medium chapel statue	チャペルの普通の像	examine	item	Medium statues
-Large chapel statue	チャペルの大きな像	examine	item	Large statues
+Shuttered chapel window		examine	item	Shuttered window
+Decorative chapel window		examine	item	Decorative window
+Stained-glass chapel window		examine	item	Stained glass
+Chapel windchimes		examine	item	Windchimes
+Chapel bells		examine	item	Bells
+Chapel organ		examine	item	Organ
+Small chapel statue		examine	item	Small statues
+Medium chapel statue		examine	item	Medium statues
+Large chapel statue		examine	item	Large statues
 Suit of armour	鎧	examine	item	Suit of armour
 Small portrait	小さな肖像画	examine	item	Small portrait
 Minor slayer monster head		examine	item	Minor head
@@ -3134,33 +3134,33 @@ Teak bell-pull		examine	item	Bell-pull
 Gilded teak bell-pull		examine	item	Posh bell-pull
 Oak wall decoration	樫の壁の装飾	examine	item	Oak decoration
 Teak wall decoration	チークの壁の装飾	examine	item	Teak decoration
-Gilded mahogany wall decoration	黄金の壁の装飾	examine	item	Gilded decoration
-Round wall-mounted shield	装着された丸い盾	examine	item	Round shield
-Square wall-mounted shield	装着された角盾	examine	item	Square shield
+Gilded mahogany wall decoration		examine	item	Gilded decoration
+Round wall-mounted shield		examine	item	Round shield
+Square wall-mounted shield		examine	item	Square shield
 Wall-mounted kite-shield		examine	item	Kite shield
-Wooden dining bench	木製のベンチ	examine	item	Wooden bench
-Oak dining bench	樫のベンチ	examine	item	Oak bench
-Carved oak dining bench	彫刻された樫のベンチ	examine	item	Carved oak bench
+Wooden dining bench		examine	item	Wooden bench
+Oak dining bench		examine	item	Oak bench
+Carved oak dining bench		examine	item	Carved oak bench
 Teak dining bench	チークの食卓用ベンチ	examine	item	Teak dining bench
-Carved teak dining bench	彫刻されたチークのベンチ	examine	item	Carved teak bench
-Mahogany dining bench	マホガニーのベンチ	examine	item	Mahogany bench
-Gilded mahogany dining bench	黄金のベンチ	examine	item	Gilded bench
-Wooden dining table	木製の食卓	examine	item	Wood dining table
+Carved teak dining bench		examine	item	Carved teak bench
+Mahogany dining bench		examine	item	Mahogany bench
+Gilded mahogany dining bench		examine	item	Gilded bench
+Wooden dining table		examine	item	Wood dining table
 Oak dining table	樫の食卓	examine	item	Oak dining table
-Carved oak dining table	彫刻された樫のテーブル	examine	item	Carved oak table
-Teak dining table	チークのテーブル	examine	item	Teak table
-Carved teak dining table	彫刻されたチークのテーブル	examine	item	Carved teak table
-Mahogany dining table	マホガニーのテーブル	examine	item	Mahogany table
-Gilded mahogany and marble table	黄金と大理石のテーブル	examine	item	Opulent table
-Oak dungeon door	樫のドア	examine	item	Oak door
+Carved oak dining table		examine	item	Carved oak table
+Teak dining table		examine	item	Teak table
+Carved teak dining table		examine	item	Carved teak table
+Mahogany dining table		examine	item	Mahogany table
+Gilded mahogany and marble table		examine	item	Opulent table
+Oak dungeon door		examine	item	Oak door
 Steel-plated oak dungeon door		examine	item	Steel-plated door
-Marble dungeon door	大理石のドア	examine	item	Marble door
-Decorative dungeon bloodstain	ダンジョンの装飾の血	examine	item	Decorative blood
-Decorative dungeon pipe	ダンジョンの装飾の管	examine	item	Decorative pipe
-Hanging dungeon skeleton	吊るされたスケルトン	examine	item	Hanging skeleton
-Dungeon candles	ダンジョンのロウソク	examine	item	Candles
-Dungeon torches	ダンジョンの松明	examine	item	Torches
-Dungeon skull torches	頭蓋骨の松明	examine	item	Skull torches
+Marble dungeon door		examine	item	Marble door
+Decorative dungeon bloodstain		examine	item	Decorative blood
+Decorative dungeon pipe		examine	item	Decorative pipe
+Hanging dungeon skeleton		examine	item	Hanging skeleton
+Dungeon candles		examine	item	Candles
+Dungeon torches		examine	item	Torches
+Dungeon skull torches		examine	item	Skull torches
 Skeleton guard	スケルトンの衛兵	examine	item	Skeleton guard
 Guard dog	番犬	examine	item	Guard dog
 Hobgoblin guard	ホブゴブリンの衛兵	examine	item	Hobgoblin guard
@@ -3178,21 +3178,21 @@ Man trap	対人の罠	examine	item	Man trap
 Tangle vine	絡んだツル	examine	item	Tangle vine
 Marble trap	大理石の罠	examine	item	Marble trap
 Teleport trap	ワープの罠	examine	item	Teleport trap
-Wooden dungeon treasure crate	木製の宝箱	examine	item	Wooden crate
-Oak dungeon treasure chest	樫の宝箱	examine	item	Oak chest
-Teak dungeon treasure chest	チークの宝箱	examine	item	Teak chest
-Mahogany dungeon treasure chest	マホガニーの宝箱	examine	item	Mahogany chest
-Magic dungeon treasure chest	マホガニーの宝箱	examine	item	Magic chest
+Wooden dungeon treasure crate		examine	item	Wooden crate
+Oak dungeon treasure chest		examine	item	Oak chest
+Teak dungeon treasure chest		examine	item	Teak chest
+Mahogany dungeon treasure chest		examine	item	Mahogany chest
+Magic dungeon treasure chest		examine	item	Magic chest
 Clay attack stone	粘土の攻撃石	examine	item	Clay attack stone
-Limestone attack stone	石灰岩の攻撃石	examine	item	Attack stone
-Marble attack stone	大理石の攻撃石	examine	item	Marble att. stone
-Lesser magical balance	魔法の平衡1	examine	item	Magical balance 1
-Medium balance	魔法の均衡2	examine	item	Magical balance 2
-Greater magical balance	魔法の平衡3	examine	item	Magical balance 3
-Jester game	道化師ゲーム	examine	item	Jester
-Treasure hunt fairy house	宝探しの妖精の家	examine	item	Treasure hunt
+Limestone attack stone		examine	item	Attack stone
+Marble attack stone		examine	item	Marble att. stone
+Lesser magical balance		examine	item	Magical balance 1
+Medium balance		examine	item	Magical balance 2
+Greater magical balance		examine	item	Magical balance 3
+Jester game		examine	item	Jester
+Treasure hunt fairy house		examine	item	Treasure hunt
 Hangman game	ハングマン・ゲーム	examine	item	Hangman game
-Hoop-and-stick game	輪投げ	examine	item	Hoop and stick
+Hoop-and-stick game		examine	item	Hoop and stick
 Dartboard	ダーツボード	examine	item	Dartboard
 Archery target	アーチェリーの的	examine	item	Archery target
 Oak prize chest	樫の景品入れ	examine	item	Oak prize chest
@@ -3383,7 +3383,7 @@ Infernal chart	地獄の図	examine	item	Infernal chart
 Oak throne	樫の王座	examine	item	Oak throne
 Teak throne	チークの王座	examine	item	Teak throne
 Mahogany throne	マホガニーの王座	examine	item	Mahogany throne
-Gilded mahogany throne	黄金の王座	examine	item	Gilded throne
+Gilded mahogany throne		examine	item	Gilded throne
 Skeleton throne	スケルトンの王座	examine	item	Skeleton throne
 Crystal throne	水晶の王座	examine	item	Crystal throne
 Demonic throne	悪魔の王座	examine	item	Demonic throne
@@ -3393,15 +3393,15 @@ Mahogany lever	マホガニーのレバー	examine	item	Mahogany lever
 Small oak trapdoor		examine	item	Trapdoor
 Small teak trapdoor		examine	item	Trapdoor
 Small mahogany trapdoor		examine	item	Trapdoor
-Throne room floor decoration	王室の床の装飾	examine	item	Floor decoration
-Large trapdoor	落とし戸	examine	item	Trapdoor
+Throne room floor decoration		examine	item	Floor decoration
+Large trapdoor		examine	item	Trapdoor
 Lesser magic cage	下位の魔法のケージ	examine	item	Lesser magic cage
 Greater magic cage	上位の魔法のケージ	examine	item	Greater magic cage
 Wooden workbench	木製の作業台	examine	item	Wooden workbench
 Oak workbench	樫の作業台	examine	item	Oak workbench
-Steel framed workbench	鋼鉄のフレームの作業台	examine	item	Steel framed bench
-Workbench with vice	万力付き作業台	examine	item	Bench with vice
-Workbench with lathe	旋盤付き作業台	examine	item	Bench with lathe
+Steel framed workbench		examine	item	Steel framed bench
+Workbench with vice		examine	item	Bench with vice
+Workbench with lathe		examine	item	Bench with lathe
 Crafting table 1	クラフトテーブル1	examine	item	Crafting table 1
 Crafting table 2	クラフトテーブル2	examine	item	Crafting table 2
 Crafting table 3	クラフトテーブル3	examine	item	Crafting table 3
@@ -3878,22 +3878,22 @@ Quest point cape hood.		examine	item	Quest point hood
 Oak cape rack	樫のマントかけ	examine	item	Oak cape rack
 Teak cape rack	チークのマントかけ	examine	item	Teak cape rack
 Mahogany cape rack	マホガニーのマントかけ	examine	item	Mahogany cape rack
-Gilded mahogany cape rack	黄金のマントかけ	examine	item	Gilded cape rack
+Gilded mahogany cape rack		examine	item	Gilded cape rack
 Marble cape rack	大理石のマントかけ	examine	item	Marble cape rack
-Magic stone cape rack	魔法のマントかけ	examine	item	Magical cape rack
+Magic stone cape rack		examine	item	Magical cape rack
 Oak fancy dress box	樫の仮装衣装ボックス	examine	item	Oak costume box
 Teak fancy dress box	チークの仮装衣装ボックス	examine	item	Teak costume box
 Mahogany fancy dress box	マホガニーの仮装衣装ボックス	examine	item	Mahogany costume box
 Oak armour case	樫の鎧ケース	examine	item	Oak armour case
 Teak armour case	チークの鎧ケース	examine	item	Teak armour case
 Mahogany armour case	マホガニーの鎧ケース	examine	item	Mahogany armour case
-Oak wardrobe (costume room)	樫のタンス（衣装部屋）	examine	item	Oak wardrobe
-Carved oak wardrobe (costume room)	彫刻された樫のタンス（衣装部屋）	examine	item	Carved oak wardrobe
-Teak wardrobe (costume room)	チークのタンス（衣装部屋）	examine	item	Teak wardrobe
-Carved teak wardrobe (costume room)	彫刻されたチークのタンス（衣装部屋）	examine	item	Carved teak wardrobe
-Mahogany wardrobe (costume room)	マホガニーのタンス（衣装部屋）	examine	item	Mahogany wardrobe
-Gilded mahogany wardrobe (costume room)	金色のタンス（衣装部屋）	examine	item	Gilded wardrobe
-Marble wardrobe (costume room)	大理石のタンス（衣装部屋）	examine	item	Marble wardrobe
+Oak wardrobe (costume room)		examine	item	Oak wardrobe
+Carved oak wardrobe (costume room)		examine	item	Carved oak wardrobe
+Teak wardrobe (costume room)		examine	item	Teak wardrobe
+Carved teak wardrobe (costume room)		examine	item	Carved teak wardrobe
+Mahogany wardrobe (costume room)		examine	item	Mahogany wardrobe
+Gilded mahogany wardrobe (costume room)		examine	item	Gilded wardrobe
+Marble wardrobe (costume room)		examine	item	Marble wardrobe
 Oak toy box	樫のおもちゃ箱	examine	item	Oak toy box
 Teak toy box	チークのおもちゃ箱	examine	item	Teak toy box
 Mahogany toy box	マホガニーのおもちゃ箱	examine	item	Mahogany toy box
@@ -4912,21 +4912,21 @@ Mahogany pet house		examine	item	Mahogany house
 Consecrated pet house		examine	item	Consecrated house
 Desecrated pet house		examine	item	Desecrated house
 Natural pet house		examine	item	Nature house
-Grassland pet habitat	ペットの草原の生息地	examine	item	Grassland habitat
-Forest pet habitat	ペットの森の生息地	examine	item	Forest habitat
-Desert pet habitat	ペットの砂漠の生息地	examine	item	Desert habitat
-Polar pet habitat	ペットの極地の生息地	examine	item	Polar habitat
-Volcanic pet habitat	ペットの火山の生息地	examine	item	Volcanic habitat
-Oak pet scratching post	樫の爪かきポスト	examine	item	Oak scratching post
-Teak pet scratching post	チークの爪かきポスト	examine	item	Teak scratching post
-Mahogany pet scratching post	マホガニーの爪かきポスト	examine	item	Mahogany scratching post
-Simple pet arena	初級ペットアリーナ	examine	item	Simple arena
-Advanced pet arena	上級ペットアリーナ	examine	item	Advanced arena
-Glorious pet arena	栄光のペットアリーナ	examine	item	Glorious arena
+Grassland pet habitat		examine	item	Grassland habitat
+Forest pet habitat		examine	item	Forest habitat
+Desert pet habitat		examine	item	Desert habitat
+Polar pet habitat		examine	item	Polar habitat
+Volcanic pet habitat		examine	item	Volcanic habitat
+Oak pet scratching post		examine	item	Oak scratching post
+Teak pet scratching post		examine	item	Teak scratching post
+Mahogany pet scratching post		examine	item	Mahogany scratching post
+Simple pet arena		examine	item	Simple arena
+Advanced pet arena		examine	item	Advanced arena
+Glorious pet arena		examine	item	Glorious arena
 Pet list	ペットの一覧	examine	item	Pet list
-Oak pet feeder	樫のエサ入れ	examine	item	Oak feeder
-Teak pet feeder	チークのエサ入れ	examine	item	Teak feeder
-Mahogany pet feeder	マホガニーのエサ入れ	examine	item	Mahogany feeder
+Oak pet feeder		examine	item	Oak feeder
+Teak pet feeder		examine	item	Teak feeder
+Mahogany pet feeder		examine	item	Mahogany feeder
 A curious device made by goblins.		examine	item	Goblin paint cannon
 A pack containing 100 air runes.		examine	item	Air rune pack
 A pack containing 100 water runes.		examine	item	Water rune pack
@@ -5542,11 +5542,11 @@ A pack containing 100 of each elemental rune.		examine	item	Elemental rune pack
 A pack containing 50 adamant arrows.		examine	item	Adamant arrow pack
 A key stained in the blood of a fallen foe.		examine	item	Bloody key
 This can be used to claim items from vending shrines.		examine	item	Survival token
-STASH units (easy)	隠し場所（初級）	examine	item	Stash units (easy)
-STASH units (medium)	隠し場所（中級）	examine	item	Stash units (medium)
-STASH units (hard)	隠し場所（上級）	examine	item	Stash units (hard)
-STASH units (elite)	隠し場所（超級）	examine	item	Stash units (elite)
-STASH units (master)	隠し場所（達人）	examine	item	Stash units (master)
+STASH units (easy)		examine	item	Stash units (easy)
+STASH units (medium)		examine	item	Stash units (medium)
+STASH units (hard)		examine	item	Stash units (hard)
+STASH units (elite)		examine	item	Stash units (elite)
+STASH units (master)		examine	item	Stash units (master)
 A broken halo with the protection of Saradomin.		examine	item	Saradomin halo (broken)
 A broken halo with the protection of Zamorak.		examine	item	Zamorak halo (broken)
 A broken halo with the protection of Guthix.		examine	item	Guthix halo (broken)
@@ -6191,7 +6191,7 @@ A green salt that, when burned with other salts provides various benefits.		exam
 The crushed rock seems to glow and is cold to the touch.		examine	item	Icy basalt
 The crushed rock seems to glow and is warm to the touch.		examine	item	Stony basalt
 The crushed rock looks like it may react to other materials.		examine	item	Basalt
-Fire of Eternal Light	不滅な光の火	examine	item	Fire of eternal light
+Fire of Eternal Light	栄光の光の火	examine	item	Fire of eternal light
 Fire of Dehumidification	除湿の火	examine	item	Fire of dehumidification
 Fire of Nourishment	滋養の火	examine	item	Fire of nourishment
 Fire of Unseasonal Warmth	季節外れの暖気の火	examine	item	Fire of unseasonal warmth
@@ -6402,7 +6402,7 @@ Adamant platebody with a heraldic design.		examine	item	Adamant platebody (h1)
 Howwwallll!		examine	item	Wolf mask
 A very warm wolf cloak.		examine	item	Wolf cloak
 Boots made for climbing. Nice trim!		examine	item	Climbing boots (g)
-STASH units (beginner)	隠し場所（入門）	examine	item	Stash units (beginner)
+STASH units (beginner)		examine	item	Stash units (beginner)
 That's one ginormous Easter egg.		examine	item	Giant easter egg
 Hippity, hoppity, the Bunnyman is on his way.		examine	item	Bunnyman mask
 Opens Larran's chests in the Wilderness.		examine	item	Larran's key
@@ -8312,103 +8312,3 @@ That pumpkin might be making fun of something.		examine	item	Beige pumpkin (laug
 I completed the Halloween event and all I got was this rather nice shirt.		examine	item	Scarecrow shirt
 Perfectly shaped for showcasing various gourds. You can use this in the garden of your house.		examine	item	Halloween scarecrow
 Perfectly shaped for showcasing various gourds.		examine	item	Scarecrow
-I can use this to claim a reward from King Roald.		examine	item	Certificate
-A swamp coloured pointed snail shell helmet.		examine	item	Pointed myre snelm
-A red and black pointed snail shell helmet.		examine	item	Pointed blood'n'tar snelm
-A muddy yellow coloured pointed snail shell helmet.		examine	item	Pointed ochre snelm
-A moody blue pointed snail shell helmet.		examine	item	Pointed bruise blue snelm
-I can use this to claim a reward from King Roald, if I get the other half.		examine	item	Half certificate
-A strong enough memory can take you back to a familiar place.		examine	item	Crystal of echoes
-A very powerful axe, echoing with power from the past.		examine	item	Echo axe
-A very powerful pickaxe, echoing with power from the past.		examine	item	Echo pickaxe
-A very powerful harpoon, echoing with power from the past.		examine	item	Echo harpoon
-A very powerful harpoon in the colours of the Trailblazer League.		examine	item	Dragon harpoon (or)
-A very powerful pickaxe in the colours of the Trailblazer League.		examine	item	Dragon pickaxe (or)
-A very powerful axe in the colours of the Trailblazer League.		examine	item	Dragon axe (or)
-The magical sword is inactive and requires more ancient shards to regain its power.		examine	item	Arclight (inactive)
-A message from Elias White.		examine	item	Elias' message
-A very old key (Used in The Curse of Arrav quest).		examine	item	Mastaba key
-Some rolled-up plans.		examine	item	Base plans
-A key found in Zemouregal's Fort (Used in The Curse of Arrav quest).		examine	item	Base key
-A canopic jar full of oil.		examine	item	Canopic jar (oil)
-A canopic jar full of oil and dwellberries.		examine	item	Canopic jar (oil and berries)
-A canopic jar full of heart-preserving gloop.		examine	item	Canopic jar (full)
-A card with some sort of code on it.		examine	item	Code key
-A collection of decoder strips.		examine	item	Decoder strips
-Some notes about various Mahjarrat.		examine	item	Mahjarrat notes (a-j)
-The axe of a legendary hero.		examine	item	Arrav's axe
-A rusty yet tough helmet.		examine	item	Zombie helmet
-An old rusty helmet. It needs repairing before it can be used.		examine	item	Broken zombie helmet
-What you have here is some totally worthless dust. Excellent stuff!		examine	item	Dust
-A set containing Raging Echoes boots (t1), Raging Echoes trousers (t1), Raging Echoes top (t1) and Raging Echoes hood (t1).		examine	item	Raging echoes relic hunter (t1) armour set
-A set containing Raging Echoes boots (t2), Raging Echoes trousers (t2), Raging Echoes top (t2) and Raging Echoes hood (t2).		examine	item	Raging echoes relic hunter (t2) armour set
-A set containing Raging Echoes boots (t3), Raging Echoes trousers (t3), Raging Echoes top (t3) and Raging Echoes hood (t3).		examine	item	Raging echoes relic hunter (t3) armour set
-A crystalline dagger.		examine	item	Crystal dagger (perfected)
-A very powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.		examine	item	Infernal harpoon (or)
-A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.		examine	item	Infernal harpoon (uncharged)
-A very powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.		examine	item	Infernal pickaxe (or)
-A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.		examine	item	Infernal pickaxe (uncharged)
-A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.		examine	item	Infernal axe (or)
-A formerly powerful, fiery axe in the colours of the Trailblazer Reloaded League.		examine	item	Infernal axe (uncharged)
-A very powerful harpoon in the colours of the Trailblazer Reloaded League.		examine	item	Dragon harpoon (or)
-A very powerful pickaxe in the colours of the Trailblazer Reloaded League.		examine	item	Dragon pickaxe (or)
-A very powerful axe in the colours of the Trailblazer Reloaded League.		examine	item	Dragon axe (or)
-A perfect pouch for foraging herbs.		examine	item	Forager's pouch
-Just how deep do the Leprechaun's pockets go?		examine	item	Leprechaun's vault
-Allows travel to all banks around Gileinor.		examine	item	Banker's briefcase
-A useful compass for those in search of treasure.		examine	item	Clue compass
-Don't trip!		examine	item	Pocket kingdom
-Is this the true god sword? Or simply a joke replica?		examine	item	The dogsword
-A weapon from a being that truly worships gods.		examine	item	Sunlight spear
-An item from a true devil that tunes into the elements of the world to let you re-conceptualise what weakness even means.		examine	item	Devil's element
-Fires darts with utmost precision.		examine	item	Drygore blowpipe (empty)
-An amulet that originated from the one true monarch of the northern province.		examine	item	Amulet of the monarchs
-A ring only worn by true kings.		examine	item	Emperor ring
-Gloves that bring down the composure of any living being nearby.		examine	item	Gloves of the damned
-A shield that has had over a thousand unique dragons encase it in flame.		examine	item	Thousand-dragon ward
-A powerful crystal blessing that warps the crystalline nature of reality.		examine	item	Crystal blessing
-Two bracers that provide a divine connection to the Sun God.		examine	item	Sunlit bracers
-A powerful Khopesh, imbued with the power of thunder and lightning.		examine	item	Thunder khopesh
-A piece of living nature, with a will for vengeance.		examine	item	Nature's reprisal
-Crystallised, infernal fire swirls within it...		examine	item	Asgarnia echo orb
-Crystallised, queenly rage swirls within it...		examine	item	Desert echo orb
-Crystallised, explosive rage swirls within it...		examine	item	Kandarin echo orb
-Crystallised, stonebound rage swirls within it...		examine	item	Morytania echo orb
-Crystallised, bestial rage swirls within it...		examine	item	Tirannwn echo orb
-Crystallised, draconic rage swirls within it...		examine	item	Wilderness echo orb
-Crystallised, tangled rage swirls within it...		examine	item	Kourend echo orb
-Crystallised, solar rage swirls within it...		examine	item	Varlamore echo orb
-This can be handed to the Sage for a rare item of your choice.		examine	item	Raids megarare voucher
-The headgear of a Raging Echoes relic hunter.		examine	item	Raging echoes hat (t1)
-The coat of a Raging Echoes relic hunter.		examine	item	Raging echoes top (t1)
-The robes of a Raging Echoes relic hunter.		examine	item	Raging echoes robeskirt (t1)
-The boots of a Raging Echoes relic hunter.		examine	item	Raging echoes boots (t1)
-The boots of a raging echo relic hunter.		examine	item	Raging echoes boots (t3)
-The cane of a Raging Echoes relic hunter.		examine	item	Raging echoes cane
-A banner showcasing the colours of Leagues V: Raging Echoes.		examine	item	Raging echoes banner
-Used on a Venator Bow to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Echo venator bow ornament kit
-Virtus mask in the style of Leagues V: Raging Echoes.		examine	item	Echo virtus mask
-Virtus robes in the style of Leagues V: Raging Echoes.		examine	item	Echo virtus robe top
-Used on Virtus robes to decorate them in the style of Leagues V: Raging Echoes.		examine	item	Echo virtus ornament kit
-Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's hood
-Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's robetop
-Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.		examine	item	Echo ahrim's robeskirt
-Used on Ahrim's robes to decorate them in the style of Leagues V: Raging Echoes.		examine	item	Echo ahrim's ornament kit
-A scroll which unlocks the Raging Echoes Home Teleport animation.		examine	item	Echo home teleport scroll
-A scroll which unlocks the Raging Echoes death and respawn animation.		examine	item	Raging echoes death scroll
-A scroll which unlocks the Raging Echoes NPC contact.		examine	item	Raging echoes npc contact scroll
-Used on a Nexus inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes nexus scroll
-Used on a portal inside your Player Owned House to decorate it in the style of Leagues V: Raging Echoes.		examine	item	Raging echoes portal scroll
-A fearsome yet stylish souvenir from Leagues V: Raging Echoes.		examine	item	Raging echoes nexus rug
-A Dragon Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes dragon trophy
-A Rune Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes rune trophy
-An Adamant Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes adamant trophy
-A Mithril Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes mithril trophy
-A Steel Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes steel trophy
-An Iron Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes iron trophy
-A Bronze Trophy awarded for participating in Leagues V: Raging Echoes (27th Nov 2024 to 22nd Jan 2025).		examine	item	Raging echoes bronze trophy
-Won't you come and save me?		examine	item	Present box hat
-Bow wow.		examine	item	Dog disguise
-Warm and cozy.		examine	item	Festive scarf
-Why the big... paws?		examine	item	Dog boots
-Tastefully decorated invitations to a once-in-a-lifetime adoption event!		examine	item	Invitations
