@@ -1570,3 +1570,4 @@ Channel (Varlamore)	転換（ヴァーラモー）	actions	object	Waystone
 Punch	殴る	actions	menu	combatOptionsTab
 Kick	蹴る	actions	menu	combatOptionsTab
 Unarmed	素手	actions	menu	combatOptionsTab
+(Members)	（会員）	actions	item	
