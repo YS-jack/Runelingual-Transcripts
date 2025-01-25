@@ -7780,7 +7780,7 @@ Berserker necklace (or)	Berserker-kjede (or)	name	item	Berserker necklace (or)
 3rd age plateskirt	3. alders plateskjørt	name	item	3rd age plateskirt
 Reward casket (beginner)	Belønningskrin (nybegynner)	name	item	Reward casket (beginner)
 Fremennik kilt	Fremennik kilt	name	item	Fremennik kilt
-Rangers' tights	Avstandsangrepstights	name	item	Rangers' tights
+Rangers' tights	Avstandsstights	name	item	Rangers' tights
 Giant boot	Kjempestøvel	name	item	Giant boot
 Uri's hat	Uris hatt	name	item	Uri's hat
 Gilded coif	Forgylt coif	name	item	Gilded coif
@@ -8074,7 +8074,7 @@ Zamorak halo (l)	Zamorak glorie (l)	name	item	Zamorak halo (l)
 Guthix halo (l)	Guthix halo (l)	name	item	Guthix halo (l)
 Healer hat (l)	Healerhatt (l)	name	item	Healer hat (l)
 Fighter hat (l)	Fighterhatt (l)	name	item	Fighter hat (l)
-Ranger hat (l)	Avstandsangrephatt (l)	name	item	Ranger hat (l)
+Ranger hat (l)	Avstandshatt (l)	name	item	Ranger hat (l)
 Fighter torso (l)	Fighter torso (l)	name	item	Fighter torso (l)
 Penance skirt (l)	Botskjørt (l)	name	item	Penance skirt (l)
 Void knight top (l)	Void ridder topp (l)	name	item	Void knight top (l)
@@ -8084,7 +8084,7 @@ Elite void robe (l)	Elite void kappe (l)	name	item	Elite void robe (l)
 Void knight mace (l)	Ugyldig knight mace (l)	name	item	Void knight mace (l)
 Void knight gloves (l)	Ugyldige ridderhansker (l)	name	item	Void knight gloves (l)
 Void mage helm (l)	Ugyldig magi hjelm (l)	name	item	Void mage helm (l)
-Void ranger helm (l)	Ugyldig Avstandsangrep hjelm (l)	name	item	Void ranger helm (l)
+Void ranger helm (l)	Ugyldig Avstands hjelm (l)	name	item	Void ranger helm (l)
 Void melee helm (l)	Ugyldig nærkampshjel (l)	name	item	Void melee helm (l)
 Avernic defender (l)	Avernisk forsvarer (l)	name	item	Avernic defender (l)
 Trouver parchment	Finn pergament	name	item	Trouver parchment
@@ -8356,7 +8356,7 @@ Mythical max cape	Mytisk max cape	name	item	Mythical max cape
 Mythical max hood	Mytisk max hette	name	item	Mythical max hood
 Warrior path starter kit	Warrior path startsett	name	item	Warrior path starter kit
 Wizard path starter kit	Wizard path startsett	name	item	Wizard path starter kit
-Ranger path starter kit	Avstandsangrep path startsett	name	item	Ranger path starter kit
+Ranger path starter kit	Avstands path startsett	name	item	Ranger path starter kit
 Karamjan monkey	Karamjan-ape	name	item	Karamjan monkey
 Zombie monkey	Zombie-ape	name	item	Zombie monkey
 Maniacal monkey	Maniakal ape	name	item	Maniacal monkey
@@ -8783,7 +8783,7 @@ Elidinis' ward	Elidinis' skjold	name	item	Elidinis' ward
 Sigil of resilience	Sigil av spenst	name	item	Sigil of resilience
 Sigil of consistency	Sigil av konsistens	name	item	Sigil of consistency
 Sigil of the formidable fighter	Sigil av den formidable krigeren	name	item	Sigil of the formidable fighter
-Sigil of the rigorous ranger	Sigil av den strenge avstandsangreperen	name	item	Sigil of the rigorous ranger
+Sigil of the rigorous ranger	Sigil av den strenge Avstandseren	name	item	Sigil of the rigorous ranger
 Sigil of the meticulous mage	Sigil av den grundige magien	name	item	Sigil of the meticulous mage
 Sigil of fortification	Sigil av befestning	name	item	Sigil of fortification
 Sigil of barrows	Sigil av gravbårer	name	item	Sigil of barrows

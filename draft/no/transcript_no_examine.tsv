@@ -16591,7 +16591,7 @@ King Rada I, founder of Great Kourend.	Kong Rada I, grunnlegger av Great Kourend
 An old-looking chest.	En gammel kiste.	examine	object	Chest
 I don't want to eat that...	Jeg vil ikke spise det...	examine	object	Food Pile
 That should keep the monsters at bay.	Det burde holde monstrene i sjakk.	examine	object	Wall
-I can use ranged attacks over this wall.	Jeg kan bruke avstandsangrep over denne veggen.	examine	object	Wall
+I can use ranged attacks over this wall.	Jeg kan bruke Avstands over denne veggen.	examine	object	Wall
 That should keep the monsters at bay for a little longer.	Det burde holde monstrene i sjakk litt lenger.	examine	object	Wall
 It wont last much longer.	Det vil ikke vare mye lenger.	examine	object	Wall
 A protective barricade.	En beskyttende barrikade.	examine	object	Barricade

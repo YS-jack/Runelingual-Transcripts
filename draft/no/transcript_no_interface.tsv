@@ -660,7 +660,7 @@ Members: Convert dragon felling axes		interface	generalUI	skillGuide
 Members: Convert <Num0>rd age felling axes		interface	generalUI	skillGuide
 Members: Ancient Wyvern shield		interface	generalUI	skillGuide
 Members: Zombie axes and helmets		interface	generalUI	skillGuide
-Defence	Beskyttelse	interface	generalUI	skillGuide
+Defence	Forsvar	interface	generalUI	skillGuide
 Members: Slayer helm		interface	generalUI	skillGuide
 Members: Xerician armour (with <Num0> Magic)		interface	generalUI	skillGuide
 Members: Yak-hide		interface	generalUI	skillGuide
@@ -3040,15 +3040,15 @@ You may add friends by using the button below, or by right-clicking on a message
 Account	Bruker	interface	mainTabs	accountManagementTab
 Membership: <Num0> days left	Medlemskap: <Num0> dager igjen	interface	mainTabs	accountManagementTab
 Open Store	Åpne butikk	interface	mainTabs	accountManagementTab
-Bond Pouch	Bondepung	interface	mainTabs	accountManagementTab
-Inbox: <Num0> unread messages	Innboks: <Num0> Uleste meldinger	interface	mainTabs	accountManagementTab
+Bond Pouch	Obligasjonspung	interface	mainTabs	accountManagementTab
+Inbox: <Num0> unread messages	Innboks: <Num0> Uleste	interface	mainTabs	accountManagementTab
 View Inbox	Vis innboks	interface	mainTabs	accountManagementTab
 Name Changer	Navnebytter	interface	mainTabs	accountManagementTab
-Membership: <colNum0>None</col>	Medlemskap: <colNum0>Ingen</col>	interface	mainTabs	accountManagementTab
+Membership: <colNum0>None</col>	Medlemskap: <colNum0>Tom</col>	interface	mainTabs	accountManagementTab
 Upgrade Now	Oppgrader Nå	interface	mainTabs	accountManagementTab
 View Benefits	Vis Fordeler	interface	mainTabs	accountManagementTab
 Community	Fellesskap	interface	mainTabs	accountManagementTab
-Current Poll: <colNum0>Inactive</col>	Nåværende avstemning: <colNum0>Inaktiv</col>	interface	mainTabs	accountManagementTab
+Current Poll: <colNum0>Inactive</col>	Avstemning: <colNum0>Inaktiv</col>	interface	mainTabs	accountManagementTab
 View Poll	Vis avstemning	interface	mainTabs	accountManagementTab
 View History	Vis historie	interface	mainTabs	accountManagementTab
 Latest Update	Siste oppdatering	interface	mainTabs	accountManagementTab
@@ -3067,34 +3067,34 @@ Auto Retaliate (On)	Slå tilbake automatisk (På)	interface	mainTabs	combatOptio
 Auto Retaliate (Off)	Slå tilbake automatisk (Av)	interface	mainTabs	combatOptionsTab
 Special Attack: <Num0>%	Spesialangrep: <Num0>%	interface	mainTabs	combatOptionsTab
 When active your character will automatically fight back if attacked.	Når påskrudd så slår du tilbake automatisk hvis du blir angrepet	interface	mainTabs	combatOptionsTab
-Category: Pickaxe		interface	mainTabs	combatOptionsTab
-Category: Spear		interface	mainTabs	combatOptionsTab
-Category: Axe		interface	mainTabs	combatOptionsTab
-Category: Stab Sword		interface	mainTabs	combatOptionsTab
-Category: Thrown		interface	mainTabs	combatOptionsTab
-Category: Bow		interface	mainTabs	combatOptionsTab
-Category: Crossbow		interface	mainTabs	combatOptionsTab
-Category: Staff		interface	mainTabs	combatOptionsTab
-Category: Powered Staff		interface	mainTabs	combatOptionsTab
-Category: 2h Sword		interface	mainTabs	combatOptionsTab
-Category: Banner		interface	mainTabs	combatOptionsTab
-Category: Blunt		interface	mainTabs	combatOptionsTab
-Category: Bludgeon		interface	mainTabs	combatOptionsTab
-Category: Bulwark		interface	mainTabs	combatOptionsTab
-Category: Claw		interface	mainTabs	combatOptionsTab
-Category: Partisan		interface	mainTabs	combatOptionsTab
-Category: Polearm		interface	mainTabs	combatOptionsTab
-Category: Polestaff		interface	mainTabs	combatOptionsTab
-Category: Scythe		interface	mainTabs	combatOptionsTab
-Category: Slash Sword		interface	mainTabs	combatOptionsTab
-Category: Spiked		interface	mainTabs	combatOptionsTab
-Category: Unarmed		interface	mainTabs	combatOptionsTab
-Category: Whip		interface	mainTabs	combatOptionsTab
-Category: Chinchompas		interface	mainTabs	combatOptionsTab
-Category: Gun		interface	mainTabs	combatOptionsTab
-Category: Bladed Staff		interface	mainTabs	combatOptionsTab
-Category: Salamander		interface	mainTabs	combatOptionsTab
-Category: Multi-style		interface	mainTabs	combatOptionsTab
+Category: Pickaxe	Kategori: Hakke	interface	mainTabs	combatOptionsTab
+Category: Spear	Kategori: Spyd	interface	mainTabs	combatOptionsTab
+Category: Axe	Kategori: Øks	interface	mainTabs	combatOptionsTab
+Category: Stab Sword	Kategori: Stikkesverd	interface	mainTabs	combatOptionsTab
+Category: Thrown	Kategori: Kasting	interface	mainTabs	combatOptionsTab
+Category: Bow	Kategori: Bue	interface	mainTabs	combatOptionsTab
+Category: Crossbow	Kategori: Armbrøst	interface	mainTabs	combatOptionsTab
+Category: Staff	Kategori: Stav	interface	mainTabs	combatOptionsTab
+Category: Powered Staff	Kategori: Ladet stav	interface	mainTabs	combatOptionsTab
+Category: 2h Sword	Kategori: 2h Sverd	interface	mainTabs	combatOptionsTab
+Category: Banner	Kategori: Banner	interface	mainTabs	combatOptionsTab
+Category: Blunt	Kategori: Stump	interface	mainTabs	combatOptionsTab
+Category: Bludgeon	Kategori: Bludgeon	interface	mainTabs	combatOptionsTab
+Category: Bulwark	Kategori: Bolverk	interface	mainTabs	combatOptionsTab
+Category: Claw	Kategori: Klo	interface	mainTabs	combatOptionsTab
+Category: Partisan	Kategori: Partisan	interface	mainTabs	combatOptionsTab
+Category: Polearm	Kategori: Polarm	interface	mainTabs	combatOptionsTab
+Category: Polestaff	Kategori: Polstav	interface	mainTabs	combatOptionsTab
+Category: Scythe	Kategori: Ljå	interface	mainTabs	combatOptionsTab
+Category: Slash Sword	Kategori: Slashesverd	interface	mainTabs	combatOptionsTab
+Category: Spiked	Kategori: Pigget	interface	mainTabs	combatOptionsTab
+Category: Unarmed	Kategori: Uarmert	interface	mainTabs	combatOptionsTab
+Category: Whip	Kategori: Pisk	interface	mainTabs	combatOptionsTab
+Category: Chinchompas	Kategori: Chinchompa	interface	mainTabs	combatOptionsTab
+Category: Gun	Kategori: Pistol	interface	mainTabs	combatOptionsTab
+Category: Bladed Staff	Kategori: Stav med blader	interface	mainTabs	combatOptionsTab
+Category: Salamander	Kategori: Salamander	interface	mainTabs	combatOptionsTab
+Category: Multi-style	Kategori: Fler stiler	interface	mainTabs	combatOptionsTab
 (Accurate) (Stab) (Attack XP)	(Nøyaktig) (Stikk) (Angrepsxp)	interface	mainTabs	combatOptionsTab
 (Accurate) (Stab) (Strength XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Stab) (Defence XP)		interface	mainTabs	combatOptionsTab
@@ -3193,15 +3193,15 @@ Category: Multi-style		interface	mainTabs	combatOptionsTab
 (Aggressive) (Standard) (Crush) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Stab) (Attack XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Stab) (Strength XP)		interface	mainTabs	combatOptionsTab
-(Defensive) (Stab) (Defence XP)	(Defensiv) (Stikk) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Defence XP)	(Defensiv) (Stikk) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 (Defensive) (Stab) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Slash) (Attack XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Slash) (Strength XP)		interface	mainTabs	combatOptionsTab
-(Defensive) (Slash) (Defence XP)	(Defensiv) (Slash) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Defence XP)	(Defensiv) (Slash) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 (Defensive) (Slash) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Crush) (Attack XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Crush) (Strength XP)		interface	mainTabs	combatOptionsTab
-(Defensive) (Crush) (Defence XP)	(Defensiv) (Knus) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Defence XP)	(Defensiv) (Knus) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 (Defensive) (Crush) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Heavy) (Stab) (Attack XP)		interface	mainTabs	combatOptionsTab
 (Defensive) (Heavy) (Stab) (Strength XP)		interface	mainTabs	combatOptionsTab
@@ -3287,42 +3287,42 @@ Category: Multi-style		interface	mainTabs	combatOptionsTab
 (Controlled) (Standard) (Crush) (Strength XP)		interface	mainTabs	combatOptionsTab
 (Controlled) (Standard) (Crush) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Controlled) (Standard) (Crush) (Shared XP)		interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Ranged XP)	(Nøyaktig) (Lett) (Avstandsangrepsxp)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP)	(Nøyaktig) (Lett) (Avstandssxp)	interface	mainTabs	combatOptionsTab
 (Accurate) (Light) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Light) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Light) (Ranged XP) (Defence XP)		interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Ranged XP)	(Nøyaktig) (Standard) (Avstandsangrepsxp)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP)	(Nøyaktig) (Standard) (Avstandssxp)	interface	mainTabs	combatOptionsTab
 (Accurate) (Standard) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Standard) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Standard) (Ranged XP) (Defence XP)		interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Ranged XP)	(Nøyaktig) (Tung) (Avstandsangrepsxp)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP)	(Nøyaktig) (Tung) (Avstandssxp)	interface	mainTabs	combatOptionsTab
 (Accurate) (Heavy) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Heavy) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Heavy) (Ranged XP) (Defence XP)		interface	mainTabs	combatOptionsTab
-(Rapid) (Light) (Ranged XP)	(Hurtig) (Lett) (Avstandsangrepsxp)	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP)	(Hurtig) (Lett) (Avstandssxp)	interface	mainTabs	combatOptionsTab
 (Rapid) (Light) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Rapid) (Light) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Rapid) (Light) (Ranged XP) (Defence XP)		interface	mainTabs	combatOptionsTab
-(Rapid) (Standard) (Ranged XP)	(Hurtig) (Standard) (Avstandsangrepsxp)	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP)	(Hurtig) (Standard) (Avstandssxp)	interface	mainTabs	combatOptionsTab
 (Rapid) (Standard) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Rapid) (Standard) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Rapid) (Standard) (Ranged XP) (Defence XP)		interface	mainTabs	combatOptionsTab
-(Rapid) (Heavy) (Ranged XP)	(Hurtig) (Tung) (Avstandsangrepsxp)	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP)	(Hurtig) (Tung) (Avstandssxp)	interface	mainTabs	combatOptionsTab
 (Rapid) (Heavy) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Rapid) (Heavy) (Shared XP)		interface	mainTabs	combatOptionsTab
 (Rapid) (Heavy) (Ranged XP) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Light) (Ranged XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Light) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Light) (Shared XP)		interface	mainTabs	combatOptionsTab
-(Longrange) (Light) (Ranged XP) (Defence XP)	(Langavstand) (Lett) (Avstandsangrepsxp) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP) (Defence XP)	(Langavstand) (Lett) (Avstandssxp) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 (Longrange) (Standard) (Ranged XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Standard) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Standard) (Shared XP)		interface	mainTabs	combatOptionsTab
-(Longrange) (Standard) (Ranged XP) (Defence XP)	(Langavstand) (Standard) (Avstandsangrepsxp) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP) (Defence XP)	(Langavstand) (Standard) (Avstandssxp) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 (Longrange) (Heavy) (Ranged XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Heavy) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Heavy) (Shared XP)		interface	mainTabs	combatOptionsTab
-(Longrange) (Heavy) (Ranged XP) (Defence XP)	(Langavstand) (Tung) (Avstandsangrepsxp) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP) (Defence XP)	(Langavstand) (Tung) (Avstandssxp) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 (Accurate) (Magic XP)	(Nøyaktig) (Trolldomsxp)	interface	mainTabs	combatOptionsTab
 (Accurate) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Accurate) (Shared XP)		interface	mainTabs	combatOptionsTab
@@ -3330,7 +3330,7 @@ Category: Multi-style		interface	mainTabs	combatOptionsTab
 (Longrange) (Magic XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Defence XP)		interface	mainTabs	combatOptionsTab
 (Longrange) (Shared XP)		interface	mainTabs	combatOptionsTab
-(Longrange) (Magic XP) (Defence XP)	(Langavstand) (Trolldomsxp) (Beskyttelsesxp)	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP) (Defence XP)	(Langavstand) (Trolldomsxp) (Forsvarsxp)	interface	mainTabs	combatOptionsTab
 Accurate	Nøyaktig	interface	mainTabs	combatOptionsTab
 Aggressive	Aggressiv	interface	mainTabs	combatOptionsTab
 Defensive	Defensive	interface	mainTabs	combatOptionsTab
@@ -3516,8 +3516,8 @@ Mining XP:	Hakkexp:	interface	mainTabs	skillsTab
 Smithing XP:	Smiingxp:	interface	mainTabs	skillsTab
 Agility XP:	Smidighetsxp:	interface	mainTabs	skillsTab
 Strength XP:	Styrkexp:	interface	mainTabs	skillsTab
-Defence XP:	Beskyttelsesxp:	interface	mainTabs	skillsTab
-Ranged XP:	Avstandsangrepsxp:	interface	mainTabs	skillsTab
+Defence XP:	Forsvarsxp:	interface	mainTabs	skillsTab
+Ranged XP:	Avstandsxp:	interface	mainTabs	skillsTab
 Prayer XP:	Bønnexp:	interface	mainTabs	skillsTab
 Magic XP:	Trolldomsxp:	interface	mainTabs	skillsTab
 Runecraft XP:	Runelagingsxp:	interface	mainTabs	skillsTab
@@ -3527,185 +3527,185 @@ Slayer XP:	Slaktexp:	interface	mainTabs	skillsTab
 Fletching XP:	Pilflettingxp:	interface	mainTabs	skillsTab
 Crafting XP:	Håndverkxp:	interface	mainTabs	skillsTab
 Thieving XP:	Tyverixp:	interface	mainTabs	skillsTab
-Herblore XP:	Drikkebryggxp:	interface	mainTabs	skillsTab
+Herblore XP:	Bryggexp:	interface	mainTabs	skillsTab
 Fishing XP:	Fiskexp:	interface	mainTabs	skillsTab
 Cooking XP:	Matlagingsxp:	interface	mainTabs	skillsTab
 Firemaking XP:	Brannlagingxp:	interface	mainTabs	skillsTab
 Woodcutting XP:	Trehuggingxp:	interface	mainTabs	skillsTab
 Farming XP:	Jordbrukxp:	interface	mainTabs	skillsTab
 Total XP:	Total xp:	interface	mainTabs	skillsTab
-Next level at:	Neste level på:	interface	mainTabs	skillsTab
-Remaining XP:	Gjenværende xp:	interface	mainTabs	skillsTab
+Next level at:	Neste level:	interface	mainTabs	skillsTab
+Remaining XP:	Xp til lvl:	interface	mainTabs	skillsTab
 Filters	Filtre	interface	mainTabs	spellBookTab
 Lumbridge Home Teleport	Lumbridge teleport hjem	interface	mainTabs	spellBookTab
 Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.	Krever ingen runes - oppladingstid <Num0> minutter. Advarsel: Denne tar lang tid å bruke og vil bli forstyrret av kamp.	interface	mainTabs	spellBookTab
 Level <Num0>: Wind Strike	Level <Num0> Vindslag:	interface	mainTabs	spellBookTab
 A basic Air missile	En enkel luftmissil	interface	mainTabs	spellBookTab
-Crossbow Bolt Enchantments		interface	mainTabs	spellBookTab
-View the various crossbow bolt enchantment spells (<Num0>+ Magic required)		interface	mainTabs	spellBookTab
-Level <Num0>: Water Strike		interface	mainTabs	spellBookTab
-A basic Water missile		interface	mainTabs	spellBookTab
-Jewellery Enchantments		interface	mainTabs	spellBookTab
-View the various jewellery enchantment spells (<Num0>+ Magic required)		interface	mainTabs	spellBookTab
-Level <Num0>: Earth Strike		interface	mainTabs	spellBookTab
-A basic Earth missile		interface	mainTabs	spellBookTab
-Level <Num0>: Weaken		interface	mainTabs	spellBookTab
-Reduces your opponent's strength by <Num0>%		interface	mainTabs	spellBookTab
-Level <Num0>: Low Level Alchemy		interface	mainTabs	spellBookTab
-Converts an item into gold		interface	mainTabs	spellBookTab
-Level <Num0>: Telekinetic Grab		interface	mainTabs	spellBookTab
-Take an item you can see but can't reach		interface	mainTabs	spellBookTab
-Level <Num0>: Bind		interface	mainTabs	spellBookTab
-Holds your opponent for <Num0> seconds		interface	mainTabs	spellBookTab
-Level <Num0>: Curse		interface	mainTabs	spellBookTab
-Reduces your opponent's defence by <Num0>%		interface	mainTabs	spellBookTab
-Level <Num0>: Wind Bolt		interface	mainTabs	spellBookTab
-A low level Air missile		interface	mainTabs	spellBookTab
-Level <Num0>: Bones to Bananas		interface	mainTabs	spellBookTab
-Changes held bones into bananas		interface	mainTabs	spellBookTab
-Level <Num0>: Fire Strike		interface	mainTabs	spellBookTab
-A basic Fire missile		interface	mainTabs	spellBookTab
-Level <Num0>: Water Bolt		interface	mainTabs	spellBookTab
-A low level Water missile		interface	mainTabs	spellBookTab
-Level <Num0>: Varrock Teleport		interface	mainTabs	spellBookTab
-Teleports you to Varrock		interface	mainTabs	spellBookTab
-Level <Num0>: Earth Bolt		interface	mainTabs	spellBookTab
-A low level Earth missile		interface	mainTabs	spellBookTab
+Crossbow Bolt Enchantments	Fortryll armbrøstbolt	interface	mainTabs	spellBookTab
+View the various crossbow bolt enchantment spells (<Num0>+ Magic required)	Vis de forskjellige boltefortryllingene (Krever <Num0> + trolldom)	interface	mainTabs	spellBookTab
+Level <Num0>: Water Strike	Level <Num0> Vannslag:	interface	mainTabs	spellBookTab
+A basic Water missile	En enkel vannmissil	interface	mainTabs	spellBookTab
+Jewellery Enchantments	Smykkefortryllelser	interface	mainTabs	spellBookTab
+View the various jewellery enchantment spells (<Num0>+ Magic required)	Vis de forskjellige smykkefortrillingene (Krever <Num0>+ trolldom)	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Strike	Level <Num0> Jordslag:	interface	mainTabs	spellBookTab
+A basic Earth missile	En enkel jordmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Weaken	Level <Num0> Svekke	interface	mainTabs	spellBookTab
+Reduces your opponent's strength by <Num0>%	Reduserer motstanderens styrke med <Num0>%	interface	mainTabs	spellBookTab
+Level <Num0>: Low Level Alchemy	Level <Num0>: Lavnivå Alkemi	interface	mainTabs	spellBookTab
+Converts an item into gold	Gjør en ting om til gull	interface	mainTabs	spellBookTab
+Level <Num0>: Telekinetic Grab	Level <Num0>: Telekinetisk gripetak	interface	mainTabs	spellBookTab
+Take an item you can see but can't reach	Ta en ting du kan se men ikke nå	interface	mainTabs	spellBookTab
+Level <Num0>: Bind	Level <Num0>: Trollbind	interface	mainTabs	spellBookTab
+Holds your opponent for <Num0> seconds	Holder motstanderen I <Num0> sekunder	interface	mainTabs	spellBookTab
+Level <Num0>: Curse	Level <Num0>: Forbann	interface	mainTabs	spellBookTab
+Reduces your opponent's defence by <Num0>%	Reduserer motstanderens forsvar med <Num0>%	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Bolt	Level <Num0>: Vindbolt	interface	mainTabs	spellBookTab
+A low level Air missile	En lavnivå luftmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Bones to Bananas	Level <Num0>: Bein til bananer	interface	mainTabs	spellBookTab
+Changes held bones into bananas	Gjør beinene du har I sekken om til bananer	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Strike	Level <Num0>: Flammeslag	interface	mainTabs	spellBookTab
+A basic Fire missile	En enkel flammemissil	interface	mainTabs	spellBookTab
+Level <Num0>: Water Bolt	Level <Num0>: Vannbolt	interface	mainTabs	spellBookTab
+A low level Water missile	En lavnivå vannmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Varrock Teleport	Level <Num0>: Varrock Teleport	interface	mainTabs	spellBookTab
+Teleports you to Varrock	Teleporterer deg til Varrock	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Bolt	Level <Num0>: Jordbolt	interface	mainTabs	spellBookTab
+A low level Earth missile	En lavnivå jordmissil	interface	mainTabs	spellBookTab
 Level <Num0>: Lumbridge Teleport		interface	mainTabs	spellBookTab
-Teleports you to Lumbridge		interface	mainTabs	spellBookTab
-Level <Num0>: Fire Bolt		interface	mainTabs	spellBookTab
-A low level Fire missile		interface	mainTabs	spellBookTab
+Teleports you to Lumbridge	Teleporterer deg til Lumbridge	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Bolt	Level <Num0>: Flammebolt	interface	mainTabs	spellBookTab
+A low level Fire missile	En lavnivå flammemissil	interface	mainTabs	spellBookTab
 Level <Num0>: Falador Teleport		interface	mainTabs	spellBookTab
-Teleports you to Falador		interface	mainTabs	spellBookTab
-Level <Num0>: Crumble Undead		interface	mainTabs	spellBookTab
-Hits skeletons, ghosts, shades & zombies hard		interface	mainTabs	spellBookTab
-Level <Num0>: Iban Blast		interface	mainTabs	spellBookTab
-Summons the wrath of Iban		interface	mainTabs	spellBookTab
-Level <Num0>: Kourend Castle Teleport		interface	mainTabs	spellBookTab
-Teleports you to Kourend Castle		interface	mainTabs	spellBookTab
-Level <Num0>: Water Blast		interface	mainTabs	spellBookTab
-A medium level Water missile		interface	mainTabs	spellBookTab
+Teleports you to Falador	Teleporterer deg til Falador	interface	mainTabs	spellBookTab
+Level <Num0>: Crumble Undead	Level <Num0>: Smuldre vandøde	interface	mainTabs	spellBookTab
+Hits skeletons, ghosts, shades & zombies hard	Treffer skjeletter, spøkelser, skygger og zombier hardt	interface	mainTabs	spellBookTab
+Level <Num0>: Iban Blast	Level <Num0>: Ibans Sprengning	interface	mainTabs	spellBookTab
+Summons the wrath of Iban	Innkaller vreden til Iban	interface	mainTabs	spellBookTab
+Level <Num0>: Kourend Castle Teleport	Level <Num0>: Kourend Slottsteleport	interface	mainTabs	spellBookTab
+Teleports you to Kourend Castle	Teleporterer deg til Kourend Slott	interface	mainTabs	spellBookTab
+Level <Num0>: Water Blast	Level <Num0>: Vannsprengning	interface	mainTabs	spellBookTab
+A medium level Water missile	En mediumnivå vannmissil	interface	mainTabs	spellBookTab
 Level <Num0>: Camelot Teleport		interface	mainTabs	spellBookTab
-Teleports you to Camelot		interface	mainTabs	spellBookTab
-Level <Num0>: Superheat Item		interface	mainTabs	spellBookTab
-Smelt ore without a furnace		interface	mainTabs	spellBookTab
-Level <Num0>: Wind Blast		interface	mainTabs	spellBookTab
-A medium level Air missile		interface	mainTabs	spellBookTab
-Level <Num0>: Teleport to House		interface	mainTabs	spellBookTab
-Teleports you to your house		interface	mainTabs	spellBookTab
-Level <Num0>: Snare		interface	mainTabs	spellBookTab
-Level <Num0>: Magic Dart		interface	mainTabs	spellBookTab
-A magic dart of slaying		interface	mainTabs	spellBookTab
+Teleports you to Camelot	Teleporterer deg til Camelot	interface	mainTabs	spellBookTab
+Level <Num0>: Superheat Item	Level <Num0>: Overopphet ting	interface	mainTabs	spellBookTab
+Smelt ore without a furnace	Smelter malm uten en ovn	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Blast	Level <Num0>: Vindsprengning	interface	mainTabs	spellBookTab
+A medium level Air missile	En mediumnivå vindmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Teleport to House	Level <Num0>: Teleporter til Hus	interface	mainTabs	spellBookTab
+Teleports you to your house	Teleporterer deg til huset ditt	interface	mainTabs	spellBookTab
+Level <Num0>: Snare	Level <Num0>: Felle	interface	mainTabs	spellBookTab
+Level <Num0>: Magic Dart	Level <Num0>: Magisk Dart	interface	mainTabs	spellBookTab
+A magic dart of slaying	En magisk dart for slakting	interface	mainTabs	spellBookTab
 Level <Num0>: Ardougne Teleport		interface	mainTabs	spellBookTab
-Teleports you to Ardougne		interface	mainTabs	spellBookTab
-Level <Num0>: Earth Blast		interface	mainTabs	spellBookTab
-A medium level Earth missile		interface	mainTabs	spellBookTab
+Teleports you to Ardougne	Teleporterer deg til Ardougne	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Blast	Level <Num0>: Jordsprengning	interface	mainTabs	spellBookTab
+A medium level Earth missile	En mediumnivå jordmissil	interface	mainTabs	spellBookTab
 Level <Num0>: Civitas illa Fortis Teleport		interface	mainTabs	spellBookTab
-Teleports you to Civitas illa Fortis		interface	mainTabs	spellBookTab
-Level <Num0>: High Level Alchemy		interface	mainTabs	spellBookTab
-Converts an item into more gold		interface	mainTabs	spellBookTab
-Level <Num0>: Charge Water Orb		interface	mainTabs	spellBookTab
-Needs to be cast on a water obelisk		interface	mainTabs	spellBookTab
-Level <Num0>: Flames of Zamorak		interface	mainTabs	spellBookTab
-Summons the power of Zamorak		interface	mainTabs	spellBookTab
-Level <Num0>: Claws of Guthix		interface	mainTabs	spellBookTab
-Summons the power of Guthix		interface	mainTabs	spellBookTab
-Level <Num0>: Saradomin Strike		interface	mainTabs	spellBookTab
-Summons the power of Saradomin		interface	mainTabs	spellBookTab
-Level <Num0>: Bones to Peaches		interface	mainTabs	spellBookTab
-Turns Bones into Peaches		interface	mainTabs	spellBookTab
-Level <Num0>: Charge Earth Orb		interface	mainTabs	spellBookTab
-Needs to be cast on an earth obelisk		interface	mainTabs	spellBookTab
-Level <Num0>: Fire Blast		interface	mainTabs	spellBookTab
-A medium level Fire missile		interface	mainTabs	spellBookTab
-Level <Num0>: Watchtower Teleport		interface	mainTabs	spellBookTab
-Teleports you to the Watchtower		interface	mainTabs	spellBookTab
+Teleports you to Civitas illa Fortis	Teleporterer deg til Civitas illa Fortis	interface	mainTabs	spellBookTab
+Level <Num0>: High Level Alchemy	Level <Num0>: Høynivå Alkemi	interface	mainTabs	spellBookTab
+Converts an item into more gold	Gjør en ting om til mer gull	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Water Orb	Level <Num0>: Lad vannkule	interface	mainTabs	spellBookTab
+Needs to be cast on a water obelisk	Må kastes på en vannobelisk	interface	mainTabs	spellBookTab
+Level <Num0>: Flames of Zamorak	Level <Num0>: Flammene til Zamorak	interface	mainTabs	spellBookTab
+Summons the power of Zamorak	Innkaller kreftene til Zamorak	interface	mainTabs	spellBookTab
+Level <Num0>: Claws of Guthix	Level <Num0>: Klørne til Guthix	interface	mainTabs	spellBookTab
+Summons the power of Guthix	Innkaller kreftene til Guthix	interface	mainTabs	spellBookTab
+Level <Num0>: Saradomin Strike	Level <Num0>: Saradomins Slag	interface	mainTabs	spellBookTab
+Summons the power of Saradomin	Innkaller kreftene til Saradomin	interface	mainTabs	spellBookTab
+Level <Num0>: Bones to Peaches	Level <Num0> Bein til Fersken	interface	mainTabs	spellBookTab
+Turns Bones into Peaches	Gjør beinene du har i sekken om til fersken	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Earth Orb	Level <Num0>: Lad jordkule	interface	mainTabs	spellBookTab
+Needs to be cast on an earth obelisk	Må kastes på en jordobelisk	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Blast	Level <Num0>: Flammesprengning	interface	mainTabs	spellBookTab
+A medium level Fire missile	En mediumnivå flammemissil	interface	mainTabs	spellBookTab
+Level <Num0>: Watchtower Teleport	Level <Num0>: Vakttårnteleport	interface	mainTabs	spellBookTab
+Teleports you to the Watchtower	Teleporterer deg til Vakttårnet	interface	mainTabs	spellBookTab
 Level <Num0>: Trollheim Teleport		interface	mainTabs	spellBookTab
-Teleports you to Trollheim		interface	mainTabs	spellBookTab
-Level <Num0>: Wind Wave		interface	mainTabs	spellBookTab
-A high level Air missile		interface	mainTabs	spellBookTab
-Level <Num0>: Charge Fire Orb		interface	mainTabs	spellBookTab
-Needs to be cast on a fire obelisk		interface	mainTabs	spellBookTab
+Teleports you to Trollheim	Teleporterer deg til Trollheim	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Wave	Level <Num0>: Vindbølge	interface	mainTabs	spellBookTab
+A high level Air missile	En høynivå luftmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Fire Orb	Level <Num0>: Lad flammekule	interface	mainTabs	spellBookTab
+Needs to be cast on a fire obelisk	Må kastes på en flammeobelisk	interface	mainTabs	spellBookTab
 Level <Num0>: Ape Atoll Teleport		interface	mainTabs	spellBookTab
-Teleports you to Ape Atoll		interface	mainTabs	spellBookTab
-Level <Num0>: Water Wave		interface	mainTabs	spellBookTab
-A high level Water missile		interface	mainTabs	spellBookTab
-Level <Num0>: Charge Air Orb		interface	mainTabs	spellBookTab
-Needs to be cast on an air obelisk		interface	mainTabs	spellBookTab
-Level <Num0>: Vulnerability		interface	mainTabs	spellBookTab
-Level <Num0>: Charge		interface	mainTabs	spellBookTab
-Temporarily increases the power of the three arena spells when wearing Mage Arena capes		interface	mainTabs	spellBookTab
-Level <Num0>: Stun		interface	mainTabs	spellBookTab
-Reduces your opponent's attack by <Num0>%		interface	mainTabs	spellBookTab
-Level <Num0>: Entangle		interface	mainTabs	spellBookTab
-Level <Num0>: Fire Wave		interface	mainTabs	spellBookTab
-A high level Fire missile		interface	mainTabs	spellBookTab
-Level <Num0>: Teleother Lumbridge		interface	mainTabs	spellBookTab
-Teleports target to Lumbridge		interface	mainTabs	spellBookTab
-Level <Num0>: Enfeeble		interface	mainTabs	spellBookTab
-Level <Num0>: Earth Wave		interface	mainTabs	spellBookTab
-A high level Earth missile		interface	mainTabs	spellBookTab
-Level <Num0>: Wind Surge		interface	mainTabs	spellBookTab
-A very high level Air missile		interface	mainTabs	spellBookTab
-Level <Num0>: Teleother Falador		interface	mainTabs	spellBookTab
-Teleports target to Falador		interface	mainTabs	spellBookTab
-Level <Num0>: Water Surge		interface	mainTabs	spellBookTab
-A very high level Water missile		interface	mainTabs	spellBookTab
-Level <Num0>: Tele Block		interface	mainTabs	spellBookTab
-Stops your target from teleporting		interface	mainTabs	spellBookTab
-Level <Num0>: Teleport to Target		interface	mainTabs	spellBookTab
-Teleports you near your Target		interface	mainTabs	spellBookTab
-Level <Num0>: Teleother Camelot		interface	mainTabs	spellBookTab
-Teleports target to Camelot		interface	mainTabs	spellBookTab
-Level <Num0>: Earth Surge		interface	mainTabs	spellBookTab
-A very high level Earth missile		interface	mainTabs	spellBookTab
-Level <Num0>: Fire Surge		interface	mainTabs	spellBookTab
-A very high level Fire missile		interface	mainTabs	spellBookTab
-Edgeville Home Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Rush		interface	mainTabs	spellBookTab
-A single target smoke attack		interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Rush		interface	mainTabs	spellBookTab
-A single target shadow attack		interface	mainTabs	spellBookTab
+Teleports you to Ape Atoll	Teleporterer deg til Ape Atoll	interface	mainTabs	spellBookTab
+Level <Num0>: Water Wave	Level <Num0>: Vannbølge	interface	mainTabs	spellBookTab
+A high level Water missile	En høynivå vannmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Charge Air Orb	Level <Num0>: Lad luftkule	interface	mainTabs	spellBookTab
+Needs to be cast on an air obelisk	Må kastes på en luftobelisk	interface	mainTabs	spellBookTab
+Level <Num0>: Vulnerability	Level <Num0>: Svakhet	interface	mainTabs	spellBookTab
+Level <Num0>: Charge	Level <Num0>: Lad opp	interface	mainTabs	spellBookTab
+Temporarily increases the power of the three arena spells when wearing Mage Arena capes	Øker imidlertidig kreftene fra de tre gudene når du har på Magikerarena-kappene	interface	mainTabs	spellBookTab
+Level <Num0>: Stun	Level <Num0>: Bedøv	interface	mainTabs	spellBookTab
+Reduces your opponent's attack by <Num0>%	Reduserer motstanderens angrep med <Num0>%	interface	mainTabs	spellBookTab
+Level <Num0>: Entangle	Level <Num0>: Vikle seg inn	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Wave	Level <Num0>: Flammebølge	interface	mainTabs	spellBookTab
+A high level Fire missile	En høynivå flammemissil	interface	mainTabs	spellBookTab
+Level <Num0>: Teleother Lumbridge	Level <Num0>: Tele andre Lumbridge	interface	mainTabs	spellBookTab
+Teleports target to Lumbridge	Teleporterer den andre til Lumbridge	interface	mainTabs	spellBookTab
+Level <Num0>: Enfeeble	Level <Num0>: Svekk mer	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Wave	Level <Num0>: Jordbølge	interface	mainTabs	spellBookTab
+A high level Earth missile	En høynivå jordmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Wind Surge	Level <Num0>: Vindstøt	interface	mainTabs	spellBookTab
+A very high level Air missile	En veldig høynivå luftmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Teleother Falador	Level <Num0>: Tele andre Falador	interface	mainTabs	spellBookTab
+Teleports target to Falador	Teleporterer den andre til Falador	interface	mainTabs	spellBookTab
+Level <Num0>: Water Surge	Level <Num0>: Vannstøt	interface	mainTabs	spellBookTab
+A very high level Water missile	En veldig høynivå vannmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Tele Block	Level <Num0>: Teleblokk	interface	mainTabs	spellBookTab
+Stops your target from teleporting	Stopper motstanderen fra å teleportere	interface	mainTabs	spellBookTab
+Level <Num0>: Teleport to Target	Level <Num0>: Teleporter til Motstander	interface	mainTabs	spellBookTab
+Teleports you near your Target	Teleporterer deg nærme motstanderen din	interface	mainTabs	spellBookTab
+Level <Num0>: Teleother Camelot	Level <Num0>: Tele andre Camelot	interface	mainTabs	spellBookTab
+Teleports target to Camelot	Teleporterer den andre til Camelot	interface	mainTabs	spellBookTab
+Level <Num0>: Earth Surge	Level <Num0>: Jordstøt	interface	mainTabs	spellBookTab
+A very high level Earth missile	En veldig høynivå jordmissil	interface	mainTabs	spellBookTab
+Level <Num0>: Fire Surge	Level <Num0>: Flammestøt	interface	mainTabs	spellBookTab
+A very high level Fire missile	En veldig høynivå flammemissil	interface	mainTabs	spellBookTab
+Edgeville Home Teleport	Teleporter hjem til Edgeville	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Rush	Level <Num0>: Røykrush	interface	mainTabs	spellBookTab
+A single target smoke attack	Et enkel-motstanders røykangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Rush	Level <Num0>: Skyggerush	interface	mainTabs	spellBookTab
+A single target shadow attack	Et enkel-motstanders skyggeangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Paddewwa Teleport		interface	mainTabs	spellBookTab
-A teleportation spell		interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Burst		interface	mainTabs	spellBookTab
-A multi-target smoke attack		interface	mainTabs	spellBookTab
+A teleportation spell	En teleporteringstrolldom	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Burst	Level <Num0>: Røykutbrudd	interface	mainTabs	spellBookTab
+A multi-target smoke attack	Et fler-motstanders røykangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Senntisten Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Ice Rush		interface	mainTabs	spellBookTab
-A single target ice attack		interface	mainTabs	spellBookTab
-Level <Num0>: Blood Rush		interface	mainTabs	spellBookTab
-A single target blood attack		interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Burst		interface	mainTabs	spellBookTab
-A multi-target shadow attack		interface	mainTabs	spellBookTab
+Level <Num0>: Ice Rush	Level <Num0>: Isrush	interface	mainTabs	spellBookTab
+A single target ice attack	Et enkel-motstanders isangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Blood Rush	Level <Num0>: Blodrush	interface	mainTabs	spellBookTab
+A single target blood attack	Et enkel-motstanders blodangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Burst	Level <Num0>: Skyggeutbrudd	interface	mainTabs	spellBookTab
+A multi-target shadow attack	Et fler-motstanders skyggeangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Kharyrll Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Blood Burst		interface	mainTabs	spellBookTab
-A multi-target blood attack		interface	mainTabs	spellBookTab
-Level <Num0>: Ice Burst		interface	mainTabs	spellBookTab
-A multi-target ice attack		interface	mainTabs	spellBookTab
+Level <Num0>: Blood Burst	Level <Num0>: Blodutbrudd	interface	mainTabs	spellBookTab
+A multi-target blood attack	Et multi-motstanders blodangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Burst	Level <Num0>: Isutbrudd	interface	mainTabs	spellBookTab
+A multi-target ice attack	Et multi-motstanders isangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Dareeyak Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Blitz		interface	mainTabs	spellBookTab
-A single target strong shadow attack		interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Blitz		interface	mainTabs	spellBookTab
-A single target strong smoke attack		interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Blitz	Level <Num0>: Skyggeblitz	interface	mainTabs	spellBookTab
+A single target strong shadow attack	Et enkel-motstanders sterkt skyggeangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Blitz	Level <Num0>: Røykblitz	interface	mainTabs	spellBookTab
+A single target strong smoke attack	Et enkel-motstanders sterkt røykangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Lassar Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Blood Blitz		interface	mainTabs	spellBookTab
-A single target strong blood attack		interface	mainTabs	spellBookTab
-Level <Num0>: Ice Blitz		interface	mainTabs	spellBookTab
-A single target strong ice attack		interface	mainTabs	spellBookTab
+Level <Num0>: Blood Blitz	Level <Num0>: Blodblitz	interface	mainTabs	spellBookTab
+A single target strong blood attack	Et enkel-motstanders sterkt blodangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Blitz	Level <Num0>: Isblitz	interface	mainTabs	spellBookTab
+A single target strong ice attack	Et enkel-motstanders sterkt isangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Carrallanger Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Blood Barrage		interface	mainTabs	spellBookTab
-A multi-target strong blood attack		interface	mainTabs	spellBookTab
+Level <Num0>: Blood Barrage	Level <Num0>: Blodbyge	interface	mainTabs	spellBookTab
+A multi-target strong blood attack	Et fler-motstanders sterkt blodangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Annakarl Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Shadow Barrage		interface	mainTabs	spellBookTab
-A multi-target strong shadow attack		interface	mainTabs	spellBookTab
-Level <Num0>: Smoke Barrage		interface	mainTabs	spellBookTab
-A multi-target strong smoke attack		interface	mainTabs	spellBookTab
-Level <Num0>: Ice Barrage		interface	mainTabs	spellBookTab
-A multi-target strong ice attack		interface	mainTabs	spellBookTab
+Level <Num0>: Shadow Barrage	Level <Num0>: Skyggebyge	interface	mainTabs	spellBookTab
+A multi-target strong shadow attack	Et fler-motstanders sterkt skyggeangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Smoke Barrage	Level <Num0>: Røykbyge	interface	mainTabs	spellBookTab
+A multi-target strong smoke attack	Et fler-motstanders sterkt røykangrep	interface	mainTabs	spellBookTab
+Level <Num0>: Ice Barrage	Level <Num0>: Isbyge	interface	mainTabs	spellBookTab
+A multi-target strong ice attack	Et fler-motstanders sterkt isangrep	interface	mainTabs	spellBookTab
 Level <Num0>: Ghorrock Teleport		interface	mainTabs	spellBookTab
-Lunar Home Teleport		interface	mainTabs	spellBookTab
-Level <Num0>: Bake Pie		interface	mainTabs	spellBookTab
-Bake pies without a stove		interface	mainTabs	spellBookTab
+Lunar Home Teleport	Månehjemteleport	interface	mainTabs	spellBookTab
+Level <Num0>: Bake Pie	Level <Num0>: Bak pai	interface	mainTabs	spellBookTab
+Bake pies without a stove	Baker pai uten en ovn	interface	mainTabs	spellBookTab
 Level <Num0>: Geomancy		interface	mainTabs	spellBookTab
 Checks the status of your main Farming patches		interface	mainTabs	spellBookTab
 Level <Num0>: Cure Plant		interface	mainTabs	spellBookTab

@@ -158,7 +158,7 @@ View <colNum0>Smithing</col> guide	Vis <colNum0>Smie</col>guide	actions	menu	ski
 View <colNum0>Defence</col> guide	Vis <colNum0>Forsvar</col>guide	actions	menu	skillsTab
 View <colNum0>Herblore</col> guide	Vis <colNum0>Urtebrygging</col>guide	actions	menu	skillsTab
 View <colNum0>Fishing</col> guide	Vis <colNum0>Fiske</col>guide	actions	menu	skillsTab
-View <colNum0>Ranged</col> guide	Vis <colNum0>Avstandsangreps</col>guide	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	Vis <colNum0>Avstands</col>guide	actions	menu	skillsTab
 View <colNum0>Thieving</col> guide	Vis <colNum0>Tyveri</col>guide	actions	menu	skillsTab
 View <colNum0>Cooking</col> guide	Vis <colNum0>Matlagings</col>guide	actions	menu	skillsTab
 View <colNum0>Prayer</col> guide	Vis <colNum0>Bønne</col>guide	actions	menu	skillsTab
@@ -304,7 +304,7 @@ Activate	Aktiver	actions	menu	prayerTab
 Unhide	Vis	actions	menu	prayerTab
 Deactivate	Deaktiver	actions	menu	prayerTab
 Talk-to	Snakk med	actions	npc	Tool Leprechaun
-Exchange	Utveksling	actions	npc	Tool Leprechaun
+Exchange	Utveksle	actions	npc	Tool Leprechaun
 Attack	Angrip	actions	npc	Molanisk
 Trade	Handle	actions	npc	Hudo
 Travel	Reise	actions	npc	Rug Merchant
@@ -652,20 +652,20 @@ Fur-clothing	Pels-klær	actions	npc	Pellem
 Recharge-whistle	Lade-fløyte	actions	npc	Soar Leader Pitri
 Trade-in	Innbytte	actions	npc	Oriana
 Last-destination	Siste destinasjon	actions	npc	Renu
-Setup		actions	npc	Ironman tutor
-Assignment		actions	npc	Vannaka
-Attract		actions	npc	Light creature
-Last-tier contract		actions	npc	Amy
-Plant-orb		actions	npc	Surok Magis
-Metamorph		actions	npc	Nid
-Choose		actions	npc	Tenoch
-Check-on		actions	npc	Man
-Stats		actions	npc	Worm Tongue
-Examine		actions	npc	
+Setup	Oppsett	actions	npc	Ironman tutor
+Assignment	Oppdrag	actions	npc	Vannaka
+Attract	Tiltrekk	actions	npc	Light creature
+Last-tier contract	Siste-nivå kontrakt	actions	npc	Amy
+Plant-orb	Plant-kule	actions	npc	Surok Magis
+Metamorph	Metamorfose	actions	npc	Nid
+Choose	Velg	actions	npc	Tenoch
+Check-on	Sjekk-på	actions	npc	Man
+Stats	Stats	actions	npc	Worm Tongue
+Examine	Utforsk	actions	npc	
 Search	Søk	actions	object	Crate
 Enter	Gå	actions	object	Cave Entrance
 Open	Åpne	actions	object	Door
-Inspect	Undersøke	actions	object	Broken multicannon
+Inspect	Undersøk	actions	object	Broken multicannon
 Fire	Ild	actions	object	Dwarf multicannon
 Pick-up	Henting	actions	object	Dwarf multicannon
 Empty	Tømme	actions	object	Dwarf multicannon
@@ -923,7 +923,7 @@ Zanaris	Zanaris	actions	object	Fairy ring
 Configure	Konfigurer	actions	object	Fairy ring
 Last-destination (AIP)	Siste destinasjon (AIP)	actions	object	Fairy ring
 Escape	Flykte	actions	object	Cave entrance
-Examine	Undersøke	actions	object	Healing certificate
+Examine	Undersøk	actions	object	Healing certificate
 Shape-Canoe	Shape-kano	actions	object	Canoe Station
 Float Log	Flytelogg	actions	object	Canoe Station
 Float Canoe	Flytekano	actions	object	Canoe Station
