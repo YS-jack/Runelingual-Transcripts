@@ -3403,7 +3403,7 @@ Category: Gun	カテゴリ：銃	interface	mainTabs	combatOptionsTab
 Category: Bladed Staff	カテゴリ：刃付き杖	interface	mainTabs	combatOptionsTab
 Category: Salamander	カテゴリ：サラマンダ	interface	mainTabs	combatOptionsTab
 Category: Multi-style	カテゴリ：多スタイル	interface	mainTabs	combatOptionsTab
-Total level: <Num0>	合計レベル<Num0>	interface	mainTabs	skillsTab
+Total level: <Num0>	合計レベル<br><asis><Num0></asis>	interface	mainTabs	skillsTab
 Attack XP:	攻撃力XP：	interface	mainTabs	skillsTab
 Hitpoints XP:	体力XP：	interface	mainTabs	skillsTab
 Mining XP:	採掘XP：	interface	mainTabs	skillsTab

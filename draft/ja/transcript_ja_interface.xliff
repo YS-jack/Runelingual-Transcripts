@@ -25353,7 +25353,7 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118330"><xliff:source>Category: Multi-style</xliff:source><xliff:target state="translated">カテゴリ：多スタイル</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118331"><xliff:source>Total level: &lt;Num0&gt;</xliff:source><xliff:target state="translated">合計レベル&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118331"><xliff:source>Total level: &lt;Num0&gt;</xliff:source><xliff:target state="translated">合計レベル&lt;br&gt;&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118332"><xliff:source>Attack XP:</xliff:source><xliff:target state="translated">攻撃力XP：</xliff:target><xliff:note>category: interface
