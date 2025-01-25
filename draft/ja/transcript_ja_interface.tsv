@@ -3450,7 +3450,7 @@ Cooking XP:<br>Next level at:<br>Remaining XP:	料理XP：<br>次レベル開始
 Firemaking XP:<br>Next level at:<br>Remaining XP:	火起こしXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
 Woodcutting XP:<br>Next level at:<br>Remaining XP:	木こりXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
 Farming XP:<br>Next level at:<br>Remaining XP:	農業XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
-Total XP:	合計XP：	interface	mainTabs	skillsTab
+Total XP:	合計XPaaaaaaaaaaaaaa：	interface	mainTabs	skillsTab
 Next level at:	次レベル開始：	interface	mainTabs	skillsTab
 Remaining XP:	残りXP：	interface	mainTabs	skillsTab
 Combat Level:	戦闘レベル：	interface	mainTabs	characterSummaryTab
@@ -3926,14 +3926,14 @@ Current Poll: <colNum0>Inactive</col>	現在の投票：<colNum0>なし</col>	in
 View Poll	投票を見る	interface	mainTabs	accountManagementTab
 View History	履歴を表示	interface	mainTabs	accountManagementTab
 Latest Update	最新アップデート	interface	mainTabs	accountManagementTab
-View Newspost	ニュースを表示	interface	mainTabs	accountManagementTab
-View Archive	アーカイブを表示	interface	mainTabs	accountManagementTab
+View Newspost	ニュース	interface	mainTabs	accountManagementTab
+View Archive	アーカイブ	interface	mainTabs	accountManagementTab
 Useful Links	便利なリンク	interface	mainTabs	accountManagementTab
-Old School Website	オールドスクールのサイト	interface	mainTabs	accountManagementTab
-Customer Support	サポートセンタ	interface	mainTabs	accountManagementTab
+Old School Website	ホームページ	interface	mainTabs	accountManagementTab
+Customer Support	サポート	interface	mainTabs	accountManagementTab
 Grand Exchange	グランド・エクスチェンジ	interface	mainTabs	accountManagementTab
 Hiscores	ハイスコア	interface	mainTabs	accountManagementTab
-Old School Wiki	オールドスクール・ウィキ	interface	mainTabs	accountManagementTab
+Old School Wiki	ウィキサイト	interface	mainTabs	accountManagementTab
 Merchandise	商品サイト	interface	mainTabs	accountManagementTab
 Name: <playerName>	名前：<playerName>	interface	mainTabs	accountManagementTab
 View the various crossbow bolt enchantment spells (<Num0>+ Magic required)<br><colNum0>Members Only</col>	可能なボルトの魔法付与を確認<br>（魔法Lv<Num0>+）<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab

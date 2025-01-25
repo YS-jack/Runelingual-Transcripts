@@ -25494,7 +25494,7 @@ source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118377"><xliff:source>Farming XP:&lt;br&gt;Next level at:&lt;br&gt;Remaining XP:</xliff:source><xliff:target state="translated">農業XP：&lt;br&gt;次レベル開始：&lt;br&gt;残りXP：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: skillsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118378"><xliff:source>Total XP:</xliff:source><xliff:target state="translated">合計XP：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118378"><xliff:source>Total XP:</xliff:source><xliff:target state="translated">合計XPaaaaaaaaaaaaaa：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: skillsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118379"><xliff:source>Next level at:</xliff:source><xliff:target state="translated">次レベル開始：</xliff:target><xliff:note>category: interface
@@ -26923,19 +26923,19 @@ source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118853"><xliff:source>Latest Update</xliff:source><xliff:target state="translated">最新アップデート</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118854"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュースを表示</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118854"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュース</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118855"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブを表示</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118855"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118856"><xliff:source>Useful Links</xliff:source><xliff:target state="translated">便利なリンク</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118857"><xliff:source>Old School Website</xliff:source><xliff:target state="translated">オールドスクールのサイト</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118857"><xliff:source>Old School Website</xliff:source><xliff:target state="translated">ホームページ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118858"><xliff:source>Customer Support</xliff:source><xliff:target state="translated">サポートセンタ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118858"><xliff:source>Customer Support</xliff:source><xliff:target state="translated">サポート</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118859"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: interface
@@ -26944,7 +26944,7 @@ source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118860"><xliff:source>Hiscores</xliff:source><xliff:target state="translated">ハイスコア</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118861"><xliff:source>Old School Wiki</xliff:source><xliff:target state="translated">オールドスクール・ウィキ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118861"><xliff:source>Old School Wiki</xliff:source><xliff:target state="translated">ウィキサイト</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118862"><xliff:source>Merchandise</xliff:source><xliff:target state="translated">商品サイト</xliff:target><xliff:note>category: interface
