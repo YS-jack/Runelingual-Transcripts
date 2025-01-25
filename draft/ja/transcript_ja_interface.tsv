@@ -3041,242 +3041,242 @@ Category: Bow	カテゴリ：弓	interface	mainTabs	combatOptionsTab
 Category: Crossbow	カテゴリ：洋弓銃	interface	mainTabs	combatOptionsTab
 Category: Staff	カテゴリ：杖	interface	mainTabs	combatOptionsTab
 Category: Powered Staff	カテゴリ：充填された杖	interface	mainTabs	combatOptionsTab
-(Accurate) (Stab) (Attack XP)	正確・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Stab) (Strength XP)	正確・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Stab) (Defence XP)	正確・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Stab) (Shared XP)	正確・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Slash) (Attack XP)	正確・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Slash) (Strength XP)	正確・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Slash) (Defence XP)	正確・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Slash) (Shared XP)	正確・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Crush) (Attack XP)	正確・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Crush) (Strength XP)	正確・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Crush) (Defence XP)	正確・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Crush) (Shared XP)	正確・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Stab) (Attack XP)	正確・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Stab) (Strength XP)	正確・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Stab) (Defence XP)	正確・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Stab) (Shared XP)	正確・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Slash) (Attack XP)	正確・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Slash) (Strength XP)	正確・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Slash) (Defence XP)	正確・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Slash) (Shared XP)	正確・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Crush) (Attack XP)	正確・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Crush) (Strength XP)	正確・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Crush) (Defence XP)	正確・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Crush) (Shared XP)	正確・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Stab) (Attack XP)	正確・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Stab) (Strength XP)	正確・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Stab) (Defence XP)	正確・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Stab) (Shared XP)	正確・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Slash) (Attack XP)	正確・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Slash) (Strength XP)	正確・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Slash) (Defence XP)	正確・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Slash) (Shared XP)	正確・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Crush) (Attack XP)	正確・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Crush) (Strength XP)	正確・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Crush) (Defence XP)	正確・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Crush) (Shared XP)	正確・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Stab) (Attack XP)	正確・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Stab) (Strength XP)	正確・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Stab) (Defence XP)	正確・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Stab) (Shared XP)	正確・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Slash) (Attack XP)	正確・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Slash) (Strength XP)	正確・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Slash) (Defence XP)	正確・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Slash) (Shared XP)	正確・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Crush) (Attack XP)	正確・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Crush) (Strength XP)	正確・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Crush) (Defence XP)	正確・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Crush) (Shared XP)	正確・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Stab) (Attack XP)	積極的・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Stab) (Strength XP)	積極的・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Stab) (Defence XP)	積極的・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Stab) (Shared XP)	積極的・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Slash) (Attack XP)	積極的・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Slash) (Strength XP)	積極的・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Slash) (Defence XP)	積極的・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Slash) (Shared XP)	積極的・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Crush) (Attack XP)	積極的・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Crush) (Strength XP)	積極的・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Crush) (Defence XP)	積極的・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Crush) (Shared XP)	積極的・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Stab) (Attack XP)	積極的・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Stab) (Strength XP)	積極的・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Stab) (Defence XP)	積極的・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Stab) (Shared XP)	積極的・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Slash) (Attack XP)	積極的・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Slash) (Strength XP)	積極的・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Slash) (Defence XP)	積極的・重量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Slash) (Shared XP)	積極的・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Crush) (Attack XP)	積極的・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Crush) (Strength XP)	積極的・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Crush) (Defence XP)	積極的・重量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Heavy) (Crush) (Shared XP)	積極的・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Stab) (Attack XP)	積極的・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Stab) (Strength XP)	積極的・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Stab) (Defence XP)	積極的・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Stab) (Shared XP)	積極的・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Slash) (Attack XP)	積極的・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Slash) (Strength XP)	積極的・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Slash) (Defence XP)	積極的・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Slash) (Shared XP)	積極的・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Crush) (Attack XP)	積極的・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Crush) (Strength XP)	積極的・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Crush) (Defence XP)	積極的・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Light) (Crush) (Shared XP)	積極的・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Stab) (Attack XP)	積極的・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Stab) (Strength XP)	積極的・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Stab) (Defence XP)	積極的・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Stab) (Shared XP)	積極的・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Slash) (Attack XP)	積極的・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Slash) (Strength XP)	積極的・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Slash) (Defence XP)	積極的・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Slash) (Shared XP)	積極的・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Crush) (Attack XP)	積極的・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Crush) (Strength XP)	積極的・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Crush) (Defence XP)	積極的・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Aggressive) (Standard) (Crush) (Shared XP)	積極的・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Stab) (Attack XP)	守備・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Stab) (Strength XP)	守備・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Stab) (Defence XP)	守備・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Stab) (Shared XP)	守備・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Slash) (Attack XP)	守備・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Slash) (Strength XP)	守備・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Slash) (Defence XP)	守備・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Slash) (Shared XP)	守備・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Crush) (Attack XP)	守備・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Crush) (Strength XP)	守備・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Crush) (Defence XP)	守備・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Crush) (Shared XP)	守備・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Stab) (Attack XP)	守備・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Stab) (Strength XP)	守備・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Stab) (Defence XP)	守備・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Stab) (Shared XP)	守備・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Slash) (Attack XP)	守備・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Slash) (Strength XP)	守備・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Slash) (Defence XP)	守備・重量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Slash) (Shared XP)	守備・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Crush) (Attack XP)	守備・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Crush) (Strength XP)	守備・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Crush) (Defence XP)	守備・重量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Heavy) (Crush) (Shared XP)	守備・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Stab) (Attack XP)	守備・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Stab) (Strength XP)	守備・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Stab) (Defence XP)	守備・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Stab) (Shared XP)	守備・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Slash) (Attack XP)	守備・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Slash) (Strength XP)	守備・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Slash) (Defence XP)	守備・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Slash) (Shared XP)	守備・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Crush) (Attack XP)	守備・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Crush) (Strength XP)	守備・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Crush) (Defence XP)	守備・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Light) (Crush) (Shared XP)	守備・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Stab) (Attack XP)	守備・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Stab) (Strength XP)	守備・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Stab) (Defence XP)	守備・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Stab) (Shared XP)	守備・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Slash) (Attack XP)	守備・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Slash) (Strength XP)	守備・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Slash) (Defence XP)	守備・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Slash) (Shared XP)	守備・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Crush) (Attack XP)	守備・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Crush) (Strength XP)	守備・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Crush) (Defence XP)	守備・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Defensive) (Standard) (Crush) (Shared XP)	守備・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Stab) (Attack XP)	バランス・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Stab) (Strength XP)	バランス・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Stab) (Defence XP)	バランス・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Stab) (Shared XP)	バランス・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Slash) (Attack XP)	バランス・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Slash) (Strength XP)	バランス・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Slash) (Defence XP)	バランス・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Slash) (Shared XP)	バランス・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Crush) (Attack XP)	バランス・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Crush) (Strength XP)	バランス・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Crush) (Defence XP)	バランス・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Crush) (Shared XP)	バランス・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Stab) (Attack XP)	バランス・重量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Stab) (Strength XP)	バランス・重量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Stab) (Defence XP)	バランス・重量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Stab) (Shared XP)	バランス・重量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Slash) (Attack XP)	バランス・重量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Slash) (Strength XP)	バランス・重量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Slash) (Defence XP)	バランス・重量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Slash) (Shared XP)	バランス・重量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Crush) (Attack XP)	バランス・重量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Crush) (Strength XP)	バランス・重量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Crush) (Defence XP)	バランス・重量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Heavy) (Crush) (Shared XP)	バランス・重量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Stab) (Attack XP)	バランス・軽量・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Stab) (Strength XP)	バランス・軽量・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Stab) (Defence XP)	バランス・軽量・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Stab) (Shared XP)	バランス・軽量・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Slash) (Attack XP)	バランス・軽量・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Slash) (Strength XP)	バランス・軽量・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Slash) (Defence XP)	バランス・軽量・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Slash) (Shared XP)	バランス・軽量・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Crush) (Attack XP)	バランス・軽量・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Crush) (Strength XP)	バランス・軽量・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Crush) (Defence XP)	バランス・軽量・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Light) (Crush) (Shared XP)	バランス・軽量・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Stab) (Attack XP)	バランス・通常・刺す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Stab) (Strength XP)	バランス・通常・刺す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Stab) (Defence XP)	バランス・通常・刺す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Stab) (Shared XP)	バランス・通常・刺す・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Slash) (Attack XP)	バランス・通常・切り裂く・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Slash) (Strength XP)	バランス・通常・切り裂く・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Slash) (Defence XP)	バランス・通常・切り裂く・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Slash) (Shared XP)	バランス・通常・切り裂く・共有XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Crush) (Attack XP)	バランス・通常・潰す・攻撃力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Crush) (Strength XP)	バランス・通常・潰す・腕力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Crush) (Defence XP)	バランス・通常・潰す・守備力XP	interface	mainTabs	combatOptionsTab
-(Controlled) (Standard) (Crush) (Shared XP)	バランス・通常・潰す・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Ranged XP)	正確・軽量・遠射XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Defence XP)	正確・軽量・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Shared XP)	正確・軽量・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Light) (Ranged XP) (Defence XP)	正確・軽量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Ranged XP)	正確・通常・遠射XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Defence XP)	正確・通常・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Shared XP)	正確・通常・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Standard) (Ranged XP) (Defence XP)	正確・通常・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Ranged XP)	正確・重量・遠射XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Defence XP)	正確・重量・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Shared XP)	正確・重量・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Heavy) (Ranged XP) (Defence XP)	正確・重量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Light) (Ranged XP)	連射・軽量・遠射XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Light) (Defence XP)	連射・軽量・守備力XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Light) (Shared XP)	連射・軽量・共有XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Light) (Ranged XP) (Defence XP)	連射・軽量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Standard) (Ranged XP)	連射・通常・遠射XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Standard) (Defence XP)	連射・通常・守備力XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Standard) (Shared XP)	連射・通常・共有XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Standard) (Ranged XP) (Defence XP)	連射・通常・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Heavy) (Ranged XP)	連射・重量・遠射XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Heavy) (Defence XP)	連射・重量・守備力XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Heavy) (Shared XP)	連射・重量・共有XP	interface	mainTabs	combatOptionsTab
-(Rapid) (Heavy) (Ranged XP) (Defence XP)	連射・重量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Light) (Ranged XP)	遠距離・軽量・遠射XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Light) (Defence XP)	遠距離・軽量・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Light) (Shared XP)	遠距離・軽量・共有XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Light) (Ranged XP) (Defence XP)	遠距離・軽量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Standard) (Ranged XP)	遠距離・通常・遠射XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Standard) (Defence XP)	遠距離・通常・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Standard) (Shared XP)	遠距離・通常・共有XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Standard) (Ranged XP) (Defence XP)	遠距離・通常・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Heavy) (Ranged XP)	遠距離・重量・遠射XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Heavy) (Defence XP)	遠距離・重量・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Heavy) (Shared XP)	遠距離・重量・共有XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Heavy) (Ranged XP) (Defence XP)	遠距離・重量・遠射XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Magic XP)	正確・魔法XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Defence XP)	正確・守備力XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Shared XP)	正確・共有XP	interface	mainTabs	combatOptionsTab
-(Accurate) (Magic XP) (Defence XP)	正確・魔法XP・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Magic XP)	遠距離・魔法XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Defence XP)	遠距離・守備力XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Shared XP)	遠距離・共有XP	interface	mainTabs	combatOptionsTab
-(Longrange) (Magic XP) (Defence XP)	遠距離・魔法XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Attack XP)	正確<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Strength XP)	正確<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Defence XP)	正確<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Shared XP)	正確<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Attack XP)	正確<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Strength XP)	正確<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Defence XP)	正確<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Shared XP)	正確<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Attack XP)	正確<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Strength XP)	正確<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Defence XP)	正確<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Shared XP)	正確<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Attack XP)	正確<br>重量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Strength XP)	正確<br>重量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Defence XP)	正確<br>重量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Shared XP)	正確<br>重量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Attack XP)	正確<br>重量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Strength XP)	正確<br>重量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Defence XP)	正確<br>重量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Shared XP)	正確<br>重量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Attack XP)	正確<br>重量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Strength XP)	正確<br>重量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Defence XP)	正確<br>重量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Shared XP)	正確<br>重量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Attack XP)	正確<br>軽量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Strength XP)	正確<br>軽量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Defence XP)	正確<br>軽量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Shared XP)	正確<br>軽量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Attack XP)	正確<br>軽量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Strength XP)	正確<br>軽量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Defence XP)	正確<br>軽量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Shared XP)	正確<br>軽量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Attack XP)	正確<br>軽量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Strength XP)	正確<br>軽量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Defence XP)	正確<br>軽量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Shared XP)	正確<br>軽量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Attack XP)	正確<br>通常<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Strength XP)	正確<br>通常<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Defence XP)	正確<br>通常<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Shared XP)	正確<br>通常<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Attack XP)	正確<br>通常<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Strength XP)	正確<br>通常<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Defence XP)	正確<br>通常<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Shared XP)	正確<br>通常<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Attack XP)	正確<br>通常<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Strength XP)	正確<br>通常<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Defence XP)	正確<br>通常<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Shared XP)	正確<br>通常<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Attack XP)	積極的<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Strength XP)	積極的<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Defence XP)	積極的<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Shared XP)	積極的<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Attack XP)	積極的<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Strength XP)	積極的<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Defence XP)	積極的<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Shared XP)	積極的<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Attack XP)	積極的<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Strength XP)	積極的<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Defence XP)	積極的<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Shared XP)	積極的<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Attack XP)	積極的<br>重量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Strength XP)	積極的<br>重量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Defence XP)	積極的<br>重量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Shared XP)	積極的<br>重量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Attack XP)	積極的<br>重量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Strength XP)	積極的<br>重量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Defence XP)	積極的<br>重量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Shared XP)	積極的<br>重量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Attack XP)	積極的<br>重量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Strength XP)	積極的<br>重量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Defence XP)	積極的<br>重量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Shared XP)	積極的<br>重量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Attack XP)	積極的<br>軽量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Strength XP)	積極的<br>軽量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Defence XP)	積極的<br>軽量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Shared XP)	積極的<br>軽量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Attack XP)	積極的<br>軽量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Strength XP)	積極的<br>軽量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Defence XP)	積極的<br>軽量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Shared XP)	積極的<br>軽量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Attack XP)	積極的<br>軽量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Strength XP)	積極的<br>軽量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Defence XP)	積極的<br>軽量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Shared XP)	積極的<br>軽量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Attack XP)	積極的<br>通常<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Strength XP)	積極的<br>通常<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Defence XP)	積極的<br>通常<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Shared XP)	積極的<br>通常<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Attack XP)	積極的<br>通常<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Strength XP)	積極的<br>通常<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Defence XP)	積極的<br>通常<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Shared XP)	積極的<br>通常<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Attack XP)	積極的<br>通常<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Strength XP)	積極的<br>通常<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Defence XP)	積極的<br>通常<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Shared XP)	積極的<br>通常<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Attack XP)	守備<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Strength XP)	守備<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Defence XP)	守備<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Shared XP)	守備<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Attack XP)	守備<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Strength XP)	守備<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Defence XP)	守備<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Shared XP)	守備<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Attack XP)	守備<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Strength XP)	守備<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Defence XP)	守備<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Shared XP)	守備<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Attack XP)	守備<br>重量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Strength XP)	守備<br>重量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Defence XP)	守備<br>重量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Shared XP)	守備<br>重量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Attack XP)	守備<br>重量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Strength XP)	守備<br>重量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Defence XP)	守備<br>重量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Shared XP)	守備<br>重量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Attack XP)	守備<br>重量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Strength XP)	守備<br>重量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Defence XP)	守備<br>重量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Shared XP)	守備<br>重量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Attack XP)	守備<br>軽量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Strength XP)	守備<br>軽量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Defence XP)	守備<br>軽量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Shared XP)	守備<br>軽量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Attack XP)	守備<br>軽量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Strength XP)	守備<br>軽量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Defence XP)	守備<br>軽量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Shared XP)	守備<br>軽量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Attack XP)	守備<br>軽量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Strength XP)	守備<br>軽量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Defence XP)	守備<br>軽量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Shared XP)	守備<br>軽量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Attack XP)	守備<br>通常<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Strength XP)	守備<br>通常<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Defence XP)	守備<br>通常<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Shared XP)	守備<br>通常<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Attack XP)	守備<br>通常<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Strength XP)	守備<br>通常<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Defence XP)	守備<br>通常<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Shared XP)	守備<br>通常<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Attack XP)	守備<br>通常<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Strength XP)	守備<br>通常<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Defence XP)	守備<br>通常<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Shared XP)	守備<br>通常<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Attack XP)	バランス<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Strength XP)	バランス<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Defence XP)	バランス<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Shared XP)	バランス<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Attack XP)	バランス<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Strength XP)	バランス<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Defence XP)	バランス<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Shared XP)	バランス<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Attack XP)	バランス<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Strength XP)	バランス<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Defence XP)	バランス<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Shared XP)	バランス<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Attack XP)	バランス<br>重量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Strength XP)	バランス<br>重量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Defence XP)	バランス<br>重量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Shared XP)	バランス<br>重量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Attack XP)	バランス<br>重量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Strength XP)	バランス<br>重量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Defence XP)	バランス<br>重量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Shared XP)	バランス<br>重量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Attack XP)	バランス<br>重量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Strength XP)	バランス<br>重量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Defence XP)	バランス<br>重量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Shared XP)	バランス<br>重量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Attack XP)	バランス<br>軽量<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Strength XP)	バランス<br>軽量<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Defence XP)	バランス<br>軽量<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Shared XP)	バランス<br>軽量<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Attack XP)	バランス<br>軽量<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Strength XP)	バランス<br>軽量<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Defence XP)	バランス<br>軽量<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Shared XP)	バランス<br>軽量<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Attack XP)	バランス<br>軽量<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Strength XP)	バランス<br>軽量<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Defence XP)	バランス<br>軽量<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Shared XP)	バランス<br>軽量<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Attack XP)	バランス<br>通常<br>刺し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Strength XP)	バランス<br>通常<br>刺し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Defence XP)	バランス<br>通常<br>刺し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Shared XP)	バランス<br>通常<br>刺し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Attack XP)	バランス<br>通常<br>切り裂き<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Strength XP)	バランス<br>通常<br>切り裂き<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Defence XP)	バランス<br>通常<br>切り裂き<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Shared XP)	バランス<br>通常<br>切り裂き<br>共有XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Attack XP)	バランス<br>通常<br>潰し<br>攻撃力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Strength XP)	バランス<br>通常<br>潰し<br>腕力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Defence XP)	バランス<br>通常<br>潰し<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Shared XP)	バランス<br>通常<br>潰し<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP)	正確<br>軽量<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Defence XP)	正確<br>軽量<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Shared XP)	正確<br>軽量<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP) (Defence XP)	正確<br>軽量<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP)	正確<br>通常<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Defence XP)	正確<br>通常<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Shared XP)	正確<br>通常<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP) (Defence XP)	正確<br>通常<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP)	正確<br>重量<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Defence XP)	正確<br>重量<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Shared XP)	正確<br>重量<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP) (Defence XP)	正確<br>重量<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP)	連射<br>軽量<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Defence XP)	連射<br>軽量<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Shared XP)	連射<br>軽量<br>共有XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP) (Defence XP)	連射<br>軽量<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP)	連射<br>通常<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Defence XP)	連射<br>通常<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Shared XP)	連射<br>通常<br>共有XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP) (Defence XP)	連射<br>通常<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP)	連射<br>重量<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Defence XP)	連射<br>重量<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Shared XP)	連射<br>重量<br>共有XP	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP) (Defence XP)	連射<br>重量<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP)	遠距離<br>軽量<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Defence XP)	遠距離<br>軽量<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Shared XP)	遠距離<br>軽量<br>共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP) (Defence XP)	遠距離<br>軽量<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP)	遠距離<br>通常<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Defence XP)	遠距離<br>通常<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Shared XP)	遠距離<br>通常<br>共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP) (Defence XP)	遠距離<br>通常<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP)	遠距離<br>重量<br>遠射XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Defence XP)	遠距離<br>重量<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Shared XP)	遠距離<br>重量<br>共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP) (Defence XP)	遠距離<br>重量<br>遠射XP<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Magic XP)	正確<br>魔法XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Defence XP)	正確<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Shared XP)	正確<br>共有XP	interface	mainTabs	combatOptionsTab
+(Accurate) (Magic XP) (Defence XP)	正確<br>魔法XP・守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP)	遠距離<br>魔法XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Defence XP)	遠距離<br>守備力XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Shared XP)	遠距離<br>共有XP	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP) (Defence XP)	遠距離<br>魔法XP・守備力XP	interface	mainTabs	combatOptionsTab
 Accurate	正確に	interface	mainTabs	combatOptionsTab
 Aggressive	積極的に	interface	mainTabs	combatOptionsTab
 Defensive	守備	interface	mainTabs	combatOptionsTab
@@ -3450,7 +3450,7 @@ Cooking XP:<br>Next level at:<br>Remaining XP:	料理XP：<br>次レベル開始
 Firemaking XP:<br>Next level at:<br>Remaining XP:	火起こしXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
 Woodcutting XP:<br>Next level at:<br>Remaining XP:	木こりXP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
 Farming XP:<br>Next level at:<br>Remaining XP:	農業XP：<br>次レベル開始：<br>残りXP：	interface	mainTabs	skillsTab
-Total XP:	合計XPaaaaaaaaaaaaaa：	interface	mainTabs	skillsTab
+Total XP:	合計XP：	interface	mainTabs	skillsTab
 Next level at:	次レベル開始：	interface	mainTabs	skillsTab
 Remaining XP:	残りXP：	interface	mainTabs	skillsTab
 Combat Level:	戦闘レベル：	interface	mainTabs	characterSummaryTab
