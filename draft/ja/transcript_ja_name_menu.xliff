@@ -627,7 +627,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112662">
         <xliff:source>Old School Website</xliff:source>
-        <xliff:target state="translated">オールドスクールのサイト</xliff:target>
+        <xliff:target state="translated">ホームページ</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
@@ -635,7 +635,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112663">
         <xliff:source>Customer Support</xliff:source>
-        <xliff:target state="translated">サポートセンタ</xliff:target>
+        <xliff:target state="translated">サポート</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
@@ -659,7 +659,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="112666">
         <xliff:source>Old School Wiki</xliff:source>
-        <xliff:target state="translated">オールドスクール・ウィキ</xliff:target>
+        <xliff:target state="translated">ウィキサイト</xliff:target>
         <xliff:note>category: name
 sub_category: menu
 source: accountManagementTab

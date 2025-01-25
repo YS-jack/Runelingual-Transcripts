@@ -3985,6 +3985,6 @@ Free Total Level:	無課金合計Lv：	interface	mainTabs	skillsTab
 For use on dragonstone jewellery<br><colNum0>Members Only</col>	竜石の宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
 For use on onyx jewellery<br><colNum0>Members Only</col>	オニキスの宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
 For use on zenyte jewellery<br><colNum0>Members Only</col>	ゼナイトの宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
-Unarmed		interface	mainTabs	combatOptionsTab
-Punch		interface	mainTabs	combatOptionsTab
-Kick		interface	mainTabs	combatOptionsTab
+Unarmed	素手	interface	mainTabs	combatOptionsTab
+Punch	殴る	interface	mainTabs	combatOptionsTab
+Kick	蹴る	interface	mainTabs	combatOptionsTab

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="41258">
@@ -10359,7 +10358,7 @@ source: ignoreTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109944"><xliff:source>Delete</xliff:source><xliff:target state="translated">削除</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: ignoreTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>Add Name</xliff:source><xliff:target state="translated">追加</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109945"><xliff:source>Add Name</xliff:source><xliff:target state="translated">名前を追加</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: ignoreTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109946"><xliff:source>Delete Name</xliff:source><xliff:target state="translated">名前を削除</xliff:target><xliff:note>category: actions
@@ -10389,10 +10388,10 @@ source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109954"><xliff:source>View History</xliff:source><xliff:target state="translated">履歴を表示</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュースを表示</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109955"><xliff:source>View Newspost</xliff:source><xliff:target state="translated">ニュース</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブを表示</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109956"><xliff:source>View Archive</xliff:source><xliff:target state="translated">アーカイブ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109957"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
@@ -10812,13 +10811,13 @@ source: Weak cells
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=43733</xliff:note></xliff:trans-unit><xliff:trans-unit id="110095"><xliff:source>Channel (Varlamore)</xliff:source><xliff:target state="translated">転換（ヴァーラモー）</xliff:target><xliff:note>category: actions
 sub_category: object
 source: Waystone
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit><xliff:trans-unit id="110096"><xliff:source>Punch</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55866</xliff:note></xliff:trans-unit><xliff:trans-unit id="110096"><xliff:source>Punch</xliff:source><xliff:target state="translated">殴る</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110097"><xliff:source>Kick</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110097"><xliff:source>Kick</xliff:source><xliff:target state="translated">蹴る</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110098"><xliff:source>Unarmed</xliff:source><xliff:target/><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110098"><xliff:source>Unarmed</xliff:source><xliff:target state="translated">素手</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

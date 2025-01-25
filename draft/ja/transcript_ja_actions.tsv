@@ -1416,7 +1416,7 @@ Add Friend	フレンド追加	actions	menu	friendsTab
 Delete Friend	フレンド削除	actions	menu	friendsTab
 View Friends List	フレンド一覧を表示	actions	menu	ignoreTab
 Delete	削除	actions	menu	ignoreTab
-Add Name	追加	actions	menu	ignoreTab
+Add Name	名前を追加	actions	menu	ignoreTab
 Delete Name	名前を削除	actions	menu	ignoreTab
 Account	アカウント	actions	menu	accountManagementTab
 Community	コミュニティ	actions	menu	accountManagementTab
@@ -1426,8 +1426,8 @@ Bond Pouch	ボンド入れ	actions	menu	accountManagementTab
 View Inbox	受信箱を確認	actions	menu	accountManagementTab
 Name Changer	名前変更	actions	menu	accountManagementTab
 View History	履歴を表示	actions	menu	accountManagementTab
-View Newspost	ニュースを表示	actions	menu	accountManagementTab
-View Archive	アーカイブを表示	actions	menu	accountManagementTab
+View Newspost	ニュース	actions	menu	accountManagementTab
+View Archive	アーカイブ	actions	menu	accountManagementTab
 Open	開く	actions	menu	accountManagementTab
 Settings	設定	actions	menu	groupTab
 Refresh	更新	actions	menu	groupTab
@@ -1567,6 +1567,6 @@ Drink-from	から飲む	actions	object	Cauldron
 Big-search	よく探す	actions	object	Reward pool
 Take-chisel	ノミを取る	actions	object	Weak cells
 Channel (Varlamore)	転換（ヴァーラモー）	actions	object	Waystone
-Punch		actions	menu	combatOptionsTab
-Kick		actions	menu	combatOptionsTab
-Unarmed		actions	menu	combatOptionsTab
+Punch	殴る	actions	menu	combatOptionsTab
+Kick	蹴る	actions	menu	combatOptionsTab
+Unarmed	素手	actions	menu	combatOptionsTab
