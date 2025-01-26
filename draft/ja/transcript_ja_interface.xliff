@@ -27112,6 +27112,15 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118916"><xliff:source>Name: &lt;asis&gt;&lt;playerName&gt;&lt;/asis&gt;</xliff:source><xliff:target state="translated">名前：&lt;asis&gt;&lt;playerName&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118917"><xliff:source>Name: &lt;asis&gt;&lt;!playerName&gt;&lt;/asis&gt;</xliff:source><xliff:target state="translated">名前：&lt;asis&gt;&lt;!playerName&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118918"><xliff:source>Name: &lt;!playerName&gt;</xliff:source><xliff:target state="translated">名前：&lt;!playerName&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118919"><xliff:source>Name: &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">名前：&lt;!PLAYER_NAME0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

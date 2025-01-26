@@ -3989,3 +3989,6 @@ Unarmed	素手	interface	mainTabs	combatOptionsTab
 Punch	殴る	interface	mainTabs	combatOptionsTab
 Kick	蹴る	interface	mainTabs	combatOptionsTab
 Name: <asis><playerName></asis>	名前：<asis><playerName></asis>	interface	mainTabs	accountManagementTab
+Name: <asis><!playerName></asis>	名前：<asis><!playerName></asis>	interface	mainTabs	accountManagementTab
+Name: <!playerName>	名前：<!playerName>	interface	mainTabs	accountManagementTab
+Name: <!PLAYER_NAME0>	名前：<!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
