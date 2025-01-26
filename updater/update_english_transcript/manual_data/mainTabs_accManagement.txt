@@ -33,4 +33,4 @@ Grand Exchange		interface	mainTabs	accountManagementTab
 Hiscores		interface	mainTabs	accountManagementTab
 Old School Wiki		interface	mainTabs	accountManagementTab
 Merchandise		interface	mainTabs	accountManagementTab
-Name: <playerName>		interface	mainTabs	accountManagementTab
+Name: <asis><playerName></asis>		interface	mainTabs	accountManagementTab
