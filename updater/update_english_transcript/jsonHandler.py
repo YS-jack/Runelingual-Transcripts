@@ -209,28 +209,29 @@ def addAllTSVToSQL(TSVDir):
     create_table(c)
     
     # iterate through all csv files in the directory
-    for file in os.listdir(TSVDir):
-        added_records = 0
-        # open each files
-        with open(TSVDir + file, 'r', encoding='utf-8') as f:
+    for root, dirs, files in os.walk(TSVDir):
+        for file in files:
+            added_records = 0
+            # open each files
+            with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
 
-            for i,line in enumerate(f):
-                line = replace_special_spaces(line)
-                if line.strip() in ['', None, '\n']: # skip empty lines
-                    continue
-                line = line.replace('\n','').split('\t')
-                if i == 0: # the first line is the column names
-                    column_names = line
-                else: # the rest of the lines are records
-                    record = {key : value for key, value in zip(column_names, line)}
-                    record.update({common.COLUMN_NAME_DATE_MODIFIED:common.TODAYS_DATE})
-                    if not check_record_exists(c, {common.COLUMN_NAME_ENGLISH:record[common.COLUMN_NAME_ENGLISH],
-                                                    common.COLUMN_NAME_CATEGORY:record[common.COLUMN_NAME_CATEGORY],
-                                                    common.COLUMN_NAME_SUB_CATEGORY:record[common.COLUMN_NAME_SUB_CATEGORY],
-                                                    common.COLUMN_NAME_SOURCE:record[common.COLUMN_NAME_SOURCE]}):
-                        added_records += 1
-                        insert_record(c, record)
-        print("Added", added_records, "records from file: " + file)
+                for i,line in enumerate(f):
+                    line = replace_special_spaces(line)
+                    if line.strip() in ['', None, '\n']: # skip empty lines
+                        continue
+                    line = line.replace('\n','').split('\t')
+                    if i == 0: # the first line is the column names
+                        column_names = line
+                    else: # the rest of the lines are records
+                        record = {key : value for key, value in zip(column_names, line)}
+                        record.update({common.COLUMN_NAME_DATE_MODIFIED:common.TODAYS_DATE})
+                        if not check_record_exists(c, {common.COLUMN_NAME_ENGLISH:record[common.COLUMN_NAME_ENGLISH],
+                                                        common.COLUMN_NAME_CATEGORY:record[common.COLUMN_NAME_CATEGORY],
+                                                        common.COLUMN_NAME_SUB_CATEGORY:record[common.COLUMN_NAME_SUB_CATEGORY],
+                                                        common.COLUMN_NAME_SOURCE:record[common.COLUMN_NAME_SOURCE]}):
+                            added_records += 1
+                            insert_record(c, record)
+            print("Added", added_records, "records from file: " + file)
 
     conn.commit()
     print("Added all manually created CSV files to SQL")

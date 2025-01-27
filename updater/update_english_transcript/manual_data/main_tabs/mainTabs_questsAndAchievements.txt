@@ -1,0 +1,17 @@
+english	translation	category	sub_category	source
+Quest List		interface	mainTabs	questListTab
+Completed: <Num0>/<Num1>		interface	mainTabs	questListTab
+Quest Points: <Num0>/<Num1>		interface	mainTabs	questListTab
+Achievement Diaries		interface	mainTabs	achievementDiaryTab
+Ardougne		interface	mainTabs	achievementDiaryTab
+Desert		interface	mainTabs	achievementDiaryTab
+Falador		interface	mainTabs	achievementDiaryTab
+Fremennik		interface	mainTabs	achievementDiaryTab
+Kandarin		interface	mainTabs	achievementDiaryTab
+Karamja		interface	mainTabs	achievementDiaryTab
+Kourend & Kebos		interface	mainTabs	achievementDiaryTab
+Lumbridge & Draynor		interface	mainTabs	achievementDiaryTab
+Morytania		interface	mainTabs	achievementDiaryTab
+Varrock		interface	mainTabs	achievementDiaryTab
+Western Provinces		interface	mainTabs	achievementDiaryTab
+Wilderness		interface	mainTabs	achievementDiaryTab

@@ -1,0 +1,20 @@
+english	translation	category	sub_category	source
+Combat Level:		interface	mainTabs	characterSummaryTab
+Total Level:		interface	mainTabs	characterSummaryTab
+Total XP: <colNum0><Num0></col>		interface	mainTabs	characterSummaryTab
+Quests Completed:		interface	mainTabs	characterSummaryTab
+Achievements Completed:		interface	mainTabs	characterSummaryTab
+Combat Tasks Completed:		interface	mainTabs	characterSummaryTab
+Collections Logged:		interface	mainTabs	characterSummaryTab
+Time Played: Click to reveal.		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> hours</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> hour</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> hours</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> hour</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hours, <Num1> minutes</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hours, <Num1> minute</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hour, <Num1> minutes</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> hour, <Num1> minute</col>		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> minutes		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> minute		interface	mainTabs	characterSummaryTab
+Time Played: <colNum0>a minute		interface	mainTabs	characterSummaryTab
