@@ -80,10 +80,23 @@ def update_excel_transcript(target_lang_code, fill_translation_bool=False):
                         group.insert(loc=group.columns.get_loc('english') + 1, column='translation', value='')
     
 
+                # Combine the existing data and the English transcript
                 combined_df = pd.concat([lang_df, group], ignore_index=True)
-                combined_df.drop_duplicates(subset=['english', 'category', 'sub_category', 'source'], keep='first', inplace=True)
+                # Fill NaN or empty strings in 'source' and other relevant columns with a placeholder
+                # This ensures that rows with empty 'source' are considered duplicates if other fields match
+                combined_df = combined_df.assign(
+                    source=combined_df['source'].fillna(''),
+                    notes=combined_df['notes'].fillna(''),
+                    wiki_url=combined_df['wiki_url'].fillna('')
+                )
+                # Deduplicate by keeping only the first occurrence of each duplicate
+                combined_df.drop_duplicates(subset=['english', 'category', 'sub_category', 'source'], 
+                            keep='first', 
+                            inplace=True)
+                # Sort the data and write to the Excel sheet
                 final_df = combined_df.sort_values(by=['category', 'sub_category'])
                 final_df.to_excel(writer, sheet_name=category, index=False)
+
     print(f'{target_lang_code} excel transcript updated successfully.')
 
 def get_standard_lang_code(target_lang_code):
