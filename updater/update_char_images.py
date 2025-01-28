@@ -8,13 +8,19 @@ import zipfile
 from common_func import LANG
 import update_hash
 
-font_size_lang = {'ja':12, 'ru':10} # add more languages as needed
+font_size_lang = {'ja':12, 'ru':9} # max 12
+canvas_size_lang = {'ja':(12,12), 'ru':(11,11)} # canvas size in order of width, height.
+text_pad_lang = {'ja':(0,0), 'ru':(0,0)} # pixels to shift the text, in order of left padding and top padding
+bg_text_pad_lang = {'ja':(1,1), 'ru':(1,1)} # pixels to shift the 'shadow text', in order of left padding and top padding
+# add more languages as needed
 
+# some values below will change on execution
 TEXTCOLOR = [(33, 33,33, 255), (255, 255, 0, 255), (255, 0, 0, 255)
                     , (255, 165, 0, 255), (255, 255, 255, 255), (0, 255, 255, 255), (0, 255, 0, 255), (0, 0, 255, 255)]#blue was 0,0,255
 COLORORDER = ('black', 'yellow', 'red', 'orange', 'white','lightblue', 'green', 'blue') #remove orange, white, lightblue, green
-FONTSIZE = 12
-
+FONT_SIZE = 12 # changes on execution
+CANV_WIDTH = 12 # changes on execution
+CANV_HEIGHT = 12 # changes on execution
 BGCOLOR = [(130,130,130, 255),(156,148,0,255) ,(176,23,23,255) ,(140,99,24,255), (100,100,100,255), (41,135,135,255), (10,130,10,255), (115,120,245,255)] # blue bgcolor was (115,120,245,255)
 BGTEXTCOLOR = [(255,255,255,0), (0,0,0,255),(0,0,0,0), # order = (1'black', 2'yellow', 3'red',
            (0,0,0,0), (0,0,0,0), (0,0,0,0), (0,10,0,0),(255, 255, 255, 0)]#4'orange', 5'white', 6'lightblue', 7'green', 8'blue')
@@ -24,11 +30,21 @@ BGTXTPAD = (1,1)  #(width, height)
 #the color to skip in function "make_image_opaque"
 TXTCOLORSTOSKIP = []#["black"]
 
-def setFontSize(lang):
+def setSizes(lang): # set font size/text padding/shadow text position for each languages. add more languages as needed
     if lang in font_size_lang:
-        return font_size_lang[lang]
-    else:
-        return font_size_lang['ja']
+        global FONT_SIZE
+        FONT_SIZE = font_size_lang[lang]
+    if lang in canvas_size_lang:
+        global CANV_WIDTH
+        global CANV_HEIGHT
+        CANV_WIDTH = canvas_size_lang[lang][0]
+        CANV_HEIGHT = canvas_size_lang[lang][1]
+    if lang in text_pad_lang:
+        global TEXTPAD
+        TEXTPAD = text_pad_lang[lang]
+    if lang in bg_text_pad_lang:
+        global BGTXTPAD
+        BGTXTPAD = bg_text_pad_lang[lang]
 
 def getBGColor(filename):
     for i,c in enumerate(COLORORDER):
@@ -49,47 +65,47 @@ def read_file_to_list(file_path):
                 char_list.append(char)
     return char_list
 
-def setGoodFontSize(char, lang):
+def setGoodCharWidth(char, lang): # setting width for a specific character. add more languages as needed
     if lang == 'ja':
         return setJaFontSize(char)
     elif lang == 'ru':
         return setRuFontSize(char)
     else:
-        return FONTSIZE
+        return CANV_WIDTH
     
 
 def setRuFontSize(char):
     # set width of character so none are too wide and have spaces on their sides
     # see setJaFontSize for example
-    return FONTSIZE
+    return CANV_WIDTH
 
 def setJaFontSize(char):
-    width = FONTSIZE
+    width = CANV_WIDTH
     if unicodedata.east_asian_width(char) in ['Na', 'H']: # I dont remember what this means, but it's for japanese characters
-        width = math.ceil(FONTSIZE*0.7)
+        width = math.ceil(CANV_WIDTH*0.7)
     if char in ('M', 'W'): # these characters wider than normal, so set their width to be wider
-        width = math.ceil(FONTSIZE*1.02)
+        width = math.ceil(CANV_WIDTH*1.02)
     elif char in ('%', '@', 'm', '#'):
-        width = FONTSIZE
+        width = CANV_WIDTH
     elif char in ('N', 'O', 'Q','ぉ','ゃ','ゅ','ょ','ァ','ィ','ゥ','ェ','ォ','ャ','ュ','ョ', '&'):
-        width = math.ceil(FONTSIZE*0.9)
+        width = math.ceil(CANV_WIDTH*0.9)
     elif char in ('w', 'D','U','ぁ','ぃ','ぅ', 'ぇ','っ'):
-        width = math.floor(FONTSIZE*0.9)
+        width = math.floor(CANV_WIDTH*0.9)
     elif char in ('d','e','k','y', 's','u'):
-        width = math.floor(FONTSIZE*0.7)
+        width = math.floor(CANV_WIDTH*0.7)
     elif char in ('a','c','v', 'x','z'):
-        width = math.floor(FONTSIZE*0.65)
+        width = math.floor(CANV_WIDTH*0.65)
     elif char in ('f', 'r','｝','｛','＾'):
-        width = math.floor(FONTSIZE*0.6)
+        width = math.floor(CANV_WIDTH*0.6)
     elif char in ('1','t', 'J', 'I','"','(',')','[',']', '{','}','\\','_','-','、','。','「','」','*','/','~','”','^','`','・'):
-        width = math.floor(FONTSIZE*0.5)
+        width = math.floor(CANV_WIDTH*0.5)
     elif char in (' ', 'i', '|','!', '　', '\'',':',';', 'l','j','’','（','）','：','；','.',',','|','…'): # these are some of the narrowest characters, so set their width to be narrow
-        width = math.ceil(FONTSIZE*0.3)
+        width = math.ceil(CANV_WIDTH*0.3)
     return width
 
 
 def create_images(chars_list, font_path, output_dir, colors, lang):
-    font = ImageFont.truetype(font_path, FONTSIZE)  # Load the font, size FONTSIZE
+    font = ImageFont.truetype(font_path, FONT_SIZE)  # Load the font, size FONTSIZE
     
     for i, color in enumerate(colors):
         
@@ -100,9 +116,9 @@ def create_images(chars_list, font_path, output_dir, colors, lang):
         for char in chars_list:
             charName = colorName + '--' + str(ord(char))
 
-            width = setGoodFontSize(char, lang)
+            width = setGoodCharWidth(char, lang)
 
-            image = Image.new('RGBA', (width + TEXTPAD[0], FONTSIZE+ TEXTPAD[1]), BGCOLOR[i])  # Create blank image
+            image = Image.new('RGBA', (width, CANV_HEIGHT), BGCOLOR[i])  # Create blank image
             # set top padding to transparrent if colour is black
             if colorName == 'black':
                 pixels = image.load()
@@ -110,15 +126,12 @@ def create_images(chars_list, font_path, output_dir, colors, lang):
                     for y in range(TEXTPAD[1]):  # Top rows
                         pixels[x, y] = (0, 0, 0, 0) 
             
-            textPadActual = TEXTPAD
-            if(char in ["g","j","p","q"]):
-                textPadActual = [TEXTPAD[0] + 0,TEXTPAD[1]-0]
                 
             draw = ImageDraw.Draw(image)
             #draw shade of character for yellow only, because overhead texts look strange without it
             if colorName == 'yellow':
-                draw.text((textPadActual[0] + BGTXTPAD[0], textPadActual[1]+BGTXTPAD[1]), char, font=font, fill=BGTEXTCOLOR[i])
-            draw.text((textPadActual[0], textPadActual[1]), char, font=font, fill=color)  # Draw the character
+                draw.text((TEXTPAD[0] + BGTXTPAD[0], TEXTPAD[1]+BGTXTPAD[1]), char, font=font, fill=BGTEXTCOLOR[i])
+            draw.text((TEXTPAD[0], TEXTPAD[1]), char, font=font, fill=color)  # Draw the character
             image_file_name = f'{charName}.png' 
             image.save(os.path.join(output_dir, image_file_name))  # Save the image
 
@@ -215,7 +228,7 @@ if __name__ == '__main__':
     file_path = "char_lists/all_char_" + language + ".txt"
     chars_list = read_file_to_list(file_path)
 
-    setFontSize(language)
+    setSizes(language)
     font_candidates = get_font_list(language)
     print("enter a number;")
     for i, f in enumerate(font_candidates):

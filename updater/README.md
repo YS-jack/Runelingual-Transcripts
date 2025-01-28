@@ -54,7 +54,53 @@ After you've made progress with translation and want to update the plugin, you c
 5. Check that no files have been deleted in other languages' folder.
 6. After you are sure correct files are in each folder of [public folder](../public/), make a pull request, and have someone accept it.
 
+## Adding/Updating Character images
+1. Prepare a file that contains all texts to be displayed in-game, save it as `all_char_??.txt`, where `??` is [the language code](https://developers.deepl.com/docs/resources/supported-languages#target-languages) for your language.
+2. Download a font (.ttf format) that is Copy right free, free to use for commercial use, as free from restrictions as possible.
+3. Add the file from Step 1 to [char_lists folder](char_lists/), and the font file from Step 2 (.ttf) to the [fonts folder](fonts/), which are both found in the updater folder.
+4. If the new language's code isn't added to [common_func](common_func.py)'s `LANG` and `LANG_CODE_STANDARD`, add the [same code](https://developers.deepl.com/docs/resources/supported-languages#target-languages) as in Step 1.
+5. In [updatecharimages.py](./update_char_images.py),
+    - Add default variables for your language to the end of 
+    ``` python
+    font_size_lang = {'ja':12, 'ru':9} # max 12
+    canvas_size_lang = {'ja':(12,12), 'ru':(11,11)} # canvas size in order of width, height.
+    text_pad_lang = {'ja':(0,0), 'ru':(0,0)} # pixels to shift the text, in order of left padding and top padding
+    bg_text_pad_lang = {'ja':(1,1), 'ru':(1,1)} # pixels to shift the 'shadow text', in order of left padding and top padding
+    # add more languages as needed
+    ```
+    You can change the size to be more recognizable later, just set the values to something similart to ones that exist already for now.
+6. Create the fonts, by running the `update_char_images.py` while in `Runelingual-Transcripts` directory. 
+<br>It will prompt you so enter numbers for your desired language and font style. 
+<br>The process will take a while, but after it creates hashes, 
 
+7. Check the output folder. The output will be found under [the draft folder](../draft/)/(language_code)/char foler.
+<br> You are likely to find that some letters don't fit in the canvas, and some have too much room.
+    - Change the vairables you have set in Step 5. Probably the font_size_lang and canvas_size_lang would change, and the latter 2 not.
+    - Optimize width of each characters by adding a function to `setGoodFontSize()` like
+    ```python
+    def setGoodCharWidth(char, lang): # setting width for a specific character. add more languages as needed
+        if lang == 'ja':
+            return setJaFontSize(char)
+        elif lang == 'ru':
+            return setRuFontSize(char)
+        else:
+            return CANV_WIDTH
+
+    def setJaFontSize(char):
+        width = CANV_WIDTH
+        if char in ('M', 'W'): # these characters wider than normal, so set their width to be wider
+            width = math.ceil(CANV_WIDTH*1.02)
+        elif char in ('%', '@', 'm', '#'):
+            width = CANV_WIDTH
+        ...
+        return width
+    ```
+    Here you can set width for each individual characters.
+<br>This is necessary because some characters such as `W` and `M` can be wide, while `i`, `l`, `.` are much narrower.
+8. Repeat Step 6 and 7 to get a natural looking set of characters.
+9. Delete the unzipped `char_??` file, as the plugin only downloads the `char_??.zip` to aquire the character images.
+10. Add, commit, push, and make a PR for one of the devs to accept.
+11. Once the language is added to the plugin, you'll be able to see the result in-game.
 ## Contributing
 
 We welcome contributions to improve our updater scripts. If you'd like to contribute, please refer to the main [README.md](../README.md) file for more information.
