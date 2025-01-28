@@ -23,7 +23,7 @@ def read_second_column_from_tsv(filepath):
 def get_unique_characters(text):
     return set(text)
 
-def check_characters_in_file(files_to_check, reference_file):
+def get_missing_chars_in_file(files_to_check, reference_file):
     reference_text = read_file(reference_file)
     reference_chars = get_unique_characters(reference_text)
 
@@ -56,7 +56,7 @@ def get_files_with_extension(directory, extension):
 
 def main():
     extension = ".tsv"
-    print("this script will check if all characters in the files ending with '.tsv' in the specified directory are present in the reference file.")
+    print("this script will check for missing characters in 'all_char_??.txt' file that exists in files ending with '.tsv' in the specified directory.")
 
     # choose language
     print("enter a number;")
@@ -72,7 +72,7 @@ def main():
     files = get_files_with_extension(target_dir, extension)
     reference_file = os.path.join(os.path.dirname(current_file_path),"all_char_" + language + ".txt")
 
-    missing_chars = check_characters_in_file(files, reference_file)
+    missing_chars = get_missing_chars_in_file(files, reference_file)
 
     accepted_characters = set("ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ０１２３４５６７８９！？、。\！”＃＄％＆＇（）＊＋，－．／：；＜＝＞？＠［＼］＾＿｀｛｜｝　")
     missing_chars = missing_chars - accepted_characters
