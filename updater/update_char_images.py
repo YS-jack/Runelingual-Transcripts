@@ -49,20 +49,19 @@ def read_file_to_list(file_path):
                 char_list.append(char)
     return char_list
 
-def setGoodFontSize(char):
+def setGoodFontSize(char, lang):
     if lang == 'ja':
         return setJaFontSize(char)
-    """
     elif lang == 'ru':
         return setRuFontSize(char)
     else:
         return FONTSIZE
-    """
+    
 
 def setRuFontSize(char):
     # set width of character so none are too wide and have spaces on their sides
     # see setJaFontSize for example
-    pass
+    return FONTSIZE
 
 def setJaFontSize(char):
     width = FONTSIZE
@@ -110,12 +109,13 @@ def create_images(chars_list, font_path, output_dir, colors, lang):
                 for x in range(width):
                     for y in range(TEXTPAD[1]):  # Top rows
                         pixels[x, y] = (0, 0, 0, 0) 
+            
+            textPadActual = TEXTPAD
             if(char in ["g","j","p","q"]):
                 textPadActual = [TEXTPAD[0] + 0,TEXTPAD[1]-0]
-            else:
-                textPadActual = TEXTPAD
+                
             draw = ImageDraw.Draw(image)
-            #draw shade of character
+            #draw shade of character for yellow only, because overhead texts look strange without it
             if colorName == 'yellow':
                 draw.text((textPadActual[0] + BGTXTPAD[0], textPadActual[1]+BGTXTPAD[1]), char, font=font, fill=BGTEXTCOLOR[i])
             draw.text((textPadActual[0], textPadActual[1]), char, font=font, fill=color)  # Draw the character
@@ -166,10 +166,6 @@ def make_image_opaque(image_path):
     bgColor, c = getBGColor(image_path) # in rgba
     #bgColor = (156,148,0,255)
     if not c in TXTCOLORSTOSKIP:
-        '''for pixel in data:
-            print("pixel color = " + str(pixel[0]) + ", " + str(pixel[1]) + ", " + str(pixel[2]) + ", " + str(pixel[3]))
-            print("bgColor     = " + str(bgColor[0]) + ", " + str(bgColor[1]) + ", " + str(bgColor[2]) + ", " + str(bgColor[3]))
-            print()]'''
         #print(bgColor)
         data = [(0, 0, 0, 0) \
                     if item[0] == bgColor[0] and item[1] == bgColor[1] and item[2] == bgColor[2] \
@@ -208,6 +204,7 @@ def zip_char_img(zip_file_name, target_folder_path):
                 file_path = os.path.join(root, file)
                 # Adding file to zip
                 zipf.write(file_path, os.path.relpath(file_path, os.path.dirname(target_folder_path)))
+
 
 if __name__ == '__main__':
     print("enter a number;")
