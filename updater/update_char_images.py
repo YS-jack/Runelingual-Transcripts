@@ -8,15 +8,14 @@ import zipfile
 from common_func import LANG
 import update_hash
 
-
+font_size_lang = {'ja':12, 'ru':10} # add more languages as needed
 
 TEXTCOLOR = [(33, 33,33, 255), (255, 255, 0, 255), (255, 0, 0, 255)
                     , (255, 165, 0, 255), (255, 255, 255, 255), (0, 255, 255, 255), (0, 255, 0, 255), (0, 0, 255, 255)]#blue was 0,0,255
-#TEXTCOLOR = [(33, 33,33, 255), (33, 33,33, 255), (33, 33,33, 255), (255, 165, 0, 255), (33, 33,33, 255), (0, 255, 255, 255), (33, 33,33, 255), (0, 0, 255, 255)]#blue was 0,0,255
 COLORORDER = ('black', 'yellow', 'red', 'orange', 'white','lightblue', 'green', 'blue') #remove orange, white, lightblue, green
 FONTSIZE = 12
+
 BGCOLOR = [(130,130,130, 255),(156,148,0,255) ,(176,23,23,255) ,(140,99,24,255), (100,100,100,255), (41,135,135,255), (10,130,10,255), (115,120,245,255)] # blue bgcolor was (115,120,245,255)
-#BGCOLOR = [(100,100,100, 255),(70,70,70,255) ,(168,168,168,255) ,(120,120,120,255), (200,200,200,255), (41,135,135,255), (168,168,168,255), (115,120,245,255)] # blue bgcolor was (115,120,245,255)
 BGTEXTCOLOR = [(255,255,255,0), (0,0,0,255),(0,0,0,0), # order = (1'black', 2'yellow', 3'red',
            (0,0,0,0), (0,0,0,0), (0,0,0,0), (0,10,0,0),(255, 255, 255, 0)]#4'orange', 5'white', 6'lightblue', 7'green', 8'blue')
 TEXTPAD = (0,0)#(width, height)
@@ -24,6 +23,12 @@ BGTXTPAD = (1,1)  #(width, height)
 
 #the color to skip in function "make_image_opaque"
 TXTCOLORSTOSKIP = []#["black"]
+
+def setFontSize(lang):
+    if lang in font_size_lang:
+        return font_size_lang[lang]
+    else:
+        return font_size_lang['ja']
 
 def getBGColor(filename):
     for i,c in enumerate(COLORORDER):
@@ -45,10 +50,25 @@ def read_file_to_list(file_path):
     return char_list
 
 def setGoodFontSize(char):
+    if lang == 'ja':
+        return setJaFontSize(char)
+    """
+    elif lang == 'ru':
+        return setRuFontSize(char)
+    else:
+        return FONTSIZE
+    """
+
+def setRuFontSize(char):
+    # set width of character so none are too wide and have spaces on their sides
+    # see setJaFontSize for example
+    pass
+
+def setJaFontSize(char):
     width = FONTSIZE
-    if unicodedata.east_asian_width(char) in ['Na', 'H']:
+    if unicodedata.east_asian_width(char) in ['Na', 'H']: # I dont remember what this means, but it's for japanese characters
         width = math.ceil(FONTSIZE*0.7)
-    if char in ('M', 'W'):
+    if char in ('M', 'W'): # these characters wider than normal, so set their width to be wider
         width = math.ceil(FONTSIZE*1.02)
     elif char in ('%', '@', 'm', '#'):
         width = FONTSIZE
@@ -64,12 +84,12 @@ def setGoodFontSize(char):
         width = math.floor(FONTSIZE*0.6)
     elif char in ('1','t', 'J', 'I','"','(',')','[',']', '{','}','\\','_','-','、','。','「','」','*','/','~','”','^','`','・'):
         width = math.floor(FONTSIZE*0.5)
-    elif char in (' ', 'i', '|','!', '　', '\'',':',';', 'l','j','’','（','）','：','；','.',',','|','…'):
+    elif char in (' ', 'i', '|','!', '　', '\'',':',';', 'l','j','’','（','）','：','；','.',',','|','…'): # these are some of the narrowest characters, so set their width to be narrow
         width = math.ceil(FONTSIZE*0.3)
     return width
-# review :8217 8221
 
-def create_images(chars_list, font_path, output_dir, colors):
+
+def create_images(chars_list, font_path, output_dir, colors, lang):
     font = ImageFont.truetype(font_path, FONTSIZE)  # Load the font, size FONTSIZE
     
     for i, color in enumerate(colors):
@@ -81,7 +101,7 @@ def create_images(chars_list, font_path, output_dir, colors):
         for char in chars_list:
             charName = colorName + '--' + str(ord(char))
 
-            width = setGoodFontSize(char)
+            width = setGoodFontSize(char, lang)
 
             image = Image.new('RGBA', (width + TEXTPAD[0], FONTSIZE+ TEXTPAD[1]), BGCOLOR[i])  # Create blank image
             # set top padding to transparrent if colour is black
@@ -116,12 +136,13 @@ def list_image_names(out_dir_base):
                 # Write the filename to the file with a newline
                 file.write(filename + '\n')
 
-def get_font_list():
+def get_font_list(lang):
     # Get the current directory
     current_directory = os.getcwd()
     
     # Construct the path to the "fonts" folder
     fonts_folder_path = os.path.join(current_directory, "fonts")
+    fonts_folder_path = os.path.join(fonts_folder_path, lang)
     
     # Check if the "fonts" folder exists
     if os.path.exists(fonts_folder_path) and os.path.isdir(fonts_folder_path):
@@ -129,7 +150,7 @@ def get_font_list():
         ttf_files = [os.path.join(fonts_folder_path,file) for file in os.listdir(fonts_folder_path) if file.endswith(".ttf")]
         return ttf_files
     else:
-        print("The 'fonts' folder does not exist or is not a directory.")
+        print(f"The 'fonts/'{lang} folder does not exist or is not a directory.")
         return []
         
 def make_image_opaque(image_path):
@@ -180,8 +201,6 @@ def process_directory_to_opaque(directory):
             make_image_opaque(image_path)
 
 def zip_char_img(zip_file_name, target_folder_path):
-    #zip_file_name = './repos/char.zip'
-    #folder_path = './repos/char'
     with zipfile.ZipFile(zip_file_name, 'w', zipfile.ZIP_DEFLATED) as zipf:
         for root, dirs, files in os.walk(target_folder_path):
             for file in files:
@@ -199,7 +218,8 @@ if __name__ == '__main__':
     file_path = "char_lists/all_char_" + language + ".txt"
     chars_list = read_file_to_list(file_path)
 
-    font_candidates = get_font_list()
+    setFontSize(language)
+    font_candidates = get_font_list(language)
     print("enter a number;")
     for i, f in enumerate(font_candidates):
         print(f"{i} for {f}")
@@ -211,7 +231,7 @@ if __name__ == '__main__':
     common_func.create_directories_if_not_exist(output_dir_base=output_dir_base)
 
 
-    create_images(chars_list, font_path, output_dir_base, TEXTCOLOR)
+    create_images(chars_list, font_path, output_dir_base, TEXTCOLOR, language)
     process_directory_to_opaque(output_dir_base)
     zip_char_img(zip_file_name="../draft/" + language + "/char_"  + language + ".zip", target_folder_path=output_dir_base)
     #list_image_names(output_dir_base)
