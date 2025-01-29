@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xliff:file source-language="en" target-language="ru" datatype="plaintext" original="transcript.db">
+    <xliff:body>
+      <xliff:trans-unit id="44262">
+        <xliff:source>Click here to continue</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: dialogue
+sub_category: manual
+source: 
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="44263">
+        <xliff:source>Please wait...</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: dialogue
+sub_category: manual
+source: 
+wiki_url: None</xliff:note>
+      </xliff:trans-unit>
+    </xliff:body>
+  </xliff:file>
+</xliff:xliff>
