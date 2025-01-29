@@ -72,12 +72,20 @@ def setGoodCharWidth(char, lang): # setting width for a specific character. add 
         return setRuFontSize(char)
     else:
         return CANV_WIDTH
-    
+
 
 def setRuFontSize(char):
-    # set width of character so none are too wide and have spaces on their sides
-    # see setJaFontSize for example
-    return CANV_WIDTH
+    width = setJaFontSize(char)
+
+    if char in ('%', '@', 'M', 'N', 'O', 'А', 'Д', 'М', 'О', 'Ф', 'Ц', 'Ъ', 'Ь'):
+        width = math.ceil(CANV_WIDTH * 0.8)
+    elif char in('Б', 'В', 'Е', 'З', 'И', 'Й', 'К', 'Л', 'Н', 'П', 'С', 'ж', 'ф', 'ю', 'Х', 'Р', 'Ч', 'Я', 'Э', 'ш', 'Ё'):
+        width = math.ceil(CANV_WIDTH * 0.7)
+    elif char in('Г', 'Т', 'У' , '#', '&', 'а', 'б', 'в', 'д', 'е', 'и', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'х', 'ц', 'ч', 'ъ', 'ы', 'ь', 'э', 'я', 'ё'):
+        width = math.ceil(CANV_WIDTH * 0.6)
+    elif char in ('2', '3', '4', '5', '6', '7', '8', '9', '0', '$', 'г', 'з', 'т', 'у'):
+        width = math.ceil(CANV_WIDTH * 0.5)
+    return width
 
 def setJaFontSize(char):
     width = CANV_WIDTH
@@ -106,13 +114,13 @@ def setJaFontSize(char):
 
 def create_images(chars_list, font_path, output_dir, colors, lang):
     font = ImageFont.truetype(font_path, FONT_SIZE)  # Load the font, size FONTSIZE
-    
+
     for i, color in enumerate(colors):
-        
+
         colorName = COLORORDER[i]
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
-        
+
         for char in chars_list:
             charName = colorName + '--' + str(ord(char))
 
@@ -124,15 +132,15 @@ def create_images(chars_list, font_path, output_dir, colors, lang):
                 pixels = image.load()
                 for x in range(width):
                     for y in range(TEXTPAD[1]):  # Top rows
-                        pixels[x, y] = (0, 0, 0, 0) 
-            
-                
+                        pixels[x, y] = (0, 0, 0, 0)
+
+
             draw = ImageDraw.Draw(image)
             #draw shade of character for yellow only, because overhead texts look strange without it
             if colorName == 'yellow':
                 draw.text((TEXTPAD[0] + BGTXTPAD[0], TEXTPAD[1]+BGTXTPAD[1]), char, font=font, fill=BGTEXTCOLOR[i])
             draw.text((TEXTPAD[0], TEXTPAD[1]), char, font=font, fill=color)  # Draw the character
-            image_file_name = f'{charName}.png' 
+            image_file_name = f'{charName}.png'
             image.save(os.path.join(output_dir, image_file_name))  # Save the image
 
 def list_image_names(out_dir_base):
@@ -152,11 +160,11 @@ def list_image_names(out_dir_base):
 def get_font_list(lang):
     # Get the current directory
     current_directory = os.getcwd()
-    
+
     # Construct the path to the "fonts" folder
     fonts_folder_path = os.path.join(current_directory, "fonts")
     fonts_folder_path = os.path.join(fonts_folder_path, lang)
-    
+
     # Check if the "fonts" folder exists
     if os.path.exists(fonts_folder_path) and os.path.isdir(fonts_folder_path):
         # Get a list of all files in the "fonts" folder ending with ".ttf"
@@ -165,7 +173,7 @@ def get_font_list(lang):
     else:
         print(f"The 'fonts/'{lang} folder does not exist or is not a directory.")
         return []
-        
+
 def make_image_opaque(image_path):
     # Open the image
     img = Image.open(image_path)
