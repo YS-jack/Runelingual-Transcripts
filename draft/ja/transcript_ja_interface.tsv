@@ -3991,4 +3991,6 @@ Kick	蹴る	interface	mainTabs	combatOptionsTab
 Name: <asis><playerName></asis>	名前：<asis><playerName></asis>	interface	mainTabs	accountManagementTab
 Name: <asis><!playerName></asis>	名前：<asis><!playerName></asis>	interface	mainTabs	accountManagementTab
 Name: <!playerName>	名前：<!playerName>	interface	mainTabs	accountManagementTab
-Name: <!PLAYER_NAME0>	名前：<!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
+Name: <!PLAYER_NAME0>	名前： <!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
+Current Poll: <colNum0>Active</col>	現在の投票:<colNum0>あり</col>	interface	mainTabs	accountManagementTab
+Vote Now	投票する	interface	mainTabs	accountManagementTab
