@@ -34,3 +34,5 @@ Hiscores		interface	mainTabs	accountManagementTab
 Old School Wiki		interface	mainTabs	accountManagementTab
 Merchandise		interface	mainTabs	accountManagementTab
 Name: <!PLAYER_NAME0>		interface	mainTabs	accountManagementTab
+Current Poll: <colNum0>Active</col>		interface	mainTabs	accountManagementTab
+Vote Now		interface	mainTabs	accountManagementTab

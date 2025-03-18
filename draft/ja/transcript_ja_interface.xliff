@@ -27118,7 +27118,13 @@ source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118918"><xliff:source>Name: &lt;!playerName&gt;</xliff:source><xliff:target state="translated">名前：&lt;!playerName&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118919"><xliff:source>Name: &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">名前：&lt;!PLAYER_NAME0&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118919"><xliff:source>Name: &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">名前： &lt;!PLAYER_NAME0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118920"><xliff:source>Current Poll: &lt;colNum0&gt;Active&lt;/col&gt;</xliff:source><xliff:target state="translated">現在の投票:&lt;colNum0&gt;あり&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118921"><xliff:source>Vote Now</xliff:source><xliff:target state="translated">投票する</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

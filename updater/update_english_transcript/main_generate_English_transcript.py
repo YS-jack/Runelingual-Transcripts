@@ -57,8 +57,8 @@ if __name__ == "__main__":
         add_wiki_data_to_db()
     else:
         print("Please specify an argument")
-        print("To update everything (manual transcripts, chisel data (npc, item, object names + examines + options), wiki data (npc dialogues)): python main_generate_English_transcript.py --updateAll")
-        print("Does not delete current data, just add manual transcripts: python main_generate_English_transcript.py --updateManual")
-        print("Does not delete current data, just add chisel data (npc, item, object names + examines + options): python main_generate_English_transcript.py --updateChisel")
-        print("Does not delete current data, just add wiki data (npc dialogues): python main_generate_English_transcript.py --updateWiki")
+        print("--updateAll : To update everything (manual transcripts, chisel data (npc, item, object names + examines + options), wiki data (npc dialogues)): python main_generate_English_transcript.py --updateAll")
+        print("--addManual : Does not delete current data, just add manual transcripts")
+        print("--addChisel : Does not delete current data, just add chisel data (npc, item, object names + examines + options)")
+        print("--addWiki : Does not delete current data, just add wiki data (npc dialogues)")
         exit(1)
