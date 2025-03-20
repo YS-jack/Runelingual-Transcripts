@@ -3995,7 +3995,7 @@ Name: <!PLAYER_NAME0>	名前： <!PLAYER_NAME0>	interface	mainTabs	accountManage
 Current Poll: <colNum0>Active</col>	現在の投票:<colNum0>あり</col>	interface	mainTabs	accountManagementTab
 Vote Now	投票する	interface	mainTabs	accountManagementTab
 World <Num0>	<colNum0>世界<Num0>	interface	mainTabs	friendsTab
-W<Num0>	W<Num0>	interface	mainTabs	groupTab
+W<Num0>	世<Num0>	interface	mainTabs	groupTab
 Vacancy	（空き）	interface	mainTabs	groupTab
 <colNum0>Settings</col>	<colNum0>設定</col>	interface	mainTabs	groupTab
 <colNum0><colNum1>Connecting...</col></col>	<colNum0><colNum1>接続中・・・</col></col>	interface	mainTabs	groupTab
