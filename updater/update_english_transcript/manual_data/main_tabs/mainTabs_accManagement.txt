@@ -1,6 +1,7 @@
 english	translation	category	sub_category	source
 Friends - W<Num0> (<Num1>/<Num2>)		interface	mainTabs	friendsTab
 <colNum0>World <Num0>		interface	mainTabs	friendsTab
+World <Num0>		interface	mainTabs	friendsTab
 Offline		interface	mainTabs	friendsTab
 Del Friend		interface	mainTabs	friendsTab
 Ignores - W<Num0> (<Num1>/<Num2>)		interface	mainTabs	ignoreTab

@@ -3994,3 +3994,59 @@ Name: <!playerName>	名前：<!playerName>	interface	mainTabs	accountManagementT
 Name: <!PLAYER_NAME0>	名前： <!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
 Current Poll: <colNum0>Active</col>	現在の投票:<colNum0>あり</col>	interface	mainTabs	accountManagementTab
 Vote Now	投票する	interface	mainTabs	accountManagementTab
+World <Num0>	<colNum0>世界<Num0>	interface	mainTabs	friendsTab
+W<Num0>	W<Num0>	interface	mainTabs	groupTab
+Vacancy	（空き）	interface	mainTabs	groupTab
+<colNum0>Settings</col>	<colNum0>設定</col>	interface	mainTabs	groupTab
+<colNum0><colNum1>Connecting...</col></col>	<colNum0><colNum1>接続中・・・</col></col>	interface	mainTabs	groupTab
+<colNum0>Join</col>	<colNum0>参加</col>	interface	mainTabs	groupTab
+Setup	設定	interface	mainTabs	groupTab
+<colNum0>Leave</col>	<colNum0>退会</col>	interface	mainTabs	groupTab
+Settings	設定	interface	mainTabs	groupTab
+You are not currently chatting in this clan's channel.	現在このクランのチャットに参加していません。	interface	mainTabs	groupTab
+<colNum0>Chat</col>	<colNum0>チャット</col>	interface	mainTabs	groupTab
+Your Clan	クラン	interface	mainTabs	groupTab
+<colNum0>No current clan</col>	<colNum0>クラン無所属</col>	interface	mainTabs	groupTab
+<colNum0>Discard</col>	<colNum0>退会</col>	interface	mainTabs	groupTab
+View another clan	別のクランを見学	interface	mainTabs	groupTab
+<colNum0>Find</col>	<colNum0>検索</col>	interface	mainTabs	groupTab
+<colNum0>Fetching data...</col>	<colNum0>データ取得中</col>	interface	mainTabs	groupTab
+PvP Arena	PvPアリーナ	interface	mainTabs	groupTab
+You have currently loaded <!PLAYER_NAME0>, which is not a PvP Arena group.	見学中のクラン「<!PLAYER_NAME0>」はPvPアリーナのクランではありません。	interface	mainTabs	groupTab
+Options	設定	interface	mainTabs	groupTab
+Grouping	グループ	interface	mainTabs	groupTab
+Select an activity...	アクティビティ選択	interface	mainTabs	groupTab
+You are not currently in a grouping chat-channel.	現在専用チャットに未参加です。	interface	mainTabs	groupTab
+Suggested world:	オススメの世界：	interface	mainTabs	groupTab
+Teleport	ワープ	interface	mainTabs	groupTab
+Barbarian Assault	バーバリアン・アサルト	interface	mainTabs	groupTab
+Blast Furnace	ブラスト・ファーネス	interface	mainTabs	groupTab
+Burthorpe Games Room	バーソープの娯楽部屋	interface	mainTabs	groupTab
+Castle Wars	キャッスル・ウォーズ	interface	mainTabs	groupTab
+Clan Wars	クラン対戦	interface	mainTabs	groupTab
+Dagannoth Kings	ダガノス・キング	interface	mainTabs	groupTab
+Fishing Trawler	トロール漁船	interface	mainTabs	groupTab
+Giants' Foundry	巨人の鋳造所	interface	mainTabs	groupTab
+God Wars	神戦	interface	mainTabs	groupTab
+Guardians of the Rift	裂け目の守護者	interface	mainTabs	groupTab
+Last Man Standing	最後の一人	interface	mainTabs	groupTab
+Mage Training Arena	魔術師の訓練所	interface	mainTabs	groupTab
+Nightmare Zone	悪夢の領域	interface	mainTabs	groupTab
+Pest Control	害獣駆除	interface	mainTabs	groupTab
+Player Owned Houses	プレーヤーの家	interface	mainTabs	groupTab
+Rat Pits	ネズミ闘技場	interface	mainTabs	groupTab
+Royal Titans	高貴な巨人	interface	mainTabs	groupTab
+Shades of Mort'ton	モートンの陰	interface	mainTabs	groupTab
+Shield of Arrav	アラヴの盾	interface	mainTabs	groupTab
+Shooting Stars	流れ星	interface	mainTabs	groupTab
+Soul Wars	ソウル・ウォーズ	interface	mainTabs	groupTab
+Theatre of Blood	血の劇場	interface	mainTabs	groupTab
+Tithe Farm	タイス農場	interface	mainTabs	groupTab
+Tombs of Amascut	アマスカットの墓	interface	mainTabs	groupTab
+Trouble Brewing	醸造トラブル	interface	mainTabs	groupTab
+TzHaar Fight Pit	ツザー闘技場	interface	mainTabs	groupTab
+Volcanic Mine	火山鉱山	interface	mainTabs	groupTab
+Join	参加	interface	mainTabs	groupTab
+(none)	（なし）	interface	mainTabs	groupTab
+Leave	去る	interface	mainTabs	groupTab
+You are currently talking in the <col=ffffff><!ANY_TRANSLATED0></col> channel.	現在<col=ffffff><!ANY_TRANSLATED0></col>チャンネルに参加中	interface	mainTabs	groupTab

@@ -27127,6 +27127,174 @@ source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118921"><xliff:source>Vote Now</xliff:source><xliff:target state="translated">投票する</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118922"><xliff:source>World &lt;Num0&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118923"><xliff:source>W&lt;Num0&gt;</xliff:source><xliff:target state="translated">W&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118924"><xliff:source>Vacancy</xliff:source><xliff:target state="translated">（空き）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118925"><xliff:source>&lt;colNum0&gt;Settings&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;設定&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118926"><xliff:source>&lt;colNum0&gt;&lt;colNum1&gt;Connecting...&lt;/col&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;colNum1&gt;接続中・・・&lt;/col&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118927"><xliff:source>&lt;colNum0&gt;Join&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;参加&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118928"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118929"><xliff:source>&lt;colNum0&gt;Leave&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;退会&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118930"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118931"><xliff:source>You are not currently chatting in this clan's channel.</xliff:source><xliff:target state="translated">現在このクランのチャットに参加していません。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118932"><xliff:source>&lt;colNum0&gt;Chat&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャット&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118933"><xliff:source>Your Clan</xliff:source><xliff:target state="translated">クラン</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118934"><xliff:source>&lt;colNum0&gt;No current clan&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;クラン無所属&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118935"><xliff:source>&lt;colNum0&gt;Discard&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;退会&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118936"><xliff:source>View another clan</xliff:source><xliff:target state="translated">別のクランを見学</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118937"><xliff:source>&lt;colNum0&gt;Find&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;検索&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118938"><xliff:source>&lt;colNum0&gt;Fetching data...&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;データ取得中&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118939"><xliff:source>PvP Arena</xliff:source><xliff:target state="translated">PvPアリーナ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118940"><xliff:source>You have currently loaded &lt;!PLAYER_NAME0&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン「&lt;!PLAYER_NAME0&gt;」はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118941"><xliff:source>Options</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118942"><xliff:source>Grouping</xliff:source><xliff:target state="translated">グループ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118943"><xliff:source>Select an activity...</xliff:source><xliff:target state="translated">アクティビティ選択</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118944"><xliff:source>You are not currently in a grouping chat-channel.</xliff:source><xliff:target state="translated">現在専用チャットに未参加です。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118945"><xliff:source>Suggested world:</xliff:source><xliff:target state="translated">オススメの世界：</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118946"><xliff:source>Teleport</xliff:source><xliff:target state="translated">ワープ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118947"><xliff:source>Barbarian Assault</xliff:source><xliff:target state="translated">バーバリアン・アサルト</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118948"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラスト・ファーネス</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118949"><xliff:source>Burthorpe Games Room</xliff:source><xliff:target state="translated">バーソープの娯楽部屋</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118950"><xliff:source>Castle Wars</xliff:source><xliff:target state="translated">キャッスル・ウォーズ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118951"><xliff:source>Clan Wars</xliff:source><xliff:target state="translated">クラン対戦</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118952"><xliff:source>Dagannoth Kings</xliff:source><xliff:target state="translated">ダガノス・キング</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118953"><xliff:source>Fishing Trawler</xliff:source><xliff:target state="translated">トロール漁船</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118954"><xliff:source>Giants' Foundry</xliff:source><xliff:target state="translated">巨人の鋳造所</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118955"><xliff:source>God Wars</xliff:source><xliff:target state="translated">神戦</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118956"><xliff:source>Guardians of the Rift</xliff:source><xliff:target state="translated">裂け目の守護者</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118957"><xliff:source>Last Man Standing</xliff:source><xliff:target state="translated">最後の一人</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118958"><xliff:source>Mage Training Arena</xliff:source><xliff:target state="translated">魔術師の訓練所</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118959"><xliff:source>Nightmare Zone</xliff:source><xliff:target state="translated">悪夢の領域</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118960"><xliff:source>Pest Control</xliff:source><xliff:target state="translated">害獣駆除</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118961"><xliff:source>Player Owned Houses</xliff:source><xliff:target state="translated">プレーヤーの家</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118962"><xliff:source>Rat Pits</xliff:source><xliff:target state="translated">ネズミ闘技場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118963"><xliff:source>Royal Titans</xliff:source><xliff:target state="translated">高貴な巨人</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118964"><xliff:source>Shades of Mort'ton</xliff:source><xliff:target state="translated">モートンの陰</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118965"><xliff:source>Shield of Arrav</xliff:source><xliff:target state="translated">アラヴの盾</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118966"><xliff:source>Shooting Stars</xliff:source><xliff:target state="translated">流れ星</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118967"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">ソウル・ウォーズ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118968"><xliff:source>Theatre of Blood</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118969"><xliff:source>Tithe Farm</xliff:source><xliff:target state="translated">タイス農場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118970"><xliff:source>Tombs of Amascut</xliff:source><xliff:target state="translated">アマスカットの墓</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118971"><xliff:source>Trouble Brewing</xliff:source><xliff:target state="translated">醸造トラブル</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118972"><xliff:source>TzHaar Fight Pit</xliff:source><xliff:target state="translated">ツザー闘技場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118973"><xliff:source>Volcanic Mine</xliff:source><xliff:target state="translated">火山鉱山</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118974"><xliff:source>Join</xliff:source><xliff:target state="translated">参加</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118975"><xliff:source>(none)</xliff:source><xliff:target state="translated">（なし）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118976"><xliff:source>Leave</xliff:source><xliff:target state="translated">去る</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118977"><xliff:source>You are currently talking in the &lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;チャンネルに参加中</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
