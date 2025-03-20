@@ -29947,6 +29947,21 @@ source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119861"><xliff:source>Adjust Brightness</xliff:source><xliff:target state="translated">明るさを調整</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119862"><xliff:source>Magic  Magic  Magic</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119863"><xliff:source>Work  Work  Work</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119864"><xliff:source>PK Skull Prevention (currently off)</xliff:source><xliff:target state="translated">PKドクロ防止（現在OFF）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119865"><xliff:source>Music unlock message (currently off)</xliff:source><xliff:target state="translated">音楽解放メッセージ（現在OFF）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119866"><xliff:source>Click here to enable zooming using the mouse scroll wheel.</xliff:source><xliff:target state="translated">スクロールでのズームを有効にするにはここをクリック</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

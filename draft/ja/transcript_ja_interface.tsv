@@ -4934,3 +4934,8 @@ Fixed - Classic layout	固定：クラシック	interface	mainTabs	settingsTab
 Resizable - Classic layout	サイズ変更可：クラシック	interface	mainTabs	settingsTab
 All Settings	全ての設定	interface	mainTabs	settingsTab
 Adjust Brightness	明るさを調整	interface	mainTabs	settingsTab
+Magic  Magic  Magic		interface	mainTabs	musicTab
+Work  Work  Work		interface	mainTabs	musicTab
+PK Skull Prevention (currently off)	PKドクロ防止（現在OFF）	interface	mainTabs	settingsTab
+Music unlock message (currently off)	音楽解放メッセージ（現在OFF）	interface	mainTabs	settingsTab
+Click here to enable zooming using the mouse scroll wheel.	スクロールでのズームを有効にするにはここをクリック	interface	mainTabs	settingsTab
