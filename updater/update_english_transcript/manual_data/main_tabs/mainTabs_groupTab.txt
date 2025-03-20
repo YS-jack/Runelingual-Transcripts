@@ -54,3 +54,10 @@ Join		interface	mainTabs	groupTab
 (none)		interface	mainTabs	groupTab
 Leave		interface	mainTabs	groupTab
 You are currently talking in the <col=ffffff><!ANY_TRANSLATED0></col> channel.		interface	mainTabs	groupTab
+Click <colNum0>Find</col> to find a PvP Arena group.  Once you've found a suitable group, <colNum1>sign up</col> to be invited to its fights.		interface	mainTabs	groupTab
+<Num0>v<Num1> Tournament		interface	mainTabs	groupTab
+<Num0>v<Num1> Duels		interface	mainTabs	groupTab
+<img=1> Official Group		interface	mainTabs	groupTab
+Loading player list...		interface	mainTabs	groupTab
+<colNum0>Sign up</col> to be invited to fights.		interface	mainTabs	groupTab
+<colNum0>Sign up</col>		interface	mainTabs	groupTab

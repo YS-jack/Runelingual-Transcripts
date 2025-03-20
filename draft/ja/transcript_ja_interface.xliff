@@ -27298,6 +27298,27 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118978"><xliff:source>You have currently loaded &lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン&lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118979"><xliff:source>Click &lt;colNum0&gt;Find&lt;/col&gt; to find a PvP Arena group.  Once you've found a suitable group, &lt;colNum1&gt;sign up&lt;/col&gt; to be invited to its fights.</xliff:source><xliff:target state="translated">&lt;colNum0&gt;検索&lt;/col&gt;ボタンをクリックしてPvPアリーナのグループを検索。グループを決め、&lt;colNum1&gt;参加&lt;/col&gt;ボタンを押すと対戦に招待されます。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118980"><xliff:source>&lt;Num0&gt;v&lt;Num1&gt; Tournament</xliff:source><xliff:target state="translated">&lt;Num0&gt;v&lt;Num1&gt;トーナメント</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118981"><xliff:source>&lt;Num0&gt;v&lt;Num1&gt; Duels</xliff:source><xliff:target state="translated">&lt;Num0&gt;v&lt;Num1&gt;の決闘</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118982"><xliff:source>&lt;img=1&gt; Official Group</xliff:source><xliff:target state="translated">&lt;img=1&gt;公式グループ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118983"><xliff:source>Loading player list...</xliff:source><xliff:target state="translated">一覧ロード中・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118984"><xliff:source>&lt;colNum0&gt;Sign up&lt;/col&gt; to be invited to fights.</xliff:source><xliff:target state="translated">&lt;colNum0&gt;参加&lt;/col&gt;ボタンから参加できます</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118985"><xliff:source>&lt;colNum0&gt;Sign up&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;参加&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
