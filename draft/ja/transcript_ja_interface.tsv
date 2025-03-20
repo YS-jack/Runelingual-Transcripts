@@ -4051,3 +4051,10 @@ Join	参加	interface	mainTabs	groupTab
 Leave	退会	interface	mainTabs	groupTab
 You are currently talking in the <col=ffffff><!ANY_TRANSLATED0></col> channel.	現在<col=ffffff><!ANY_TRANSLATED0></col>チャンネルに参加中	interface	mainTabs	groupTab
 You have currently loaded <col=ffb83f><!PLAYER_NAME0></col>, which is not a PvP Arena group.	見学中のクラン<col=ffb83f><!PLAYER_NAME0></col>はPvPアリーナのクランではありません。	interface	mainTabs	groupTab
+Click <colNum0>Find</col> to find a PvP Arena group.  Once you've found a suitable group, <colNum1>sign up</col> to be invited to its fights.	<colNum0>検索</col>ボタンをクリックしてPvPアリーナのグループを検索。グループを決め、<colNum1>参加</col>ボタンを押すと対戦に招待されます。	interface	mainTabs	groupTab
+<Num0>v<Num1> Tournament	<Num0>v<Num1>トーナメント	interface	mainTabs	groupTab
+<Num0>v<Num1> Duels	<Num0>v<Num1>の決闘	interface	mainTabs	groupTab
+<img=1> Official Group	<img=1>公式グループ	interface	mainTabs	groupTab
+Loading player list...	一覧ロード中・・・	interface	mainTabs	groupTab
+<colNum0>Sign up</col> to be invited to fights.	<colNum0>参加</col>ボタンから参加できます	interface	mainTabs	groupTab
+<colNum0>Sign up</col>	<colNum0>参加</col>	interface	mainTabs	groupTab
