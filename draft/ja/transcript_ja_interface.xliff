@@ -27130,7 +27130,7 @@ source: accountManagementTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118922"><xliff:source>World &lt;Num0&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;世界&lt;Num0&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: friendsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118923"><xliff:source>W&lt;Num0&gt;</xliff:source><xliff:target state="translated">W&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118923"><xliff:source>W&lt;Num0&gt;</xliff:source><xliff:target state="translated">世&lt;Num0&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118924"><xliff:source>Vacancy</xliff:source><xliff:target state="translated">（空き）</xliff:target><xliff:note>category: interface
