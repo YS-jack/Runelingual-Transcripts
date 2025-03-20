@@ -6,6 +6,9 @@ Vacancy		interface	mainTabs	groupTab
 <colNum0>Join</col>		interface	mainTabs	groupTab
 Setup		interface	mainTabs	groupTab
 <colNum0>Leave</col>		interface	mainTabs	groupTab
+<colNum0>Chat-channel</col>		interface	mainTabs	groupTab
+<colNum0>Not in channel</col>		interface	mainTabs	groupTab
+Recent FCs		interface	mainTabs	groupTab
 Settings		interface	mainTabs	groupTab
 You are not currently chatting in this clan's channel.		interface	mainTabs	groupTab
 <colNum0>Chat</col>		interface	mainTabs	groupTab

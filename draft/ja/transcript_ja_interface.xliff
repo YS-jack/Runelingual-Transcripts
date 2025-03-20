@@ -27193,7 +27193,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118943"><xliff:source>Select an activity...</xliff:source><xliff:target state="translated">アクティビティ選択</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118944"><xliff:source>You are not currently in a grouping chat-channel.</xliff:source><xliff:target state="translated">現在専用チャットに未参加です。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118944"><xliff:source>You are not currently in a grouping chat-channel.</xliff:source><xliff:target state="translated">現在専用チャットに不参加です。</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118945"><xliff:source>Suggested world:</xliff:source><xliff:target state="translated">オススメの世界：</xliff:target><xliff:note>category: interface
@@ -27292,7 +27292,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118976"><xliff:source>Leave</xliff:source><xliff:target state="translated">退会</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118977"><xliff:source>You are currently talking in the &lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;チャンネルに参加中</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118977"><xliff:source>You are currently talking in the &lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルに参加中</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118978"><xliff:source>You have currently loaded &lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン&lt;col=ffb83f&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
@@ -27317,6 +27317,15 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118984"><xli
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118985"><xliff:source>&lt;colNum0&gt;Sign up&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;参加&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118986"><xliff:source>&lt;colNum0&gt;Chat-channel&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャットチャンネル&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118987"><xliff:source>&lt;colNum0&gt;Not in channel&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;チャンネル不参加&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118988"><xliff:source>Recent FCs</xliff:source><xliff:target state="translated">最近のFC</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
