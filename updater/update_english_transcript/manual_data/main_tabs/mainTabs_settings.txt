@@ -1,0 +1,36 @@
+english	translation	category	sub_category	source
+Controls Settings		interface	mainTabs	settingsTab
+PK Skull Prevention		interface	mainTabs	settingsTab
+Left-click where available		interface	mainTabs	settingsTab
+Player 'Attack' options:		interface	mainTabs	settingsTab
+NPC 'Attack' options:		interface	mainTabs	settingsTab
+PK Skull Prevention (currently on)		interface	mainTabs	settingsTab
+PK Skull Prevention (currently off)		interface	mainTabs	settingsTab
+Depends on combat levels		interface	mainTabs	settingsTab
+Always right-click		interface	mainTabs	settingsTab
+Hidden		interface	mainTabs	settingsTab
+Right-click for clanmates		interface	mainTabs	settingsTab
+Accept Aid (currently off)		interface	mainTabs	settingsTab
+Accept Aid (currently on)		interface	mainTabs	settingsTab
+Run (currently on) Energy <Num0>%		interface	mainTabs	settingsTab
+Run (currently off) Energy <Num0>%		interface	mainTabs	settingsTab
+House Options		interface	mainTabs	settingsTab
+Bond pouch		interface	mainTabs	settingsTab
+Audio Settings		interface	mainTabs	settingsTab
+Music unlock message		interface	mainTabs	settingsTab
+Adjust Music Volume		interface	mainTabs	settingsTab
+Adjust Sound Effect Volume		interface	mainTabs	settingsTab
+Adjust Area Sound Volume		interface	mainTabs	settingsTab
+Music unlock message (currently on)		interface	mainTabs	settingsTab
+Music unlock message (currently off)		interface	mainTabs	settingsTab
+Open the settings menu, this menu contains all the settings.		interface	mainTabs	settingsTab
+Display Settings		interface	mainTabs	settingsTab
+Resizable - Modern layout		interface	mainTabs	settingsTab
+Game client layout:		interface	mainTabs	settingsTab
+Click here to disable zooming using the mouse scroll wheel.		interface	mainTabs	settingsTab
+Click here to enable zooming using the mouse scroll wheel.		interface	mainTabs	settingsTab
+Adjust Camera Zoom		interface	mainTabs	settingsTab
+Fixed - Classic layout		interface	mainTabs	settingsTab
+Resizable - Classic layout		interface	mainTabs	settingsTab
+All Settings		interface	mainTabs	settingsTab
+Adjust Brightness		interface	mainTabs	settingsTab
