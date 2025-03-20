@@ -27493,10 +27493,10 @@ source: emotesTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119043"><xliff:source>Sit down</xliff:source><xliff:target state="translated">座る</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: emotesTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119044"><xliff:source>Oh Rats!</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119044"><xliff:source>Oh Rats!</xliff:source><xliff:target state="translated">ネズミだ！</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119045"><xliff:source>&lt;Num0&gt;th Realm</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119045"><xliff:source>&lt;Num0&gt;th Realm</xliff:source><xliff:target state="translated">&lt;Num0&gt;番目の領域</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119046"><xliff:source>A Farmer's Grind</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
@@ -29839,7 +29839,7 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119825"><xliff:source>The Plundered Tomb</xliff:source><xliff:target></xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119826"><xliff:source>Playing:</xliff:source><xliff:target state="translated">再生中：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119826"><xliff:source>Playing:</xliff:source><xliff:target state="translated">再生中</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119827"><xliff:source>Area</xliff:source><xliff:target state="translated">地域</xliff:target><xliff:note>category: interface
@@ -29917,19 +29917,19 @@ source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119851"><xliff:source>Music unlock message (currently on)</xliff:source><xliff:target state="translated">音楽解放メッセージ（現在ON）</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119852"><xliff:source>Open the settings menu, this menu contains all the settings.</xliff:source><xliff:target state="translated">全ての設定が変更可能なメニューを表示</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119852"><xliff:source>Open the settings menu, this menu contains all the settings.</xliff:source><xliff:target state="translated">全ての設定が変更可能な&lt;br&gt;メニューを表示</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119853"><xliff:source>Display Settings</xliff:source><xliff:target state="translated">表示設定</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119854"><xliff:source>Resizable - Modern layout</xliff:source><xliff:target state="translated">サイズ変更可：現代</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119854"><xliff:source>Resizable - Modern layout</xliff:source><xliff:target state="translated">変更可：現代</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119855"><xliff:source>Game client layout:</xliff:source><xliff:target state="translated">配置：</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119856"><xliff:source>Click here to disable zooming using the mouse scroll wheel.</xliff:source><xliff:target state="translated">スクロールでのズームを無効にするにはここをクリック</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119856"><xliff:source>Click here to disable zooming using the mouse scroll wheel.</xliff:source><xliff:target state="translated">スクロールでのズームを無効に&lt;br&gt;するにはここをクリック</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119857"><xliff:source>Adjust Camera Zoom</xliff:source><xliff:target state="translated">カメラのズームを調整</xliff:target><xliff:note>category: interface
@@ -29938,7 +29938,7 @@ source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119858"><xliff:source>Fixed - Classic layout</xliff:source><xliff:target state="translated">固定：クラシック</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119859"><xliff:source>Resizable - Classic layout</xliff:source><xliff:target state="translated">サイズ変更可：クラシック</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119859"><xliff:source>Resizable - Classic layout</xliff:source><xliff:target state="translated">変更可：クラシック</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119860"><xliff:source>All Settings</xliff:source><xliff:target state="translated">全ての設定</xliff:target><xliff:note>category: interface

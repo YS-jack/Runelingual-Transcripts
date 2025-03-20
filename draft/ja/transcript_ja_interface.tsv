@@ -4116,8 +4116,8 @@ Party	パーティー	interface	mainTabs	emotesTab
 Trick	トリック	interface	mainTabs	emotesTab
 Fortis Salute	フォーティスの敬礼	interface	mainTabs	emotesTab
 Sit down	座る	interface	mainTabs	emotesTab
-Oh Rats!		interface	mainTabs	musicTab
-<Num0>th Realm		interface	mainTabs	musicTab
+Oh Rats!	ネズミだ！	interface	mainTabs	musicTab
+<Num0>th Realm	<Num0>番目の領域	interface	mainTabs	musicTab
 A Farmer's Grind		interface	mainTabs	musicTab
 Adventure		interface	mainTabs	musicTab
 Al Kharid	アル・カリッド	interface	mainTabs	musicTab
@@ -4898,7 +4898,7 @@ The North		interface	mainTabs	musicTab
 The Heist		interface	mainTabs	musicTab
 Heavy Security		interface	mainTabs	musicTab
 The Plundered Tomb		interface	mainTabs	musicTab
-Playing:	再生中：	interface	mainTabs	musicTab
+Playing:	再生中	interface	mainTabs	musicTab
 Area	地域	interface	mainTabs	musicTab
 Man	手動	interface	mainTabs	musicTab
 Rand	抽選	interface	mainTabs	musicTab
@@ -4924,14 +4924,14 @@ Adjust Music Volume	音量を調整	interface	mainTabs	settingsTab
 Adjust Sound Effect Volume	効果音を調整	interface	mainTabs	settingsTab
 Adjust Area Sound Volume	環境音を調整	interface	mainTabs	settingsTab
 Music unlock message (currently on)	音楽解放メッセージ（現在ON）	interface	mainTabs	settingsTab
-Open the settings menu, this menu contains all the settings.	全ての設定が変更可能なメニューを表示	interface	mainTabs	settingsTab
+Open the settings menu, this menu contains all the settings.	全ての設定が変更可能な<br>メニューを表示	interface	mainTabs	settingsTab
 Display Settings	表示設定	interface	mainTabs	settingsTab
-Resizable - Modern layout	サイズ変更可：現代	interface	mainTabs	settingsTab
+Resizable - Modern layout	変更可：現代	interface	mainTabs	settingsTab
 Game client layout:	配置：	interface	mainTabs	settingsTab
-Click here to disable zooming using the mouse scroll wheel.	スクロールでのズームを無効にするにはここをクリック	interface	mainTabs	settingsTab
+Click here to disable zooming using the mouse scroll wheel.	スクロールでのズームを無効に<br>するにはここをクリック	interface	mainTabs	settingsTab
 Adjust Camera Zoom	カメラのズームを調整	interface	mainTabs	settingsTab
 Fixed - Classic layout	固定：クラシック	interface	mainTabs	settingsTab
-Resizable - Classic layout	サイズ変更可：クラシック	interface	mainTabs	settingsTab
+Resizable - Classic layout	変更可：クラシック	interface	mainTabs	settingsTab
 All Settings	全ての設定	interface	mainTabs	settingsTab
 Adjust Brightness	明るさを調整	interface	mainTabs	settingsTab
 Magic  Magic  Magic		interface	mainTabs	musicTab
