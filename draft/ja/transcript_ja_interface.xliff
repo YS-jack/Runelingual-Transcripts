@@ -27148,7 +27148,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118928"><xliff:source>Setup</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118929"><xliff:source>&lt;colNum0&gt;Leave&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;退会&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118929"><xliff:source>&lt;colNum0&gt;Leave&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;中座&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118930"><xliff:source>Settings</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: interface
@@ -27178,7 +27178,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118938"><xliff:source>&lt;colNum0&gt;Fetching data...&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;データ取得中&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118939"><xliff:source>PvP Arena</xliff:source><xliff:target state="translated">PvPアリーナ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118939"><xliff:source>PvP Arena</xliff:source><xliff:target state="translated">PvP</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118940"><xliff:source>You have currently loaded &lt;!PLAYER_NAME0&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン「&lt;!PLAYER_NAME0&gt;」はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
@@ -27289,7 +27289,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118975"><xliff:source>(none)</xliff:source><xliff:target state="translated">（なし）</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118976"><xliff:source>Leave</xliff:source><xliff:target state="translated">去る</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118976"><xliff:source>Leave</xliff:source><xliff:target state="translated">退会</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118977"><xliff:source>You are currently talking in the &lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;col=ffffff&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;チャンネルに参加中</xliff:target><xliff:note>category: interface
