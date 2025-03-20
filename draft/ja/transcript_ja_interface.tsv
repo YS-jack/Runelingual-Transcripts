@@ -4050,3 +4050,4 @@ Join	参加	interface	mainTabs	groupTab
 (none)	（なし）	interface	mainTabs	groupTab
 Leave	退会	interface	mainTabs	groupTab
 You are currently talking in the <col=ffffff><!ANY_TRANSLATED0></col> channel.	現在<col=ffffff><!ANY_TRANSLATED0></col>チャンネルに参加中	interface	mainTabs	groupTab
+You have currently loaded <col=ffb83f><!PLAYER_NAME0></col>, which is not a PvP Arena group.	見学中のクラン<col=ffb83f><!PLAYER_NAME0></col>はPvPアリーナのクランではありません。	interface	mainTabs	groupTab
