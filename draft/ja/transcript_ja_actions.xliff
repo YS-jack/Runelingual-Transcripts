@@ -10823,6 +10823,18 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110099"><xliff:source>(Members)</xliff:source><xliff:target state="translated">（会員）</xliff:target><xliff:note>category: actions
 sub_category: item
 source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110100"><xliff:source>Collection Overview</xliff:source><xliff:target state="translated">取得アイテム概要</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110101"><xliff:source>Hide notifications</xliff:source><xliff:target state="translated">通知を非表示</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110102"><xliff:source>Add friend</xliff:source><xliff:target state="translated">フレンド追加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110103"><xliff:source>Add ignore</xliff:source><xliff:target state="translated">無視リスト追加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

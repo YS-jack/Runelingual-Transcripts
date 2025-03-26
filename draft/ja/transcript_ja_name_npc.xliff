@@ -931,7 +931,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10299">
         <xliff:source>Man</xliff:source>
-        <xliff:target state="translated">男</xliff:target>
+        <xliff:target state="translated">手動</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Man
@@ -6539,7 +6539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11000">
         <xliff:source>Terrorbird</xliff:source>
-        <xliff:target state="translated">テラー鳥</xliff:target>
+        <xliff:target state="translated">テラーバード</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorbird
@@ -6547,7 +6547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11001">
         <xliff:source>Mounted terrorbird gnome</xliff:source>
-        <xliff:target state="translated">テラー鳥に乗るノーム</xliff:target>
+        <xliff:target state="translated">テラーバード乗りのノーム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mounted terrorbird gnome
@@ -8107,7 +8107,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11196">
         <xliff:source>Mounted terrorchick gnome</xliff:source>
-        <xliff:target state="translated">テラー鳥のひなに乗るノーム</xliff:target>
+        <xliff:target state="translated">テラーバードのひなに乗るノーム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mounted terrorchick gnome
@@ -8123,7 +8123,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11198">
         <xliff:source>Terrorchick gnome</xliff:source>
-        <xliff:target state="translated">テラー鳥のノーム</xliff:target>
+        <xliff:target state="translated">テラーバードのノーム</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorchick gnome
@@ -19075,7 +19075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12567">
         <xliff:source>Terrorbird display</xliff:source>
-        <xliff:target state="translated">テラー鳥の展示</xliff:target>
+        <xliff:target state="translated">テラーバードの展示</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorbird display
@@ -30211,7 +30211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13959">
         <xliff:source>Wave</xliff:source>
-        <xliff:target state="translated">波</xliff:target>
+        <xliff:target state="translated">ウェーブ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Wave
@@ -31435,7 +31435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14112">
         <xliff:source>Mutated Terrorbird</xliff:source>
-        <xliff:target state="translated">変異テラー鳥</xliff:target>
+        <xliff:target state="translated">変異テラーバード</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Mutated Terrorbird
@@ -31499,7 +31499,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14120">
         <xliff:source>Terrorbird Guard 21</xliff:source>
-        <xliff:target state="translated">テラー鳥の警備兵21</xliff:target>
+        <xliff:target state="translated">テラーバードの警備兵21</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorbird Guard 21
@@ -31507,7 +31507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14121">
         <xliff:source>Terrorbird Guard 72</xliff:source>
-        <xliff:target state="translated">テラー鳥の警備兵72</xliff:target>
+        <xliff:target state="translated">テラーバードの警備兵72</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Terrorbird Guard 72
@@ -31539,7 +31539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="14125">
         <xliff:source>Warped Terrorbird</xliff:source>
-        <xliff:target state="translated">歪んだテラー鳥</xliff:target>
+        <xliff:target state="translated">歪んだテラーバード</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Warped Terrorbird

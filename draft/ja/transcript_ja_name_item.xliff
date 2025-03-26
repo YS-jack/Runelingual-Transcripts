@@ -12971,7 +12971,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="1622">
         <xliff:source>Man</xliff:source>
-        <xliff:target state="translated">男</xliff:target>
+        <xliff:target state="translated">手動</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Man
@@ -29755,7 +29755,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="3720">
         <xliff:source>Terrorbird wing</xliff:source>
-        <xliff:target state="translated">テラー鳥の翼</xliff:target>
+        <xliff:target state="translated">テラーバードの翼</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Terrorbird wing
@@ -60427,7 +60427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7554">
         <xliff:source>Arachnids of vampyrium</xliff:source>
-        <xliff:target state="translated">吸血鬼界のクモ</xliff:target>
+        <xliff:target state="translated">吸血グモ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Arachnids of vampyrium

@@ -243,7 +243,7 @@ source: Petition form
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4283</xliff:note></xliff:trans-unit><xliff:trans-unit id="40999"><xliff:source>Check-keys</xliff:source><xliff:target state="translated">カギを確認</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Steel key ring
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4446</xliff:note></xliff:trans-unit><xliff:trans-unit id="41000"><xliff:source>Dance</xliff:source><xliff:target state="translated">と踊る</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4446</xliff:note></xliff:trans-unit><xliff:trans-unit id="41000"><xliff:source>Dance</xliff:source><xliff:target state="translated">踊る</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Rubber chicken
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4566</xliff:note></xliff:trans-unit><xliff:trans-unit id="41001"><xliff:source>Assemble</xliff:source><xliff:target state="translated">組み立てる</xliff:target><xliff:note>category: inventoryActions
@@ -702,7 +702,7 @@ source: Snow globe
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20832</xliff:note></xliff:trans-unit><xliff:trans-unit id="41152"><xliff:source>Snow</xliff:source><xliff:target state="translated">雪</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Snow globe
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20832</xliff:note></xliff:trans-unit><xliff:trans-unit id="41153"><xliff:source>Options</xliff:source><xliff:target state="translated">オプション</xliff:target><xliff:note>category: inventoryActions
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20832</xliff:note></xliff:trans-unit><xliff:trans-unit id="41153"><xliff:source>Options</xliff:source><xliff:target state="translated">設定</xliff:target><xliff:note>category: inventoryActions
 sub_category: item
 source: Amulet of chemistry
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21163</xliff:note></xliff:trans-unit><xliff:trans-unit id="41154"><xliff:source>Change-style</xliff:source><xliff:target state="translated">見た目を変更</xliff:target><xliff:note>category: inventoryActions

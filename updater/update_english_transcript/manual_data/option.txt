@@ -142,6 +142,7 @@ Tasks	actions	menu	characterSummaryTab
 Bosses	actions	menu	characterSummaryTab
 Overview	actions	menu	characterSummaryTab
 Collection Log	actions	menu	characterSummaryTab
+Collection Overview	actions	menu	characterSummaryTab
 Reveal	actions	menu	characterSummaryTab
 Hide	actions	menu	characterSummaryTab
 Open	actions	menu	questListTab
@@ -186,6 +187,7 @@ Disable spell reordering	actions	menu
 Enable spell filtering	actions	menu	
 Show notifications	actions	menu	
 Add Note	actions	menu	
+Hide notifications	actions	menu	
 Delete	actions	menu	friendsTab
 Message	actions	menu	friendsTab
 View Ignore List	actions	menu	friendsTab
@@ -212,6 +214,8 @@ Join	actions	menu	groupTab
 Setup	actions	menu	groupTab
 Find	actions	menu	groupTab
 Open	actions	menu	groupTab
+Add friend	actions	menu	groupTab
+Add ignore	actions	menu	groupTab
 Teleport	actions	menu	groupTab
 Select	actions	menu	groupTab
 Toggle skull prevention	actions	menu	settingsTab

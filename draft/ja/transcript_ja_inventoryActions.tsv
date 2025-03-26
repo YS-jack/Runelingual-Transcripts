@@ -78,7 +78,7 @@ Repair	修復	inventoryActions	item	Model ship
 Follow	追う	inventoryActions	item	Treasure map
 Count	数える	inventoryActions	item	Petition form
 Check-keys	カギを確認	inventoryActions	item	Steel key ring
-Dance	と踊る	inventoryActions	item	Rubber chicken
+Dance	踊る	inventoryActions	item	Rubber chicken
 Assemble	組み立てる	inventoryActions	item	Base schematics
 Spin	回す	inventoryActions	item	Spinning plate
 Remove-one	から一つ取る	inventoryActions	item	Apples(2)
@@ -231,7 +231,7 @@ Pages	ページ	inventoryActions	item	Tome of fire
 Invigorate	活性化	inventoryActions	item	Imbued heart
 Look at	見る	inventoryActions	item	Snow globe
 Snow	雪	inventoryActions	item	Snow globe
-Options	オプション	inventoryActions	item	Amulet of chemistry
+Options	設定	inventoryActions	item	Amulet of chemistry
 Change-style	見た目を変更	inventoryActions	item	Rainbow scarf
 Chill	チル	inventoryActions	item	Hand fan
 Remove default	即値を除く	inventoryActions	item	Master scroll book

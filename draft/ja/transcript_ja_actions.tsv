@@ -1571,3 +1571,7 @@ Punch	殴る	actions	menu	combatOptionsTab
 Kick	蹴る	actions	menu	combatOptionsTab
 Unarmed	素手	actions	menu	combatOptionsTab
 (Members)	（会員）	actions	item	
+Collection Overview	取得アイテム概要	actions	menu	characterSummaryTab
+Hide notifications	通知を非表示	actions	menu	
+Add friend	フレンド追加	actions	menu	groupTab
+Add ignore	無視リスト追加	actions	menu	groupTab

@@ -432,7 +432,7 @@ Okay, goodbye.	では、さようなら。	dialogue	1v1 Tournament Guide	1v1 Tou
 I'm okay, thanks.	大丈夫だ、ありがとう。	dialogue	1v1 Tournament Guide	1v1 Tournament Guide
 Are you all right?	大丈夫ですか？	dialogue	50% Luke	Player
 Who goes there?	誰が行くんだ？	dialogue	50% Luke	50% Luke
-Arr! A landlubber!	アー！陸上生活者だ！	dialogue	50% Luke	50% Luke
+Arr! A landlubber!	アー！陸の人だ！	dialogue	50% Luke	50% Luke
 Begone afore I take my cutlass to ye! I've been charged with guardin' this gate and no noodle-armed landlubbers will make it past me alive!	カットラスを向ける前に立ち去れ！私はこの門を守る任務を負っているが、腕の弱い陸の奴らは誰も生きて私を通り抜けることはできないだろう！	dialogue	50% Luke	50% Luke
 That's not a cutlass.	それはカットラスではありません。	dialogue	50% Luke	Player
 I think it's a twig.	小枝だと思う。	dialogue	50% Luke	Player
@@ -510,7 +510,7 @@ Oh my! Is that a genuine 3rd Age Diversion?	なんてことだ... それは正�
 Where?	どこに？	dialogue	50% Luke	50% Luke
 Hey! What are you doing out there?	おい！お前そこでなにしてる？	dialogue	50% Luke	50% Luke
 Nothing.	何も。	dialogue	50% Luke	Player
-Well Cap'n Donnie said no livin' landlubbers were allowed out of the compound.	ドニー船長は、陸上生活者の外出を禁止しているんだ。	dialogue	50% Luke	50% Luke
+Well Cap'n Donnie said no livin' landlubbers were allowed out of the compound.	ドニー船長は、陸の人の外出を禁止しているんだ。	dialogue	50% Luke	50% Luke
 So get yerself back in here, or yer for it!	だからここに戻ってこい！	dialogue	50% Luke	50% Luke
 What happened to you?	何があったんだ？	dialogue	50% Luke	50% Luke
 How flammable are you?	どのくらい燃えやすい？	dialogue	50% Luke	50% Luke
@@ -913,7 +913,7 @@ Do you have any Adventure Path starter kits for me?		dialogue	Adventurer Jon	Adv
 I'd like to claim my Adventure Path rewards.		dialogue	Adventurer Jon	Adventurer Jon
 Can you show me some Adventure Paths?		dialogue	Adventurer Jon	Adventurer Jon
 Disable Adventure Paths.		dialogue	Adventurer Jon	Adventurer Jon
-Yes		dialogue	Adventurer Jon	Adventurer Jon
+Yes	はい	dialogue	Adventurer Jon	Adventurer Jon
 No	いいえ	dialogue	Adventurer Jon	Adventurer Jon
 Yes please.	はい、お願いします。	dialogue	Adventurer Jon	Adventurer Jon
 No thanks.	いいえ、ありがとうございます。	dialogue	Adventurer Jon	Adventurer Jon
@@ -983,7 +983,7 @@ How do I manage the kingdom?		dialogue	Advisor Ghrim	Advisor Ghrim
 What am I meant to be doing again?		dialogue	Advisor Ghrim	Advisor Ghrim
 Yes.	そうだ！	dialogue	Advisor Ghrim	Advisor Ghrim
 No.	いや。	dialogue	Advisor Ghrim	Advisor Ghrim
-Yes		dialogue	Advisor Ghrim	Advisor Ghrim
+Yes	はい	dialogue	Advisor Ghrim	Advisor Ghrim
 No	いいえ	dialogue	Advisor Ghrim	Advisor Ghrim
 Hello there. You've come to the right place if you're looking for adventurer's equipment.	こんにちは。You've come to the right place if you're looking for adventurer's equipment.	dialogue	Aemad	Aemad
 Oh that sounds interesting.		dialogue	Aemad	Player
@@ -2699,7 +2699,7 @@ Rimmington	リミングトン	dialogue	Alwyn	Alwyn
 Taverley		dialogue	Alwyn	Alwyn
 Pollnivneach		dialogue	Alwyn	Alwyn
 Hosidius		dialogue	Alwyn	Alwyn
-Yes		dialogue	Alwyn	Alwyn
+Yes	はい	dialogue	Alwyn	Alwyn
 No	いいえ	dialogue	Alwyn	Alwyn
 Rellekka	レレカ	dialogue	Alwyn	Alwyn
 Brimhaven	ブリムヘブン	dialogue	Alwyn	Alwyn
@@ -3099,7 +3099,7 @@ Oh. Do you know someone who might know more?	ああ... Do you know someone who m
 Downstairs you can find Madam Sikaro. Though she's on the wrong path, perhaps she could assist you.		dialogue	Andros Mai	Andros Mai
 You look ready for combat.		dialogue	Andros Mai	Andros Mai
 Ask about rare item.		dialogue	Andros Mai	Andros Mai
-Yes		dialogue	Andros Mai	Andros Mai
+Yes	はい	dialogue	Andros Mai	Andros Mai
 No	いいえ	dialogue	Andros Mai	Andros Mai
 You look like somebody who could use a bit of armour. What do you say?		dialogue	Aneirin	Aneirin
 I'll take a look.		dialogue	Aneirin	Player
@@ -3693,7 +3693,7 @@ We need shield barriers up before anything comes through that rift!		dialogue	Ap
 We need to protect the Great Guardian!		dialogue	Apprentice Cordelia	Apprentice Cordelia
 We need to power up the Great Guardian!		dialogue	Apprentice Cordelia	Apprentice Cordelia
 We need more rift guardians!		dialogue	Apprentice Cordelia	Apprentice Cordelia
-Yes		dialogue	Apprentice Cordelia	Apprentice Cordelia
+Yes	はい	dialogue	Apprentice Cordelia	Apprentice Cordelia
 Yes, that sounds fair.		dialogue	Apprentice Cordelia	Apprentice Cordelia
 No thanks.	いいえ、ありがとうございます。	dialogue	Apprentice Cordelia	Apprentice Cordelia
 Cancel	キャンセル	dialogue	Apprentice Cordelia	Apprentice Cordelia
@@ -4928,7 +4928,7 @@ Nothing	無	dialogue	Askeladden	Askeladden
 Kegs for money		dialogue	Askeladden	Askeladden
 Animal parts for food		dialogue	Askeladden	Askeladden
 Ask about the Merchant's trial		dialogue	Askeladden	Askeladden
-Yes		dialogue	Askeladden	Askeladden
+Yes	はい	dialogue	Askeladden	Askeladden
 No	いいえ	dialogue	Askeladden	Askeladden
 Ask about becoming a Fremennik		dialogue	Askeladden	Askeladden
 Ask about things to do		dialogue	Askeladden	Askeladden
@@ -5033,7 +5033,7 @@ Back again I see, here for another workout?		dialogue	Atlas	Atlas
 Yes please.	はい、お願いします。	dialogue	Atlas	Player
 You must take your training very seriously [player name]. This is the second time you'll have done this workout and paid full price!		dialogue	Atlas	Atlas
 You take your training very seriously [player name]. You know you've done this workout [times done] times, are you sure you want to do it again?		dialogue	Atlas	Atlas
-Yes		dialogue	Atlas	Atlas
+Yes	はい	dialogue	Atlas	Atlas
 No	いいえ	dialogue	Atlas	Atlas
 Hello there, [player name]. What can I do for you?	Hello there, [player name]. 何かご用ですか？	dialogue	Attala	Attala
 How are things?		dialogue	Attala	Player
@@ -5527,7 +5527,7 @@ You dog! You killed our champion and for that you will die!		dialogue	Bandit (Po
 Hello.	こんにちは。	dialogue	Bandit shopkeeper	Player
 Stuff for sale. You buying?		dialogue	Bandit shopkeeper	Bandit shopkeeper
 No? 'Bye then.		dialogue	Bandit shopkeeper	Bandit shopkeeper
-Yes		dialogue	Bandit shopkeeper	Bandit shopkeeper
+Yes	はい	dialogue	Bandit shopkeeper	Bandit shopkeeper
 No	いいえ	dialogue	Bandit shopkeeper	Bandit shopkeeper
 Yes?		dialogue	Banisoch	Banisoch
 Who are you?	あなたは何者ですか？	dialogue	Banisoch	Player
@@ -6324,7 +6324,7 @@ Thanks for the warning Bill.		dialogue	Barfy Bill	Player
 No thanks, not right now.		dialogue	Barfy Bill	Player
 Can you teach me about canoes?		dialogue	Barfy Bill	Player
 Who are you?	あなたは何者ですか？	dialogue	Barfy Bill	Barfy Bill
-Yes		dialogue	Barfy Bill	Barfy Bill
+Yes	はい	dialogue	Barfy Bill	Barfy Bill
 No	いいえ	dialogue	Barfy Bill	Barfy Bill
 Can you teach me about Canoeing?		dialogue	Barfy Bill	Barfy Bill
 What's going on here?		dialogue	Barge foreman	Player
@@ -7915,7 +7915,7 @@ Never mind that child. You should worry more about who you are and the nature of
 I'll ... keep that in mind, thanks.		dialogue	Bonzara	Player
 We WILL meet again, [player name].		dialogue	Bonzara	Bonzara
 Ok...		dialogue	Bonzara	Player
-Yes		dialogue	Bonzara	Bonzara
+Yes	はい	dialogue	Bonzara	Bonzara
 No	いいえ	dialogue	Bonzara	Bonzara
 Roll up, roll up!		dialogue	Bonzo	Bonzo
 Enter the great Hemenster fishing competition!		dialogue	Bonzo	Bonzo
@@ -9362,7 +9362,7 @@ Something else...		dialogue	Butler	Butler
 Okay, here's 5,000 coins.		dialogue	Butler	Butler
 I'll pay you later.		dialogue	Butler	Butler
 You're fired!		dialogue	Butler	Butler
-Yes		dialogue	Butler	Butler
+Yes	はい	dialogue	Butler	Butler
 No	いいえ	dialogue	Butler	Butler
 Sawmill		dialogue	Butler	Butler
 Bank	銀行	dialogue	Butler	Butler
@@ -12054,7 +12054,7 @@ No, sorry.		dialogue	Clerk (Hosidius)	Player
 The people of Hosidius require sulphurous fertiliser for the farms. We currently require [number] buckets. Do come back if you every get any you'd be willing to donate.		dialogue	Clerk (Hosidius)	Clerk
 If you were planning to bring any fertiliser for the stores, please try again later. The stores are very full at present.		dialogue	Clerk (Hosidius)	Clerk
 That's alright, I haven't brought any.		dialogue	Clerk (Hosidius)	Player
-Yes		dialogue	Clerk (Hosidius)	Clerk (Hosidius)
+Yes	はい	dialogue	Clerk (Hosidius)	Clerk (Hosidius)
 No	いいえ	dialogue	Clerk (Hosidius)	Clerk (Hosidius)
 Good day.		dialogue	Clerris	Clerris
 Hey there. What brings you here?		dialogue	Clerris	Player
@@ -12070,7 +12070,7 @@ The mages of Arceuus seek dense essence for their experiments. I see you have [a
 Your donation has been gratefully recieved.		dialogue	Clerris	Clerris
 No, sorry, they can't have it.		dialogue	Clerris	Player
 We do not require any dense essence from you at present. Thank you for your support.		dialogue	Clerris	Clerris
-Yes		dialogue	Clerris	Clerris
+Yes	はい	dialogue	Clerris	Clerris
 No	いいえ	dialogue	Clerris	Clerris
 Hello there.	こんにちは。	dialogue	Clivet	Player
 What do you want adventurer?		dialogue	Clivet	Clivet
@@ -12788,7 +12788,7 @@ What is it?		dialogue	Council workman	Player
 I dunno rightly, but if you use a tinderbox on it, it don't half make a loud noise!		dialogue	Council workman	Council workman
 No ta, not my brand of beer.		dialogue	Council workman	Council workman
 No ta, not a big wine fan, me.		dialogue	Council workman	Council workman
-Yes		dialogue	Council workman	Council workman
+Yes	はい	dialogue	Council workman	Council workman
 No	いいえ	dialogue	Council workman	Council workman
 Hi there.	こんにちは。	dialogue	Councillor Andrews	Player
 Good day to you.		dialogue	Councillor Andrews	Councillor Andrews
@@ -12982,7 +12982,7 @@ Can you give me any advice?		dialogue	Count Check	Count Check
 Carry on.		dialogue	Count Check	Count Check
 What's that got to do with THREE?		dialogue	Count Check	Count Check
 Where can I learn more about security?		dialogue	Count Check	Count Check
-Yes		dialogue	Count Check	Count Check
+Yes	はい	dialogue	Count Check	Count Check
 No	いいえ	dialogue	Count Check	Count Check
 Who are you?	あなたは何者ですか？	dialogue	Count Check	Count Check
 If you're a vampyre, how did you cross the Salve?		dialogue	Count Check	Count Check
@@ -13727,7 +13727,7 @@ Yeah, well clear off them a go find one.		dialogue	Dampe	Dampe
 Hey, I found this lock in the catacombs? Can you do anything with it?		dialogue	Dampe	Player
 *grunts* Lets 'ava look.		dialogue	Dampe	Dampe
 Ask about locks.		dialogue	Dampe	Dampe
-Yes		dialogue	Dampe	Dampe
+Yes	はい	dialogue	Dampe	Dampe
 No	いいえ	dialogue	Dampe	Dampe
 Ask for another coffin.		dialogue	Dampe	Dampe
 Ask about his robes.		dialogue	Dampe	Dampe
@@ -14951,7 +14951,7 @@ I don't know who she is, but she looks like a strange one.		dialogue	Derse Venat
 Strange attracts strange, so I reckon she might know about your strange weapon piece.		dialogue	Derse Venator	Derse Venator
 You look ready for combat.		dialogue	Derse Venator	Derse Venator
 Ask about rare item.		dialogue	Derse Venator	Derse Venator
-Yes		dialogue	Derse Venator	Derse Venator
+Yes	はい	dialogue	Derse Venator	Derse Venator
 No	いいえ	dialogue	Derse Venator	Derse Venator
 You're a long way from home, traveller! How about some food to keep you going?		dialogue	Derwen (elf)	Derwen
 Yes, please.	はい、お願いします。	dialogue	Derwen (elf)	Player
@@ -15451,7 +15451,7 @@ Practice		dialogue	Dominic Onion	Dominic Onion
 Normal		dialogue	Dominic Onion	Dominic Onion
 Hard		dialogue	Dominic Onion	Dominic Onion
 Endurance		dialogue	Dominic Onion	Dominic Onion
-Yes		dialogue	Dominic Onion	Dominic Onion
+Yes	はい	dialogue	Dominic Onion	Dominic Onion
 No	いいえ	dialogue	Dominic Onion	Dominic Onion
 Rumble		dialogue	Dominic Onion	Dominic Onion
 Customisable - normal		dialogue	Dominic Onion	Dominic Onion
@@ -18278,7 +18278,7 @@ Do you have some spare equipment I can use?		dialogue	Elnock Inquisitor	Elnock I
 Can I trade some jarred implings please?		dialogue	Elnock Inquisitor	Elnock Inquisitor
 Could you store some equipment for me?		dialogue	Elnock Inquisitor	Elnock Inquisitor
 Can you tell me about the wheat?		dialogue	Elnock Inquisitor	Elnock Inquisitor
-Yes		dialogue	Elnock Inquisitor	Elnock Inquisitor
+Yes	はい	dialogue	Elnock Inquisitor	Elnock Inquisitor
 No	いいえ	dialogue	Elnock Inquisitor	Elnock Inquisitor
 Can I buy a few impling jars?		dialogue	Elnock Inquisitor	Elnock Inquisitor
 Hello dearie! What can old Elsie do for you?		dialogue	Elsie	Elsie
@@ -18603,7 +18603,7 @@ Let me open my account and then I'll give you the runes.		dialogue	Eniola	Eniola
 No way! I'm not paying to withdraw my own money.		dialogue	Eniola	Eniola
 I'd like to talk to you about quick payment deals.		dialogue	Eniola	Eniola
 What rune do I currently have set for my quick payment?		dialogue	Eniola	Eniola
-Yes		dialogue	Eniola	Eniola
+Yes	はい	dialogue	Eniola	Eniola
 No	いいえ	dialogue	Eniola	Eniola
 I would like to cancel our quick payment deal.		dialogue	Eniola	Eniola
 Woah, that's not the cut I asked for!		dialogue	Entling	Entling
@@ -18919,7 +18919,7 @@ Rimmington	リミングトン	dialogue	Estate agent	Estate agent
 Taverley		dialogue	Estate agent	Estate agent
 Pollnivneach		dialogue	Estate agent	Estate agent
 Hosidius		dialogue	Estate agent	Estate agent
-Yes		dialogue	Estate agent	Estate agent
+Yes	はい	dialogue	Estate agent	Estate agent
 No	いいえ	dialogue	Estate agent	Estate agent
 Rellekka	レレカ	dialogue	Estate agent	Estate agent
 Brimhaven	ブリムヘブン	dialogue	Estate agent	Estate agent
@@ -20211,7 +20211,7 @@ You don't understand. This is an online game!		dialogue	Father Aereck	Father Aer
 I am - do you like my disguise?		dialogue	Father Aereck	Father Aereck
 Nice place you've got here.		dialogue	Father Aereck	Father Aereck
 I'm looking for a quest!		dialogue	Father Aereck	Father Aereck
-Yes		dialogue	Father Aereck	Father Aereck
+Yes	はい	dialogue	Father Aereck	Father Aereck
 No	いいえ	dialogue	Father Aereck	Father Aereck
 Welcome to the church of the egg.		dialogue	Father Buckerek	Father Buckerek
 What do you mean egg?		dialogue	Father Buckerek	Player
@@ -20609,7 +20609,7 @@ It's working for me so far, thanks.		dialogue	Ferox	Ferox
 Hello, where does your ferry go?		dialogue	Ferryman Nathwood	Player
 I can ferry ye up t' Al Kharid, if ye want t' be off?		dialogue	Ferryman Nathwood	Ferryman Nathwood
 Want t' continue the fight against Tempoross, eh? Good stuff!		dialogue	Ferryman Nathwood	Ferryman Nathwood
-Yes		dialogue	Ferryman Nathwood	Ferryman Nathwood
+Yes	はい	dialogue	Ferryman Nathwood	Ferryman Nathwood
 No	いいえ	dialogue	Ferryman Nathwood	Ferryman Nathwood
 Hello there.	こんにちは。	dialogue	Ferryman Sathwood	Player
 Ahoy!		dialogue	Ferryman Sathwood	Ferryman Sathwood
@@ -20645,7 +20645,7 @@ Can you ferry me to the Spirit Anglers?		dialogue	Ferryman Sathwood	Player
 Goodbye.	それではまた。	dialogue	Ferryman Sathwood	Player
 Take care!		dialogue	Ferryman Sathwood	Ferryman Sathwood
 What are you doing here?		dialogue	Ferryman Sathwood	Ferryman Sathwood
-Yes		dialogue	Ferryman Sathwood	Ferryman Sathwood
+Yes	はい	dialogue	Ferryman Sathwood	Ferryman Sathwood
 No	いいえ	dialogue	Ferryman Sathwood	Ferryman Sathwood
 Where does your ferry go?		dialogue	Ferryman Sathwood	Ferryman Sathwood
 Can you ferry me to the Spirit Anglers?		dialogue	Ferryman Sathwood	Ferryman Sathwood
@@ -20687,7 +20687,7 @@ What is this place?	ここは何ですか？	dialogue	Financial Wizard	Financial
 What's a Financial Wizard?		dialogue	Financial Wizard	Financial Wizard
 Yes, please.	はい、お願いします。	dialogue	Financial Wizard	Financial Wizard
 No, thank you.	いえ、ありがとう。	dialogue	Financial Wizard	Financial Wizard
-Yes		dialogue	Financial Wizard	Financial Wizard
+Yes	はい	dialogue	Financial Wizard	Financial Wizard
 No	いいえ	dialogue	Financial Wizard	Financial Wizard
 Hi.	こんにちは。	dialogue	Finarfin	Player
 Hello. How are you today?	こんにちは。How are you today?	dialogue	Finarfin	Finarfin
@@ -21321,7 +21321,7 @@ Yes.	そうだ！	dialogue	Fortunato	Fortunato
 No.	いや。	dialogue	Fortunato	Fortunato
 Yes, what are you selling?		dialogue	Fortunato	Fortunato
 Not at the moment		dialogue	Fortunato	Fortunato
-Yes		dialogue	Fortunato	Fortunato
+Yes	はい	dialogue	Fortunato	Fortunato
 Not today		dialogue	Fortunato	Fortunato
 What can I do for you?	何かご用ですか？	dialogue	Fossegrimen	Fossegrimen
 I hear that I can present you with an offering and you will enchant my lyre for me.		dialogue	Fossegrimen	Player
@@ -21709,7 +21709,7 @@ I just thought I'd drop in and say hello.		dialogue	Fritz the Glassblower	Player
 Hello then. I'm afraid I don't have any time to chat though. The druids of Taverley have placed a huge order for glass vials, so I'm very busy.		dialogue	Fritz the Glassblower	Fritz the Glassblower
 Yes please. I'd be fascinated to hear what you do.	はい、お願いします。I'd be fascinated to hear what you do.	dialogue	Fritz the Glassblower	Fritz the Glassblower
 No thanks, I doubt I'll ever turn my hand to glassblowing.		dialogue	Fritz the Glassblower	Fritz the Glassblower
-Yes		dialogue	Fritz the Glassblower	Fritz the Glassblower
+Yes	はい	dialogue	Fritz the Glassblower	Fritz the Glassblower
 Are you mad? I've run all over the island to make this glass.		dialogue	Fritz the Glassblower	Fritz the Glassblower
 Sure, that sounds like a fair price.		dialogue	Fritz the Glassblower	Fritz the Glassblower
 No	いいえ	dialogue	Fritz the Glassblower	Fritz the Glassblower
@@ -24027,7 +24027,7 @@ How about teamwork?		dialogue	Gnome Coach	Gnome Coach
 What about my personal physique?		dialogue	Gnome Coach	Gnome Coach
 Any information would be appreciated!		dialogue	Gnome Coach	Gnome Coach
 Does the game bring fame?		dialogue	Gnome Coach	Gnome Coach
-Yawn		dialogue	Gnome Coach	Gnome Coach
+Yawn	あくび	dialogue	Gnome Coach	Gnome Coach
 Nooooo! Dobbie's dead!		dialogue	Gnome Driver	Gnome Driver
 Tortoise Murderer!		dialogue	Gnome Driver	Gnome Driver
 You Beast!		dialogue	Gnome Driver	Gnome Driver
@@ -25198,7 +25198,7 @@ So long, human!		dialogue	Gregg	Gregg
 Wow, human, that hat looks great on you!		dialogue	Gregg	Gregg
 Really? I thought it looked a bit silly.		dialogue	Gregg	Player
 Well, I think it looks amazing! Really suits you. Anyway, did you want anything?		dialogue	Gregg	Gregg
-Yes		dialogue	Gregg	Gregg
+Yes	はい	dialogue	Gregg	Gregg
 No	いいえ	dialogue	Gregg	Gregg
 I'll speak to Aggie, give me the ingredients.		dialogue	Gregg	Gregg
 Why don't you go?		dialogue	Gregg	Gregg
@@ -26037,7 +26037,7 @@ Would you like me to filter the rumour information a little less than I am right
 What does a scribe do?		dialogue	Guild Scribe Verity	Guild Scribe Verity
 How many rumours have I completed?		dialogue	Guild Scribe Verity	Guild Scribe Verity
 I have to go.	もう行かなくちゃ。	dialogue	Guild Scribe Verity	Guild Scribe Verity
-Yes		dialogue	Guild Scribe Verity	Guild Scribe Verity
+Yes	はい	dialogue	Guild Scribe Verity	Guild Scribe Verity
 No	いいえ	dialogue	Guild Scribe Verity	Guild Scribe Verity
 Greetings!	ご挨拶を！	dialogue	Guildmaster	Guildmaster
 This is the Champions' Guild. Only adventurers who have proved themselves worthy by gaining influence from quests are allowed in here.		dialogue	Guildmaster	Guildmaster
@@ -26494,7 +26494,7 @@ Your little dwarf friend knows this is all alcohol-free beer right [player name]
 Oh Guss...		dialogue	Guss Mistletoad	Player
 Air Guss heading your way!		dialogue	Guss Mistletoad	Guss Mistletoad
 Gosh I'm so good!		dialogue	Guss Mistletoad	Guss Mistletoad
-Yes		dialogue	Guss Mistletoad	Guss Mistletoad
+Yes	はい	dialogue	Guss Mistletoad	Guss Mistletoad
 How do we enter the games?		dialogue	Guss Mistletoad	Guss Mistletoad
 Where did you come from?		dialogue	Guss Mistletoad	Guss Mistletoad
 Can you tell me about the games?		dialogue	Guss Mistletoad	Guss Mistletoad
@@ -27161,7 +27161,7 @@ Yes, you can take a waka north through the underground portion of this river.		d
 It will bring you out at a pond in the heart of the Wilderness. Be careful up there, many have lost more than their lives in that dark and twisted place.		dialogue	Hari	Hari
 No thanks, not right now.		dialogue	Hari	Player
 Who are you?	あなたは何者ですか？	dialogue	Hari	Hari
-Yes		dialogue	Hari	Hari
+Yes	はい	dialogue	Hari	Hari
 No	いいえ	dialogue	Hari	Hari
 Can you teach me about Canoeing?		dialogue	Hari	Hari
 Welcome, Effendi!		dialogue	Haris	Haris
@@ -28473,7 +28473,7 @@ Yes, I am here for the stuff.		dialogue	Honest Jimmy	Honest Jimmy
 What stuff is this again?		dialogue	Honest Jimmy	Honest Jimmy
 No.	いや。	dialogue	Honest Jimmy	Honest Jimmy
 I hear you are the man to talk to about maps.		dialogue	Honest Jimmy	Honest Jimmy
-Yes		dialogue	Honest Jimmy	Honest Jimmy
+Yes	はい	dialogue	Honest Jimmy	Honest Jimmy
 No	いいえ	dialogue	Honest Jimmy	Honest Jimmy
 Yes, what are you selling?		dialogue	Honest Jimmy	Honest Jimmy
 I have no idea what you mean.		dialogue	Honest Jimmy	Honest Jimmy
@@ -30011,7 +30011,7 @@ Let's play a game!		dialogue	Jacky Jester	Jacky Jester
 Everyone copy me!		dialogue	Jacky Jester	Jacky Jester
 [Player name] is the winner!		dialogue	Jacky Jester	Jacky Jester
 Goodbye!		dialogue	Jacky Jester	Jacky Jester
-Yes		dialogue	Jacky Jester	Jacky Jester
+Yes	はい	dialogue	Jacky Jester	Jacky Jester
 No	いいえ	dialogue	Jacky Jester	Jacky Jester
 Greetings warrior, how may I help you?		dialogue	Jade (Warriors' Guild)	Jade
 How long have you worked here?		dialogue	Jade (Warriors' Guild)	Player
@@ -31503,7 +31503,7 @@ Do you have a Bullroarer I could borrow?		dialogue	Jungle forester	Jungle forest
 Will you trade something for it?		dialogue	Jungle forester	Jungle forester
 How do I get into the Kharazi jungle?		dialogue	Jungle forester	Jungle forester
 I have a question about my Achievement Diary.		dialogue	Jungle forester	Jungle forester
-Yes		dialogue	Jungle forester	Jungle forester
+Yes	はい	dialogue	Jungle forester	Jungle forester
 No	いいえ	dialogue	Jungle forester	Jungle forester
 Hey, I'm Justine. I've got some rewards here for fighters who've done well in Lisa's Last Man Standing game. Wanna see?	Hey, I'm Justine. I've got some rewards here for fighters who've done well in Lisa's Last Man Standing game. 見たい？	dialogue	Justine	Justine
 What have you got?		dialogue	Justine	Player
@@ -37082,7 +37082,7 @@ No thank you, I'm currently on a diet.		dialogue	Madam Sikaro	Madam Sikaro
 Who are you?	あなたは何者ですか？	dialogue	Madam Sikaro	Madam Sikaro
 What are you doing here?		dialogue	Madam Sikaro	Madam Sikaro
 I have this part that looks like it's from a weapon...		dialogue	Madam Sikaro	Madam Sikaro
-Yes		dialogue	Madam Sikaro	Madam Sikaro
+Yes	はい	dialogue	Madam Sikaro	Madam Sikaro
 No	いいえ	dialogue	Madam Sikaro	Madam Sikaro
 What are you doing with the money?		dialogue	Madam Sikaro	Madam Sikaro
 Goodbye.	それではまた。	dialogue	Madam Sikaro	Madam Sikaro
@@ -37591,7 +37591,7 @@ I am here to worship you, oh mighty Malak		dialogue	Malak	Malak
 I am here to kill Lord Drakan		dialogue	Malak	Malak
 I am looking for a special Diamond...		dialogue	Malak	Malak
 No	いいえ	dialogue	Malak	Malak
-Yes		dialogue	Malak	Malak
+Yes	はい	dialogue	Malak	Malak
 Why do you want Dessous dead?		dialogue	Malak	Malak
 Where can I find Dessous?		dialogue	Malak	Malak
 How can I kill Dessous?		dialogue	Malak	Malak
@@ -38022,7 +38022,7 @@ Mostly tomato juice.		dialogue	Manni the Reveller	Manni the Reveller
 Howdy!		dialogue	Manni the Reveller	Player
 Hey! It's [Fremennik name]! Let me buy you a drink!	おい！It's [Fremennik name]!Let me buy you a drink!	dialogue	Manni the Reveller	Manni the Reveller
 There ya go! Anyone who can drink like you earns my respect!		dialogue	Manni the Reveller	Manni the Reveller
-Yes		dialogue	Manni the Reveller	Manni the Reveller
+Yes	はい	dialogue	Manni the Reveller	Manni the Reveller
 Ask about the Merchant's trial		dialogue	Manni the Reveller	Manni the Reveller
 Ask about becoming a Fremennik		dialogue	Manni the Reveller	Manni the Reveller
 Hello again. You helped forge my alliance with the frogs against those disgusting flies. Please feel free to use my farming patch in return. It's the least I can do.	また会ったね。You helped forge my alliance with the frogs against those disgusting flies. Please feel free to use my farming patch in return. It's the least I can do.	dialogue	Marcellus	Marcellus
@@ -38448,7 +38448,7 @@ Better now I don't have to deal with you. Enjoying life in the desert?		dialogue
 Not really. I'm not suited to such harsh climates. No steak sandwiches here either...		dialogue	Marley	Marley
 Oh what a shame! Poor Marley's going to starve as he doesn't have anyone to make his sandwiches... So sad.		dialogue	Marley	Player
 Tsssss...		dialogue	Marley	Marley
-Yes		dialogue	Marley	Marley
+Yes	はい	dialogue	Marley	Marley
 No	いいえ	dialogue	Marley	Marley
 Hello there.	こんにちは。	dialogue	Marten	Player
 Aye? Who's that, what do you want?	どうだ？Who's that, what do you want?	dialogue	Marten	Marten
@@ -38477,7 +38477,7 @@ Well bless me axe, you're almost as good a woodchopper as meself! You'll have no
 One of those beauties can take you up further in the Wilderness. Beautiful place that.		dialogue	Marten	Marten
 Great, thank you.		dialogue	Marten	Player
 Who are you?	あなたは何者ですか？	dialogue	Marten	Marten
-Yes		dialogue	Marten	Marten
+Yes	はい	dialogue	Marten	Marten
 No	いいえ	dialogue	Marten	Marten
 Can you teach me about canoes?		dialogue	Marten	Marten
 Hi, I hear a woman called Elena is staying here.		dialogue	Martha Rehnison	Player
@@ -38830,7 +38830,7 @@ Hello, welcome to the fishing guild.  Please feel free to make use of any of our
 Can you tell me about that skillcape you're wearing?		dialogue	Master fisher	Player
 I'm happy to, my friend. This beautiful cape was presented to me in recognition of my skills and experience as a fisherman and I was asked to be the head of this guild at the same time.		dialogue	Master fisher	Master fisher
 As the best fisherman in the guild it is my duty to control who has access to the guild and to say who can buy similar skillcapes and the cape can even teleport you right inside the guild.		dialogue	Master fisher	Master fisher
-Yes		dialogue	Master fisher	Master fisher
+Yes	はい	dialogue	Master fisher	Master fisher
 No	いいえ	dialogue	Master fisher	Master fisher
 Hey newbie! I'm the Master Navigator - let's teach you how to get around.	やあ、新入り！私はマスターナビゲーターです。移動方法を教えましょう。	dialogue	Master Navigator	Master Navigator
 I can already walk around...	もう歩き回れるよ...。	dialogue	Master Navigator	Player
@@ -39021,7 +39021,7 @@ That doesn't sound like my sort of thing.		dialogue	Matthias	Matthias
 What's this falconry thing all about then?		dialogue	Matthias	Matthias
 Could I have a go with your bird?		dialogue	Matthias	Matthias
 Could I invest in your setup here?		dialogue	Matthias	Matthias
-Yes		dialogue	Matthias	Matthias
+Yes	はい	dialogue	Matthias	Matthias
 No	いいえ	dialogue	Matthias	Matthias
 Actually, I'd like to keep trying a little longer.		dialogue	Matthias	Matthias
 I think I'll leave it for now.		dialogue	Matthias	Matthias
@@ -39606,7 +39606,7 @@ Er, no thanks, I've had second thoughts about it.		dialogue	Mercenary	Mercenary
 Hand me a banknote, and I'll try to convert it to an item.	銀行券を渡せば、それを品物に変えしてみるよ。	dialogue	Mercenary (Ferox Enclave)	Mercenary
 The bank exchanges your coins for platinum tokens.		dialogue	Mercenary (Ferox Enclave)	Mercenary (Ferox Enclave)
 The bank exchanges your platinum tokens for coins.		dialogue	Mercenary (Ferox Enclave)	Mercenary (Ferox Enclave)
-Yes		dialogue	Mercenary (Ferox Enclave)	Mercenary (Ferox Enclave)
+Yes	はい	dialogue	Mercenary (Ferox Enclave)	Mercenary (Ferox Enclave)
 No	いいえ	dialogue	Mercenary (Ferox Enclave)	Mercenary (Ferox Enclave)
 What are you doing here?		dialogue	Mercenary (Theatre of Blood)	Player
 We're getting ready to test our mettle in the Theatre. Most people go in alone but if we do it as a team, we should have no problem.		dialogue	Mercenary (Theatre of Blood)	Mercenary
@@ -41702,7 +41702,7 @@ Talk about something else.		dialogue	Murphy	Murphy
 Yes, Let's go diving.		dialogue	Murphy	Murphy
 Not just yet.		dialogue	Murphy	Murphy
 Go Diving.		dialogue	Murphy	Murphy
-Yes		dialogue	Murphy	Murphy
+Yes	はい	dialogue	Murphy	Murphy
 No	いいえ	dialogue	Murphy	Murphy
 I've had enough, take me back.		dialogue	Murphy	Murphy
 I insist Murphy, take me back.		dialogue	Murphy	Murphy
@@ -43796,7 +43796,7 @@ You must be hearing things. I think you need to have a lie down.		dialogue	Odd O
 Can I exchange this bonesack for the helm?		dialogue	Odd Old Man	Player
 Could I have a helm as well?		dialogue	Odd Old Man	Player
 Anything I can do to help?		dialogue	Odd Old Man	Odd Old Man
-Yes		dialogue	Odd Old Man	Odd Old Man
+Yes	はい	dialogue	Odd Old Man	Odd Old Man
 No	いいえ	dialogue	Odd Old Man	Odd Old Man
 Well, good luck with that.		dialogue	Odd Old Man	Odd Old Man
 Where is that mumbling coming from?		dialogue	Odd Old Man	Odd Old Man
@@ -44044,7 +44044,7 @@ What kind of melody?		dialogue	Olaf the Bard	Player
 It is the song of Rellekka. When you play it, it will bring you back to this town wherever you are in this world.		dialogue	Olaf the Bard	Olaf the Bard
 We often go adventuring with bards for precisely this reason; No matter where we have ended up we can return safe and sound to home.		dialogue	Olaf the Bard	Olaf the Bard
 Thanks Olaf!		dialogue	Olaf the Bard	Player
-Yes		dialogue	Olaf the Bard	Olaf the Bard
+Yes	はい	dialogue	Olaf the Bard	Olaf the Bard
 No	いいえ	dialogue	Olaf the Bard	Olaf the Bard
 Remind me about crafting a lyre		dialogue	Olaf the Bard	Olaf the Bard
 Remind me about Fossegrimen		dialogue	Olaf the Bard	Olaf the Bard
@@ -44407,7 +44407,7 @@ The Master Farmers usually carry a few rare seeds around with them, although I d
 Hey! Get your hands off there!	おい！Get your hands off there!	dialogue	Olivia	Olivia
 You're the one who stole something from me!		dialogue	Olivia	Olivia
 Guardsguards!		dialogue	Olivia	Olivia
-Yes		dialogue	Olivia	Olivia
+Yes	はい	dialogue	Olivia	Olivia
 No	いいえ	dialogue	Olivia	Olivia
 Where do I get rarer seeds from?		dialogue	Olivia	Olivia
 I'm sorry to bother you, but could you spare me a little dung?		dialogue	Ollie the Camel	Player
@@ -45010,7 +45010,7 @@ Let's talk about my training.		dialogue	Otto Godblessed	Otto Godblessed
 Do you have anything for me?		dialogue	Otto Godblessed	Otto Godblessed
 Can you help me with hastae?		dialogue	Otto Godblessed	Otto Godblessed
 Can you forge anything from this broken-looking hasta?		dialogue	Otto Godblessed	Otto Godblessed
-Yes		dialogue	Otto Godblessed	Otto Godblessed
+Yes	はい	dialogue	Otto Godblessed	Otto Godblessed
 No	いいえ	dialogue	Otto Godblessed	Otto Godblessed
 Yes.	そうだ！	dialogue	Otto Godblessed	Otto Godblessed
 No.	いや。	dialogue	Otto Godblessed	Otto Godblessed
@@ -45488,7 +45488,7 @@ Yes please!		dialogue	Patchy	Player
 Sure, but remember I charge 500 coins, so if you don't have them you'll have to come back later!		dialogue	Patchy	Patchy
 No.	いや。	dialogue	Patchy	Player
 Fair enough. See you around!		dialogue	Patchy	Patchy
-Yes		dialogue	Patchy	Patchy
+Yes	はい	dialogue	Patchy	Patchy
 No	いいえ	dialogue	Patchy	Patchy
 Oh no... what do I do?		dialogue	Patty Seer	Patty Seer
 It's all gone wrong...		dialogue	Patty Seer	Patty Seer
@@ -45515,7 +45515,7 @@ Oh... thank you for the offer but I'm not interested in that.		dialogue	Patty Se
 What's the Cake Off?		dialogue	Patty Seer	Patty Seer
 Who are you?	あなたは何者ですか？	dialogue	Patty Seer	Patty Seer
 Your prized tin?		dialogue	Patty Seer	Patty Seer
-Yes		dialogue	Patty Seer	Patty Seer
+Yes	はい	dialogue	Patty Seer	Patty Seer
 No	いいえ	dialogue	Patty Seer	Patty Seer
 I don't think I can help you right now...		dialogue	Patty Seer	Patty Seer
 Is it over?		dialogue	Paul (2019 Christmas event)	Paul
@@ -45733,7 +45733,7 @@ And what is that?		dialogue	Peer the Seer	Player
 I can store all the weapons, armour and items that you have upon you directly into your bank account.		dialogue	Peer the Seer	Peer the Seer
 This will tax what little magic I possess however, so you will have to manually travel to the bank to withdraw them again.		dialogue	Peer the Seer	Peer the Seer
 What say you outerlander? you wish me to do this for you?		dialogue	Peer the Seer	Peer the Seer
-Yes		dialogue	Peer the Seer	Peer the Seer
+Yes	はい	dialogue	Peer the Seer	Peer the Seer
 No thanks. Nobody touches my stuff but me!	いいえ、ありがとうございます。Nobody touches my stuff but me!	dialogue	Peer the Seer	Player
 As you wish, outerlander.		dialogue	Peer the Seer	Peer the Seer
 You may attempt my little task when you have deposited your equipment in the bank.		dialogue	Peer the Seer	Peer the Seer
@@ -46264,7 +46264,7 @@ Downstairs there's a strange looking person. I don't know what that item is, but
 I think she said her name was Madam Sikaro.		dialogue	Phabelle Bile	Phabelle Bile
 You look ready for combat.		dialogue	Phabelle Bile	Phabelle Bile
 Ask about rare item.		dialogue	Phabelle Bile	Phabelle Bile
-Yes		dialogue	Phabelle Bile	Phabelle Bile
+Yes	はい	dialogue	Phabelle Bile	Phabelle Bile
 No	いいえ	dialogue	Phabelle Bile	Phabelle Bile
 Hello, what is this place?		dialogue	Phantuwti Fanstuwi Farsight	Player
 This is Seers Village! We're an organisation of mystically gifted people with the power of foresight...we see things that have yet to come to pass.		dialogue	Phantuwti Fanstuwi Farsight	Phantuwti Fanstuwi Farsight
@@ -46950,7 +46950,7 @@ That I do, and sales are rocketing upwards as word of mouth spreads of it's clea
 Maybe I can take your name and add it to my mailing list for potential purchasers of Peter Potter’s patented multipurpose poison?		dialogue	Poison Salesman	Poison Salesman
 Talk about the Murder Mystery Quest		dialogue	Poison Salesman	Poison Salesman
 Talk about the Fremennik Trials		dialogue	Poison Salesman	Poison Salesman
-Yes		dialogue	Poison Salesman	Poison Salesman
+Yes	はい	dialogue	Poison Salesman	Poison Salesman
 No	いいえ	dialogue	Poison Salesman	Poison Salesman
 Hey, how's it going?		dialogue	Polmafi Ferdygris	Player
 Not so good. It's great to see you're helping us out though.		dialogue	Polmafi Ferdygris	Polmafi Ferdygris
@@ -48647,7 +48647,7 @@ Are you sure? I don't have it anymore...	いいんですか？I don't have it an
 Well, should you need a replacement, I suggest you free up some inventory room first...		dialogue	Rasolo	Rasolo
 Then by all means, take another. Only a foolish merchant would give away his only stock!		dialogue	Rasolo	Rasolo
 It seems you already posessa superior version of the ring. How curious...		dialogue	Rasolo	Rasolo
-Yes		dialogue	Rasolo	Rasolo
+Yes	はい	dialogue	Rasolo	Rasolo
 No	いいえ	dialogue	Rasolo	Rasolo
 I lost that ring you gave me...		dialogue	Rasolo	Rasolo
 What can I do for you, traveller?		dialogue	Rassain	Rassain
@@ -49606,7 +49606,7 @@ Who are you?	あなたは何者ですか？	dialogue	Rick (Wizards' Tower)	Rick 
 What are you doing here?		dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
 Goodbye.	それではまた。	dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
 Can I buy an Escape crystal?		dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
-Yes		dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
+Yes	はい	dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
 No	いいえ	dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
 Can I buy an Members object?		dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
 Which places can the Escape crystal teleport me out of?		dialogue	Rick (Wizards' Tower)	Rick (Wizards' Tower)
@@ -51238,7 +51238,7 @@ Guss thinks they're on the naughty list! I can't wait to tell them.		dialogue	Sa
 I'm afraid that'll have to be our little secret [player name].		dialogue	Santa	Santa
 Oh crumbs.		dialogue	Santa	Player
 Have a happy holidays [player name]!		dialogue	Santa	Santa
-Yes		dialogue	Santa	Santa
+Yes	はい	dialogue	Santa	Santa
 No	いいえ	dialogue	Santa	Santa
 Hello there.	こんにちは。	dialogue	Santa (historical)	Player
 Ho Ho HoMerry Xmas, [player name]! Have you been a good [boy/girl] this year?		dialogue	Santa (historical)	Santa
@@ -52769,7 +52769,7 @@ AS you wish.		dialogue	Sigli the Huntsman	Sigli the Huntsman
 Dagannoth Spined Armour		dialogue	Sigli the Huntsman	Sigli the Huntsman
 The Fremennik Trials	フレメニックの試験	dialogue	Sigli the Huntsman	Sigli the Huntsman
 What's a Draugen?		dialogue	Sigli the Huntsman	Sigli the Huntsman
-Yes		dialogue	Sigli the Huntsman	Sigli the Huntsman
+Yes	はい	dialogue	Sigli the Huntsman	Sigli the Huntsman
 No	いいえ	dialogue	Sigli the Huntsman	Sigli the Huntsman
 Forget it.		dialogue	Sigli the Huntsman	Sigli the Huntsman
 Ask about the Merchant's trial		dialogue	Sigli the Huntsman	Sigli the Huntsman
@@ -52823,7 +52823,7 @@ Can I see your wares?		dialogue	Sigmund The Merchant	Player
 Certainly, [Fremennik name].		dialogue	Sigmund The Merchant	Sigmund The Merchant
 Nothing thanks.	何もない、ありがとう。	dialogue	Sigmund The Merchant	Player
 Well, feel free to stop by anytime that you wish [Fremennik name]. You are always welcome here!		dialogue	Sigmund The Merchant	Sigmund The Merchant
-Yes		dialogue	Sigmund The Merchant	Sigmund The Merchant
+Yes	はい	dialogue	Sigmund The Merchant	Sigmund The Merchant
 No	いいえ	dialogue	Sigmund The Merchant	Sigmund The Merchant
 Can I see your wares?		dialogue	Sigmund The Merchant	Sigmund The Merchant
 Nothing thanks.	何もない、ありがとう。	dialogue	Sigmund The Merchant	Sigmund The Merchant
@@ -52862,7 +52862,7 @@ I've only ever seen Hari using them. People say he's found a way to canoe the ri
 Hari hangs around up near Edgeville		dialogue	Sigurd	Sigurd
 He's a nice bloke.		dialogue	Sigurd	Sigurd
 Who are you?	あなたは何者ですか？	dialogue	Sigurd	Sigurd
-Yes		dialogue	Sigurd	Sigurd
+Yes	はい	dialogue	Sigurd	Sigurd
 No	いいえ	dialogue	Sigurd	Sigurd
 Can you teach me about Canoeing?		dialogue	Sigurd	Sigurd
 Hello there.	こんにちは。	dialogue	Sil'as Dahcsnu	Player
@@ -56489,7 +56489,7 @@ The other reason is of course that I have already memorised it, so I can make my
 Greetings to you [brother/sister] [Fremennik name]! How fare you today?		dialogue	Swensen the Navigator	Swensen the Navigator
 I am fine thanks Swensen. How are you doing?		dialogue	Swensen the Navigator	Player
 I am fine too!		dialogue	Swensen the Navigator	Swensen the Navigator
-Yes		dialogue	Swensen the Navigator	Swensen the Navigator
+Yes	はい	dialogue	Swensen the Navigator	Swensen the Navigator
 No	いいえ	dialogue	Swensen the Navigator	Swensen the Navigator
 Ask about the Merchant's trial		dialogue	Swensen the Navigator	Swensen the Navigator
 Ask about becoming a Fremennik		dialogue	Swensen the Navigator	Swensen the Navigator
@@ -56792,7 +56792,7 @@ How should I know? I would not consort with such a base fellow!		dialogue	Tarqui
 No thanks, not right now.		dialogue	Tarquin	Player
 Can you teach me about canoes?		dialogue	Tarquin	Player
 Who are you?	あなたは何者ですか？	dialogue	Tarquin	Tarquin
-Yes		dialogue	Tarquin	Tarquin
+Yes	はい	dialogue	Tarquin	Tarquin
 No	いいえ	dialogue	Tarquin	Tarquin
 Can you teach me about Canoeing?		dialogue	Tarquin	Tarquin
 Please feel free to use the pottery wheel, I won't be using it all the time. Put your pots in the kiln when you've made one.		dialogue	Tassie Slipcast	Tassie Slipcast
@@ -57251,7 +57251,7 @@ Feel free to keep anything you found there as well, as a thanks from me.		dialog
 Thank you again for your help, do you wish to return to the Rabbit Realm?		dialogue	The Disappointing Gelt	The Disappointing Gelt
 No thanks, I've had enough of rabbits for now.		dialogue	The Disappointing Gelt	Player
 So be it, I'll be contemplating my power for a little while if you change your mind.		dialogue	The Disappointing Gelt	The Disappointing Gelt
-Yes		dialogue	The Disappointing Gelt	The Disappointing Gelt
+Yes	はい	dialogue	The Disappointing Gelt	The Disappointing Gelt
 No	いいえ	dialogue	The Disappointing Gelt	The Disappointing Gelt
 Hello.	こんにちは。	dialogue	The Face	Player
 Oh. It's you again.	ああ... It's you again.	dialogue	The Face	The Face
@@ -58234,7 +58234,7 @@ You misunderstand, outerlander. Normally I will only battle for a noble cause, b
 With this Champion's token, I can stand alongside my warrior brethren in the Long Hall, and revel in the glories of past victories together!		dialogue	Thorvald the Warrior	Thorvald the Warrior
 Howdy Thorvald!		dialogue	Thorvald the Warrior	Player
 And greetings to you too. It is good to see new blood entering the Fremennik; we gain our strength by bringing new warriors into the tribe.		dialogue	Thorvald the Warrior	Thorvald the Warrior
-Yes		dialogue	Thorvald the Warrior	Thorvald the Warrior
+Yes	はい	dialogue	Thorvald the Warrior	Thorvald the Warrior
 No	いいえ	dialogue	Thorvald the Warrior	Thorvald the Warrior
 What do I have to do again?		dialogue	Thorvald the Warrior	Thorvald the Warrior
 Who is my opponent?		dialogue	Thorvald the Warrior	Thorvald the Warrior
@@ -61884,7 +61884,7 @@ Hand over all clues.		dialogue	Watson	Watson
 What is that noticeboard for?		dialogue	Watson	Watson
 Goodbye.	それではまた。	dialogue	Watson	Watson
 Cancel.		dialogue	Watson	Watson
-Yes		dialogue	Watson	Watson
+Yes	はい	dialogue	Watson	Watson
 No	いいえ	dialogue	Watson	Watson
 Exchange the book for teleport scrolls		dialogue	Watson	Watson
 Don't exchange the book		dialogue	Watson	Watson
@@ -61892,7 +61892,7 @@ Shall we return to Crash Island?		dialogue	Waydar	Waydar
 Yes, let's go.		dialogue	Waydar	Player
 As you wish.		dialogue	Waydar	Waydar
 Not yet. I'll be back later.		dialogue	Waydar	Player
-Yes		dialogue	Waydar	Waydar
+Yes	はい	dialogue	Waydar	Waydar
 No	いいえ	dialogue	Waydar	Waydar
 Welcome to Wayne's Chains. Do you wanna buy or sell some chain mail?		dialogue	Wayne	Wayne
 No thanks.	いいえ、ありがとうございます。	dialogue	Wayne	Player
@@ -65994,7 +65994,7 @@ Now I'm stuck here, ferrying items back and forth to the bank's safe in Varrock 
 That doesn't sound very fun, but you're doing a great service for us adventurers.	楽しそうには聞こえないけど、あなたは私たち冒険者に大きなサービスを提供してくれている。	dialogue	Banker	Player
 Tell that to my back and legs, I'm exhausted from carrying all this junk back and forth.	私の背中と脚にそれを言ってくれ、このガラクタを何往復も運んで疲れ切っているんだ。	dialogue	Banker	Banker
 Hand me a banknote, and I'll try to convert it to an item.	銀行券を渡せば、それを品物に変えしてみるよ。	dialogue	Banker	Banker
-Yes		dialogue	Banker	Banker
+Yes	はい	dialogue	Banker	Banker
 What are you doing out here?	ここで何をしているんだ？	dialogue	Banker	Banker
 No	いいえ	dialogue	Banker	Banker
 Welcome to the Keldagrim bank! Anything I can help you with?	ケルダグリム銀行へようこそ！何かお手伝いできることはありますか？	dialogue	Banker	Banker
@@ -67004,7 +67004,7 @@ No, sorry.		dialogue	Clerk	Player
 The people of Hosidius require sulphurous fertiliser for the farms. We currently require [number] buckets. Do come back if you every get any you'd be willing to donate.		dialogue	Clerk	Clerk
 If you were planning to bring any fertiliser for the stores, please try again later. The stores are very full at present.		dialogue	Clerk	Clerk
 That's alright, I haven't brought any.		dialogue	Clerk	Player
-Yes		dialogue	Clerk	Clerk
+Yes	はい	dialogue	Clerk	Clerk
 No	いいえ	dialogue	Clerk	Clerk
 Hey, a cockatrice!		dialogue	Cockatrice head	Player
 [House owner] deaded me! That wasn't very nice!		dialogue	Cockatrice head	Cockatrice
@@ -67858,7 +67858,7 @@ Do you know anything about treasure near here?		dialogue	Eblis	Eblis
 Do you know anything about a fortress near here?		dialogue	Eblis	Eblis
 Nothing thanks.	何もない、ありがとう。	dialogue	Eblis	Eblis
 Tell me of The four diamonds of Azzanadra		dialogue	Eblis	Eblis
-Yes		dialogue	Eblis	Eblis
+Yes	はい	dialogue	Eblis	Eblis
 No, please repeat those ingredients.		dialogue	Eblis	Eblis
 No	いいえ	dialogue	Eblis	Eblis
 Hello there, are you interested in buying one of my special capes?		dialogue	Edmond	Edmond
@@ -69496,7 +69496,7 @@ Oh... Sorry, we're not meant to talk to the nobles.		dialogue	Meiyerditch miner	
 Hand me a banknote, and I'll try to convert it to an item.	銀行券を渡せば、それを品物に変えしてみるよ。	dialogue	Mercenary	Mercenary
 The bank exchanges your coins for platinum tokens.		dialogue	Mercenary	Mercenary
 The bank exchanges your platinum tokens for coins.		dialogue	Mercenary	Mercenary
-Yes		dialogue	Mercenary	Mercenary
+Yes	はい	dialogue	Mercenary	Mercenary
 No	いいえ	dialogue	Mercenary	Mercenary
 What are you doing here?		dialogue	Mercenary	Player
 We're getting ready to test our mettle in the Theatre. Most people go in alone but if we do it as a team, we should have no problem.		dialogue	Mercenary	Mercenary
@@ -70398,7 +70398,7 @@ Have you ever found yourself zoning out, and come back to reality to find yourse
 It does mean they are likely to trigger in combat, although I'm working on that. But they should let you run through a dangerous area as long as you don't stop in the middle.		dialogue	Rick	Rick
 They also now work in any place a ring of life would. Talking about rings of life, they can also act just like one if you configure them to be so.		dialogue	Rick	Rick
 Can I buy an Escape crystal?		dialogue	Rick	Rick
-Yes		dialogue	Rick	Rick
+Yes	はい	dialogue	Rick	Rick
 No	いいえ	dialogue	Rick	Rick
 Can I buy an Members object?		dialogue	Rick	Rick
 Which places can the Members object teleport me out of?		dialogue	Rick	Rick
@@ -73542,7 +73542,7 @@ I have something for you. You lost your Echo boots. Would you like it back?		dia
 Ah! I have something for you. You lost your banner. Would you like it back?	ああ！I have something for you. You lost your banner. Would you like it back?	dialogue	Perdu	Perdu
 Lock item ([used item])		dialogue	Perdu	Perdu
 Cancel	キャンセル	dialogue	Perdu	Perdu
-Yes		dialogue	Perdu	Perdu
+Yes	はい	dialogue	Perdu	Perdu
 No	いいえ	dialogue	Perdu	Perdu
 I see you've finished building the camp for us.		dialogue	Peter	Peter
 All in a day's work!		dialogue	Peter	Player
@@ -73713,7 +73713,7 @@ Yes.	そうだ！	dialogue	Sanfew	Sanfew
 No.	いや。	dialogue	Sanfew	Sanfew
 You have already given me lovely coins, so you may go in, and may your death be a glorious one!		dialogue	Saniboch	Saniboch
 Okay, thanks.		dialogue	Saniboch	Player
-Yes		dialogue	Saniboch	Saniboch
+Yes	はい	dialogue	Saniboch	Saniboch
 No	いいえ	dialogue	Saniboch	Saniboch
 Okay, thanks.		dialogue	Saniboch	Saniboch
 Yes?		dialogue	Seer	Seer

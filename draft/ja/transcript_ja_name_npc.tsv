@@ -115,7 +115,7 @@ The Nightmare	ザ・ナイトメア	name	npc	The Nightmare
 Quiz Master	クイズの達人	name	npc	Quiz Master
 Pillory Guard	さらし台の衛兵	name	npc	Pillory Guard
 Tramp	浮浪者	name	npc	Tramp
-Man	男	name	npc	Man
+Man	手動	name	npc	Man
 Avan	アバン	name	npc	Avan
 Dark Core	暗黒の核	name	npc	Dark Core
 Evil Bob	邪悪なボブ	name	npc	Evil Bob
@@ -816,8 +816,8 @@ Chaos Elemental	混沌エレメンタル	name	npc	Chaos Elemental
 Chaos Elemental Jr.	混沌エレメンタル・Jr.	name	npc	Chaos Elemental Jr.
 Dodgy Squire	ドジな従者	name	npc	Dodgy Squire
 Oomlie bird	ウームリー鳥	name	npc	Oomlie bird
-Terrorbird	テラー鳥	name	npc	Terrorbird
-Mounted terrorbird gnome	テラー鳥に乗るノーム	name	npc	Mounted terrorbird gnome
+Terrorbird	テラーバード	name	npc	Terrorbird
+Mounted terrorbird gnome	テラーバード乗りのノーム	name	npc	Mounted terrorbird gnome
 Crow	カラス	name	npc	Crow
 Fire giant	火の巨人	name	npc	Fire giant
 Ice giant	氷の巨人	name	npc	Ice giant
@@ -1012,9 +1012,9 @@ Johanhus Ulsbrecht	ヨハンフス・ウルスブレヒト	name	npc	Johanhus Uls
 H.A.M. Guard	H.A.M.の衛兵	name	npc	H.A.M. Guard
 H.A.M. Deacon	H.A.M.の助祭	name	npc	H.A.M. Deacon
 H.A.M. Member	H.A.M.の会員	name	npc	H.A.M. Member
-Mounted terrorchick gnome	テラー鳥のひなに乗るノーム	name	npc	Mounted terrorchick gnome
+Mounted terrorchick gnome	テラーバードのひなに乗るノーム	name	npc	Mounted terrorchick gnome
 Captain Lamdoo	ラムドゥー機長	name	npc	Captain Lamdoo
-Terrorchick gnome	テラー鳥のノーム	name	npc	Terrorchick gnome
+Terrorchick gnome	テラーバードのノーム	name	npc	Terrorchick gnome
 Gianne jnr.	ギアンヌ・ジュニア	name	npc	Gianne jnr.
 Timble	チンブル	name	npc	Timble
 Tamble	タンブル	name	npc	Tamble
@@ -2383,7 +2383,7 @@ Monkey display	サルの展示	name	npc	Monkey display
 Lizard display	トカゲの展示	name	npc	Lizard display
 Penguin display	ペンギンの展示	name	npc	Penguin display
 Camel display	ラクダの展示	name	npc	Camel display
-Terrorbird display	テラー鳥の展示	name	npc	Terrorbird display
+Terrorbird display	テラーバードの展示	name	npc	Terrorbird display
 Dragon display	竜の展示	name	npc	Dragon display
 Wyvern display	ワイバーンの展示	name	npc	Wyvern display
 Battle tortoise display	戦闘ガメの展示	name	npc	Battle tortoise display
@@ -3775,7 +3775,7 @@ Arcane Scarab	神秘のスカラベ	name	npc	Arcane Scarab
 Agile Scarab	俊敏なスカラベ	name	npc	Agile Scarab
 Zebak's Tail	ゼバックの尻尾	name	npc	Zebak's Tail
 Jug	水差し	name	npc	Jug
-Wave	波	name	npc	Wave
+Wave	ウェーブ	name	npc	Wave
 Bloody Wave	血の波	name	npc	Bloody Wave
 Blood Cloud	血の雲	name	npc	Blood Cloud
 Elidinis' Warden	エリディニスの監視者	name	npc	Elidinis' Warden
@@ -3928,7 +3928,7 @@ Scarred imp	負傷した小悪魔	name	npc	Scarred imp
 Catalytic Guardian	触媒の守護者	name	npc	Catalytic Guardian
 Scarred black demon	負傷した黒悪魔	name	npc	Scarred black demon
 Giant goblin	巨大なゴブリン	name	npc	Giant goblin
-Mutated Terrorbird	変異テラー鳥	name	npc	Mutated Terrorbird
+Mutated Terrorbird	変異テラーバード	name	npc	Mutated Terrorbird
 Mutated Tortoise	変異カメ	name	npc	Mutated Tortoise
 Longramble	ロングランブル	name	npc	Longramble
 Yewnock the Engineer	技術者のユーノック	name	npc	Yewnock the Engineer
@@ -3936,12 +3936,12 @@ King Bolrie	ボルリー王	name	npc	King Bolrie
 Bolrie	ボルリー	name	npc	Bolrie
 Advisor	顧問	name	npc	Advisor
 Argenthorg	アーゲンソーグ	name	npc	Argenthorg
-Terrorbird Guard 21	テラー鳥の警備兵21	name	npc	Terrorbird Guard 21
-Terrorbird Guard 72	テラー鳥の警備兵72	name	npc	Terrorbird Guard 72
+Terrorbird Guard 21	テラーバードの警備兵21	name	npc	Terrorbird Guard 21
+Terrorbird Guard 72	テラーバードの警備兵72	name	npc	Terrorbird Guard 72
 Big Monolith	大きなモノリス	name	npc	Big Monolith
 Small Monolith	小さなモノリス	name	npc	Small Monolith
 Warped Tortoise	歪んだカメ	name	npc	Warped Tortoise
-Warped Terrorbird	歪んだテラー鳥	name	npc	Warped Terrorbird
+Warped Terrorbird	歪んだテラーバード	name	npc	Warped Terrorbird
 Hagus	ハグス	name	npc	Hagus
 Spidey dog	クモイヌ	name	npc	Spidey dog
 Unfinished Beehive	未完成なハチの巣	name	npc	Unfinished Beehive
