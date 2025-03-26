@@ -10436,7 +10436,7 @@ source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109970"><xliff:source>Open Bond Pouch</xliff:source><xliff:target state="translated">ボンド入れを開く</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: settingsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109971"><xliff:source>All Settings</xliff:source><xliff:target state="translated">全設定</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109971"><xliff:source>All Settings</xliff:source><xliff:target state="translated">全ての設定</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109972"><xliff:source>Controls</xliff:source><xliff:target state="translated">操作</xliff:target><xliff:note>category: actions
@@ -10478,13 +10478,13 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109984"><xliff:source>Unlock hint</xliff:source><xliff:target state="translated">開放ヒント</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109985"><xliff:source>Play</xliff:source><xliff:target state="translated">プレイ</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109985"><xliff:source>Play</xliff:source><xliff:target state="translated">再生</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109986"><xliff:source>Thumbs Up</xliff:source><xliff:target state="translated">いいね</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: logoutTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109987"><xliff:source>Thumbs Down</xliff:source><xliff:target state="translated">アンハッピー</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109987"><xliff:source>Thumbs Down</xliff:source><xliff:target state="translated">良くない</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: logoutTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="109988"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">世界変更</xliff:target><xliff:note>category: actions

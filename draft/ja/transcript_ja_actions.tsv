@@ -1442,7 +1442,7 @@ Toggle Accept Aid	手助けの許容の切り替え	actions	menu	settingsTab
 Toggle Run	走りの切り替え	actions	menu	settingsTab
 View House Options	家のオプションを表示	actions	menu	settingsTab
 Open Bond Pouch	ボンド入れを開く	actions	menu	settingsTab
-All Settings	全設定	actions	menu	settingsTab
+All Settings	全ての設定	actions	menu	settingsTab
 Controls	操作	actions	menu	settingsTab
 Display	表示	actions	menu	settingsTab
 Audio	音声	actions	menu	settingsTab
@@ -1456,9 +1456,9 @@ Area	地域	actions	menu	musicTab
 Manual	手動	actions	menu	musicTab
 Random	ランダム	actions	menu	musicTab
 Unlock hint	開放ヒント	actions	menu	musicTab
-Play	プレイ	actions	menu	musicTab
+Play	再生	actions	menu	musicTab
 Thumbs Up	いいね	actions	menu	logoutTab
-Thumbs Down	アンハッピー	actions	menu	logoutTab
+Thumbs Down	良くない	actions	menu	logoutTab
 World Switcher	世界変更	actions	menu	logoutTab
 Logout	ログアウト	actions	menu	logoutTab
 Favourite	お気に入り	actions	menu	worldSwitcherTab
