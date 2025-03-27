@@ -1407,6 +1407,9 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112910"><xliff:source>Grand Exchange</xliff:source><xliff:target state="translated">グランド・エクスチェンジ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: accountManagementTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112911"><xliff:source>&lt;col=ff9040&gt;PvP Arena&lt;/col&gt; options</xliff:source><xliff:target state="translated">&lt;col=ff9040&gt;PvPアリーナ&lt;/col&gt; のオプション</xliff:target><xliff:note>category: name
+sub_category: menu
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

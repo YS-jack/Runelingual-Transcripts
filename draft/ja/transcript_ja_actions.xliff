@@ -10835,6 +10835,9 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110103"><xliff:source>Add ignore</xliff:source><xliff:target state="translated">無視リスト追加</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110104"><xliff:source>Hop-to</xliff:source><xliff:target state="translated">同じ世界へ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: friendsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

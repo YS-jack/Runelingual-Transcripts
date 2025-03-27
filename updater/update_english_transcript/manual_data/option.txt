@@ -193,6 +193,7 @@ Message	actions	menu	friendsTab
 View Ignore List	actions	menu	friendsTab
 Add Friend	actions	menu	friendsTab
 Delete Friend	actions	menu	friendsTab
+Hop-to	actions	menu	friendsTab
 View Friends List	actions	menu	ignoreTab
 Delete	actions	menu	ignoreTab
 Add Name	actions	menu	ignoreTab
