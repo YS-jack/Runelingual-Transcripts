@@ -1577,3 +1577,6 @@ Add friend	フレンド追加	actions	menu	groupTab
 Add ignore	無視リスト追加	actions	menu	groupTab
 Hop-to	同じ世界へ	actions	menu	friendsTab
 Perform <colNum0>Relic unlock</col>	<colNum0>遺物の解放</col> 演技する	actions	menu	emotesTab
+Loop	ループ	actions	menu	emotesTab
+Toggle	切り替える	actions	menu	musicTab
+Open	開く	actions	menu	musicTab

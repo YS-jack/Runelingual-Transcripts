@@ -1,0 +1,380 @@
+english	category	sub_category	source
+Unarmed	interface	mainTabs	combatOptionsTab
+Punch	interface	mainTabs	combatOptionsTab
+Kick	interface	mainTabs	combatOptionsTab
+Combat Lvl: <Num0>	interface	mainTabs	combatOptionsTab
+Auto Retaliate (On)	interface	mainTabs	combatOptionsTab
+Auto Retaliate (Off)	interface	mainTabs	combatOptionsTab
+Special Attack: <Num0>%	interface	mainTabs	combatOptionsTab
+When active your character will automatically fight back if attacked.	interface	mainTabs	combatOptionsTab
+Category: Pickaxe	interface	mainTabs	combatOptionsTab
+Category: Spear	interface	mainTabs	combatOptionsTab
+Category: Axe	interface	mainTabs	combatOptionsTab
+Category: Stab Sword	interface	mainTabs	combatOptionsTab
+Category: Thrown	interface	mainTabs	combatOptionsTab
+Category: Bow	interface	mainTabs	combatOptionsTab
+Category: Crossbow	interface	mainTabs	combatOptionsTab
+Category: Staff	interface	mainTabs	combatOptionsTab
+Category: Powered Staff	interface	mainTabs	combatOptionsTab
+Category: 2h Sword	interface	mainTabs	combatOptionsTab
+Category: Banner	interface	mainTabs	combatOptionsTab
+Category: Blunt	interface	mainTabs	combatOptionsTab
+Category: Bludgeon	interface	mainTabs	combatOptionsTab
+Category: Bulwark	interface	mainTabs	combatOptionsTab
+Category: Claw	interface	mainTabs	combatOptionsTab
+Category: Partisan	interface	mainTabs	combatOptionsTab
+Category: Polearm	interface	mainTabs	combatOptionsTab
+Category: Polestaff	interface	mainTabs	combatOptionsTab
+Category: Scythe	interface	mainTabs	combatOptionsTab
+Category: Slash Sword	interface	mainTabs	combatOptionsTab
+Category: Spiked	interface	mainTabs	combatOptionsTab
+Category: Unarmed	interface	mainTabs	combatOptionsTab
+Category: Whip	interface	mainTabs	combatOptionsTab
+Category: Chinchompas	interface	mainTabs	combatOptionsTab
+Category: Gun	interface	mainTabs	combatOptionsTab
+Category: Bladed Staff	interface	mainTabs	combatOptionsTab
+Category: Salamander	interface	mainTabs	combatOptionsTab
+Category: Multi-style	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Heavy) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Light) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Aggressive) (Standard) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Heavy) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Light) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Defensive) (Standard) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Heavy) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Light) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Stab) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Slash) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Attack XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Strength XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Controlled) (Standard) (Crush) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Light) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Standard) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Heavy) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Light) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Standard) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Rapid) (Heavy) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Light) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Standard) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Heavy) (Ranged XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Magic XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Accurate) (Magic XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Defence XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Shared XP)	interface	mainTabs	combatOptionsTab
+(Longrange) (Magic XP) (Defence XP)	interface	mainTabs	combatOptionsTab
+Accurate	interface	mainTabs	combatOptionsTab
+Aggressive	interface	mainTabs	combatOptionsTab
+Defensive	interface	mainTabs	combatOptionsTab
+Controlled	interface	mainTabs	combatOptionsTab
+Chop	interface	mainTabs	combatOptionsTab
+Slash	interface	mainTabs	combatOptionsTab
+Stab	interface	mainTabs	combatOptionsTab
+Block	interface	mainTabs	combatOptionsTab
+Pound	interface	mainTabs	combatOptionsTab
+Pummel	interface	mainTabs	combatOptionsTab
+Spike	interface	mainTabs	combatOptionsTab
+Impale	interface	mainTabs	combatOptionsTab
+Smash	interface	mainTabs	combatOptionsTab
+Lunge	interface	mainTabs	combatOptionsTab
+Swipe	interface	mainTabs	combatOptionsTab
+Hack	interface	mainTabs	combatOptionsTab
+Reap	interface	mainTabs	combatOptionsTab
+Rapid	interface	mainTabs	combatOptionsTab
+Longrange	interface	mainTabs	combatOptionsTab
+Flick	interface	mainTabs	combatOptionsTab
+Lash	interface	mainTabs	combatOptionsTab
+Deflect	interface	mainTabs	combatOptionsTab
+Fend	interface	mainTabs	combatOptionsTab
+Bash	interface	mainTabs	combatOptionsTab
+Blaze	interface	mainTabs	combatOptionsTab
+Scorch	interface	mainTabs	combatOptionsTab
+Flare	interface	mainTabs	combatOptionsTab
+Focus	interface	mainTabs	combatOptionsTab
+Spell	interface	mainTabs	combatOptionsTab
+Retainer: Traps a vampyre juvenile or juvinate provided they have <Num0>% or less hitpoints remaining. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Power of Death: Reduce all melee damage you receive by <Num0>% for the next minute while the staff remains equipped. Stacks with Protect from Melee. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Rampage: Drain your Attack, Defence, Ranged & Magic levels by <Num0>%, while increasing your Strength by <Num1> levels, plus <Num2>% of the drained levels. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Lumber Up: Increase your Woodcutting level by <Num0>. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Rock Knocker: Increase your Mining level by <Num0>. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Puncture: Deal two quick slashes with <Num0>% increased accuracy and <Num1>% increased damage. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Sanctuary: Temporarily increase your Defence level by <Num0>. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Cleave: Deal a powerful attack that inflicts <Num0>% more damage. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Cleave: Deal a powerful attack that inflicts <Num0>% more damage with <Num1>% increased accuracy and increased speed. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Sever: Deal a slash with increased accuracy that prevents your target from using protection prayers for <Num0> seconds if it successfully hits. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Weaken: Temporarily drain your target's Attack, Strength and Defence by <Num0>%. Is twice as effective against demons. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Liquify: Deal an attack with double the chance of hitting that boosts your Strength, Attack and Defence levels by <Num0>% of the damage dealt. Can only be used underwater. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Powerstab: Hit up to fourteen enemies surrounding you. (<Num0>%)	interface	mainTabs	combatOptionsTab
+The Judgement: Deal an attack that inflicts <Num0>% more damage with double accuracy. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Warstrike: Deal an attack, with double accuracy, that inflicts <Num0>% more damage and drains one of your target's combat stats by the damage dealt. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Healing Blade: Deal an attack that inflicts <Num0>% more damage with double accuracy, while restoring your Hitpoints and Prayer by <Num1>% and <Num2>% of the damage dealt respectively. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Ice Cleave: Deal an attack that inflicts <Num0>% more damage with double accuracy and freezes your target for <Num1> seconds if it successfully hits. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Blood Sacrifice: Deal an attack that inflicts <Num0>% more damage with double accuracy and marks your target for a blood sacrifice. Targets marked for a blood sacrifice will be hit for <Num1> damage after a short delay, unless they move away. If they are hit, you'll also be healed for the damage dealt. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Saradomin's Lightning: Call upon Saradomin's power to perform an attack that inflicts <Num0>% more melee damage and <Num1>-<Num2> extra magic damage. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Saradomin's Lightning: Call upon Saradomin's power to perform an attack with <Num0>% higher max hit. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit, treats your target's defence as if it was reduced to <Num2>%. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Favour of the War God: Deal an attack which hits through Protect from Melee and siphons Prayer points equal to the damage dealt. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Impale: Deal an attack with <Num0>% increased Attack and Strength, but with a slower speed. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Quick Smash: Deal an extra attack instantly. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Energy Drain: Deal an attack with <Num0>% increased accuracy that siphons <Num1>% of your target's run energy. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Binding Tentacle: Bind your target for <Num0> seconds and increase the chance of them being poisoned. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Penance: Deal an attack that inflicts <Num0>% more damage per prayer point that you have used. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Shove: Push your target back and stun them for <Num0> seconds. This attack deals no damage. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Sweep: If your target is small, adjacent targets may be hit too. Otherwise, your target may be hit a second time, with <Num0>% decreased accuracy. Damage in all cases is increased by <Num1>% of your max hit. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Powershot: Deal an attack that is guaranteed to hit your target. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Snapshot: Fire two arrows within quick succession, but with reduced accuracy. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Soulshot: Deal an attack that is guaranteed to hit your target and lowers your target's Magic level by the damage dealt. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Snipe: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Armadyl Eye: Deal an attack with double accuracy, also doubles the base activation chance of enchanted bolt effects. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Chainhit: Throw an axe which hits your target and then chains to hit further nearby targets, costing <Num0>% additional special attack per extra target. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Toxic Siphon: Deal an attack with <Num0>% increased accuracy that inflicts <Num1>% more damage and heals you for <Num2>% of the damage dealt. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Smash: Deal an attack that inflicts <Num0>% more damage and lowers your target's Defence level by <Num1>%. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Slice and Dice: Hit <Num0> times in quick succession, with great accuracy. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Concentrated Shot: Deal an attack with <Num0>% increased accuracy and damage, but takes an additional <Num1> seconds to fire. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Wild Stab: Deal an attack which hits through Protect from Melee with <Num0>% increased accuracy and damage. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Momentum Throw: Deal a fast attack with <Num0>% improved accuracy. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Fishstabber: Increase your Fishing level by <Num0>. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Shield Bash: Hit surrounding targets within a <Num0>x<Num1> area with <Num2>% increased accuracy. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Hammer Blow: Deal an attack with <Num0>% more accuracy and a guaranteed +<Num1> damage. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Annihilate: Hit your target with <Num0>% extra damage and in multicombat zones, hit all adjacent targets by <Num1>% less damage. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Pulsate: Fire an incredibly powerful burst of energy. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Hamstring: Deal a minimum of <Num0>% extra damage and hamstring player targets, causing them to lose run energy <Num1>x faster for <Num2> minute. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Phantom Strike: This does nothing vs non-player targets. As well as dealing a regular attack, your target will suffer that damage again over time. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Smash: Deal an attack which deals a minimum of <Num0>% extra damage and lowers your target's Defence level by <Num1>%. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Feint: Deal an attack which treats your target's defence as if it was reduced by <Num0>%. It will deal a minimum of <Num1>% extra damage. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Spear Wall: All damage dealt by this attack is reduced by <Num0>%, but will damage up to sixteen targets surrounding you. After using this attack, you will be immune from melee attacks for <Num1> seconds. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Spear Wall: Will hit twice with second hit deals a damage between <Num0>% - <Num1>% of the first hit damage. After using this attack, you will be immune from melee attacks for <Num2> seconds. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Duality: Throws two knives at your opponent. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Unleash: Deal an attack which has <Num0>% increased accuracy and <Num1>% increased strength per <Num2>% of the special attack bar used. (<Num3>%)	interface	mainTabs	combatOptionsTab
+Immolate: Fire a powerful spell with <Num0>% improved accuracy. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Costs no runes to use. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Invocate: Fire a powerful spell that restores your prayer points by <Num0>% of the damage dealt. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Your prayer points can go above your level, to a maximum of <Num1>. Costs no runes to use. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Eviscerate: Perform an attack with your true maximum hit and a <Num0>% accuracy bonus. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Evoke: Perform an attack with double accuracy, with a guaranteed enchanted bolt activation rate on successful hit. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Wrath of Amascut: Perform an attack with <Num0>% increased accuracy and <Num1>% increased damage, but with halved attack speed. If hit, the opponent will take <Num2>% increased damage for the next <Num3> seconds. This special attack can only be used within the Tombs of Amascut. (<Num4>%)	interface	mainTabs	combatOptionsTab
+Tumeken's Light: Sacrifice <Num0> prayer points to restore your hitpoints to <Num1>% above their maximum, cure all poison, restore all drained stats (except prayer) and fully restore your run energy. This special attack can only be used within the Tombs of Amascut. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Swarm: Fire <Num0> times in quick succession, dealing reduced damage and inflicting poison. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Bear Down: Perform an attack with double accuracy, dealing additional damage over time, draining your target's agility level and preventing them from running. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Condemn: Fire a powerful spell with increased accuracy and damage, lowering your target's magic and defence levels by up to <Num0>%. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Disrupt: Summon a powerful bolt of lightning that deals guaranteed magic damage based on your max hit. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Celebrate: Perform an attack to leave the area feeling more festive. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Behead: Consume all Soul Stacks, attacking with increased damage and accuracy per stack, and healing for <Num0> health per stack. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Pulverize: A crushing blow with <Num0>% bonus accuracy that will reduce your target's defence by <Num1>%. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Burning barrage: Attacks <Num0> times in quick succession, with a chance to burn the enemy on each hit. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Scorching shackles: A scorching shot with <Num0>% bonus accuracy that will bind and burn enemy demons for <Num1> seconds.) (<Num2>%)	interface	mainTabs	combatOptionsTab
+Scatter ashes: Casts the highest available demonbane spell. If it kills a demon, it refunds its special attack energy cost, and reduces the next attack delay. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Weaken: Temporarily drain your target's Attack, Strength and Defence by <Num0>%. Is three times as effective against demons. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Division: Fire a powerful piercing blade that reduces the targets Defence by <Num0>% of their Magic Level. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Break Shackles: Attack with increased accuracy and damage based on the duration of any binding spells affecting them and ending said effect. This special attack requires the full Frostmoon set to be worn. (<Num0>%)	interface	mainTabs	combatOptionsTab
+Blood infusion: Sacrifice <Num0>% of your current hp to deal an attack with <Num1>% increased accuracy and damage, with a guaranteed set effect activation on hit. This special attack requires the full Bloodrager set to be worn. (<Num2>%)	interface	mainTabs	combatOptionsTab
+Eclipse: Attack with <Num0>% increased accuracy, consuming all remaining burn damage affecting the target and raising the max hit by that amount. This special attack requires the full Eclipse set to be worn. (<Num1>%)	interface	mainTabs	combatOptionsTab
+Virulence: Instantly metabolize any poison you are suffering from to buff your next attack by that amount of damage. (<Num0>%)	interface	mainTabs	combatOptionsTab

@@ -4939,3 +4939,7 @@ Work  Work  Work	仕事　仕事　仕事	interface	mainTabs	musicTab
 PK Skull Prevention (currently off)	PKドクロ防止（現在OFF）	interface	mainTabs	settingsTab
 Music unlock message (currently off)	音楽解放メッセージ（現在OFF）	interface	mainTabs	settingsTab
 Click here to enable zooming using the mouse scroll wheel.	スクロールでのズームを有効にするにはここをクリック	interface	mainTabs	settingsTab
+Search	検索	interface	mainTabs	musicTab
+All	全て	interface	mainTabs	musicTab
+Locked	未開放	interface	mainTabs	musicTab
+Unlocked	開放済	interface	mainTabs	musicTab

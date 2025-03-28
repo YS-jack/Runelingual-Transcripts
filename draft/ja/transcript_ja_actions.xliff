@@ -10841,6 +10841,15 @@ source: friendsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110105"><xliff:source>Perform &lt;colNum0&gt;Relic unlock&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;遺物の解放&lt;/col&gt; 演技する</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: emotesTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110106"><xliff:source>Loop</xliff:source><xliff:target state="translated">ループ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: emotesTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110107"><xliff:source>Toggle</xliff:source><xliff:target state="translated">切り替える</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110108"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

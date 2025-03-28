@@ -1,0 +1,39 @@
+english	category	sub_category	source
+Friends - W<Num0> (<Num1>/<Num2>)	interface	mainTabs	friendsTab
+<colNum0>World <Num0>	interface	mainTabs	friendsTab
+World <Num0>	interface	mainTabs	friendsTab
+Offline	interface	mainTabs	friendsTab
+Del Friend	interface	mainTabs	friendsTab
+Ignores - W<Num0> (<Num1>/<Num2>)	interface	mainTabs	ignoreTab
+Add Name	interface	mainTabs	ignoreTab
+Del Name	interface	mainTabs	ignoreTab
+Add Friend	interface	mainTabs	friendsTab
+You may ignore users by using the button below, or by right-clicking on a message from them and selecting to add them to your ignore list.	interface	mainTabs	ignoreTab
+You may add friends by using the button below, or by right-clicking on a message from them and selecting to add them as a friend.	interface	mainTabs	friendsTab
+Account	interface	mainTabs	accountManagementTab
+Membership: <Num0> days left	interface	mainTabs	accountManagementTab
+Open Store	interface	mainTabs	accountManagementTab
+Bond Pouch	interface	mainTabs	accountManagementTab
+Inbox: <Num0> unread messages	interface	mainTabs	accountManagementTab
+View Inbox	interface	mainTabs	accountManagementTab
+Name Changer	interface	mainTabs	accountManagementTab
+Membership: <colNum0>None</col>	interface	mainTabs	accountManagementTab
+Upgrade Now	interface	mainTabs	accountManagementTab
+View Benefits	interface	mainTabs	accountManagementTab
+Community	interface	mainTabs	accountManagementTab
+Current Poll: <colNum0>Inactive</col>	interface	mainTabs	accountManagementTab
+View Poll	interface	mainTabs	accountManagementTab
+View History	interface	mainTabs	accountManagementTab
+Latest Update	interface	mainTabs	accountManagementTab
+View Newspost	interface	mainTabs	accountManagementTab
+View Archive	interface	mainTabs	accountManagementTab
+Useful Links	interface	mainTabs	accountManagementTab
+Old School Website	interface	mainTabs	accountManagementTab
+Customer Support	interface	mainTabs	accountManagementTab
+Grand Exchange	interface	mainTabs	accountManagementTab
+Hiscores	interface	mainTabs	accountManagementTab
+Old School Wiki	interface	mainTabs	accountManagementTab
+Merchandise	interface	mainTabs	accountManagementTab
+Name: <!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
+Current Poll: <colNum0>Active</col>	interface	mainTabs	accountManagementTab
+Vote Now	interface	mainTabs	accountManagementTab

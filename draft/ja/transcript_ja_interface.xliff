@@ -29962,6 +29962,18 @@ source: settingsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119866"><xliff:source>Click here to enable zooming using the mouse scroll wheel.</xliff:source><xliff:target state="translated">スクロールでのズームを有効にするにはここをクリック</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: settingsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119867"><xliff:source>Search</xliff:source><xliff:target state="translated">検索</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119868"><xliff:source>All</xliff:source><xliff:target state="translated">全て</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119869"><xliff:source>Locked</xliff:source><xliff:target state="translated">未開放</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119870"><xliff:source>Unlocked</xliff:source><xliff:target state="translated">開放済</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
