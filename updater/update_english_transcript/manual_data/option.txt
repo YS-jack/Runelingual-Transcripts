@@ -237,6 +237,7 @@ Restore Default Zoom	actions	menu	settingsTab
 Disable	actions	menu	settingsTab
 Select	actions	menu	settingsTab
 Perform	actions	menu	emotesTab
+Perform <colNum0>Relic unlock</col>	actions	menu	emotesTab
 Area	actions	menu	musicTab
 Manual	actions	menu	musicTab
 Random	actions	menu	musicTab

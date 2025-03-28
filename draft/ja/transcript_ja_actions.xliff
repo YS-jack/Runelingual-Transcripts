@@ -10838,6 +10838,9 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110104"><xliff:source>Hop-to</xliff:source><xliff:target state="translated">同じ世界へ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: friendsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110105"><xliff:source>Perform &lt;colNum0&gt;Relic unlock&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;遺物の解放&lt;/col&gt; 演技する</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: emotesTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
