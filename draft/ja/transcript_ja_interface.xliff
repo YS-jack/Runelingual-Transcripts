@@ -13603,7 +13603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116627">
         <xliff:source>Wintertodt</xliff:source>
-        <xliff:target state="translated">ウィンタートッド</xliff:target>
+        <xliff:target state="translated">ウィントド</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -27205,7 +27205,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118947"><xliff:source>Barbarian Assault</xliff:source><xliff:target state="translated">バーバリアン・アサルト</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118948"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラスト・ファーネス</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118948"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラファ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118949"><xliff:source>Burthorpe Games Room</xliff:source><xliff:target state="translated">バーソープの娯楽部屋</xliff:target><xliff:note>category: interface
@@ -27262,7 +27262,7 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118966"><xliff:source>Shooting Stars</xliff:source><xliff:target state="translated">流れ星</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118967"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">ソウル・ウォーズ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118967"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">魂戦争</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="118968"><xliff:source>Theatre of Blood</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: interface
@@ -29080,7 +29080,7 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119572"><xliff:source>Power of the Shadow Realm</xliff:source><xliff:target state="translated">影の領域の力</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119573"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">ソウル・ウォーズ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119573"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">魂戦争</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119574"><xliff:source>Soul Fall</xliff:source><xliff:target state="translated">魂の衰退</xliff:target><xliff:note>category: interface
@@ -30256,121 +30256,121 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119964"><xliff:source>Current world - &lt;Num0&gt;</xliff:source><xliff:target state="translated">今いる世界：&lt;Num0&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119965"><xliff:source>&lt;Num0&gt; skill to...</xliff:source><xliff:target state="translated">合計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119965"><xliff:source>&lt;Num0&gt; skill to...</xliff:source><xliff:target state="translated">Lv計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119966"><xliff:source>&lt;Num0&gt; skill t...</xliff:source><xliff:target state="translated">合計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119966"><xliff:source>&lt;Num0&gt; skill t...</xliff:source><xliff:target state="translated">Lv計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119967"><xliff:source>&lt;Num0&gt; skill total</xliff:source><xliff:target state="translated">スキル合計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119967"><xliff:source>&lt;Num0&gt; skill total</xliff:source><xliff:target state="translated">Lv計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119968"><xliff:source>Agility Train...</xliff:source><xliff:target state="translated">運動神経・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119968"><xliff:source>Agility Train...</xliff:source><xliff:target state="translated">運動</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119969"><xliff:source>Barbarian A...</xliff:source><xliff:target state="translated">バーバリア・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119969"><xliff:source>Barbarian A...</xliff:source><xliff:target state="translated">バーバ・アサ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119970"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラスト・ファーネス</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119970"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラファ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119971"><xliff:source>Bounty Hunt...</xliff:source><xliff:target state="translated">バウンティ・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119971"><xliff:source>Bounty Hunt...</xliff:source><xliff:target state="translated">バウハン</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119972"><xliff:source>Brimhaven ...</xliff:source><xliff:target state="translated">ブリムヘブン・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119972"><xliff:source>Brimhaven ...</xliff:source><xliff:target state="translated">ブリム運動</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119973"><xliff:source>Burthorpe G...</xliff:source><xliff:target state="translated">バーソープの・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119973"><xliff:source>Burthorpe G...</xliff:source><xliff:target state="translated">バーソ娯楽</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119974"><xliff:source>Castle Wars...</xliff:source><xliff:target state="translated">キャッスル・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119974"><xliff:source>Castle Wars...</xliff:source><xliff:target state="translated">城戦争</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119975"><xliff:source>Castle Wars &lt;Num0&gt;</xliff:source><xliff:target state="translated">キャッスル・ウォーズ&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119975"><xliff:source>Castle Wars &lt;Num0&gt;</xliff:source><xliff:target state="translated">城戦争&lt;Num0&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119976"><xliff:source>Clan Recruit...</xliff:source><xliff:target state="translated">クラン・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119976"><xliff:source>Clan Recruit...</xliff:source><xliff:target state="translated">クラン勧誘</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119977"><xliff:source>Clan Wars - ...</xliff:source><xliff:target state="translated">クラン対戦・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119977"><xliff:source>Clan Wars - ...</xliff:source><xliff:target state="translated">クラン戦&lt;asis&gt;FFA&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119978"><xliff:source>Deadman</xliff:source><xliff:target state="translated">デッドマン</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119979"><xliff:source>Falador Part...</xliff:source><xliff:target state="translated">ファラドー・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119979"><xliff:source>Falador Part...</xliff:source><xliff:target state="translated">ファラパテ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119980"><xliff:source>Fishing Traw...</xliff:source><xliff:target state="translated">トロール漁船</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119980"><xliff:source>Fishing Traw...</xliff:source><xliff:target state="translated">トロ漁船</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119981"><xliff:source>Forestry</xliff:source><xliff:target state="translated">林業</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119982"><xliff:source>Group PvM</xliff:source><xliff:target state="translated">グループPvM</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119982"><xliff:source>Group PvM</xliff:source><xliff:target state="translated">集団&lt;asis&gt;PvM&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119983"><xliff:source>Group Skilling</xliff:source><xliff:target state="translated">レベル上げ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119984"><xliff:source>Guardians o...</xliff:source><xliff:target state="translated">裂け目の・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119984"><xliff:source>Guardians o...</xliff:source><xliff:target state="translated">裂け目守護</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119985"><xliff:source>High Risk W...</xliff:source><xliff:target state="translated">高リスク・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119985"><xliff:source>High Risk W...</xliff:source><xliff:target state="translated">高リス世界</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119986"><xliff:source>House Party...</xliff:source><xliff:target state="translated">家でパーテ・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119986"><xliff:source>House Party...</xliff:source><xliff:target state="translated">家パーティ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119987"><xliff:source>LMS Casual</xliff:source><xliff:target state="translated">LMSカジュアル</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119987"><xliff:source>LMS Casual</xliff:source><xliff:target state="translated">&lt;asis&gt;LMS&lt;/asis&gt;カジュ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119988"><xliff:source>LMS Competi...</xliff:source><xliff:target state="translated">LMS競技モード</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119988"><xliff:source>LMS Competi...</xliff:source><xliff:target state="translated">&lt;asis&gt;LMS&lt;/asis&gt;競技</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119989"><xliff:source>Locked Deve...</xliff:source><xliff:target state="translated">開発用の世界</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119989"><xliff:source>Locked Deve...</xliff:source><xliff:target state="translated">開発用</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119990"><xliff:source>Mort'ton te...</xliff:source><xliff:target state="translated">モートン・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119990"><xliff:source>Mort'ton te...</xliff:source><xliff:target state="translated">モートン・・</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119991"><xliff:source>Nex FFA</xliff:source><xliff:target state="translated">ネックスFFA</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119991"><xliff:source>Nex FFA</xliff:source><xliff:target state="translated">ネックス</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119992"><xliff:source>Nightmare o...</xliff:source><xliff:target state="translated">アシハマの・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119992"><xliff:source>Nightmare o...</xliff:source><xliff:target state="translated">アシハ悪夢</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119993"><xliff:source>Ourania Altar</xliff:source><xliff:target state="translated">ウラナイ祭壇</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119993"><xliff:source>Ourania Altar</xliff:source><xliff:target state="translated">ウラ祭壇</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119994"><xliff:source>Pest Control</xliff:source><xliff:target state="translated">害獣駆除</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119995"><xliff:source>PvP Arena (...</xliff:source><xliff:target state="translated">PvPアリーナ(・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119995"><xliff:source>PvP Arena (...</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;アリーナ(</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119996"><xliff:source>PvP World</xliff:source><xliff:target state="translated">PvPの世界</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119996"><xliff:source>PvP World</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;の世界</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119997"><xliff:source>PvP World -...</xliff:source><xliff:target state="translated">PvPの世界・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119997"><xliff:source>PvP World -...</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;の世界・・・</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119998"><xliff:source>Pyramid Plu...</xliff:source><xliff:target state="translated">略奪のピラ・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119998"><xliff:source>Pyramid Plu...</xliff:source><xliff:target state="translated">略奪ピラ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119999"><xliff:source>Role-playing</xliff:source><xliff:target state="translated">ロールプレー</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119999"><xliff:source>Role-playing</xliff:source><xliff:target state="translated">ロープレ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120000"><xliff:source>Royal Titans</xliff:source><xliff:target state="translated">高貴な巨人</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120001"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">ソウル・ウォーズ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120001"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">魂戦争</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120002"><xliff:source>Speedrunni...</xliff:source><xliff:target state="translated">タイムアタック</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120002"><xliff:source>Speedrunni...</xliff:source><xliff:target state="translated">タイアタ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120003"><xliff:source>Sulliuscep c...</xliff:source><xliff:target state="translated">スリセップ・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120003"><xliff:source>Sulliuscep c...</xliff:source><xliff:target state="translated">スリセ伐採</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120004"><xliff:source>Tempoross</xliff:source><xliff:target state="translated">テンポロス</xliff:target><xliff:note>category: interface
@@ -30379,40 +30379,40 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120005"><xliff:source>Theatre of B...</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120006"><xliff:source>ToA FFA</xliff:source><xliff:target state="translated">ToA FFA</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120006"><xliff:source>ToA FFA</xliff:source><xliff:target state="translated">アマ墓&lt;asis&gt;FFA&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120007"><xliff:source>Tombs of Am...</xliff:source><xliff:target state="translated">アマスカット・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120007"><xliff:source>Tombs of Am...</xliff:source><xliff:target state="translated">アマ墓</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120008"><xliff:source>Trade - Free</xliff:source><xliff:target state="translated">トレード：無課金</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120008"><xliff:source>Trade - Free</xliff:source><xliff:target state="translated">売買無課金</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120009"><xliff:source>Trade - Mem...</xliff:source><xliff:target state="translated">トレード：会員</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120009"><xliff:source>Trade - Mem...</xliff:source><xliff:target state="translated">売買会員</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120010"><xliff:source>Trouble Bre...</xliff:source><xliff:target state="translated">醸造トラブル</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120010"><xliff:source>Trouble Bre...</xliff:source><xliff:target state="translated">醸造トラ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120011"><xliff:source>TzHaar Fight...</xliff:source><xliff:target state="translated">ツザー闘技場</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120011"><xliff:source>TzHaar Fight...</xliff:source><xliff:target state="translated">ツザ闘技場</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120012"><xliff:source>Varlamore P...</xliff:source><xliff:target state="translated">ヴァーラモー・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120012"><xliff:source>Varlamore P...</xliff:source><xliff:target state="translated">ヴァラ&lt;asis&gt;PvP&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120013"><xliff:source>Volcanic Mine</xliff:source><xliff:target state="translated">火山鉱山</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120014"><xliff:source>Wilderness ...</xliff:source><xliff:target state="translated">ウィルダネス・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120014"><xliff:source>Wilderness ...</xliff:source><xliff:target state="translated">ウィルダ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120015"><xliff:source>Wintertodt</xliff:source><xliff:target state="translated">ウィンタートッド</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120015"><xliff:source>Wintertodt</xliff:source><xliff:target state="translated">ウィントド</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120016"><xliff:source>Zalcano</xliff:source><xliff:target state="translated">ザルカーノ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120017"><xliff:source>Zeah Runec...</xliff:source><xliff:target state="translated">ゼヤでルーン・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120017"><xliff:source>Zeah Runec...</xliff:source><xliff:target state="translated">ゼヤルーン</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120018"><xliff:source>Agility Training</xliff:source><xliff:target state="translated">運動神経トレーニング</xliff:target><xliff:note>category: interface

@@ -1699,7 +1699,7 @@ Cave goblin mining helmets	洞窟ゴブリンの採掘ヘルメット	interface	
 Abyssal Lantern (with magic logs)	深淵のランタン（魔法の丸太）	interface	generalUI	skillGuide
 Create infernal axe (with <Num0> Woodcutting)	獄炎の斧を作る（木こり<Num0>も）	interface	generalUI	skillGuide
 Abyssal Lantern (with redwood logs)	深淵のランタン（セコイアの丸太）	interface	generalUI	skillGuide
-Wintertodt	ウィンタートッド	interface	generalUI	skillGuide
+Wintertodt	ウィントド	interface	generalUI	skillGuide
 Fire of Eternal Light (with <Num0> Construction)	不滅の光の火（建築<Num0>も）	interface	generalUI	skillGuide
 Fire of Nourishment (with <Num0> Construction)	滋養の火（建築<Num0>も）	interface	generalUI	skillGuide
 Fire of Dehumidification (with <Num0> Construction)	除湿の火（建築<Num0>も）	interface	generalUI	skillGuide
@@ -4020,7 +4020,7 @@ You are not currently in a grouping chat-channel.	現在専用チャットに不
 Suggested world:	オススメの世界：	interface	mainTabs	groupTab
 Teleport	ワープ	interface	mainTabs	groupTab
 Barbarian Assault	バーバリアン・アサルト	interface	mainTabs	groupTab
-Blast Furnace	ブラスト・ファーネス	interface	mainTabs	groupTab
+Blast Furnace	ブラファ	interface	mainTabs	groupTab
 Burthorpe Games Room	バーソープの娯楽部屋	interface	mainTabs	groupTab
 Castle Wars	キャッスル・ウォーズ	interface	mainTabs	groupTab
 Clan Wars	クラン対戦	interface	mainTabs	groupTab
@@ -4039,7 +4039,7 @@ Royal Titans	高貴な巨人	interface	mainTabs	groupTab
 Shades of Mort'ton	モートンの陰	interface	mainTabs	groupTab
 Shield of Arrav	アラヴの盾	interface	mainTabs	groupTab
 Shooting Stars	流れ星	interface	mainTabs	groupTab
-Soul Wars	ソウル・ウォーズ	interface	mainTabs	groupTab
+Soul Wars	魂戦争	interface	mainTabs	groupTab
 Theatre of Blood	血の劇場	interface	mainTabs	groupTab
 Tithe Farm	タイス農場	interface	mainTabs	groupTab
 Tombs of Amascut	アマスカットの墓	interface	mainTabs	groupTab
@@ -4645,7 +4645,7 @@ Sojourn	滞在	interface	mainTabs	musicTab
 Sorceress's Garden	ソーサーレスの庭	interface	mainTabs	musicTab
 The Dark Beast Sotetseg	暗黒獣ソテツセグ	interface	mainTabs	musicTab
 Power of the Shadow Realm	影の領域の力	interface	mainTabs	musicTab
-Soul Wars	ソウル・ウォーズ	interface	mainTabs	musicTab
+Soul Wars	魂戦争	interface	mainTabs	musicTab
 Soul Fall	魂の衰退	interface	mainTabs	musicTab
 Soundscape	サウンドスケープ	interface	mainTabs	musicTab
 Safety in Numbers	数の安全性	interface	mainTabs	musicTab
@@ -5037,59 +5037,59 @@ How much did you enjoy playing Old School RuneScape today?	オールドスクー
 <colNum0>Loading...</col>	<colNum0>ロード中...</col>	interface	mainTabs	worldSwitcherTab
 Right-click on worlds to set them as Favourites.	世界を右クリックするとお気に入り追加できます。	interface	mainTabs	worldSwitcherTab
 Current world - <Num0>	今いる世界：<Num0>	interface	mainTabs	worldSwitcherTab
-<Num0> skill to...	合計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
-<Num0> skill t...	合計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
-<Num0> skill total	スキル合計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
-Agility Train...	運動神経・・・	interface	mainTabs	worldSwitcherTab
-Barbarian A...	バーバリア・・・	interface	mainTabs	worldSwitcherTab
-Blast Furnace	ブラスト・ファーネス	interface	mainTabs	worldSwitcherTab
-Bounty Hunt...	バウンティ・・・	interface	mainTabs	worldSwitcherTab
-Brimhaven ...	ブリムヘブン・・・	interface	mainTabs	worldSwitcherTab
-Burthorpe G...	バーソープの・・・	interface	mainTabs	worldSwitcherTab
-Castle Wars...	キャッスル・・・	interface	mainTabs	worldSwitcherTab
-Castle Wars <Num0>	キャッスル・ウォーズ<Num0>	interface	mainTabs	worldSwitcherTab
-Clan Recruit...	クラン・・・	interface	mainTabs	worldSwitcherTab
-Clan Wars - ...	クラン対戦・・・	interface	mainTabs	worldSwitcherTab
+<Num0> skill to...	Lv計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill t...	Lv計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill total	Lv計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+Agility Train...	運動	interface	mainTabs	worldSwitcherTab
+Barbarian A...	バーバ・アサ	interface	mainTabs	worldSwitcherTab
+Blast Furnace	ブラファ	interface	mainTabs	worldSwitcherTab
+Bounty Hunt...	バウハン	interface	mainTabs	worldSwitcherTab
+Brimhaven ...	ブリム運動	interface	mainTabs	worldSwitcherTab
+Burthorpe G...	バーソ娯楽	interface	mainTabs	worldSwitcherTab
+Castle Wars...	城戦争	interface	mainTabs	worldSwitcherTab
+Castle Wars <Num0>	城戦争<Num0>	interface	mainTabs	worldSwitcherTab
+Clan Recruit...	クラン勧誘	interface	mainTabs	worldSwitcherTab
+Clan Wars - ...	クラン戦<asis>FFA</asis>	interface	mainTabs	worldSwitcherTab
 Deadman	デッドマン	interface	mainTabs	worldSwitcherTab
-Falador Part...	ファラドー・・・	interface	mainTabs	worldSwitcherTab
-Fishing Traw...	トロール漁船	interface	mainTabs	worldSwitcherTab
+Falador Part...	ファラパテ	interface	mainTabs	worldSwitcherTab
+Fishing Traw...	トロ漁船	interface	mainTabs	worldSwitcherTab
 Forestry	林業	interface	mainTabs	worldSwitcherTab
-Group PvM	グループPvM	interface	mainTabs	worldSwitcherTab
+Group PvM	集団<asis>PvM</asis>	interface	mainTabs	worldSwitcherTab
 Group Skilling	レベル上げ	interface	mainTabs	worldSwitcherTab
-Guardians o...	裂け目の・・・	interface	mainTabs	worldSwitcherTab
-High Risk W...	高リスク・・・	interface	mainTabs	worldSwitcherTab
-House Party...	家でパーテ・・・	interface	mainTabs	worldSwitcherTab
-LMS Casual	LMSカジュアル	interface	mainTabs	worldSwitcherTab
-LMS Competi...	LMS競技モード	interface	mainTabs	worldSwitcherTab
-Locked Deve...	開発用の世界	interface	mainTabs	worldSwitcherTab
-Mort'ton te...	モートン・・・	interface	mainTabs	worldSwitcherTab
-Nex FFA	ネックスFFA	interface	mainTabs	worldSwitcherTab
-Nightmare o...	アシハマの・・・	interface	mainTabs	worldSwitcherTab
-Ourania Altar	ウラナイ祭壇	interface	mainTabs	worldSwitcherTab
+Guardians o...	裂け目守護	interface	mainTabs	worldSwitcherTab
+High Risk W...	高リス世界	interface	mainTabs	worldSwitcherTab
+House Party...	家パーティ	interface	mainTabs	worldSwitcherTab
+LMS Casual	<asis>LMS</asis>カジュ	interface	mainTabs	worldSwitcherTab
+LMS Competi...	<asis>LMS</asis>競技	interface	mainTabs	worldSwitcherTab
+Locked Deve...	開発用	interface	mainTabs	worldSwitcherTab
+Mort'ton te...	モートン・・	interface	mainTabs	worldSwitcherTab
+Nex FFA	ネックス	interface	mainTabs	worldSwitcherTab
+Nightmare o...	アシハ悪夢	interface	mainTabs	worldSwitcherTab
+Ourania Altar	ウラ祭壇	interface	mainTabs	worldSwitcherTab
 Pest Control	害獣駆除	interface	mainTabs	worldSwitcherTab
-PvP Arena (...	PvPアリーナ(・・・	interface	mainTabs	worldSwitcherTab
-PvP World	PvPの世界	interface	mainTabs	worldSwitcherTab
-PvP World -...	PvPの世界・・・	interface	mainTabs	worldSwitcherTab
-Pyramid Plu...	略奪のピラ・・・	interface	mainTabs	worldSwitcherTab
-Role-playing	ロールプレー	interface	mainTabs	worldSwitcherTab
+PvP Arena (...	<asis>PvP</asis>アリーナ(	interface	mainTabs	worldSwitcherTab
+PvP World	<asis>PvP</asis>の世界	interface	mainTabs	worldSwitcherTab
+PvP World -...	<asis>PvP</asis>の世界・・・	interface	mainTabs	worldSwitcherTab
+Pyramid Plu...	略奪ピラ	interface	mainTabs	worldSwitcherTab
+Role-playing	ロープレ	interface	mainTabs	worldSwitcherTab
 Royal Titans	高貴な巨人	interface	mainTabs	worldSwitcherTab
-Soul Wars	ソウル・ウォーズ	interface	mainTabs	worldSwitcherTab
-Speedrunni...	タイムアタック	interface	mainTabs	worldSwitcherTab
-Sulliuscep c...	スリセップ・・・	interface	mainTabs	worldSwitcherTab
+Soul Wars	魂戦争	interface	mainTabs	worldSwitcherTab
+Speedrunni...	タイアタ	interface	mainTabs	worldSwitcherTab
+Sulliuscep c...	スリセ伐採	interface	mainTabs	worldSwitcherTab
 Tempoross	テンポロス	interface	mainTabs	worldSwitcherTab
 Theatre of B...	血の劇場	interface	mainTabs	worldSwitcherTab
-ToA FFA	ToA FFA	interface	mainTabs	worldSwitcherTab
-Tombs of Am...	アマスカット・・・	interface	mainTabs	worldSwitcherTab
-Trade - Free	トレード：無課金	interface	mainTabs	worldSwitcherTab
-Trade - Mem...	トレード：会員	interface	mainTabs	worldSwitcherTab
-Trouble Bre...	醸造トラブル	interface	mainTabs	worldSwitcherTab
-TzHaar Fight...	ツザー闘技場	interface	mainTabs	worldSwitcherTab
-Varlamore P...	ヴァーラモー・・・	interface	mainTabs	worldSwitcherTab
+ToA FFA	アマ墓<asis>FFA</asis>	interface	mainTabs	worldSwitcherTab
+Tombs of Am...	アマ墓	interface	mainTabs	worldSwitcherTab
+Trade - Free	売買無課金	interface	mainTabs	worldSwitcherTab
+Trade - Mem...	売買会員	interface	mainTabs	worldSwitcherTab
+Trouble Bre...	醸造トラ	interface	mainTabs	worldSwitcherTab
+TzHaar Fight...	ツザ闘技場	interface	mainTabs	worldSwitcherTab
+Varlamore P...	ヴァラ<asis>PvP</asis>	interface	mainTabs	worldSwitcherTab
 Volcanic Mine	火山鉱山	interface	mainTabs	worldSwitcherTab
-Wilderness ...	ウィルダネス・・・	interface	mainTabs	worldSwitcherTab
-Wintertodt	ウィンタートッド	interface	mainTabs	worldSwitcherTab
+Wilderness ...	ウィルダ	interface	mainTabs	worldSwitcherTab
+Wintertodt	ウィントド	interface	mainTabs	worldSwitcherTab
 Zalcano	ザルカーノ	interface	mainTabs	worldSwitcherTab
-Zeah Runec...	ゼヤでルーン・・・	interface	mainTabs	worldSwitcherTab
+Zeah Runec...	ゼヤルーン	interface	mainTabs	worldSwitcherTab
 Agility Training	運動神経トレーニング	interface	mainTabs	worldSwitcherTab
 Barbarian Assault	バーバリアン・アサルト	interface	mainTabs	worldSwitcherTab
 Bounty Hunter World	バウンティ・ハンターの世界	interface	mainTabs	worldSwitcherTab
