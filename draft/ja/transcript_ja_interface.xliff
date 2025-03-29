@@ -30220,6 +30220,9 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119952"><xliff:source>As your Hunter level improves, not only will you be able to hunt a wider variety of creatures, but you'll also be able to maintain more traps simultaneously, and they will successfully trap creatures more often.</xliff:source><xliff:target state="translated">ハンターレベルが上がると、狩猟できる生物の種類が増えるだけでなく、同時に設置できる罠の数が増え、罠が成功する確率も高くなります。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119953"><xliff:source>You are currently talking in the &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルに参加中</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

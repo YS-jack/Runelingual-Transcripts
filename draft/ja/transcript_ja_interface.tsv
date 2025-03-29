@@ -5025,3 +5025,4 @@ Hunter - Members Only	狩人：会員限定	interface	generalUI	skillGuide
 Hunter lets you track and catch a wide variety of wildlife, granting access to various unique materials in the process.	狩人は、さまざまな野生動物を追跡して捕獲することができるスキルで、ユニークな素材を入手することができます。	interface	generalUI	skillGuide
 Each animal you can hunt will typically be found in a specfic locale, and will require different gear. Make sure you come prepared!	狩猟できる動物は通常特定の地域に生息しており、それぞれ異なる装備が必要になります。しっかり準備しましょう！	interface	generalUI	skillGuide
 As your Hunter level improves, not only will you be able to hunt a wider variety of creatures, but you'll also be able to maintain more traps simultaneously, and they will successfully trap creatures more often.	ハンターレベルが上がると、狩猟できる生物の種類が増えるだけでなく、同時に設置できる罠の数が増え、罠が成功する確率も高くなります。	interface	generalUI	skillGuide
+You are currently talking in the <colNum0><!ANY_TRANSLATED0></col> channel.	現在<colNum0><!ANY_TRANSLATED0></col>のチャンネルに参加中	interface	mainTabs	groupTab
