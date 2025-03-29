@@ -30238,6 +30238,291 @@ source: characterSummaryTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119958"><xliff:source>Time Played: &lt;colNum0&gt;&lt;Num0&gt; day, &lt;Num1&gt; minute&lt;/col&gt;</xliff:source><xliff:target state="translated">プレイ時間：&lt;colNum0&gt;&lt;Num0&gt;日&lt;Num1&gt;分&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: characterSummaryTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119959"><xliff:source>Use the buttons below to logout or switch worlds safely.</xliff:source><xliff:target state="translated">下のボタンから安全にログアウトや世界変更できます。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119960"><xliff:source>Click here to logout</xliff:source><xliff:target state="translated">クリックでログアウト</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119961"><xliff:source>How much did you enjoy playing Old School RuneScape today?</xliff:source><xliff:target state="translated">オールドスクール・ルーンスケープは楽しかったですか？</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: logoutTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119962"><xliff:source>&lt;colNum0&gt;Loading...&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ロード中...&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119963"><xliff:source>Right-click on worlds to set them as Favourites.</xliff:source><xliff:target state="translated">世界を右クリックするとお気に入り追加できます。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119964"><xliff:source>Current world - &lt;Num0&gt;</xliff:source><xliff:target state="translated">今いる世界：&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119965"><xliff:source>&lt;Num0&gt; skill to...</xliff:source><xliff:target state="translated">合計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119966"><xliff:source>&lt;Num0&gt; skill t...</xliff:source><xliff:target state="translated">合計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119967"><xliff:source>&lt;Num0&gt; skill total</xliff:source><xliff:target state="translated">スキル合計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119968"><xliff:source>Agility Train...</xliff:source><xliff:target state="translated">運動神経・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119969"><xliff:source>Barbarian A...</xliff:source><xliff:target state="translated">バーバリア・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119970"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラスト・ファーネス</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119971"><xliff:source>Bounty Hunt...</xliff:source><xliff:target state="translated">バウンティ・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119972"><xliff:source>Brimhaven ...</xliff:source><xliff:target state="translated">ブリムヘブン・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119973"><xliff:source>Burthorpe G...</xliff:source><xliff:target state="translated">バーソープの・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119974"><xliff:source>Castle Wars...</xliff:source><xliff:target state="translated">キャッスル・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119975"><xliff:source>Castle Wars &lt;Num0&gt;</xliff:source><xliff:target state="translated">キャッスル・ウォーズ&lt;Num0&gt;</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119976"><xliff:source>Clan Recruit...</xliff:source><xliff:target state="translated">クラン・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119977"><xliff:source>Clan Wars - ...</xliff:source><xliff:target state="translated">クラン対戦・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119978"><xliff:source>Deadman</xliff:source><xliff:target state="translated">デッドマン</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119979"><xliff:source>Falador Part...</xliff:source><xliff:target state="translated">ファラドー・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119980"><xliff:source>Fishing Traw...</xliff:source><xliff:target state="translated">トロール漁船</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119981"><xliff:source>Forestry</xliff:source><xliff:target state="translated">林業</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119982"><xliff:source>Group PvM</xliff:source><xliff:target state="translated">グループPvM</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119983"><xliff:source>Group Skilling</xliff:source><xliff:target state="translated">レベル上げ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119984"><xliff:source>Guardians o...</xliff:source><xliff:target state="translated">裂け目の・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119985"><xliff:source>High Risk W...</xliff:source><xliff:target state="translated">高リスク・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119986"><xliff:source>House Party...</xliff:source><xliff:target state="translated">家でパーテ・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119987"><xliff:source>LMS Casual</xliff:source><xliff:target state="translated">LMSカジュアル</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119988"><xliff:source>LMS Competi...</xliff:source><xliff:target state="translated">LMS競技モード</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119989"><xliff:source>Locked Deve...</xliff:source><xliff:target state="translated">開発用の世界</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119990"><xliff:source>Mort'ton te...</xliff:source><xliff:target state="translated">モートン・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119991"><xliff:source>Nex FFA</xliff:source><xliff:target state="translated">ネックスFFA</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119992"><xliff:source>Nightmare o...</xliff:source><xliff:target state="translated">アシハマの・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119993"><xliff:source>Ourania Altar</xliff:source><xliff:target state="translated">ウラナイ祭壇</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119994"><xliff:source>Pest Control</xliff:source><xliff:target state="translated">害獣駆除</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119995"><xliff:source>PvP Arena (...</xliff:source><xliff:target state="translated">PvPアリーナ(・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119996"><xliff:source>PvP World</xliff:source><xliff:target state="translated">PvPの世界</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119997"><xliff:source>PvP World -...</xliff:source><xliff:target state="translated">PvPの世界・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119998"><xliff:source>Pyramid Plu...</xliff:source><xliff:target state="translated">略奪のピラ・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119999"><xliff:source>Role-playing</xliff:source><xliff:target state="translated">ロールプレー</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120000"><xliff:source>Royal Titans</xliff:source><xliff:target state="translated">高貴な巨人</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120001"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">ソウル・ウォーズ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120002"><xliff:source>Speedrunni...</xliff:source><xliff:target state="translated">タイムアタック</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120003"><xliff:source>Sulliuscep c...</xliff:source><xliff:target state="translated">スリセップ・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120004"><xliff:source>Tempoross</xliff:source><xliff:target state="translated">テンポロス</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120005"><xliff:source>Theatre of B...</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120006"><xliff:source>ToA FFA</xliff:source><xliff:target state="translated">ToA FFA</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120007"><xliff:source>Tombs of Am...</xliff:source><xliff:target state="translated">アマスカット・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120008"><xliff:source>Trade - Free</xliff:source><xliff:target state="translated">トレード：無課金</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120009"><xliff:source>Trade - Mem...</xliff:source><xliff:target state="translated">トレード：会員</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120010"><xliff:source>Trouble Bre...</xliff:source><xliff:target state="translated">醸造トラブル</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120011"><xliff:source>TzHaar Fight...</xliff:source><xliff:target state="translated">ツザー闘技場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120012"><xliff:source>Varlamore P...</xliff:source><xliff:target state="translated">ヴァーラモー・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120013"><xliff:source>Volcanic Mine</xliff:source><xliff:target state="translated">火山鉱山</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120014"><xliff:source>Wilderness ...</xliff:source><xliff:target state="translated">ウィルダネス・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120015"><xliff:source>Wintertodt</xliff:source><xliff:target state="translated">ウィンタートッド</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120016"><xliff:source>Zalcano</xliff:source><xliff:target state="translated">ザルカーノ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120017"><xliff:source>Zeah Runec...</xliff:source><xliff:target state="translated">ゼヤでルーン・・・</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120018"><xliff:source>Agility Training</xliff:source><xliff:target state="translated">運動神経トレーニング</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120019"><xliff:source>Barbarian Assault</xliff:source><xliff:target state="translated">バーバリアン・アサルト</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120020"><xliff:source>Bounty Hunter World</xliff:source><xliff:target state="translated">バウンティ・ハンターの世界</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120021"><xliff:source>Brimhaven Agility</xliff:source><xliff:target state="translated">ブリムヘブンで運動</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120022"><xliff:source>Brimhaven Agility Arena</xliff:source><xliff:target state="translated">ブリムヘブンの運動アリーナ</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120023"><xliff:source>Burthorpe Games Room</xliff:source><xliff:target state="translated">バーソープの娯楽部屋</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120024"><xliff:source>Castle Wars - Free</xliff:source><xliff:target state="translated">キャッスル・ウォーズ：無課金</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120025"><xliff:source>Clan Recruitment</xliff:source><xliff:target state="translated">クラン勧誘</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120026"><xliff:source>Clan Wars - Free-for-all</xliff:source><xliff:target state="translated">クラン対戦：FFA</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120027"><xliff:source>Falador Party Room</xliff:source><xliff:target state="translated">ファラドーのパーティー会場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120028"><xliff:source>Fishing Trawler</xliff:source><xliff:target state="translated">トロール漁船</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120029"><xliff:source>Guardians of the Rift</xliff:source><xliff:target state="translated">裂け目の守護者</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120030"><xliff:source>High Risk World</xliff:source><xliff:target state="translated">高リスクな世界</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120031"><xliff:source>House Party, Gilded Altar</xliff:source><xliff:target state="translated">家でパーティー、黄金の祭壇</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120032"><xliff:source>LMS Competitive</xliff:source><xliff:target state="translated">LMS競技モード</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120033"><xliff:source>Locked Developer World</xliff:source><xliff:target state="translated">開発用の世界</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120034"><xliff:source>Mort'ton temple, Rat Pits</xliff:source><xliff:target state="translated">モートン寺院・ネズミ闘技場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120035"><xliff:source>Nightmare of Ashihama</xliff:source><xliff:target state="translated">アシハマの悪夢</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120036"><xliff:source>PvP Arena (AUS)</xliff:source><xliff:target state="translated">PvPアリーナ（豪）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120037"><xliff:source>PvP Arena (Legacy Duels)</xliff:source><xliff:target state="translated">PvPアリーナ（レガシー）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120038"><xliff:source>PvP Arena (UK)</xliff:source><xliff:target state="translated">PvPアリーナ（英）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120039"><xliff:source>PvP Arena (US)</xliff:source><xliff:target state="translated">PvPアリーナ（米）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120040"><xliff:source>PvP World - Free</xliff:source><xliff:target state="translated">PvPの世界（無課金）</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120041"><xliff:source>PvP World - High Risk</xliff:source><xliff:target state="translated">PvPの世界：高リスク</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120042"><xliff:source>Pyramid Plunder</xliff:source><xliff:target state="translated">略奪のピラミッド</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120043"><xliff:source>Speedrunning World</xliff:source><xliff:target state="translated">タイムアタックの世界</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120044"><xliff:source>Sulliuscep cutting</xliff:source><xliff:target state="translated">スリセップダケ伐採</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120045"><xliff:source>Theatre of Blood</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120046"><xliff:source>Tombs of Amascut</xliff:source><xliff:target state="translated">アマスカットの墓</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120047"><xliff:source>Trade - Members</xliff:source><xliff:target state="translated">トレード：会員</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120048"><xliff:source>Trouble Brewing</xliff:source><xliff:target state="translated">醸造トラブル</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120049"><xliff:source>TzHaar Fight Pit</xliff:source><xliff:target state="translated">ツザー闘技場</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120050"><xliff:source>Varlamore PvM</xliff:source><xliff:target state="translated">ヴァーラモーのPvP</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120051"><xliff:source>Wilderness PK - Free</xliff:source><xliff:target state="translated">ウィルダネスPK：無課金</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120052"><xliff:source>Wilderness PK - Members</xliff:source><xliff:target state="translated">ウィルダネスPK：会員</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120053"><xliff:source>Zeah Runecrafting</xliff:source><xliff:target state="translated">ゼヤでルーン作り</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

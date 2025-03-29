@@ -5031,3 +5031,98 @@ Time Played: <colNum0><Num0> days, <Num1> minutes</col>	プレイ時間：<colNu
 Time Played: <colNum0><Num0> days, <Num1> minute</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> day, <Num1> minutes</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> day, <Num1> minute</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Use the buttons below to logout or switch worlds safely.	下のボタンから安全にログアウトや世界変更できます。	interface	mainTabs	logoutTab
+Click here to logout	クリックでログアウト	interface	mainTabs	logoutTab
+How much did you enjoy playing Old School RuneScape today?	オールドスクール・ルーンスケープは楽しかったですか？	interface	mainTabs	logoutTab
+<colNum0>Loading...</col>	<colNum0>ロード中...</col>	interface	mainTabs	worldSwitcherTab
+Right-click on worlds to set them as Favourites.	世界を右クリックするとお気に入り追加できます。	interface	mainTabs	worldSwitcherTab
+Current world - <Num0>	今いる世界：<Num0>	interface	mainTabs	worldSwitcherTab
+<Num0> skill to...	合計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill t...	合計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill total	スキル合計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+Agility Train...	運動神経・・・	interface	mainTabs	worldSwitcherTab
+Barbarian A...	バーバリア・・・	interface	mainTabs	worldSwitcherTab
+Blast Furnace	ブラスト・ファーネス	interface	mainTabs	worldSwitcherTab
+Bounty Hunt...	バウンティ・・・	interface	mainTabs	worldSwitcherTab
+Brimhaven ...	ブリムヘブン・・・	interface	mainTabs	worldSwitcherTab
+Burthorpe G...	バーソープの・・・	interface	mainTabs	worldSwitcherTab
+Castle Wars...	キャッスル・・・	interface	mainTabs	worldSwitcherTab
+Castle Wars <Num0>	キャッスル・ウォーズ<Num0>	interface	mainTabs	worldSwitcherTab
+Clan Recruit...	クラン・・・	interface	mainTabs	worldSwitcherTab
+Clan Wars - ...	クラン対戦・・・	interface	mainTabs	worldSwitcherTab
+Deadman	デッドマン	interface	mainTabs	worldSwitcherTab
+Falador Part...	ファラドー・・・	interface	mainTabs	worldSwitcherTab
+Fishing Traw...	トロール漁船	interface	mainTabs	worldSwitcherTab
+Forestry	林業	interface	mainTabs	worldSwitcherTab
+Group PvM	グループPvM	interface	mainTabs	worldSwitcherTab
+Group Skilling	レベル上げ	interface	mainTabs	worldSwitcherTab
+Guardians o...	裂け目の・・・	interface	mainTabs	worldSwitcherTab
+High Risk W...	高リスク・・・	interface	mainTabs	worldSwitcherTab
+House Party...	家でパーテ・・・	interface	mainTabs	worldSwitcherTab
+LMS Casual	LMSカジュアル	interface	mainTabs	worldSwitcherTab
+LMS Competi...	LMS競技モード	interface	mainTabs	worldSwitcherTab
+Locked Deve...	開発用の世界	interface	mainTabs	worldSwitcherTab
+Mort'ton te...	モートン・・・	interface	mainTabs	worldSwitcherTab
+Nex FFA	ネックスFFA	interface	mainTabs	worldSwitcherTab
+Nightmare o...	アシハマの・・・	interface	mainTabs	worldSwitcherTab
+Ourania Altar	ウラナイ祭壇	interface	mainTabs	worldSwitcherTab
+Pest Control	害獣駆除	interface	mainTabs	worldSwitcherTab
+PvP Arena (...	PvPアリーナ(・・・	interface	mainTabs	worldSwitcherTab
+PvP World	PvPの世界	interface	mainTabs	worldSwitcherTab
+PvP World -...	PvPの世界・・・	interface	mainTabs	worldSwitcherTab
+Pyramid Plu...	略奪のピラ・・・	interface	mainTabs	worldSwitcherTab
+Role-playing	ロールプレー	interface	mainTabs	worldSwitcherTab
+Royal Titans	高貴な巨人	interface	mainTabs	worldSwitcherTab
+Soul Wars	ソウル・ウォーズ	interface	mainTabs	worldSwitcherTab
+Speedrunni...	タイムアタック	interface	mainTabs	worldSwitcherTab
+Sulliuscep c...	スリセップ・・・	interface	mainTabs	worldSwitcherTab
+Tempoross	テンポロス	interface	mainTabs	worldSwitcherTab
+Theatre of B...	血の劇場	interface	mainTabs	worldSwitcherTab
+ToA FFA	ToA FFA	interface	mainTabs	worldSwitcherTab
+Tombs of Am...	アマスカット・・・	interface	mainTabs	worldSwitcherTab
+Trade - Free	トレード：無課金	interface	mainTabs	worldSwitcherTab
+Trade - Mem...	トレード：会員	interface	mainTabs	worldSwitcherTab
+Trouble Bre...	醸造トラブル	interface	mainTabs	worldSwitcherTab
+TzHaar Fight...	ツザー闘技場	interface	mainTabs	worldSwitcherTab
+Varlamore P...	ヴァーラモー・・・	interface	mainTabs	worldSwitcherTab
+Volcanic Mine	火山鉱山	interface	mainTabs	worldSwitcherTab
+Wilderness ...	ウィルダネス・・・	interface	mainTabs	worldSwitcherTab
+Wintertodt	ウィンタートッド	interface	mainTabs	worldSwitcherTab
+Zalcano	ザルカーノ	interface	mainTabs	worldSwitcherTab
+Zeah Runec...	ゼヤでルーン・・・	interface	mainTabs	worldSwitcherTab
+Agility Training	運動神経トレーニング	interface	mainTabs	worldSwitcherTab
+Barbarian Assault	バーバリアン・アサルト	interface	mainTabs	worldSwitcherTab
+Bounty Hunter World	バウンティ・ハンターの世界	interface	mainTabs	worldSwitcherTab
+Brimhaven Agility	ブリムヘブンで運動	interface	mainTabs	worldSwitcherTab
+Brimhaven Agility Arena	ブリムヘブンの運動アリーナ	interface	mainTabs	worldSwitcherTab
+Burthorpe Games Room	バーソープの娯楽部屋	interface	mainTabs	worldSwitcherTab
+Castle Wars - Free	キャッスル・ウォーズ：無課金	interface	mainTabs	worldSwitcherTab
+Clan Recruitment	クラン勧誘	interface	mainTabs	worldSwitcherTab
+Clan Wars - Free-for-all	クラン対戦：FFA	interface	mainTabs	worldSwitcherTab
+Falador Party Room	ファラドーのパーティー会場	interface	mainTabs	worldSwitcherTab
+Fishing Trawler	トロール漁船	interface	mainTabs	worldSwitcherTab
+Guardians of the Rift	裂け目の守護者	interface	mainTabs	worldSwitcherTab
+High Risk World	高リスクな世界	interface	mainTabs	worldSwitcherTab
+House Party, Gilded Altar	家でパーティー、黄金の祭壇	interface	mainTabs	worldSwitcherTab
+LMS Competitive	LMS競技モード	interface	mainTabs	worldSwitcherTab
+Locked Developer World	開発用の世界	interface	mainTabs	worldSwitcherTab
+Mort'ton temple, Rat Pits	モートン寺院・ネズミ闘技場	interface	mainTabs	worldSwitcherTab
+Nightmare of Ashihama	アシハマの悪夢	interface	mainTabs	worldSwitcherTab
+PvP Arena (AUS)	PvPアリーナ（豪）	interface	mainTabs	worldSwitcherTab
+PvP Arena (Legacy Duels)	PvPアリーナ（レガシー）	interface	mainTabs	worldSwitcherTab
+PvP Arena (UK)	PvPアリーナ（英）	interface	mainTabs	worldSwitcherTab
+PvP Arena (US)	PvPアリーナ（米）	interface	mainTabs	worldSwitcherTab
+PvP World - Free	PvPの世界（無課金）	interface	mainTabs	worldSwitcherTab
+PvP World - High Risk	PvPの世界：高リスク	interface	mainTabs	worldSwitcherTab
+Pyramid Plunder	略奪のピラミッド	interface	mainTabs	worldSwitcherTab
+Speedrunning World	タイムアタックの世界	interface	mainTabs	worldSwitcherTab
+Sulliuscep cutting	スリセップダケ伐採	interface	mainTabs	worldSwitcherTab
+Theatre of Blood	血の劇場	interface	mainTabs	worldSwitcherTab
+Tombs of Amascut	アマスカットの墓	interface	mainTabs	worldSwitcherTab
+Trade - Members	トレード：会員	interface	mainTabs	worldSwitcherTab
+Trouble Brewing	醸造トラブル	interface	mainTabs	worldSwitcherTab
+TzHaar Fight Pit	ツザー闘技場	interface	mainTabs	worldSwitcherTab
+Varlamore PvM	ヴァーラモーのPvP	interface	mainTabs	worldSwitcherTab
+Wilderness PK - Free	ウィルダネスPK：無課金	interface	mainTabs	worldSwitcherTab
+Wilderness PK - Members	ウィルダネスPK：会員	interface	mainTabs	worldSwitcherTab
+Zeah Runecrafting	ゼヤでルーン作り	interface	mainTabs	worldSwitcherTab
