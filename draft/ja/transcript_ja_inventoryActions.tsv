@@ -325,7 +325,7 @@ Fairy-ring	妖精の輪	inventoryActions	item	Trinket of fairies
 Spirit-tree	精霊樹	inventoryActions	item	Trinket of fairies
 Summon	召喚	inventoryActions	item	Trinket of undead
 Nexus	ネクサス	inventoryActions	item	Globetrotter pendant
-Jewellery	宝石	inventoryActions	item	Globetrotter pendant
+Jewellery	宝飾品	inventoryActions	item	Globetrotter pendant
 Note-Quantity	指定数を紙化	inventoryActions	item	Banker's note
 Un-note-Quantity	指定数を実体化	inventoryActions	item	Banker's note
 Dismiss	解任する	inventoryActions	item	Guardian horn
@@ -430,7 +430,7 @@ Recharge	チャージ	inventoryActions	item	Ancient wyvern shield
 Lunch by the Lancalliums	ランカリウムの隣で昼食	inventoryActions	item	Kharedst's memoirs
 The Fisher's Flute	釣り人のフルート	inventoryActions	item	Kharedst's memoirs
 History and Hearsay	歴史と伝聞	inventoryActions	item	Kharedst's memoirs
-Jewellery of Jubilation	歓喜の宝石	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	歓喜の宝飾品	inventoryActions	item	Kharedst's memoirs
 A Dark Disposition	暗黒の気質	inventoryActions	item	Kharedst's memoirs
 Toggle absorption	吸収の切り替え	inventoryActions	item	Bracelet of ethereum
 Slash	切り裂く	inventoryActions	item	Prop sword

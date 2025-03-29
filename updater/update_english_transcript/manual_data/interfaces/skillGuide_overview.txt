@@ -1,0 +1,83 @@
+english	category	sub_category	source
+Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.	interface	generalUI	skillGuide
+Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.	interface	generalUI	skillGuide
+You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.	interface	generalUI	skillGuide
+As with any skill, you will restore <Num0> missing Hitpoint every minute, but the best way of recovering Hitpoints is by eating food.	interface	generalUI	skillGuide
+Mining allows you to get various minerals from the world, for use in other skills; primarily Smithing.	interface	generalUI	skillGuide
+To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.	interface	generalUI	skillGuide
+At higher mining levels, you'll have an increased chance of successfully mining a rock. You'll also be able to use more powerful pickaxes, which decrease the amount of time between mining attempts.	interface	generalUI	skillGuide
+Note that while most pickaxes have an Attack level requirement to equip them, you're still able to use them from within your inventory if you have the required Mining level.	interface	generalUI	skillGuide
+Your Strength level determines your max hit in combat. Whenever you hit your opponent, you will deal a random amount of damage up to your max hit.	interface	generalUI	skillGuide
+Most weapons have a Strength bonus that will also increase your max hit. You can view your Strength bonus (and all of your equipment's stats) by selecting 'View equipment stats' under the Worn Equipment side panel.	interface	generalUI	skillGuide
+Agility - Members Only	interface	generalUI	skillGuide
+Agility both increases the rate at which your Run Energy replenishes while not running and decreases the rate at which it drains while you run.	interface	generalUI	skillGuide
+You will also gain access to useful shortcuts across Gielinor; these are marked with a green arrow on your map.	interface	generalUI	skillGuide
+In order to train your Agility skill, you will need an Agility course; these are a series of obstacles that reward experience upon completion.	interface	generalUI	skillGuide
+Smithing lets you convert raw ores into useful metals, then use those metals to make your own weapons and armour.	interface	generalUI	skillGuide
+To smelt ores, simply take the mix of ores you need to any furnace and you'll be able to convert them into bars.	interface	generalUI	skillGuide
+Once you have your bars, grab a hammer and take them to an anvil. Bigger items will need more bars to make.	interface	generalUI	skillGuide
+As you advance your Smithing level, you'll be able to make make more gear out of higher quality metals.	interface	generalUI	skillGuide
+Your Defence level determines how likely you are to block enemy attacks. The chances of this happening increase with your level, but be careful; you are never guaranteed to block every attack!	interface	generalUI	skillGuide
+Additionally, a higher Defence level will allow you to equip more powerful shields and armour. As well as giving you better defensive stats, some armour will also increase your Attack or Strength bonuses as well.	interface	generalUI	skillGuide
+Herblore - Members Only	interface	generalUI	skillGuide
+Herblore allows you to make potions with herbs and ingredients found across Gielinor.	interface	generalUI	skillGuide
+To make a potion, you first need to clean a grimy herb, then combine it with a vial of water to make an unfinished potion. You can then add the secondary ingredient(s) to complete the potion.	interface	generalUI	skillGuide
+Fishing allows you to gather fish at various points across Gielinor. Typically, these will be indicated by moving bubbles on the surface of the water.	interface	generalUI	skillGuide
+Different fish require different equipment to catch; for instance, you need a fishing net to catch shrimp, but a fishing rod and bait to catch sardines.	interface	generalUI	skillGuide
+As your Fishing level increases, you'll gain access to more varieties of fish to catch, as well as having a higher chance of successfully catching fish when you try.	interface	generalUI	skillGuide
+Your Ranged level determines how accurate you are with ranged weapons, as well as how much damage they do. A higher Ranged level will result in more hits that do more damage.	interface	generalUI	skillGuide
+Most ranged weapons will need a specific kind of ammunition to go with them; for instance, bows will need arrows and crossbows will need bolts.	interface	generalUI	skillGuide
+As your Ranged level increases, you will also get access to more powerful weapons and ammunition. Typically, each ranged weapon can only handle ammo up to a certain level; for instance, an oak bow can only fire bronze, iron or steel arrows, but not mithril.	interface	generalUI	skillGuide
+Thieving - Members Only	interface	generalUI	skillGuide
+Thieving lets you steal items from various people and stalls. Be careful, as people won't take too kindly to you going through their pockets, and might call the guards on you, or may take matters into their own hands.	interface	generalUI	skillGuide
+As your Thieving level increases, the odds of you successfully stealing from your target will increase. You will also gain access to more lucrative targets with more valuable loot.	interface	generalUI	skillGuide
+Cooking is a skill that lets you make all kinds of delicious food that will typically restore your Hitpoints, amongst providing other benefits.	interface	generalUI	skillGuide
+At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.	interface	generalUI	skillGuide
+Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.	interface	generalUI	skillGuide
+As your Cooking level increases, you'll get access to an increasing list of recipes. You'll also find that you accidentally burn your food less of the time as well.	interface	generalUI	skillGuide
+Prayer allows you to access different prayers, available from the Prayer side panel. Each prayer offers a different powerful benefit.	interface	generalUI	skillGuide
+Using prayers will drain your prayer points over time. Once you run out of prayer points, you will be unable to use any prayers. You can restore your prayer points by praying at an altar.	interface	generalUI	skillGuide
+Some pieces of equipment will grant you a Prayer bonus, which will reduce the rate at which your prayer points are drained.	interface	generalUI	skillGuide
+The most common way to increase your Prayer level is to offer the remains of the enemies you kill. Burying their bones and scattering their ashes will award you Prayer experience.	interface	generalUI	skillGuide
+Crafting - Members Only	interface	generalUI	skillGuide
+Crafting is a wide-ranging skill that allows you to create various pieces of armour, jewellery, equipment and more.	interface	generalUI	skillGuide
+To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.	interface	generalUI	skillGuide
+To make pottery, you'll need to obtain some soft clay, obtained by adding water to clay. You can then use a pottery wheel to shape the clay into an unfired item, which you can then finish in a pottery oven.	interface	generalUI	skillGuide
+To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!	interface	generalUI	skillGuide
+Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.	interface	generalUI	skillGuide
+Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.	interface	generalUI	skillGuide
+Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.	interface	generalUI	skillGuide
+You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.	interface	generalUI	skillGuide
+Staves can also be used to auto-cast certain offensive spells in combat; to enable this, equip your staff, go to the Combat Options side panel, and select one of the 'Spell' options.	interface	generalUI	skillGuide
+Fletching - Members Only	interface	generalUI	skillGuide
+Fletching allows you to create various ranged weapons, as well as ammunition to go with them.	interface	generalUI	skillGuide
+Making bows requires bowstring, which can be made from flax at a spinning wheel. You can use a knife on some logs to carve an unfinished bow, then add the bowstring to complete the weapon.	interface	generalUI	skillGuide
+To create arrows, you'll first need to carve logs into arrow shafts with a knife, then tip the arrow shafts with feathers. Finally, you'll need to add some arrow heads.	interface	generalUI	skillGuide
+To make bolts, you only need to combine unfinished bolts with feathers. You can also chisel gemstones down into bolt tips, with each gemstone being able to top a different bolt.	interface	generalUI	skillGuide
+Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.	interface	generalUI	skillGuide
+Increasing your Woodcutting level will give you a higher chance of successfully chopping a tree. You'll also gain access to more trees to cut down.	interface	generalUI	skillGuide
+In addition to this, higher Woodcutting levels grant access to more powerful axes, which also increase the chance of chopping trees. Note that you can still use an axe in your inventory if you have the Woodcutting level for it, even if you don't have the Attack level to equip it.	interface	generalUI	skillGuide
+Runecrafting is the skill that allows you to convert essences into runes, which you can use to cast spells.	interface	generalUI	skillGuide
+To create runes, you'll first need some essence and a talisman of the rune you want to make. You can use the talisman to both locate and access the runic altar, which is where the runes are crafted.	interface	generalUI	skillGuide
+Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	interface	generalUI	skillGuide
+Slayer - Members Only	interface	generalUI	skillGuide
+Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.	interface	generalUI	skillGuide
+To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.	interface	generalUI	skillGuide
+Once you've completed five tasks, you can start earning reward points, which can be used to skip or block tasks you don't want, or purchase various items and benefits like extended tasks.	interface	generalUI	skillGuide
+Farming - Members Only	interface	generalUI	skillGuide
+Farming allows you to grow various flowers, vegetables, trees, herbs and more in farming patches across Gielinor.	interface	generalUI	skillGuide
+To get started, you'll need some seeds and a seed dibber, as well as a rake to de-weed the patch you want to use.	interface	generalUI	skillGuide
+Once you've cleared the patch, you can add your seed to it. You can also optionally water it with a watering can or add a bucket of compost to decrease the chances of your plant becoming diseased.	interface	generalUI	skillGuide
+It'll take a while for your plant to grow, so feel free to explore the world and come back to it later!	interface	generalUI	skillGuide
+Once your plant has grown, you might need another tool to collect the harvest. For instance, you'll need a shovel to dig up potatoes.	interface	generalUI	skillGuide
+If you're worried about your crops becoming diseased, most crops can be protected by the nearby gardeners, but they'll want specific produce in return.	interface	generalUI	skillGuide
+As your Farming level increases, you'll gain access to more crops to grow, as well as obtaining greater yields when harvesting.	interface	generalUI	skillGuide
+Construction - Members Only	interface	generalUI	skillGuide
+Construction gives you access to your very owned Player-Owned House. To get started, you'll need to buy a house from an Estate agent.	interface	generalUI	skillGuide
+Once you have a house, you'll need to build furniture. Most furniture can be built with planks, which can be obtained via taking logs to a sawmill.	interface	generalUI	skillGuide
+To build furniture, grab a hammer and a saw, enter your house in build mode, select a hotspot and select the furniture you want to build.	interface	generalUI	skillGuide
+As your Construction level increases, you'll be able to build bigger houses, gain access to more kinds of room in your house, and be able to build fancier furniture.	interface	generalUI	skillGuide
+Hunter - Members Only	interface	generalUI	skillGuide
+Hunter lets you track and catch a wide variety of wildlife, granting access to various unique materials in the process.	interface	generalUI	skillGuide
+Each animal you can hunt will typically be found in a specfic locale, and will require different gear. Make sure you come prepared!	interface	generalUI	skillGuide
+As your Hunter level improves, not only will you be able to hunt a wider variety of creatures, but you'll also be able to maintain more traps simultaneously, and they will successfully trap creatures more often.	interface	generalUI	skillGuide

@@ -37,9 +37,9 @@ Steel arrowtips	鋼鉄の矢じり	name	item	Steel arrowtips
 Mithril arrowtips	ミスリルの矢じり	name	item	Mithril arrowtips
 Adamant arrowtips	アダマントの矢じり	name	item	Adamant arrowtips
 Rune arrowtips	ルーンの矢じり	name	item	Rune arrowtips
-Opal bolt tips	オパールのボルト先端	name	item	Opal bolt tips
-Pearl bolt tips	パールのボルト先端	name	item	Pearl bolt tips
-Barb bolttips	トゲのあるボルト先端	name	item	Barb bolttips
+Opal bolt tips	オパールのボルトチップ	name	item	Opal bolt tips
+Pearl bolt tips	パールのボルトチップ	name	item	Pearl bolt tips
+Barb bolttips	トゲのあるボルトチップ	name	item	Barb bolttips
 Longbow (u)	長弓（未）	name	item	Longbow (u)
 Shortbow (u)	短弓（未）	name	item	Shortbow (u)
 Arrow shaft	矢のシャフト	name	item	Arrow shaft
@@ -2517,20 +2517,20 @@ Gardening trowel	園芸用こて	name	item	Gardening trowel
 Spade handle	シャベルのハンドル	name	item	Spade handle
 Spade head	シャベルの頭	name	item	Spade head
 Secateurs	せん定ばさみ	name	item	Secateurs
-Watering can	じょうろ	name	item	Watering can
-Watering can(1)	じょうろ（1）	name	item	Watering can(1)
-Watering can(2)	じょうろ（2）	name	item	Watering can(2)
-Watering can(3)	じょうろ（3）	name	item	Watering can(3)
-Watering can(4)	じょうろ（4）	name	item	Watering can(4)
-Watering can(5)	じょうろ（5）	name	item	Watering can(5)
-Watering can(6)	じょうろ（6）	name	item	Watering can(6)
-Watering can(7)	じょうろ（7）	name	item	Watering can(7)
-Watering can(8)	じょうろ（8）	name	item	Watering can(8)
-Rake	レーキ	name	item	Rake
+Watering can	ジョウロ	name	item	Watering can
+Watering can(1)	ジョウロ（1）	name	item	Watering can(1)
+Watering can(2)	ジョウロ（2）	name	item	Watering can(2)
+Watering can(3)	ジョウロ（3）	name	item	Watering can(3)
+Watering can(4)	ジョウロ（4）	name	item	Watering can(4)
+Watering can(5)	ジョウロ（5）	name	item	Watering can(5)
+Watering can(6)	ジョウロ（6）	name	item	Watering can(6)
+Watering can(7)	ジョウロ（7）	name	item	Watering can(7)
+Watering can(8)	ジョウロ（8）	name	item	Watering can(8)
+Rake	熊手	name	item	Rake
 Seed dibber	種まき器	name	item	Seed dibber
 Gardening boots	園芸用靴	name	item	Gardening boots
-Rake handle	レーキのハンドル	name	item	Rake handle
-Rake head	レーキの頭	name	item	Rake head
+Rake handle	熊手のハンドル	name	item	Rake handle
+Rake head	熊手の先端	name	item	Rake head
 Smoke devil	スモーク・デビル	name	item	Smoke devil
 Empty plant pot	空の植木鉢	name	item	Empty plant pot
 Unfired plant pot	未焼成の植木鉢	name	item	Unfired plant pot
@@ -4379,14 +4379,14 @@ Steel crossbow	鋼鉄の洋弓銃	name	item	Steel crossbow
 Mithril crossbow	ミスリルの洋弓銃	name	item	Mithril crossbow
 Adamant crossbow	アダマントの洋弓銃	name	item	Adamant crossbow
 Rune crossbow	ルーンの洋弓銃	name	item	Rune crossbow
-Jade bolt tips	ヒスイのボルト先端	name	item	Jade bolt tips
-Topaz bolt tips	トパーズのボルト先端	name	item	Topaz bolt tips
-Sapphire bolt tips	サファイアのボルト先端	name	item	Sapphire bolt tips
-Emerald bolt tips	エメラルドのボルト先端	name	item	Emerald bolt tips
-Ruby bolt tips	ルビーのボルト先端	name	item	Ruby bolt tips
-Diamond bolt tips	ダイヤのボルト先端	name	item	Diamond bolt tips
-Dragonstone bolt tips	竜石のボルト先端	name	item	Dragonstone bolt tips
-Onyx bolt tips	オニキスのボルト先端	name	item	Onyx bolt tips
+Jade bolt tips	ヒスイのボルトチップ	name	item	Jade bolt tips
+Topaz bolt tips	トパーズのボルトチップ	name	item	Topaz bolt tips
+Sapphire bolt tips	サファイアのボルトチップ	name	item	Sapphire bolt tips
+Emerald bolt tips	エメラルドのボルトチップ	name	item	Emerald bolt tips
+Ruby bolt tips	ルビーのボルトチップ	name	item	Ruby bolt tips
+Diamond bolt tips	ダイヤのボルトチップ	name	item	Diamond bolt tips
+Dragonstone bolt tips	竜石のボルトチップ	name	item	Dragonstone bolt tips
+Onyx bolt tips	オニキスのボルトチップ	name	item	Onyx bolt tips
 Opal bolts (e)	オパールのボルト（魔）	name	item	Opal bolts (e)
 Jade bolts (e)	ヒスイのボルト（魔）	name	item	Jade bolts (e)
 Pearl bolts (e)	パールのボルト（魔）	name	item	Pearl bolts (e)
@@ -5219,7 +5219,7 @@ Newspaper	新聞	name	item	Newspaper
 Half certificate	半証明書	name	item	Half certificate
 Uncleaned find	未洗浄の発掘品	name	item	Uncleaned find
 Arrowheads	矢じり	name	item	Arrowheads
-Jewellery	宝石	name	item	Jewellery
+Jewellery	宝飾品	name	item	Jewellery
 Pottery	陶芸品	name	item	Pottery
 Old coin	古いコイン	name	item	Old coin
 Ancient coin	古代のコイン	name	item	Ancient coin
@@ -5588,7 +5588,7 @@ Occult necklace	オカルトのネックレス	name	item	Occult necklace
 Kraken tentacle	クラーケンの触手	name	item	Kraken tentacle
 Abyssal tentacle	深淵の触手	name	item	Abyssal tentacle
 Jar of dirt	土の瓶	name	item	Jar of dirt
-Soft clay pack	軟らかい粘土のパック	name	item	Soft clay pack
+Soft clay pack	柔らかい粘土のパック	name	item	Soft clay pack
 Pay-dirt	有望な鉱脈	name	item	Pay-dirt
 Golden nugget	金の一塊	name	item	Golden nugget
 Prospector helmet	探鉱者の兜	name	item	Prospector helmet
@@ -6255,7 +6255,7 @@ Vial of tears (2)	涙の試薬瓶（2）	name	item	Vial of tears (2)
 Vial of tears (3)	涙の試薬瓶（3）	name	item	Vial of tears (3)
 Vial of tears (full)	涙の試薬瓶（満）	name	item	Vial of tears (full)
 Vial of sorrow	憂いの試薬瓶	name	item	Vial of sorrow
-Gricoller's can	グリコラーのじょうろ	name	item	Gricoller's can
+Gricoller's can	グリコラーのジョウロ	name	item	Gricoller's can
 Lovakite bar	ロヴァカイトの延べ棒	name	item	Lovakite bar
 Juniper logs	セイヨウネズの丸太	name	item	Juniper logs
 Lovakite ore	ロヴァカイト鉱石	name	item	Lovakite ore
@@ -6659,7 +6659,7 @@ Peaceful blessing	平和の祝福	name	item	Peaceful blessing
 Honourable blessing	名誉ある祝福	name	item	Honourable blessing
 War blessing	戦闘の祝福	name	item	War blessing
 Ancient blessing	古代の祝福	name	item	Ancient blessing
-Charge dragonstone jewellery scroll	竜石の宝石品をチャージ巻物	name	item	Charge dragonstone jewellery scroll
+Charge dragonstone jewellery scroll	竜石の宝飾品をチャージ巻物	name	item	Charge dragonstone jewellery scroll
 Crier coat	クライヤーのコート	name	item	Crier coat
 Crier bell	クライヤーの鐘	name	item	Crier bell
 Black leprechaun hat	黒レプラコーンの帽子	name	item	Black leprechaun hat
@@ -7143,7 +7143,7 @@ Amethyst fire arrow (lit)	アメシストの火矢（点火）	name	item	Amethys
 Amethyst arrow(p)	アメシストの矢（毒）	name	item	Amethyst arrow(p)
 Amethyst arrow(p+)	アメシストの矢（毒＋）	name	item	Amethyst arrow(p+)
 Amethyst arrow(p++)	アメシストの矢（毒＋＋）	name	item	Amethyst arrow(p++)
-Amethyst bolt tips	アメシストのボルト先端	name	item	Amethyst bolt tips
+Amethyst bolt tips	アメシストのボルトチップ	name	item	Amethyst bolt tips
 Unidentified minerals	未確認のミネラル	name	item	Unidentified minerals
 Mining gloves	採掘手袋	name	item	Mining gloves
 Superior mining gloves	優れた採掘手袋	name	item	Superior mining gloves
@@ -7292,7 +7292,7 @@ Kharedst's memoirs	カレッドの回想録	name	item	Kharedst's memoirs
 Lunch by the lancalliums	ランカリウムの隣で昼食	name	item	Lunch by the lancalliums
 The fisher's flute	釣り人のフルート	name	item	The fisher's flute
 History and hearsay	歴史と伝聞	name	item	History and hearsay
-Jewellery of jubilation	歓喜の宝石	name	item	Jewellery of jubilation
+Jewellery of jubilation	歓喜の宝飾品	name	item	Jewellery of jubilation
 A dark disposition	暗黒の気質	name	item	A dark disposition
 Secret page	秘密のページ	name	item	Secret page
 Imbued saradomin max cape	付与したサラドミン・マックス・マント	name	item	Imbued saradomin max cape
@@ -9287,7 +9287,7 @@ Divine rune pouch	神聖なルーンのポーチ	name	item	Divine rune pouch
 Breach of the scarab	スカラベの破損	name	item	Breach of the scarab
 Eye of the corruptor	堕落者の目	name	item	Eye of the corruptor
 Keris partisan of corruption	堕落のケリス・パルチザン	name	item	Keris partisan of corruption
-Jewel of the sun	太陽の宝石	name	item	Jewel of the sun
+Jewel of the sun	太陽の宝飾品	name	item	Jewel of the sun
 Keris partisan of the sun	太陽のケリス・パルチザン	name	item	Keris partisan of the sun
 Cache of runes	ルーンの貯蔵庫	name	item	Cache of runes
 Neutralising potion	中和剤	name	item	Neutralising potion

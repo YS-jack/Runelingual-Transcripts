@@ -533,7 +533,7 @@ Leave-area	離脱	actions	object	Ladder
 Crack	ひび	actions	object	Wall safe
 Pull-spade	シャベルを抜く	actions	object	Stone Door
 Guide	ガイド	actions	object	Belladonna patch
-Rake	かく	actions	object	Belladonna patch
+Rake	掻き抜く	actions	object	Belladonna patch
 Cure	治す	actions	object	Diseased Belladonna
 Clear	除去する	actions	object	Dead Belladonna
 Check-health	健康状態を確認	actions	object	Cadavaberry bush
@@ -958,7 +958,7 @@ Craft-rune	ルーン工作	actions	object	Altar
 Fuel	燃料を追加	actions	object	Brazier
 Dispel	消し去る	actions	object	Shimmering barrier
 Shared	共有	actions	object	Small storage unit
-Take Rake	を取る	actions	object	Old tools
+Take Rake	熊手を取る	actions	object	Old tools
 Take Spade	シャベルを取る	actions	object	Old tools
 Take Seed Dibber	種まき器を取る	actions	object	Old tools
 Pick-lots	沢山とる	actions	object	Gourd tree
@@ -997,7 +997,7 @@ Ancient	古代	actions	object	Altar of the Occult
 Lunar	ルーナ	actions	object	Altar of the Occult
 Arceuus	アルセウス	actions	object	Altar of the Occult
 Standard	一般	actions	object	Altar of the Occult
-Recharge-jewellery	宝石をチャージ	actions	object	Totem Pole
+Recharge-jewellery	宝飾品をチャージ	actions	object	Totem Pole
 Douse	消火	actions	object	Fire
 Heal	回復	actions	object	Fremennik warrior
 Complete	完成させる	actions	object	Incomplete map
@@ -1580,3 +1580,5 @@ Perform <colNum0>Relic unlock</col>	<colNum0>遺物の解放</col> 演技する	
 Loop	ループ	actions	menu	emotesTab
 Toggle	切り替える	actions	menu	musicTab
 Open	開く	actions	menu	musicTab
+Choose spell	呪文を選択	actions	menu	combatOptionsTab
+Focus	集中	actions	menu	combatOptionsTab

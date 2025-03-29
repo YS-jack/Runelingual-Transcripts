@@ -101,6 +101,8 @@ Search	actions	menu
 Lookup	actions	menu	
 Auto retaliate	actions	menu	combatOptionsTab
 Use <colNum0>Special Attack</col>	actions	menu	combatOptionsTab
+Choose spell	actions	menu	combatOptionsTab
+Focus	actions	menu	combatOptionsTab
 Wiki	actions	menu	
 Add to canvas	actions	menu	
 View <colNum0>Attack</col> guide	actions	menu	skillsTab

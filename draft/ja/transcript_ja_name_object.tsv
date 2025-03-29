@@ -844,7 +844,7 @@ Skeleton	スケルトン	name	object	Skeleton
 Mast	マスト	name	object	Mast
 Captain's Table	船長のテーブル	name	object	Captain's Table
 Broken Door	壊れたドア	name	object	Broken Door
-Jewellery stall	宝石の屋台	name	object	Jewellery stall
+Jewellery stall	宝飾品の屋台	name	object	Jewellery stall
 Lectern	読み上げ台	name	object	Lectern
 Dock leaf plant	エゾノギシギシの株	name	object	Dock leaf plant
 Hanging tapestry	吊るされたタペストリー	name	object	Hanging tapestry
@@ -3595,7 +3595,7 @@ Floor tile	床タイル	name	object	Floor tile
 Fog marker	霧マーカー	name	object	Fog marker
 Crystal tree patch	水晶樹の畑	name	object	Crystal tree patch
 Crystal tree	水晶樹	name	object	Crystal tree
-Soft clay rocks	軟らかい粘土の岩	name	object	Soft clay rocks
+Soft clay rocks	柔らかい粘土の岩	name	object	Soft clay rocks
 Statue of Baxtorian	バクストリアン像	name	object	Statue of Baxtorian
 Statue Plinth	像の台座	name	object	Statue Plinth
 Crystal Dispenser	水晶のディスペンサー	name	object	Crystal Dispenser
@@ -4478,7 +4478,7 @@ Statue of Marhuitz	マーフイッツ像	name	object	Statue of Marhuitz
 Statue of Dizana	ディザナ像	name	object	Statue of Dizana
 Statue of Taur	トー像	name	object	Statue of Taur
 Glass case	ガラスケース	name	object	Glass case
-Jewellery case	宝石ケース	name	object	Jewellery case
+Jewellery case	宝飾品ケース	name	object	Jewellery case
 Bird bath	バードバス	name	object	Bird bath
 Shrine of Ralos	ラロスの聖堂	name	object	Shrine of Ralos
 Shrine of Ranul	ラヌルの聖堂	name	object	Shrine of Ranul

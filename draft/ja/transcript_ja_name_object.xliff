@@ -6763,7 +6763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="15203">
         <xliff:source>Jewellery stall</xliff:source>
-        <xliff:target state="translated">宝石の屋台</xliff:target>
+        <xliff:target state="translated">宝飾品の屋台</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Jewellery stall
@@ -28771,7 +28771,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="17954">
         <xliff:source>Soft clay rocks</xliff:source>
-        <xliff:target state="translated">軟らかい粘土の岩</xliff:target>
+        <xliff:target state="translated">柔らかい粘土の岩</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Soft clay rocks
@@ -35835,7 +35835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="18837">
         <xliff:source>Jewellery case</xliff:source>
-        <xliff:target state="translated">宝石ケース</xliff:target>
+        <xliff:target state="translated">宝飾品ケース</xliff:target>
         <xliff:note>category: name
 sub_category: object
 source: Jewellery case

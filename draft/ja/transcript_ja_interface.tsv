@@ -160,7 +160,7 @@ Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost
 Equipment - Members Only	装備：会員限定	interface	generalUI	skillGuide
 Nightmare Staff (without orb) (with <Num0> Magic)	悪夢の杖（オーブ無）（魔法<Num0>も）	interface	generalUI	skillGuide
 Nightmare Staff (with orb) (with <Num0> Magic)	悪夢の杖（オーブ有）（魔法<Num0>も）	interface	generalUI	skillGuide
-Enchanted zenyte jewellery	魔法付与されたゼナイトの宝石	interface	generalUI	skillGuide
+Enchanted zenyte jewellery	魔法付与されたゼナイトの宝飾品	interface	generalUI	skillGuide
 Amulet of Rancour	怨恨のアミュレット	interface	generalUI	skillGuide
 Mining	採掘	interface	generalUI	skillGuide
 Rocks	岩石	interface	generalUI	skillGuide
@@ -1444,7 +1444,7 @@ Weaving	織物	interface	generalUI	skillGuide
 Spinning	紡ぎ	interface	generalUI	skillGuide
 Pottery	陶芸品	interface	generalUI	skillGuide
 Glass	ガラス加工	interface	generalUI	skillGuide
-Jewellery	宝石	interface	generalUI	skillGuide
+Jewellery	宝飾品	interface	generalUI	skillGuide
 Weaponry	武器	interface	generalUI	skillGuide
 Leather gloves	革の手袋	interface	generalUI	skillGuide
 Members: Pheasant clothing	会員：キジの服装	interface	generalUI	skillGuide
@@ -1591,7 +1591,7 @@ Fire battlestaff	火の戦杖	interface	generalUI	skillGuide
 Air battlestaff	大気の戦杖	interface	generalUI	skillGuide
 Noxious Halberd (With <Num0> Smithing)	猛毒の矛槍（鍛冶<Num0>も）	interface	generalUI	skillGuide
 Purging staff	浄化の杖	interface	generalUI	skillGuide
-Amethyst bolt tips	アメシストのボルト先端	interface	generalUI	skillGuide
+Amethyst bolt tips	アメシストのボルトチップ	interface	generalUI	skillGuide
 Amethyst arrowtips	アメシストの矢じり	interface	generalUI	skillGuide
 Accursed Sceptre	呪いの笏	interface	generalUI	skillGuide
 Amethyst javelin heads	アメシストの矛先	interface	generalUI	skillGuide
@@ -1829,7 +1829,7 @@ Tan Leather	皮を革に	interface	generalUI	skillGuide
 Khazard teleport	カザード・ワープ	interface	generalUI	skillGuide
 Tele group Khazard	カザード・集団ワープ	interface	generalUI	skillGuide
 Dream (after Dream Mentor)	夢中（「夢のメンター」後）	interface	generalUI	skillGuide
-String jewellery	宝石に紐	interface	generalUI	skillGuide
+String jewellery	宝飾品に紐	interface	generalUI	skillGuide
 Stat restore pot share	ステ回復薬共有	interface	generalUI	skillGuide
 Magic imbue	魔力を込める	interface	generalUI	skillGuide
 Fertile soil	肥えた土地	interface	generalUI	skillGuide
@@ -3534,8 +3534,8 @@ Crossbow Bolt Enchantments	ボルトに魔法付与	interface	mainTabs	spellBook
 View the various crossbow bolt enchantment spells (<Num0>+ Magic required)	可能なボルトの魔法付与を確認<br>（魔法Lv<Num0>+）	interface	mainTabs	spellBookTab
 Level <Num0>: Water Strike	レベル<Num0>：<br>ウォーター・ストライク	interface	mainTabs	spellBookTab
 A basic Water missile	基礎的な水魔法	interface	mainTabs	spellBookTab
-Jewellery Enchantments	宝石に魔法付与	interface	mainTabs	spellBookTab
-View the various jewellery enchantment spells (<Num0>+ Magic required)	可能な宝石の魔法付与を確認<br>（魔法Lv<Num0>+）	interface	mainTabs	spellBookTab
+Jewellery Enchantments	宝飾品に魔法付与	interface	mainTabs	spellBookTab
+View the various jewellery enchantment spells (<Num0>+ Magic required)	可能な宝飾品の魔法付与を確認<br>（魔法Lv<Num0>+）	interface	mainTabs	spellBookTab
 Level <Num0>: Earth Strike	レベル<Num0>：<br>アース・ストライク	interface	mainTabs	spellBookTab
 A basic Earth missile	基礎的な土魔法	interface	mainTabs	spellBookTab
 Level <Num0>: Weaken	レベル<Num0>：<br>弱体化	interface	mainTabs	spellBookTab
@@ -3748,7 +3748,7 @@ Fertilise a farming patch with super compost	畑を良質な堆肥で肥やす	i
 Level <Num0>: Magic Imbue	レベル<Num0>：<br>魔力を込める	interface	mainTabs	spellBookTab
 Combine runes without a talisman	タリスマン無しでルーンを合成	interface	mainTabs	spellBookTab
 Level <Num0>: Stat Restore Pot Share	レベル<Num0>：<br>ステ回復薬共有	interface	mainTabs	spellBookTab
-Level <Num0>: String Jewellery	レベル<Num0>：<br>宝石に紐	interface	mainTabs	spellBookTab
+Level <Num0>: String Jewellery	レベル<Num0>：<br>宝飾品に紐	interface	mainTabs	spellBookTab
 String amulets without wool	アミュレットに魔法で<br>紐を付ける	interface	mainTabs	spellBookTab
 Level <Num0>: Fishing Guild Teleport	レベル<Num0>：<br>釣りギルド・ワープ	interface	mainTabs	spellBookTab
 Teleports you to the Fishing Guild	釣りギルドにワープ	interface	mainTabs	spellBookTab
@@ -3765,7 +3765,7 @@ Teleports players to Ice Plateau	複数人でアイス・プラトーに<br>ワ�
 Level <Num0>: Ice Plateau Teleport	レベル<Num0>：<br>アイス・プラトー・ワープ	interface	mainTabs	spellBookTab
 Teleports you to Ice Plateau	アイス・プラトーにワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Recharge Dragonstone	レベル<Num0>：<br>竜石チャージ	interface	mainTabs	spellBookTab
-Recharges enchanted dragonstone jewellery	竜石の宝石をチャージ	interface	mainTabs	spellBookTab
+Recharges enchanted dragonstone jewellery	竜石の宝飾品をチャージ	interface	mainTabs	spellBookTab
 Level <Num0>: Tele Group Catherby	レベル<Num0>：<br>カサビー・集団ワープ	interface	mainTabs	spellBookTab
 Teleports players to Catherby	複数人でカサビーにワープ	interface	mainTabs	spellBookTab
 Level <Num0>: Heal Other	レベル<Num0>：<br>仲間を回復	interface	mainTabs	spellBookTab
@@ -3873,13 +3873,13 @@ Show spells you lack the runes to cast	ルーン不足の呪文を表示	interfa
 Show spells you lack the requirements to cast	条件未達成な呪文を表示	interface	mainTabs	spellBookTab
 Enable icon resizing (outside PvP areas)	拡大アイコン（PvP外のみ）	interface	mainTabs	spellBookTab
 Level <Num0>: Lvl-<Num1> Enchant	レベル<Num0>：<br>魔法付与<Num1>	interface	mainTabs	spellBookTab
-For use on sapphire and opal jewellery	オパールかサファイヤの宝石用	interface	mainTabs	spellBookTab
-For use on emerald and jade jewellery	エメラルドかヒスイの宝石用	interface	mainTabs	spellBookTab
-For use on ruby and topaz jewellery	ルビーとトパーズの宝石用	interface	mainTabs	spellBookTab
-For use on diamond jewellery	ダイヤの宝石用	interface	mainTabs	spellBookTab
-For use on dragonstone jewellery	竜石の宝石用	interface	mainTabs	spellBookTab
-For use on onyx jewellery	オニキスの宝石用	interface	mainTabs	spellBookTab
-For use on zenyte jewellery	ゼナイトの宝石用	interface	mainTabs	spellBookTab
+For use on sapphire and opal jewellery	オパールかサファイヤの宝飾品用	interface	mainTabs	spellBookTab
+For use on emerald and jade jewellery	エメラルドかヒスイの宝飾品用	interface	mainTabs	spellBookTab
+For use on ruby and topaz jewellery	ルビーとトパーズの宝飾品用	interface	mainTabs	spellBookTab
+For use on diamond jewellery	ダイヤの宝飾品用	interface	mainTabs	spellBookTab
+For use on dragonstone jewellery	竜石の宝飾品用	interface	mainTabs	spellBookTab
+For use on onyx jewellery	オニキスの宝飾品用	interface	mainTabs	spellBookTab
+For use on zenyte jewellery	ゼナイトの宝飾品用	interface	mainTabs	spellBookTab
 Back	戻る	interface	mainTabs	spellBookTab
 Return to the full spellbook view	魔導書全体へ戻る	interface	mainTabs	spellBookTab
 Level <Num0>: Confuse	レベル<Num0>：<br>混乱	interface	mainTabs	spellBookTab
@@ -3982,9 +3982,9 @@ Free Total Level:	無課金合計Lv：	interface	mainTabs	skillsTab
 <colNum0>Thieving:</col>	<colNum0>盗み：</col>	interface	mainTabs	skillsTab
 <colNum0>Herblore:</col>	<colNum0>調合：</col>	interface	mainTabs	skillsTab
 <colNum0>Agility:</col>	<colNum0>運動神経：</col>	interface	mainTabs	skillsTab
-For use on dragonstone jewellery<br><colNum0>Members Only</col>	竜石の宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
-For use on onyx jewellery<br><colNum0>Members Only</col>	オニキスの宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
-For use on zenyte jewellery<br><colNum0>Members Only</col>	ゼナイトの宝石用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+For use on dragonstone jewellery<br><colNum0>Members Only</col>	竜石の宝飾品用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+For use on onyx jewellery<br><colNum0>Members Only</col>	オニキスの宝飾品用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
+For use on zenyte jewellery<br><colNum0>Members Only</col>	ゼナイトの宝飾品用<br><colNum0>会員限定</col>	interface	mainTabs	spellBookTab
 Unarmed	素手	interface	mainTabs	combatOptionsTab
 Punch	殴る	interface	mainTabs	combatOptionsTab
 Kick	蹴る	interface	mainTabs	combatOptionsTab
@@ -4943,3 +4943,85 @@ Search	検索	interface	mainTabs	musicTab
 All	全て	interface	mainTabs	musicTab
 Locked	未開放	interface	mainTabs	musicTab
 Unlocked	開放済	interface	mainTabs	musicTab
+Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.	攻撃力スキルは近接攻撃の命中率の計算に使われ、レベルが高いほど命中率も高くなります。	interface	generalUI	skillGuide
+Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.	また、攻撃力レベルが高いとより強力な武器が装備可能になります。攻撃力ボーナスが高い武器を使うことでも近接攻撃の命中率を上げることができます。攻撃力ボーナスは「装備品のステータス」から確認可能です。	interface	generalUI	skillGuide
+You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.	攻撃スタイルは、戦闘オプションのタブから選択できます。敵によって特定の攻撃スタイルが弱点だったり耐性があったりするので慎重に選びましょう。	interface	generalUI	skillGuide
+As with any skill, you will restore <Num0> missing Hitpoint every minute, but the best way of recovering Hitpoints is by eating food.	他のスキルと同様、毎分<Num0>の体力を自動回復しますが食べ物を食べることですぐに回復できます。	interface	generalUI	skillGuide
+Mining allows you to get various minerals from the world, for use in other skills; primarily Smithing.	採掘は各地で様々な鉱物を採取することを可能にし、それらを他のスキル、主に鍛冶で使用するためのスキルです。	interface	generalUI	skillGuide
+To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.	岩を採掘するには、レベル条件を満たしているツルハシを持って岩をクリックします。しばらくすると鉱石を入手し、岩は枯渇します。低レベルの岩は比較的早く再生しますが、高レベルの岩ほど再生に時間がかかります。	interface	generalUI	skillGuide
+At higher mining levels, you'll have an increased chance of successfully mining a rock. You'll also be able to use more powerful pickaxes, which decrease the amount of time between mining attempts.	採掘レベルが上がると、岩を採掘する成功率が向上します。また、より高レベルなツルハシを使用できるようになり、採掘の試行間の時間が短縮されます。	interface	generalUI	skillGuide
+Note that while most pickaxes have an Attack level requirement to equip them, you're still able to use them from within your inventory if you have the required Mining level.	ほとんどのツルハシは装備するために攻撃力レベルの条件が必要ですが、必要な採掘レベルを満たしていれば、カバンから使用することが可能です。	interface	generalUI	skillGuide
+Your Strength level determines your max hit in combat. Whenever you hit your opponent, you will deal a random amount of damage up to your max hit.	腕力レベルは、近接攻撃で与える最大ダメージを決定します。敵に攻撃が命中するたびに、最大ダメージまでのランダムなダメージを与えます。	interface	generalUI	skillGuide
+Most weapons have a Strength bonus that will also increase your max hit. You can view your Strength bonus (and all of your equipment's stats) by selecting 'View equipment stats' under the Worn Equipment side panel.	多くの武器には腕力ボーナスがあり、それも最大ダメージを増やします。腕力ボーナス（および装備品のすべてのステータス）は、装備品タブで「装備品のステータスを表示」から確認できます。	interface	generalUI	skillGuide
+Agility - Members Only	運動神経：会員限定	interface	generalUI	skillGuide
+Agility both increases the rate at which your Run Energy replenishes while not running and decreases the rate at which it drains while you run.	運動神経は、走っていないときの走力の回復速度を上昇させ、走っているときの走力消費速度を減少させます。	interface	generalUI	skillGuide
+You will also gain access to useful shortcuts across Gielinor; these are marked with a green arrow on your map.	また、ギレノー全域にある便利な近道を利用できるようになります。これらはマップ上で緑の矢印で表示されています。	interface	generalUI	skillGuide
+In order to train your Agility skill, you will need an Agility course; these are a series of obstacles that reward experience upon completion.	運動神経スキルを上げるには、「コース」で鍛えます。これらは一連の障害物で構成されており、完了することで経験値が得られます。	interface	generalUI	skillGuide
+Smithing lets you convert raw ores into useful metals, then use those metals to make your own weapons and armour.	鍛冶スキルは鉱石を実用的な金属に変換し、その金属を使って自分の武器や防具を作ることができるスキルです。	interface	generalUI	skillGuide
+To smelt ores, simply take the mix of ores you need to any furnace and you'll be able to convert them into bars.	鉱石を溶解するには必要な鉱石を任意の炉に入れます。するとその鉱石の延べ棒が手に入ります。	interface	generalUI	skillGuide
+Once you have your bars, grab a hammer and take them to an anvil. Bigger items will need more bars to make.	延べ棒をゲットしたらハンマーをもって金床でそれを加工しましょう。大きなものを作るにはより多くの延べ棒が必要です。	interface	generalUI	skillGuide
+As you advance your Smithing level, you'll be able to make make more gear out of higher quality metals.	鍛冶レベルが上がるにつれ、より高レベルな金属でより多くの種類の装備を作れるようになります。	interface	generalUI	skillGuide
+Your Defence level determines how likely you are to block enemy attacks. The chances of this happening increase with your level, but be careful; you are never guaranteed to block every attack!	防御力レベルは敵の攻撃を防ぐ（ダメージを受けない）確率を決定します。これが起こる確率はレベルが上がるにつれて増加しますが、すべての攻撃を確定で防げるようにはなりません。	interface	generalUI	skillGuide
+Additionally, a higher Defence level will allow you to equip more powerful shields and armour. As well as giving you better defensive stats, some armour will also increase your Attack or Strength bonuses as well.	さらに防御力レベルが高いほど、より強力な防具が装備可能になります。防御ステータスを向上させるだけでなく、一部の防具は攻撃力や腕力ボーナスも増加させます。	interface	generalUI	skillGuide
+Herblore - Members Only	調合：会員限定	interface	generalUI	skillGuide
+Herblore allows you to make potions with herbs and ingredients found across Gielinor.	調合スキルはギレノー各地で入手できる薬草などを使って薬液を作ることができます。	interface	generalUI	skillGuide
+To make a potion, you first need to clean a grimy herb, then combine it with a vial of water to make an unfinished potion. You can then add the secondary ingredient(s) to complete the potion.	薬液を作るには、まず汚れた薬草をきれいにし、それを水入り試薬瓶と組み合わせて未完成の薬液を作ります。その後、補助素材を加えることで薬液を完成させることができます。	interface	generalUI	skillGuide
+Fishing allows you to gather fish at various points across Gielinor. Typically, these will be indicated by moving bubbles on the surface of the water.	釣りスキルはギレノー各地で魚を釣るためのスキルです。通常、魚は水面の泡で場所が特定できます。	interface	generalUI	skillGuide
+Different fish require different equipment to catch; for instance, you need a fishing net to catch shrimp, but a fishing rod and bait to catch sardines.	異なる魚を釣るには、それぞれ異なる道具が必要です。例えば、エビを釣るには漁網が必要ですが、イワシを釣るには釣り竿とエサが必要です。	interface	generalUI	skillGuide
+As your Fishing level increases, you'll gain access to more varieties of fish to catch, as well as having a higher chance of successfully catching fish when you try.	釣りレベルが上がると、釣れる魚の種類が増えるだけでなく、釣りの成功率も上がります。	interface	generalUI	skillGuide
+Your Ranged level determines how accurate you are with ranged weapons, as well as how much damage they do. A higher Ranged level will result in more hits that do more damage.	遠射レベルは、遠距離武器の命中率と与えるダメージを決定します。上限遠射レベルが高いほど、より多くの攻撃が命中し、より大きなダメージを与えることができます。	interface	generalUI	skillGuide
+Most ranged weapons will need a specific kind of ammunition to go with them; for instance, bows will need arrows and crossbows will need bolts.	ほとんどの遠隔武器を使うには特定の種類の弾が必要です。例えば、弓には矢が、クロスボウにはボルトが必要です。	interface	generalUI	skillGuide
+As your Ranged level increases, you will also get access to more powerful weapons and ammunition. Typically, each ranged weapon can only handle ammo up to a certain level; for instance, an oak bow can only fire bronze, iron or steel arrows, but not mithril.	遠射レベルが上がると、より強力な武器や弾薬を使用できるようになります。通常、各遠隔武器は特定のレベルまでの弾しか使用できません。例えば、樫の弓は青銅、鉄、鋼鉄の矢を射ることはできますが、ミスリルの矢は使用できません。	interface	generalUI	skillGuide
+Thieving - Members Only	盗み：会員限定	interface	generalUI	skillGuide
+Thieving lets you steal items from various people and stalls. Be careful, as people won't take too kindly to you going through their pockets, and might call the guards on you, or may take matters into their own hands.	盗みは、様々な人や屋台からアイテムを盗むことができるスキルです。注意してください。人々はポケットを探られることを快く思わず、衛兵を呼ばれることもあれば、自分で対処しようとすることもあります。	interface	generalUI	skillGuide
+As your Thieving level increases, the odds of you successfully stealing from your target will increase. You will also gain access to more lucrative targets with more valuable loot.	盗みレベルが上がると、ターゲットからの盗みに成功する確率が高くなります。また、より価値のある物資を持つ、より利益の大きいターゲットから盗めるようになります。	interface	generalUI	skillGuide
+Cooking is a skill that lets you make all kinds of delicious food that will typically restore your Hitpoints, amongst providing other benefits.	料理スキルは、さまざまな美味しい食べ物を作ることができるスキルで、通常は体力を回復するほか、さまざまな効果をもたらします。	interface	generalUI	skillGuide
+At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.	料理の基本的な方法は、生の肉や魚を火またはコンロに持っていくだけで行えます。コンロで調理した方が焦がしにくいです。	interface	generalUI	skillGuide
+Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.	一部の食べ物は、調理する前に材料を準備する必要があります。例えば、パンは焼く前に、小麦粉と水を混ぜて生地を作る必要があります。	interface	generalUI	skillGuide
+As your Cooking level increases, you'll get access to an increasing list of recipes. You'll also find that you accidentally burn your food less of the time as well.	料理レベルが上がると、調理可能な食べ物やレシピが増えていきます。また、食べ物を誤って焦がしてしまうことが少なくなるでしょう。	interface	generalUI	skillGuide
+Prayer allows you to access different prayers, available from the Prayer side panel. Each prayer offers a different powerful benefit.	祈りスキルは、祈りタブから選択可能な様々な祈りささげることができるようになるスキルです。各祈りは、それぞれ異なる強力な効果をもたらします。	interface	generalUI	skillGuide
+Using prayers will drain your prayer points over time. Once you run out of prayer points, you will be unable to use any prayers. You can restore your prayer points by praying at an altar.	祈りを使用すると、徐々に「祈力（きりょく）ポイント」が減ります。祈りポイントがなくなると、祈りを使用できなくなります。祈力ポイントは祭壇で回復できます。	interface	generalUI	skillGuide
+Some pieces of equipment will grant you a Prayer bonus, which will reduce the rate at which your prayer points are drained.	一部の装備は祈りボーナスを付与し、祈力ポイントの消耗速度を減少させる効果があります。	interface	generalUI	skillGuide
+The most common way to increase your Prayer level is to offer the remains of the enemies you kill. Burying their bones and scattering their ashes will award you Prayer experience.	祈りレベルを上げる最も一般的な方法は、倒した敵の遺骸をささげることです。それらの骨を埋めたり、灰を撒いたりすることで、祈りスキルの経験値を獲得できます。	interface	generalUI	skillGuide
+Crafting - Members Only	工作：一部会員限定	interface	generalUI	skillGuide
+Crafting is a wide-ranging skill that allows you to create various pieces of armour, jewellery, equipment and more.	工作は幅広いスキルで、さまざまな防具、宝飾品、装備品などを作成することができます。	interface	generalUI	skillGuide
+To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.	動物の皮から防具を作るには、通常、まず皮をタンナーのところに持って行き、なしてもらう必要があります。その後、針と糸を使って加工します。針と糸は、特定の工作店（Crafting Shop)で入手できます。	interface	generalUI	skillGuide
+To make pottery, you'll need to obtain some soft clay, obtained by adding water to clay. You can then use a pottery wheel to shape the clay into an unfired item, which you can then finish in a pottery oven.	陶器を作るには、粘土に水を加えて得られる柔らかい粘土を用意する必要があります。その後、陶芸用のろくろを使って粘土を形作り、未焼成のアイテムを作ります。それを陶芸用の窯で焼き上げて完成させることができます。	interface	generalUI	skillGuide
+To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!	宝飾品を作るには、まずクラフティング用の型（モールド）を手に入れる必要があります。鋳型と金または銀の延べ棒を炉に持って行くことで、宝飾品を作ることができます。工作レベルが上がると、宝石をカットしながら型に入れて加工し、魔法付与可能な宝飾品を作れるようになります！	interface	generalUI	skillGuide
+Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.	火起こしスキルは、火を起こすためのスキルです。火口箱を丸太に使うことで、火をつけようとし始めます。	interface	generalUI	skillGuide
+Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.	レベルが上がると、より多くの経験値を得られる丸太を燃やせるようになり、さらに素早く燃やせるようになります。	interface	generalUI	skillGuide
+Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.	魔法スキルは様々な呪文を使用可能にします。各呪文を唱えるには、特定の種類のルーンが必要です。必要なルーンは、呪文タブやこのスキルガイドのタブで呪文を確認することで確認できます。	interface	generalUI	skillGuide
+You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.	特定の装備を使用することで、ルーンを節約して呪文を唱えることができます。例えば、装備した大気の杖は無限のエアルーンとして扱われます。	interface	generalUI	skillGuide
+Staves can also be used to auto-cast certain offensive spells in combat; to enable this, equip your staff, go to the Combat Options side panel, and select one of the 'Spell' options.	杖や笏は戦闘中に特定の攻撃呪文を自動で唱えるためにも使用できます。まず杖を装備し、戦闘オプションのサイドパネルに移動して、「呪文」オプションから選択してください。	interface	generalUI	skillGuide
+Fletching - Members Only	木材加工：会員限定	interface	generalUI	skillGuide
+Fletching allows you to create various ranged weapons, as well as ammunition to go with them.	木材加工は、さまざまな遠距離武器やそれに対応する弾薬を作成できるスキルです。	interface	generalUI	skillGuide
+Making bows requires bowstring, which can be made from flax at a spinning wheel. You can use a knife on some logs to carve an unfinished bow, then add the bowstring to complete the weapon.	弓を作るには弓弦が必要で、弓弦は回し車で亜麻から作ることができます。丸太にナイフを使って未完成の弓を彫り、そのあと弓弦を結ぶことで弓を作成することができます。	interface	generalUI	skillGuide
+To create arrows, you'll first need to carve logs into arrow shafts with a knife, then tip the arrow shafts with feathers. Finally, you'll need to add some arrow heads.	矢を作るには、まず丸太をナイフで加工して矢のシャフトを作り、その後、シャフトに羽を取り付ける必要があります。最後に、矢じりを取り付ければ完成です。	interface	generalUI	skillGuide
+To make bolts, you only need to combine unfinished bolts with feathers. You can also chisel gemstones down into bolt tips, with each gemstone being able to top a different bolt.	ボルトを作るには、鍛冶で作った未完成のボルトに羽を取り付けるだけで完成します。また、ノミで宝石を彫刻してボルトの先端に取り付けるボルトチップを作ることができます。宝石の種類によって、対応するボルトが異なります。	interface	generalUI	skillGuide
+Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.	木こりは、木を伐採して丸太を手に入れることができるスキルです。ゲーム内のほとんどの木は、斧を使って伐採することができます。	interface	generalUI	skillGuide
+Increasing your Woodcutting level will give you a higher chance of successfully chopping a tree. You'll also gain access to more trees to cut down.	木こりレベルを上げることで、木を伐採する成功率が高くなります。さらに、伐採できる木の種類も増えていきます。	interface	generalUI	skillGuide
+In addition to this, higher Woodcutting levels grant access to more powerful axes, which also increase the chance of chopping trees. Note that you can still use an axe in your inventory if you have the Woodcutting level for it, even if you don't have the Attack level to equip it.	その他、レベルが上がると、より強力な斧を使用できるようになり、それによって木を伐採する成功率も向上します。なお、装備するための攻撃力レベルが足りなくても、木こりレベルが満たされていれば、カバンの中の斧を使用することができます。	interface	generalUI	skillGuide
+Runecrafting is the skill that allows you to convert essences into runes, which you can use to cast spells.	ルーン作りは、ルーンの素を、呪文を唱えるために必要なルーンに変換するスキルです。	interface	generalUI	skillGuide
+To create runes, you'll first need some essence and a talisman of the rune you want to make. You can use the talisman to both locate and access the runic altar, which is where the runes are crafted.	ルーンを作成するには、まずルーンの素と、作成したいルーンに対応するタリスマンが必要です。タリスマンは、ルーンを作成する場所であるルーンの祭壇を見つけることと、その祭壇にアクセスするために使用できます。	interface	generalUI	skillGuide
+Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	ルーン作りレベルが上がると、より多くの種類のルーンを作成できるようになります。さらに高いレベルでは、1つのルーンの素から複数のルーンを作成することも可能になります。	interface	generalUI	skillGuide
+Slayer - Members Only	討伐：会員限定	interface	generalUI	skillGuide
+Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.	討伐は、より危険で報酬価値の高いモンスターと戦うことを可能にするスキルです。一部のモンスターは、十分に高いスレイヤーレベルがなければ戦うことができません。	interface	generalUI	skillGuide
+To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.	討伐を始めるには、まず討伐の達人から討伐依頼を受け取る必要があります。その後、指定された討伐対象を倒すことで討伐スキルの経験値を獲得できます。	interface	generalUI	skillGuide
+Once you've completed five tasks, you can start earning reward points, which can be used to skip or block tasks you don't want, or purchase various items and benefits like extended tasks.	5つの依頼を完了すると、報酬ポイントを獲得できるようになります。このポイントは、やりたくない依頼をスキップやブロックしたり、依頼延長などのアイテムなどの購入に使用できます。	interface	generalUI	skillGuide
+Farming - Members Only	農業：会員限定	interface	generalUI	skillGuide
+Farming allows you to grow various flowers, vegetables, trees, herbs and more in farming patches across Gielinor.	農業は、ギレノー各地の畑でさまざまな花、野菜、木、ハーブなどを育てることができるスキルです。	interface	generalUI	skillGuide
+To get started, you'll need some seeds and a seed dibber, as well as a rake to de-weed the patch you want to use.	農業スキルを上げるには、種と種まき器、さらに植える畑の雑草を取り除くための熊手が必要です。	interface	generalUI	skillGuide
+Once you've cleared the patch, you can add your seed to it. You can also optionally water it with a watering can or add a bucket of compost to decrease the chances of your plant becoming diseased.	雑草を掻き抜いたら種を植えます。また、任意でジョウロで水をやったり、バケツに入った堆肥を加えたりすることで、植物が病気になる可能性を減らすことができます。	interface	generalUI	skillGuide
+It'll take a while for your plant to grow, so feel free to explore the world and come back to it later!	植物が成長するまでには時間がかかるので、世界を探索しながら後で戻ってきても大丈夫です！	interface	generalUI	skillGuide
+Once your plant has grown, you might need another tool to collect the harvest. For instance, you'll need a shovel to dig up potatoes.	植物が成長したら、収穫するために別の道具が必要になる場合があります。例えば、ジャガイモを掘り起こすにはシャベルが必要です。	interface	generalUI	skillGuide
+If you're worried about your crops becoming diseased, most crops can be protected by the nearby gardeners, but they'll want specific produce in return.	作物が病気になるのが心配なら、近くの庭師に頼めばほとんどの作物を守ってもらえますが、その代わりに特定の農産物を要求されます。	interface	generalUI	skillGuide
+As your Farming level increases, you'll gain access to more crops to grow, as well as obtaining greater yields when harvesting.	農業レベルが上がると、育てられる作物の種類が増えるだけでなく、収穫時に得られる収穫量も増加します。	interface	generalUI	skillGuide
+Construction - Members Only	建築：会員限定	interface	generalUI	skillGuide
+Construction gives you access to your very owned Player-Owned House. To get started, you'll need to buy a house from an Estate agent.	建築は、プレイヤー専用の家を所有することを可能にするスキルです。まず不動産業者から家を購入する必要があります。	interface	generalUI	skillGuide
+Once you have a house, you'll need to build furniture. Most furniture can be built with planks, which can be obtained via taking logs to a sawmill.	家を手に入れたら、家具を作る必要があります。ほとんどの家具は板で作ることができ、これらは丸太を製材所に持っていくことで入手できます。	interface	generalUI	skillGuide
+To build furniture, grab a hammer and a saw, enter your house in build mode, select a hotspot and select the furniture you want to build.	家具を作るには、ハンマーとノコギリを持ち、建築モードで自分の家に入り、ホットスポットを選択して作りたい家具を選びます。	interface	generalUI	skillGuide
+As your Construction level increases, you'll be able to build bigger houses, gain access to more kinds of room in your house, and be able to build fancier furniture.	建築レベルが上がると、より大きな家を建てられるようになり、家の中に追加できる部屋の種類が増えたり、より豪華な家具を作れるようになります。	interface	generalUI	skillGuide
+Hunter - Members Only	狩人：会員限定	interface	generalUI	skillGuide
+Hunter lets you track and catch a wide variety of wildlife, granting access to various unique materials in the process.	狩人は、さまざまな野生動物を追跡して捕獲することができるスキルで、その過程でさまざまなユニークな素材を入手することができます。	interface	generalUI	skillGuide
+Each animal you can hunt will typically be found in a specfic locale, and will require different gear. Make sure you come prepared!	狩猟できる動物は通常特定の地域に生息しており、それぞれ異なる装備が必要になります。しっかり準備しましょう！	interface	generalUI	skillGuide
+As your Hunter level improves, not only will you be able to hunt a wider variety of creatures, but you'll also be able to maintain more traps simultaneously, and they will successfully trap creatures more often.	ハンターレベルが上がると、狩猟できる生物の種類が増えるだけでなく、同時に設置できる罠の数が増え、罠が成功する確率も高くなります。	interface	generalUI	skillGuide

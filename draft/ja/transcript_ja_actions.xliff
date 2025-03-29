@@ -4275,7 +4275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41792">
         <xliff:source>Rake</xliff:source>
-        <xliff:target state="translated">かく</xliff:target>
+        <xliff:target state="translated">掻き抜く</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Belladonna patch
@@ -7675,7 +7675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42217">
         <xliff:source>Take Rake</xliff:source>
-        <xliff:target state="translated">を取る</xliff:target>
+        <xliff:target state="translated">熊手を取る</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Old tools
@@ -7987,7 +7987,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="42256">
         <xliff:source>Recharge-jewellery</xliff:source>
-        <xliff:target state="translated">宝石をチャージ</xliff:target>
+        <xliff:target state="translated">宝飾品をチャージ</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Totem Pole
@@ -10850,6 +10850,12 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110108"><xliff:source>Open</xliff:source><xliff:target state="translated">開く</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: musicTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110109"><xliff:source>Choose spell</xliff:source><xliff:target state="translated">呪文を選択</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110110"><xliff:source>Focus</xliff:source><xliff:target state="translated">集中</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

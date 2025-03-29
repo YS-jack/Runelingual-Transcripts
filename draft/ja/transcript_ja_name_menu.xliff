@@ -783,7 +783,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112702"><xliff:source>Water Strike</xliff:source><xliff:target state="translated">ウォーター・ストライク</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112703"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target state="translated">宝石に魔法付与</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112703"><xliff:source>Jewellery Enchantments</xliff:source><xliff:target state="translated">宝飾品に魔法付与</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112704"><xliff:source>Earth Strike</xliff:source><xliff:target state="translated">アース・ストライク</xliff:target><xliff:note>category: name
@@ -1113,7 +1113,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112812"><xliff:source>Dream</xliff:source><xliff:target state="translated">夢中</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112813"><xliff:source>String Jewellery</xliff:source><xliff:target state="translated">宝石に紐</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112813"><xliff:source>String Jewellery</xliff:source><xliff:target state="translated">宝飾品に紐</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112814"><xliff:source>Stat Restore Pot Share</xliff:source><xliff:target state="translated">ステ回復薬共有</xliff:target><xliff:note>category: name

@@ -307,7 +307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="39">
         <xliff:source>Opal bolt tips</xliff:source>
-        <xliff:target state="translated">オパールのボルト先端</xliff:target>
+        <xliff:target state="translated">オパールのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Opal bolt tips
@@ -315,7 +315,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="40">
         <xliff:source>Pearl bolt tips</xliff:source>
-        <xliff:target state="translated">パールのボルト先端</xliff:target>
+        <xliff:target state="translated">パールのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Pearl bolt tips
@@ -323,7 +323,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41">
         <xliff:source>Barb bolttips</xliff:source>
-        <xliff:target state="translated">トゲのあるボルト先端</xliff:target>
+        <xliff:target state="translated">トゲのあるボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Barb bolttips
@@ -20147,7 +20147,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2519">
         <xliff:source>Watering can</xliff:source>
-        <xliff:target state="translated">じょうろ</xliff:target>
+        <xliff:target state="translated">ジョウロ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can
@@ -20155,7 +20155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2520">
         <xliff:source>Watering can(1)</xliff:source>
-        <xliff:target state="translated">じょうろ（1）</xliff:target>
+        <xliff:target state="translated">ジョウロ（1）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(1)
@@ -20163,7 +20163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2521">
         <xliff:source>Watering can(2)</xliff:source>
-        <xliff:target state="translated">じょうろ（2）</xliff:target>
+        <xliff:target state="translated">ジョウロ（2）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(2)
@@ -20171,7 +20171,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2522">
         <xliff:source>Watering can(3)</xliff:source>
-        <xliff:target state="translated">じょうろ（3）</xliff:target>
+        <xliff:target state="translated">ジョウロ（3）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(3)
@@ -20179,7 +20179,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2523">
         <xliff:source>Watering can(4)</xliff:source>
-        <xliff:target state="translated">じょうろ（4）</xliff:target>
+        <xliff:target state="translated">ジョウロ（4）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(4)
@@ -20187,7 +20187,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2524">
         <xliff:source>Watering can(5)</xliff:source>
-        <xliff:target state="translated">じょうろ（5）</xliff:target>
+        <xliff:target state="translated">ジョウロ（5）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(5)
@@ -20195,7 +20195,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2525">
         <xliff:source>Watering can(6)</xliff:source>
-        <xliff:target state="translated">じょうろ（6）</xliff:target>
+        <xliff:target state="translated">ジョウロ（6）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(6)
@@ -20203,7 +20203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2526">
         <xliff:source>Watering can(7)</xliff:source>
-        <xliff:target state="translated">じょうろ（7）</xliff:target>
+        <xliff:target state="translated">ジョウロ（7）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(7)
@@ -20211,7 +20211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2527">
         <xliff:source>Watering can(8)</xliff:source>
-        <xliff:target state="translated">じょうろ（8）</xliff:target>
+        <xliff:target state="translated">ジョウロ（8）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Watering can(8)
@@ -20219,7 +20219,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2528">
         <xliff:source>Rake</xliff:source>
-        <xliff:target state="translated">レーキ</xliff:target>
+        <xliff:target state="translated">熊手</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rake
@@ -20243,7 +20243,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2531">
         <xliff:source>Rake handle</xliff:source>
-        <xliff:target state="translated">レーキのハンドル</xliff:target>
+        <xliff:target state="translated">熊手のハンドル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rake handle
@@ -20251,7 +20251,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="2532">
         <xliff:source>Rake head</xliff:source>
-        <xliff:target state="translated">レーキの頭</xliff:target>
+        <xliff:target state="translated">熊手の先端</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Rake head
@@ -35043,7 +35043,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4381">
         <xliff:source>Jade bolt tips</xliff:source>
-        <xliff:target state="translated">ヒスイのボルト先端</xliff:target>
+        <xliff:target state="translated">ヒスイのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jade bolt tips
@@ -35051,7 +35051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4382">
         <xliff:source>Topaz bolt tips</xliff:source>
-        <xliff:target state="translated">トパーズのボルト先端</xliff:target>
+        <xliff:target state="translated">トパーズのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Topaz bolt tips
@@ -35059,7 +35059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4383">
         <xliff:source>Sapphire bolt tips</xliff:source>
-        <xliff:target state="translated">サファイアのボルト先端</xliff:target>
+        <xliff:target state="translated">サファイアのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Sapphire bolt tips
@@ -35067,7 +35067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4384">
         <xliff:source>Emerald bolt tips</xliff:source>
-        <xliff:target state="translated">エメラルドのボルト先端</xliff:target>
+        <xliff:target state="translated">エメラルドのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Emerald bolt tips
@@ -35075,7 +35075,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4385">
         <xliff:source>Ruby bolt tips</xliff:source>
-        <xliff:target state="translated">ルビーのボルト先端</xliff:target>
+        <xliff:target state="translated">ルビーのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Ruby bolt tips
@@ -35083,7 +35083,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4386">
         <xliff:source>Diamond bolt tips</xliff:source>
-        <xliff:target state="translated">ダイヤのボルト先端</xliff:target>
+        <xliff:target state="translated">ダイヤのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Diamond bolt tips
@@ -35091,7 +35091,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4387">
         <xliff:source>Dragonstone bolt tips</xliff:source>
-        <xliff:target state="translated">竜石のボルト先端</xliff:target>
+        <xliff:target state="translated">竜石のボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Dragonstone bolt tips
@@ -35099,7 +35099,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="4388">
         <xliff:source>Onyx bolt tips</xliff:source>
-        <xliff:target state="translated">オニキスのボルト先端</xliff:target>
+        <xliff:target state="translated">オニキスのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Onyx bolt tips
@@ -41763,7 +41763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5221">
         <xliff:source>Jewellery</xliff:source>
-        <xliff:target state="translated">宝石</xliff:target>
+        <xliff:target state="translated">宝飾品</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jewellery
@@ -44715,7 +44715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5590">
         <xliff:source>Soft clay pack</xliff:source>
-        <xliff:target state="translated">軟らかい粘土のパック</xliff:target>
+        <xliff:target state="translated">柔らかい粘土のパック</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Soft clay pack
@@ -50051,7 +50051,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6257">
         <xliff:source>Gricoller's can</xliff:source>
-        <xliff:target state="translated">グリコラーのじょうろ</xliff:target>
+        <xliff:target state="translated">グリコラーのジョウロ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Gricoller's can
@@ -53283,7 +53283,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6661">
         <xliff:source>Charge dragonstone jewellery scroll</xliff:source>
-        <xliff:target state="translated">竜石の宝石品をチャージ巻物</xliff:target>
+        <xliff:target state="translated">竜石の宝飾品をチャージ巻物</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Charge dragonstone jewellery scroll
@@ -57155,7 +57155,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7145">
         <xliff:source>Amethyst bolt tips</xliff:source>
-        <xliff:target state="translated">アメシストのボルト先端</xliff:target>
+        <xliff:target state="translated">アメシストのボルトチップ</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Amethyst bolt tips
@@ -58347,7 +58347,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7294">
         <xliff:source>Jewellery of jubilation</xliff:source>
-        <xliff:target state="translated">歓喜の宝石</xliff:target>
+        <xliff:target state="translated">歓喜の宝飾品</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jewellery of jubilation
@@ -74307,7 +74307,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9289">
         <xliff:source>Jewel of the sun</xliff:source>
-        <xliff:target state="translated">太陽の宝石</xliff:target>
+        <xliff:target state="translated">太陽の宝飾品</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Jewel of the sun
