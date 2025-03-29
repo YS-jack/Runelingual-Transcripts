@@ -381,7 +381,7 @@ Close	閉じる	actions	object	Large open cupboard
 Play	プレイ	actions	object	Church organ
 Use	使う	actions	object	Crevice
 Peek	覗く	actions	object	Crevice
-Private	専用	actions	object	Crevice
+Private	個別	actions	object	Crevice
 Jump	ジャンプ	actions	object	Broken Fence
 Steal-from	盗む	actions	object	Tea stall
 Take	取る	actions	object	Small fishing net

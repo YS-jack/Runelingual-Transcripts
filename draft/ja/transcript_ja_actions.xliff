@@ -3059,7 +3059,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="41640">
         <xliff:source>Private</xliff:source>
-        <xliff:target state="translated">専用</xliff:target>
+        <xliff:target state="translated">個別</xliff:target>
         <xliff:note>category: actions
 sub_category: object
 source: Crevice
