@@ -30634,10 +30634,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120090"><xliff:source>Private </xliff:source><xliff:target state="translated"> 個別 </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120091"><xliff:source> On</xliff:source><xliff:target state="translated"> 有 </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120091"><xliff:source> On</xliff:source><xliff:target state="translated"> 有  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120092"><xliff:source>Channel </xliff:source><xliff:target state="translated"> チャ </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120092"><xliff:source>Channel </xliff:source><xliff:target state="translated"> チャネ </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120093"><xliff:source>Clan </xliff:source><xliff:target state="translated"> クラン </xliff:target><xliff:note>category: interface
@@ -30649,19 +30649,19 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120095"><xliff:source>Group </xliff:source><xliff:target state="translated"> グル </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120096"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;動&lt;/col&gt; </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120096"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;動&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120097"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;友&lt;/col&gt; </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120097"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;友&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120098"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞&lt;/col&gt; </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120098"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120099"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;隠&lt;/col&gt; </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120099"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;隠&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120100"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;無&lt;/col&gt; </xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120100"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;無&lt;/col&gt;  </xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
