@@ -30160,7 +30160,7 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119932"><xliff:source>Slayer - Members Only</xliff:source><xliff:target state="translated">討伐：会員限定</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119933"><xliff:source>Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.</xliff:source><xliff:target state="translated">討伐は、より危険で報酬価値の高いモンスターと戦うことを可能にするスキルです。一部のモンスターは、十分に高いスレイヤーレベルがなければ戦うことができません。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119933"><xliff:source>Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.</xliff:source><xliff:target state="translated">討伐スキルは、より危険で報酬価値の高いモンスターと戦うことを可能にします。一部のモンスターは、十分に高いスレイヤーレベルがなければ戦うことができません。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119934"><xliff:source>To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.</xliff:source><xliff:target state="translated">討伐を始めるには、まず討伐の達人から討伐依頼を受け取る必要があります。その後、指定された討伐対象を倒すことで討伐スキルの経験値を獲得できます。</xliff:target><xliff:note>category: interface
