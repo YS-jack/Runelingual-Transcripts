@@ -2,6 +2,7 @@ english	category	sub_category	source
 Use the buttons below to logout or switch worlds safely.	interface	mainTabs	logoutTab
 Click here to logout	interface	mainTabs	logoutTab
 How much did you enjoy playing Old School RuneScape today?	interface	mainTabs	logoutTab
+World Switcher	interface	mainTabs	logoutTab
 <colNum0>Loading...</col>	interface	mainTabs	worldSwitcherTab
 Right-click on worlds to set them as Favourites.	interface	mainTabs	worldSwitcherTab
 Current world - <Num0>	interface	mainTabs	worldSwitcherTab

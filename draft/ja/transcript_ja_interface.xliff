@@ -30523,6 +30523,9 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120053"><xliff:source>Zeah Runecrafting</xliff:source><xliff:target state="translated">ゼヤでルーン作り</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120054"><xliff:source>World Switcher</xliff:source><xliff:target state="translated">世界変更</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: logoutTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
