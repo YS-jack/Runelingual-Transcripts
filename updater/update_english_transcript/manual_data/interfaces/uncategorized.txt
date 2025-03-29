@@ -1,0 +1,19 @@
+english	category	sub_category	source	notes
+House Options	interface	generalUI		house button in settings tab
+Viewer	interface	generalUI		house button in settings tab
+On	interface	generalUI		house button in settings tab
+Off	interface	generalUI		house button in settings tab
+Building Mode	interface	generalUI		house button in settings tab
+Teleport Inside	interface	generalUI		house button in settings tab
+Default Building Mode	interface	generalUI		house button in settings tab
+Doors	interface	generalUI		house button in settings tab
+Expel Guests	interface	generalUI		house button in settings tab
+Leave House	interface	generalUI		house button in settings tab
+Call Servant	interface	generalUI		house button in settings tab
+Number of rooms: <Num0>	interface	generalUI		house button in settings tab
+Toggle Building mode on and off, allowing construction within your house.	interface	generalUI		house button in settings tab
+Toggle teleport location inside (on) or outside (off) of the house.	interface	generalUI		house button in settings tab
+Toggle Building mode by default when teleport inside the house.	interface	generalUI		house button in settings tab
+Render house doors as initially closed.	interface	generalUI		house button in settings tab
+Render house doors as initially open.	interface	generalUI		house button in settings tab
+Do not render doors.	interface	generalUI		house button in settings tab

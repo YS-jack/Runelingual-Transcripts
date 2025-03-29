@@ -5127,3 +5127,21 @@ Wilderness PK - Free	ウィルダネスPK：無課金	interface	mainTabs	worldSw
 Wilderness PK - Members	ウィルダネスPK：会員	interface	mainTabs	worldSwitcherTab
 Zeah Runecrafting	ゼヤでルーン作り	interface	mainTabs	worldSwitcherTab
 World Switcher	世界変更	interface	mainTabs	logoutTab
+House Options	家の設定	interface	generalUI	
+Viewer	ビューアー	interface	generalUI	
+On	オン	interface	generalUI	
+Off	オフ	interface	generalUI	
+Building Mode	建築モード	interface	generalUI	
+Teleport Inside	家の中へワープ	interface	generalUI	
+Default Building Mode	即値が建築モード	interface	generalUI	
+Doors	ドア	interface	generalUI	
+Expel Guests	来客を追い出す	interface	generalUI	
+Leave House	家を出る	interface	generalUI	
+Call Servant	召使を呼ぶ	interface	generalUI	
+Number of rooms: <Num0>	部屋の数：<Num0>	interface	generalUI	
+Toggle Building mode on and off, allowing construction within your house.	建築モードを切り替えると<br>家具の建築の有効と無効が<br>切り替わります。	interface	generalUI	
+Toggle teleport location inside (on) or outside (off) of the house.	ワープ先が中（オン）か<br>外（オフ）かで選べます。	interface	generalUI	
+Toggle Building mode by default when teleport inside the house.	家に入った際の建築モードを<br>有効にするか無効にするか<br>選択できます。	interface	generalUI	
+Render house doors as initially closed.	家に入るとドアは閉まっている。	interface	generalUI	
+Render house doors as initially open.	家に入るとドアは開いている。	interface	generalUI	
+Do not render doors.	ドアを描写しない。	interface	generalUI	

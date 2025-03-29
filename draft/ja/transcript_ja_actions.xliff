@@ -10862,6 +10862,30 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110112"><xliff:source>Teleport to &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;にワープ</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110113"><xliff:source>Viewer</xliff:source><xliff:target state="translated">ビューアー</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110114"><xliff:source>On</xliff:source><xliff:target state="translated">オン</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110115"><xliff:source>Off</xliff:source><xliff:target state="translated">オフ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110116"><xliff:source>Expel Guests</xliff:source><xliff:target state="translated">来客を追い出す</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110117"><xliff:source>Call Servant</xliff:source><xliff:target state="translated">召使を呼ぶ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110118"><xliff:source>Leave House</xliff:source><xliff:target state="translated">家を出る</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110119"><xliff:source>Open subsection</xliff:source><xliff:target state="translated">サブセクションを開く</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110120"><xliff:source>Move</xliff:source><xliff:target state="translated">動かす</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

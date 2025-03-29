@@ -1584,3 +1584,11 @@ Choose spell	呪文を選択	actions	menu	combatOptionsTab
 Focus	集中	actions	menu	combatOptionsTab
 Join <colNum0><!ANY_TRANSLATED0></col> channel	<colNum0><!ANY_TRANSLATED0></col>のチャンネルに参加	actions	menu	groupTab
 Teleport to <colNum0><!ANY_TRANSLATED0></col>	<colNum0><!ANY_TRANSLATED0></col>にワープ	actions	menu	groupTab
+Viewer	ビューアー	actions	menu	
+On	オン	actions	menu	
+Off	オフ	actions	menu	
+Expel Guests	来客を追い出す	actions	menu	
+Call Servant	召使を呼ぶ	actions	menu	
+Leave House	家を出る	actions	menu	
+Open subsection	サブセクションを開く	actions	menu	
+Move	動かす	actions	menu	

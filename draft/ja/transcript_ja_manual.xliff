@@ -11,7 +11,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109262">
         <xliff:source>Blast Furnace</xliff:source>
-        <xliff:target state="translated">ブラスト・ファーネス</xliff:target>
+        <xliff:target state="translated">ブラファ</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -179,7 +179,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109283">
         <xliff:source>Soul Wars</xliff:source>
-        <xliff:target state="translated">ソウル・ウォーズ</xliff:target>
+        <xliff:target state="translated">魂戦争</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -10052,7 +10052,7 @@ wiki_url: None</xliff:note>
     <xliff:trans-unit id="110524"><xliff:source>Barbarian Assault</xliff:source><xliff:target state="translated">バーバリアン・アサルト</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110525"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラスト・ファーネス</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110525"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラファ</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110526"><xliff:source>Castle Wars</xliff:source><xliff:target state="translated">キャッスル・ウォーズ</xliff:target><xliff:note>category: manual
@@ -10115,7 +10115,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110545"><xliff:source>Theatre of Blood</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110546"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">ソウル・ウォーズ</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110546"><xliff:source>Soul Wars</xliff:source><xliff:target state="translated">魂戦争</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110547"><xliff:source>Shooting Stars</xliff:source><xliff:target state="translated">流れ星</xliff:target><xliff:note>category: manual
