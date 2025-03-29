@@ -1,18 +1,4 @@
 english	category	sub_category	source	notes
-All	interface	generalUI		chat buttons
-Game 	interface	generalUI		chat buttons
- On	interface	generalUI		chat buttons
-Public 	interface	generalUI		chat buttons
-Private 	interface	generalUI		chat buttons
-Channel 	interface	generalUI		chat buttons
-Clan 	interface	generalUI		chat buttons
-Group 	interface	generalUI		chat buttons
-Trade 	interface	generalUI		chat buttons
- <colNum0>Friends</col>	interface	generalUI		chat buttons
- <colNum0>Filtered</col>	interface	generalUI		chat buttons
- <colNum0>Autochat</col>	interface	generalUI		chat buttons
- <colNum0>Off</col>	interface	generalUI		chat buttons
- <colNum0>Hide</col>	interface	generalUI		chat buttons
 House Options	interface	generalUI		house button in settings tab
 Viewer	interface	generalUI		house button in settings tab
 On	interface	generalUI		house button in settings tab

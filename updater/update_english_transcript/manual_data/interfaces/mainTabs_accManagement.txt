@@ -37,3 +37,18 @@ Merchandise	interface	mainTabs	accountManagementTab
 Name: <!PLAYER_NAME0>	interface	mainTabs	accountManagementTab
 Current Poll: <colNum0>Active</col>	interface	mainTabs	accountManagementTab
 Vote Now	interface	mainTabs	accountManagementTab
+All	interface	chatButtons	
+Game 	interface	chatButtons	
+Public 	interface	chatButtons	
+Private 	interface	chatButtons	
+ On	interface	chatButtons	
+Channel 	interface	chatButtons	
+Clan 	interface	chatButtons	
+Trade 	interface	chatButtons	
+Group 	interface	chatButtons	
+ <colNum0>Autochat</col>	interface	chatButtons	
+ <colNum0>Friends</col>	interface	chatButtons	
+ <colNum0>Filtered</col>	interface	chatButtons	
+ <colNum0>Hide</col>	interface	chatButtons	
+ <colNum0>Off</col>	interface	chatButtons	
+ 
