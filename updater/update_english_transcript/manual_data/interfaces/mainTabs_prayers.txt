@@ -12,8 +12,10 @@ Level <Num0><br>Incredible Reflexes<br>Increases your attack by <Num1>%.<br>(Dra
 Level <Num0><br>Sharp Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Mystic Will<br>Increases your magical attack and defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Thick Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
+Level <Num0><br>Protect from Magic<br>Protection from magical attacks.<br>(Drain: <Num1>pt per <Num2>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Protect from Melee<br>Protection from close attacks.<br>(Drain: <Num1>pt per <Num2>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Protect from Missiles<br>Protection from ranged attacks.<br>(Drain: <Num1>pt per <Num2>s)	interface	mainTabs	prayerTab
+Level <Num0><br>Mystic Might<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Rock Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Retribution<br>Inflicts damage to nearby<br>targets if you die.<br>(Drain: <Num1>pt per <Num2>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Eagle Eye<br>Increases your Ranging by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
@@ -31,5 +33,6 @@ Level <Num0><br>Smite<br><Num1>/<Num2> of damage dealt is<br>also removed from<b
 Level <Num0><br>Preserve<br>Boosted stats last <Num1>% longer.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Steel Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Rapid Restore<br><Num1>x restore rate for all stats<br>except Hitpoints and Prayer.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
+Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Clarity of Thought<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 

@@ -30742,6 +30742,15 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120126"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Clarity of Thought&lt;br&gt;Increases your attack by &lt;Num1&gt;%.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;明確な思考&lt;br&gt;攻撃力を&lt;Num1&gt;%上げる。&lt;br&gt;(&lt;Num3&gt;秒で&lt;Num2&gt;&lt;asis&gt;pt&lt;/asis&gt;消費)</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120127"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Protect from Magic&lt;br&gt;Protection from magical attacks.&lt;br&gt;(Drain: &lt;Num1&gt;pt per &lt;Num2&gt;s)</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;魔法防御&lt;br&gt;魔法攻撃から身を守る。&lt;br&gt;(&lt;Num2&gt;秒で&lt;Num1&gt;&lt;asis&gt;pt&lt;/asis&gt;消費)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120128"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Mystic Might&lt;br&gt;Increases your magical attack and defence by &lt;Num1&gt;%, also increases your magic strength by &lt;Num2&gt;%.&lt;br&gt;(Drain: &lt;Num3&gt;pt per &lt;Num4&gt;s)</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;神秘の威力&lt;br&gt;魔法攻撃・守備力を+&lt;Num1&gt;%、&lt;br&gt;魔法ダメージ+&lt;Num2&gt;%。&lt;br&gt;(&lt;Num4&gt;秒で&lt;Num3&gt;&lt;asis&gt;pt&lt;/asis&gt;消費)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120129"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Heal&lt;br&gt;&lt;Num1&gt;x restore rate for&lt;br&gt;Hitpoints stat.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;急激な回復&lt;br&gt;体力回復速度が&lt;br&gt;&lt;Num1&gt;倍になる。&lt;br&gt;(&lt;Num3&gt;秒で&lt;Num2&gt;&lt;asis&gt;pt&lt;/asis&gt;消費)</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
