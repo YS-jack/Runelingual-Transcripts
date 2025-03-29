@@ -1570,7 +1570,7 @@ Channel (Varlamore)	転換（ヴァーラモー）	actions	object	Waystone
 Punch	殴る	actions	menu	combatOptionsTab
 Kick	蹴る	actions	menu	combatOptionsTab
 Unarmed	素手	actions	menu	combatOptionsTab
-(Members)	（会員）	actions	item	
+(Members)	（会員限定）	actions	item	
 Collection Overview	取得アイテム概要	actions	menu	characterSummaryTab
 Hide notifications	通知を非表示	actions	menu	
 Add friend	フレンド追加	actions	menu	groupTab

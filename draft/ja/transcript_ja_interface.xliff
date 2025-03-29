@@ -667,7 +667,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115010">
         <xliff:source>Hitpoints are used to tell you how healthy your character is. A character who reaches &lt;Num0&gt; Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).</xliff:source>
-        <xliff:target state="translated">体力はプレイヤーの健康状態を示します。体力が&lt;Num0&gt;になると死に、リスポーン地点で復活します（通常ランブリッジ）</xliff:target>
+        <xliff:target state="translated">体力はプレイヤーの健康状態を示します。体力が&lt;Num0&gt;になると死に、リスポーン地点で復活します（デフォルトはランブリッジ）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -699,7 +699,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115014">
         <xliff:source>Teal hit splats are venom damage. (Members)</xliff:source>
-        <xliff:target state="translated">暗い緑色のヒットマークは猛毒ダメージです。（会員）</xliff:target>
+        <xliff:target state="translated">暗い緑色のヒットマークは猛毒ダメージです。（会員限定）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -707,7 +707,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115015">
         <xliff:source>Orange hit splats are disease damage. (Members)</xliff:source>
-        <xliff:target state="translated">オレンジ色のヒットマークは感染ダメージです。（会員）</xliff:target>
+        <xliff:target state="translated">オレンジ色のヒットマークは感染ダメージです。（会員限定）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -715,7 +715,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="115016">
         <xliff:source>Dark purple hit splats are corruption damage. (Members)</xliff:source>
-        <xliff:target state="translated">黒紫色のヒットマークは腐敗ダメージです。（会員）</xliff:target>
+        <xliff:target state="translated">黒紫色のヒットマークは腐敗ダメージです。（会員限定）</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -29977,7 +29977,7 @@ source: musicTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119871"><xliff:source>Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.</xliff:source><xliff:target state="translated">攻撃力スキルは近接攻撃の命中率の計算に使われ、レベルが高いほど命中率も高くなります。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119872"><xliff:source>Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.</xliff:source><xliff:target state="translated">また、攻撃力レベルが高いとより強力な武器が装備可能になります。攻撃力ボーナスが高い武器を使うことでも近接攻撃の命中率を上げることができます。攻撃力ボーナスは「装備品のステータス」から確認可能です。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119872"><xliff:source>Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.</xliff:source><xliff:target state="translated">攻撃力レベルが高いとより強力な武器が装備可能になります。攻撃力ボーナスが高い武器を使うことでも近接攻撃の命中率を上げることができます。攻撃力ボーナスは「装備品のステータス」から確認可能です。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119873"><xliff:source>You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.</xliff:source><xliff:target state="translated">攻撃スタイルは、戦闘オプションのタブから選択できます。敵によって特定の攻撃スタイルが弱点だったり耐性があったりするので慎重に選びましょう。</xliff:target><xliff:note>category: interface
@@ -30037,7 +30037,7 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119891"><xliff:source>Herblore - Members Only</xliff:source><xliff:target state="translated">調合：会員限定</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119892"><xliff:source>Herblore allows you to make potions with herbs and ingredients found across Gielinor.</xliff:source><xliff:target state="translated">調合スキルはギレノー各地で入手できる薬草などを使って薬液を作ることができます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119892"><xliff:source>Herblore allows you to make potions with herbs and ingredients found across Gielinor.</xliff:source><xliff:target state="translated">調合スキルでギレノー各地で入手できる薬草等を使って薬液を作ることができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119893"><xliff:source>To make a potion, you first need to clean a grimy herb, then combine it with a vial of water to make an unfinished potion. You can then add the secondary ingredient(s) to complete the potion.</xliff:source><xliff:target state="translated">薬液を作るには、まず汚れた薬草をきれいにし、それを水入り試薬瓶と組み合わせて未完成の薬液を作ります。その後、補助素材を加えることで薬液を完成させることができます。</xliff:target><xliff:note>category: interface
@@ -30052,7 +30052,7 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119896"><xliff:source>As your Fishing level increases, you'll gain access to more varieties of fish to catch, as well as having a higher chance of successfully catching fish when you try.</xliff:source><xliff:target state="translated">釣りレベルが上がると、釣れる魚の種類が増えるだけでなく、釣りの成功率も上がります。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119897"><xliff:source>Your Ranged level determines how accurate you are with ranged weapons, as well as how much damage they do. A higher Ranged level will result in more hits that do more damage.</xliff:source><xliff:target state="translated">遠射レベルは、遠距離武器の命中率と与えるダメージを決定します。上限遠射レベルが高いほど、より多くの攻撃が命中し、より大きなダメージを与えることができます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119897"><xliff:source>Your Ranged level determines how accurate you are with ranged weapons, as well as how much damage they do. A higher Ranged level will result in more hits that do more damage.</xliff:source><xliff:target state="translated">遠射レベルは、遠距離武器の命中率と与えるダメージを決定します。遠射レベルが高いほど、より多くの攻撃が命中し、より大きなダメージを与えることができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119898"><xliff:source>Most ranged weapons will need a specific kind of ammunition to go with them; for instance, bows will need arrows and crossbows will need bolts.</xliff:source><xliff:target state="translated">ほとんどの遠隔武器を使うには特定の種類の弾が必要です。例えば、弓には矢が、クロスボウにはボルトが必要です。</xliff:target><xliff:note>category: interface
@@ -30100,13 +30100,13 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119912"><xliff:source>Crafting is a wide-ranging skill that allows you to create various pieces of armour, jewellery, equipment and more.</xliff:source><xliff:target state="translated">工作は幅広いスキルで、さまざまな防具、宝飾品、装備品などを作成することができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119913"><xliff:source>To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.</xliff:source><xliff:target state="translated">動物の皮から防具を作るには、通常、まず皮をタンナーのところに持って行き、なしてもらう必要があります。その後、針と糸を使って加工します。針と糸は、特定の工作店（Crafting Shop)で入手できます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119913"><xliff:source>To craft armour out of animal hides, you'll typically first need to take the hides to a tanner to get them tanned, then combine them with a needle and thread, which can be acquired from certain crafting shops in the world.</xliff:source><xliff:target state="translated">動物の皮から防具を作るには、通常、まず皮をタンナーのところに持って行き、なしてもらう必要があります。その後、針と糸を使って加工します。針と糸は、特定の工作店で入手できます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119914"><xliff:source>To make pottery, you'll need to obtain some soft clay, obtained by adding water to clay. You can then use a pottery wheel to shape the clay into an unfired item, which you can then finish in a pottery oven.</xliff:source><xliff:target state="translated">陶器を作るには、粘土に水を加えて得られる柔らかい粘土を用意する必要があります。その後、陶芸用のろくろを使って粘土を形作り、未焼成のアイテムを作ります。それを陶芸用の窯で焼き上げて完成させることができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119915"><xliff:source>To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!</xliff:source><xliff:target state="translated">宝飾品を作るには、まずクラフティング用の型（モールド）を手に入れる必要があります。鋳型と金または銀の延べ棒を炉に持って行くことで、宝飾品を作ることができます。工作レベルが上がると、宝石をカットしながら型に入れて加工し、魔法付与可能な宝飾品を作れるようになります！</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119915"><xliff:source>To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!</xliff:source><xliff:target state="translated">宝飾品を作るには、まずクラフティング用の鋳型を手に入れる必要があります。鋳型と金または銀の延べ棒を炉に持って行くことで、宝飾品を作ることができます。工作レベルが上がると、宝石をカットしながら型に入れて加工し、魔法付与可能な宝飾品を作れるようになります！</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119916"><xliff:source>Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.</xliff:source><xliff:target state="translated">火起こしスキルは、火を起こすためのスキルです。火口箱を丸太に使うことで、火をつけようとし始めます。</xliff:target><xliff:note>category: interface
@@ -30118,7 +30118,7 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119918"><xliff:source>Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.</xliff:source><xliff:target state="translated">魔法スキルは様々な呪文を使用可能にします。各呪文を唱えるには、特定の種類のルーンが必要です。必要なルーンは、呪文タブやこのスキルガイドのタブで呪文を確認することで確認できます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119919"><xliff:source>You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.</xliff:source><xliff:target state="translated">特定の装備を使用することで、ルーンを節約して呪文を唱えることができます。例えば、装備した大気の杖は無限のエアルーンとして扱われます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119919"><xliff:source>You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.</xliff:source><xliff:target state="translated">特定の装備を使用することで、ルーンを節約して呪文を唱えることができます。例えば、装備した大気の杖は無限の大気ルーンとして扱われます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119920"><xliff:source>Staves can also be used to auto-cast certain offensive spells in combat; to enable this, equip your staff, go to the Combat Options side panel, and select one of the 'Spell' options.</xliff:source><xliff:target state="translated">杖や笏は戦闘中に特定の攻撃呪文を自動で唱えるためにも使用できます。まず杖を装備し、戦闘オプションのサイドパネルに移動して、「呪文」オプションから選択してください。</xliff:target><xliff:note>category: interface
@@ -30136,10 +30136,10 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119924"><xliff:source>To create arrows, you'll first need to carve logs into arrow shafts with a knife, then tip the arrow shafts with feathers. Finally, you'll need to add some arrow heads.</xliff:source><xliff:target state="translated">矢を作るには、まず丸太をナイフで加工して矢のシャフトを作り、その後、シャフトに羽を取り付ける必要があります。最後に、矢じりを取り付ければ完成です。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119925"><xliff:source>To make bolts, you only need to combine unfinished bolts with feathers. You can also chisel gemstones down into bolt tips, with each gemstone being able to top a different bolt.</xliff:source><xliff:target state="translated">ボルトを作るには、鍛冶で作った未完成のボルトに羽を取り付けるだけで完成します。また、ノミで宝石を彫刻してボルトの先端に取り付けるボルトチップを作ることができます。宝石の種類によって、対応するボルトが異なります。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119925"><xliff:source>To make bolts, you only need to combine unfinished bolts with feathers. You can also chisel gemstones down into bolt tips, with each gemstone being able to top a different bolt.</xliff:source><xliff:target state="translated">ボルトを作るには鍛冶で作った未完成のボルトに羽を取り付けます。また、ノミで宝石を彫ってボルトの先端に取り付けるボルトチップを作れます。宝石の種類によって、対応するボルトが異なります。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119926"><xliff:source>Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.</xliff:source><xliff:target state="translated">木こりは、木を伐採して丸太を手に入れることができるスキルです。ゲーム内のほとんどの木は、斧を使って伐採することができます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119926"><xliff:source>Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.</xliff:source><xliff:target state="translated">木こりは、木を伐採して丸太を手に入れることができるスキルです。ほとんどの木は斧を使って伐採することができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119927"><xliff:source>Increasing your Woodcutting level will give you a higher chance of successfully chopping a tree. You'll also gain access to more trees to cut down.</xliff:source><xliff:target state="translated">木こりレベルを上げることで、木を伐採する成功率が高くなります。さらに、伐採できる木の種類も増えていきます。</xliff:target><xliff:note>category: interface
@@ -30178,7 +30178,7 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119938"><xliff:source>To get started, you'll need some seeds and a seed dibber, as well as a rake to de-weed the patch you want to use.</xliff:source><xliff:target state="translated">農業スキルを上げるには、種と種まき器、さらに植える畑の雑草を取り除くための熊手が必要です。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119939"><xliff:source>Once you've cleared the patch, you can add your seed to it. You can also optionally water it with a watering can or add a bucket of compost to decrease the chances of your plant becoming diseased.</xliff:source><xliff:target state="translated">雑草を掻き抜いたら種を植えます。また、任意でジョウロで水をやったり、バケツに入った堆肥を加えたりすることで、植物が病気になる可能性を減らすことができます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119939"><xliff:source>Once you've cleared the patch, you can add your seed to it. You can also optionally water it with a watering can or add a bucket of compost to decrease the chances of your plant becoming diseased.</xliff:source><xliff:target state="translated">雑草を掻き抜いたら種を植えます。任意でジョウロで水をやったり、バケツに入った堆肥を加えたりすることで、植物が病気になる可能性を減らすことができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119940"><xliff:source>It'll take a while for your plant to grow, so feel free to explore the world and come back to it later!</xliff:source><xliff:target state="translated">植物が成長するまでには時間がかかるので、世界を探索しながら後で戻ってきても大丈夫です！</xliff:target><xliff:note>category: interface
@@ -30211,7 +30211,7 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119949"><xliff:source>Hunter - Members Only</xliff:source><xliff:target state="translated">狩人：会員限定</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119950"><xliff:source>Hunter lets you track and catch a wide variety of wildlife, granting access to various unique materials in the process.</xliff:source><xliff:target state="translated">狩人は、さまざまな野生動物を追跡して捕獲することができるスキルで、その過程でさまざまなユニークな素材を入手することができます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119950"><xliff:source>Hunter lets you track and catch a wide variety of wildlife, granting access to various unique materials in the process.</xliff:source><xliff:target state="translated">狩人は、さまざまな野生動物を追跡して捕獲することができるスキルで、ユニークな素材を入手することができます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119951"><xliff:source>Each animal you can hunt will typically be found in a specfic locale, and will require different gear. Make sure you come prepared!</xliff:source><xliff:target state="translated">狩猟できる動物は通常特定の地域に生息しており、それぞれ異なる装備が必要になります。しっかり準備しましょう！</xliff:target><xliff:note>category: interface

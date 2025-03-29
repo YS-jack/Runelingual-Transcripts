@@ -10820,7 +10820,7 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110098"><xliff:source>Unarmed</xliff:source><xliff:target state="translated">素手</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110099"><xliff:source>(Members)</xliff:source><xliff:target state="translated">（会員）</xliff:target><xliff:note>category: actions
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110099"><xliff:source>(Members)</xliff:source><xliff:target state="translated">（会員限定）</xliff:target><xliff:note>category: actions
 sub_category: item
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110100"><xliff:source>Collection Overview</xliff:source><xliff:target state="translated">取得アイテム概要</xliff:target><xliff:note>category: actions
