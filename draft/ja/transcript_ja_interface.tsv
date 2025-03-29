@@ -5027,3 +5027,7 @@ Each animal you can hunt will typically be found in a specfic locale, and will r
 As your Hunter level improves, not only will you be able to hunt a wider variety of creatures, but you'll also be able to maintain more traps simultaneously, and they will successfully trap creatures more often.	ハンターレベルが上がると、狩猟できる生物の種類が増えるだけでなく、同時に設置できる罠の数が増え、罠が成功する確率も高くなります。	interface	generalUI	skillGuide
 You are currently talking in the <colNum0><!ANY_TRANSLATED0></col> channel.	現在<colNum0><!ANY_TRANSLATED0></col>のチャンネルに参加中	interface	mainTabs	groupTab
 You have currently loaded <colNum0><!PLAYER_NAME0></col>, which is not a PvP Arena group.	見学中のクラン<colNum0><!PLAYER_NAME0></col>はPvPアリーナのクランではありません。	interface	mainTabs	groupTab
+Time Played: <colNum0><Num0> days, <Num1> minutes</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> minute</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> minutes</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> minute</col>	プレイ時間：<colNum0><Num0>日<Num1>分</col>	interface	mainTabs	characterSummaryTab

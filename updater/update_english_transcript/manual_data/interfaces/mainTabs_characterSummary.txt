@@ -9,8 +9,12 @@ Collections Logged:	interface	mainTabs	characterSummaryTab
 Time Played: Click to reveal.	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> days, <Num1> hours</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> days, <Num1> hour</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> minutes</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> days, <Num1> minute</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> day, <Num1> hours</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> day, <Num1> hour</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> minutes</col>	interface	mainTabs	characterSummaryTab
+Time Played: <colNum0><Num0> day, <Num1> minute</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> hours, <Num1> minutes</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> hours, <Num1> minute</col>	interface	mainTabs	characterSummaryTab
 Time Played: <colNum0><Num0> hour, <Num1> minutes</col>	interface	mainTabs	characterSummaryTab
