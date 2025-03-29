@@ -30256,19 +30256,19 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119964"><xliff:source>Current world - &lt;Num0&gt;</xliff:source><xliff:target state="translated">今いる世界：&lt;Num0&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119965"><xliff:source>&lt;Num0&gt; skill to...</xliff:source><xliff:target state="translated">Lv計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119965"><xliff:source>&lt;Num0&gt; skill to...</xliff:source><xliff:target state="translated">合計Lv&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119966"><xliff:source>&lt;Num0&gt; skill t...</xliff:source><xliff:target state="translated">Lv計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119966"><xliff:source>&lt;Num0&gt; skill t...</xliff:source><xliff:target state="translated">合計Lv&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119967"><xliff:source>&lt;Num0&gt; skill total</xliff:source><xliff:target state="translated">Lv計&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119967"><xliff:source>&lt;Num0&gt; skill total</xliff:source><xliff:target state="translated">合計Lv&lt;asis&gt;&lt;Num0&gt;&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119968"><xliff:source>Agility Train...</xliff:source><xliff:target state="translated">運動</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119969"><xliff:source>Barbarian A...</xliff:source><xliff:target state="translated">バーバ・アサ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119969"><xliff:source>Barbarian A...</xliff:source><xliff:target state="translated">バーバアサ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119970"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラファ</xliff:target><xliff:note>category: interface
@@ -30292,7 +30292,7 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119976"><xliff:source>Clan Recruit...</xliff:source><xliff:target state="translated">クラン勧誘</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119977"><xliff:source>Clan Wars - ...</xliff:source><xliff:target state="translated">クラン戦&lt;asis&gt;FFA&lt;/asis&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119977"><xliff:source>Clan Wars - ...</xliff:source><xliff:target state="translated">クラン対戦</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119978"><xliff:source>Deadman</xliff:source><xliff:target state="translated">デッドマン</xliff:target><xliff:note>category: interface
@@ -30331,7 +30331,7 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119989"><xliff:source>Locked Deve...</xliff:source><xliff:target state="translated">開発用</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119990"><xliff:source>Mort'ton te...</xliff:source><xliff:target state="translated">モートン・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119990"><xliff:source>Mort'ton te...</xliff:source><xliff:target state="translated">モートン等</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119991"><xliff:source>Nex FFA</xliff:source><xliff:target state="translated">ネックス</xliff:target><xliff:note>category: interface
@@ -30346,13 +30346,13 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119994"><xliff:source>Pest Control</xliff:source><xliff:target state="translated">害獣駆除</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119995"><xliff:source>PvP Arena (...</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;アリーナ(</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119995"><xliff:source>PvP Arena (...</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;アリーナ</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119996"><xliff:source>PvP World</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;の世界</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119997"><xliff:source>PvP World -...</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;の世界・・・</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119997"><xliff:source>PvP World -...</xliff:source><xliff:target state="translated">&lt;asis&gt;PvP&lt;/asis&gt;・・・</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119998"><xliff:source>Pyramid Plu...</xliff:source><xliff:target state="translated">略奪ピラ</xliff:target><xliff:note>category: interface

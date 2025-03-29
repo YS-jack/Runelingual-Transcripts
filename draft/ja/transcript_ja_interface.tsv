@@ -5037,11 +5037,11 @@ How much did you enjoy playing Old School RuneScape today?	オールドスクー
 <colNum0>Loading...</col>	<colNum0>ロード中...</col>	interface	mainTabs	worldSwitcherTab
 Right-click on worlds to set them as Favourites.	世界を右クリックするとお気に入り追加できます。	interface	mainTabs	worldSwitcherTab
 Current world - <Num0>	今いる世界：<Num0>	interface	mainTabs	worldSwitcherTab
-<Num0> skill to...	Lv計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
-<Num0> skill t...	Lv計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
-<Num0> skill total	Lv計<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill to...	合計Lv<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill t...	合計Lv<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
+<Num0> skill total	合計Lv<asis><Num0></asis>	interface	mainTabs	worldSwitcherTab
 Agility Train...	運動	interface	mainTabs	worldSwitcherTab
-Barbarian A...	バーバ・アサ	interface	mainTabs	worldSwitcherTab
+Barbarian A...	バーバアサ	interface	mainTabs	worldSwitcherTab
 Blast Furnace	ブラファ	interface	mainTabs	worldSwitcherTab
 Bounty Hunt...	バウハン	interface	mainTabs	worldSwitcherTab
 Brimhaven ...	ブリム運動	interface	mainTabs	worldSwitcherTab
@@ -5049,7 +5049,7 @@ Burthorpe G...	バーソ娯楽	interface	mainTabs	worldSwitcherTab
 Castle Wars...	城戦争	interface	mainTabs	worldSwitcherTab
 Castle Wars <Num0>	城戦争<Num0>	interface	mainTabs	worldSwitcherTab
 Clan Recruit...	クラン勧誘	interface	mainTabs	worldSwitcherTab
-Clan Wars - ...	クラン戦<asis>FFA</asis>	interface	mainTabs	worldSwitcherTab
+Clan Wars - ...	クラン対戦	interface	mainTabs	worldSwitcherTab
 Deadman	デッドマン	interface	mainTabs	worldSwitcherTab
 Falador Part...	ファラパテ	interface	mainTabs	worldSwitcherTab
 Fishing Traw...	トロ漁船	interface	mainTabs	worldSwitcherTab
@@ -5062,14 +5062,14 @@ House Party...	家パーティ	interface	mainTabs	worldSwitcherTab
 LMS Casual	<asis>LMS</asis>カジュ	interface	mainTabs	worldSwitcherTab
 LMS Competi...	<asis>LMS</asis>競技	interface	mainTabs	worldSwitcherTab
 Locked Deve...	開発用	interface	mainTabs	worldSwitcherTab
-Mort'ton te...	モートン・・	interface	mainTabs	worldSwitcherTab
+Mort'ton te...	モートン等	interface	mainTabs	worldSwitcherTab
 Nex FFA	ネックス	interface	mainTabs	worldSwitcherTab
 Nightmare o...	アシハ悪夢	interface	mainTabs	worldSwitcherTab
 Ourania Altar	ウラ祭壇	interface	mainTabs	worldSwitcherTab
 Pest Control	害獣駆除	interface	mainTabs	worldSwitcherTab
-PvP Arena (...	<asis>PvP</asis>アリーナ(	interface	mainTabs	worldSwitcherTab
+PvP Arena (...	<asis>PvP</asis>アリーナ	interface	mainTabs	worldSwitcherTab
 PvP World	<asis>PvP</asis>の世界	interface	mainTabs	worldSwitcherTab
-PvP World -...	<asis>PvP</asis>の世界・・・	interface	mainTabs	worldSwitcherTab
+PvP World -...	<asis>PvP</asis>・・・	interface	mainTabs	worldSwitcherTab
 Pyramid Plu...	略奪ピラ	interface	mainTabs	worldSwitcherTab
 Role-playing	ロープレ	interface	mainTabs	worldSwitcherTab
 Royal Titans	高貴な巨人	interface	mainTabs	worldSwitcherTab
