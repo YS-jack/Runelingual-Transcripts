@@ -5160,16 +5160,16 @@ Trade 	取引 	interface	generalUI
  <colNum0>Off</col>	 <colNum0>無</col>	interface	generalUI	
  <colNum0>Hide</col>	 <colNum0>隠</col>	interface	generalUI	
 All	全て	interface	chatButtons	
-Game 	ゲー 	interface	chatButtons	
-Public 	公共 	interface	chatButtons	
-Private 	個別 	interface	chatButtons	
- On	 有	interface	chatButtons	
-Channel 	チャ 	interface	chatButtons	
-Clan 	クラ 	interface	chatButtons	
-Trade 	取引 	interface	chatButtons	
-Group 	グル 	interface	chatButtons	
- <colNum0>Autochat</col>	 <colNum0>動</col>	interface	chatButtons	
- <colNum0>Friends</col>	 <colNum0>友</col>	interface	chatButtons	
- <colNum0>Filtered</col>	 <colNum0>絞</col>	interface	chatButtons	
- <colNum0>Hide</col>	 <colNum0>隠</col>	interface	chatButtons	
- <colNum0>Off</col>	 <colNum0>無</col>	interface	chatButtons	
+Game 	 ゲーム 	interface	chatButtons	
+Public 	 公共 	interface	chatButtons	
+Private 	 個別 	interface	chatButtons	
+ On	 有 	interface	chatButtons	
+Channel 	 チャ 	interface	chatButtons	
+Clan 	 クラン 	interface	chatButtons	
+Trade 	 取引 	interface	chatButtons	
+Group 	 グル 	interface	chatButtons	
+ <colNum0>Autochat</col>	 <colNum0>動</col> 	interface	chatButtons	
+ <colNum0>Friends</col>	 <colNum0>友</col> 	interface	chatButtons	
+ <colNum0>Filtered</col>	 <colNum0>絞</col> 	interface	chatButtons	
+ <colNum0>Hide</col>	 <colNum0>隠</col> 	interface	chatButtons	
+ <colNum0>Off</col>	 <colNum0>無</col> 	interface	chatButtons	
