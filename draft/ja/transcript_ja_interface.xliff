@@ -30619,7 +30619,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120085"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;オフ&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120086"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;非表示&lt;/col	&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120086"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;非表示&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120087"><xliff:source>All</xliff:source><xliff:target state="translated">全て</xliff:target><xliff:note>category: interface
@@ -30658,7 +30658,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120098"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞込&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120099"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;非表示&lt;/col	&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120099"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;非表示&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: chatButtons
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120100"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;オフ&lt;/col&gt;</xliff:target><xliff:note>category: interface
