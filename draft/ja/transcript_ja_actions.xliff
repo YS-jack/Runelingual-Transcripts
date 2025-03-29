@@ -10856,6 +10856,12 @@ source: combatOptionsTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110110"><xliff:source>Focus</xliff:source><xliff:target state="translated">集中</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: combatOptionsTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110111"><xliff:source>Join &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルに参加</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110112"><xliff:source>Teleport to &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;にワープ</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
