@@ -19,7 +19,7 @@ View another clan	interface	mainTabs	groupTab
 <colNum0>Find</col>	interface	mainTabs	groupTab
 <colNum0>Fetching data...</col>	interface	mainTabs	groupTab
 PvP Arena	interface	mainTabs	groupTab
-You have currently loaded <col=ffb83f><!PLAYER_NAME0></col>, which is not a PvP Arena group.	interface	mainTabs	groupTab	interface	mainTabs	groupTab
+You have currently loaded <colNum0><!PLAYER_NAME0></col>, which is not a PvP Arena group.	interface	mainTabs	groupTab	interface	mainTabs	groupTab
 Options	interface	mainTabs	groupTab
 Grouping	interface	mainTabs	groupTab
 Select an activity...	interface	mainTabs	groupTab

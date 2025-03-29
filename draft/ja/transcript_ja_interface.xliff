@@ -30223,6 +30223,9 @@ source: skillGuide
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119953"><xliff:source>You are currently talking in the &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel.</xliff:source><xliff:target state="translated">現在&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルに参加中</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="119954"><xliff:source>You have currently loaded &lt;colNum0&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;, which is not a PvP Arena group.</xliff:source><xliff:target state="translated">見学中のクラン&lt;colNum0&gt;&lt;!PLAYER_NAME0&gt;&lt;/col&gt;はPvPアリーナのクランではありません。</xliff:target><xliff:note>category: interface
+sub_category: mainTabs
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
