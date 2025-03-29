@@ -30565,7 +30565,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120067"><xliff:source>Toggle Building mode on and off, allowing construction within your house.</xliff:source><xliff:target state="translated">建築モードを切り替えると&lt;br&gt;家具の建築の有効と無効が&lt;br&gt;切り替わります。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120068"><xliff:source>Toggle teleport location inside (on) or outside (off) of the house.</xliff:source><xliff:target state="translated">ワープ先が中（オン）か&lt;br&gt;外（オフ）かで選べます。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120068"><xliff:source>Toggle teleport location inside (on) or outside (off) of the house.</xliff:source><xliff:target state="translated">ワープ先が中（オン）か&lt;br&gt;外（オフ）か選べます。</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120069"><xliff:source>Toggle Building mode by default when teleport inside the house.</xliff:source><xliff:target state="translated">家に入った際の建築モードを&lt;br&gt;有効にするか無効にするか&lt;br&gt;選択できます。</xliff:target><xliff:note>category: interface
@@ -30578,6 +30578,48 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120071"><xli
 sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120072"><xliff:source>Do not render doors.</xliff:source><xliff:target state="translated">ドアを描写しない。</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120073"><xliff:source>All</xliff:source><xliff:target state="translated">全て</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120074"><xliff:source>Game </xliff:source><xliff:target state="translated">ゲーム </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120075"><xliff:source> On</xliff:source><xliff:target state="translated"> オン</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120076"><xliff:source>Public </xliff:source><xliff:target state="translated">公共 </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120077"><xliff:source>Private </xliff:source><xliff:target state="translated">専用 </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120078"><xliff:source>Channel </xliff:source><xliff:target state="translated">転換 </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120079"><xliff:source>Clan </xliff:source><xliff:target state="translated">クラン </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120080"><xliff:source>Group </xliff:source><xliff:target state="translated">グループ </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120081"><xliff:source>Trade </xliff:source><xliff:target state="translated">取引 </xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120082"><xliff:source> &lt;colNum0&gt;Friends&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;友達&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120083"><xliff:source> &lt;colNum0&gt;Filtered&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;絞込&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120084"><xliff:source> &lt;colNum0&gt;Autochat&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;自動&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120085"><xliff:source> &lt;colNum0&gt;Off&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;オフ&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120086"><xliff:source> &lt;colNum0&gt;Hide&lt;/col&gt;</xliff:source><xliff:target state="translated"> &lt;colNum0&gt;非表示&lt;/col	&gt;</xliff:target><xliff:note>category: interface
 sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>

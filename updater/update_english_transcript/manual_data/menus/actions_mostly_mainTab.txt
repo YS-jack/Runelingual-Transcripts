@@ -58,6 +58,10 @@ Filter public chat	actions	menu
 <colNum0>Group:</col> Show none	actions	menu	
 <colNum0>Group:</col> Show friends	actions	menu	
 <colNum0>Group:</col> Show all	actions	menu	
+<colNum0>Trade:</col> Clear history	actions	menu	
+<colNum0>Trade:</col> Show none	actions	menu	
+<colNum0>Trade:</col> Show friends	actions	menu	
+<colNum0>Trade:</col> Show all	actions	menu	
 Report game bug	actions	menu	
 Report abuse	actions	menu	
 Combat Options	actions	menu	

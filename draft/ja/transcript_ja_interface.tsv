@@ -5140,8 +5140,22 @@ Leave House	家を出る	interface	generalUI
 Call Servant	召使を呼ぶ	interface	generalUI	
 Number of rooms: <Num0>	部屋の数：<Num0>	interface	generalUI	
 Toggle Building mode on and off, allowing construction within your house.	建築モードを切り替えると<br>家具の建築の有効と無効が<br>切り替わります。	interface	generalUI	
-Toggle teleport location inside (on) or outside (off) of the house.	ワープ先が中（オン）か<br>外（オフ）かで選べます。	interface	generalUI	
+Toggle teleport location inside (on) or outside (off) of the house.	ワープ先が中（オン）か<br>外（オフ）か選べます。	interface	generalUI	
 Toggle Building mode by default when teleport inside the house.	家に入った際の建築モードを<br>有効にするか無効にするか<br>選択できます。	interface	generalUI	
 Render house doors as initially closed.	家に入るとドアは閉まっている。	interface	generalUI	
 Render house doors as initially open.	家に入るとドアは開いている。	interface	generalUI	
 Do not render doors.	ドアを描写しない。	interface	generalUI	
+All	全て	interface	generalUI	
+Game 	ゲーム 	interface	generalUI	
+ On	 オン	interface	generalUI	
+Public 	公共 	interface	generalUI	
+Private 	専用 	interface	generalUI	
+Channel 	転換 	interface	generalUI	
+Clan 	クラン 	interface	generalUI	
+Group 	グループ 	interface	generalUI	
+Trade 	取引 	interface	generalUI	
+ <colNum0>Friends</col>	 <colNum0>友達</col>	interface	generalUI	
+ <colNum0>Filtered</col>	 <colNum0>絞込</col>	interface	generalUI	
+ <colNum0>Autochat</col>	 <colNum0>自動</col>	interface	generalUI	
+ <colNum0>Off</col>	 <colNum0>オフ</col>	interface	generalUI	
+ <colNum0>Hide</col>	" <colNum0>非表示</col	>"	interface	generalUI	
