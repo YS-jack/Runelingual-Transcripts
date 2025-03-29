@@ -13603,7 +13603,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="116627">
         <xliff:source>Wintertodt</xliff:source>
-        <xliff:target state="translated">ウィントド</xliff:target>
+        <xliff:target state="translated">ウィント</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -30403,10 +30403,10 @@ source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120013"><xliff:source>Volcanic Mine</xliff:source><xliff:target state="translated">火山鉱山</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120014"><xliff:source>Wilderness ...</xliff:source><xliff:target state="translated">ウィルダ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120014"><xliff:source>Wilderness ...</xliff:source><xliff:target state="translated">ウィダPK</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120015"><xliff:source>Wintertodt</xliff:source><xliff:target state="translated">ウィントド</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120015"><xliff:source>Wintertodt</xliff:source><xliff:target state="translated">ウィント</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: worldSwitcherTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120016"><xliff:source>Zalcano</xliff:source><xliff:target state="translated">ザルカーノ</xliff:target><xliff:note>category: interface

@@ -1699,7 +1699,7 @@ Cave goblin mining helmets	洞窟ゴブリンの採掘ヘルメット	interface	
 Abyssal Lantern (with magic logs)	深淵のランタン（魔法の丸太）	interface	generalUI	skillGuide
 Create infernal axe (with <Num0> Woodcutting)	獄炎の斧を作る（木こり<Num0>も）	interface	generalUI	skillGuide
 Abyssal Lantern (with redwood logs)	深淵のランタン（セコイアの丸太）	interface	generalUI	skillGuide
-Wintertodt	ウィントド	interface	generalUI	skillGuide
+Wintertodt	ウィント	interface	generalUI	skillGuide
 Fire of Eternal Light (with <Num0> Construction)	不滅の光の火（建築<Num0>も）	interface	generalUI	skillGuide
 Fire of Nourishment (with <Num0> Construction)	滋養の火（建築<Num0>も）	interface	generalUI	skillGuide
 Fire of Dehumidification (with <Num0> Construction)	除湿の火（建築<Num0>も）	interface	generalUI	skillGuide
@@ -5086,8 +5086,8 @@ Trouble Bre...	醸造トラ	interface	mainTabs	worldSwitcherTab
 TzHaar Fight...	ツザ闘技場	interface	mainTabs	worldSwitcherTab
 Varlamore P...	ヴァラ<asis>PvP</asis>	interface	mainTabs	worldSwitcherTab
 Volcanic Mine	火山鉱山	interface	mainTabs	worldSwitcherTab
-Wilderness ...	ウィルダ	interface	mainTabs	worldSwitcherTab
-Wintertodt	ウィントド	interface	mainTabs	worldSwitcherTab
+Wilderness ...	ウィダPK	interface	mainTabs	worldSwitcherTab
+Wintertodt	ウィント	interface	mainTabs	worldSwitcherTab
 Zalcano	ザルカーノ	interface	mainTabs	worldSwitcherTab
 Zeah Runec...	ゼヤルーン	interface	mainTabs	worldSwitcherTab
 Agility Training	運動神経トレーニング	interface	mainTabs	worldSwitcherTab
