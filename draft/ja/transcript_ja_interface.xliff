@@ -30751,6 +30751,45 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120129"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Heal&lt;br&gt;&lt;Num1&gt;x restore rate for&lt;br&gt;Hitpoints stat.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;急激な回復&lt;br&gt;体力回復速度が&lt;br&gt;&lt;Num1&gt;倍になる。&lt;br&gt;(&lt;Num3&gt;秒で&lt;Num2&gt;&lt;asis&gt;pt&lt;/asis&gt;消費)</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120130"><xliff:source>Welcome to Old School RuneScape</xliff:source><xliff:target state="translated">オールドスクール・ルーンスケープへようこそ</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120131"><xliff:source>You last logged in a minute ago.</xliff:source><xliff:target state="translated">最終ログインは１分前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120132"><xliff:source>You have &lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt; days of membership left.</xliff:source><xliff:target state="translated">会員権は残り&lt;colNum0&gt;&lt;Num0&gt;&lt;/col&gt;日です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120133"><xliff:source>You have &lt;Num0&gt; unread messages in your inbox.</xliff:source><xliff:target state="translated">受信箱に&lt;Num0&gt;件の未読メッセージがあります。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120134"><xliff:source>CLICK HERE TO PLAY</xliff:source><xliff:target state="translated">クリックでプレイ</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120135"><xliff:source>It's been some time coming but this weeks update contains almost all of the QoL changes as proposed in &lt;colNum0&gt;Poll &lt;Num0&gt;&lt;/col&gt;! With a variety of changes, please check out the &lt;colNum1&gt;update post&lt;/col&gt; for all the latest info!</xliff:source><xliff:target state="translated">時間がかかりましたが、今週のアップデートには&lt;colNum0&gt;投票&lt;Num0&gt;&lt;/col&gt;で提案されたほぼすべてのQoL改善が含まれています！様々な変更点がありますので、詳細は&lt;colNum1&gt;アップデート情報&lt;/col&gt;をご確認ください！</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120136"><xliff:source>You last logged in &lt;Num0&gt; hours ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;時間前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120137"><xliff:source>You last logged in &lt;Num0&gt; days ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;日前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120138"><xliff:source>You last logged in &lt;Num0&gt; hours, &lt;Num1&gt; minutes ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;時間&lt;Num1&gt;分前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120139"><xliff:source>You last logged in &lt;Num0&gt; days, &lt;Num1&gt; hours ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;日&lt;Num1&gt;時間前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120140"><xliff:source>You last logged in &lt;Num0&gt; days, &lt;Num1&gt; minutes ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;日&lt;Num1&gt;分前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120141"><xliff:source>You last logged in &lt;Num0&gt; days, &lt;Num1&gt; hours, &lt;Num2&gt; minutes ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;日&lt;Num1&gt;時間&lt;Num2&gt;分前です。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120142"><xliff:source>You are not a member. Subscribe to access extra skills, areas, quests, and more.</xliff:source><xliff:target state="translated">現在、会員ではありません。会員登録すると、追加のスキル、エリア、クエストなどにアクセスできます。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

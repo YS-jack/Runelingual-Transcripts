@@ -5202,3 +5202,16 @@ Level <Num0><br>Clarity of Thought<br>Increases your attack by <Num1>%.<br>(Drai
 Level <Num0><br>Protect from Magic<br>Protection from magical attacks.<br>(Drain: <Num1>pt per <Num2>s)	レベル<Num0><br>魔法防御<br>魔法攻撃から身を守る。<br>(<Num2>秒で<Num1><asis>pt</asis>消費)	interface	mainTabs	prayerTab
 Level <Num0><br>Mystic Might<br>Increases your magical attack and defence by <Num1>%, also increases your magic strength by <Num2>%.<br>(Drain: <Num3>pt per <Num4>s)	レベル<Num0><br>神秘の威力<br>魔法攻撃・守備力を+<Num1>%、<br>魔法ダメージ+<Num2>%。<br>(<Num4>秒で<Num3><asis>pt</asis>消費)	interface	mainTabs	prayerTab
 Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.<br>(Drain: <Num2>pt per <Num3>s)	レベル<Num0><br>急激な回復<br>体力回復速度が<br><Num1>倍になる。<br>(<Num3>秒で<Num2><asis>pt</asis>消費)	interface	mainTabs	prayerTab
+Welcome to Old School RuneScape	オールドスクール・ルーンスケープへようこそ	interface	loginScreen	
+You last logged in a minute ago.	最終ログインは１分前です。	interface	loginScreen	
+You have <colNum0><Num0></col> days of membership left.	会員権は残り<colNum0><Num0></col>日です。	interface	loginScreen	
+You have <Num0> unread messages in your inbox.	受信箱に<Num0>件の未読メッセージがあります。	interface	loginScreen	
+CLICK HERE TO PLAY	クリックでプレイ	interface	loginScreen	
+It's been some time coming but this weeks update contains almost all of the QoL changes as proposed in <colNum0>Poll <Num0></col>! With a variety of changes, please check out the <colNum1>update post</col> for all the latest info!	時間がかかりましたが、今週のアップデートには<colNum0>投票<Num0></col>で提案されたほぼすべてのQoL改善が含まれています！様々な変更点がありますので、詳細は<colNum1>アップデート情報</col>をご確認ください！	interface	loginScreen	
+You last logged in <Num0> hours ago.	最終ログインは<Num0>時間前です。	interface	loginScreen	
+You last logged in <Num0> days ago.	最終ログインは<Num0>日前です。	interface	loginScreen	
+You last logged in <Num0> hours, <Num1> minutes ago.	最終ログインは<Num0>時間<Num1>分前です。	interface	loginScreen	
+You last logged in <Num0> days, <Num1> hours ago.	最終ログインは<Num0>日<Num1>時間前です。	interface	loginScreen	
+You last logged in <Num0> days, <Num1> minutes ago.	最終ログインは<Num0>日<Num1>分前です。	interface	loginScreen	
+You last logged in <Num0> days, <Num1> hours, <Num2> minutes ago.	最終ログインは<Num0>日<Num1>時間<Num2>分前です。	interface	loginScreen	
+You are not a member. Subscribe to access extra skills, areas, quests, and more.	現在、会員ではありません。会員登録すると、追加のスキル、エリア、クエストなどにアクセスできます。	interface	loginScreen	
