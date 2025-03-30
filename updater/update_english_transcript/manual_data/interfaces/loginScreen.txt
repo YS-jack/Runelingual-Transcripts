@@ -1,6 +1,7 @@
 english	category	sub_category	source
 Welcome to Old School RuneScape	interface	loginScreen	
 You last logged in a minute ago.	interface	loginScreen	
+You last logged in <Num0> minutes ago.	interface	loginScreen	
 You last logged in <Num0> hours ago.	interface	loginScreen	
 You last logged in <Num0> hours, <Num1> minutes ago.	interface	loginScreen	
 You last logged in <Num0> days ago.	interface	loginScreen	

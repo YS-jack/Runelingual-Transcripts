@@ -35,4 +35,3 @@ Level <Num0><br>Steel Skin<br>Increases your defence by <Num1>%.<br>(Drain: <Num
 Level <Num0><br>Rapid Restore<br><Num1>x restore rate for all stats<br>except Hitpoints and Prayer.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Rapid Heal<br><Num1>x restore rate for<br>Hitpoints stat.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
 Level <Num0><br>Clarity of Thought<br>Increases your attack by <Num1>%.<br>(Drain: <Num2>pt per <Num3>s)	interface	mainTabs	prayerTab
-

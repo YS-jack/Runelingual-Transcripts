@@ -30751,7 +30751,7 @@ source: prayerTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120129"><xliff:source>Level &lt;Num0&gt;&lt;br&gt;Rapid Heal&lt;br&gt;&lt;Num1&gt;x restore rate for&lt;br&gt;Hitpoints stat.&lt;br&gt;(Drain: &lt;Num2&gt;pt per &lt;Num3&gt;s)</xliff:source><xliff:target state="translated">レベル&lt;Num0&gt;&lt;br&gt;急激な回復&lt;br&gt;体力回復速度が&lt;br&gt;&lt;Num1&gt;倍になる。&lt;br&gt;(&lt;Num3&gt;秒で&lt;Num2&gt;&lt;asis&gt;pt&lt;/asis&gt;消費)</xliff:target><xliff:note>category: interface
 sub_category: mainTabs
 source: prayerTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120130"><xliff:source>Welcome to Old School RuneScape</xliff:source><xliff:target state="translated">オールドスクール・ルーンスケープへようこそ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120130"><xliff:source>Welcome to Old School RuneScape</xliff:source><xliff:target state="translated">オールドスクールRuneScapeへようこそ</xliff:target><xliff:note>category: interface
 sub_category: loginScreen
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120131"><xliff:source>You last logged in a minute ago.</xliff:source><xliff:target state="translated">最終ログインは１分前です。</xliff:target><xliff:note>category: interface
@@ -30788,6 +30788,9 @@ wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120141"><xli
 sub_category: loginScreen
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120142"><xliff:source>You are not a member. Subscribe to access extra skills, areas, quests, and more.</xliff:source><xliff:target state="translated">現在、会員ではありません。会員登録すると、追加のスキル、エリア、クエストなどにアクセスできます。</xliff:target><xliff:note>category: interface
+sub_category: loginScreen
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120143"><xliff:source>You last logged in &lt;Num0&gt; minutes ago.</xliff:source><xliff:target state="translated">最終ログインは&lt;Num0&gt;分前です。</xliff:target><xliff:note>category: interface
 sub_category: loginScreen
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
