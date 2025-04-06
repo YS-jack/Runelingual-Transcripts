@@ -11,7 +11,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109262">
         <xliff:source>Blast Furnace</xliff:source>
-        <xliff:target state="translated">ブラファ</xliff:target>
+        <xliff:target state="translated">ブラスト・ファーネス</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -10052,7 +10052,7 @@ wiki_url: None</xliff:note>
     <xliff:trans-unit id="110524"><xliff:source>Barbarian Assault</xliff:source><xliff:target state="translated">バーバリアン・アサルト</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110525"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラファ</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110525"><xliff:source>Blast Furnace</xliff:source><xliff:target state="translated">ブラスト・ファーネス</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110526"><xliff:source>Castle Wars</xliff:source><xliff:target state="translated">キャッスル・ウォーズ</xliff:target><xliff:note>category: manual
