@@ -29,8 +29,8 @@ def hash_directory(directory):
                     sha256_hash.update(byte_block)
     return sha256_hash.hexdigest()
 
-def process_directory(lang_code):
-    target_path = common_func.DRAFT_DIR + "/" + lang_code
+def process_directory(dir, lang_code):
+    target_path = dir + "/" + lang_code
     output_file = target_path + "/hashList_" + lang_code + ".txt"
     """Process each file and directory under the root directory."""
     files_under_target_path = common_func.get_list_files_in_directory(target_path=target_path)
@@ -44,16 +44,19 @@ def process_directory(lang_code):
             hash_value = hash_file(filepath)
             no_first_dir = os.path.basename(filepath)
             out.write(f"{no_first_dir}|{hash_value}\n")
-            print(f"hash value for {no_first_dir} = {hash_value}")
+            # print(f"hash value for {no_first_dir} = {hash_value}")
 
 def main():
     for lang_code in common_func.LANG:
         try:
-            process_directory(lang_code)
+            process_directory(common_func.DRAFT_DIR, lang_code)
+            print(f"hash file for {lang_code} generated at {common_func.DRAFT_DIR}/hashList_{lang_code}.txt")
+            
+            process_directory(common_func.PUBLIC_DIR, lang_code)
+            print(f"hash file for {lang_code} generated at {common_func.PUBLIC_DIR}/hashList_{lang_code}.txt")
         except FileNotFoundError:
             continue
 
 
 if __name__ == "__main__":
-    print(f"will generate hash for all languages in {common_func.DRAFT_DIR}")
     main()

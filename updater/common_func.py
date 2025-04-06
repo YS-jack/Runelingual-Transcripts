@@ -17,6 +17,7 @@ dont edit anything else below (unless you know what youre doing)
 current_dir = os.path.dirname(os.path.realpath(__file__))
 parent_dir = os.path.dirname(current_dir)
 DRAFT_DIR = os.path.join(parent_dir, 'draft')
+PUBLIC_DIR = os.path.join(parent_dir, 'public')
 TRANSCRIPT_PATH = os.path.join(current_dir, 'transcript.db')
 
 import shutil
