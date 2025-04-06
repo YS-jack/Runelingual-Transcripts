@@ -10898,6 +10898,9 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110124"><xliff:source>&lt;colNum0&gt;Trade:&lt;/col&gt; Show all</xliff:source><xliff:target state="translated">&lt;colNum0&gt;取引:&lt;/col&gt; 全表示</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110125"><xliff:source>Leave &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルから退会</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

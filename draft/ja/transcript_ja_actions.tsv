@@ -1596,3 +1596,4 @@ Move	動かす	actions	menu
 <colNum0>Trade:</col> Show none	<colNum0>取引:</col> 非表示	actions	menu	
 <colNum0>Trade:</col> Show friends	<colNum0>取引:</col> 友達表示	actions	menu	
 <colNum0>Trade:</col> Show all	<colNum0>取引:</col> 全表示	actions	menu	
+Leave <colNum0><!ANY_TRANSLATED0></col> channel	<colNum0><!ANY_TRANSLATED0></col>のチャンネルから退会	actions	menu	groupTab

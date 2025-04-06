@@ -226,6 +226,7 @@ Add ignore	actions	menu	groupTab
 Teleport	actions	menu	groupTab
 Select	actions	menu	groupTab
 Join <colNum0><!ANY_TRANSLATED0></col> channel	actions	menu	groupTab
+Leave <colNum0><!ANY_TRANSLATED0></col> channel	actions	menu	groupTab
 Teleport to <colNum0><!ANY_TRANSLATED0></col>	actions	menu	groupTab
 Toggle skull prevention	actions	menu	settingsTab
 Toggle Accept Aid	actions	menu	settingsTab
