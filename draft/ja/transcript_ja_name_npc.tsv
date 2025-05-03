@@ -94,7 +94,7 @@ Ironman tutor	鉄人の指導者	name	npc	Ironman tutor
 Frog	カエル	name	npc	Frog
 Leagues Tutor	リーグの指導者	name	npc	Leagues Tutor
 Dark core	暗黒の核	name	npc	Dark core
-Corporeal Beast	コーポリアル獣	name	npc	Corporeal Beast
+Corporeal Beast	コーポリアル・ビースト	name	npc	Corporeal Beast
 Dark energy core	暗黒エネルギーの核	name	npc	Dark energy core
 Mime	マイム	name	npc	Mime
 Drunken Dwarf	酔ったドワーフ	name	npc	Drunken Dwarf
@@ -110,7 +110,7 @@ Balloon Animal	風船動物	name	npc	Balloon Animal
 Freaky Forester	不気味な森林官	name	npc	Freaky Forester
 Pheasant	キジ	name	npc	Pheasant
 Rick Turpentine	リック・ターペンタイン	name	npc	Rick Turpentine
-Phosani's Nightmare	フォサニの悪夢	name	npc	Phosani's Nightmare
+Phosani's Nightmare	フォサーニの悪夢	name	npc	Phosani's Nightmare
 The Nightmare	ザ・ナイトメア	name	npc	The Nightmare
 Quiz Master	クイズの達人	name	npc	Quiz Master
 Pillory Guard	さらし台の衛兵	name	npc	Pillory Guard
@@ -862,7 +862,7 @@ Neil	ネイル	name	npc	Neil
 Edmond	エドモンド	name	npc	Edmond
 Simon	サイモン	name	npc	Simon
 Sam	サム	name	npc	Sam
-Commander Zilyana	ジリアナ司令官	name	npc	Commander Zilyana
+Commander Zilyana	ジリアーナ司令官	name	npc	Commander Zilyana
 Starlight	スターライト	name	npc	Starlight
 Growler	グロウラー	name	npc	Growler
 Bree	ブリー	name	npc	Bree
@@ -1265,7 +1265,7 @@ Yt-MejKot	イト・メジュコト	name	npc	Yt-MejKot
 Ket-Zek	ケト・ゼク	name	npc	Ket-Zek
 TzTok-Jad	ツズトク・ジャッド	name	npc	TzTok-Jad
 Yt-HurKot	イト・フーコト	name	npc	Yt-HurKot
-K'ril Tsutsaroth	クリル・ツツジーロス	name	npc	K'ril Tsutsaroth
+K'ril Tsutsaroth	クリル・ツツァロス	name	npc	K'ril Tsutsaroth
 Tstanon Karlak	ツツタノン・カラク	name	npc	Tstanon Karlak
 Zakl'n Gritch	ザクルン・グリチ	name	npc	Zakl'n Gritch
 Balfrug Kreeyath	バルフルグ・クリーヤス	name	npc	Balfrug Kreeyath
@@ -1277,7 +1277,7 @@ Gnome baller	ノーム・ボーラー	name	npc	Gnome baller
 Gnome winger	ノーム・ウィンガー	name	npc	Gnome winger
 Gnome ball referee	ノーム・ボールの審判	name	npc	Gnome ball referee
 Cheerleader	チアリーダー	name	npc	Cheerleader
-Kree'arra	クリーアーラ	name	npc	Kree'arra
+Kree'arra	クリアーラ	name	npc	Kree'arra
 Wingman Skree	ウィングマン・スクリー	name	npc	Wingman Skree
 Flockleader Geerin	フロックリーダー・ギーリン	name	npc	Flockleader Geerin
 Flight Kilisa	フライト・キリサ	name	npc	Flight Kilisa
@@ -2525,10 +2525,10 @@ Energy sprite	エナジー・スプライト	name	npc	Energy sprite
 Dagannoth Supreme Jr.	ダガノス・スプリーム・Jr.	name	npc	Dagannoth Supreme Jr.
 Dagannoth Prime Jr.	ダガノス・プライム・Jr.	name	npc	Dagannoth Prime Jr.
 Dagannoth Rex Jr.	ダガノス・レックス・Jr.	name	npc	Dagannoth Rex Jr.
-Kree'arra Jr.	クリーアーラ・Jr.	name	npc	Kree'arra Jr.
+Kree'arra Jr.	クリアーラ・Jr.	name	npc	Kree'arra Jr.
 General Graardor Jr.	グラドー将軍・Jr.	name	npc	General Graardor Jr.
-Zilyana Jr.	ジリアナ・Jr.	name	npc	Zilyana Jr.
-K'ril Tsutsaroth Jr.	クリル・ツツジーロス・Jr.	name	npc	K'ril Tsutsaroth Jr.
+Zilyana Jr.	ジリアーナ・Jr.	name	npc	Zilyana Jr.
+K'ril Tsutsaroth Jr.	クリル・ツツァロス・Jr.	name	npc	K'ril Tsutsaroth Jr.
 Prince Black Dragon	黒竜王子	name	npc	Prince Black Dragon
 Kalphite Princess	姫カルファイト	name	npc	Kalphite Princess
 Smoke Devil	スモーク・デビル	name	npc	Smoke Devil
@@ -3047,7 +3047,7 @@ Flaygian Screwte	フレイギアン・スクリューテ	name	npc	Flaygian Screw
 Mekritus A'hara	メクリタス・アハラ	name	npc	Mekritus A'hara
 Andiess Juip	アンジエス・ジュイップ	name	npc	Andiess Juip
 Kael Forshaw	カエル・フォーシャウ	name	npc	Kael Forshaw
-Verzik Vitur	ヴェージック・ヴァーチャー	name	npc	Verzik Vitur
+Verzik Vitur	ヴァージック・ヴァーチャー	name	npc	Verzik Vitur
 Abomination	イマワシキモノ	name	npc	Abomination
 Nylocas Ischyros	ニロカス・イスキロス	name	npc	Nylocas Ischyros
 Nylocas Toxobolos	ニロカス・トクソボロス	name	npc	Nylocas Toxobolos
@@ -3068,7 +3068,7 @@ Lil' Zik	小っちゃなジック	name	npc	Lil' Zik
 Xarpus	ハープス	name	npc	Xarpus
 Nylocas Hagios	ニロカス・ハイゴス	name	npc	Nylocas Hagios
 Nylocas Vasilias	ニロカス・ヴァシリアス	name	npc	Nylocas Vasilias
-Pestilent Bloat	疫病の膨張	name	npc	Pestilent Bloat
+Pestilent Bloat	疫病のブロート	name	npc	Pestilent Bloat
 The Maiden of Sugadinti	スガジンチの乙女	name	npc	The Maiden of Sugadinti
 Nylocas Matomenos	ニロカス・マトメノス	name	npc	Nylocas Matomenos
 Blood spawn	血の腹子	name	npc	Blood spawn
@@ -3246,7 +3246,7 @@ Iban	アイバン	name	npc	Iban
 King Thoros	ソロス王	name	npc	King Thoros
 Ed	エッド	name	npc	Ed
 Bryn	ブリン	name	npc	Bryn
-Crystalline Hunllef	結晶ハンレフ	name	npc	Crystalline Hunllef
+Crystalline Hunllef	結晶体ハンレフ	name	npc	Crystalline Hunllef
 Crystalline Rat	結晶ネズミ	name	npc	Crystalline Rat
 Crystalline Spider	結晶グモ	name	npc	Crystalline Spider
 Crystalline Bat	結晶コウモリ	name	npc	Crystalline Bat
@@ -3600,7 +3600,7 @@ Raqueel	ラキール	name	npc	Raqueel
 Gem	ジェム	name	npc	Gem
 Gardener Jay Jr.	庭師のジェイ・Jr.	name	npc	Gardener Jay Jr.
 Lil' Maiden	小っちゃな乙女	name	npc	Lil' Maiden
-Lil' Bloat	小っちゃな膨張	name	npc	Lil' Bloat
+Lil' Bloat	小っちゃなブロート	name	npc	Lil' Bloat
 Lil' Nylo	小っちゃなニロ	name	npc	Lil' Nylo
 Lil' Sot	小っちゃなソット	name	npc	Lil' Sot
 Lil' Xarp	小っちゃなハープ	name	npc	Lil' Xarp

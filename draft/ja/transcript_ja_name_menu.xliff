@@ -1209,7 +1209,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112844"><xliff:source>Adept Reanimation</xliff:source><xliff:target state="translated">応用蘇生術</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112845"><xliff:source>Inferior Demonbane</xliff:source><xliff:target state="translated">劣勢・悪魔殺し</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112845"><xliff:source>Inferior Demonbane</xliff:source><xliff:target state="translated">劣勢・悪魔特攻</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112846"><xliff:source>Shadow Veil</xliff:source><xliff:target state="translated">影のベール</xliff:target><xliff:note>category: name
@@ -1239,7 +1239,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112854"><xliff:source>West Ardougne Teleport</xliff:source><xliff:target state="translated">西アルドイン・ワープ</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112855"><xliff:source>Superior Demonbane</xliff:source><xliff:target state="translated">上級悪魔殺し</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112855"><xliff:source>Superior Demonbane</xliff:source><xliff:target state="translated">上級悪魔特攻</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112856"><xliff:source>Lesser Corruption</xliff:source><xliff:target state="translated">下位の腐敗</xliff:target><xliff:note>category: name
@@ -1281,7 +1281,7 @@ source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112868"><xliff:source>Death Charge</xliff:source><xliff:target state="translated">死による回復</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112869"><xliff:source>Dark Demonbane</xliff:source><xliff:target state="translated">暗黒の悪魔殺し</xliff:target><xliff:note>category: name
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112869"><xliff:source>Dark Demonbane</xliff:source><xliff:target state="translated">暗黒の悪魔特攻</xliff:target><xliff:note>category: name
 sub_category: menu
 source: spellBookTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="112870"><xliff:source>Barrows Teleport</xliff:source><xliff:target state="translated">バロウズ・ワープ</xliff:target><xliff:note>category: name

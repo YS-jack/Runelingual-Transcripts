@@ -369,7 +369,7 @@ Neitiznot	ネイチズノット	inventoryActions	item	Enchanted lyre(1)
 Jatiszo	ジャティスゾ	inventoryActions	item	Enchanted lyre(1)
 Burthorpe	バーソープ	inventoryActions	item	Games necklace(8)
 Barbarian Outpost	蛮族の前哨基地	inventoryActions	item	Games necklace(8)
-Corporeal Beast	コーポリアル獣	inventoryActions	item	Games necklace(8)
+Corporeal Beast	コーポリアル・ビースト	inventoryActions	item	Games necklace(8)
 Tears of Guthix	ガシックスの涙	inventoryActions	item	Games necklace(8)
 Wintertodt Camp	ウィンタートッド・キャンプ	inventoryActions	item	Games necklace(8)
 Surrender	降伏	inventoryActions	item	Hooded cloak
@@ -420,7 +420,7 @@ The Outpost	前哨基地	inventoryActions	item	Necklace of passage(5)
 Eagles' Eyrie	ワシの巣	inventoryActions	item	Necklace of passage(5)
 Wizards' Tower	魔法使いの塔	inventoryActions	item	Necklace of passage(5)
 Bandit Camp	盗賊のキャンプ地	inventoryActions	item	Burning amulet(5)
-Lava Maze	溶岩の迷路	inventoryActions	item	Burning amulet(5)
+Lava Maze	溶岩迷路	inventoryActions	item	Burning amulet(5)
 Chaos Temple	混沌の寺院	inventoryActions	item	Burning amulet(5)
 Throw-water north	北に水を投げる	inventoryActions	item	Heat-proof vessel
 Throw-water east	東に水を投げる	inventoryActions	item	Heat-proof vessel

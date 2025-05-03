@@ -5,7 +5,7 @@ Castle Wars	キャッスル・ウォーズ	manual	activity
 Fishing Trawler	トロール漁船	manual	activity	
 Burthorpe Games Room	バーソープの娯楽部屋	manual	activity	
 Nightmare Zone	悪夢の領域	manual	activity	
-Pest Control	害獣駆除	manual	activity	
+Pest Control	ペスト・コントロール	manual	activity	
 Rat Pits	ネズミ闘技場	manual	activity	
 Shades of Mort'ton	モートンの陰	manual	activity	
 Trouble Brewing	醸造トラブル	manual	activity	
@@ -285,7 +285,7 @@ Coronation ceremony during A Kingdom Divided.		manual	location
 Fight with the Giant Roc during My Arm's Big Adventure.		manual	location	
 Scorpia's cave beneath the Scorpion Pit.		manual	location	
 Beneath Cursed Sands	呪われた砂の下	manual	location	
-Perilous Moons	危険な月々	manual	location	
+Perilous Moons	危険な月	manual	location	
 PvP Arena	PvPアリーナ	manual	location	
 Castle Wars	キャッスル・ウォーズ	manual	location	
 Ferox Enclave	フェロックス・オンクレーブ	manual	location	
@@ -297,7 +297,7 @@ Grand Exchange	グランド・エクスチェンジ	manual	location
 Falador Park	ファラドー公園	manual	location	
 Dondakan's Rock	ドンダカンの岩	manual	location	
 Barbarian Outpost	蛮族の前哨基地	manual	location	
-Corporeal Beast	コーポリアル獣	manual	location	
+Corporeal Beast	コーポリアル・ビースト	manual	location	
 Tears of Guthix	ガシックスの涙	manual	location	
 Wintertodt Camp	ウィンタートッド・キャンプ	manual	location	
 Fishing Guild	釣りギルド	manual	location	
@@ -888,7 +888,7 @@ Take your first steps into Varlamore and unlock the Quetzal Transport System.		m
 At First Light	夜が明けるとき	manual	quest	
 Learn about the role of the Hunter Guild and unlock higher tier rumours.		manual	quest	
 Perlious Moons	危険な月	manual	quest	
-Perilous Moons	危険な月々	manual	quest	
+Perilous Moons	危険な月	manual	quest	
 Explore an ancient ruin and unlock the Moons of Peril.		manual	quest	
 Ribbiting Tale of a Lily Pad Labour Dispute, The	スイレンの葉の労働争議物語	manual	quest	
 The Ribbiting Tale of a Lily Pad Labour Dispute	スイレンの葉の労働争議物語	manual	quest	
@@ -1261,7 +1261,7 @@ Castle Wars	キャッスル・ウォーズ	manual	activity
 Fishing Trawler	トロール漁船	manual	activity	
 Burthorpe Games Room	バーソープの娯楽部屋	manual	activity	
 Nightmare Zone	悪夢の領域	manual	activity	
-Pest Control	害獣駆除	manual	activity	
+Pest Control	ペスト・コントロール	manual	activity	
 Rat Pits	ネズミ闘技場	manual	activity	
 Shades of Mort'ton	モートンの陰	manual	activity	
 Trouble Brewing	醸造トラブル	manual	activity	
@@ -1541,7 +1541,7 @@ Coronation ceremony during A Kingdom Divided.		manual	location
 Fight with the Giant Roc during My Arm's Big Adventure.		manual	location	
 Scorpia's cave beneath the Scorpion Pit.		manual	location	
 Beneath Cursed Sands	呪われた砂の下	manual	location	
-Perilous Moons	危険な月々	manual	location	
+Perilous Moons	危険な月	manual	location	
 PvP Arena	PvPアリーナ	manual	location	
 Castle Wars	キャッスル・ウォーズ	manual	location	
 Ferox Enclave	フェロックス・オンクレーブ	manual	location	
@@ -1553,7 +1553,7 @@ Grand Exchange	グランド・エクスチェンジ	manual	location
 Falador Park	ファラドー公園	manual	location	
 Dondakan's Rock	ドンダカンの岩	manual	location	
 Barbarian Outpost	蛮族の前哨基地	manual	location	
-Corporeal Beast	コーポリアル獣	manual	location	
+Corporeal Beast	コーポリアル・ビースト	manual	location	
 Tears of Guthix	ガシックスの涙	manual	location	
 Wintertodt Camp	ウィンタートッド・キャンプ	manual	location	
 Fishing Guild	釣りギルド	manual	location	
@@ -2144,7 +2144,7 @@ Take your first steps into Varlamore and unlock the Quetzal Transport System.		m
 At First Light	夜が明けるとき	manual	quest	
 Learn about the role of the Hunter Guild and unlock higher tier rumours.		manual	quest	
 Perlious Moons	危険な月	manual	quest	
-Perilous Moons	危険な月々	manual	quest	
+Perilous Moons	危険な月	manual	quest	
 Explore an ancient ruin and unlock the Moons of Peril.		manual	quest	
 Ribbiting Tale of a Lily Pad Labour Dispute, The	スイレンの葉の労働争議物語	manual	quest	
 The Ribbiting Tale of a Lily Pad Labour Dispute	スイレンの葉の労働争議物語	manual	quest	

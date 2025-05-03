@@ -2290,7 +2290,7 @@ Poison crater	毒噴出口	name	object	Poison crater
 Penance cave	ペナンスの洞窟	name	object	Penance cave
 Attacker item machine	攻撃者アイテム装置	name	object	Attacker item machine
 Defender item machine	守護者アイテム装置	name	object	Defender item machine
-Healer item machine	回復者アイテム装置	name	object	Healer item machine
+Healer item machine	治癒者アイテム装置	name	object	Healer item machine
 Horn of glory	栄光の角笛	name	object	Horn of glory
 Petrified mushroom	化石化したキノコ	name	object	Petrified mushroom
 Egg hopper	卵ホッパー	name	object	Egg hopper
@@ -3291,7 +3291,7 @@ Runite Minor	Runite Minor	name	object	Runite Minor
 Great Olm display	偉大なるオルムの展示	name	object	Great Olm display
 Tzkal-Zuk display	ツズカル・ザックの展示	name	object	Tzkal-Zuk display
 General Graardor display	グラドー将軍の展示	name	object	General Graardor display
-Corporeal Beast display	コーポリアル獣の展示	name	object	Corporeal Beast display
+Corporeal Beast display	コーポリアル・ビーストの展示	name	object	Corporeal Beast display
 Ornate Jewellery Box	華麗な宝石箱	name	object	Ornate Jewellery Box
 Pyromancer	炎魔術師	name	object	Pyromancer
 Deadman display	デッドマンの展示	name	object	Deadman display
@@ -3380,9 +3380,9 @@ Altar of Zamorak	ザモラックの祭壇	name	object	Altar of Zamorak
 Simple stove	単純なストーブ	name	object	Simple stove
 Hidden Statue	隠された像	name	object	Hidden Statue
 Vyre well	ヴァイヤーの井戸	name	object	Vyre well
-Verzik's throne	ヴェージックの王座	name	object	Verzik's throne
+Verzik's throne	ヴァージックの王座	name	object	Verzik's throne
 Supporting Pillar	支える柱	name	object	Supporting Pillar
-Verzik Vitur	ヴェージック・ヴァーチャー	name	object	Verzik Vitur
+Verzik Vitur	ヴァージック・ヴァーチャー	name	object	Verzik Vitur
 Treasure room	宝物庫	name	object	Treasure room
 Exhumed	掘り起こされた遺体	name	object	Exhumed
 Acidic miasma	酸性の毒気	name	object	Acidic miasma
@@ -3556,7 +3556,7 @@ Mysterious pipe	不可思議なパイプ	name	object	Mysterious pipe
 Chemical waste pipe	化学排水管	name	object	Chemical waste pipe
 The Sheared Ram	毛を刈られた雄羊	name	object	The Sheared Ram
 Brimstone chest	ブリムストーン宝箱	name	object	Brimstone chest
-Verzik Vitur display	ヴェージック・ヴァーチャーの展示	name	object	Verzik Vitur display
+Verzik Vitur display	ヴァージック・ヴァーチャーの展示	name	object	Verzik Vitur display
 Making Friends with My Arm display	おいらの腕と友達になる展示	name	object	Making Friends with My Arm display
 Magic Mirror	魔法の鏡	name	object	Magic Mirror
 Attas plant display	アタスの株の展示	name	object	Attas plant display
@@ -3860,7 +3860,7 @@ Damaged mast	損傷したマスト	name	object	Damaged mast
 Water pump	水入れポンプ	name	object	Water pump
 Damaged totem pole	損傷したトーテム・ポール	name	object	Damaged totem pole
 Ancient brazier	古代の火鉢	name	object	Ancient brazier
-Corporeal Beast Display	コーポリアル獣の展示	name	object	Corporeal Beast Display
+Corporeal Beast Display	コーポリアル・ビーストの展示	name	object	Corporeal Beast Display
 Thermonuclear Smoke Devil Display	熱核スモーク・デビルの展示	name	object	Thermonuclear Smoke Devil Display
 Crashed Star	墜落した星	name	object	Crashed Star
 Pedestal space	台座のスペース	name	object	Pedestal space
@@ -4122,7 +4122,7 @@ Banana peel	バナナの革	name	object	Banana peel
 Ba-Ba's Throne	バーバの王座	name	object	Ba-Ba's Throne
 Khopesh and Shield	ケペシュと盾	name	object	Khopesh and Shield
 Grouping Obelisk	グループ作成オベリスク	name	object	Grouping Obelisk
-Invocation Board	発動のボード	name	object	Invocation Board
+Invocation Board	祈願板	name	object	Invocation Board
 Bank Camel	銀行ラクダ	name	object	Bank Camel
 Rewards Niche	報酬ニッチ	name	object	Rewards Niche
 False Door	偽扉	name	object	False Door
@@ -4191,7 +4191,7 @@ Birthday plushies	誕生日のぬいぐるみ	name	object	Birthday plushies
 Crack the Clue II Display	謎解き２の展示	name	object	Crack the Clue II Display
 Mimic Display	ミミックの展示	name	object	Mimic Display
 Hosidius Rework Display	ホシディアス改良の展示	name	object	Hosidius Rework Display
-Forthos Dungeon Display	フォーソスダンジョンの展示	name	object	Forthos Dungeon Display
+Forthos Dungeon Display	フォーソス・ダンジョンの展示	name	object	Forthos Dungeon Display
 LMS Rework Display	LMS改良の展示	name	object	LMS Rework Display
 Jormungand Display	ジョームンガンドの展示	name	object	Jormungand Display
 Twisted League Display	ツイステッド・リーグの展示	name	object	Twisted League Display
@@ -4216,7 +4216,7 @@ Group Ironman Display	鉄人グループの展示	name	object	Group Ironman Disp
 Nex Display	ネックスの展示	name	object	Nex Display
 Shattered League Display	シャタード・リーグの展示	name	object	Shattered League Display
 A Goblin	ゴブリン	name	object	A Goblin
-Phosani's Nightmare Display	フォサニの悪夢の展示	name	object	Phosani's Nightmare Display
+Phosani's Nightmare Display	フォサーニの悪夢の展示	name	object	Phosani's Nightmare Display
 Revenant Maledictus Display	幽鬼のマレディクタスの展示	name	object	Revenant Maledictus Display
 Guardians of the Rift Display	裂け目の守護者の展示	name	object	Guardians of the Rift Display
 Giants' Foundry Display	巨人の鋳造所の展示	name	object	Giants' Foundry Display

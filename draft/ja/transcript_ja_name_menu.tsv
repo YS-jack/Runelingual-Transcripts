@@ -260,7 +260,7 @@ Resurrect Lesser Skeleton	下級スケルトン復活術式	name	menu	spellBookT
 Resurrect Lesser Zombie	下級ゾンビ復活術式	name	menu	spellBookTab
 Salve Graveyard Teleport	サルヴ基地ワープ	name	menu	spellBookTab
 Adept Reanimation	応用蘇生術	name	menu	spellBookTab
-Inferior Demonbane	劣勢・悪魔殺し	name	menu	spellBookTab
+Inferior Demonbane	劣勢・悪魔特攻	name	menu	spellBookTab
 Shadow Veil	影のベール	name	menu	spellBookTab
 Fenkenstrain's Castle Teleport	フェンケンストレイン城・ワープ	name	menu	spellBookTab
 Dark Lure	闇の誘い	name	menu	spellBookTab
@@ -270,7 +270,7 @@ Resurrect Superior Skeleton	中級スケルトン復活術式	name	menu	spellBoo
 Resurrect Superior Zombie	中級ゾンビ復活術式	name	menu	spellBookTab
 Mark of Darkness	闇の刻印	name	menu	spellBookTab
 West Ardougne Teleport	西アルドイン・ワープ	name	menu	spellBookTab
-Superior Demonbane	上級悪魔殺し	name	menu	spellBookTab
+Superior Demonbane	上級悪魔特攻	name	menu	spellBookTab
 Lesser Corruption	下位の腐敗	name	menu	spellBookTab
 Harmony Island Teleport	ハーモニー島・ワープ	name	menu	spellBookTab
 Vile Vigour	卑劣な活力	name	menu	spellBookTab
@@ -284,7 +284,7 @@ Resurrect Greater Zombie	上級ゾンビ復活術式	name	menu	spellBookTab
 Resurrect Crops	作物蘇生	name	menu	spellBookTab
 Undead Grasp	不死の掌握	name	menu	spellBookTab
 Death Charge	死による回復	name	menu	spellBookTab
-Dark Demonbane	暗黒の悪魔殺し	name	menu	spellBookTab
+Dark Demonbane	暗黒の悪魔特攻	name	menu	spellBookTab
 Barrows Teleport	バロウズ・ワープ	name	menu	spellBookTab
 Demonic Offering	悪魔的供物	name	menu	spellBookTab
 Greater Corruption	上位の腐敗	name	menu	spellBookTab

@@ -51,7 +51,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109267">
         <xliff:source>Pest Control</xliff:source>
-        <xliff:target state="translated">害獣駆除</xliff:target>
+        <xliff:target state="translated">ペスト・コントロール</xliff:target>
         <xliff:note>category: manual
 sub_category: activity
 source: None
@@ -2291,7 +2291,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109549">
         <xliff:source>Perilous Moons</xliff:source>
-        <xliff:target state="translated">危険な月々</xliff:target>
+        <xliff:target state="translated">危険な月</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2387,7 +2387,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109561">
         <xliff:source>Corporeal Beast</xliff:source>
-        <xliff:target state="translated">コーポリアル獣</xliff:target>
+        <xliff:target state="translated">コーポリアル・ビースト</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -7115,7 +7115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="110157">
         <xliff:source>Perilous Moons</xliff:source>
-        <xliff:target state="translated">危険な月々</xliff:target>
+        <xliff:target state="translated">危険な月</xliff:target>
         <xliff:note>category: manual
 sub_category: quest
 source: None
@@ -10067,7 +10067,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110529"><xliff:source>Nightmare Zone</xliff:source><xliff:target state="translated">悪夢の領域</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110530"><xliff:source>Pest Control</xliff:source><xliff:target state="translated">害獣駆除</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110530"><xliff:source>Pest Control</xliff:source><xliff:target state="translated">ペスト・コントロール</xliff:target><xliff:note>category: manual
 sub_category: activity
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110531"><xliff:source>Rat Pits</xliff:source><xliff:target state="translated">ネズミ闘技場</xliff:target><xliff:note>category: manual
@@ -10907,7 +10907,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110809"><xliff:source>Beneath Cursed Sands</xliff:source><xliff:target state="translated">呪われた砂の下</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110810"><xliff:source>Perilous Moons</xliff:source><xliff:target state="translated">危険な月々</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110810"><xliff:source>Perilous Moons</xliff:source><xliff:target state="translated">危険な月</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110811"><xliff:source>PvP Arena</xliff:source><xliff:target state="translated">PvPアリーナ</xliff:target><xliff:note>category: manual
@@ -10943,7 +10943,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110821"><xliff:source>Barbarian Outpost</xliff:source><xliff:target state="translated">蛮族の前哨基地</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110822"><xliff:source>Corporeal Beast</xliff:source><xliff:target state="translated">コーポリアル獣</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110822"><xliff:source>Corporeal Beast</xliff:source><xliff:target state="translated">コーポリアル・ビースト</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110823"><xliff:source>Tears of Guthix</xliff:source><xliff:target state="translated">ガシックスの涙</xliff:target><xliff:note>category: manual
@@ -12716,7 +12716,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111412"><xliff:source>Perlious Moons</xliff:source><xliff:target state="translated">危険な月</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111413"><xliff:source>Perilous Moons</xliff:source><xliff:target state="translated">危険な月々</xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111413"><xliff:source>Perilous Moons</xliff:source><xliff:target state="translated">危険な月</xliff:target><xliff:note>category: manual
 sub_category: quest
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="111414"><xliff:source>Explore an ancient ruin and unlock the Moons of Peril.</xliff:source><xliff:target></xliff:target><xliff:note>category: manual

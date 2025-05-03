@@ -2256,10 +2256,10 @@ Karil's crossbow	カリルの洋弓銃	name	item	Karil's crossbow
 Karil's leathertop	カリルの革トップ	name	item	Karil's leathertop
 Karil's leatherskirt	カリルの革スカート	name	item	Karil's leatherskirt
 Bolt rack	ボルトラック	name	item	Bolt rack
-Torag's helm	トラグの兜	name	item	Torag's helm
-Torag's hammers	トラグのハンマー	name	item	Torag's hammers
-Torag's platebody	トラグの胸甲	name	item	Torag's platebody
-Torag's platelegs	トラグの脚甲	name	item	Torag's platelegs
+Torag's helm	トーラッグの兜	name	item	Torag's helm
+Torag's hammers	トーラッグのハンマー	name	item	Torag's hammers
+Torag's platebody	トーラッグの胸甲	name	item	Torag's platebody
+Torag's platelegs	トーラッグの脚甲	name	item	Torag's platelegs
 Verac's helm	ヴェラックの兜	name	item	Verac's helm
 Verac's flail	ヴェラックの鎖鎌	name	item	Verac's flail
 Verac's brassard	ヴェラックの甲冑	name	item	Verac's brassard
@@ -2384,26 +2384,26 @@ Karil's leatherskirt 75	カリルの革スカート75	name	item	Karil's leathers
 Karil's leatherskirt 50	カリルの革スカート50	name	item	Karil's leatherskirt 50
 Karil's leatherskirt 25	カリルの革スカート25	name	item	Karil's leatherskirt 25
 Karil's leatherskirt 0	カリルの革スカート0	name	item	Karil's leatherskirt 0
-Torag's helm 100	トラグの兜100	name	item	Torag's helm 100
-Torag's helm 75	トラグの兜75	name	item	Torag's helm 75
-Torag's helm 50	トラグの兜50	name	item	Torag's helm 50
-Torag's helm 25	トラグの兜25	name	item	Torag's helm 25
-Torag's helm 0	トラグの兜0	name	item	Torag's helm 0
-Torag's hammers 100	トラグのハンマー100	name	item	Torag's hammers 100
-Torag's hammers 75	トラグのハンマー75	name	item	Torag's hammers 75
-Torag's hammers 50	トラグのハンマー50	name	item	Torag's hammers 50
-Torag's hammers 25	トラグのハンマー25	name	item	Torag's hammers 25
-Torag's hammers 0	トラグのハンマー0	name	item	Torag's hammers 0
-Torag's platebody 100	トラグの胸甲100	name	item	Torag's platebody 100
-Torag's platebody 75	トラグの胸甲75	name	item	Torag's platebody 75
-Torag's platebody 50	トラグの胸甲50	name	item	Torag's platebody 50
-Torag's platebody 25	トラグの胸甲25	name	item	Torag's platebody 25
-Torag's platebody 0	トラグの胸甲0	name	item	Torag's platebody 0
-Torag's platelegs 100	トラグの脚甲100	name	item	Torag's platelegs 100
-Torag's platelegs 75	トラグの脚甲75	name	item	Torag's platelegs 75
-Torag's platelegs 50	トラグの脚甲50	name	item	Torag's platelegs 50
-Torag's platelegs 25	トラグの脚甲25	name	item	Torag's platelegs 25
-Torag's platelegs 0	トラグの脚甲0	name	item	Torag's platelegs 0
+Torag's helm 100	トーラッグの兜100	name	item	Torag's helm 100
+Torag's helm 75	トーラッグの兜75	name	item	Torag's helm 75
+Torag's helm 50	トーラッグの兜50	name	item	Torag's helm 50
+Torag's helm 25	トーラッグの兜25	name	item	Torag's helm 25
+Torag's helm 0	トーラッグの兜0	name	item	Torag's helm 0
+Torag's hammers 100	トーラッグのハンマー100	name	item	Torag's hammers 100
+Torag's hammers 75	トーラッグのハンマー75	name	item	Torag's hammers 75
+Torag's hammers 50	トーラッグのハンマー50	name	item	Torag's hammers 50
+Torag's hammers 25	トーラッグのハンマー25	name	item	Torag's hammers 25
+Torag's hammers 0	トーラッグのハンマー0	name	item	Torag's hammers 0
+Torag's platebody 100	トーラッグの胸甲100	name	item	Torag's platebody 100
+Torag's platebody 75	トーラッグの胸甲75	name	item	Torag's platebody 75
+Torag's platebody 50	トーラッグの胸甲50	name	item	Torag's platebody 50
+Torag's platebody 25	トーラッグの胸甲25	name	item	Torag's platebody 25
+Torag's platebody 0	トーラッグの胸甲0	name	item	Torag's platebody 0
+Torag's platelegs 100	トーラッグの脚甲100	name	item	Torag's platelegs 100
+Torag's platelegs 75	トーラッグの脚甲75	name	item	Torag's platelegs 75
+Torag's platelegs 50	トーラッグの脚甲50	name	item	Torag's platelegs 50
+Torag's platelegs 25	トーラッグの脚甲25	name	item	Torag's platelegs 25
+Torag's platelegs 0	トーラッグの脚甲0	name	item	Torag's platelegs 0
 Verac's helm 100	ヴェラックの兜100	name	item	Verac's helm 100
 Verac's helm 75	ヴェラックの兜75	name	item	Verac's helm 75
 Verac's helm 50	ヴェラックの兜50	name	item	Verac's helm 50
@@ -4961,7 +4961,7 @@ Tofu	豆腐	name	item	Tofu
 Worms	虫	name	item	Worms
 Attacker horn	攻撃者の角笛	name	item	Attacker horn
 Collection bag	回収役の袋	name	item	Collection bag
-Healer horn	回復者の角笛	name	item	Healer horn
+Healer horn	治癒者の角笛	name	item	Healer horn
 Green egg	緑色の卵	name	item	Green egg
 Red egg	赤色の卵	name	item	Red egg
 Blue egg	青色の卵	name	item	Blue egg
@@ -4978,7 +4978,7 @@ Healing vial(3)	回復の試薬瓶（3）	name	item	Healing vial(3)
 Healing vial(2)	回復の試薬瓶（2）	name	item	Healing vial(2)
 Healing vial(1)	回復の試薬瓶（1）	name	item	Healing vial(1)
 Healing vial	回復の試薬瓶	name	item	Healing vial
-Healer hat	回復者の帽子	name	item	Healer hat
+Healer hat	治癒者の帽子	name	item	Healer hat
 Fighter hat	ファイターの帽子	name	item	Fighter hat
 Runner hat	ランナーの帽子	name	item	Runner hat
 Ranger hat	射手の帽子	name	item	Ranger hat
@@ -4989,7 +4989,7 @@ Penance skirt	ペナンスのスカート	name	item	Penance skirt
 Attacker icon	攻撃者のアイコン	name	item	Attacker icon
 Collector icon	回収役のアイコン	name	item	Collector icon
 Defender icon	守護者のアイコン	name	item	Defender icon
-Healer icon	回復者のアイコン	name	item	Healer icon
+Healer icon	治癒者のアイコン	name	item	Healer icon
 Collector horn	回収役の角笛	name	item	Collector horn
 Queen help book	王女との戦い方の説明書	name	item	Queen help book
 No eggs	卵なし	name	item	No eggs
@@ -5710,7 +5710,7 @@ Digsite teleport	発掘現場のワープ	name	item	Digsite teleport
 Feldip hills teleport	フェルディップヒルズのワープ	name	item	Feldip hills teleport
 Lunar isle teleport	ルーナ島のワープ	name	item	Lunar isle teleport
 Mort'ton teleport	モートンのワープ	name	item	Mort'ton teleport
-Pest control teleport	害獣駆除のワープ	name	item	Pest control teleport
+Pest control teleport	ペスト・コントロールのワープ	name	item	Pest control teleport
 Piscatoris teleport	ピスカトリス	name	item	Piscatoris teleport
 Tai bwo wannai teleport	タイ・ブオ・ワナイのワープ	name	item	Tai bwo wannai teleport
 Iorwerth camp teleport	イオルウェス陣営のワープ	name	item	Iorwerth camp teleport
@@ -5826,10 +5826,10 @@ Pet dagannoth rex	ペットのダガノス・レックス	name	item	Pet dagannot
 Baby mole	幼いモグラ	name	item	Baby mole
 Kalphite princess	姫カルファイト	name	item	Kalphite princess
 Pet smoke devil	ペットのスモーク・デビル	name	item	Pet smoke devil
-Pet kree'arra	ペットのクリーアーラ	name	item	Pet kree'arra
+Pet kree'arra	ペットのクリアーラ	name	item	Pet kree'arra
 Pet general graardor	ペットのグラドー将軍	name	item	Pet general graardor
-Pet zilyana	ペットのジリアナ	name	item	Pet zilyana
-Pet k'ril tsutsaroth	ペットのクリル・ツツジーロス	name	item	Pet k'ril tsutsaroth
+Pet zilyana	ペットのジリアーナ	name	item	Pet zilyana
+Pet k'ril tsutsaroth	ペットのクリル・ツツァロス	name	item	Pet k'ril tsutsaroth
 Prince black dragon	黒竜王子	name	item	Prince black dragon
 Pet kraken	ペットのクラーケン	name	item	Pet kraken
 Junk	ガラクタ	name	item	Junk
@@ -5837,7 +5837,7 @@ Iban's staff (u)	アイバンの杖（アップ）	name	item	Iban's staff (u)
 Clan wars cape	クラン対戦のマント	name	item	Clan wars cape
 Tyrannical ring (i)	圧制の指輪（付与）	name	item	Tyrannical ring (i)
 Treasonous ring (i)	反逆の指輪（付与）	name	item	Treasonous ring (i)
-Kree'arra	クリーアーラ	name	item	Kree'arra
+Kree'arra	クリアーラ	name	item	Kree'arra
 Chaos elemental	混沌エレメンタル	name	item	Chaos elemental
 Super combat potion(4)	戦闘力の超増強薬（4）	name	item	Super combat potion(4)
 Super combat potion(3)	戦闘力の超増強薬（3）	name	item	Super combat potion(3)
@@ -5961,7 +5961,7 @@ Black dragonhide set	黒竜皮のセット	name	item	Black dragonhide set
 Guthan's armour set	ガサンの鎧セット	name	item	Guthan's armour set
 Verac's armour set	ヴェラックの鎧セット	name	item	Verac's armour set
 Dharok's armour set	ダロックの鎧セット	name	item	Dharok's armour set
-Torag's armour set	トラグの鎧セット	name	item	Torag's armour set
+Torag's armour set	トーラッグの鎧セット	name	item	Torag's armour set
 Ahrim's armour set	アリムの鎧セット	name	item	Ahrim's armour set
 Karil's armour set	カリルの鎧セット	name	item	Karil's armour set
 Jar of sand	砂の瓶	name	item	Jar of sand
@@ -6519,10 +6519,10 @@ Redwood logs	セコイアの丸太	name	item	Redwood logs
 Redwood pyre logs	セコイアの火葬用丸太	name	item	Redwood pyre logs
 Arclight	アークライト	name	item	Arclight
 Ancient shard	古代の破片	name	item	Ancient shard
-Dark totem base	暗黒なトーテムのベース	name	item	Dark totem base
-Dark totem middle	暗黒なトーテムの中部	name	item	Dark totem middle
-Dark totem top	暗黒なトーテムの上部	name	item	Dark totem top
-Dark totem	暗黒なトーテム	name	item	Dark totem
+Dark totem base	暗黒トーテムのベース	name	item	Dark totem base
+Dark totem middle	暗黒トーテムの中部	name	item	Dark totem middle
+Dark totem top	暗黒トーテムの上部	name	item	Dark totem top
+Dark totem	暗黒トーテム	name	item	Dark totem
 Helm of raedwald	レードヴァルドの兜	name	item	Helm of raedwald
 Clue hunter garb	宝探しのガーブ	name	item	Clue hunter garb
 Clue hunter gloves	宝探しの手袋	name	item	Clue hunter gloves
@@ -6719,7 +6719,7 @@ Decorative helm (broken)	装飾の兜（壊）	name	item	Decorative helm (broken
 Decorative shield (broken)	装飾のタコ盾（壊）	name	item	Decorative shield (broken)
 Fighter hat (broken)	ファイターの帽子（壊）	name	item	Fighter hat (broken)
 Ranger hat (broken)	射手の帽子（壊）	name	item	Ranger hat (broken)
-Healer hat (broken)	回復者の帽子（壊）	name	item	Healer hat (broken)
+Healer hat (broken)	治癒者の帽子（壊）	name	item	Healer hat (broken)
 Fighter torso (broken)	ファイターの胴体（壊）	name	item	Fighter torso (broken)
 Penance skirt (broken)	ペナンスのスカート（壊）	name	item	Penance skirt (broken)
 Elder chaos top	混沌長老のトップ	name	item	Elder chaos top
@@ -7273,7 +7273,7 @@ Time bubble	タイムバブル	name	item	Time bubble
 Traiborn note	トライボーンノート	name	item	Traiborn note
 Jonas mask	ジョナス・マスク	name	item	Jonas mask
 Diving helmet	潜水ヘルメット	name	item	Diving helmet
-Brittle key	もろいキー	name	item	Brittle key
+Brittle key	脆いカギ	name	item	Brittle key
 Granite dust	花崗岩塵	name	item	Granite dust
 Granite cannonball	花崗岩のキャノンボール	name	item	Granite cannonball
 Black tourmaline core	黒トルマリンの核	name	item	Black tourmaline core
@@ -7555,8 +7555,8 @@ The butcher	肉やのもの	name	item	The butcher
 Arachnids of vampyrium	吸血グモ	name	item	Arachnids of vampyrium
 The shadow realm	影の領域	name	item	The shadow realm
 The wild hunt	野生の狩り	name	item	The wild hunt
-Verzik vitur - patient record	ヴェージック・ヴァーチャー患者記録	name	item	Verzik vitur - patient record
-Dawnbringer	夜明けブリンガー	name	item	Dawnbringer
+Verzik vitur - patient record	ヴァージック・ヴァーチャー患者記録	name	item	Verzik vitur - patient record
+Dawnbringer	ドーンブリンガー	name	item	Dawnbringer
 Escape crystal	脱出水晶	name	item	Escape crystal
 Coin pouch	コインポーチ	name	item	Coin pouch
 Rotten strawberry	腐ったイチゴ	name	item	Rotten strawberry
@@ -8072,7 +8072,7 @@ Decorative shield (l)	装飾のタコ盾（保）	name	item	Decorative shield (l
 Saradomin halo (l)	サラドミンの後光（保）	name	item	Saradomin halo (l)
 Zamorak halo (l)	ザモラックの後光（保）	name	item	Zamorak halo (l)
 Guthix halo (l)	ガシックスの後光（保）	name	item	Guthix halo (l)
-Healer hat (l)	回復者の帽子（保）	name	item	Healer hat (l)
+Healer hat (l)	治癒者の帽子（保）	name	item	Healer hat (l)
 Fighter hat (l)	ファイターの帽子（保）	name	item	Fighter hat (l)
 Ranger hat (l)	射手の帽子（保）	name	item	Ranger hat (l)
 Fighter torso (l)	ファイターの胴体（保）	name	item	Fighter torso (l)
@@ -8689,7 +8689,7 @@ Holy ornament kit	聖なる装飾キット	name	item	Holy ornament kit
 Sanguine ornament kit	サングインの装飾キット	name	item	Sanguine ornament kit
 Sanguine dust	サングインの粉	name	item	Sanguine dust
 Lil' maiden	小っちゃな乙女	name	item	Lil' maiden
-Lil' bloat	小っちゃな膨張	name	item	Lil' bloat
+Lil' bloat	小っちゃなブロート	name	item	Lil' bloat
 Lil' nylo	小っちゃなニロ	name	item	Lil' nylo
 Lil' sot	小っちゃなソット	name	item	Lil' sot
 Lil' xarp	小っちゃなハープ	name	item	Lil' xarp

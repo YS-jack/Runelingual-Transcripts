@@ -1,0 +1,1391 @@
+english	category	sub_category	source
+Combat Achievements - Overview	interface	combAchvmt	
+Total Points: <Num0> - Next unlock in <Num1> points	interface	combAchvmt	
+Difficulty Tiers	interface	combAchvmt	
+Combat Profile - <!PLAYER_NAME0>	interface	combAchvmt	
+Easy	interface	combAchvmt	
+Medium	interface	combAchvmt	
+Hard	interface	combAchvmt	
+Elite	interface	combAchvmt	
+Master	interface	combAchvmt	
+Grandmaster	interface	combAchvmt	
+Tasks Completed:	interface	combAchvmt	
+Boss Kill Count:	interface	combAchvmt	
+Skilling Boss Kill Count:	interface	combAchvmt	
+Raid Completions:	interface	combAchvmt	
+Top Boss:	interface	combAchvmt	
+<!ANY_TRANSLATED0> (<Num0>)	interface	combAchvmt	
+Top Skilling Boss:	interface	combAchvmt	
+Top Raid:	interface	combAchvmt	
+Nothing!	interface	combAchvmt	
+Overview	interface	combAchvmt	
+Tasks	interface	combAchvmt	
+Bosses	interface	combAchvmt	
+Rewards	interface	combAchvmt	
+Combat Achievements - Tasks	interface	combAchvmt	
+There are no tasks available to you that match your filters.	interface	combAchvmt	
+Filters	interface	combAchvmt	
+Tier:	interface	combAchvmt	
+All	interface	combAchvmt	
+Type:	interface	combAchvmt	
+Monster:	interface	combAchvmt	
+Completed:	interface	combAchvmt	
+Monster: <colNum0><!ANY_TRANSLATED0></col>	interface	combAchvmt	
+Noxious Foe	interface	combAchvmt	
+Barrows Novice	interface	combAchvmt	
+Defence? What Defence?	interface	combAchvmt	
+Big, Black and Fiery	interface	combAchvmt	
+The Demonic Punching Bag	interface	combAchvmt	
+Bryophyta Novice	interface	combAchvmt	
+Protection from Moss	interface	combAchvmt	
+Preparation Is Key	interface	combAchvmt	
+A Slow Death	interface	combAchvmt	
+Fighting as Intended II	interface	combAchvmt	
+Deranged Archaeologist Novice	interface	combAchvmt	
+The Walking Volcano	interface	combAchvmt	
+Into the Den of Giants	interface	combAchvmt	
+A Greater Foe	interface	combAchvmt	
+Not So Great After All	interface	combAchvmt	
+A Demon's Best Friend	interface	combAchvmt	
+Obor Novice	interface	combAchvmt	
+Sleeping Giant	interface	combAchvmt	
+Fighting as Intended	interface	combAchvmt	
+King Black Dragon Novice	interface	combAchvmt	
+A Scaley Encounter	interface	combAchvmt	
+Shayzien Protector	interface	combAchvmt	
+Giant Mole Novice	interface	combAchvmt	
+Sarachnis Novice	interface	combAchvmt	
+Wintertodt Novice	interface	combAchvmt	
+Mummy!	interface	combAchvmt	
+Handyman	interface	combAchvmt	
+Cosy	interface	combAchvmt	
+A Slithery Encounter	interface	combAchvmt	
+Tempoross Novice	interface	combAchvmt	
+Master of Buckets	interface	combAchvmt	
+Calm Before the Storm	interface	combAchvmt	
+Fire in the Hole!	interface	combAchvmt	
+Scurrius Novice	interface	combAchvmt	
+Sit Rat	interface	combAchvmt	
+One by one	interface	combAchvmt	
+Elemental Company	interface	combAchvmt	
+Let them fight	interface	combAchvmt	
+Sit Back and Relax	interface	combAchvmt	
+Barrows Champion	interface	combAchvmt	
+Can't Touch Me	interface	combAchvmt	
+Pray for Success	interface	combAchvmt	
+Brutal, Big, Black and Firey	interface	combAchvmt	
+Bryophyta Champion	interface	combAchvmt	
+Quick Cutter	interface	combAchvmt	
+Demonic Weakening	interface	combAchvmt	
+Demonbane Weaponry	interface	combAchvmt	
+Chaos Fanatic Champion	interface	combAchvmt	
+Sorry, What Was That?	interface	combAchvmt	
+Crazy Archaeologist Champion	interface	combAchvmt	
+Mage of the Ruins	interface	combAchvmt	
+I'd Rather Not Learn	interface	combAchvmt	
+Deranged Archaeologist Champion	interface	combAchvmt	
+Mage of the Swamp	interface	combAchvmt	
+I'd Rather Be Illiterate	interface	combAchvmt	
+A Smashing Time	interface	combAchvmt	
+Obor Champion	interface	combAchvmt	
+Back to the Wall	interface	combAchvmt	
+Squashing the Giant	interface	combAchvmt	
+King Black Dragon Champion	interface	combAchvmt	
+Claw Clipper	interface	combAchvmt	
+Hide Penetration	interface	combAchvmt	
+Antifire Protection	interface	combAchvmt	
+Master of Broad Weaponry	interface	combAchvmt	
+Giant Mole Champion	interface	combAchvmt	
+Avoiding Those Little Arms	interface	combAchvmt	
+Dagannoth Prime Champion	interface	combAchvmt	
+Dagannoth Rex Champion	interface	combAchvmt	
+A Frozen King	interface	combAchvmt	
+Sarachnis Champion	interface	combAchvmt	
+Newspaper Enthusiast	interface	combAchvmt	
+A Frozen Foe from the Past	interface	combAchvmt	
+Dagannoth Supreme Champion	interface	combAchvmt	
+Wintertodt Champion	interface	combAchvmt	
+Can We Fix It?	interface	combAchvmt	
+Leaving No One Behind	interface	combAchvmt	
+Skotizo Champion	interface	combAchvmt	
+Tempoross Champion	interface	combAchvmt	
+The Lone Angler	interface	combAchvmt	
+Scurrius Champion	interface	combAchvmt	
+Perfect Scurrius	interface	combAchvmt	
+Efficient Pest Control	interface	combAchvmt	
+Lunar Triplet	interface	combAchvmt	
+Perilous Novice	interface	combAchvmt	
+Back to Our Roots	interface	combAchvmt	
+Moons of Peril Speed-Trialist	interface	combAchvmt	
+Hueycoatl Champion	interface	combAchvmt	
+You're a wizard	interface	combAchvmt	
+Amoxliatl Champion	interface	combAchvmt	
+Temotli Triumph	interface	combAchvmt	
+Royal Titan Champion	interface	combAchvmt	
+Royal Titan Adept	interface	combAchvmt	
+It takes too long	interface	combAchvmt	
+Abyssal Adept	interface	combAchvmt	
+They Grow Up Too Fast	interface	combAchvmt	
+Don't Whip Me	interface	combAchvmt	
+Don't Stop Moving	interface	combAchvmt	
+Kree'arra Adept	interface	combAchvmt	
+Airborne Showdown	interface	combAchvmt	
+General Graardor Adept	interface	combAchvmt	
+Ourg Freezer	interface	combAchvmt	
+General Showdown	interface	combAchvmt	
+Just Like That	interface	combAchvmt	
+Faithless Crypt Run	interface	combAchvmt	
+Callisto Adept	interface	combAchvmt	
+Skotizo Adept	interface	combAchvmt	
+Chaos Elemental Adept	interface	combAchvmt	
+Hoarder	interface	combAchvmt	
+The Flincher	interface	combAchvmt	
+Chaos Fanatic Adept	interface	combAchvmt	
+Praying to the Gods	interface	combAchvmt	
+Crazy Archaeologist Adept	interface	combAchvmt	
+Grotesque Guardians Adept	interface	combAchvmt	
+Don't Look at the Eclipse	interface	combAchvmt	
+Prison Break	interface	combAchvmt	
+Granite Footwork	interface	combAchvmt	
+Heal No More	interface	combAchvmt	
+Static Awareness	interface	combAchvmt	
+Hespori Adept	interface	combAchvmt	
+Hesporisn't	interface	combAchvmt	
+Weed Whacker	interface	combAchvmt	
+Kalphite Queen Adept	interface	combAchvmt	
+Chitin Penetrator	interface	combAchvmt	
+Who Is the King Now?	interface	combAchvmt	
+Kraken Adept	interface	combAchvmt	
+Unnecessary Optimisation	interface	combAchvmt	
+Krakan't Hurt Me	interface	combAchvmt	
+Why Are You Running?	interface	combAchvmt	
+Whack-a-Mole	interface	combAchvmt	
+Nightmare Adept	interface	combAchvmt	
+Dagannoth Prime Adept	interface	combAchvmt	
+Dagannoth Rex Adept	interface	combAchvmt	
+Ready to Pounce	interface	combAchvmt	
+Inspect Repellent	interface	combAchvmt	
+Commander Zilyana Adept	interface	combAchvmt	
+Commander Showdown	interface	combAchvmt	
+Scorpia Adept	interface	combAchvmt	
+I Can't Reach That	interface	combAchvmt	
+Guardians No More	interface	combAchvmt	
+Zulrah Adept	interface	combAchvmt	
+Dagannoth Supreme Adept	interface	combAchvmt	
+Theatre of Blood: SM Adept	interface	combAchvmt	
+Venenatis Adept	interface	combAchvmt	
+Vet'ion Adept	interface	combAchvmt	
+Why Fletch?	interface	combAchvmt	
+K'ril Tsutsaroth Adept	interface	combAchvmt	
+Yarr No More	interface	combAchvmt	
+Demonic Showdown	interface	combAchvmt	
+Demonbane Weaponry II	interface	combAchvmt	
+Dress Like You Mean It	interface	combAchvmt	
+Why Cook?	interface	combAchvmt	
+Novice Tomb Explorer	interface	combAchvmt	
+Novice Tomb Looter	interface	combAchvmt	
+Movin' on up	interface	combAchvmt	
+Confident Raider	interface	combAchvmt	
+Phantom Muspah Adept	interface	combAchvmt	
+Perilous Dancer	interface	combAchvmt	
+Fortified	interface	combAchvmt	
+Betrayal	interface	combAchvmt	
+Moons of Peril Speed-Chaser	interface	combAchvmt	
+Fat of the Land	interface	combAchvmt	
+The Clone Zone	interface	combAchvmt	
+Perilous Champion	interface	combAchvmt	
+Hueycoatl Adept	interface	combAchvmt	
+Pillar Lover	interface	combAchvmt	
+I'm your son	interface	combAchvmt	
+Amoxliatl Adept	interface	combAchvmt	
+Amoxliatl Speed-Trialist	interface	combAchvmt	
+Nagua Negation	interface	combAchvmt	
+Kemo Makti	interface	combAchvmt	
+Totally Shattered	interface	combAchvmt	
+Perfect Royal Titans	interface	combAchvmt	
+Royal Titan Speed-Runner	interface	combAchvmt	
+Titan Killer	interface	combAchvmt	
+I need room	interface	combAchvmt	
+Abyssal Veteran	interface	combAchvmt	
+Respiratory Runner	interface	combAchvmt	
+Demonic Rebound	interface	combAchvmt	
+Perfect Sire	interface	combAchvmt	
+Kree'arra Veteran	interface	combAchvmt	
+General Graardor Veteran	interface	combAchvmt	
+Ourg Freezer II	interface	combAchvmt	
+Reflecting on This Encounter	interface	combAchvmt	
+Callisto Veteran	interface	combAchvmt	
+Demon Evasion	interface	combAchvmt	
+Up for the Challenge	interface	combAchvmt	
+Cerberus Veteran	interface	combAchvmt	
+Ghost Buster	interface	combAchvmt	
+Unrequired Antifire	interface	combAchvmt	
+Anti-Bite Mechanics	interface	combAchvmt	
+Chaos Elemental Veteran	interface	combAchvmt	
+Corporeal Beast Veteran	interface	combAchvmt	
+Hot on Your Feet	interface	combAchvmt	
+Finding the Weak Spot	interface	combAchvmt	
+Chicken Killer	interface	combAchvmt	
+If Gorillas Could Fly	interface	combAchvmt	
+Hitting Them Where It Hurts	interface	combAchvmt	
+Galvek Speed-Trialist	interface	combAchvmt	
+Grotesque Guardians Veteran	interface	combAchvmt	
+Done before Dusk	interface	combAchvmt	
+Perfect Grotesque Guardians	interface	combAchvmt	
+Grotesque Guardians Speed-Trialist	interface	combAchvmt	
+From Dusk...	interface	combAchvmt	
+Corrupted Gauntlet Veteran	interface	combAchvmt	
+<Num0>, <Num1>, <Num2> - Mage	interface	combAchvmt	
+Gauntlet Veteran	interface	combAchvmt	
+<Num0>, <Num1>, <Num2> - Range	interface	combAchvmt	
+Egniol Diet	interface	combAchvmt	
+Crystalline Warrior	interface	combAchvmt	
+Wolf Puncher	interface	combAchvmt	
+Glough Speed-Trialist	interface	combAchvmt	
+Plant-Based Diet	interface	combAchvmt	
+Hespori Speed-Trialist	interface	combAchvmt	
+Alchemical Veteran	interface	combAchvmt	
+Fight Caves Veteran	interface	combAchvmt	
+Facing Jad Head-on	interface	combAchvmt	
+Kalphite Queen Veteran	interface	combAchvmt	
+Insect Deflection	interface	combAchvmt	
+Prayer Smasher	interface	combAchvmt	
+Ten-tacles	interface	combAchvmt	
+Mimic Veteran	interface	combAchvmt	
+Hard Hitter	interface	combAchvmt	
+Nightmare Veteran	interface	combAchvmt	
+Explosion!	interface	combAchvmt	
+Sleep Tight	interface	combAchvmt	
+Nightmare (Solo) Speed-Trialist	interface	combAchvmt	
+Nightmare (<Num0>-Scale) Speed-Trialist	interface	combAchvmt	
+Death to the Seer King	interface	combAchvmt	
+From One King to Another	interface	combAchvmt	
+Death to the Warrior King	interface	combAchvmt	
+Toppling the Diarchy	interface	combAchvmt	
+Commander Zilyana Veteran	interface	combAchvmt	
+Reminisce	interface	combAchvmt	
+Scorpia Veteran	interface	combAchvmt	
+Fragment of Seren Speed-Trialist	interface	combAchvmt	
+Zulrah Veteran	interface	combAchvmt	
+Snake Rebound	interface	combAchvmt	
+Snake. Snake!? Snaaaaaake!	interface	combAchvmt	
+Zulrah Speed-Trialist	interface	combAchvmt	
+Death to the Archer King	interface	combAchvmt	
+Rapid Succession	interface	combAchvmt	
+Anticoagulants	interface	combAchvmt	
+Appropriate Tools	interface	combAchvmt	
+They Won't Expect This	interface	combAchvmt	
+Chally Time	interface	combAchvmt	
+Nylocas, On the Rocks	interface	combAchvmt	
+Just To Be Safe	interface	combAchvmt	
+Don't Look at Me!	interface	combAchvmt	
+No-Pillar	interface	combAchvmt	
+Attack, Step, Wait	interface	combAchvmt	
+Pass It On	interface	combAchvmt	
+Theatre of Blood Veteran	interface	combAchvmt	
+Thermonuclear Veteran	interface	combAchvmt	
+Hazard Prevention	interface	combAchvmt	
+Spec'd Out	interface	combAchvmt	
+Venenatis Veteran	interface	combAchvmt	
+Vet'eran	interface	combAchvmt	
+Vorkath Veteran	interface	combAchvmt	
+Stick 'em With the Pointy End	interface	combAchvmt	
+Zombie Destroyer	interface	combAchvmt	
+Dust Seeker	interface	combAchvmt	
+Chambers of Xeric Veteran	interface	combAchvmt	
+Perfectly Balanced	interface	combAchvmt	
+Together We'll Fall	interface	combAchvmt	
+Redemption Enthusiast	interface	combAchvmt	
+Mutta-diet	interface	combAchvmt	
+Dancing with Statues	interface	combAchvmt	
+Undying Raid Team	interface	combAchvmt	
+Shayzien Specialist	interface	combAchvmt	
+Cryo No More	interface	combAchvmt	
+Blizzard Dodger	interface	combAchvmt	
+Kill It with Fire	interface	combAchvmt	
+Zalcano Veteran	interface	combAchvmt	
+Perfect Zalcano	interface	combAchvmt	
+Team Player	interface	combAchvmt	
+The Spurned Hero	interface	combAchvmt	
+K'ril Tsutsaroth Veteran	interface	combAchvmt	
+Demonic Defence	interface	combAchvmt	
+The Bane of Demons	interface	combAchvmt	
+Half-Way There	interface	combAchvmt	
+A Near Miss!	interface	combAchvmt	
+The II Jad Challenge	interface	combAchvmt	
+TzHaar-Ket-Rak's Speed-Trialist	interface	combAchvmt	
+Facing Jad Head-on III	interface	combAchvmt	
+Phosani's Veteran	interface	combAchvmt	
+Nex Veteran	interface	combAchvmt	
+Nex Survivors	interface	combAchvmt	
+Novice Tomb Raider	interface	combAchvmt	
+Tomb Explorer	interface	combAchvmt	
+Expert Tomb Explorer	interface	combAchvmt	
+Hardcore Raiders	interface	combAchvmt	
+Hardcore Tombs	interface	combAchvmt	
+Helpful spirit who?	interface	combAchvmt	
+Dropped the ball	interface	combAchvmt	
+No skipping allowed	interface	combAchvmt	
+Down Do Specs	interface	combAchvmt	
+Perfect Het	interface	combAchvmt	
+Perfect Apmeken	interface	combAchvmt	
+Perfect Crondis	interface	combAchvmt	
+I'm in a rush	interface	combAchvmt	
+Phantom Muspah Speed-Trialist	interface	combAchvmt	
+Phantom Muspah Veteran	interface	combAchvmt	
+Can't Escape	interface	combAchvmt	
+Versatile Drainer	interface	combAchvmt	
+Duke Sucellus Adept	interface	combAchvmt	
+Vardorvis Adept	interface	combAchvmt	
+Whisperer Adept	interface	combAchvmt	
+Leviathan Adept	interface	combAchvmt	
+Duke Sucellus Speed-Trialist	interface	combAchvmt	
+Vardorvis Speed-Trialist	interface	combAchvmt	
+Whisperer Speed-Trialist	interface	combAchvmt	
+Leviathan Speed-Trialist	interface	combAchvmt	
+Tentacular	interface	combAchvmt	
+High Hitter	interface	combAchvmt	
+Furball	interface	combAchvmt	
+Denied	interface	combAchvmt	
+I was here first!	interface	combAchvmt	
+Unending Torment	interface	combAchvmt	
+Through Fire and Flames	interface	combAchvmt	
+Two Times the Torment	interface	combAchvmt	
+Rapid Reload	interface	combAchvmt	
+Araxxor Veteran	interface	combAchvmt	
+Relaxxor	interface	combAchvmt	
+Araxxor Speed-Trialist	interface	combAchvmt	
+Hueycoatl Speed-Trialist	interface	combAchvmt	
+Hueycoatl Veteran	interface	combAchvmt	
+Perfect Hueycoatl	interface	combAchvmt	
+Amoxliatl Speed-Chaser	interface	combAchvmt	
+Without Ralos' Light	interface	combAchvmt	
+No time to pray	interface	combAchvmt	
+Collateral Damage	interface	combAchvmt	
+Swoop No More	interface	combAchvmt	
+Precise Positioning	interface	combAchvmt	
+Cerberus Master	interface	combAchvmt	
+Arooo No More	interface	combAchvmt	
+Corporeal Beast Master	interface	combAchvmt	
+Perfect Grotesque Guardians II	interface	combAchvmt	
+Grotesque Guardians Speed-Chaser	interface	combAchvmt	
+... 'til Dawn	interface	combAchvmt	
+Corrupted Gauntlet Master	interface	combAchvmt	
+Perfect Corrupted Hunllef	interface	combAchvmt	
+Defence Doesn't Matter II	interface	combAchvmt	
+Corrupted Warrior	interface	combAchvmt	
+Corrupted Gauntlet Speed-Chaser	interface	combAchvmt	
+Gauntlet Master	interface	combAchvmt	
+Perfect Crystalline Hunllef	interface	combAchvmt	
+Defence Doesn't Matter	interface	combAchvmt	
+Gauntlet Speed-Chaser	interface	combAchvmt	
+Hespori Speed-Chaser	interface	combAchvmt	
+Alchemical Master	interface	combAchvmt	
+Unrequired Antipoisons	interface	combAchvmt	
+Lightning Lure	interface	combAchvmt	
+Don't Flame Me	interface	combAchvmt	
+Mixing Correctly	interface	combAchvmt	
+The Flame Skipper	interface	combAchvmt	
+Alcleanical Hydra	interface	combAchvmt	
+Alchemical Speed-Chaser	interface	combAchvmt	
+Working Overtime	interface	combAchvmt	
+Fight Caves Master	interface	combAchvmt	
+Denying the Healers	interface	combAchvmt	
+You Didn't Say Anything About a Bat	interface	combAchvmt	
+Fight Caves Speed-Chaser	interface	combAchvmt	
+One Hundred Tentacles	interface	combAchvmt	
+Nightmare Master	interface	combAchvmt	
+Perfect Nightmare	interface	combAchvmt	
+Nightmare (Solo) Speed-Chaser	interface	combAchvmt	
+Nightmare (<Num0>-Scale) Speed-Chaser	interface	combAchvmt	
+Moving Collateral	interface	combAchvmt	
+Zulrah Master	interface	combAchvmt	
+Perfect Zulrah	interface	combAchvmt	
+Zulrah Speed-Chaser	interface	combAchvmt	
+Can't Drain This	interface	combAchvmt	
+Perfect Maiden	interface	combAchvmt	
+Two-Down	interface	combAchvmt	
+Perfect Bloat	interface	combAchvmt	
+Perfect Nylocas	interface	combAchvmt	
+A Timely Snack	interface	combAchvmt	
+Perfect Sotetseg	interface	combAchvmt	
+Can You Dance?	interface	combAchvmt	
+Perfect Xarpus	interface	combAchvmt	
+Pop It	interface	combAchvmt	
+Perfect Verzik	interface	combAchvmt	
+Back in My Day...	interface	combAchvmt	
+Theatre (Trio) Speed-Chaser	interface	combAchvmt	
+Theatre (<Num0>-Scale) Speed-Chaser	interface	combAchvmt	
+Theatre of Blood Master	interface	combAchvmt	
+Vorkath Master	interface	combAchvmt	
+The Walk	interface	combAchvmt	
+Dodging the Dragon	interface	combAchvmt	
+Vorkath Speed-Chaser	interface	combAchvmt	
+Extended Encounter	interface	combAchvmt	
+Chambers of Xeric: CM Master	interface	combAchvmt	
+Immortal Raid Team	interface	combAchvmt	
+Immortal Raider	interface	combAchvmt	
+Chambers of Xeric: CM (Solo) Speed-Chaser	interface	combAchvmt	
+Chambers of Xeric: CM (<Num0>-Scale) Speed-Chaser	interface	combAchvmt	
+Chambers of Xeric: CM (Trio) Speed-Chaser	interface	combAchvmt	
+Chambers of Xeric Master	interface	combAchvmt	
+No Time for Death	interface	combAchvmt	
+Putting It Olm on the Line	interface	combAchvmt	
+A Not So Special Lizard	interface	combAchvmt	
+Stop Drop and Roll	interface	combAchvmt	
+Anvil No More	interface	combAchvmt	
+Undying Raider	interface	combAchvmt	
+Playing with Lasers	interface	combAchvmt	
+Perfect Olm (Solo)	interface	combAchvmt	
+Perfect Olm (Trio)	interface	combAchvmt	
+Blind Spot	interface	combAchvmt	
+Chambers of Xeric (Solo) Speed-Chaser	interface	combAchvmt	
+Chambers of Xeric (Trio) Speed-Chaser	interface	combAchvmt	
+Chambers of Xeric (<Num0>-Scale) Speed-Chaser	interface	combAchvmt	
+Nibblers, Begone!	interface	combAchvmt	
+The IV Jad Challenge	interface	combAchvmt	
+TzHaar-Ket-Rak's Speed-Chaser	interface	combAchvmt	
+Facing Jad Head-on IV	interface	combAchvmt	
+Supplies? Who Needs 'em?	interface	combAchvmt	
+Multi-Style Specialist	interface	combAchvmt	
+Hard Mode? Completed It	interface	combAchvmt	
+Theatre of Blood: SM Speed-Chaser	interface	combAchvmt	
+Phosani's Master	interface	combAchvmt	
+Phosani's Speedchaser	interface	combAchvmt	
+Crush Hour	interface	combAchvmt	
+I Would Simply React	interface	combAchvmt	
+Dreamland Express	interface	combAchvmt	
+Nex Master	interface	combAchvmt	
+A siphon will solve this	interface	combAchvmt	
+Contain this!	interface	combAchvmt	
+There is no escape!	interface	combAchvmt	
+Nex Trio	interface	combAchvmt	
+Shadows Move...	interface	combAchvmt	
+You are not prepared	interface	combAchvmt	
+Tomb Looter	interface	combAchvmt	
+Tomb Raider	interface	combAchvmt	
+Tombs Speed Runner	interface	combAchvmt	
+Something of an expert myself	interface	combAchvmt	
+Expert Tomb Looter	interface	combAchvmt	
+Ba-Bananza	interface	combAchvmt	
+Rockin' around the croc	interface	combAchvmt	
+Doesn't bug me	interface	combAchvmt	
+All out of medics	interface	combAchvmt	
+Better get movin'	interface	combAchvmt	
+Warden't you believe it	interface	combAchvmt	
+Resourceful Raider	interface	combAchvmt	
+But... Damage	interface	combAchvmt	
+Chompington	interface	combAchvmt	
+Fancy feet	interface	combAchvmt	
+Perfect Akkha	interface	combAchvmt	
+Perfect Ba-Ba	interface	combAchvmt	
+Perfect Zebak	interface	combAchvmt	
+Perfect Scabaras	interface	combAchvmt	
+Perfect Kephri	interface	combAchvmt	
+Perfect Wardens	interface	combAchvmt	
+More than just a ranged weapon	interface	combAchvmt	
+Essence Farmer	interface	combAchvmt	
+Phantom Muspah Speed-Chaser	interface	combAchvmt	
+Phantom Muspah Master	interface	combAchvmt	
+Walk Straight Pray True	interface	combAchvmt	
+Space is Tight	interface	combAchvmt	
+Perfect Whisperer	interface	combAchvmt	
+Duke Sucellus Master	interface	combAchvmt	
+Vardorvis Master	interface	combAchvmt	
+Whisperer Master	interface	combAchvmt	
+Leviathan Master	interface	combAchvmt	
+Duke Sucellus Speed-Chaser	interface	combAchvmt	
+Vardorvis Speed-Chaser	interface	combAchvmt	
+Whisperer Speed-Chaser	interface	combAchvmt	
+Leviathan Speed-Chaser	interface	combAchvmt	
+Cold Feet	interface	combAchvmt	
+Perfect Duke Sucellus	interface	combAchvmt	
+Serpentine Solo	interface	combAchvmt	
+Perfect Leviathan	interface	combAchvmt	
+Budget Cutter	interface	combAchvmt	
+Perfect Vardorvis	interface	combAchvmt	
+Sportsmanship	interface	combAchvmt	
+I Brought Mine Too	interface	combAchvmt	
+Showboating	interface	combAchvmt	
+One-off	interface	combAchvmt	
+Colosseum Speed-Chaser	interface	combAchvmt	
+Three Times the Thrashing	interface	combAchvmt	
+Araxxor Master	interface	combAchvmt	
+Araxxor Speed-Chaser	interface	combAchvmt	
+Perfect Araxxor	interface	combAchvmt	
+Let it seep in	interface	combAchvmt	
+Araxyte Betrayal	interface	combAchvmt	
+Arachnid Lover	interface	combAchvmt	
+Is it a bird?	interface	combAchvmt	
+Hueycoatl Speed-Chaser	interface	combAchvmt	
+The Worst Ranged Weapon	interface	combAchvmt	
+Feather Hunter	interface	combAchvmt	
+Defence Matters	interface	combAchvmt	
+Keep Away	interface	combAchvmt	
+Ourg Killer	interface	combAchvmt	
+Grotesque Guardians Speed-Runner	interface	combAchvmt	
+Corrupted Gauntlet Grandmaster	interface	combAchvmt	
+Egniol Diet II	interface	combAchvmt	
+Wolf Puncher II	interface	combAchvmt	
+Corrupted Gauntlet Speed-Runner	interface	combAchvmt	
+Gauntlet Speed-Runner	interface	combAchvmt	
+No Pressure	interface	combAchvmt	
+Alchemical Speed-Runner	interface	combAchvmt	
+Denying the Healers II	interface	combAchvmt	
+No Time for a Drink	interface	combAchvmt	
+Fight Caves Speed-Runner	interface	combAchvmt	
+Terrible Parent	interface	combAchvmt	
+A Long Trip	interface	combAchvmt	
+Nightmare (Solo) Speed-Runner	interface	combAchvmt	
+Nightmare (<Num0>-Scale) Speed-Runner	interface	combAchvmt	
+Animal Whisperer	interface	combAchvmt	
+Peach Conjurer	interface	combAchvmt	
+Zulrah Speed-Runner	interface	combAchvmt	
+Theatre of Blood Grandmaster	interface	combAchvmt	
+Perfect Theatre	interface	combAchvmt	
+Morytania Only	interface	combAchvmt	
+Theatre (Duo) Speed-Runner	interface	combAchvmt	
+Theatre (Trio) Speed-Runner	interface	combAchvmt	
+Theatre (<Num0>-Scale) Speed-Runner	interface	combAchvmt	
+Faithless Encounter	interface	combAchvmt	
+The Fremennik Way	interface	combAchvmt	
+Vorkath Speed-Runner	interface	combAchvmt	
+Chambers of Xeric: CM Grandmaster	interface	combAchvmt	
+Chambers of Xeric: CM (Solo) Speed-Runner	interface	combAchvmt	
+Chambers of Xeric: CM (<Num0>-Scale) Speed-Runner	interface	combAchvmt	
+Chambers of Xeric: CM (Trio) Speed-Runner	interface	combAchvmt	
+Chambers of Xeric Grandmaster	interface	combAchvmt	
+Chambers of Xeric (Solo) Speed-Runner	interface	combAchvmt	
+Chambers of Xeric (Trio) Speed-Runner	interface	combAchvmt	
+Chambers of Xeric (<Num0>-Scale) Speed-Runner	interface	combAchvmt	
+Demon Whisperer	interface	combAchvmt	
+Ash Collector	interface	combAchvmt	
+Inferno Grandmaster	interface	combAchvmt	
+The Floor Is Lava	interface	combAchvmt	
+Playing with Jads	interface	combAchvmt	
+No Luck Required	interface	combAchvmt	
+Wasn't Even Close	interface	combAchvmt	
+Budget Setup	interface	combAchvmt	
+Nibbler Chaser	interface	combAchvmt	
+Facing Jad Head-on II	interface	combAchvmt	
+Jad? What Are You Doing Here?	interface	combAchvmt	
+Inferno Speed-Runner	interface	combAchvmt	
+The VI Jad Challenge	interface	combAchvmt	
+TzHaar-Ket-Rak's Speed-Runner	interface	combAchvmt	
+It Wasn't a Fluke	interface	combAchvmt	
+Stop Right There!	interface	combAchvmt	
+Personal Space	interface	combAchvmt	
+Royal Affairs	interface	combAchvmt	
+Harder Mode I	interface	combAchvmt	
+Harder Mode II	interface	combAchvmt	
+Nylo Sniper	interface	combAchvmt	
+Team Work Makes the Dream Work	interface	combAchvmt	
+Harder Mode III	interface	combAchvmt	
+Pack Like a Yak	interface	combAchvmt	
+Theatre: HM (Trio) Speed-Runner	interface	combAchvmt	
+Theatre: HM (<Num0>-Scale) Speed-Runner	interface	combAchvmt	
+Theatre of Blood: HM Grandmaster	interface	combAchvmt	
+Phosani's Grandmaster	interface	combAchvmt	
+Perfect Phosani's Nightmare	interface	combAchvmt	
+Phosani's Speedrunner	interface	combAchvmt	
+Can't Wake Up	interface	combAchvmt	
+Nex Duo	interface	combAchvmt	
+I should see a doctor	interface	combAchvmt	
+Perfect Nex	interface	combAchvmt	
+Tombs Speed Runner II	interface	combAchvmt	
+Amascut's Remnant	interface	combAchvmt	
+Maybe I'm the boss.	interface	combAchvmt	
+Expert Tomb Raider	interface	combAchvmt	
+Akkhan't Do it	interface	combAchvmt	
+All Praise Zebak	interface	combAchvmt	
+Perfection of Het	interface	combAchvmt	
+Perfection of Apmeken	interface	combAchvmt	
+Perfection of Crondis	interface	combAchvmt	
+Perfection of Scabaras	interface	combAchvmt	
+Insanity	interface	combAchvmt	
+Phantom Muspah Manipulator	interface	combAchvmt	
+Phantom Muspah Speed-Runner	interface	combAchvmt	
+Duke Sucellus Sleeper	interface	combAchvmt	
+Vardorvis Sleeper	interface	combAchvmt	
+Whispered	interface	combAchvmt	
+Leviathan Sleeper	interface	combAchvmt	
+Duke Sucellus Speed-Runner	interface	combAchvmt	
+Vardorvis Speed-Runner	interface	combAchvmt	
+Whisperer Speed-Runner	interface	combAchvmt	
+Leviathan Speed-Runner	interface	combAchvmt	
+Axe Enthusiast	interface	combAchvmt	
+Unconventional	interface	combAchvmt	
+Dark Memories	interface	combAchvmt	
+Mirror Image	interface	combAchvmt	
+Colosseum Grand Champion	interface	combAchvmt	
+Slow Dancing in the Sand	interface	combAchvmt	
+Perfect Footwork	interface	combAchvmt	
+Reinforcements	interface	combAchvmt	
+Colosseum Speed-Runner	interface	combAchvmt	
+Araxxor Speed-Runner	interface	combAchvmt	
+Perfect Araxxor <Num0>	interface	combAchvmt	
+Swimming in Venom	interface	combAchvmt	
+Hueycoatl Speed-Runner	interface	combAchvmt	
+Type: <colNum0>Kill Count</col> <colNum1>(+<Num0> point)</col>	interface	combAchvmt	
+Description: <colNum0>Kill an Aberrant Spectre.</col>	interface	combAchvmt	
+Description: <colNum0>Open the Barrows chest <Num0> times.</col>	interface	combAchvmt	
+Type: <colNum0>Restriction</col> <colNum1>(+<Num0> point)</col>	interface	combAchvmt	
+Description: <colNum0>Kill any Barrows Brother using only magical damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Black Dragon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Bloodveld.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Bryophyta once.</col>	interface	combAchvmt	
+Type: <colNum0>Mechanical</col> <colNum1>(+<Num0> point)</col>	interface	combAchvmt	
+Description: <colNum0>Kill Bryophyta with the Protect from Magic prayer active.</col>	interface	combAchvmt	
+Type: <colNum0>Perfection</col> <colNum1>(+<Num0> point)</col>	interface	combAchvmt	
+Description: <colNum0>Kill Bryophyta without suffering any poison damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Bryophyta with either poison or venom being the final source of damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Bryophyta on a free to play world.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Fire Giant.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Greater Demon.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off a Greater Demon with a demonbane weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Hellhound.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Obor once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Obor whilst he is immobilized.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Obor on a free to play world.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the King Black Dragon <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Lizardman Shaman.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Lizardman Shaman in Molch which has not dealt damage to anyone (excluding its Spawns).</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Giant Mole <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Sarachnis <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue the Wintertodt <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Heal a pyromancer after they have fallen.</col>	interface	combAchvmt	
+Description: <colNum0>Repair a brazier which has been destroyed by the Wintertodt.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue the Wintertodt with four pieces of warm equipment equipped.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Wyrm.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue Tempoross <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Extinguish at least <Num0> fires during a single Tempoross fight.</col>	interface	combAchvmt	
+Description: <colNum0>Repair either a mast or a totem pole.</col>	interface	combAchvmt	
+Description: <colNum0>Attack Tempoross from both sides by loading both cannons on both ships.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Scurrius once.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off Scurrius with a ratbane weapon in a private instance.</col>	interface	combAchvmt	
+Description: <colNum0>Kill one Titan at a time, without attacking the other.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans without attacking any elementals.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans while having them kill a total of <Num0> elementals.</col>	interface	combAchvmt	
+Type: <colNum0>Mechanical</col> <colNum1>(+<Num0> points)</col>	interface	combAchvmt	
+Description: <colNum0>Deal <Num0> damage to creatures using undead thralls.</col>	interface	combAchvmt	
+Type: <colNum0>Kill Count</col> <colNum1>(+<Num0> points)</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dharok, Verac, Torag and Guthan without letting them attack you with melee.</col>	interface	combAchvmt	
+Type: <colNum0>Perfection</col> <colNum1>(+<Num0> points)</col>	interface	combAchvmt	
+Description: <colNum0>Kill all six Barrows Brothers and loot the Barrows chest without taking any damage from any of the brothers.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Brutal Black Dragon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Bryophyta <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill all <Num0> of Bryophyta's growthlings within <Num1> seconds of the first one dying.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo with no altars active.</col>	interface	combAchvmt	
+Type: <colNum0>Restriction</col> <colNum1>(+<Num0> points)</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo with a demonbane weapon equipped.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Chaos Fanatic <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Chaos Fanatic without anyone being hit by his explosion attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crazy Archaeologist <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crazy Archaeologist with only magical attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist with only magical attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Gargoyle.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Obor <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Obor without being pushed back more than one square by his knockback attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Obor without taking any damage off prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the King Black Dragon with the Protect from Melee prayer activated.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the King Black Dragon with a stab weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Kurask.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Giant mole <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Giant Mole without her damaging anyone.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Prime <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Rex <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Rex whilst he is immobilised.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Sarachnis with a crush weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Skeletal Wyvern</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Supreme <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue the Wintertodt without allowing all <Num0> braziers to be broken at the same time.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue the Wintertodt without any of the Pyromancers falling.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo once.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue Tempoross alone without getting hit by any fires, torrents or waves.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Scurrius <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Scurrius in a private instance without taking damage from the following attacks: Tail Swipe and Falling Bricks. Pray correctly against the following attacks: Flying Fur and Bolts of Electricity.</col>	interface	combAchvmt	
+Description: <colNum0>Kill <Num0> Giant Rats within Scurrius' lair in <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Open the Reward Chest after defeating all three Moons.</col>	interface	combAchvmt	
+Description: <colNum0>Open the Reward Chest <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat all three Moons in one run by only attacking with a Dragon Scimitar.</col>	interface	combAchvmt	
+Type: <colNum0>Speed</col> <colNum1>(+<Num0> points)</col>	interface	combAchvmt	
+Description: <colNum0>Defeat all three Moons in one run in under <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl using only earth spells.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl using only glacial temotli as a weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill both royal titans while they are charging up their area attack. Both titans must die during the same charging up phase.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Sire <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Sire without letting any Scion mature.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Sire without being hit by any external tentacles.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Sire without taking damage from any miasma pools.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Kree'arra <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off Kree'arra whilst all of his bodyguards are dead.</col>	interface	combAchvmt	
+Description: <colNum0>Kill General Graardor <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill General Graardor whilst he is immobilized.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off General Graardor whilst all of his bodyguards are dead.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Karil using only damage dealt by special attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill all six Barrows Brothers and loot the Barrows chest without ever having more than <Num0> prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Callisto <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Chaos Elemental <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Chaos Elemental without it unequipping any of your items.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Chaos Elemental without taking any damage from its attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Chaos Fanatic <Num0> times without drinking any potion which restores prayer or leaving the Wilderness.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians without taking damage from Dusk's blinding attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians without taking damage from Dusk's prison attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians without taking damage from Dawn's rockfall attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians without letting Dawn receive any healing from her orbs.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians without being hit by any lightning attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Hespori <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off Hespori with a special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill all of Hesporis flowers within <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kalphite Queen <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kalphite Queen while her defence was last lowered by you.</col>	interface	combAchvmt	
+Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	interface	combAchvmt	
+Description: <colNum0>Kill The King Black Dragon <Num0> times in a privately rented instance without leaving the instance.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kraken <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kraken after killing all four tentacles.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kraken <Num0> times in a privately rented instance without leaving the room.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Giant Mole without her burrowing more than <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Giant Mole within <Num0> seconds of her resurfacing.</col>	interface	combAchvmt	
+Description: <colNum0>Kill The Nightmare once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Sarachnis without her using her range attack twice in a row.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Sarachnis without her dealing damage to anyone.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Commander Zilyana <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off Commander Zilyana while all of her bodyguards are dead.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Scorpia <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Scorpia without taking any damage from her.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Scorpia without killing her guardians.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Entry Mode <Num0> time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Venenatis <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vet'ion <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue the Wintertodt after earning <Num0> or more points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill K'ril Tsutsaroth <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Receive kill-credit for K'ril Tsutsaroth without him using his special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off K'ril Tsutsaroth whilst all of his bodyguards are dead.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off K'ril Tsutsaroth with a demonbane weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue Tempoross while wearing any variation of the angler outfit.</col>	interface	combAchvmt	
+Description: <colNum0>Subdue Tempoross, getting rewarded with <Num0> reward permits from a single Tempoross fight.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut in Entry mode (or above) once.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut in Entry mode (or above) <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Tombs of Amascut raid at level <Num0> or above.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat all the Moons in one run while only taking damage from regular attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat a Moon without consuming any supplies.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat a Moon using its associated weapon drop.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat <Num0> Moons of Peril bosses without leaving the dungeon.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Eclipse moon by only attacking its clones.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl whilst it is vulnerable.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl whilst wearing two pieces of Hueycoatl armour.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl in less than <Num0> minute.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl without taking any damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl <Num0> times without leaving her chamber.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl without any of her unstable ice shattering.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans without taking any avoidable damage. This includes damage from any melee attacks, explosions from the ice elemental or fire elemental, any icicle or fire spawn, any jump attacks or the ice or fire pulse attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans in less than <Num0>:<Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans <Num0> times without leaving the area. If a player joins the fight, the current streak will be reset to <Num1>. If a player leaves the fight, the task will be failed and a new instance will need to be created.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans while extinguishing all fires and melting all icicles before they dissipate naturally.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Sire after only stunning him once.</col>	interface	combAchvmt	
+Description: <colNum0>Use the Vengeance spell to reflect the damage from the Abyssal Sire's explosion back to him.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Sire without taking damage from the external tentacles, miasma pools, explosion or damage from the Abyssal Sire without praying the appropriate protection prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill General Graardor without him attacking any players.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Basilisk Knight.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo without taking any damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo without equipping a demonbane weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Cerberus <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Cerberus after successfully negating <Num0> or more attacks from Summoned Souls.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Cerberus without taking damage from any lava pools.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Cerberus without taking any melee damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corporeal Beast <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corporeal Beast without anyone killing the dark core or taking damage from the dark core.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off the Corporeal Beast with a Crystal Halberd special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corporeal Beast solo.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Demonic Gorilla.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off a Demonic Gorilla with a demonbane weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Galvek in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians <Num0> times without leaving the instance.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Corrupted Gauntlet <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corrupted Hunllef without taking damage off prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Gauntlet <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crystalline Hunllef without taking damage off prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crystalline Hunllef without making an egniol potion within the Gauntlet.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crystalline Hunllef with a full set of perfected armour equipped.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crystalline Hunllef without making more than one attuned weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Glough in less than <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Hespori without losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hespori in less than <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves once.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves with only melee.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kalphite Queen by using the Vengeance spell as the finishing blow.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Kalphite Queen using only the Verac's Flail as a weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Mimic once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Giant Mole with <Num0> or fewer instances of damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill The Nightmare <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill two Husks at the same time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Nightmare solo.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Nightmare (Solo) in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Nightmare (<Num0>-scale) in less than <Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Rex whilst under attack by Dagannoth Supreme and Dagannoth Prime.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Rex and one other Dagannoth king at the exact same time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Commander Zilyana in a privately rented instance with melee only.</col>	interface	combAchvmt	
+Description: <colNum0>Kill The Fragment of Seren in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah by using the Vengeance spell as the finishing blow.</col>	interface	combAchvmt	
+Description: <colNum0>Kill <Num0> Snakelings simultaneously.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah in less than <Num0> minute <Num1> seconds, without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Dagannoth Supreme whilst under attack by Dagannoth Prime and Dagannoth Rex.</col>	interface	combAchvmt	
+Description: <colNum0>Kill all three Dagannoth Kings within <Num0> seconds of the first one.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Maiden of Sugadinti in the Theatre of Blood: Entry Mode without letting any bloodspawn live for longer than <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode with everyone having a salve amulet equipped.</col>	interface	combAchvmt	
+Description: <colNum0>In the Theatre of Blood: Entry Mode, enter the Pestilent Bloat room from the opposite side.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Pestilent Bloat in the Theatre of Blood: Entry Mode by using a crystal halberd special attack as your final attack.</col>	interface	combAchvmt	
+Description: <colNum0>In the Theatre of Blood: Entry Mode, freeze any <Num0> Nylocas with a single Ice Barrage spell.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sotetseg in the Theatre of Blood: Entry Mode after having split the big ball with your entire team. This must be done with a group size of at least <Num0>.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Xarpus in the Theatre of Blood: Entry Mode without him reflecting any damage to anyone.</col>	interface	combAchvmt	
+Description: <colNum0>Survive Verzik Vitur's pillar phase in the Theatre of Blood: Entry Mode without losing a single pillar.</col>	interface	combAchvmt	
+Description: <colNum0>Survive Verzik Vitur's second phase in the Theatre of Blood: Entry Mode without anyone getting bounced by Verzik.</col>	interface	combAchvmt	
+Description: <colNum0>In the Theatre of Blood: Entry Mode, successfully pass on the green ball to a team mate.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Thermonuclear Smoke Devil <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Thermonuclear Smoke Devil without it hitting anyone.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Thermonuclear Smoke Devil using only special attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath using melee weapons only.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath's zombified spawn without using crumble undead.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric Challenge mode raid in the target time.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Chambers of Xeric <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Vanguards without them resetting their health.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Vanguards within <Num0> seconds of the first one dying.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Abyssal Portal without forcing Vespula to land.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Muttadile without letting her or her baby recover hitpoints from the meat tree.</col>	interface	combAchvmt	
+Description: <colNum0>Receive kill-credit for a Stone Guardian without taking damage from falling rocks.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric raid without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Receive kill-credit for a Lizardman Shaman without taking damage from any shamans in the room.</col>	interface	combAchvmt	
+Description: <colNum0>Receive kill-credit for the Ice Demon without taking any damage.</col>	interface	combAchvmt	
+Description: <colNum0>Receive kill-credit for the Ice Demon without activating the Protect from Range prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Finish off the Ice Demon with a fire spell.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zalcano <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zalcano <Num0> times in a row without leaving or getting hit by the following: Falling rocks, rock explosions, Zalcano powering up, or standing in a red symbol.</col>	interface	combAchvmt	
+Description: <colNum0>Receive imbued tephra from a golem.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zalcano as the player who has dealt the most damage to her.</col>	interface	combAchvmt	
+Description: <colNum0>Kill K'ril Tsutsaroth in a privately rented instance without taking any of his melee hits.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat K'ril Tsutsaroth in a privately rented instance using only demonbane spells.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Jal-Zek within the Inferno.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves after surviving a hit from TzTok-Jad without praying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's second challenge.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's first challenge in less than <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's second challenge with only melee.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut once.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut (Expert mode) once.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut in a group of two or more without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut solo without dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut without using any supplies from the Helpful Spirit and without anyone dying. Honey locusts are included in this restriction.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Akkha without dropping any materialising orbs and without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Ba-Ba after only attacking the non-weakened boulders in the rolling boulder phase, without dying yourself. The Boulderdash invocation must be activated.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Wardens after staggering the boss a maximum of twice during phase two, without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Het room without taking any hits from the light beam or orbs. You must destroy the core after one exposure.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Apmeken room in a group of two or more, without anyone allowing any dangers to trigger, standing in venom or being hit by a volatile baboon. You must complete this room in less than three minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Crondis room without letting a crocodile get to the tree, without anyone losing water from their container and in under one minute.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Ba-Ba after destroying four or fewer rolling boulders in total without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah in less than <Num0> minutes without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah without running.</col>	interface	combAchvmt	
+Description: <colNum0>Drain the Phantom Muspah's Prayer with three different sources in one kill.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Duke Sucellus once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Whisperer once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Leviathan once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Duke Sucellus in less than <Num0>:<Num1> minutes without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis in less than <Num0>:<Num1> minutes without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Whisperer in less than <Num0>:<Num1> without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Leviathan in less than <Num0>:<Num1> without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Whisperer whilst only being on the Arceuus spellbook.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat a Moon before they start their second special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> without taking avoidable damage from a Manticore.</col>	interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> without the Minotaur ever healing other enemies.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Jaguar Warrior using a Claw-type weapon special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Tormented Demon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill a Tormented Demon whilst their shield is inactive.</col>	interface	combAchvmt	
+Description: <colNum0>Kill two Tormented Demons within <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Hit three Tormented Demons within <Num0> seconds using a ballista or a crossbow.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor after destroying six eggs.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor <Num0> times in <Num1>:<Num2>.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl in <Num0>:<Num1></col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl perfectly <Num0> times without leaving. To get a perfect kill, you must not take any avoidable damage from the Hueycoatl's lightning attack, tail slam attack or off-prayer projectile attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl in less than <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Amoxliatl without losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Royal Titans without losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Kree'arra in a privately rented instance without ever attacking him directly.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Kree'arra in a privately rented instance without taking any melee damage from the boss or his bodyguards.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Skotizo with the final source of damage being a Chinchompa explosion.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Cerberus without any of the Summoned Souls being spawned.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians <Num0> times in a row without leaving the instance, whilst completing the Perfect Grotesque Guardians task every time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians in less than <Num0>:<Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corrupted Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Corrupted Hunllef with the wrong weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corrupted Hunllef without making any armour within the Corrupted Gauntlet.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corrupted Hunllef with a full set of perfected corrupted armour equipped.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Corrupted Gauntlet in less than <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crystalline Hunllef without taking damage from: Tornadoes, Damaging Floor or Stomp Attacks. Also, do not take damage off prayer and do not attack the Crystalline Hunllef with the wrong weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crystalline Hunllef without making any armour within the Gauntlet.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Gauntlet in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra without being hit by the acid pool attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra without being hit by the lightning attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra without being hit by the flame wall attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra without empowering it.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra without letting it spawn a flame wall attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra without taking any damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra in less than <Num0> minute <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra <Num0> times without leaving the room.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight caves without letting any of the Yt-MejKot heal.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves without being attacked by a Tz-Kih.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Nightmare without any player taking damage from the following attacks: Nightmare rifts, an un-cured parasite explosion, Corpse flowers or the Nightmare's Surge. Also, no player can take damage off prayer or have their attacks slowed by the Nightmare spores.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Commander Zilyana in a privately rented instance without attacking her directly.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah whilst taking no damage from the following: Snakelings, Venom Clouds, Zulrah's Green or Crimson phase.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah in less than <Num0> minute, without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill The Maiden of Sugadinti without anyone in the team losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill The Maiden of Sugadinti without anyone in the team taking damage from the following sources: Blood Spawn projectiles and Blood Spawn trails. Also, without taking damage off prayer and without letting any of the Nylocas Matomenos heal The Maiden.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Pestilent Bloat before he shuts down for the third time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Pestilent Bloat without anyone in the team taking damage from the following sources: Pestilent flies, Falling body parts or The Pestilent Bloats stomp attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Nylocas Vasilias without anyone in the team attacking any Nylocas with the wrong attack style, without letting a pillar collapse and without getting hit by any of the Nylocas Vasilias attacks whilst off prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Sotetseg after surviving at least <Num0> ball attacks without sharing the damage and without anyone dying throughout the fight.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Sotetseg without anyone in the team stepping on the wrong tile in the maze, without getting hit by the tornado and without taking any damage from Sotetseg's attacks whilst off prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Xarpus without anyone in the team using a ranged or magic weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Xarpus without anyone in the team taking any damage from Xarpus' attacks and without letting an exhumed heal Xarpus more than twice.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Verzik without any Nylocas being frozen and without anyone taking damage from the Nylocas.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Verzik Vitur without anyone in the team taking damage from Verzik Vitur's attacks other than her spider form's correctly prayed against regular magical and ranged attacks.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without any member of the team equipping a Scythe of Vitur.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood (Trio) in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood (<Num0>-scale) in less than <Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Hit Vorkath <Num0> times during the acid special without getting hit by his rapid fire or the acid pools.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath <Num0> times without taking any damage from his special attacks and without leaving his area.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath in less than <Num0> minute and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath <Num0> times without leaving his area.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Chambers of Xeric: Challenge Mode <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric: Challenge mode raid without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric Challenge mode (Solo) raid without dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric: Challenge Mode (Solo) in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric: Challenge Mode (<Num0>-scale) in less than <Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric: Challenge Mode (Trio) in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Clear the Tightrope room without Killing any Deathly Mages or Deathly Rangers.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric solo raid with more than <Num0> points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Great Olm in a solo raid without letting him use any of the following special attacks in his second to last phase: Crystal Burst, Lightning Walls, Teleportation Portals or left-hand autohealing.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vasa Nistirio before he performs his teleport attack for the second time.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Tekton before he returns to his anvil for a second time after the fight begins.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric solo raid without dying.</col>	interface	combAchvmt	
+Description: <colNum0>Clear the Crystal Crabs room without wasting an orb after the first crystal has been activated.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Great Olm in a solo raid without taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Great Olm in a trio raid without any team member taking damage from any of the following: Teleport portals, Fire Walls, Healing pools, Crystal Bombs, Crystal Burst or Prayer Orbs. You also cannot let his claws regenerate or take damage from the same acid pool back to back.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Tekton without taking any damage.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric (Solo) in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric (Trio) in less than <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric (<Num0>-scale) in less than <Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without letting a pillar fall before wave <Num0>.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fourth challenge.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fourth challenge with only melee.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge without having anything in your inventory.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's third challenge while using a different attack style for each JalTok-Jad.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Hard Mode within the challenge time.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Entry Mode in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare within <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare while killing every husk and parasite in one hit.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare without her disabling your prayer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare without letting a sleepwalker reach her during the desperation phase.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex without letting her heal from her Blood Siphon special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex without anyone taking damage from any Ice special attack.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex without anyone being hit by the Smoke Dash special attack</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex with three or less players inside the arena at the start of the fight.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex without anyone being hit by the Shadow Smash attack.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a full Tombs of Amascut raid only using supplies given inside the tomb and without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut (normal) within <Num0> mins at any group size.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut raid at level <Num0> or above without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut (Expert mode) <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Ba-Ba with all Ba-Ba invocations activated and the path levelled up to at least four, without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Zebak with all Zebak invocations activated and the path levelled up to at least four, without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Kephri with all Kephri invocations activated and the path levelled up to at least four, without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Kephri without letting her heal above <Num0>% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Elidinis' Warden in phase three of the Wardens fight with 'Aerial Assault', 'Stay vigilant' and 'Insanity' invocations activated and without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Wardens with all Wardens invocations activated, at expert level and without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut without anyone in your party wearing or holding any equipment at tier <Num0> or above.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Zebak using only melee attacks and without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Complete phase three of The Wardens in a group of two or more, using only melee attacks and without dying yourself. The 'Insanity' invocation must be activated.</col>	interface	combAchvmt	
+Description: <colNum0>Complete Akkha in a group of two or more, without anyone taking any hits from the following: Akkha's attacks off-prayer, Akkha's special attacks (orbs, memory, detonate), exploding shadow timers, orbs in the enrage phase or attacking Akkha with the wrong style. Hits for zero damage still count. You must have all Akkha invocations activated.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Ba-Ba in a group of two or more, without anyone taking any hits from the following: Ba-Ba's Attacks off-prayer, Ba-Ba's slam, rolling boulders, rubble attack or falling rocks. Hits for zero damage still count. No sarcophagi may be opened. You must have all Ba-Ba invocations activated.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Zebak without anyone taking any hits from: poison, Zebak's basic attacks off-prayer, blood spawns and waves. You also must not push more than two jugs on the roar attack during the fight (you may destroy stationary ones). Hits for zero damage still count. You must have all Zebak invocations activated.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Scabaras room in less than a minute without anyone taking any damage from puzzles.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Kephri in a group of two or more, without anyone taking any hits from the following: egg explosions, Kephri's attacks, Exploding Scarabs, Bodyguards, dung attacks. Hits for zero damage still count. No eggs may hatch throughout the fight.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat The Wardens in a group of two or more, without anyone taking avoidable hits from the following: Warden attacks, obelisk attacks, lightning attacks in phase three, skull attack in phase three, Demi god attacks in phase three. Hits for zero damage still count. You must have all Wardens invocations activated.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah by only dealing damage to it with a salamander.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah <Num0> times in one trip.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah without taking any avoidable damage.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah whilst it is surrounded by spikes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Whisperer without taking avoidable damage <Num0> times without leaving.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Duke Sucellus <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Whisperer <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Leviathan <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis in less than <Num0>:<Num1> without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Duke Sucellus without taking any avoidable damage, whilst also never running.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Duke Sucellus without taking any avoidable damage <Num0> times without leaving.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Leviathan without stunning the boss more than once.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Leviathan perfectly <Num0> times without leaving.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis with gear worth <Num0>m or less in total.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis perfectly <Num0> times without leaving.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit once.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit using only a Spear, Hasta or Halberd.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit after Fortis Saluting to the North, East, South and West of the arena while he's below <Num0>% Hitpoints.</col>	interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> with either "Red Flag", "Dynamic Duo", or "Doom II" active.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Colosseum with a total time of <Num0>:<Num1> or less.</col>	interface	combAchvmt	
+Description: <colNum0>Kill three Tormented Demons within <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor without ever having venom or poison immunity.</col>	interface	combAchvmt	
+Description: <colNum0>Have an Araxyte kill three other Araxytes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor <Num0> times without leaving.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl using only dragonbane weaponry.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl in <Num0>:<Num1> with five or fewer players.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Kree'arra by only dealing damage to him with a salamander.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Kree'arra <Num0> times in a privately rented instance without leaving the room.</col>	interface	combAchvmt	
+Description: <colNum0>Kill General Graardor <Num0> times consecutively in a privately rented instance without taking any damage from his bodyguards.</col>	interface	combAchvmt	
+Description: <colNum0>Kill General Graardor in a privately rented instance without taking any damage from the boss or bodyguards.</col>	interface	combAchvmt	
+Description: <colNum0>Kill General Graardor <Num0> times in a privately rented instance without leaving the room.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corrupted Hunllef without making an egniol potion within the Corrupted Gauntlet.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Corrupted Hunllef without making more than one attuned weapon.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Alchemical Hydra using only Dharok's Greataxe as a weapon whilst having no more than <Num0> Hitpoints throughout the entire fight.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves without TzTok-Jad being healed by a Yt-HurKot.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves without losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Fight Caves in less than <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Nightmare solo without the Parasites healing the boss for more than <Num0> health.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Nightmare without any player losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Nightmare (<Num0>-scale) in less than <Num1>:<Num2> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Commander Zilyana in a privately rented instance without taking any damage from the boss or bodyguards.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Commander Zilyana <Num0> times in a privately rented instance without leaving the room.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Zulrah in less than <Num0> seconds, without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without any member of the team equipping a non-barrows weapon (except Dawnbringer).</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood (Duo) in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood (Trio) in less than <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood (<Num0>-scale) in less than <Num1> minutes and <Num2> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath without losing any prayer points.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath with only your fists.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vorkath in less than <Num0> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric: Challenge Mode (Solo) in less than <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Chambers of Xeric (<Num0>-scale) in less than <Num1> minutes and <Num2> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill K'ril Tsutsaroth in a privately rented instance without ever being hit by his bodyguards.</col>	interface	combAchvmt	
+Description: <colNum0>Kill K'ril Tsutsaroth <Num0> times in a privately rented instance without leaving the room.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Inferno <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without letting Jal-ImKot dig during any wave in the Inferno.</col>	interface	combAchvmt	
+Description: <colNum0>Complete wave <Num0> of the Inferno within <Num1> seconds of the first JalTok-Jad dying.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without being attacked by TzKal-Zuk and without taking damage from a JalTok-Jad.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without letting your hitpoints fall below <Num0> during any wave in the Inferno.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without equipping a Twisted Bow within the Inferno.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without using any magic spells during any wave in the Inferno.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without equipping any range or mage weapons before wave <Num0>.</col>	interface	combAchvmt	
+Description: <colNum0>Kill TzKal-Zuk without killing the JalTok-Jad which spawns during wave <Num0>.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Inferno in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's sixth challenge.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fifth challenge in less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete TzHaar-Ket-Rak's fifth and sixth challenges back to back without failing.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Maiden of Sugadinti in the Theatre of Blood: Hard Mode without letting blood spawns create more than <Num0> blood trails.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat the Pestilent Bloat in the Theatre of Blood: Hard Mode with at least <Num0> people in the room, without anyone in your team standing on top of each other.</col>	interface	combAchvmt	
+Description: <colNum0>In the Theatre of Blood: Hard Mode, complete the Nylocas room without ever letting the Nylocas Prinkipas change styles.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sotetseg in the Theatre of Blood: Hard Mode without anyone sharing the ball with anyone, without anyone dying, and without anyone taking damage from any of its other attacks or stepping on the wrong tile in the maze.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Xarpus in the Theatre of Blood: Hard Mode after letting the exhumeds heal him to full health and without anyone in the team taking any damage.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone in your team causing a Nylocas to explode by getting too close.</col>	interface	combAchvmt	
+Description: <colNum0>When Verzik Vitur in the Theatre of Blood: Hard Mode uses her yellow power blast attack while the tornadoes are active, have everyone get through the attack without taking damage. This cannot be completed with one player alive</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Verzik Vitur in the Theatre of Blood: Hard Mode without anyone attacking her with a melee weapon during her third phase.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Hard Mode within the challenge time, with no deaths and without anyone buying anything from a supply chest.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Hard Mode (Trio) with an overall time of less than <Num0> minutes.</col>	interface	combAchvmt	
+Description: <colNum0> Complete the Theatre of Blood: Hard Mode (<Num0>-scale) with an overall time of less than <Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Hard Mode (<Num0>-scale) with an overall time of less than <Num1> minutes.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood: Hard Mode <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare while only taking damage from husks, power blasts and weakened parasites. Also, without becoming infected by spores or letting a sleepwalker reach Phosani's Nightmare.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare within <Num0> minutes and <Num1> seconds.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Phosani's Nightmare <Num0> times in a row without leaving Phosani's Dream.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex with two or less players inside the arena at the start of the fight.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex whilst a player is coughing.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Nex whilst completing the requirements for There is no escape, Shadows move, A siphon will solve this, and Contain this!</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut (expert) within <Num0> mins at any group size.</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut at raid level <Num0> or above without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Complete a Tombs of Amascut raid with every single boss invocation activated and without anyone dying.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Akkha with all Akkha invocations activated and the path levelled up to at least four, without dying yourself.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Zebak without losing a single prayer point. You must also meet the conditions of the 'Rockin' Around The Croc' achievement.</col>	interface	combAchvmt	
+Description: <colNum0>Complete 'Perfect Het' and 'Perfect Akkha' in a single run of the Tombs of Amascut.</col>	interface	combAchvmt	
+Description: <colNum0>Complete 'Perfect Apmeken' and 'Perfect Ba-Ba' in a single run of the Tombs of Amascut.</col>	interface	combAchvmt	
+Description: <colNum0>Complete 'Perfect Crondis' and 'Perfect Zebak' in a single run of the Tombs of Amascut.</col>	interface	combAchvmt	
+Description: <colNum0>Complete 'Perfect Scabaras' and 'Perfect Kephri' in a single run of Tombs of Amascut.</col>	interface	combAchvmt	
+Description: <colNum0>Complete 'Perfect Wardens' at expert or above.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah whilst completing Walk Straight Pray True, Space is Tight & Can't Escape.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Phantom Muspah in less than <Num0> minute and <Num1> seconds without a slayer task.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Awakened Duke Sucellus.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Awakened Vardorvis.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Awakened Whisperer.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Awakened Leviathan.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Vardorvis after surviving for <Num0> minutes of Vardorvis' max speed, and never leaving the centre <Num1> tiles.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Leviathan using only Mithril ammunition whilst having no more than <Num0> Hitpoints throughout the entire fight.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Whisperer whilst spending less than <Num0> seconds in the pre-enrage shadow realm.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Duke Sucellus whilst only attacking the boss on the same tick Duke attacks you.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit <Num0> times.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit without running during the fight with him.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor perfectly, without hitting it during the enrage phase.</col>	interface	combAchvmt	
+Description: <colNum0>Kill Araxxor without the boss ever moving.</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Hueycoatl in <Num0>:<Num1> with three or fewer players.</col>	interface	combAchvmt	
+Combat Achievements - Bosses	interface	combAchvmt	
+Search:	interface	combAchvmt	
+<colNum0>Level:</col><colNum1> <Num0></col>	interface	combAchvmt	
+<colNum0>Level:</col><colNum1> N/A</col>	interface	combAchvmt	
+Combat Achievements - Abyssal Sire	interface	combAchvmt	
+An Abyssal Sire is a stronger and larger abyssal demon found within the Abyssal Nexus.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - Abyssal Demon	interface	combAchvmt	
+Difficulty	interface	combAchvmt	
+Kill Count: <colNum0><Num0></col>	interface	combAchvmt	
+Combat Level: <colNum0><Num0></col>	interface	combAchvmt	
+Boss list	interface	combAchvmt	
+Reset time	interface	combAchvmt	
+Tasks Completed: <Num0>/<Num1>	interface	combAchvmt	
+Mandatory requirements: - <Num0> Slayer - An abyssal demon slayer task  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Alchemical Hydra	interface	combAchvmt	
+The Alchemical Hydra is a boss found in the depths of the Karuulm Slayer Dungeon within Mount Karuulm.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - Hydra	interface	combAchvmt	
+Personal Best: <colNum0>N/A</col>	interface	combAchvmt	
+Mandatory requirements: - <Num0> Slayer - A hydra slayer task  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Amoxliatl	interface	combAchvmt	
+Amoxliatl is a boss found within the Ruins of Tapoyauik in Varlamore.  Attack Styles - Magic, Special Immunities - Poison, Venom Slayer Categories - Lesser Nagua	interface	combAchvmt	
+Mandatory requirements: - The Heart of Darkness  Combat Achievement task difficulty: - Medium - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Araxxor	interface	combAchvmt	
+Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider	interface	combAchvmt	
+Mandatory requirements: - Priest in Peril - <Num0> Slayer	interface	combAchvmt	
+Combat Achievements - Barrows	interface	combAchvmt	
+The Barrows are a series of six burial mounds located in Morytania.  Each of the six Barrows Brothers (Ahrim, Dharok, Guthan, Karil, Torag and Verac) attack with a specific combat style and unique abilities granted by their armour and weaponry.  Attack Styles - Magic, Ranged, Melee Immunities - None Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Access to Morytania - Spade  Combat Achievment task difficulty: - Easy - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Bryophyta	interface	combAchvmt	
+Bryophyta the Moss Giantess, is the moss giant boss who can be found in her lair in the Varrock Sewers.  In order to access Bryophyta's lair, a mossy key, obtained from killing a Moss Giant, is required.  Attack Styles - Melee, Magic Immunities - None Slayer Categories - Moss Giant	interface	combAchvmt	
+Mandatory requirements: - Mossy key  Combat Achievement task difficulty: - Easy - Medium	interface	combAchvmt	
+Combat Achievements - Callisto	interface	combAchvmt	
+Callisto is an enormous bear empowered by the corruption of the Wilderness. He resides south of the Demonic Ruins in the Wilderness.  Attack Styles - Melee, Special Immunities - Poison, Venom, Magic Slayer Categories - Bear	interface	combAchvmt	
+There are no mandatory requirements to fight Callisto.  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Cerberus	interface	combAchvmt	
+Cerberus is a stronger and larger three-headed hellhound boss, which is located in her lair, deep beneath the Taverley Dungeon in the cave to the north-east of the hellhound pit.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Hellhound	interface	combAchvmt	
+Mandatory requirements: - <Num0> Slayer - A hellhound slayer task  Combat Achievement task difficulty: - Elite - Master	interface	combAchvmt	
+Combat Achievements - Chaos Elemental	interface	combAchvmt	
+The Chaos Elemental is a dark cloud with six tentacles that dwells within the deep Wilderness, just west of the Rogues' Castle.  Attack Styles - Melee, Ranged, Magic Immunities - Venom Slayer Categories - None	interface	combAchvmt	
+There are no mandatory requirements to fight the Chaos Elemental.  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Chaos Fanatic	interface	combAchvmt	
+The Chaos Fanatic is a demi-boss that resides west of the Lava Maze.  Attack Styles - Magic, Special Immunities - None Slayer Categories - None	interface	combAchvmt	
+There are no mandatory requirements to fight the Chaos Fanatic.  Combat Achievement task difficulty: - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Crazy Archaeologist	interface	combAchvmt	
+The Crazy Archaeologist is a demi-boss that resides in the ruins south of The Forgotten Cemetery.  Attack Styles - Melee, Ranged, Special Immunities - None Slayer Categories - None	interface	combAchvmt	
+There are no mandatory requirements to fight the Crazy Archaeologist.  Combat Achievement task difficulty: - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Chambers of Xeric	interface	combAchvmt	
+The Chambers of Xeric is a large cave system found underneath Mount Quidamortem in the Kebos Lowlands.  The Chambers of Xeric will scale to the number of players (<Num0>-<Num1>) and their stats.  The Chambers of Xeric has a challenge mode difficulty setting for more experienced raiders.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+There are no mandatory requirements to enter the Chambers of Xeric.  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Chambers of Xeric: Challenge Mode	interface	combAchvmt	
+Combat Achievements - Corporeal Beast	interface	combAchvmt	
+The Corporeal Beast is a group boss that can be found residing in its cave found east of the Graveyard of Shadows in the Wilderness.  Attack Styles - Melee, Magic, Special. Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+There are no mandatory requirements to fight the Corporeal Beast.  Combat Achievement task difficulty: - Elite - Master	interface	combAchvmt	
+Combat Achievements - Commander Zilyana	interface	combAchvmt	
+Commander Zilyana represents Saradomin as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - <Num0> Agility - Rope  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Crystalline Hunllef	interface	combAchvmt	
+The Crystalline Hunllef is a boss located within The Gauntlet, an activity within the elven capital city of Prifddinas.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Personal Best: <colNum0><Num0>:<Num1></col>	interface	combAchvmt	
+Mandatory requirements: - Song of the Elves  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Corrupted Hunllef	interface	combAchvmt	
+The Corrupted Hunllef is the boss located within The Corrupted Gauntlet, an activity within the elven capital city of Prifddinas.  Access to The Corrupted Gauntlet is unlocked by completing The Gauntlet.  Attack Styles - Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Song of the Elves - Access to The Corrupted Gauntlet  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Dagannoth Prime	interface	combAchvmt	
+Dagannoth Prime is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Supreme.  Attack Style - Magic Immunities - Venom Slayer Categories - Dagannoth	interface	combAchvmt	
+There are no mandatory requirements to access the Waterbirth Island Dungeon.  Combat Achievement task difficulty: - Medium - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Dagannoth Rex	interface	combAchvmt	
+Dagannoth Rex is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Supreme and Dagannoth Prime.  Attack Style - Melee Immunities - Venom Slayer Categories - Dagannoth	interface	combAchvmt	
+Combat Achievements - Dagannoth Supreme	interface	combAchvmt	
+Dagannoth Supreme is one of the three Dagannoth Kings found within the Waterbirth Island Dungeon, along with fellow kings Dagannoth Rex and Dagannoth Prime.  Attack Style - Ranged Immunities - Venom Slayer Categories - Dagannoth	interface	combAchvmt	
+Combat Achievements - Deranged Archaeologist	interface	combAchvmt	
+The Deranged Archaeologist is a demi-boss located on Fossil Island, at the southern reaches of the Tar Swamp.  Attack Styles - Melee, Ranged, Special Immunities - None Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - A woodcutting axe - Bone Voyage  Combat Achievement task difficulty: - Easy - Medium	interface	combAchvmt	
+Combat Achievements - Duke Sucellus	interface	combAchvmt	
+Duke Sucellus is a boss found within Ghorrock Prison, deep beneath Weiss.  Attack Styles - Melee, Magic, Special Immunities - Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Desert Treasure II - The Fallen Empire	interface	combAchvmt	
+Combat Achievements - Fortis Colosseum	interface	combAchvmt	
+Sol Heredit is the final boss of the Fortis Colosseum, located in Civitas illa Fortis in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Children of the Sun	interface	combAchvmt	
+Combat Achievements - General Graardor	interface	combAchvmt	
+General Graardor represents Bandos as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - <Num0> Strength - Hammer  Combat Achievement task difficulty: - Hard - Elite - Grandmaster	interface	combAchvmt	
+Combat Achievements - Giant Mole	interface	combAchvmt	
+The Giant Mole is found within its lair, found underneath Falador Park.  Attack Style - Melee Immunities - Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Light Source - Spade  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Grotesque Guardians	interface	combAchvmt	
+The Grotesque Guardians, Dusk and Dawn, can be found on the Slayer Tower's rooftop, through the entrance on the upper floor.  In order to unlock access to the roof, a brittle key, obtained from killing a gargoyle whilst on a gargoyle slayer task, is required.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - Gargoyle	interface	combAchvmt	
+Mandatory requirements: - <Num0> Slayer - A gargoyle slayer task - Access to the Slayer Tower roof  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Hespori	interface	combAchvmt	
+The Hespori is a rare carnivorous plant that becomes conscious and highly aggressive once fully grown.  In order to fight it, a Hespori seed must be planted and fully grown in the Hespori patch within the west wing of the Farming Guild.  Attack Styles - Ranged, Magic Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - <Num0> Farming - Hespori Seed  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - The Hueycoatl	interface	combAchvmt	
+The Hueycoatl is a boss found atop the Darkfrost in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Combat Achievements - Kalphite Queen	interface	combAchvmt	
+The Kalphite Queen is the strongest of the kalphites, residing in the Kalphite Lair within the Kharidian Desert.  Attack Styles - Melee, Ranged, Mage Immunities - Venom Slayer Categories - Kalphite	interface	combAchvmt	
+Mandatory requirements: - Rope x<Num0>  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - King Black Dragon	interface	combAchvmt	
+The King Black Dragon is a three-headed black dragon found in his lair, deep within the Wilderness, west of the Lava Maze.  Attack Styles - Melee, Dragonfire Immunities - None Slayer Categories - Black Dragon	interface	combAchvmt	
+Mandatory requirements: - Dragon Slayer  Combat Achievement task difficulty: - Easy - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Kraken	interface	combAchvmt	
+The Kraken is a stronger and larger cave kraken, found within Lieve's cave north of Eagles' Peak. It sleeps underwater until disturbed.  Attack Styles - Magic Immunities - Venom Slayer Categories - Cave Kraken	interface	combAchvmt	
+Mandatory requirements: - <Num0> Slayer - A cave kraken slayer task  Combat Achievement task difficulty: - Hard - Elite - Master	interface	combAchvmt	
+Combat Achievements - Kree'arra	interface	combAchvmt	
+Kree'arra represents Armadyl as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Ranged, Ranged-based Magic, Melee Immunities - Melee, Poison, Venom Slayer Categories - Aviansie	interface	combAchvmt	
+Mandatory requirements: - <Num0> Ranged - Crossbow - Mithril Grapple  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - K'ril Tsutsaroth	interface	combAchvmt	
+K'ril Tsutsaroth represents Zamorak as one of the four generals within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - Greater Demon	interface	combAchvmt	
+Mandatory requirements: - <Num0> Hitpoints  Combat Achievement task difficulty: - Hard - Elite - Grandmaster	interface	combAchvmt	
+Combat Achievements - The Leviathan	interface	combAchvmt	
+The Leviathan is a boss found within the Scar, which can be accessed through the Temple of the Eye.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None	interface	combAchvmt	
+Combat Achievements - The Mimic	interface	combAchvmt	
+The Mimic is a boss occasionally found disguised as either Elite or Master clue scroll reward caskets.  Mimics can only be found after speaking to the strange casket upstairs in Watson's house in Great Kourend.  Attack Styles - Melee, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Mimic caskets enabled - A mimic casket  Combat Achievement task difficulty: - Elite	interface	combAchvmt	
+Combat Achievements - Moons of Peril	interface	combAchvmt	
+The Moons of Peril are three bosses found in Neypotzli beneath the city of Cam Torum in Varlamore.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Perilous Moons	interface	combAchvmt	
+Combat Achievements - Nex	interface	combAchvmt	
+Nex is a boss found in the Ancient Prison, deep within the God Wars Dungeon north of Trollheim.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - The Frozen Door  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - The Nightmare	interface	combAchvmt	
+The Nightmare of Ashihama is a group boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Phosanis Nightmare	interface	combAchvmt	
+Phosani's Nightmare is a boss found in the Sisterhood Sanctuary within the town of Slepe in Morytania.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Obor	interface	combAchvmt	
+Obor the Hill Titan is the strongest of all the hill giants. His lair can be located behind a locked gate found within the hill giant area of the Edgeville Dungeon.  In order to access Obor's lair, a giant key, obtained from killing a Hill Giant, is required.  Attack Styles - Melee, Ranged Immunities - Venom Slayer Categories - Hill Giant	interface	combAchvmt	
+Mandatory requirements: - Giant key  Combat Achievement task difficulty: - Easy - Medium	interface	combAchvmt	
+Combat Achievements - Phantom Muspah	interface	combAchvmt	
+The Phantom Muspah is a boss found within Ghorrock Dungeon, deep beneath Weiss.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Secrets of the North  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - The Royal Titans	interface	combAchvmt	
+The Royal Titans, Branda and Eldric, can be found within the Asgarnian Ice Cave, through the tunnel to the north-west.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - Ice Giant, Fire Giant	interface	combAchvmt	
+There are no mandatory requirements to fight the Royal Titans  Combat Achievement task difficulty: - Easy - Medium - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Scurrius	interface	combAchvmt	
+Scurrius is a boss found within the Varrock Sewers, which can be accessed through the Dungeon within east Varrock.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Rat	interface	combAchvmt	
+There are no mandatory requirements to fight Scurrius.  Combat Achievement task difficulty: - Easy - Medium	interface	combAchvmt	
+Combat Achievements - Sarachnis	interface	combAchvmt	
+Sarachnis is a spider boss found within the Forthos Dungeon south of the Spider Den.  Attack Styles - Melee, Ranged Immunities - Poison, Venom Slayer Categories - Spider	interface	combAchvmt	
+There are no mandatory requirements to fight Sarachnis.  Combat Achievement task difficulty: - Easy - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Scorpia	interface	combAchvmt	
+Scorpia is a large scorpion that resides in a cave beneath the Scorpion Pit. The Scorpion Pit can be found deep within the Wilderness west of the Rogues' Castle.  Attack Styles - Melee Immunities - None Slayer Categories - Scorpion	interface	combAchvmt	
+There are no mandatory requirements to fight the Scorpia.  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Skotizo	interface	combAchvmt	
+Skotizo is a demonic boss located beneath the Catacombs of Kourend.  Accessing his lair requires the use of a dark totem on the altar found in the centre of the Catacombs.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Black Demon, Greater Demon.	interface	combAchvmt	
+Mandatory requirements: - A Dark Totem  Combat Achievement task difficulty: - Medium - Hard - Elite - Master	interface	combAchvmt	
+Combat Achievements - Tempoross	interface	combAchvmt	
+Tempoross is a skilling boss located off the coast of the Ruins of Unkah in the Kharidian Desert.  Attack Styles - Special Immunities - Special Slayer Categories - None	interface	combAchvmt	
+Combat Level: <colNum0>N/A</col>	interface	combAchvmt	
+Mandatory requirements: - <Num0> Fishing  Combat Achievement task difficulty: - Easy - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Theatre of Blood: Entry Mode	interface	combAchvmt	
+The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for <Num0>-<Num1> players.  Entry mode is an easier version of the Theatre of Blood aimed at introducing you to the content and the boss mechanics in a less punishing way.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Access to Morytania  Combat Achievement task difficulty: - Hard  - Elite	interface	combAchvmt	
+Combat Achievements - Theatre of Blood	interface	combAchvmt	
+The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for <Num0>-<Num1> players.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Combat Achievements - Theatre of Blood: Hard Mode	interface	combAchvmt	
+The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for <Num0>-<Num1> players.  Hard mode is a more challenging experience than the regular raid. Mechanics are harder and more punishing.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Access to Morytania - At least one regular Theatre of Blood completion  Combat Achievement task difficulty: - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Thermonuclear Smoke Devil	interface	combAchvmt	
+The Thermonuclear Smoke Devil is a stronger and larger smoke devil, found within Breive's cave south of Castle Wars.  Attack Styles - Magical Ranged Immunities - Poison, Venom Slayer Categories - Smoke Devil	interface	combAchvmt	
+Mandatory requirements: - <Num0> Slayer - A smoke devil slayer task - A face mask  Combat Achievement task difficulty: - Elite	interface	combAchvmt	
+Combat Achievements - Tombs of Amascut: Entry Mode	interface	combAchvmt	
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then <Num2> considered an Entry raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Medium - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Tombs of Amascut	interface	combAchvmt	
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> to <Num3> considered a standard raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Beneath Cursed Sands  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Tombs of Amascut: Expert Mode	interface	combAchvmt	
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Combat Achievements - TzHaar-Ket-Rak's Challenges	interface	combAchvmt	
+TzHaar-Ket-Rak's is an elite Tzhaar warrior found within the inner city of Mor Ul Rek.  TzHaar-Ket-Rak offers a number of challenges where those who have proven themselves within the Fight Caves or the Inferno can go up against an ever increasing number of JalTok-Jads.	interface	combAchvmt	
+Mandatory requirements:  TzHaar-Ket-Rak's First and Second Challenges - <Num0> Fight Caves completion  TzHaar-Ket-Rak's Third to Sixth Challenges - <Num1> Inferno completion  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - TzKal-Zuk	interface	combAchvmt	
+TzKal-Zuk is the final boss found within the depths of the Inferno found within the inner city of Mor Ul Rek.  Attack Styles - Special Immunities - Poison, Venom Slayer Categories - TzHaar	interface	combAchvmt	
+Mandatory requirements: - Fire Cape  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - TzTok-Jad	interface	combAchvmt	
+TzTok-Jad is the final boss found within the depths of the Fight Caves found within Mor Ul Rek.  Attack Styles - Melee, Ranged, Magic Immunities - Venom Slayer Categories - TzHaar	interface	combAchvmt	
+There are no mandatory requirements to attempt the Fight Caves.  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Vardorvis	interface	combAchvmt	
+Vardorvis is a boss found within the Stranglewood, south west of Mount Quidamortem.  Attack Styles - Melee, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Combat Achievements - Venenatis	interface	combAchvmt	
+Venenatis is a large poison spider that resides east of the Bone Yard in the Wilderness.  Attack Styles - Melee, Special Immunities - Poison, Venom, Magic Slayer Categories - Spider	interface	combAchvmt	
+There are no mandatory requirements to fight Venenatis.  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Vet'ion	interface	combAchvmt	
+Vet'ion is a Zamorakian skeletal champion that resides north of the Bone Yard and south of Lava Dragon Isle in the Wilderness.  Attack Styles - Melee, Magic Immunities - Poison, Venom Slayer Categories - Skeleton	interface	combAchvmt	
+There are no mandatory requirements to fight Vet'ion.  Combat Achievement task difficulty: - Hard - Elite	interface	combAchvmt	
+Combat Achievements - Vorkath	interface	combAchvmt	
+Vorkath is an undead blue dragon boss found in the crater on the island of Ungael north of the Fremennik Province.  Attack Styles - Melee, Ranged, Magic, Special, Dragonfire Immunities - Poison, Venom Slayer Categories - Blue Dragon, Zombie	interface	combAchvmt	
+Mandatory requirements: - Dragon Slayer II  Combat Achievement task difficulty: - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - The Whisperer	interface	combAchvmt	
+The Whisperer is a boss found within the Lassar Undercity, deep beneath Ice Mountain.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Combat Achievements - Wintertodt	interface	combAchvmt	
+The Wintertodt is a skilling boss located in the Northern Tundras of Great Kourend, east of the Fishing Hamlet.  Attack Styles - Special Immunities - Special Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - <Num0> Firemaking  Combat Achievement task difficulty: - Easy - Medium - Hard	interface	combAchvmt	
+Combat Achievements - Zalcano	interface	combAchvmt	
+Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  Attack Styles - Special Immunities - Special Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Song of the Elves - A pickaxe  Combat Achievement task difficulty: - Elite	interface	combAchvmt	
+Combat Achievements - Zulrah	interface	combAchvmt	
+Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None	interface	combAchvmt	
+Mandatory requirements: - Regicide  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	interface	combAchvmt	
+Combat Achievements - Rewards	interface	combAchvmt	
+<Num0>k XP lamp (minimum skill requirement: <Num1>)	interface	combAchvmt	
+The drop chance of a <colNum0>Clue Scroll (Easy)</col> from all sources (excl. implings) is increased by <Num0>%	interface	combAchvmt	
+The maximum quantity assigned from the <colNum0>Like a boss</col> slayer reward is increased by <Num0>	interface	combAchvmt	
+<Num0>% bonus to tokens earned from <colNum0>Warrior Guild</col> activities	interface	combAchvmt	
+<Num0> additional commendation point from successful <colNum0>Pest Control</col> games	interface	combAchvmt	
+<colNum0>Ghommal's hilt <Num0></col>	interface	combAchvmt	
+Daily Trollheim teleports - <Num0>	interface	combAchvmt	
+The drop chance of a <colNum0>Clue Scroll (Medium)</col> from all sources (excl. implings) is increased by <Num0>%	interface	combAchvmt	
+<Num0> additional commendation points from successful <colNum0>Pest Control</col> games	interface	combAchvmt	
+Immunity from the prayer draining effect at <colNum0>Barrows</col> when one of <colNum1>Ghommal's hilts</col> is equipped	interface	combAchvmt	
+The <colNum0>Dwarf multicannon</col> can hold <Num0> extra cannonballs	interface	combAchvmt	
+The drop chance of a <colNum0>Clue Scroll (Hard)</col> from all sources (excl. implings) is increased by <Num0>%	interface	combAchvmt	
+You can fight <colNum0>the Hueycoatl</col> privately for a reduced fee of <Num0>k coins	interface	combAchvmt	
+Item imbue rewards at <colNum0>Soul Wars</col> and the <colNum1>Nightmare Zone</col> are <Num0>% cheaper	interface	combAchvmt	
+The ability to combine <colNum0>KBD Heads</col> with a <colNum1>Dragon Hunter Crossbow</col> to recolour it	interface	combAchvmt	
+The drop chance of a <colNum0>Clue Scroll (Elite)</col> from all sources (excl. implings) is increased by <Num0>%	interface	combAchvmt	
+The <colNum0>Bracelet of slaughter</col> will have a <Num0>% chance to fully recharge instead of breaking	interface	combAchvmt	
+The <colNum0>Expeditious bracelet</col> has a <Num0>% chance to fully recharge instead of breaking	interface	combAchvmt	
+Superior slayer creatures are <Num0>% more common	interface	combAchvmt	
+Daily Mor Ul Rek teleports - <Num0>	interface	combAchvmt	
+The ability to combine <colNum0>Vorkath's Head</col> with a <colNum1>Dragon Hunter Crossbow</col> to recolour it	interface	combAchvmt	
+The ability to make a <colNum0>TzTok Slayer Helmet</col>	interface	combAchvmt	
+The ability to make a <colNum0>Vampyric Slayer Helmet</col>	interface	combAchvmt	
+Access to <colNum0>Ghommal's lucky penny</col>	interface	combAchvmt	
+When you are assigned a <colNum0>TzTok-Jad</col> or <colNum1>TzKal-Zuk</col> slayer task you will be assigned to kill <Num0>	interface	combAchvmt	
+The drop chance of an <colNum0>Ecumenical Key</col> is increased by <Num0>%	interface	combAchvmt	
+The essence required to access a <colNum0>God Wars</col> boss is reduced to <Num0>	interface	combAchvmt	
+You can access a privately rented <colNum0>God Wars</col> boss instance for a fee of <Num0>k coins	interface	combAchvmt	
+Your thralls will last <Num0>% longer	interface	combAchvmt	
+Daily Trollheim teleports - Unlimited	interface	combAchvmt	
+Daily Mor Ul Rek teleports - Unlimited	interface	combAchvmt	
+The ability to make a <colNum0>TzKal Slayer Helmet</col>	interface	combAchvmt	
+The ability to combine an Avernic defender with Ghommal's hilt <Num0> to create <colNum0>Ghommal's Avernic Defender <Num1></col>	interface	combAchvmt	

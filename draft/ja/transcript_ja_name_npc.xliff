@@ -763,7 +763,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10278">
         <xliff:source>Corporeal Beast</xliff:source>
-        <xliff:target state="translated">コーポリアル獣</xliff:target>
+        <xliff:target state="translated">コーポリアル・ビースト</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Corporeal Beast
@@ -891,7 +891,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10294">
         <xliff:source>Phosani's Nightmare</xliff:source>
-        <xliff:target state="translated">フォサニの悪夢</xliff:target>
+        <xliff:target state="translated">フォサーニの悪夢</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Phosani's Nightmare
@@ -6907,7 +6907,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11046">
         <xliff:source>Commander Zilyana</xliff:source>
-        <xliff:target state="translated">ジリアナ司令官</xliff:target>
+        <xliff:target state="translated">ジリアーナ司令官</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Commander Zilyana
@@ -10131,7 +10131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11449">
         <xliff:source>K'ril Tsutsaroth</xliff:source>
-        <xliff:target state="translated">クリル・ツツジーロス</xliff:target>
+        <xliff:target state="translated">クリル・ツツァロス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: K'ril Tsutsaroth
@@ -10227,7 +10227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11461">
         <xliff:source>Kree'arra</xliff:source>
-        <xliff:target state="translated">クリーアーラ</xliff:target>
+        <xliff:target state="translated">クリアーラ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kree'arra
@@ -20211,7 +20211,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12709">
         <xliff:source>Kree'arra Jr.</xliff:source>
-        <xliff:target state="translated">クリーアーラ・Jr.</xliff:target>
+        <xliff:target state="translated">クリアーラ・Jr.</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Kree'arra Jr.
@@ -20227,7 +20227,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12711">
         <xliff:source>Zilyana Jr.</xliff:source>
-        <xliff:target state="translated">ジリアナ・Jr.</xliff:target>
+        <xliff:target state="translated">ジリアーナ・Jr.</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Zilyana Jr.
@@ -20235,7 +20235,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12712">
         <xliff:source>K'ril Tsutsaroth Jr.</xliff:source>
-        <xliff:target state="translated">クリル・ツツジーロス・Jr.</xliff:target>
+        <xliff:target state="translated">クリル・ツツァロス・Jr.</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: K'ril Tsutsaroth Jr.
@@ -24387,7 +24387,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13231">
         <xliff:source>Verzik Vitur</xliff:source>
-        <xliff:target state="translated">ヴェージック・ヴァーチャー</xliff:target>
+        <xliff:target state="translated">ヴァージック・ヴァーチャー</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Verzik Vitur
@@ -24555,7 +24555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13252">
         <xliff:source>Pestilent Bloat</xliff:source>
-        <xliff:target state="translated">疫病の膨張</xliff:target>
+        <xliff:target state="translated">疫病のブロート</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Pestilent Bloat
@@ -25979,7 +25979,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13430">
         <xliff:source>Crystalline Hunllef</xliff:source>
-        <xliff:target state="translated">結晶ハンレフ</xliff:target>
+        <xliff:target state="translated">結晶体ハンレフ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Crystalline Hunllef
@@ -28811,7 +28811,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13784">
         <xliff:source>Lil' Bloat</xliff:source>
-        <xliff:target state="translated">小っちゃな膨張</xliff:target>
+        <xliff:target state="translated">小っちゃなブロート</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Lil' Bloat

@@ -3328,7 +3328,7 @@ I learned this from an old friend of mine.		dialogue	Anti-Santa	Anti-Santa
 Ouch!		dialogue	Anti-Santa	Jack Frost
 You cannot stop me Jack.		dialogue	Anti-Santa	Anti-Santa
 I'm not finished yet.		dialogue	Anti-Santa	Jack Frost
-Mummy!		dialogue	Anti-Santa	Jack Frost
+Mummy!	ミイラだ！	dialogue	Anti-Santa	Jack Frost
 I'm getting out of here. This isn't worth it!		dialogue	Anti-Santa	Jack Frost
 Uhh...		dialogue	Anti-Santa	Player
 That didn't go as planned.		dialogue	Anti-Santa	Player
@@ -8783,7 +8783,7 @@ Do you mind? You're blocking my view.		dialogue	Brown Engine Director	Brown Engi
 How did you get in here? I don't have time to talk to you!		dialogue	Brown Engine Director	Brown Engine Director
 I can't help you, go and see my secretary.		dialogue	Brown Engine Director	Brown Engine Director
 Talk to my secretary, I don't have time to deal with you.		dialogue	Brown Engine Director	Brown Engine Director
-But...		dialogue	Brown Engine Director	Player
+But...	でも、、	dialogue	Brown Engine Director	Player
 I said go!		dialogue	Brown Engine Director	Brown Engine Director
 I told you to leave, human!		dialogue	Brown Engine Director	Brown Engine Director
 Hello, and welcome to the Grand Exchange! How can I help you?	Hello, and welcome to the Grand Exchange!どうされましたか？	dialogue	Brugsen Bursen	Brugsen Bursen
@@ -8988,7 +8988,7 @@ A hero?		dialogue	Brundt the Chieftain	Player
 Yes. He was known as V. He stood up to the Serpent King and confronted him on the Island of Stone. It is said that the two of them fought for days, but in the end, V stood victorious.	そうだ！He was known as V. He stood up to the Serpent King and confronted him on the Island of Stone. It is said that the two of them fought for days, but in the end, V stood victorious.	dialogue	Brundt the Chieftain	Brundt
 What happened next?		dialogue	Brundt the Chieftain	Player
 Well that depends who you ask. The bards wrote a great song about V’s victory. They called it the Ballad of the Basilisk, and it claims V killed the Jormungand.		dialogue	Brundt the Chieftain	Brundt
-But...		dialogue	Brundt the Chieftain	Player
+But...	でも、、	dialogue	Brundt the Chieftain	Player
 Well... bards are known to bend the truth a bit, especially if it makes a song sound better. In reality V sealed the Serpent King in a magical prison on the island, where he remains to this day.		dialogue	Brundt the Chieftain	Brundt
 A magical prison? I thought the Fremennik people didn’t approve of magic?		dialogue	Brundt the Chieftain	Player
 V was different. Stories tell of how he unlocked the potential of magic with a single touch of a stone. In that moment, he became more than just a man.		dialogue	Brundt the Chieftain	Brundt
@@ -15603,7 +15603,7 @@ Oh I have already killed that nasty blood-sucking vampyre. Draynor will be safe 
 Yeah, yeah of course you did. Everyone knows vampyres are not real....		dialogue	Donie	Donie
 What! I did slay the beast..I really did.	え？I did slay the beast..I really did.	dialogue	Donie	Player
 You're not fooling anyone you know.		dialogue	Donie	Donie
-..Huh.. But... Hey! I did... believe what you like.	..Huh.. But... おい！I did... believe what you like.	dialogue	Donie	Player
+..Huh.. But... Hey! I did... believe what you like.	..Huh.. でも、、おい！I did... believe what you like.	dialogue	Donie	Player
 Small.. something small would be good.		dialogue	Donie	Player
 Small? Small isn't really that dangerous though is it?		dialogue	Donie	Donie
 Yes it can be! There could be anything from an evil chicken to a poisonous spider. They attack in numbers you know!		dialogue	Donie	Player
@@ -16447,7 +16447,7 @@ Yes, I can help.		dialogue	Duke Horacio	Player
 Great! Thank you!		dialogue	Duke Horacio	Duke Horacio
 So, I have seen how much extra work the Lumbridge citizens are putting in recently, what with so many new adventurers in town. I'd like to give them something back.		dialogue	Duke Horacio	Duke Horacio
 And here comes the but...		dialogue	Duke Horacio	Player
-How did you know? But... I have to stay here in my room as I have so much paperwork to do.		dialogue	Duke Horacio	Duke Horacio
+How did you know? But... I have to stay here in my room as I have so much paperwork to do.	How did you know?でも、、I have to stay here in my room as I have so much paperwork to do.	dialogue	Duke Horacio	Duke Horacio
 So I'm delivering the presents? I get to be Santa?		dialogue	Duke Horacio	Player
 Um. Not quite, but nearly!		dialogue	Duke Horacio	Duke Horacio
 What do you mean... not quite?		dialogue	Duke Horacio	Player
@@ -20323,7 +20323,7 @@ I've come to repossess your house.		dialogue	Father Urhney	Player
 Under what grounds???		dialogue	Father Urhney	Father Urhney
 Repeated failure on mortgage repayments.		dialogue	Father Urhney	Player
 What?	え？	dialogue	Father Urhney	Father Urhney
-But... I don't have a mortgage! I built this house myself!		dialogue	Father Urhney	Father Urhney
+But... I don't have a mortgage! I built this house myself!	でも、、I don't have a mortgage!I built this house myself!	dialogue	Father Urhney	Father Urhney
 Sorry. I must have got the wrong address. All the houses look the same around here.	すまん。I must have got the wrong address. All the houses look the same around here.	dialogue	Father Urhney	Player
 What? What houses? What ARE you talking about???	え？What houses?What ARE you talking about???	dialogue	Father Urhney	Father Urhney
 Never mind.	じゃあ気にしないで。	dialogue	Father Urhney	Player
@@ -20415,7 +20415,7 @@ Are you serious?		dialogue	Felkrash	Player
 Deadly.		dialogue	Felkrash	Felkrash
 But why? Why one stroke, why not a slow eradication?		dialogue	Felkrash	Player
 I want to write a new poem.		dialogue	Felkrash	Felkrash
-But...		dialogue	Felkrash	Player
+But...	でも、、	dialogue	Felkrash	Player
 I am touched that you want to write an epic poem about me, but why can't you write the poem about seagulls or daffodils or something?		dialogue	Felkrash	Player
 Well seagulls rarely make good central characters. They're a bit too ... uhm.... flighty.		dialogue	Felkrash	Felkrash
 Besides the poem is about me not you.		dialogue	Felkrash	Felkrash
@@ -22359,7 +22359,7 @@ Oh I have already killed that nasty blood-sucking vampyre. Draynor will be safe 
 Yeah, yeah of course you did. Everyone knows vampyres are not real....		dialogue	Gee	Gee
 What! I did slay the beast..I really did.	え？I did slay the beast..I really did.	dialogue	Gee	Player
 You're not fooling anyone you know.		dialogue	Gee	Gee
-..Huh.. But... Hey! I did... believe what you like.	..Huh.. But... おい！I did... believe what you like.	dialogue	Gee	Player
+..Huh.. But... Hey! I did... believe what you like.	..Huh.. でも、、おい！I did... believe what you like.	dialogue	Gee	Player
 Small.. something small would be good.		dialogue	Gee	Player
 Small? Small isn't really that dangerous though is it?		dialogue	Gee	Gee
 Yes it can be! There could be anything from an evil chicken to a poisonous spider. They attack in numbers you know!		dialogue	Gee	Player
@@ -23157,7 +23157,7 @@ Wooo wooo wooOOooOOoo!		dialogue	Ghost (Melzar's Maze)	Ghost
 Eeeek!		dialogue	Ghost (Melzar's Maze)	Ghost
 EIEEEEE!		dialogue	Ghost (Melzar's Maze)	Ghost
 Mummy, are we safe now?		dialogue	Ghost (Melzar's Maze)	Ghost
-Mummy! Where are you?		dialogue	Ghost (Melzar's Maze)	Ghost
+Mummy! Where are you?	ミイラだ！Where are you?	dialogue	Ghost (Melzar's Maze)	Ghost
 Wooo wooo woooooooo!		dialogue	Ghost (Melzar's Maze)	Ghost
 I don't want to die like this!		dialogue	Ghost (Melzar's Maze)	Ghost
 Oh no!		dialogue	Ghost (Melzar's Maze)	Ghost
@@ -25554,7 +25554,7 @@ What?	え？	dialogue	Guard (Cave goblin)	Player
 Have a nice day!		dialogue	Guard (Cave goblin)	Guard
 I don't want to be unfriendly, but I can't help noticing that since surface-dwellers started coming into the city there has been an increase in CRIME!		dialogue	Guard (Cave goblin)	Guard
 Surface-dweller! I don't know how you got into the city, but you will never escape!		dialogue	Guard (Cave goblin)	Guard
-But... I thought I was allowed into the city!		dialogue	Guard (Cave goblin)	Player
+But... I thought I was allowed into the city!	でも、、I thought I was allowed into the city!	dialogue	Guard (Cave goblin)	Player
 You are. I just wanted to say that. And now that you're allowed into the city, I'll never be able to!		dialogue	Guard (Cave goblin)	Guard
 Hello.	こんにちは。	dialogue	Guard (Combat Training Camp)	Player
 Hello soldier.		dialogue	Guard (Combat Training Camp)	Guard
@@ -25685,7 +25685,7 @@ The Sinclairs are under house arrest for crimes against a crown, and it's all th
 It's more luxury than they deserve.		dialogue	Guard (Sinclair Mansion)	Player
 Excuse me...		dialogue	Guard Captain	Player
 I don' need a hand drinkin me beer, go 'way!		dialogue	Guard Captain	Guard Captain
-But...		dialogue	Guard Captain	Player
+But...	でも、、	dialogue	Guard Captain	Player
 Talk to tha' hand coz thish face ain't lishtnin'!		dialogue	Guard Captain	Guard Captain
 Yeeeuuuch! I hatesh that shtuff, jusht bring ush a beer! Mmmmm beer!		dialogue	Guard Captain	Guard Captain
 Need more beer...		dialogue	Guard Captain	Guard Captain
@@ -29923,7 +29923,7 @@ I learned this from an old friend of mine.		dialogue	Jack Frost	Anti-Santa
 Ouch!		dialogue	Jack Frost	Jack Frost
 You cannot stop me Jack.		dialogue	Jack Frost	Anti-Santa
 I'm not finished yet.		dialogue	Jack Frost	Jack Frost
-Mummy!		dialogue	Jack Frost	Jack Frost
+Mummy!	ミイラだ！	dialogue	Jack Frost	Jack Frost
 I'm getting out of here. This isn't worth it!		dialogue	Jack Frost	Jack Frost
 Hello.	こんにちは。	dialogue	Jack Sails	Player
 So how's life as a pirate?	海賊としての生活はどうだい？	dialogue	Jack Sails	Player
@@ -35322,7 +35322,7 @@ That makes no sense... I served Saradomin faithfully my entire life, then all of
 Well, it seems as though that may have been the cause...		dialogue	Lennissa	Player
 What? Explain yourself.	え？Explain yourself.	dialogue	Lennissa	Mysterious ghost
 As I understand it, it was something to do with the Staff of Armadyl, and your refusal to tell Saradomin that it had been stolen...		dialogue	Lennissa	Player
-What? But... But that is not how it happened at all!	え？But... But that is not how it happened at all!	dialogue	Lennissa	Mysterious ghost
+What? But... But that is not how it happened at all!	え？でも、、But that is not how it happened at all!	dialogue	Lennissa	Mysterious ghost
 Then please, go ahead and tell me the events of that day in your own words...		dialogue	Lennissa	Player
 Let me see... I had been working as a spy for my Lord Saradomin, amongst the forces of... the Empty Lord.		dialogue	Lennissa	Mysterious ghost
 'The Empty Lord'? Who is that?		dialogue	Lennissa	Player
@@ -41385,7 +41385,7 @@ I was just passing through.		dialogue	Murfet	Murfet
 Arrr, what is it that ye be wantin? I can tell ye all about the prices of runes, or perhaps I could combine the charges on yer teleport jewellery.		dialogue	Murky Matt (runes)	Murky Matt (runes)
 What's a pirate doing here?		dialogue	Murky Matt (runes)	Player
 By my sea-blistered skin, I could ask the same of you!		dialogue	Murky Matt (runes)	Murky Matt (runes)
-But... I'm not a pirate?		dialogue	Murky Matt (runes)	Player
+But... I'm not a pirate?	でも、、I'm not a pirate?	dialogue	Murky Matt (runes)	Player
 No? Then what's that smell? The smell o' someone spent too long at sea without a bath!		dialogue	Murky Matt (runes)	Murky Matt (runes)
 I think that's probably you.		dialogue	Murky Matt (runes)	Player
 Har har har! We've got a stern landlubber 'ere! Well, let me tell ye, I'm here for the Grand Exchange! Gonna cash in me loot!		dialogue	Murky Matt (runes)	Murky Matt (runes)
@@ -41681,7 +41681,7 @@ My mother could bail better than that!		dialogue	Murphy	Murphy
 Noooooo!		dialogue	Murphy	Murphy
 We’re going under!		dialogue	Murphy	Murphy
 We’re all doomed!		dialogue	Murphy	Murphy
-Mummy!		dialogue	Murphy	Murphy
+Mummy!	ミイラだ！	dialogue	Murphy	Murphy
 You’ll need all your strength!		dialogue	Murphy	Murphy
 To make it back to shore.		dialogue	Murphy	Murphy
 No fishies for you today!		dialogue	Murphy	Murphy
@@ -41922,7 +41922,7 @@ I do not. If I did have any of your items, but you died before collecting them, 
 I do have some of your items here. Try not to get hit by the traps next time.		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Mysterious Stranger
 I'd like to access your tool storage.		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Player
 Is there any way I could have private access to the Sepulchre? The other adventurers in there keep activating traps and messing up my timing.		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Player
-An interesting problem. But... I suppose I could grant you private access to the Hallowed Sepulchre... for a fee.		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Mysterious Stranger
+An interesting problem. But... I suppose I could grant you private access to the Hallowed Sepulchre... for a fee.	An interesting problem. でも、、I suppose I could grant you private access to the Hallowed Sepulchre... for a fee.	dialogue	Mysterious Stranger (Hallowed Sepulchre)	Mysterious Stranger
 How much?		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Player
 200 Hallowed marks.		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Mysterious Stranger
 I don't have that many marks on me...		dialogue	Mysterious Stranger (Hallowed Sepulchre)	Player
@@ -42352,7 +42352,7 @@ Well, I was a sailor. I've not been able to get work at sea these days, though. 
 Sorry, where was it you said you wanted to go?		dialogue	Ned	Ned
 To the island of Crandor.		dialogue	Ned	Player
 Crandor?		dialogue	Ned	Ned
-But... It would be a chance to sail a ship once more. I'd sail anywhere if it was a chance to sail again.		dialogue	Ned	Ned
+But... It would be a chance to sail a ship once more. I'd sail anywhere if it was a chance to sail again.	でも、、It would be a chance to sail a ship once more. I'd sail anywhere if it was a chance to sail again.	dialogue	Ned	Ned
 Then again, no captain in his right mind would sail to that island...		dialogue	Ned	Ned
 Ah, you only live once! I'll do it!		dialogue	Ned	Ned
 So, where's your ship?		dialogue	Ned	Ned
@@ -42671,7 +42671,7 @@ A siphon will solve this!		dialogue	Nex	Nex
 I demand a blood sacrifice!		dialogue	Nex	Nex
 Cruor, don't fail me!		dialogue	Nex	Nex
 Infuse me with the power of ice!		dialogue	Nex	Nex
-Contain this!		dialogue	Nex	Nex
+Contain this!	これを封じ込めろ！	dialogue	Nex	Nex
 Die now, in a prison of ice!		dialogue	Nex	Nex
 Glacies, don't fail me!		dialogue	Nex	Nex
 NOW, THE POWER OF ZAROS!		dialogue	Nex	Nex
@@ -47693,7 +47693,7 @@ Light this brazier!		dialogue	Pyromancer	Pyromancer
 Yemalo shi cardito!		dialogue	Pyromancer	Pyromancer
 Fix this brazier!		dialogue	Pyromancer	Pyromancer
 Arg, it got me!		dialogue	Pyromancer	Pyromancer
-Mummy!		dialogue	Pyromancer	Pyromancer
+Mummy!	ミイラだ！	dialogue	Pyromancer	Pyromancer
 My flame burns low.		dialogue	Pyromancer	Pyromancer
 We are doomed.		dialogue	Pyromancer	Pyromancer
 I think I'm dying.		dialogue	Pyromancer	Pyromancer
@@ -58201,7 +58201,7 @@ HAHAHAHAHAHA! No, of course not! You are stupid, even by outerlander standards!	
 If you want my vote, you must pass my trial. It is as simple as that.		dialogue	Thorvald the Warrior	Thorvald the Warrior
 Congratulations! You have completed the warrior's trial! (Koschei disappears in a puff of smoke, the player receives a Fremennik blade)		dialogue	Thorvald the Warrior	Thorvald the Warrior
 Hahaha! Well fought outerlander! Now come down from there, you have passed my trial with flying colours!		dialogue	Thorvald the Warrior	Thorvald the Warrior
-But... I don't understand... I did not manage to beat Koschei...		dialogue	Thorvald the Warrior	Player
+But... I don't understand... I did not manage to beat Koschei...	でも、、I don't understand... I did not manage to beat Koschei...	dialogue	Thorvald the Warrior	Player
 I did not say you had to, outerlander! All I asked was that you fought to the death! And you did! The death was your own!		dialogue	Thorvald the Warrior	Thorvald the Warrior
 I was not interested in how strong you are! I was interested in how BRAVE you are! You fought a superior enemy to your very last breath - THAT is bravery.		dialogue	Thorvald the Warrior	Thorvald the Warrior
 I would be honoured to represent you to the council as worthy of being a Fremennik after watching that superb battle!		dialogue	Thorvald the Warrior	Thorvald the Warrior
@@ -61259,7 +61259,7 @@ As I heard it, I saw that I too was fading, just as the Empty Lord had, and I ca
 It was then that the other gods appeared and banished Zamorak from the world completely for daring to kill one of their kind, although as it turned out it didn't quite work out that way for them, when he returned		dialogue	Viggora	Mysterious ghost
 stronger than ever, a god himself.		dialogue	Viggora	Mysterious ghost
 But the god wars were another story entirely...		dialogue	Viggora	Mysterious ghost
-But... I don't understand... If it was Zamorak who used the weapon, then why was it only you who were cursed?		dialogue	Viggora	Player
+But... I don't understand... If it was Zamorak who used the weapon, then why was it only you who were cursed?	でも、、I don't understand... If it was Zamorak who used the weapon, then why was it only you who were cursed?	dialogue	Viggora	Player
 And the other people who were cursed, why them? Why not the other Mahjarrat for example?		dialogue	Viggora	Player
 And just who was this 'Empty Lord' you keep speaking of?		dialogue	Viggora	Player
 Well, in my life I was nothing but a warrior. I had no hidden knowledge, I didn't especially care about the gods or their magics, and I certainly didn't respect them.		dialogue	Viggora	Mysterious ghost
@@ -62373,7 +62373,7 @@ Can I buy your hat?		dialogue	Wise Old Man	Player
 Ohhh no, I don't intend to part with this. Would you like to ask me about something else?		dialogue	Wise Old Man	Wise Old Man
 You should give it back, you know.		dialogue	Wise Old Man	Player
 No, I think I'll keep it.		dialogue	Wise Old Man	Wise Old Man
-But...		dialogue	Wise Old Man	Player
+But...	でも、、	dialogue	Wise Old Man	Player
 That was quite an exciting quest we did together!		dialogue	Wise Old Man	Player
 Oh yes, it was certainly a fitting end to my adventuring days. Your fight against the Sea Troll Queen was highly impressive!		dialogue	Wise Old Man	Wise Old Man
 Are you tempted to go on another quest in the future?		dialogue	Wise Old Man	Player
@@ -64474,7 +64474,7 @@ Yes, it could use a nice snack.		dialogue	Heron	Heron
 No, I'm not shelling that out for a snack.		dialogue	Heron	Heron
 So... you're alchemical; does that mean I can turn you into gold?		dialogue	Ikkle Hydra	Player
 No, I like my form as it is.		dialogue	Ikkle Hydra	Ikkle Hydra
-But... I love gold.		dialogue	Ikkle Hydra	Player
+But... I love gold.	でも、、I love gold.	dialogue	Ikkle Hydra	Player
 I'll turn to gold when drakes fly.		dialogue	Ikkle Hydra	Ikkle Hydra
 How do you ever agree on what to do?		dialogue	Ikkle Hydra	Player
 Well I’m in charge.		dialogue	Ikkle Hydra	Right-most head
@@ -64870,7 +64870,7 @@ Fumus! Umbra! Cruor! Glacies! Don't fail me!		dialogue	Nexling	Nexling
 Err...		dialogue	Nexling	Player
 Fumus? Where is Fumus?		dialogue	Nexling	Nexling
 You know they're not here, right?		dialogue	Nexling	Player
-But... Cruor?		dialogue	Nexling	Nexling
+But... Cruor?	でも、、Cruor?	dialogue	Nexling	Nexling
 Darken my shadow!		dialogue	Nexling	Nexling
 Infuse me with the power of ice!		dialogue	Nexling	Nexling
 Hey! Tell me something I don't know.	おい！Tell me something I don't know.	dialogue	Nexling	Player
@@ -68374,7 +68374,7 @@ Wooo wooo wooOOooOOoo!		dialogue	Ghost	Ghost
 Eeeek!		dialogue	Ghost	Ghost
 EIEEEEE!		dialogue	Ghost	Ghost
 Mummy, are we safe now?		dialogue	Ghost	Ghost
-Mummy! Where are you?		dialogue	Ghost	Ghost
+Mummy! Where are you?	ミイラだ！Where are you?	dialogue	Ghost	Ghost
 Wooo wooo woooooooo!		dialogue	Ghost	Ghost
 I don't want to die like this!		dialogue	Ghost	Ghost
 Oh no!		dialogue	Ghost	Ghost
@@ -68544,7 +68544,7 @@ What?	え？	dialogue	Guard	Player
 Have a nice day!		dialogue	Guard	Guard
 I don't want to be unfriendly, but I can't help noticing that since surface-dwellers started coming into the city there has been an increase in CRIME!		dialogue	Guard	Guard
 Surface-dweller! I don't know how you got into the city, but you will never escape!		dialogue	Guard	Guard
-But... I thought I was allowed into the city!		dialogue	Guard	Player
+But... I thought I was allowed into the city!	でも、、I thought I was allowed into the city!	dialogue	Guard	Player
 You are. I just wanted to say that. And now that you're allowed into the city, I'll never be able to!		dialogue	Guard	Guard
 Hello soldier.		dialogue	Guard	Guard
 I'm more of an adventurer really.		dialogue	Guard	Player
@@ -69782,7 +69782,7 @@ I do not. If I did have any of your items, but you died before collecting them, 
 I do have some of your items here. Try not to get hit by the traps next time.		dialogue	Mysterious Stranger	Mysterious Stranger
 I'd like to access your tool storage.		dialogue	Mysterious Stranger	Player
 Is there any way I could have private access to the Sepulchre? The other adventurers in there keep activating traps and messing up my timing.		dialogue	Mysterious Stranger	Player
-An interesting problem. But... I suppose I could grant you private access to the Hallowed Sepulchre... for a fee.		dialogue	Mysterious Stranger	Mysterious Stranger
+An interesting problem. But... I suppose I could grant you private access to the Hallowed Sepulchre... for a fee.	An interesting problem. でも、、I suppose I could grant you private access to the Hallowed Sepulchre... for a fee.	dialogue	Mysterious Stranger	Mysterious Stranger
 How much?		dialogue	Mysterious Stranger	Player
 200 Hallowed marks.		dialogue	Mysterious Stranger	Mysterious Stranger
 I don't have that many marks on me...		dialogue	Mysterious Stranger	Player
