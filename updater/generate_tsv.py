@@ -3,6 +3,7 @@ import os
 import common_func
 import update_hash
 import update_nonEn_transcripts
+import csv
 os.path.dirname(os.path.abspath(__file__))
 from update_english_transcript import common
 
@@ -63,11 +64,13 @@ def xliff_to_tsv(xliff_file_path, tsv_file_path, columns=None):
 	updated_lines = []
 	for line in lines:
 		eng = line.split('\t')[0]
-		if '""' in eng and (eng.startswith('"') and eng.endswith('"')):
-			eng = eng[1:-1].replace('""', '"')
+		if '\\""' in eng and (eng.startswith('"') and eng.endswith('"')):
+			print(f"found double quotes in {eng}")
+			eng = eng[1:-1].replace('\\""', '"')
+			print(f"updated to {eng}")
 			line = line.replace(line.split('\t')[0], eng)
 		updated_lines.append(line)
-	with open(tsv_file_path, 'w', encoding='utf-8') as file:
+	with open(tsv_file_path, 'w', encoding='utf-8', newline='') as file:
 		file.writelines(updated_lines)
 
 def manyXLIFF_to_manyTSV(target_lang_code):

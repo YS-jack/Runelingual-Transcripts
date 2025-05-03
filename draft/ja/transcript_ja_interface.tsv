@@ -6370,7 +6370,7 @@ Description: <colNum0>Kill Duke Sucellus whilst only attacking the boss on the s
 Description: <colNum0>Defeat Sol Heredit <Num0> times.</col>	詳細：<colNum0>ソル・ヘレディットを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit without running during the fight with him.</col>	詳細：<colNum0>ソル・ヘレディットを、それとの戦闘中は走らずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.</col>	詳細：<colNum0>ソル・ヘレディットを、その槍、盾、グラップル、３連続攻撃のダメージを受けずに倒す。</col>	interface	combAchvmt	
-Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを業績「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Araxxor perfectly, without hitting it during the enrage phase.</col>	詳細：<colNum0>アラクソーに完全勝利する、暴走フェーズ中は攻撃せずに。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Araxxor without the boss ever moving.</col>	詳細：<colNum0>アラクソーを移動させずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Hueycoatl in <Num0>:<Num1> with three or fewer players.</col>	詳細：<colNum0>フエコアトルを<Num0>:<Num1>以内に３人以下のチームで倒す。</col>	interface	combAchvmt	
