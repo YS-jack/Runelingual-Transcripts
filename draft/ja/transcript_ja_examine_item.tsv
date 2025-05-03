@@ -598,7 +598,7 @@ It doesn't look very tasty.		examine	item	Hangover cure
 Maybe I should read it...		examine	item	Ardougne teleport scroll
 Stops me from breathing nasty stuff!		examine	item	Gas mask
 Quite a small key (Used in the Plague City quest).		examine	item	A small key
-"It seems to say ""hongorer lure""..."		examine	item	A scruffy note
+It seems to say \"hongorer lure\"...		examine	item	A scruffy note
 Turnip growing for beginners.		examine	item	Book
 A picture of a lady called Elena.		examine	item	Picture
 A number of wooden logs.		examine	item	Logs
@@ -7138,7 +7138,7 @@ A mystical-feeling polearm imbued with great power.		examine	item	Keris partisan
 A ward once used by Elidinis herself.		examine	item	Elidinis' ward
 A sigil attuned to you with great power.		examine	item	Sigil of resilience
 A power enhancing sigil not yet attuned to you.		examine	item	Sigil of resilience
-"Engraved within, it reads ""We stand alone - together""."		examine	item	Group ironman helm
+Engraved within, it reads \"We stand alone - together\".		examine	item	Group ironman helm
 A platebody representing your group of two.		examine	item	Group ironman platebody
 A platebody representing your group of three.		examine	item	Group ironman platebody
 A platebody representing your group of four.		examine	item	Group ironman platebody
@@ -7475,7 +7475,7 @@ A seed that can be planted to grow a Gorgeous Orange Lily.		examine	item	Gorgeou
 A seed that can be planted to grow a Beautiful Yellow Pansy.		examine	item	Beautiful yellow pansy seed
 A seed that can be planted to grow a Tenacious Indigo Iris.		examine	item	Tenacious indigo iris seed
 A seed that can be planted to grow a Quality Violet Tulip.		examine	item	Quality violet tulip seed
-"Engraved within, it reads ""Ranked or not: We stand alone - together""."		examine	item	Group ironman helm (unranked)
+Engraved within, it reads \"Ranked or not: We stand alone - together\".		examine	item	Group ironman helm (unranked)
 Supplies a selection of runes for spellcasting.		examine	item	Rune pouch
 Use on an elder maul to make it look fancier!		examine	item	Elder maul ornament kit
 A maul crafted from the component parts of Tekton and various decorative materials.		examine	item	Elder maul (or)

@@ -5901,9 +5901,9 @@ Description: <colNum0>Kill the Chaos Fanatic <Num0> times.</col>	詳細：<colNu
 Description: <colNum0>Kill the Chaos Fanatic without anyone being hit by his explosion attack.</col>	詳細：<colNum0>混沌の狂信者、爆破攻撃を受けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Crazy Archaeologist <Num0> times.</col>	詳細：<colNum0>狂った考古学者を<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Crazy Archaeologist with only magical attacks.</col>	詳細：<colNum0>狂った考古学者を魔法だけで倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Kill the Crazy Archaeologist without anyone being hit by his ""Rain of Knowledge"" attack.</col>"	詳細：<colNum0>狂った考古学者を「知恵の雨」の攻撃を受けずに倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Crazy Archaeologist without anyone being hit by his \"Rain of Knowledge\" attack.</col>	詳細：<colNum0>狂った考古学者を「知恵の雨」の攻撃を受けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Deranged Archaeologist with only magical attacks.</col>	詳細：<colNum0>錯乱した考古学者を魔法だけで倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Kill the Deranged Archaeologist without anyone being hit by his ""Learn to Read"" attack.</col>"	詳細：<colNum0>錯乱した考古学者を「読むことを学べ」の攻撃を受けずに倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist without anyone being hit by his \"Learn to Read\" attack.</col>	詳細：<colNum0>錯乱した考古学者を「読むことを学べ」の攻撃を受けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill a Gargoyle.</col>	詳細：<colNum0>ガーゴイルを倒す。</col></col>	interface	combAchvmt	
 Description: <colNum0>Kill Obor <Num0> times.</col>	詳細：<colNum0>オーボーを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Obor without being pushed back more than one square by his knockback attack.</col>	詳細：<colNum0>オーボーのノックバック攻撃により２マス以上押されずに倒す。</col>	interface	combAchvmt	
@@ -5966,7 +5966,7 @@ Description: <colNum0>Finish off Hespori with a special attack.</col>	詳細：<
 Description: <colNum0>Kill all of Hesporis flowers within <Num0> seconds.</col>	詳細：<colNum0>ヘスポリの花を全て<Num0>秒以内に倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kalphite Queen <Num0> times.</col>	詳細：<colNum0>女王カルファイトを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kalphite Queen while her defence was last lowered by you.</col>	詳細：<colNum0>女王カルファイトを、その防御力が下がっていて、かつ下げたのが自分である間に倒す。</col>	interface	combAchvmt	
-Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	詳細：<colNum0>スタミナ</col <colNum1>(+<Num0>ポイント)</col>	interface	combAchvmt	
+Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	詳細：<colNum0>スタミナ</co>l <colNum1>(+<Num0>ポイント)</col>	interface	combAchvmt	
 Description: <colNum0>Kill The King Black Dragon <Num0> times in a privately rented instance without leaving the instance.</col>	詳細：<colNum0>黒竜王を<Num0>回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kraken <Num0> times.</col>	詳細：<colNum0>クラーケンを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kraken after killing all four tentacles.</col>	詳細：<colNum0>クラーケンを、その触手をすべて倒してから倒す。</col>	interface	combAchvmt	
@@ -6032,7 +6032,7 @@ Description: <colNum0>Kill a Demonic Gorilla.</col>	詳細：<colNum0>悪魔の�
 Description: <colNum0>Finish off a Demonic Gorilla with a demonbane weapon.</col>	詳細：<colNum0>悪魔のゴリラに悪魔特攻の武器でとどめを刺す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Galvek in less than <Num0> minutes.</col>	詳細：<colNum0>ガルヴェックを<Num0>分以内に倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Grotesque Guardians before Dusk uses his prison attack for a second time.</col>	詳細：<colNum0>グロテスク・ガーディアンをサスクが２回牢屋攻撃をする前に倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Kill the Grotesque Guardians whilst completing the ""Don't look at the eclipse"", ""Prison Break"", ""Granite footwork"", ""Heal no more"", ""Static Awareness"" and ""Done before dusk"" tasks.</col>"	詳細：<colNum0>グロテスク・ガーディアンを「月食を見るな」「脱獄」「花崗岩のフットワーク」「回復はもうやめ」「不変的意識」「夕暮れ前に終わらせる」の条件を全て満たして倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians whilst completing the \"Don't look at the eclipse\", \"Prison Break\", \"Granite footwork\", \"Heal no more\", \"Static Awareness\" and \"Done before dusk\" tasks.</col>	詳細：<colNum0>グロテスク・ガーディアンを「月食を見るな」「脱獄」「花崗岩のフットワーク」「回復はもうやめ」「不変的意識」「夕暮れ前に終わらせる」の条件を全て満たして倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Grotesque Guardians in less than <Num0> minutes.</col>	詳細：<colNum0>グロテスク・ガーディアンを<Num0>分以内に倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Grotesque Guardians <Num0> times without leaving the instance.</col>	詳細：<colNum0>グロテスク・ガーディアンを<Num0>回連続で、インスタンスから離れずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Corrupted Gauntlet <Num0> times.</col>	詳細：<colNum0>変異ゴーントレットを<Num0>回攻略する。</col>	interface	combAchvmt	
@@ -6248,7 +6248,7 @@ Description: <colNum0>Defeat Kephri with all Kephri invocations activated and th
 Description: <colNum0>Defeat Kephri without letting her heal above <Num0>% after the first down. The 'Medic' invocation must be activated. You must do this without dying yourself.</col>	詳細：<colNum0>ケフリを、それが最初にダウンしてから<Num0>%以上回復させずに倒す。祈願「衛生兵」を発動していなければならない。また、自分は死んではいけない。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Elidinis' Warden in phase three of the Wardens fight with 'Aerial Assault', 'Stay vigilant' and 'Insanity' invocations activated and without dying yourself.</col>	詳細：<colNum0>エリディニスの監視者を「空中攻撃」、「油断大敵」、「愚行」の祈願を発動し、死なずに、監視者をフェーズ３で、自分は死なずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat the Wardens with all Wardens invocations activated, at expert level and without dying yourself.</col>	詳細：<colNum0>全ての監視者の祈願を専門家レベルで発動し、自分は死なずに監視者たちを倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Complete the Tombs of Amascut with the ""On a diet"" and ""Dehydration"" invocations activated and without anyone dying.</col>"	詳細：<colNum0>アマスカットの墓を「食事制限」と「脱水症状」の祈願を発動し、誰も死なずに踏破する。	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut with the \"On a diet\" and \"Dehydration\" invocations activated and without anyone dying.</col>	詳細：<colNum0>アマスカットの墓を「食事制限」と「脱水症状」の祈願を発動し、誰も死なずに踏破する。	interface	combAchvmt	
 Description: <colNum0>Complete the Tombs of Amascut without anyone in your party wearing or holding any equipment at tier <Num0> or above.</col>	詳細：<colNum0>アマスカットの墓を、誰もレベル<Num0>以上の装備を装着・所持せずに踏破する。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Zebak using only melee attacks and without dying yourself.</col>	詳細：<colNum0>ゼバクを自分は死なずに近接武器だけで倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Complete phase three of The Wardens in a group of two or more, using only melee attacks and without dying yourself. The 'Insanity' invocation must be activated.</col>	詳細：<colNum0>監視者のフェーズ３を二人以上のチームで、近接攻撃だけで、自分は死なずに突破する。「愚行」の祈願を発動している必要がある。</col>	interface	combAchvmt	
@@ -6277,7 +6277,7 @@ Description: <colNum0>Kill Vardorvis perfectly <Num0> times without leaving.</co
 Description: <colNum0>Defeat Sol Heredit once.</col>	詳細：<colNum0>ソル・ヘレディットを一回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit using only a Spear, Hasta or Halberd.</col>	詳細：<colNum0>ソル・ヘレディットを槍、片手槍、もしくは矛槍だけで倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit after Fortis Saluting to the North, East, South and West of the arena while he's below <Num0>% Hitpoints.</col>	詳細：<colNum0>ソル・ヘレディットの体力が<Num0>未満のときに東西南北４方向に向かってフォーティスの敬礼をしてからソル・ヘレディットを倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Complete Wave <Num0> with either ""Red Flag"", ""Dynamic Duo"", or ""Doom II"" active.</col>"	詳細：<colNum0>「赤旗」「ダイナミック・デュオ」「破滅II」のいずれが有効な状態でウェーブ<Num0>を突破する。</col>	interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> with either \"Red Flag\", \"Dynamic Duo\", or \"Doom II\" active.</col>	詳細：<colNum0>「赤旗」「ダイナミック・デュオ」「破滅II」のいずれが有効な状態でウェーブ<Num0>を突破する。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Colosseum with a total time of <Num0>:<Num1> or less.</col>	詳細：<colNum0>闘技場を合計<Num0>:<Num1>以内に攻略する。</col>	interface	combAchvmt	
 Description: <colNum0>Kill three Tormented Demons within <Num0> seconds.</col>	詳細：<colNum0>苦悩する悪魔を３体<Num0>秒以内に倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Araxxor perfectly, without taking damage from Araxxor's Mage & Range attacks, melee attack off prayer, araxyte minions damage, or damage from acid pools.</col>	詳細：<colNum0>アラクソーに完全勝利する。つまりアラクソーの魔法・遠射・近接攻撃を防御の祈りで軽減し、アラキサイトの手下・酸溜まりからダメージを受けずに倒す。</col>	interface	combAchvmt	
@@ -6303,7 +6303,7 @@ Description: <colNum0>Defeat the Nightmare (<Num0>-scale) in less than <Num1>:<N
 Description: <colNum0>Kill Commander Zilyana in a privately rented instance without taking any damage from the boss or bodyguards.</col>	詳細：<colNum0>ジリアーナ司令官を専用インスタンス内でボスからもボディーガードからもダメージを受けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Commander Zilyana <Num0> times in a privately rented instance without leaving the room.</col>	詳細：<colNum0>ジリアーナ司令官を<Num0>回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Zulrah in less than <Num0> seconds, without a slayer task.</col>	詳細：<colNum0>ズルラを<Num0>秒以内に討伐依頼なしで倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: ""Perfect Maiden"", ""Perfect Bloat"", ""Perfect Nylocas"", ""Perfect Sotetseg"", ""Perfect Xarpus"" and ""Perfect Verzik"".</col>"	詳細：<colNum0>血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: \"Perfect Maiden\", \"Perfect Bloat\", \"Perfect Nylocas\", \"Perfect Sotetseg\", \"Perfect Xarpus\" and \"Perfect Verzik\".</col>	詳細：<colNum0>血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Theatre of Blood without any member of the team equipping a non-barrows weapon (except Dawnbringer).</col>	詳細：<colNum0>血の劇場を、バロウズ系以外の武器を装備せずに攻略する（ドーンブリンガーは使用可能）。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Theatre of Blood (Duo) in less than <Num0> minutes.</col>	詳細：<colNum0>血の劇場（デュオ）を<Num0>分以内に攻略する。</col>	interface	combAchvmt	
 Description: <colNum0>Complete the Theatre of Blood (Trio) in less than <Num0> minutes and <Num1> seconds.</col>	詳細：<colNum0>血の劇場（トリオ）を<Num0>分<Num1>秒以内に攻略する。</col>	interface	combAchvmt	
@@ -6370,7 +6370,7 @@ Description: <colNum0>Kill Duke Sucellus whilst only attacking the boss on the s
 Description: <colNum0>Defeat Sol Heredit <Num0> times.</col>	詳細：<colNum0>ソル・ヘレディットを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit without running during the fight with him.</col>	詳細：<colNum0>ソル・ヘレディットを、それとの戦闘中は走らずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Defeat Sol Heredit without taking any damage from his Spear, Shield, Grapple or Triple Attack.</col>	詳細：<colNum0>ソル・ヘレディットを、その槍、盾、グラップル、３連続攻撃のダメージを受けずに倒す。</col>	interface	combAchvmt	
-"Description: <colNum0>Defeat Sol Heredit with the ""Bees! II"", ""Quartet"", and ""Solarflare II"" modifiers active.</col>"	詳細：<colNum0>ソル・ヘレディットを業績「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit with the \"Bees! II\", \"Quartet\", and \"Solarflare II\" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを業績「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Araxxor perfectly, without hitting it during the enrage phase.</col>	詳細：<colNum0>アラクソーに完全勝利する、暴走フェーズ中は攻撃せずに。</col>	interface	combAchvmt	
 Description: <colNum0>Kill Araxxor without the boss ever moving.</col>	詳細：<colNum0>アラクソーを移動させずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Hueycoatl in <Num0>:<Num1> with three or fewer players.</col>	詳細：<colNum0>フエコアトルを<Num0>:<Num1>以内に３人以下のチームで倒す。</col>	interface	combAchvmt	
@@ -6395,7 +6395,7 @@ Combat Achievements - Amoxliatl	戦闘実績 : エモックスリアトル	inter
 Amoxliatl is a boss found within the Ruins of Tapoyauik in Varlamore.  Attack Styles - Magic, Special Immunities - Poison, Venom Slayer Categories - Lesser Nagua	エモックスリアトルはヴァーラモーの廃墟に生息するボスモンスター。攻撃スタイル：魔法<br>特殊耐性：毒・猛毒<br>討伐依頼のカテゴリ：下位のナーガ	interface	combAchvmt	
 Mandatory requirements: - The Heart of Darkness  Combat Achievement task difficulty: - Medium - Hard - Elite	必須条件：<br>-クエスト「暗黒の心臓」<br><br>戦闘実績タスクの難易度：<br>-中級<br>-上級<br>-超級	interface	combAchvmt	
 Combat Achievements - Araxxor	戦闘実績 : アラクソー	interface	combAchvmt	
-Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider	アラクソーはダークメヤー北東のモリタニア蜘蛛洞窟に生息するボスモンスター。攻撃スタイル：近接・遠射・魔法<br>特殊耐性：猛毒<br>討伐依頼のカテゴリ：アラキサイト、クモ	interface	combAchvmt	
+Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider	アラクソーはダークメヤー北東のモリタニアのクモ洞窟に生息するボスモンスター。攻撃スタイル：近接・遠射・魔法<br>特殊耐性：猛毒<br>討伐依頼のカテゴリ：アラキサイト、クモ	interface	combAchvmt	
 Mandatory requirements: - Priest in Peril - <Num0> Slayer	必須条件：<br>-クエスト「危機に瀕した司祭」<br>-討伐レベル<Num0>	interface	combAchvmt	
 Combat Achievements - Barrows	戦闘実績 : バロウズ	interface	combAchvmt	
 The Barrows are a series of six burial mounds located in Morytania.  Each of the six Barrows Brothers (Ahrim, Dharok, Guthan, Karil, Torag and Verac) attack with a specific combat style and unique abilities granted by their armour and weaponry.  Attack Styles - Magic, Ranged, Melee Immunities - None Slayer Categories - None	バロウズは、モリタニアにある6つの古墳群である。6人のバローズ兄弟（アリム、ダロック、ガサン、カリル、トーラッグ、ヴェラック）はそれぞれ、特定の戦闘スタイルと、鎧や武器によって付与されたユニークな能力で攻撃する。攻撃スタイル：近接・遠射・魔法<br>特殊耐性：なし<br>討伐依頼のカテゴリ：なし	interface	combAchvmt	

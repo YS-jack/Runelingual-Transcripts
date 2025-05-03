@@ -33043,7 +33043,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120893"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen while her defence was last lowered by you.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;女王カルファイトを、その防御力が下がっていて、かつ下げたのが自分である間に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120894"><xliff:source>Type: &lt;colNum0&gt;Stamina&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt; points)&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スタミナ&lt;/col &lt;colNum1&gt;(+&lt;Num0&gt;ポイント)&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120894"><xliff:source>Type: &lt;colNum0&gt;Stamina&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt; points)&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スタミナ&lt;/co&gt;l &lt;colNum1&gt;(+&lt;Num0&gt;ポイント)&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120895"><xliff:source>Description: &lt;colNum0&gt;Kill The King Black Dragon &lt;Num0&gt; times in a privately rented instance without leaving the instance.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;黒竜王を&lt;Num0&gt;回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -34330,7 +34330,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121322"><xliff:source>Combat Achievements - Araxxor</xliff:source><xliff:target state="translated">戦闘実績 : アラクソー</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121323"><xliff:source>Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider</xliff:source><xliff:target state="translated">アラクソーはダークメヤー北東のモリタニア蜘蛛洞窟に生息するボスモンスター。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：アラキサイト、クモ</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121323"><xliff:source>Araxxor is a boss found within the Morytania Spider Cave, north east of Darkmeyer.  Attack Styles - Melee, Ranged, Magic, Special Immunities - Venom Slayer Categories - Araxyte, Spider</xliff:source><xliff:target state="translated">アラクソーはダークメヤー北東のモリタニアのクモ洞窟に生息するボスモンスター。攻撃スタイル：近接・遠射・魔法&lt;br&gt;特殊耐性：猛毒&lt;br&gt;討伐依頼のカテゴリ：アラキサイト、クモ</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121324"><xliff:source>Mandatory requirements: - Priest in Peril - &lt;Num0&gt; Slayer</xliff:source><xliff:target state="translated">必須条件：&lt;br&gt;-クエスト「危機に瀕した司祭」&lt;br&gt;-討伐レベル&lt;Num0&gt;</xliff:target><xliff:note>category: interface

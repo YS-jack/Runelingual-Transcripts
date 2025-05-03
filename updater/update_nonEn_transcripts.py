@@ -280,6 +280,8 @@ def xliff_to_dataframe(xliff_file_path):
     # Iterate through each trans-unit, adjusting for namespace
     for trans_unit in body_element.findall('.//xliff:trans-unit', nsmap):
         source = trans_unit.find('.//xliff:source',nsmap).text
+        if source is not None:
+            source = source.replace('"', '\\"')
         translation = trans_unit.find('.//xliff:target', nsmap).text
         if translation is not None:
             translation = translation.replace('\n', '')

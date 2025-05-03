@@ -53,6 +53,23 @@ def xliff_to_tsv(xliff_file_path, tsv_file_path, columns=None):
 		xliff_df = xliff_df[columns]
 	xliff_df.to_csv(tsv_file_path, sep='\t', index=False)
 
+	# check the csv file for english that contains 2 double quotes and start+ends with double quotes
+	# if so replace the double quotes with single quotes, and remove the double quotes at the start and end of the string
+	if is_file_empty(tsv_file_path):
+		print(f"File {tsv_file_path} is empty. Skipping.")
+		return
+	with open(tsv_file_path, 'r', encoding='utf-8') as file:
+		lines = file.readlines()
+	updated_lines = []
+	for line in lines:
+		eng = line.split('\t')[0]
+		if '""' in eng and (eng.startswith('"') and eng.endswith('"')):
+			eng = eng[1:-1].replace('""', '"')
+			line = line.replace(line.split('\t')[0], eng)
+		updated_lines.append(line)
+	with open(tsv_file_path, 'w', encoding='utf-8') as file:
+		file.writelines(updated_lines)
+
 def manyXLIFF_to_manyTSV(target_lang_code):
 	draft_dir = common_func.DRAFT_DIR
 	draft_lang_dir = os.path.join(draft_dir, target_lang_code)
