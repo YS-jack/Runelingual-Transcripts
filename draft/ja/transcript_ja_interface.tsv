@@ -6570,7 +6570,7 @@ Combat Achievements - Zalcano	戦闘実績 : ザルカーノ	interface	combAchvm
 Zalcano is a demon skilling boss imprisoned beneath the elven capital city of Prifddinas.  Attack Styles - Special Immunities - Special Slayer Categories - None	<autoBr>ザルカーノはエルフ族の首都プリフディナスの地下に捕らわれている悪魔のスキルボスだ。</autoBr><br><br>攻撃スタイル：特殊<br>特殊耐性：特殊<br>討伐依頼のカテゴリ：なし	interface	combAchvmt	
 Mandatory requirements: - Song of the Elves - A pickaxe  Combat Achievement task difficulty: - Elite	必須条件：<br>-クエスト「エルフの歌」<br>-ツルハシ<br><br>戦闘実績タスクの難易度：<br>-超級	interface	combAchvmt	
 Combat Achievements - Zulrah	戦闘実績 : ズルラ	interface	combAchvmt	
-Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None	<autoBr>ズルラはイサフダー南のポイズン・ウェイストの聖堂にいるヘビのボスだ。ズル・アンドラの従者が聖堂まで手漕ぎボートで案内してくれる。</autoBr>攻撃スタイル：近接・遠射・魔法<br>特殊耐性：毒・猛毒<br>討伐依頼のカテゴリ：なし	interface	combAchvmt	
+Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None	<autoBr>ズルラはイサフダー南のポイズン・ウェイストの聖堂にいるヘビのボスだ。ズル・アンドラの従者が聖堂まで手漕ぎボートで案内してくれる。</autoBr><br><br>攻撃スタイル：近接・遠射・魔法<br>特殊耐性：毒・猛毒<br>討伐依頼のカテゴリ：なし	interface	combAchvmt	
 Mandatory requirements: - Regicide  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	必須条件：<br>-クエスト「国王殺し」<br><br>戦闘実績タスクの難易度：<br>-上級<br>-超級<br>-達人<br>-総帥	interface	combAchvmt	
 Combat Achievements - Rewards	戦闘実績の報酬	interface	combAchvmt	
 <Num0>k XP lamp (minimum skill requirement: <Num1>)	<Num0>k XP（レベル<Num1>以上のスキル限定）	interface	combAchvmt	
