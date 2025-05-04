@@ -1587,3 +1587,20 @@ Complete	interface	combAchvmt
 Chambers of Xeric: Challenge Mode	interface	combAchvmt	
 Phosanis Nightmare	interface	combAchvmt	
 The Royal Titans	interface	combAchvmt	
+Barrows	name	npc	
+Chambers of Xeric	name	npc	
+Chambers of Xeric: Challenge Mode	name	npc	
+Fortis Colosseum	name	npc	
+Grotesque Guardians	name	npc	
+Moons of Peril	name	npc	
+Phosanis Nightmare	name	npc	
+The Royal Titans	name	npc	
+Theatre of Blood: Entry Mode	name	npc	
+Theatre of Blood	name	npc	
+Theatre of Blood: Hard Mode	name	npc	
+Tombs of Amascut: Entry Mode	name	npc	
+Tombs of Amascut	name	npc	
+Tombs of Amascut: Expert Mode	name	npc	
+TzHaar-Ket-Rak's Challenges	name	npc	
+Wintertodt	name	npc	
+Combat Achievements - <!NPC_NAME0>	interface	combAchvmt	

@@ -4220,131 +4220,147 @@ Zembo	ゼンボ	name	npc	Zembo
 Durial321	Durial321	name	npc	Durial321
 Magic Mark	Magic Mark	name	npc	Magic Mark
 Ranging Ro	Ranging Ro	name	npc	Ranging Ro
-Araxyte		name	npc	Araxyte
-Curator Herminius		name	npc	Curator Herminius
+Araxyte	アラキサイト	name	npc	Araxyte
+Curator Herminius	館長ハーミニウス	name	npc	Curator Herminius
 Araxxor	アラクソー	name	npc	Araxxor
-Mirrorback Araxyte		name	npc	Mirrorback Araxyte
-Ruptura Araxyte		name	npc	Ruptura Araxyte
-Acidic Araxyte		name	npc	Acidic Araxyte
-Weave	で編む	name	npc	Weave
-Arancini		name	npc	Arancini
-Dreadborn Araxyte		name	npc	Dreadborn Araxyte
+Mirrorback Araxyte	ミラーバック・アラキサイト	name	npc	Mirrorback Araxyte
+Ruptura Araxyte	ルプツラ・アラキサイト	name	npc	Ruptura Araxyte
+Acidic Araxyte	酸性アラキサイト	name	npc	Acidic Araxyte
+Weave	織物	name	npc	Weave
+Arancini	アランシニ	name	npc	Arancini
+Dreadborn Araxyte	ドレッドボーン・アラキサイト	name	npc	Dreadborn Araxyte
 Nid	ニッド	name	npc	Nid
 Rax	ラックス	name	npc	Rax
-Amoxliatl	エモック・・・	name	npc	Amoxliatl
-Unstable ice		name	npc	Unstable ice
-Felius		name	npc	Felius
-Caritta		name	npc	Caritta
-Sergius		name	npc	Sergius
-Nova		name	npc	Nova
-Emissary Ascended		name	npc	Emissary Ascended
-Forebearer Janus		name	npc	Forebearer Janus
-Forebearer Fides		name	npc	Forebearer Fides
-Augur Metzli		name	npc	Augur Metzli
-Emissary Acolyte		name	npc	Emissary Acolyte
-Forebearer Vulcan		name	npc	Forebearer Vulcan
-Frost Nagua		name	npc	Frost Nagua
-Forebearer Honos		name	npc	Forebearer Honos
-Emissary Chosen		name	npc	Emissary Chosen
-Emissary Forebearer		name	npc	Emissary Forebearer
-Emissary Chef		name	npc	Emissary Chef
-Emissary Fisher		name	npc	Emissary Fisher
-Emissary Herder		name	npc	Emissary Herder
-Emissary Brawler		name	npc	Emissary Brawler
-Emissary Conjurer		name	npc	Emissary Conjurer
-Emissary		name	npc	Emissary
-Tenoch		name	npc	Tenoch
-Silia		name	npc	Silia
-Adrius		name	npc	Adrius
-Eleuia		name	npc	Eleuia
-Frost Crab		name	npc	Frost Crab
-Brew'ma		name	npc	Brew'ma
-Marika		name	npc	Marika
-Chilled jelly		name	npc	Chilled jelly
-Emelio		name	npc	Emelio
-Lelia		name	npc	Lelia
-Alba		name	npc	Alba
-Lucas		name	npc	Lucas
-Renata		name	npc	Renata
-Vincens		name	npc	Vincens
-Colosseum Announcer		name	npc	Colosseum Announcer
-Dire Wolf Alpha		name	npc	Dire Wolf Alpha
-Patzi		name	npc	Patzi
-Adala		name	npc	Adala
-Constantinius		name	npc	Constantinius
-Cozyac		name	npc	Cozyac
-Xocotla		name	npc	Xocotla
-Pavo		name	npc	Pavo
-Head Butler		name	npc	Head Butler
-Stradius		name	npc	Stradius
-Hutza		name	npc	Hutza
-Costumer		name	npc	Costumer
-Naiatli		name	npc	Naiatli
-Clodius		name	npc	Clodius
-Wandering Guard		name	npc	Wandering Guard
-Smart-looking dog		name	npc	Smart-looking dog
-Villa Guard		name	npc	Villa Guard
-Livius		name	npc	Livius
-Vineyard worker		name	npc	Vineyard worker
-Vineyard foreman		name	npc	Vineyard foreman
-Well-dressed man		name	npc	Well-dressed man
-Cabbage Farmer		name	npc	Cabbage Farmer
-Nasty Nick		name	npc	Nasty Nick
-Faustus		name	npc	Faustus
-Toci		name	npc	Toci
-Antonius		name	npc	Antonius
-Supervisor Lalo		name	npc	Supervisor Lalo
-Meztlan		name	npc	Meztlan
-Clanila		name	npc	Clanila
-Tzatelli		name	npc	Tzatelli
-Juatil		name	npc	Juatil
-Alaxxi		name	npc	Alaxxi
-Kali		name	npc	Kali
-Ichta		name	npc	Ichta
-Necto		name	npc	Necto
-Overseer Khougo		name	npc	Overseer Khougo
-Techichi		name	npc	Techichi
-Chiribaya		name	npc	Chiribaya
-Locke McScruff		name	npc	Locke McScruff
-Woofson		name	npc	Woofson
-Porcupine		name	npc	Porcupine
-Salius		name	npc	Salius
-Salvager		name	npc	Salvager
-Chosen Aluinus		name	npc	Chosen Aluinus
-Hugh		name	npc	Hugh
-Izel		name	npc	Izel
-Worm Tongue		name	npc	Worm Tongue
-Construction Worker		name	npc	Construction Worker
-Antonia		name	npc	Antonia
-Taala		name	npc	Taala
-Chef		name	npc	Chef
-Marla		name	npc	Marla
-Viero		name	npc	Viero
-Manauia		name	npc	Manauia
+Amoxliatl	エモックスリアトル	name	npc	Amoxliatl
+Unstable ice	不安定な氷	name	npc	Unstable ice
+Felius	フェリウス	name	npc	Felius
+Caritta	カリッタ	name	npc	Caritta
+Sergius	セーギウス	name	npc	Sergius
+Nova	ノヴァ	name	npc	Nova
+Emissary Ascended	昇格した天使	name	npc	Emissary Ascended
+Forebearer Janus	祖先ヤマネコ	name	npc	Forebearer Janus
+Forebearer Fides	祖先ヒーデス	name	npc	Forebearer Fides
+Augur Metzli	オーグー・メッジリ	name	npc	Augur Metzli
+Emissary Acolyte	侍祭の使者	name	npc	Emissary Acolyte
+Forebearer Vulcan	祖先バルカン	name	npc	Forebearer Vulcan
+Frost Nagua	フロスト・ナーガ	name	npc	Frost Nagua
+Forebearer Honos	祖先ホノス	name	npc	Forebearer Honos
+Emissary Chosen	選ばれし使者	name	npc	Emissary Chosen
+Emissary Forebearer	使者の祖先	name	npc	Emissary Forebearer
+Emissary Chef	使者のシェフ	name	npc	Emissary Chef
+Emissary Fisher	使者の釣り師	name	npc	Emissary Fisher
+Emissary Herder	使者羊飼い	name	npc	Emissary Herder
+Emissary Brawler	使者の暴れ者	name	npc	Emissary Brawler
+Emissary Conjurer	使者の魔法使い	name	npc	Emissary Conjurer
+Emissary	使者	name	npc	Emissary
+Tenoch	テノック	name	npc	Tenoch
+Silia	シリア	name	npc	Silia
+Adrius	アドリウス	name	npc	Adrius
+Eleuia	エルイア	name	npc	Eleuia
+Frost Crab	氷のカニ	name	npc	Frost Crab
+Brew'ma	ブリューマ	name	npc	Brew'ma
+Marika	マリカ	name	npc	Marika
+Chilled jelly	冷えたゼリー	name	npc	Chilled jelly
+Emelio	エメリオ	name	npc	Emelio
+Lelia	レリア	name	npc	Lelia
+Alba	アルバ	name	npc	Alba
+Lucas	ルーカス	name	npc	Lucas
+Renata	レナタ	name	npc	Renata
+Vincens	ヴィンセンス	name	npc	Vincens
+Colosseum Announcer	闘技場のアナウンサー	name	npc	Colosseum Announcer
+Dire Wolf Alpha	ダイアウルフ・アルファ	name	npc	Dire Wolf Alpha
+Patzi	パッチ	name	npc	Patzi
+Adala	アダラ	name	npc	Adala
+Constantinius	コンスタンティニウス	name	npc	Constantinius
+Cozyac	コジアック	name	npc	Cozyac
+Xocotla	ホコトラ	name	npc	Xocotla
+Pavo	パヴォ	name	npc	Pavo
+Head Butler	執事長	name	npc	Head Butler
+Stradius	ストラジウス	name	npc	Stradius
+Hutza	フッザ	name	npc	Hutza
+Costumer	コスチューマー	name	npc	Costumer
+Naiatli	ナイアトリ	name	npc	Naiatli
+Clodius	クロジウス	name	npc	Clodius
+Wandering Guard	さまよう衛兵	name	npc	Wandering Guard
+Smart-looking dog	賢そうな犬	name	npc	Smart-looking dog
+Villa Guard	別荘の警備員	name	npc	Villa Guard
+Livius	リヴィウス	name	npc	Livius
+Vineyard worker	ブドウ園の労働者	name	npc	Vineyard worker
+Vineyard foreman	ブドウ園の現場監督	name	npc	Vineyard foreman
+Well-dressed man	よい身なりの人	name	npc	Well-dressed man
+Cabbage Farmer	キャベツ農民	name	npc	Cabbage Farmer
+Nasty Nick	ナースティー・ニック	name	npc	Nasty Nick
+Faustus	ファウスト	name	npc	Faustus
+Toci	トキー	name	npc	Toci
+Antonius	アントニウス	name	npc	Antonius
+Supervisor Lalo	監視者ラロ	name	npc	Supervisor Lalo
+Meztlan	メジトラン	name	npc	Meztlan
+Clanila	クラニラ	name	npc	Clanila
+Tzatelli	ツァテリ	name	npc	Tzatelli
+Juatil	ジアチル	name	npc	Juatil
+Alaxxi	アラクシ	name	npc	Alaxxi
+Kali	カリ	name	npc	Kali
+Ichta	イチタ	name	npc	Ichta
+Necto	ネクト	name	npc	Necto
+Overseer Khougo	監視者コウゴ	name	npc	Overseer Khougo
+Techichi	テチチ	name	npc	Techichi
+Chiribaya	チリバヤ	name	npc	Chiribaya
+Locke McScruff	ロケ・マックスクラフ	name	npc	Locke McScruff
+Woofson	ウーフソン	name	npc	Woofson
+Porcupine	ヤマアラシ	name	npc	Porcupine
+Salius	サリウス	name	npc	Salius
+Salvager	サルヴァジャー	name	npc	Salvager
+Chosen Aluinus	選ばれたアルイヌス	name	npc	Chosen Aluinus
+Hugh	ヒュー	name	npc	Hugh
+Izel	イゼル	name	npc	Izel
+Worm Tongue	ワーム・タング	name	npc	Worm Tongue
+Construction Worker	建設作業員	name	npc	Construction Worker
+Antonia	アントニア	name	npc	Antonia
+Taala	ターラ	name	npc	Taala
+Chef	シェフ	name	npc	Chef
+Marla	マーラ	name	npc	Marla
+Viero	ヴィエロ	name	npc	Viero
+Manauia	マナウイア	name	npc	Manauia
 The Hueycoatl	ザ・フエコアトル	name	npc	The Hueycoatl
-Hueycoatl tail		name	npc	Hueycoatl tail
-Hueycoatl tail (broken)		name	npc	Hueycoatl tail (broken)
-Hueycoatl body		name	npc	Hueycoatl body
-Pilgrim		name	npc	Pilgrim
-Ezco, Teoki of Ranul		name	npc	Ezco, Teoki of Ranul
-Yolotli, Teoki of Ralos		name	npc	Yolotli, Teoki of Ralos
-Lucrezia		name	npc	Lucrezia
-Ercos		name	npc	Ercos
-Bone Squirrel		name	npc	Bone Squirrel
+Hueycoatl tail	フエコアトルの尾	name	npc	Hueycoatl tail
+Hueycoatl tail (broken)	フエコアトルの尾（壊）	name	npc	Hueycoatl tail (broken)
+Hueycoatl body	フエコアトルの胴体	name	npc	Hueycoatl body
+Pilgrim	巡礼者	name	npc	Pilgrim
+Ezco, Teoki of Ranul	エズコ、ラヌルのテオキ	name	npc	Ezco, Teoki of Ranul
+Yolotli, Teoki of Ralos	ヨロトリ、ラロスのテオキ	name	npc	Yolotli, Teoki of Ralos
+Lucrezia	ルクレジア	name	npc	Lucrezia
+Ercos	エーコス	name	npc	Ercos
+Bone Squirrel	骨のリス	name	npc	Bone Squirrel
 Huberte	フベルテ	name	npc	Huberte
 Moxi	モキシー	name	npc	Moxi
-Ghost Cat		name	npc	Ghost Cat
-Shepherd Dog		name	npc	Shepherd Dog
-Corgi		name	npc	Corgi
-Yorkie		name	npc	Yorkie
-Golem guard		name	npc	Golem guard
-Small scarab		name	npc	Small scarab
-Jonny the Beard		name	npc	Jonny the Beard
-League Navigator		name	npc	League Navigator
-Unidentified dog		name	npc	Unidentified dog
-Unidentified festive dog		name	npc	Unidentified festive dog
-Sadie		name	npc	Sadie
-Sir Burrus		name	npc	Sir Burrus
-Archibald		name	npc	Archibald
-Kimba		name	npc	Kimba
-Unidentified festive object		name	npc	Unidentified festive object
+Ghost Cat	ネコのお化け	name	npc	Ghost Cat
+Shepherd Dog	牧羊犬	name	npc	Shepherd Dog
+Corgi	コーギー	name	npc	Corgi
+Yorkie	ヨーキー	name	npc	Yorkie
+Golem guard	ゴーレムの衛兵	name	npc	Golem guard
+Small scarab	小さいスカラベ	name	npc	Small scarab
+Jonny the Beard	髭のジョニー	name	npc	Jonny the Beard
+League Navigator	リーグの案内人	name	npc	League Navigator
+Unidentified dog	未確認の犬	name	npc	Unidentified dog
+Unidentified festive dog	未確認の祝祭の犬	name	npc	Unidentified festive dog
+Sadie	サディー	name	npc	Sadie
+Sir Burrus	サー・ブルス	name	npc	Sir Burrus
+Archibald	アーチバルド	name	npc	Archibald
+Kimba	キンバ	name	npc	Kimba
+Unidentified festive object	未確認の祝祭のオブジェ	name	npc	Unidentified festive object
+Barrows	バロウズ	name	npc	
+Chambers of Xeric	ゼリックの部屋	name	npc	
+Chambers of Xeric: Challenge Mode	ゼリックの部屋：チャレンジモード	name	npc	
+Fortis Colosseum	フォーティス闘技場	name	npc	
+Grotesque Guardians	グロテスク・ガーディアン	name	npc	
+Moons of Peril	危険の月	name	npc	
+Phosanis Nightmare	フォサーニの悪夢	name	npc	
+The Royal Titans	高貴な巨人	name	npc	
+Theatre of Blood: Entry Mode	血の劇場：初心者モード	name	npc	
+Theatre of Blood	血の劇場	name	npc	
+Theatre of Blood: Hard Mode	血の劇場：ハードモード	name	npc	
+Tombs of Amascut: Entry Mode	アマスカットの墓：初心者モード	name	npc	
+Tombs of Amascut	アマスカットの墓	name	npc	
+Tombs of Amascut: Expert Mode	アマスカットの墓：専門家モード	name	npc	
+TzHaar-Ket-Rak's Challenges	ツザー・ケット・ラクの挑戦	name	npc	
+Wintertodt	ウィンタートッド	name	npc	
