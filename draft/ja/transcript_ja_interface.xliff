@@ -34864,7 +34864,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121500"><xliff:source>Combat Achievements - Rewards</xliff:source><xliff:target state="translated">戦闘実績の報酬</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121501"><xliff:source>&lt;Num0&gt;k XP lamp (minimum skill requirement: &lt;Num1&gt;)</xliff:source><xliff:target state="translated">&lt;Num0&gt;k XPランプ（レベル&lt;Num1&gt;以上のスキルだけに使える）</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121501"><xliff:source>&lt;Num0&gt;k XP lamp (minimum skill requirement: &lt;Num1&gt;)</xliff:source><xliff:target state="translated">&lt;Num0&gt;k XP（レベル&lt;Num1&gt;以上のスキル限定）</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121502"><xliff:source>The drop chance of a &lt;colNum0&gt;Clue Scroll (Easy)&lt;/col&gt; from all sources (excl. implings) is increased by &lt;Num0&gt;%</xliff:source><xliff:target state="translated">&lt;colNum0&gt;宝さがしの巻物（初級）&lt;/col&gt;のドロップ率が&lt;Num0&gt;%上昇（子悪魔を除く）</xliff:target><xliff:note>category: interface
@@ -34933,7 +34933,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121523"><xliff:source>The ability to make a &lt;colNum0&gt;Vampyric Slayer Helmet&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;吸血鬼の討伐兜&lt;/col&gt;が作成可能になる</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121524"><xliff:source>Access to &lt;colNum0&gt;Ghommal's lucky penny&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゴンマルの幸運のペニー&lt;Num0&gt;&lt;/col&gt;が解放</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121524"><xliff:source>Access to &lt;colNum0&gt;Ghommal's lucky penny&lt;/col&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ゴンマルの幸運のペニー&lt;/col&gt;が解放</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121525"><xliff:source>When you are assigned a &lt;colNum0&gt;TzTok-Jad&lt;/col&gt; or &lt;colNum1&gt;TzKal-Zuk&lt;/col&gt; slayer task you will be assigned to kill &lt;Num0&gt;</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ツズトク・ジャッド&lt;/col&gt;または&lt;colNum1&gt;ツズカル・ザック&lt;/col&gt;の討伐依頼数が&lt;Num0&gt;になる。</xliff:target><xliff:note>category: interface

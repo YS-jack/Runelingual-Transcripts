@@ -6573,7 +6573,7 @@ Combat Achievements - Zulrah	戦闘実績 : ズルラ	interface	combAchvmt
 Zulrah is a snake boss found at their shrine within the Poison Wastes south of Isafdar. The followers of Zul-Andra provide access to the shrine via rowboat.  Attack Styles - Melee, Ranged, Magic. Immunities - Poison, Venom Slayer Categories - None	ズルラはイサフダー南のポイズン・ウェイストの聖堂にいるヘビのボスだ。ズル・アンドラの従者が聖堂まで手漕ぎボートで案内してくれる。攻撃スタイル：近接・遠射・魔法<br>特殊耐性：毒・猛毒<br>討伐依頼のカテゴリ：なし	interface	combAchvmt	
 Mandatory requirements: - Regicide  Combat Achievement task difficulty: - Hard - Elite - Master - Grandmaster	必須条件：<br>-クエスト「国王殺し」<br><br>戦闘実績タスクの難易度：<br>-上級<br>-超級<br>-達人<br>-総帥	interface	combAchvmt	
 Combat Achievements - Rewards	戦闘実績の報酬	interface	combAchvmt	
-<Num0>k XP lamp (minimum skill requirement: <Num1>)	<Num0>k XPランプ（レベル<Num1>以上のスキルだけに使える）	interface	combAchvmt	
+<Num0>k XP lamp (minimum skill requirement: <Num1>)	<Num0>k XP（レベル<Num1>以上のスキル限定）	interface	combAchvmt	
 The drop chance of a <colNum0>Clue Scroll (Easy)</col> from all sources (excl. implings) is increased by <Num0>%	<colNum0>宝さがしの巻物（初級）</col>のドロップ率が<Num0>%上昇（子悪魔を除く）	interface	combAchvmt	
 The maximum quantity assigned from the <colNum0>Like a boss</col> slayer reward is increased by <Num0>	討伐報酬の<colNum0>威風堂々</col>で依頼される討伐数が<Num0>増加	interface	combAchvmt	
 <Num0>% bonus to tokens earned from <colNum0>Warrior Guild</col> activities	<colNum0>戦士ギルド</col>で入手するトークンが<Num0>%増加	interface	combAchvmt	
@@ -6596,7 +6596,7 @@ Daily Mor Ul Rek teleports - <Num0>	日次のモー・ウル・レクへのワ�
 The ability to combine <colNum0>Vorkath's Head</col> with a <colNum1>Dragon Hunter Crossbow</col> to recolour it	<colNum0>ヴォーカスの頭部</col>を<colNum1>竜狩りの洋弓銃</col>と組み合わせ、着色できるようになる。	interface	combAchvmt	
 The ability to make a <colNum0>TzTok Slayer Helmet</col>	<colNum0>ツズトクの討伐兜</col>が作成可能になる	interface	combAchvmt	
 The ability to make a <colNum0>Vampyric Slayer Helmet</col>	<colNum0>吸血鬼の討伐兜</col>が作成可能になる	interface	combAchvmt	
-Access to <colNum0>Ghommal's lucky penny</col>	<colNum0>ゴンマルの幸運のペニー<Num0></col>が解放	interface	combAchvmt	
+Access to <colNum0>Ghommal's lucky penny</col>	<colNum0>ゴンマルの幸運のペニー</col>が解放	interface	combAchvmt	
 When you are assigned a <colNum0>TzTok-Jad</col> or <colNum1>TzKal-Zuk</col> slayer task you will be assigned to kill <Num0>	<colNum0>ツズトク・ジャッド</col>または<colNum1>ツズカル・ザック</col>の討伐依頼数が<Num0>になる。	interface	combAchvmt	
 The drop chance of an <colNum0>Ecumenical Key</col> is increased by <Num0>%	<colNum0>エキュメニカル・キー</col>のドロップ率が<Num0>%増加	interface	combAchvmt	
 The essence required to access a <colNum0>God Wars</col> boss is reduced to <Num0>	<colNum0>神戦</col>のボス部屋のために必要なキル数が<Num0>に減少	interface	combAchvmt	
