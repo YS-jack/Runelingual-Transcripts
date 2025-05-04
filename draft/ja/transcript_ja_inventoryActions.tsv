@@ -24,7 +24,7 @@ Activate	発動	inventoryActions	item	Locating crystal
 Search	探す	inventoryActions	item	Panning tray
 Polish	磨く	inventoryActions	item	Buttons
 Look-at	見る	inventoryActions	item	Level 1 certificate
-Complete	完成させる	inventoryActions	item	Radimus notes
+Complete	達成	inventoryActions	item	Radimus notes
 Swing	振り渡る	inventoryActions	item	Bullroarer
 Look	見る	inventoryActions	item	Sketch
 Enchant-Vials	試薬瓶に魔法を付与	inventoryActions	item	Binding book

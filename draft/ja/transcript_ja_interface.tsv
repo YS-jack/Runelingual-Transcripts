@@ -5226,14 +5226,14 @@ Hard	上級	interface	combAchvmt
 Elite	超級	interface	combAchvmt	
 Master	達人	interface	combAchvmt	
 Grandmaster	総帥	interface	combAchvmt	
-Tasks Completed:	完了タスク：	interface	combAchvmt	
-Boss Kill Count:	ボスのキル数：	interface	combAchvmt	
-Skilling Boss Kill Count:	スキルボスのキル数：	interface	combAchvmt	
-Raid Completions:	レイドのクリア数：	interface	combAchvmt	
-Top Boss:	最多キル：	interface	combAchvmt	
+Tasks Completed:	完了タスク数	interface	combAchvmt	
+Boss Kill Count:	ボスの合計キル数	interface	combAchvmt	
+Skilling Boss Kill Count:	スキルボスの合計キル数	interface	combAchvmt	
+Raid Completions:	レイドの合計クリア数	interface	combAchvmt	
+Top Boss:	最多キルのボス	interface	combAchvmt	
 <!ANY_TRANSLATED0> (<Num0>)	<!ANY_TRANSLATED0> <asis>(<Num0>)</asis>	interface	combAchvmt	
 Top Skilling Boss:	最多キルのスキルボス	interface	combAchvmt	
-Top Raid:	クリア数トップのレイド：	interface	combAchvmt	
+Top Raid:	最多クリア数のレイド	interface	combAchvmt	
 Nothing!	なし！	interface	combAchvmt	
 Overview	概要	interface	combAchvmt	
 Tasks	タスク	interface	combAchvmt	
@@ -5639,12 +5639,12 @@ The Walk	あのムーブ	interface	combAchvmt
 Dodging the Dragon	ドラゴンを回避	interface	combAchvmt	
 Vorkath Speed-Chaser	ヴォーカス・疾風迅雷	interface	combAchvmt	
 Extended Encounter	延長戦	interface	combAchvmt	
-Chambers of Xeric: CM Master	ゼリックの部屋：CMの師匠	interface	combAchvmt	
+Chambers of Xeric: CM Master	ゼリックの部屋：チャレンジモードの師匠	interface	combAchvmt	
 Immortal Raid Team	不死のレイドチーム	interface	combAchvmt	
 Immortal Raider	不死の侵略者	interface	combAchvmt	
-Chambers of Xeric: CM (Solo) Speed-Chaser	ゼリックの部屋：CM（ソロ）を疾風迅雷	interface	combAchvmt	
-Chambers of Xeric: CM (<Num0>-Scale) Speed-Chaser	ゼリックの部屋：CM（<Num0>人分）を疾風迅雷	interface	combAchvmt	
-Chambers of Xeric: CM (Trio) Speed-Chaser	ゼリックの部屋：CM（トリオ）を疾風迅雷	interface	combAchvmt	
+Chambers of Xeric: CM (Solo) Speed-Chaser	ゼリックの部屋：チャレンジモード（ソロ）を疾風迅雷	interface	combAchvmt	
+Chambers of Xeric: CM (<Num0>-Scale) Speed-Chaser	ゼリックの部屋：チャレンジモード（<Num0>人分）を疾風迅雷	interface	combAchvmt	
+Chambers of Xeric: CM (Trio) Speed-Chaser	ゼリックの部屋：チャレンジモード（トリオ）を疾風迅雷	interface	combAchvmt	
 Chambers of Xeric Master	ゼリックの部屋の師匠	interface	combAchvmt	
 No Time for Death	死の時間もない	interface	combAchvmt	
 Putting It Olm on the Line	全てをルムかける	interface	combAchvmt	
@@ -5767,10 +5767,10 @@ Theatre (<Num0>-Scale) Speed-Runner	劇場（<Num0>人分）の電光石火	inte
 Faithless Encounter	信仰無き出会い	interface	combAchvmt	
 The Fremennik Way	フレメニックのやり方	interface	combAchvmt	
 Vorkath Speed-Runner	ヴォーカスの電光石火	interface	combAchvmt	
-Chambers of Xeric: CM Grandmaster	ゼリックの部屋：CMの総帥	interface	combAchvmt	
-Chambers of Xeric: CM (Solo) Speed-Runner	ゼリックの部屋：CM（ソロ）の電光石火	interface	combAchvmt	
-Chambers of Xeric: CM (<Num0>-Scale) Speed-Runner	ゼリックの部屋：CM（<Num0>人分）の電光石火	interface	combAchvmt	
-Chambers of Xeric: CM (Trio) Speed-Runner	ゼリックの部屋：CM（トリオ）の電光石火	interface	combAchvmt	
+Chambers of Xeric: CM Grandmaster	ゼリックの部屋：チャレンジモードの総帥	interface	combAchvmt	
+Chambers of Xeric: CM (Solo) Speed-Runner	ゼリックの部屋：チャレンジモード（ソロ）の電光石火	interface	combAchvmt	
+Chambers of Xeric: CM (<Num0>-Scale) Speed-Runner	ゼリックの部屋：チャレンジモード（<Num0>人分）の電光石火	interface	combAchvmt	
+Chambers of Xeric: CM (Trio) Speed-Runner	ゼリックの部屋：チャレンジモード（トリオ）の電光石火	interface	combAchvmt	
 Chambers of Xeric Grandmaster	ゼリックの部屋の総帥	interface	combAchvmt	
 Chambers of Xeric (Solo) Speed-Runner	ゼリックの部屋（ソロ）の電光石火	interface	combAchvmt	
 Chambers of Xeric (Trio) Speed-Runner	ゼリックの部屋（トリオ）の電光石火	interface	combAchvmt	
@@ -5966,7 +5966,7 @@ Description: <colNum0>Finish off Hespori with a special attack.</col>	詳細：<
 Description: <colNum0>Kill all of Hesporis flowers within <Num0> seconds.</col>	詳細：<colNum0>ヘスポリの花を全て<Num0>秒以内に倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kalphite Queen <Num0> times.</col>	詳細：<colNum0>女王カルファイトを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kalphite Queen while her defence was last lowered by you.</col>	詳細：<colNum0>女王カルファイトを、その防御力が下がっていて、かつ下げたのが自分である間に倒す。</col>	interface	combAchvmt	
-Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	詳細：<colNum0>スタミナ</col> <colNum1>(+<Num0>ポイント)</col>	interface	combAchvmt	
+Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	タイプ：<colNum0>スタミナ</col> <colNum1>(+<Num0>ポイント)</col>	interface	combAchvmt	
 Description: <colNum0>Kill The King Black Dragon <Num0> times in a privately rented instance without leaving the instance.</col>	詳細：<colNum0>黒竜王を<Num0>回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kraken <Num0> times.</col>	詳細：<colNum0>クラーケンを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kraken after killing all four tentacles.</col>	詳細：<colNum0>クラーケンを、その触手をすべて倒してから倒す。</col>	interface	combAchvmt	
@@ -6606,3 +6606,113 @@ Daily Trollheim teleports - Unlimited	日次のトロールハイムワープ：
 Daily Mor Ul Rek teleports - Unlimited	日次のモー・ウル・レクへのワープ：無制限	interface	combAchvmt	
 The ability to make a <colNum0>TzKal Slayer Helmet</col>	<colNum0>ツズカルの討伐兜</col>が作成可能になる	interface	combAchvmt	
 The ability to combine an Avernic defender with Ghommal's hilt <Num0> to create <colNum0>Ghommal's Avernic Defender <Num1></col>	アバーニックの副刀をゴンマルの柄<Num0>と組み合わせて<colNum0>ゴンマルのアバーニックの副刀<Num1></col>が作成可能になる。	interface	combAchvmt	
+Description: <colNum0>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>	詳細：<colNum0>狂った考古学者を「知恵の雨」の攻撃を受けずに倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>	詳細：<colNum0>錯乱した考古学者を「読むことを学べ」の攻撃を受けずに倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.</col>	詳細：<colNum0>グロテスク・ガーディアンを「月食を見るな」「脱獄」「花崗岩のフットワーク」「回復はもうやめ」「不変的意識」「夕暮れ前に終わらせる」の条件を全て満たして倒す。</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.</col>	詳細：<colNum0>アマスカットの墓を「食事制限」と「脱水症状」の祈願を発動し、誰も死なずに踏破する。	interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> with either "Red Flag", "Dynamic Duo", or "Doom II" active.</col>	詳細：<colNum0>「赤旗」「ダイナミック・デュオ」「破滅II」のいずれが有効な状態でウェーブ<Num0>を突破する。</col>	interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".</col>	詳細：<colNum0>血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」</col>	interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
+None	なし	interface		
+Moons of Peril	危険の月	interface		
+The Hueycoatl	ザ・フエコアトル	interface		
+Amoxliatl	エモック・・・	interface		
+Grotesque Guardians	グロテスク・ガーディアン	interface		
+Theatre of Blood: Entry Mode	血の劇場：初心者モード	interface		
+Tombs of Amascut: Entry Mode	アマスカットの墓：初心者モード	interface		
+Thermy	熱核悪魔	interface		
+Chambers of Xeric: CM	ゼリックの部屋：チャレンジモード	interface		
+TzHaar-Ket-Rak's Challenges	ツザー・ケット・ラクの挑戦	interface		
+Tombs of Amascut: Expert Mode	アマスカットの墓：専門家モード	interface		
+Theatre of Blood: Hard Mode	血の劇場：ハードモード	interface		
+Easy	初級	interface	generalUI	
+Medium	中級	interface	generalUI	
+Hard	上級	interface	generalUI	
+Elite	超級	interface	generalUI	
+Master	達人	interface	generalUI	
+Grandmaster	総帥	interface	generalUI	
+Stamina	スタミナ	interface	generalUI	
+Perfection	完全勝利	interface	generalUI	
+Kill Count	キル数	interface	generalUI	
+Mechanical	仕掛け	interface	generalUI	
+Restriction	制限	interface	generalUI	
+Speed	速さ	interface	generalUI	
+Abyssal Sire	深淵の雄親	interface	generalUI	
+Alchemical Hy...	錬金術ヒドラ	interface	generalUI	
+Amoxliatl	エモック・・・	interface	generalUI	
+Araxxor	アラクソー	interface	generalUI	
+Barrows	バロウズ	interface	generalUI	
+Bryophyta	ブリオフィタ	interface	generalUI	
+Callisto	カリストー	interface	generalUI	
+Chaos Elemental	混沌エレメ	interface	generalUI	
+Chaos Fanatic	混沌狂信者	interface	generalUI	
+Crazy Archae...	狂考古学者	interface	generalUI	
+Chambers of ...	ゼリックの部屋	interface	generalUI	
+CM: Chambers...	チャレ：ゼ部屋	interface	generalUI	
+Corporeal Be...	コーポリアル獣	interface	generalUI	
+Commander Zi...	司令官ジリア	interface	generalUI	
+Crystalline Hu...	結晶ハンレフ	interface	generalUI	
+Corrupted Hu...	変異ハンレフ	interface	generalUI	
+DK: Prime	DK：プライム	interface	generalUI	
+DK: Rex	DK:レックス	interface	generalUI	
+DK: Supreme	DK：スプリ	interface	generalUI	
+Deranged Arc...	錯乱考古学者	interface	generalUI	
+Duke Sucellus	スケラス公爵	interface	generalUI	
+Fortis Coloss...	フォティ闘技場	interface	generalUI	
+General Graar...	グラドー将軍	interface	generalUI	
+Giant Mole	巨大モグラ	interface	generalUI	
+Grotesque Gu...	グロ・ガーディ	interface	generalUI	
+Hueycoatl, The	フエアコトル	interface	generalUI	
+Kalphite Queen	女王カルファイト	interface	generalUI	
+King Black Dra...	黒竜王	interface	generalUI	
+Kraken	クラーケン	interface	generalUI	
+Kree'arra	クリアーラ	interface	generalUI	
+K'ril Tsutsaroth	クリルツツァ	interface	generalUI	
+Leviathan, The	リヴァイアサン	interface	generalUI	
+Mimic, The	ミミック	interface	generalUI	
+Moons of Peril	危険の月	interface	generalUI	
+Nex	ネックス	interface	generalUI	
+Nightmare, The	ナイトメア	interface	generalUI	
+Phosani's Nig...	フォサ悪夢	interface	generalUI	
+Obor	オーボー	interface	generalUI	
+Phantom Musp...	ファンマス	interface	generalUI	
+Royal Titans	高貴な巨人	interface	generalUI	
+Scurrius	スカリアス	interface	generalUI	
+Sarachnis	サラチニス	interface	generalUI	
+Scorpia	スコーピア	interface	generalUI	
+Skotizo	スコティーゾ	interface	generalUI	
+Tempoross	テンポロス	interface	generalUI	
+EM: Theatre of...	初心者：劇場	interface	generalUI	
+Theatre of Blo...	血の劇場	interface	generalUI	
+HM: Theatre o...	ハード：劇場	interface	generalUI	
+Thermy	熱核悪魔	interface	generalUI	
+EM: Tombs of ...	初心：アマ墓	interface	generalUI	
+Tombs of Ama...	アマ墓	interface	generalUI	
+XM: Tombs of ...	専門：アマ墓	interface	generalUI	
+TzHaar-Ket-Rak	ツザー・ケット・ラク	interface	generalUI	
+TzKal-Zuk	ツズカル・ザック	interface	generalUI	
+TzTok-Jad	ツズトク・ジャッド	interface	generalUI	
+Vardorvis	ヴァードーヴィス	interface	generalUI	
+Venenatis	ヴェネナティス	interface	generalUI	
+Vet'ion	ヴェティオン	interface	generalUI	
+Vorkath	ヴォーカス	interface	generalUI	
+Whisperer, The	ウィスパラー	interface	generalUI	
+Zalcano	ザルカーノ	interface	generalUI	
+Zulrah	ズルラ	interface	generalUI	
+Fragment of S...	セレンの欠片	interface	generalUI	
+Glough	グロー	interface	generalUI	
+Galvek	ガルヴェック	interface	generalUI	
+Greater Demons	上位悪魔	interface	generalUI	
+Lizardman Sh...	リザシャーマン	interface	generalUI	
+Black Dragons	黒竜	interface	generalUI	
+Fire Giants	火の巨人	interface	generalUI	
+Hellhounds	ヘルハウンド	interface	generalUI	
+Aberrant Spe...	異形の亡霊	interface	generalUI	
+Demonic Gorill...	悪魔のゴリラ	interface	generalUI	
+Skeletal Wyve...	骨ワイバーン	interface	generalUI	
+Kurasks	クラスク	interface	generalUI	
+Brutal Black D...	残酷な黒竜	interface	generalUI	
+Giants	巨人	interface	generalUI	
+Tormented De...	苦悩する悪魔	interface	generalUI	
+Incomplete	未達成	interface	generalUI	
+Complete	達成	interface	generalUI	

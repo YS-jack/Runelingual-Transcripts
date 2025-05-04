@@ -6507,7 +6507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10996">
         <xliff:source>Chaos Elemental</xliff:source>
-        <xliff:target state="translated">混沌エレメンタル</xliff:target>
+        <xliff:target state="translated">混沌エレメ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chaos Elemental
@@ -10131,7 +10131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11449">
         <xliff:source>K'ril Tsutsaroth</xliff:source>
-        <xliff:target state="translated">クリル・ツツァロス</xliff:target>
+        <xliff:target state="translated">クリルツツァ</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: K'ril Tsutsaroth
@@ -20163,7 +20163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12703">
         <xliff:source>Chaos Fanatic</xliff:source>
-        <xliff:target state="translated">混沌の狂信者</xliff:target>
+        <xliff:target state="translated">混沌狂信者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chaos Fanatic
@@ -33545,7 +33545,7 @@ source: Araxyte
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=11174</xliff:note></xliff:trans-unit><xliff:trans-unit id="14405"><xliff:source>Curator Herminius</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: npc
 source: Curator Herminius
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13297</xliff:note></xliff:trans-unit><xliff:trans-unit id="14406"><xliff:source>Araxxor</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13297</xliff:note></xliff:trans-unit><xliff:trans-unit id="14406"><xliff:source>Araxxor</xliff:source><xliff:target state="translated">アラクソー</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Araxxor
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13668</xliff:note></xliff:trans-unit><xliff:trans-unit id="14407"><xliff:source>Mirrorback Araxyte</xliff:source><xliff:target></xliff:target><xliff:note>category: name
@@ -33572,7 +33572,7 @@ source: Nid
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13681</xliff:note></xliff:trans-unit><xliff:trans-unit id="14414"><xliff:source>Rax</xliff:source><xliff:target state="translated">ラックス</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Rax
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13682</xliff:note></xliff:trans-unit><xliff:trans-unit id="14415"><xliff:source>Amoxliatl</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13682</xliff:note></xliff:trans-unit><xliff:trans-unit id="14415"><xliff:source>Amoxliatl</xliff:source><xliff:target state="translated">エモック・・・</xliff:target><xliff:note>category: name
 sub_category: npc
 source: Amoxliatl
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=13685</xliff:note></xliff:trans-unit><xliff:trans-unit id="14416"><xliff:source>Unstable ice</xliff:source><xliff:target></xliff:target><xliff:note>category: name
@@ -33842,7 +33842,7 @@ source: Viero
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14002</xliff:note></xliff:trans-unit><xliff:trans-unit id="14504"><xliff:source>Manauia</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: npc
 source: Manauia
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14007</xliff:note></xliff:trans-unit><xliff:trans-unit id="14505"><xliff:source>The Hueycoatl</xliff:source><xliff:target></xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14007</xliff:note></xliff:trans-unit><xliff:trans-unit id="14505"><xliff:source>The Hueycoatl</xliff:source><xliff:target state="translated">ザ・フエコアトル</xliff:target><xliff:note>category: name
 sub_category: npc
 source: The Hueycoatl
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14009</xliff:note></xliff:trans-unit><xliff:trans-unit id="14506"><xliff:source>Hueycoatl tail</xliff:source><xliff:target></xliff:target><xliff:note>category: name

@@ -683,7 +683,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109348">
         <xliff:source>Medium</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">中級</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -1115,7 +1115,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109402">
         <xliff:source>None</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">なし</xliff:target>
         <xliff:note>category: manual
 sub_category: hair_beard
 source: None
@@ -10304,7 +10304,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110608"><xliff:source>Long</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110609"><xliff:source>Medium</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110609"><xliff:source>Medium</xliff:source><xliff:target state="translated">中級</xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110610"><xliff:source>Tonsure</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10466,7 +10466,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110662"><xliff:source>High Bunches</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110663"><xliff:source>None</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110663"><xliff:source>None</xliff:source><xliff:target state="translated">なし</xliff:target><xliff:note>category: manual
 sub_category: hair_beard
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110664"><xliff:source>Goatee</xliff:source><xliff:target></xliff:target><xliff:note>category: manual

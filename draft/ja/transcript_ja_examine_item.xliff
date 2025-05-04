@@ -65820,6 +65820,15 @@ source: Dog boots
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30491</xliff:note></xliff:trans-unit><xliff:trans-unit id="27310"><xliff:source>Tastefully decorated invitations to a once-in-a-lifetime adoption event!</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
 sub_category: item
 source: Invitations
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30493</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30493</xliff:note></xliff:trans-unit><xliff:trans-unit id="27311"><xliff:source>It seems to say "hongorer lure"...</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: A scruffy note
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1508</xliff:note></xliff:trans-unit><xliff:trans-unit id="27312"><xliff:source>Engraved within, it reads "We stand alone - together".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Group ironman helm
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26156</xliff:note></xliff:trans-unit><xliff:trans-unit id="27313"><xliff:source>Engraved within, it reads "Ranked or not: We stand alone - together".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: item
+source: Group ironman helm (unranked)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27042</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

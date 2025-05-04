@@ -15449,7 +15449,7 @@ Can you tell me about the dreams?		dialogue	Dominic Onion	Dominic Onion
 Can I choose a dream?		dialogue	Dominic Onion	Dominic Onion
 Practice		dialogue	Dominic Onion	Dominic Onion
 Normal		dialogue	Dominic Onion	Dominic Onion
-Hard		dialogue	Dominic Onion	Dominic Onion
+Hard	上級	dialogue	Dominic Onion	Dominic Onion
 Endurance		dialogue	Dominic Onion	Dominic Onion
 Yes	はい	dialogue	Dominic Onion	Dominic Onion
 No	いいえ	dialogue	Dominic Onion	Dominic Onion
@@ -29838,7 +29838,7 @@ What is this place?	ここは何ですか？	dialogue	Istoria	Istoria
 What information do you have on Xeric?		dialogue	Istoria	Istoria
 What can you tell me about the Wintertodt?		dialogue	Istoria	Istoria
 What can you tell me about Mount Quidamortem?		dialogue	Istoria	Istoria
-None		dialogue	Istoria	Istoria
+None	なし	dialogue	Istoria	Istoria
 What do you do here?		dialogue	Istoria	Istoria
 How do I get out of here?		dialogue	Istoria	Istoria
 Yes please.	はい、お願いします。	dialogue	Istoria	Istoria
@@ -53657,7 +53657,7 @@ Karamja	カラムジャ	dialogue	Sir Renitee	Sir Renitee
 Isafdar	イサフダー	dialogue	Sir Renitee	Sir Renitee
 A map		dialogue	Sir Renitee	Sir Renitee
 Small		dialogue	Sir Renitee	Sir Renitee
-Medium		dialogue	Sir Renitee	Sir Renitee
+Medium	中級	dialogue	Sir Renitee	Sir Renitee
 Large		dialogue	Sir Renitee	Sir Renitee
 Nothing, thanks		dialogue	Sir Renitee	Sir Renitee
 Hey Tiffy, I lost my CommOrb...		dialogue	Sir Tiffy Cashien	Player
@@ -74573,3 +74573,6 @@ The darkness here is comforting.		dialogue	Wisp	Wisp
 It is, isn't it.		dialogue	Wisp	Player
 One day I will return to the shadows.		dialogue	Wisp	Wisp
 Will you now...?		dialogue	Wisp	Player
+"How can a single kingdom have multiple kings?"		dialogue	Ponts the Bridgemaster	Ponts the Bridgemaster
+The player is transported to the "Maximum security prison" in Port Sarim.		dialogue	Shantay	Shantay
+(continues with "Oranges are not the only fruit")		dialogue	Slug Hemligssen	Slug Hemligssen

@@ -1000,7 +1000,7 @@ Standard	一般	actions	object	Altar of the Occult
 Recharge-jewellery	宝飾品をチャージ	actions	object	Totem Pole
 Douse	消火	actions	object	Fire
 Heal	回復	actions	object	Fremennik warrior
-Complete	完成させる	actions	object	Incomplete map
+Complete	達成	actions	object	Incomplete map
 Check-Count	数を確認	actions	object	Gate
 Clamber	頑張って登る	actions	object	Rock Pile
 Look-through	越しに見る	actions	object	Window

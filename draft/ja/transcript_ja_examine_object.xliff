@@ -77030,6 +77030,24 @@ source: Scrying pool
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55907</xliff:note></xliff:trans-unit><xliff:trans-unit id="41303"><xliff:source>Lightning and brimstone.</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
 sub_category: object
 source: Echoing flames
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55909</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55909</xliff:note></xliff:trans-unit><xliff:trans-unit id="41304"><xliff:source>From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Crevice
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=46995</xliff:note></xliff:trans-unit><xliff:trans-unit id="41305"><xliff:source>It reads "Calvar'Ion's resting place".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Memorial
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=46996</xliff:note></xliff:trans-unit><xliff:trans-unit id="41306"><xliff:source>Bones and webs are laid out to shape the word "Venenatis".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cave Entrance
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=47077</xliff:note></xliff:trans-unit><xliff:trans-unit id="41307"><xliff:source>The webs sticking to the entrance weirdly form a word: "Spindel".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cave Entrance
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=47078</xliff:note></xliff:trans-unit><xliff:trans-unit id="41308"><xliff:source>Blood stains on the wall make out the word "Callisto".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cave Entrance
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=47140</xliff:note></xliff:trans-unit><xliff:trans-unit id="41309"><xliff:source>Carved into the cave wall is the word "Artio".</xliff:source><xliff:target></xliff:target><xliff:note>category: examine
+sub_category: object
+source: Cave Entrance
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=47141</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

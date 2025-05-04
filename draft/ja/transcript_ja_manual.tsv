@@ -84,7 +84,7 @@ Sit down	座る	manual	emote
 Bald		manual	hair_beard	
 Dreadlocks		manual	hair_beard	
 Long		manual	hair_beard	
-Medium		manual	hair_beard	
+Medium	中級	manual	hair_beard	
 Tonsure		manual	hair_beard	
 Short	短い	manual	hair_beard	
 Cropped		manual	hair_beard	
@@ -138,7 +138,7 @@ Medium Coils		manual	hair_beard
 High ponytail		manual	hair_beard	
 Plaits		manual	hair_beard	
 High Bunches		manual	hair_beard	
-None		manual	hair_beard	
+None	なし	manual	hair_beard	
 Goatee		manual	hair_beard	
 Handlebar		manual	hair_beard	
 Moustache		manual	hair_beard	
@@ -1340,7 +1340,7 @@ Sit down	座る	manual	emote
 Bald		manual	hair_beard	
 Dreadlocks		manual	hair_beard	
 Long		manual	hair_beard	
-Medium		manual	hair_beard	
+Medium	中級	manual	hair_beard	
 Tonsure		manual	hair_beard	
 Short	短い	manual	hair_beard	
 Cropped		manual	hair_beard	
@@ -1394,7 +1394,7 @@ Medium Coils		manual	hair_beard
 High ponytail		manual	hair_beard	
 Plaits		manual	hair_beard	
 High Bunches		manual	hair_beard	
-None		manual	hair_beard	
+None	なし	manual	hair_beard	
 Goatee		manual	hair_beard	
 Handlebar		manual	hair_beard	
 Moustache		manual	hair_beard	

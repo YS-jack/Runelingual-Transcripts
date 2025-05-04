@@ -30823,19 +30823,19 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120153"><xliff:source>Grandmaster</xliff:source><xliff:target state="translated">総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120154"><xliff:source>Tasks Completed:</xliff:source><xliff:target state="translated">完了タスク：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120154"><xliff:source>Tasks Completed:</xliff:source><xliff:target state="translated">完了タスク数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120155"><xliff:source>Boss Kill Count:</xliff:source><xliff:target state="translated">ボスのキル数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120155"><xliff:source>Boss Kill Count:</xliff:source><xliff:target state="translated">ボスの合計キル数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120156"><xliff:source>Skilling Boss Kill Count:</xliff:source><xliff:target state="translated">スキルボスのキル数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120156"><xliff:source>Skilling Boss Kill Count:</xliff:source><xliff:target state="translated">スキルボスの合計キル数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120157"><xliff:source>Raid Completions:</xliff:source><xliff:target state="translated">レイドのクリア数：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120157"><xliff:source>Raid Completions:</xliff:source><xliff:target state="translated">レイドの合計クリア数</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120158"><xliff:source>Top Boss:</xliff:source><xliff:target state="translated">最多キル：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120158"><xliff:source>Top Boss:</xliff:source><xliff:target state="translated">最多キルのボス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120159"><xliff:source>&lt;!ANY_TRANSLATED0&gt; (&lt;Num0&gt;)</xliff:source><xliff:target state="translated">&lt;!ANY_TRANSLATED0&gt; &lt;asis&gt;(&lt;Num0&gt;)&lt;/asis&gt;</xliff:target><xliff:note>category: interface
@@ -30844,7 +30844,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120160"><xliff:source>Top Skilling Boss:</xliff:source><xliff:target state="translated">最多キルのスキルボス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120161"><xliff:source>Top Raid:</xliff:source><xliff:target state="translated">クリア数トップのレイド：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120161"><xliff:source>Top Raid:</xliff:source><xliff:target state="translated">最多クリア数のレイド</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120162"><xliff:source>Nothing!</xliff:source><xliff:target state="translated">なし！</xliff:target><xliff:note>category: interface
@@ -32062,7 +32062,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120566"><xliff:source>Extended Encounter</xliff:source><xliff:target state="translated">延長戦</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120567"><xliff:source>Chambers of Xeric: CM Master</xliff:source><xliff:target state="translated">ゼリックの部屋：CMの師匠</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120567"><xliff:source>Chambers of Xeric: CM Master</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモードの師匠</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120568"><xliff:source>Immortal Raid Team</xliff:source><xliff:target state="translated">不死のレイドチーム</xliff:target><xliff:note>category: interface
@@ -32071,13 +32071,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120569"><xliff:source>Immortal Raider</xliff:source><xliff:target state="translated">不死の侵略者</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120570"><xliff:source>Chambers of Xeric: CM (Solo) Speed-Chaser</xliff:source><xliff:target state="translated">ゼリックの部屋：CM（ソロ）を疾風迅雷</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120570"><xliff:source>Chambers of Xeric: CM (Solo) Speed-Chaser</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード（ソロ）を疾風迅雷</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120571"><xliff:source>Chambers of Xeric: CM (&lt;Num0&gt;-Scale) Speed-Chaser</xliff:source><xliff:target state="translated">ゼリックの部屋：CM（&lt;Num0&gt;人分）を疾風迅雷</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120571"><xliff:source>Chambers of Xeric: CM (&lt;Num0&gt;-Scale) Speed-Chaser</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード（&lt;Num0&gt;人分）を疾風迅雷</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120572"><xliff:source>Chambers of Xeric: CM (Trio) Speed-Chaser</xliff:source><xliff:target state="translated">ゼリックの部屋：CM（トリオ）を疾風迅雷</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120572"><xliff:source>Chambers of Xeric: CM (Trio) Speed-Chaser</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード（トリオ）を疾風迅雷</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120573"><xliff:source>Chambers of Xeric Master</xliff:source><xliff:target state="translated">ゼリックの部屋の師匠</xliff:target><xliff:note>category: interface
@@ -32446,16 +32446,16 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120694"><xliff:source>Vorkath Speed-Runner</xliff:source><xliff:target state="translated">ヴォーカスの電光石火</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120695"><xliff:source>Chambers of Xeric: CM Grandmaster</xliff:source><xliff:target state="translated">ゼリックの部屋：CMの総帥</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120695"><xliff:source>Chambers of Xeric: CM Grandmaster</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモードの総帥</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120696"><xliff:source>Chambers of Xeric: CM (Solo) Speed-Runner</xliff:source><xliff:target state="translated">ゼリックの部屋：CM（ソロ）の電光石火</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120696"><xliff:source>Chambers of Xeric: CM (Solo) Speed-Runner</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード（ソロ）の電光石火</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120697"><xliff:source>Chambers of Xeric: CM (&lt;Num0&gt;-Scale) Speed-Runner</xliff:source><xliff:target state="translated">ゼリックの部屋：CM（&lt;Num0&gt;人分）の電光石火</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120697"><xliff:source>Chambers of Xeric: CM (&lt;Num0&gt;-Scale) Speed-Runner</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード（&lt;Num0&gt;人分）の電光石火</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120698"><xliff:source>Chambers of Xeric: CM (Trio) Speed-Runner</xliff:source><xliff:target state="translated">ゼリックの部屋：CM（トリオ）の電光石火</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120698"><xliff:source>Chambers of Xeric: CM (Trio) Speed-Runner</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード（トリオ）の電光石火</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120699"><xliff:source>Chambers of Xeric Grandmaster</xliff:source><xliff:target state="translated">ゼリックの部屋の総帥</xliff:target><xliff:note>category: interface
@@ -33043,7 +33043,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120893"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen while her defence was last lowered by you.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;女王カルファイトを、その防御力が下がっていて、かつ下げたのが自分である間に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120894"><xliff:source>Type: &lt;colNum0&gt;Stamina&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt; points)&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スタミナ&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt;ポイント)&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120894"><xliff:source>Type: &lt;colNum0&gt;Stamina&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt; points)&lt;/col&gt;</xliff:source><xliff:target state="translated">タイプ：&lt;colNum0&gt;スタミナ&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt;ポイント)&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120895"><xliff:source>Description: &lt;colNum0&gt;Kill The King Black Dragon &lt;Num0&gt; times in a privately rented instance without leaving the instance.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;黒竜王を&lt;Num0&gt;回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
@@ -34962,6 +34962,336 @@ sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121533"><xliff:source>The ability to combine an Avernic defender with Ghommal's hilt &lt;Num0&gt; to create &lt;colNum0&gt;Ghommal's Avernic Defender &lt;Num1&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">アバーニックの副刀をゴンマルの柄&lt;Num0&gt;と組み合わせて&lt;colNum0&gt;ゴンマルのアバーニックの副刀&lt;Num1&gt;&lt;/col&gt;が作成可能になる。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121534"><xliff:source>Description: &lt;colNum0&gt;Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;狂った考古学者を「知恵の雨」の攻撃を受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121535"><xliff:source>Description: &lt;colNum0&gt;Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錯乱した考古学者を「読むことを学べ」の攻撃を受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121536"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを「月食を見るな」「脱獄」「花崗岩のフットワーク」「回復はもうやめ」「不変的意識」「夕暮れ前に終わらせる」の条件を全て満たして倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121537"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を「食事制限」と「脱水症状」の祈願を発動し、誰も死なずに踏破する。</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121538"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; with either "Red Flag", "Dynamic Duo", or "Doom II" active.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;「赤旗」「ダイナミック・デュオ」「破滅II」のいずれが有効な状態でウェーブ&lt;Num0&gt;を突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121539"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121540"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121541"><xliff:source>None</xliff:source><xliff:target state="translated">なし</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121542"><xliff:source>Moons of Peril</xliff:source><xliff:target state="translated">危険の月</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121543"><xliff:source>The Hueycoatl</xliff:source><xliff:target state="translated">ザ・フエコアトル</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121544"><xliff:source>Amoxliatl</xliff:source><xliff:target state="translated">エモック・・・</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121545"><xliff:source>Grotesque Guardians</xliff:source><xliff:target state="translated">グロテスク・ガーディアン</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121546"><xliff:source>Theatre of Blood: Entry Mode</xliff:source><xliff:target state="translated">血の劇場：初心者モード</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121547"><xliff:source>Tombs of Amascut: Entry Mode</xliff:source><xliff:target state="translated">アマスカットの墓：初心者モード</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121548"><xliff:source>Thermy</xliff:source><xliff:target state="translated">熱核悪魔</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121549"><xliff:source>Chambers of Xeric: CM</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121550"><xliff:source>TzHaar-Ket-Rak's Challenges</xliff:source><xliff:target state="translated">ツザー・ケット・ラクの挑戦</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121551"><xliff:source>Tombs of Amascut: Expert Mode</xliff:source><xliff:target state="translated">アマスカットの墓：専門家モード</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121552"><xliff:source>Theatre of Blood: Hard Mode</xliff:source><xliff:target state="translated">血の劇場：ハードモード</xliff:target><xliff:note>category: interface
+sub_category: 
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121553"><xliff:source>Easy</xliff:source><xliff:target state="translated">初級</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121554"><xliff:source>Medium</xliff:source><xliff:target state="translated">中級</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121555"><xliff:source>Hard</xliff:source><xliff:target state="translated">上級</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121556"><xliff:source>Elite</xliff:source><xliff:target state="translated">超級</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121557"><xliff:source>Master</xliff:source><xliff:target state="translated">達人</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121558"><xliff:source>Grandmaster</xliff:source><xliff:target state="translated">総帥</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121559"><xliff:source>Stamina</xliff:source><xliff:target state="translated">スタミナ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121560"><xliff:source>Perfection</xliff:source><xliff:target state="translated">完全勝利</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121561"><xliff:source>Kill Count</xliff:source><xliff:target state="translated">キル数</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121562"><xliff:source>Mechanical</xliff:source><xliff:target state="translated">仕掛け</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121563"><xliff:source>Restriction</xliff:source><xliff:target state="translated">制限</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121564"><xliff:source>Speed</xliff:source><xliff:target state="translated">速さ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121565"><xliff:source>Abyssal Sire</xliff:source><xliff:target state="translated">深淵の雄親</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121566"><xliff:source>Alchemical Hy...</xliff:source><xliff:target state="translated">錬金術ヒドラ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121567"><xliff:source>Amoxliatl</xliff:source><xliff:target state="translated">エモック・・・</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121568"><xliff:source>Araxxor</xliff:source><xliff:target state="translated">アラクソー</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121569"><xliff:source>Barrows</xliff:source><xliff:target state="translated">バロウズ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121570"><xliff:source>Bryophyta</xliff:source><xliff:target state="translated">ブリオフィタ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121571"><xliff:source>Callisto</xliff:source><xliff:target state="translated">カリストー</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121572"><xliff:source>Chaos Elemental</xliff:source><xliff:target state="translated">混沌エレメ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121573"><xliff:source>Chaos Fanatic</xliff:source><xliff:target state="translated">混沌狂信者</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121574"><xliff:source>Crazy Archae...</xliff:source><xliff:target state="translated">狂考古学者</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121575"><xliff:source>Chambers of ...</xliff:source><xliff:target state="translated">ゼリックの部屋</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121576"><xliff:source>CM: Chambers...</xliff:source><xliff:target state="translated">チャレ：ゼ部屋</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121577"><xliff:source>Corporeal Be...</xliff:source><xliff:target state="translated">コーポリアル獣</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121578"><xliff:source>Commander Zi...</xliff:source><xliff:target state="translated">司令官ジリア</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121579"><xliff:source>Crystalline Hu...</xliff:source><xliff:target state="translated">結晶ハンレフ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121580"><xliff:source>Corrupted Hu...</xliff:source><xliff:target state="translated">変異ハンレフ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121581"><xliff:source>DK: Prime</xliff:source><xliff:target state="translated">DK：プライム</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121582"><xliff:source>DK: Rex</xliff:source><xliff:target state="translated">DK:レックス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121583"><xliff:source>DK: Supreme</xliff:source><xliff:target state="translated">DK：スプリ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121584"><xliff:source>Deranged Arc...</xliff:source><xliff:target state="translated">錯乱考古学者</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121585"><xliff:source>Duke Sucellus</xliff:source><xliff:target state="translated">スケラス公爵</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121586"><xliff:source>Fortis Coloss...</xliff:source><xliff:target state="translated">フォティ闘技場</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121587"><xliff:source>General Graar...</xliff:source><xliff:target state="translated">グラドー将軍</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121588"><xliff:source>Giant Mole</xliff:source><xliff:target state="translated">巨大モグラ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121589"><xliff:source>Grotesque Gu...</xliff:source><xliff:target state="translated">グロ・ガーディ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121590"><xliff:source>Hueycoatl, The</xliff:source><xliff:target state="translated">フエアコトル</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121591"><xliff:source>Kalphite Queen</xliff:source><xliff:target state="translated">女王カルファイト</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121592"><xliff:source>King Black Dra...</xliff:source><xliff:target state="translated">黒竜王</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121593"><xliff:source>Kraken</xliff:source><xliff:target state="translated">クラーケン</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121594"><xliff:source>Kree'arra</xliff:source><xliff:target state="translated">クリアーラ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121595"><xliff:source>K'ril Tsutsaroth</xliff:source><xliff:target state="translated">クリルツツァ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121596"><xliff:source>Leviathan, The</xliff:source><xliff:target state="translated">リヴァイアサン</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121597"><xliff:source>Mimic, The</xliff:source><xliff:target state="translated">ミミック</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121598"><xliff:source>Moons of Peril</xliff:source><xliff:target state="translated">危険の月</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121599"><xliff:source>Nex</xliff:source><xliff:target state="translated">ネックス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121600"><xliff:source>Nightmare, The</xliff:source><xliff:target state="translated">ナイトメア</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121601"><xliff:source>Phosani's Nig...</xliff:source><xliff:target state="translated">フォサ悪夢</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121602"><xliff:source>Obor</xliff:source><xliff:target state="translated">オーボー</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121603"><xliff:source>Phantom Musp...</xliff:source><xliff:target state="translated">ファンマス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121604"><xliff:source>Royal Titans</xliff:source><xliff:target state="translated">高貴な巨人</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121605"><xliff:source>Scurrius</xliff:source><xliff:target state="translated">スカリアス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121606"><xliff:source>Sarachnis</xliff:source><xliff:target state="translated">サラチニス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121607"><xliff:source>Scorpia</xliff:source><xliff:target state="translated">スコーピア</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121608"><xliff:source>Skotizo</xliff:source><xliff:target state="translated">スコティーゾ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121609"><xliff:source>Tempoross</xliff:source><xliff:target state="translated">テンポロス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121610"><xliff:source>EM: Theatre of...</xliff:source><xliff:target state="translated">初心者：劇場</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121611"><xliff:source>Theatre of Blo...</xliff:source><xliff:target state="translated">血の劇場</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121612"><xliff:source>HM: Theatre o...</xliff:source><xliff:target state="translated">ハード：劇場</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121613"><xliff:source>Thermy</xliff:source><xliff:target state="translated">熱核悪魔</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121614"><xliff:source>EM: Tombs of ...</xliff:source><xliff:target state="translated">初心：アマ墓</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121615"><xliff:source>Tombs of Ama...</xliff:source><xliff:target state="translated">アマ墓</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121616"><xliff:source>XM: Tombs of ...</xliff:source><xliff:target state="translated">専門：アマ墓</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121617"><xliff:source>TzHaar-Ket-Rak</xliff:source><xliff:target state="translated">ツザー・ケット・ラク</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121618"><xliff:source>TzKal-Zuk</xliff:source><xliff:target state="translated">ツズカル・ザック</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121619"><xliff:source>TzTok-Jad</xliff:source><xliff:target state="translated">ツズトク・ジャッド</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121620"><xliff:source>Vardorvis</xliff:source><xliff:target state="translated">ヴァードーヴィス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121621"><xliff:source>Venenatis</xliff:source><xliff:target state="translated">ヴェネナティス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121622"><xliff:source>Vet'ion</xliff:source><xliff:target state="translated">ヴェティオン</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121623"><xliff:source>Vorkath</xliff:source><xliff:target state="translated">ヴォーカス</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121624"><xliff:source>Whisperer, The</xliff:source><xliff:target state="translated">ウィスパラー</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121625"><xliff:source>Zalcano</xliff:source><xliff:target state="translated">ザルカーノ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121626"><xliff:source>Zulrah</xliff:source><xliff:target state="translated">ズルラ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121627"><xliff:source>Fragment of S...</xliff:source><xliff:target state="translated">セレンの欠片</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121628"><xliff:source>Glough</xliff:source><xliff:target state="translated">グロー</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121629"><xliff:source>Galvek</xliff:source><xliff:target state="translated">ガルヴェック</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121630"><xliff:source>Greater Demons</xliff:source><xliff:target state="translated">上位悪魔</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121631"><xliff:source>Lizardman Sh...</xliff:source><xliff:target state="translated">リザシャーマン</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121632"><xliff:source>Black Dragons</xliff:source><xliff:target state="translated">黒竜</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121633"><xliff:source>Fire Giants</xliff:source><xliff:target state="translated">火の巨人</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121634"><xliff:source>Hellhounds</xliff:source><xliff:target state="translated">ヘルハウンド</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121635"><xliff:source>Aberrant Spe...</xliff:source><xliff:target state="translated">異形の亡霊</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121636"><xliff:source>Demonic Gorill...</xliff:source><xliff:target state="translated">悪魔のゴリラ</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121637"><xliff:source>Skeletal Wyve...</xliff:source><xliff:target state="translated">骨ワイバーン</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121638"><xliff:source>Kurasks</xliff:source><xliff:target state="translated">クラスク</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121639"><xliff:source>Brutal Black D...</xliff:source><xliff:target state="translated">残酷な黒竜</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121640"><xliff:source>Giants</xliff:source><xliff:target state="translated">巨人</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121641"><xliff:source>Tormented De...</xliff:source><xliff:target state="translated">苦悩する悪魔</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121642"><xliff:source>Incomplete</xliff:source><xliff:target state="translated">未達成</xliff:target><xliff:note>category: interface
+sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121643"><xliff:source>Complete</xliff:source><xliff:target state="translated">達成</xliff:target><xliff:note>category: interface
+sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>

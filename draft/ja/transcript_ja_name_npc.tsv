@@ -812,7 +812,7 @@ Broken Handz	Broken Handz	name	npc	Broken Handz
 Zulrah	ズルラ	name	npc	Zulrah
 Snakeling	子ヘビ	name	npc	Snakeling
 Fritz the Glassblower	ガラス吹きのフリッツ	name	npc	Fritz the Glassblower
-Chaos Elemental	混沌エレメンタル	name	npc	Chaos Elemental
+Chaos Elemental	混沌エレメ	name	npc	Chaos Elemental
 Chaos Elemental Jr.	混沌エレメンタル・Jr.	name	npc	Chaos Elemental Jr.
 Dodgy Squire	ドジな従者	name	npc	Dodgy Squire
 Oomlie bird	ウームリー鳥	name	npc	Oomlie bird
@@ -1265,7 +1265,7 @@ Yt-MejKot	イト・メジュコト	name	npc	Yt-MejKot
 Ket-Zek	ケト・ゼク	name	npc	Ket-Zek
 TzTok-Jad	ツズトク・ジャッド	name	npc	TzTok-Jad
 Yt-HurKot	イト・フーコト	name	npc	Yt-HurKot
-K'ril Tsutsaroth	クリル・ツツァロス	name	npc	K'ril Tsutsaroth
+K'ril Tsutsaroth	クリルツツァ	name	npc	K'ril Tsutsaroth
 Tstanon Karlak	ツツタノン・カラク	name	npc	Tstanon Karlak
 Zakl'n Gritch	ザクルン・グリチ	name	npc	Zakl'n Gritch
 Balfrug Kreeyath	バルフルグ・クリーヤス	name	npc	Balfrug Kreeyath
@@ -2519,7 +2519,7 @@ Greater Skeleton Hellhound	上位のスケルトン・ヘルハウンド	name	np
 Scorpia	スコーピア	name	npc	Scorpia
 Scorpia's guardian	スコーピアの守護者	name	npc	Scorpia's guardian
 Crazy archaeologist	狂った考古学者	name	npc	Crazy archaeologist
-Chaos Fanatic	混沌の狂信者	name	npc	Chaos Fanatic
+Chaos Fanatic	混沌狂信者	name	npc	Chaos Fanatic
 Miniature chaotic clouds	小さな無秩序な雲	name	npc	Miniature chaotic clouds
 Energy sprite	エナジー・スプライト	name	npc	Energy sprite
 Dagannoth Supreme Jr.	ダガノス・スプリーム・Jr.	name	npc	Dagannoth Supreme Jr.
@@ -4222,7 +4222,7 @@ Magic Mark	Magic Mark	name	npc	Magic Mark
 Ranging Ro	Ranging Ro	name	npc	Ranging Ro
 Araxyte		name	npc	Araxyte
 Curator Herminius		name	npc	Curator Herminius
-Araxxor		name	npc	Araxxor
+Araxxor	アラクソー	name	npc	Araxxor
 Mirrorback Araxyte		name	npc	Mirrorback Araxyte
 Ruptura Araxyte		name	npc	Ruptura Araxyte
 Acidic Araxyte		name	npc	Acidic Araxyte
@@ -4231,7 +4231,7 @@ Arancini		name	npc	Arancini
 Dreadborn Araxyte		name	npc	Dreadborn Araxyte
 Nid	ニッド	name	npc	Nid
 Rax	ラックス	name	npc	Rax
-Amoxliatl		name	npc	Amoxliatl
+Amoxliatl	エモック・・・	name	npc	Amoxliatl
 Unstable ice		name	npc	Unstable ice
 Felius		name	npc	Felius
 Caritta		name	npc	Caritta
@@ -4321,7 +4321,7 @@ Chef		name	npc	Chef
 Marla		name	npc	Marla
 Viero		name	npc	Viero
 Manauia		name	npc	Manauia
-The Hueycoatl		name	npc	The Hueycoatl
+The Hueycoatl	ザ・フエコアトル	name	npc	The Hueycoatl
 Hueycoatl tail		name	npc	Hueycoatl tail
 Hueycoatl tail (broken)		name	npc	Hueycoatl tail (broken)
 Hueycoatl body		name	npc	Hueycoatl body
