@@ -6616,7 +6616,7 @@ Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "So
 None	なし	interface		
 Moons of Peril	危険の月	interface		
 The Hueycoatl	ザ・フエコアトル	interface		
-Amoxliatl	エモックスリアトル	interface		
+Amoxliatl	エモックス・・・	interface		
 Grotesque Guardians	グロテスク・ガーディアン	interface		
 Theatre of Blood: Entry Mode	血の劇場：初心者モード	interface		
 Tombs of Amascut: Entry Mode	アマスカットの墓：初心者モード	interface		
@@ -6639,7 +6639,7 @@ Restriction	制限	interface	generalUI
 Speed	速さ	interface	generalUI	
 Abyssal Sire	深淵の雄親	interface	generalUI	
 Alchemical Hy...	錬金術ヒドラ	interface	generalUI	
-Amoxliatl	エモックス	interface	generalUI	
+Amoxliatl	エモックスリアトル	interface	generalUI	
 Araxxor	アラクソー	interface	generalUI	
 Barrows	バロウズ	interface	generalUI	
 Bryophyta	ブリオフィタ	interface	generalUI	
@@ -6726,7 +6726,7 @@ Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "So
 None	なし	interface	combAchvmt	
 Moons of Peril	危険の月	interface	combAchvmt	
 The Hueycoatl	ザ・フエコアトル	interface	combAchvmt	
-Amoxliatl	エモックスリアトル	interface	combAchvmt	
+Amoxliatl	エモックス	interface	combAchvmt	
 Grotesque Guardians	グロテスク・ガーディアン	interface	combAchvmt	
 Theatre of Blood: Entry Mode	血の劇場：初心者モード	interface	combAchvmt	
 Tombs of Amascut: Entry Mode	アマスカットの墓：初心者モード	interface	combAchvmt	
@@ -6833,7 +6833,7 @@ Description: <colNum0>Complete the Theatre of Blood without anyone dying through
 Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>	詳細：<colNum0>ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。</col>	interface	combAchvmt	
 Aberrant Spec...	異形の亡霊	interface	combAchvmt	
 Alchemical Hyd...	錬金術ヒドラ	interface	combAchvmt	
-Basilisk Knights	バジリスク・ナイト	interface	combAchvmt	
+Basilisk Knights	バジリスク	interface	combAchvmt	
 Bloodvelds	ブラッドヴェル	interface	combAchvmt	
 Cerberus	ケルベロス	interface	combAchvmt	
 Chambers of X...	ゼリックの部屋	interface	combAchvmt	
