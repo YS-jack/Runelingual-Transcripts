@@ -6507,7 +6507,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="10996">
         <xliff:source>Chaos Elemental</xliff:source>
-        <xliff:target state="translated">混沌エレメ</xliff:target>
+        <xliff:target state="translated">混沌エレメンタル</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chaos Elemental
@@ -10131,7 +10131,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="11449">
         <xliff:source>K'ril Tsutsaroth</xliff:source>
-        <xliff:target state="translated">クリルツツァ</xliff:target>
+        <xliff:target state="translated">クリル・ツツァロス</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: K'ril Tsutsaroth
@@ -20163,7 +20163,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="12703">
         <xliff:source>Chaos Fanatic</xliff:source>
-        <xliff:target state="translated">混沌狂信者</xliff:target>
+        <xliff:target state="translated">混沌の狂信者</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Chaos Fanatic
