@@ -5230,9 +5230,9 @@ Tasks Completed:	完了タスク：	interface	combAchvmt
 Boss Kill Count:	ボスのキル数：	interface	combAchvmt	
 Skilling Boss Kill Count:	スキルボスのキル数：	interface	combAchvmt	
 Raid Completions:	レイドのクリア数：	interface	combAchvmt	
-Top Boss:	キル数トップ：	interface	combAchvmt	
-<!ANY_TRANSLATED0> (<Num0>)	<!ANY_TRANSLATED0> (<Num0>)	interface	combAchvmt	
-Top Skilling Boss:	キル数トップのスキルボス：	interface	combAchvmt	
+Top Boss:	最多キル：	interface	combAchvmt	
+<!ANY_TRANSLATED0> (<Num0>)	<!ANY_TRANSLATED0> <asis>(<Num0>)</asis>	interface	combAchvmt	
+Top Skilling Boss:	最多キルのスキルボス	interface	combAchvmt	
 Top Raid:	クリア数トップのレイド：	interface	combAchvmt	
 Nothing!	なし！	interface	combAchvmt	
 Overview	概要	interface	combAchvmt	
@@ -5798,7 +5798,7 @@ Harder Mode II	難しいモードII	interface	combAchvmt
 Nylo Sniper	ナイロー・スナイパー	interface	combAchvmt	
 Team Work Makes the Dream Work	協力が成功をもたらす	interface	combAchvmt	
 Harder Mode III	難しいモードIII	interface	combAchvmt	
-Pack Like a Yak	ヤックのようなパッキング	interface	combAchvmt	
+Pack Like a Yak	ヤックのようなパック	interface	combAchvmt	
 Theatre: HM (Trio) Speed-Runner	劇場：HM（トリオ）の電光石火	interface	combAchvmt	
 Theatre: HM (<Num0>-Scale) Speed-Runner	劇場：HM（<Num0>人分）の電光石火	interface	combAchvmt	
 Theatre of Blood: HM Grandmaster	血の劇場：ストーリー版の総帥	interface	combAchvmt	
@@ -5966,7 +5966,7 @@ Description: <colNum0>Finish off Hespori with a special attack.</col>	詳細：<
 Description: <colNum0>Kill all of Hesporis flowers within <Num0> seconds.</col>	詳細：<colNum0>ヘスポリの花を全て<Num0>秒以内に倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kalphite Queen <Num0> times.</col>	詳細：<colNum0>女王カルファイトを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kalphite Queen while her defence was last lowered by you.</col>	詳細：<colNum0>女王カルファイトを、その防御力が下がっていて、かつ下げたのが自分である間に倒す。</col>	interface	combAchvmt	
-Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	詳細：<colNum0>スタミナ</co>l <colNum1>(+<Num0>ポイント)</col>	interface	combAchvmt	
+Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>	詳細：<colNum0>スタミナ</col> <colNum1>(+<Num0>ポイント)</col>	interface	combAchvmt	
 Description: <colNum0>Kill The King Black Dragon <Num0> times in a privately rented instance without leaving the instance.</col>	詳細：<colNum0>黒竜王を<Num0>回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kraken <Num0> times.</col>	詳細：<colNum0>クラーケンを<Num0>回倒す。</col>	interface	combAchvmt	
 Description: <colNum0>Kill the Kraken after killing all four tentacles.</col>	詳細：<colNum0>クラーケンを、その触手をすべて倒してから倒す。</col>	interface	combAchvmt	

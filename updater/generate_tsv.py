@@ -65,9 +65,7 @@ def xliff_to_tsv(xliff_file_path, tsv_file_path, columns=None):
 	for line in lines:
 		eng = line.split('\t')[0]
 		if '\\""' in eng and (eng.startswith('"') and eng.endswith('"')):
-			print(f"found double quotes in {eng}")
 			eng = eng[1:-1].replace('\\""', '"')
-			print(f"updated to {eng}")
 			line = line.replace(line.split('\t')[0], eng)
 		updated_lines.append(line)
 	with open(tsv_file_path, 'w', encoding='utf-8', newline='') as file:

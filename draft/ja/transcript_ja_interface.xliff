@@ -30835,13 +30835,13 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120157"><xliff:source>Raid Completions:</xliff:source><xliff:target state="translated">レイドのクリア数：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120158"><xliff:source>Top Boss:</xliff:source><xliff:target state="translated">キル数トップ：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120158"><xliff:source>Top Boss:</xliff:source><xliff:target state="translated">最多キル：</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120159"><xliff:source>&lt;!ANY_TRANSLATED0&gt; (&lt;Num0&gt;)</xliff:source><xliff:target state="translated">&lt;!ANY_TRANSLATED0&gt; (&lt;Num0&gt;)</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120159"><xliff:source>&lt;!ANY_TRANSLATED0&gt; (&lt;Num0&gt;)</xliff:source><xliff:target state="translated">&lt;!ANY_TRANSLATED0&gt; &lt;asis&gt;(&lt;Num0&gt;)&lt;/asis&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120160"><xliff:source>Top Skilling Boss:</xliff:source><xliff:target state="translated">キル数トップのスキルボス：</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120160"><xliff:source>Top Skilling Boss:</xliff:source><xliff:target state="translated">最多キルのスキルボス</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120161"><xliff:source>Top Raid:</xliff:source><xliff:target state="translated">クリア数トップのレイド：</xliff:target><xliff:note>category: interface
@@ -32539,7 +32539,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120725"><xliff:source>Harder Mode III</xliff:source><xliff:target state="translated">難しいモードIII</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120726"><xliff:source>Pack Like a Yak</xliff:source><xliff:target state="translated">ヤックのようなパッキング</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120726"><xliff:source>Pack Like a Yak</xliff:source><xliff:target state="translated">ヤックのようなパック</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120727"><xliff:source>Theatre: HM (Trio) Speed-Runner</xliff:source><xliff:target state="translated">劇場：HM（トリオ）の電光石火</xliff:target><xliff:note>category: interface
@@ -33043,7 +33043,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120893"><xliff:source>Description: &lt;colNum0&gt;Kill the Kalphite Queen while her defence was last lowered by you.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;女王カルファイトを、その防御力が下がっていて、かつ下げたのが自分である間に倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120894"><xliff:source>Type: &lt;colNum0&gt;Stamina&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt; points)&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スタミナ&lt;/co&gt;l &lt;colNum1&gt;(+&lt;Num0&gt;ポイント)&lt;/col&gt;</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120894"><xliff:source>Type: &lt;colNum0&gt;Stamina&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt; points)&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;スタミナ&lt;/col&gt; &lt;colNum1&gt;(+&lt;Num0&gt;ポイント)&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="120895"><xliff:source>Description: &lt;colNum0&gt;Kill The King Black Dragon &lt;Num0&gt; times in a privately rented instance without leaving the instance.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;黒竜王を&lt;Num0&gt;回、貸し切りインスタンスでそのインスタンスを抜けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
