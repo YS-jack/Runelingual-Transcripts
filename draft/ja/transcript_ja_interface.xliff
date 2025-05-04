@@ -35779,6 +35779,27 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121805"><xliff:source>Monster: &lt;colNum0&gt;&lt;!NPC_NAME0&gt;&lt;/col&gt;</xliff:source><xliff:target state="translated">モンスター ： &lt;colNum0&gt;&lt;!NPC_NAME0&gt;&lt;/col&gt;</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121806"><xliff:source>Description: &lt;colNum0&gt;Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;狂った考古学者を「知恵の雨」の攻撃を受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121807"><xliff:source>Description: &lt;colNum0&gt;Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;錯乱した考古学者を「読むことを学べ」の攻撃を受けずに倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121808"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;グロテスク・ガーディアンを「月食を見るな」「脱獄」「花崗岩のフットワーク」「回復はもうやめ」「不変的意識」「夕暮れ前に終わらせる」の条件を全て満たして倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121809"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;アマスカットの墓を「食事制限」と「脱水症状」の祈願を発動し、誰も死なずに踏破する。</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121810"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; with either "Red Flag", "Dynamic Duo", or "Doom II" active.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;「赤旗」「ダイナミック・デュオ」「破滅II」のいずれが有効な状態でウェーブ&lt;Num0&gt;を突破する。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121811"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;血の劇場を、誰も死なずに、全員が一回の攻略で次の戦闘実績の条件を満たし、攻略する：「乙女に完全勝利」「ブロートに完全勝利」「ソテツセグに完全勝利」「ハープスに完全勝利」「ヴァージックに完全勝利」&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121812"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.&lt;/col&gt;</xliff:source><xliff:target state="translated">詳細：&lt;colNum0&gt;ソル・ヘレディットを「ハチ! ２」「カルテット」「太陽フレア２」の効果発動して倒す。&lt;/col&gt;</xliff:target><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>
