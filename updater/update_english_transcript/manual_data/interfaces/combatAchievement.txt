@@ -30,7 +30,6 @@ All	interface	combAchvmt
 Type:	interface	combAchvmt	
 Monster:	interface	combAchvmt	
 Completed:	interface	combAchvmt	
-Monster: <colNum0><!ANY_TRANSLATED0></col>	interface	combAchvmt	
 Noxious Foe	interface	combAchvmt	
 Barrows Novice	interface	combAchvmt	
 Defence? What Defence?	interface	combAchvmt	
@@ -1604,3 +1603,4 @@ Tombs of Amascut: Expert Mode	name	npc
 TzHaar-Ket-Rak's Challenges	name	npc	
 Wintertodt	name	npc	
 Combat Achievements - <!NPC_NAME0>	interface	combAchvmt	
+Monster: <colNum0><!NPC_NAME0></col>	interface	combAchvmt	
