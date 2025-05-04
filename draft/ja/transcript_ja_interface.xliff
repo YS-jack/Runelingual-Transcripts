@@ -1,4 +1,5 @@
-<?xml version="1.0"?><xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <xliff:file source-language="en" target-language="ja" datatype="plaintext" original="transcript.db">
     <xliff:body>
       <xliff:trans-unit id="114927">
@@ -17787,7 +17788,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="117150">
         <xliff:source>Basilisk knights</xliff:source>
-        <xliff:target state="translated">バジリスク・ナイト</xliff:target>
+        <xliff:target state="translated">バジリスク</xliff:target>
         <xliff:note>category: interface
 sub_category: generalUI
 source: skillGuide
@@ -35292,6 +35293,330 @@ sub_category: generalUI
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121643"><xliff:source>Complete</xliff:source><xliff:target state="translated">達成</xliff:target><xliff:note>category: interface
 sub_category: generalUI
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121644"><xliff:source>Description: &lt;colNum0&gt;Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121645"><xliff:source>Description: &lt;colNum0&gt;Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121646"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121647"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121648"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; with either "Red Flag", "Dynamic Duo", or "Doom II" active.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121649"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121650"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121651"><xliff:source>None</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121652"><xliff:source>Moons of Peril</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121653"><xliff:source>The Hueycoatl</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121654"><xliff:source>Amoxliatl</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121655"><xliff:source>Grotesque Guardians</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121656"><xliff:source>Theatre of Blood: Entry Mode</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121657"><xliff:source>Tombs of Amascut: Entry Mode</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121658"><xliff:source>Thermy</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121659"><xliff:source>Chambers of Xeric: CM</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121660"><xliff:source>TzHaar-Ket-Rak's Challenges</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121661"><xliff:source>Tombs of Amascut: Expert Mode</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121662"><xliff:source>Theatre of Blood: Hard Mode</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121663"><xliff:source>Stamina</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121664"><xliff:source>Perfection</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121665"><xliff:source>Kill Count</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121666"><xliff:source>Mechanical</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121667"><xliff:source>Restriction</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121668"><xliff:source>Speed</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121669"><xliff:source>Abyssal Sire</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121670"><xliff:source>Alchemical Hy...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121671"><xliff:source>Araxxor</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121672"><xliff:source>Barrows</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121673"><xliff:source>Bryophyta</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121674"><xliff:source>Callisto</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121675"><xliff:source>Chaos Elemental</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121676"><xliff:source>Chaos Fanatic</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121677"><xliff:source>Crazy Archae...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121678"><xliff:source>Chambers of ...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121679"><xliff:source>CM: Chambers...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121680"><xliff:source>Corporeal Be...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121681"><xliff:source>Commander Zi...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121682"><xliff:source>Crystalline Hu...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121683"><xliff:source>Corrupted Hu...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121684"><xliff:source>DK: Prime</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121685"><xliff:source>DK: Rex</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121686"><xliff:source>DK: Supreme</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121687"><xliff:source>Deranged Arc...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121688"><xliff:source>Duke Sucellus</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121689"><xliff:source>Fortis Coloss...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121690"><xliff:source>General Graar...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121691"><xliff:source>Giant Mole</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121692"><xliff:source>Grotesque Gu...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121693"><xliff:source>Hueycoatl, The</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121694"><xliff:source>Kalphite Queen</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121695"><xliff:source>King Black Dra...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121696"><xliff:source>Kraken</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121697"><xliff:source>Kree'arra</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121698"><xliff:source>K'ril Tsutsaroth</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121699"><xliff:source>Leviathan, The</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121700"><xliff:source>Mimic, The</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121701"><xliff:source>Nex</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121702"><xliff:source>Nightmare, The</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121703"><xliff:source>Phosani's Nig...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121704"><xliff:source>Obor</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121705"><xliff:source>Phantom Musp...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121706"><xliff:source>Royal Titans</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121707"><xliff:source>Scurrius</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121708"><xliff:source>Sarachnis</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121709"><xliff:source>Scorpia</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121710"><xliff:source>Skotizo</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121711"><xliff:source>Tempoross</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121712"><xliff:source>EM: Theatre of...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121713"><xliff:source>Theatre of Blo...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121714"><xliff:source>HM: Theatre o...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121715"><xliff:source>EM: Tombs of ...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121716"><xliff:source>Tombs of Ama...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121717"><xliff:source>XM: Tombs of ...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121718"><xliff:source>TzHaar-Ket-Rak</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121719"><xliff:source>TzKal-Zuk</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121720"><xliff:source>TzTok-Jad</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121721"><xliff:source>Vardorvis</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121722"><xliff:source>Venenatis</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121723"><xliff:source>Vet'ion</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121724"><xliff:source>Vorkath</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121725"><xliff:source>Whisperer, The</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121726"><xliff:source>Zalcano</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121727"><xliff:source>Zulrah</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121728"><xliff:source>Fragment of S...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121729"><xliff:source>Glough</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121730"><xliff:source>Galvek</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121731"><xliff:source>Greater Demons</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121732"><xliff:source>Lizardman Sh...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121733"><xliff:source>Black Dragons</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121734"><xliff:source>Fire Giants</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121735"><xliff:source>Hellhounds</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121736"><xliff:source>Aberrant Spe...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121737"><xliff:source>Demonic Gorill...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121738"><xliff:source>Skeletal Wyve...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121739"><xliff:source>Kurasks</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121740"><xliff:source>Brutal Black D...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121741"><xliff:source>Giants</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121742"><xliff:source>Tormented De...</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121743"><xliff:source>Incomplete</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121744"><xliff:source>Complete</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121745"><xliff:source>Description: &lt;colNum0&gt;Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121746"><xliff:source>Description: &lt;colNum0&gt;Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121747"><xliff:source>Description: &lt;colNum0&gt;Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121748"><xliff:source>Description: &lt;colNum0&gt;Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121749"><xliff:source>Description: &lt;colNum0&gt;Complete Wave &lt;Num0&gt; with either "Red Flag", "Dynamic Duo", or "Doom II" active.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121750"><xliff:source>Description: &lt;colNum0&gt;Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
+source: 
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121751"><xliff:source>Description: &lt;colNum0&gt;Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.&lt;/col&gt;</xliff:source><xliff:target/><xliff:note>category: interface
+sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>

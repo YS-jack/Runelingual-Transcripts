@@ -2222,7 +2222,7 @@ Warped creatures	歪んだ生物	interface	generalUI	skillGuide
 Mutated zygomites	変異ジゴマイト	interface	generalUI	skillGuide
 Cave horrors	洞窟の怪物	interface	generalUI	skillGuide
 Aberrant spectres	異形の亡霊	interface	generalUI	skillGuide
-Basilisk knights	バジリスク・ナイト	interface	generalUI	skillGuide
+Basilisk knights	バジリスク	interface	generalUI	skillGuide
 Wyrms	ワーム	interface	generalUI	skillGuide
 Spiritual rangers	射手の霊	interface	generalUI	skillGuide
 Dust devils	ダスト・デビル	interface	generalUI	skillGuide
@@ -6716,3 +6716,111 @@ Giants	巨人	interface	generalUI
 Tormented De...	苦悩する悪魔	interface	generalUI	
 Incomplete	未達成	interface	generalUI	
 Complete	達成	interface	generalUI	
+Description: <colNum0>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>		interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>		interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.</col>		interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.</col>		interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> with either "Red Flag", "Dynamic Duo", or "Doom II" active.</col>		interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".</col>		interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>		interface	combAchvmt	
+None		interface	combAchvmt	
+Moons of Peril		interface	combAchvmt	
+The Hueycoatl		interface	combAchvmt	
+Amoxliatl		interface	combAchvmt	
+Grotesque Guardians		interface	combAchvmt	
+Theatre of Blood: Entry Mode		interface	combAchvmt	
+Tombs of Amascut: Entry Mode		interface	combAchvmt	
+Thermy		interface	combAchvmt	
+Chambers of Xeric: CM		interface	combAchvmt	
+TzHaar-Ket-Rak's Challenges		interface	combAchvmt	
+Tombs of Amascut: Expert Mode		interface	combAchvmt	
+Theatre of Blood: Hard Mode		interface	combAchvmt	
+Stamina		interface	combAchvmt	
+Perfection		interface	combAchvmt	
+Kill Count		interface	combAchvmt	
+Mechanical		interface	combAchvmt	
+Restriction		interface	combAchvmt	
+Speed		interface	combAchvmt	
+Abyssal Sire		interface	combAchvmt	
+Alchemical Hy...		interface	combAchvmt	
+Araxxor		interface	combAchvmt	
+Barrows		interface	combAchvmt	
+Bryophyta		interface	combAchvmt	
+Callisto		interface	combAchvmt	
+Chaos Elemental		interface	combAchvmt	
+Chaos Fanatic		interface	combAchvmt	
+Crazy Archae...		interface	combAchvmt	
+Chambers of ...		interface	combAchvmt	
+CM: Chambers...		interface	combAchvmt	
+Corporeal Be...		interface	combAchvmt	
+Commander Zi...		interface	combAchvmt	
+Crystalline Hu...		interface	combAchvmt	
+Corrupted Hu...		interface	combAchvmt	
+DK: Prime		interface	combAchvmt	
+DK: Rex		interface	combAchvmt	
+DK: Supreme		interface	combAchvmt	
+Deranged Arc...		interface	combAchvmt	
+Duke Sucellus		interface	combAchvmt	
+Fortis Coloss...		interface	combAchvmt	
+General Graar...		interface	combAchvmt	
+Giant Mole		interface	combAchvmt	
+Grotesque Gu...		interface	combAchvmt	
+Hueycoatl, The		interface	combAchvmt	
+Kalphite Queen		interface	combAchvmt	
+King Black Dra...		interface	combAchvmt	
+Kraken		interface	combAchvmt	
+Kree'arra		interface	combAchvmt	
+K'ril Tsutsaroth		interface	combAchvmt	
+Leviathan, The		interface	combAchvmt	
+Mimic, The		interface	combAchvmt	
+Nex		interface	combAchvmt	
+Nightmare, The		interface	combAchvmt	
+Phosani's Nig...		interface	combAchvmt	
+Obor		interface	combAchvmt	
+Phantom Musp...		interface	combAchvmt	
+Royal Titans		interface	combAchvmt	
+Scurrius		interface	combAchvmt	
+Sarachnis		interface	combAchvmt	
+Scorpia		interface	combAchvmt	
+Skotizo		interface	combAchvmt	
+Tempoross		interface	combAchvmt	
+EM: Theatre of...		interface	combAchvmt	
+Theatre of Blo...		interface	combAchvmt	
+HM: Theatre o...		interface	combAchvmt	
+EM: Tombs of ...		interface	combAchvmt	
+Tombs of Ama...		interface	combAchvmt	
+XM: Tombs of ...		interface	combAchvmt	
+TzHaar-Ket-Rak		interface	combAchvmt	
+TzKal-Zuk		interface	combAchvmt	
+TzTok-Jad		interface	combAchvmt	
+Vardorvis		interface	combAchvmt	
+Venenatis		interface	combAchvmt	
+Vet'ion		interface	combAchvmt	
+Vorkath		interface	combAchvmt	
+Whisperer, The		interface	combAchvmt	
+Zalcano		interface	combAchvmt	
+Zulrah		interface	combAchvmt	
+Fragment of S...		interface	combAchvmt	
+Glough		interface	combAchvmt	
+Galvek		interface	combAchvmt	
+Greater Demons		interface	combAchvmt	
+Lizardman Sh...		interface	combAchvmt	
+Black Dragons		interface	combAchvmt	
+Fire Giants		interface	combAchvmt	
+Hellhounds		interface	combAchvmt	
+Aberrant Spe...		interface	combAchvmt	
+Demonic Gorill...		interface	combAchvmt	
+Skeletal Wyve...		interface	combAchvmt	
+Kurasks		interface	combAchvmt	
+Brutal Black D...		interface	combAchvmt	
+Giants		interface	combAchvmt	
+Tormented De...		interface	combAchvmt	
+Incomplete		interface	combAchvmt	
+Complete		interface	combAchvmt	
+Description: <colNum0>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>		interface	combAchvmt	
+Description: <colNum0>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>		interface	combAchvmt	
+Description: <colNum0>Kill the Grotesque Guardians whilst completing the "Don't look at the eclipse", "Prison Break", "Granite footwork", "Heal no more", "Static Awareness" and "Done before dusk" tasks.</col>		interface	combAchvmt	
+Description: <colNum0>Complete the Tombs of Amascut with the "On a diet" and "Dehydration" invocations activated and without anyone dying.</col>		interface	combAchvmt	
+Description: <colNum0>Complete Wave <Num0> with either "Red Flag", "Dynamic Duo", or "Doom II" active.</col>		interface	combAchvmt	
+Description: <colNum0>Complete the Theatre of Blood without anyone dying through any means and whilst everyone in the team completes the following Combat Achievement tasks in a single run: "Perfect Maiden", "Perfect Bloat", "Perfect Nylocas", "Perfect Sotetseg", "Perfect Xarpus" and "Perfect Verzik".</col>		interface	combAchvmt	
+Description: <colNum0>Defeat Sol Heredit with the "Bees! II", "Quartet", and "Solarflare II" modifiers active.</col>		interface	combAchvmt	

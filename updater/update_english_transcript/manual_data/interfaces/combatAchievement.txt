@@ -1389,106 +1389,106 @@ Daily Trollheim teleports - Unlimited	interface	combAchvmt
 Daily Mor Ul Rek teleports - Unlimited	interface	combAchvmt	
 The ability to make a <colNum0>TzKal Slayer Helmet</col>	interface	combAchvmt	
 The ability to combine an Avernic defender with Ghommal's hilt <Num0> to create <colNum0>Ghommal's Avernic Defender <Num1></col>	interface	combAchvmt	
-None	interface		
-Moons of Peril	interface		
-The Hueycoatl	interface		
-Amoxliatl	interface		
-Grotesque Guardians	interface		
-Theatre of Blood: Entry Mode	interface		
-Tombs of Amascut: Entry Mode	interface		
-Thermy	interface		
-Chambers of Xeric: CM	interface		
-TzHaar-Ket-Rak's Challenges	interface		
-Tombs of Amascut: Expert Mode	interface		
-Theatre of Blood: Hard Mode	interface		
-Easy	interface	generalUI	
-Medium	interface	generalUI	
-Hard	interface	generalUI	
-Elite	interface	generalUI	
-Master	interface	generalUI	
-Grandmaster	interface	generalUI	
-Stamina	interface	generalUI	
-Perfection	interface	generalUI	
-Kill Count	interface	generalUI	
-Mechanical	interface	generalUI	
-Restriction	interface	generalUI	
-Speed	interface	generalUI	
-Abyssal Sire	interface	generalUI	
-Alchemical Hy...	interface	generalUI	
-Amoxliatl	interface	generalUI	
-Araxxor	interface	generalUI	
-Barrows	interface	generalUI	
-Bryophyta	interface	generalUI	
-Callisto	interface	generalUI	
-Chaos Elemental	interface	generalUI	
-Chaos Fanatic	interface	generalUI	
-Crazy Archae...	interface	generalUI	
-Chambers of ...	interface	generalUI	
-CM: Chambers...	interface	generalUI	
-Corporeal Be...	interface	generalUI	
-Commander Zi...	interface	generalUI	
-Crystalline Hu...	interface	generalUI	
-Corrupted Hu...	interface	generalUI	
-DK: Prime	interface	generalUI	
-DK: Rex	interface	generalUI	
-DK: Supreme	interface	generalUI	
-Deranged Arc...	interface	generalUI	
-Duke Sucellus	interface	generalUI	
-Fortis Coloss...	interface	generalUI	
-General Graar...	interface	generalUI	
-Giant Mole	interface	generalUI	
-Grotesque Gu...	interface	generalUI	
-Hueycoatl, The	interface	generalUI	
-Kalphite Queen	interface	generalUI	
-King Black Dra...	interface	generalUI	
-Kraken	interface	generalUI	
-Kree'arra	interface	generalUI	
-K'ril Tsutsaroth	interface	generalUI	
-Leviathan, The	interface	generalUI	
-Mimic, The	interface	generalUI	
-Moons of Peril	interface	generalUI	
-Nex	interface	generalUI	
-Nightmare, The	interface	generalUI	
-Phosani's Nig...	interface	generalUI	
-Obor	interface	generalUI	
-Phantom Musp...	interface	generalUI	
-Royal Titans	interface	generalUI	
-Scurrius	interface	generalUI	
-Sarachnis	interface	generalUI	
-Scorpia	interface	generalUI	
-Skotizo	interface	generalUI	
-Tempoross	interface	generalUI	
-EM: Theatre of...	interface	generalUI	
-Theatre of Blo...	interface	generalUI	
-HM: Theatre o...	interface	generalUI	
-Thermy	interface	generalUI	
-EM: Tombs of ...	interface	generalUI	
-Tombs of Ama...	interface	generalUI	
-XM: Tombs of ...	interface	generalUI	
-TzHaar-Ket-Rak	interface	generalUI	
-TzKal-Zuk	interface	generalUI	
-TzTok-Jad	interface	generalUI	
-Vardorvis	interface	generalUI	
-Venenatis	interface	generalUI	
-Vet'ion	interface	generalUI	
-Vorkath	interface	generalUI	
-Whisperer, The	interface	generalUI	
-Zalcano	interface	generalUI	
-Zulrah	interface	generalUI	
-Fragment of S...	interface	generalUI	
-Glough	interface	generalUI	
-Galvek	interface	generalUI	
-Greater Demons	interface	generalUI	
-Lizardman Sh...	interface	generalUI	
-Black Dragons	interface	generalUI	
-Fire Giants	interface	generalUI	
-Hellhounds	interface	generalUI	
-Aberrant Spe...	interface	generalUI	
-Demonic Gorill...	interface	generalUI	
-Skeletal Wyve...	interface	generalUI	
-Kurasks	interface	generalUI	
-Brutal Black D...	interface	generalUI	
-Giants	interface	generalUI	
-Tormented De...	interface	generalUI	
-Incomplete	interface	generalUI	
-Complete	interface	generalUI	
+None	interface	combAchvmt	
+Moons of Peril	interface	combAchvmt	
+The Hueycoatl	interface	combAchvmt	
+Amoxliatl	interface	combAchvmt	
+Grotesque Guardians	interface	combAchvmt	
+Theatre of Blood: Entry Mode	interface	combAchvmt	
+Tombs of Amascut: Entry Mode	interface	combAchvmt	
+Thermy	interface	combAchvmt	
+Chambers of Xeric: CM	interface	combAchvmt	
+TzHaar-Ket-Rak's Challenges	interface	combAchvmt	
+Tombs of Amascut: Expert Mode	interface	combAchvmt	
+Theatre of Blood: Hard Mode	interface	combAchvmt	
+Easy	interface	combAchvmt	
+Medium	interface	combAchvmt	
+Hard	interface	combAchvmt	
+Elite	interface	combAchvmt	
+Master	interface	combAchvmt	
+Grandmaster	interface	combAchvmt	
+Stamina	interface	combAchvmt	
+Perfection	interface	combAchvmt	
+Kill Count	interface	combAchvmt	
+Mechanical	interface	combAchvmt	
+Restriction	interface	combAchvmt	
+Speed	interface	combAchvmt	
+Abyssal Sire	interface	combAchvmt	
+Alchemical Hy...	interface	combAchvmt	
+Amoxliatl	interface	combAchvmt	
+Araxxor	interface	combAchvmt	
+Barrows	interface	combAchvmt	
+Bryophyta	interface	combAchvmt	
+Callisto	interface	combAchvmt	
+Chaos Elemental	interface	combAchvmt	
+Chaos Fanatic	interface	combAchvmt	
+Crazy Archae...	interface	combAchvmt	
+Chambers of ...	interface	combAchvmt	
+CM: Chambers...	interface	combAchvmt	
+Corporeal Be...	interface	combAchvmt	
+Commander Zi...	interface	combAchvmt	
+Crystalline Hu...	interface	combAchvmt	
+Corrupted Hu...	interface	combAchvmt	
+DK: Prime	interface	combAchvmt	
+DK: Rex	interface	combAchvmt	
+DK: Supreme	interface	combAchvmt	
+Deranged Arc...	interface	combAchvmt	
+Duke Sucellus	interface	combAchvmt	
+Fortis Coloss...	interface	combAchvmt	
+General Graar...	interface	combAchvmt	
+Giant Mole	interface	combAchvmt	
+Grotesque Gu...	interface	combAchvmt	
+Hueycoatl, The	interface	combAchvmt	
+Kalphite Queen	interface	combAchvmt	
+King Black Dra...	interface	combAchvmt	
+Kraken	interface	combAchvmt	
+Kree'arra	interface	combAchvmt	
+K'ril Tsutsaroth	interface	combAchvmt	
+Leviathan, The	interface	combAchvmt	
+Mimic, The	interface	combAchvmt	
+Moons of Peril	interface	combAchvmt	
+Nex	interface	combAchvmt	
+Nightmare, The	interface	combAchvmt	
+Phosani's Nig...	interface	combAchvmt	
+Obor	interface	combAchvmt	
+Phantom Musp...	interface	combAchvmt	
+Royal Titans	interface	combAchvmt	
+Scurrius	interface	combAchvmt	
+Sarachnis	interface	combAchvmt	
+Scorpia	interface	combAchvmt	
+Skotizo	interface	combAchvmt	
+Tempoross	interface	combAchvmt	
+EM: Theatre of...	interface	combAchvmt	
+Theatre of Blo...	interface	combAchvmt	
+HM: Theatre o...	interface	combAchvmt	
+Thermy	interface	combAchvmt	
+EM: Tombs of ...	interface	combAchvmt	
+Tombs of Ama...	interface	combAchvmt	
+XM: Tombs of ...	interface	combAchvmt	
+TzHaar-Ket-Rak	interface	combAchvmt	
+TzKal-Zuk	interface	combAchvmt	
+TzTok-Jad	interface	combAchvmt	
+Vardorvis	interface	combAchvmt	
+Venenatis	interface	combAchvmt	
+Vet'ion	interface	combAchvmt	
+Vorkath	interface	combAchvmt	
+Whisperer, The	interface	combAchvmt	
+Zalcano	interface	combAchvmt	
+Zulrah	interface	combAchvmt	
+Fragment of S...	interface	combAchvmt	
+Glough	interface	combAchvmt	
+Galvek	interface	combAchvmt	
+Greater Demons	interface	combAchvmt	
+Lizardman Sh...	interface	combAchvmt	
+Black Dragons	interface	combAchvmt	
+Fire Giants	interface	combAchvmt	
+Hellhounds	interface	combAchvmt	
+Aberrant Spe...	interface	combAchvmt	
+Demonic Gorill...	interface	combAchvmt	
+Skeletal Wyve...	interface	combAchvmt	
+Kurasks	interface	combAchvmt	
+Brutal Black D...	interface	combAchvmt	
+Giants	interface	combAchvmt	
+Tormented De...	interface	combAchvmt	
+Incomplete	interface	combAchvmt	
+Complete	interface	combAchvmt	
