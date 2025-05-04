@@ -6582,7 +6582,7 @@ The maximum quantity assigned from the <colNum0>Like a boss</col> slayer reward 
 Daily Trollheim teleports - <Num0>	日次のトロールハイムワープ：<Num0>回	interface	combAchvmt	
 The drop chance of a <colNum0>Clue Scroll (Medium)</col> from all sources (excl. implings) is increased by <Num0>%	<colNum0>宝さがしの巻物（中級）</col>のドロップ率が<Num0>%上昇（子悪魔を除く）	interface	combAchvmt	
 <Num0> additional commendation points from successful <colNum0>Pest Control</col> games	<colNum0>ペスト・コントロール</col>で入手する賞賛ポイントが<Num0>増加	interface	combAchvmt	
-Immunity from the prayer draining effect at <colNum0>Barrows</col> when one of <colNum1>Ghommal's hilts</col> is equipped	<colNum1>ゴンマルの柄</col>装備時、<colNum0>バロウズ</col>での祈力ポイントの吸収への耐性がつく。	interface	combAchvmt	
+Immunity from the prayer draining effect at <colNum0>Barrows</col> when one of <colNum1>Ghommal's hilts</col> is equipped	<colNum1>ゴンマルの柄</col>装備時、<colNum0>バロウズ</col>での祈力ポイントの吸収に対して耐性がつく。	interface	combAchvmt	
 The <colNum0>Dwarf multicannon</col> can hold <Num0> extra cannonballs	<colNum0>ドワーフのマルチキャノン</col>に追加で<Num0>個キャノンボールを装填できる。	interface	combAchvmt	
 The drop chance of a <colNum0>Clue Scroll (Hard)</col> from all sources (excl. implings) is increased by <Num0>%	<colNum0>宝さがしの巻物（上級）</col>のドロップ率が<Num0>%上昇（子悪魔を除く）	interface	combAchvmt	
 You can fight <colNum0>the Hueycoatl</col> privately for a reduced fee of <Num0>k coins	<colNum0>フエコアトル</col>の専用インスタンス費用が<Num0>kコインに減る。	interface	combAchvmt	

@@ -34891,7 +34891,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121509"><xliff:source>&lt;Num0&gt; additional commendation points from successful &lt;colNum0&gt;Pest Control&lt;/col&gt; games</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ペスト・コントロール&lt;/col&gt;で入手する賞賛ポイントが&lt;Num0&gt;増加</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121510"><xliff:source>Immunity from the prayer draining effect at &lt;colNum0&gt;Barrows&lt;/col&gt; when one of &lt;colNum1&gt;Ghommal's hilts&lt;/col&gt; is equipped</xliff:source><xliff:target state="translated">&lt;colNum1&gt;ゴンマルの柄&lt;/col&gt;装備時、&lt;colNum0&gt;バロウズ&lt;/col&gt;での祈力ポイントの吸収への耐性がつく。</xliff:target><xliff:note>category: interface
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121510"><xliff:source>Immunity from the prayer draining effect at &lt;colNum0&gt;Barrows&lt;/col&gt; when one of &lt;colNum1&gt;Ghommal's hilts&lt;/col&gt; is equipped</xliff:source><xliff:target state="translated">&lt;colNum1&gt;ゴンマルの柄&lt;/col&gt;装備時、&lt;colNum0&gt;バロウズ&lt;/col&gt;での祈力ポイントの吸収に対して耐性がつく。</xliff:target><xliff:note>category: interface
 sub_category: combAchvmt
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="121511"><xliff:source>The &lt;colNum0&gt;Dwarf multicannon&lt;/col&gt; can hold &lt;Num0&gt; extra cannonballs</xliff:source><xliff:target state="translated">&lt;colNum0&gt;ドワーフのマルチキャノン&lt;/col&gt;に追加で&lt;Num0&gt;個キャノンボールを装填できる。</xliff:target><xliff:note>category: interface
