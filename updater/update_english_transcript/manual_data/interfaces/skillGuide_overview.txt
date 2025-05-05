@@ -69,7 +69,7 @@ Farming allows you to grow various flowers, vegetables, trees, herbs and more in
 To get started, you'll need some seeds and a seed dibber, as well as a rake to de-weed the patch you want to use.	interface	generalUI	skillGuide
 Once you've cleared the patch, you can add your seed to it. You can also optionally water it with a watering can or add a bucket of compost to decrease the chances of your plant becoming diseased.	interface	generalUI	skillGuide
 It'll take a while for your plant to grow, so feel free to explore the world and come back to it later!	interface	generalUI	skillGuide
-Once your plant has grown, you might need another tool to collect the harvest. For instance, you'll need a shovel to dig up potatoes.	interface	generalUI	skillGuide
+Once your plant has grown, you might need another tool to collect the harvest. For instance, you'll need a spade to dig up potatoes.	interface	generalUI	skillGuide
 If you're worried about your crops becoming diseased, most crops can be protected by the nearby gardeners, but they'll want specific produce in return.	interface	generalUI	skillGuide
 As your Farming level increases, you'll gain access to more crops to grow, as well as obtaining greater yields when harvesting.	interface	generalUI	skillGuide
 Construction - Members Only	interface	generalUI	skillGuide
