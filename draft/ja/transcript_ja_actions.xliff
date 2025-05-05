@@ -10901,6 +10901,24 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110125"><xliff:source>Leave &lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt; channel</xliff:source><xliff:target state="translated">&lt;colNum0&gt;&lt;!ANY_TRANSLATED0&gt;&lt;/col&gt;のチャンネルから退会</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110126"><xliff:source>Add friend &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">&lt;!PLAYER_NAME0&gt;をフレンド登録</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110127"><xliff:source>Add ignore &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">&lt;!PLAYER_NAME0&gt;を無視リストに登録</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110128"><xliff:source>Remove friend &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">&lt;!PLAYER_NAME0&gt;をフレンド解除</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110129"><xliff:source>Remove ignore &lt;!PLAYER_NAME0&gt;</xliff:source><xliff:target state="translated">&lt;!PLAYER_NAME0&gt;を無視リストから除名</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110130"><xliff:source>View Channel</xliff:source><xliff:target state="translated">チャンネルを見る</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: groupTab
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110131"><xliff:source>Learn More</xliff:source><xliff:target state="translated">詳細</xliff:target><xliff:note>category: actions
+sub_category: menu
+source: 
 wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

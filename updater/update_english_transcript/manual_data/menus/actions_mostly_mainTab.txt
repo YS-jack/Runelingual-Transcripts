@@ -228,6 +228,11 @@ Select	actions	menu	groupTab
 Join <colNum0><!ANY_TRANSLATED0></col> channel	actions	menu	groupTab
 Leave <colNum0><!ANY_TRANSLATED0></col> channel	actions	menu	groupTab
 Teleport to <colNum0><!ANY_TRANSLATED0></col>	actions	menu	groupTab
+Add friend <!PLAYER_NAME0>	actions	menu	groupTab
+Add ignore <!PLAYER_NAME0>	actions	menu	groupTab
+Remove friend <!PLAYER_NAME0>	actions	menu	groupTab
+Remove ignore <!PLAYER_NAME0>	actions	menu	groupTab
+View Channel	actions	menu	groupTab
 Toggle skull prevention	actions	menu	settingsTab
 Toggle Accept Aid	actions	menu	settingsTab
 Toggle Run	actions	menu	settingsTab
