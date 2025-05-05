@@ -9,6 +9,7 @@ You last logged in <Num0> days, <Num1> hours ago.	interface	loginScreen
 You last logged in <Num0> days, <Num1> minutes ago.	interface	loginScreen	
 You last logged in <Num0> days, <Num1> hours, <Num2> minutes ago.	interface	loginScreen	
 You have <colNum0><Num0></col> days of membership left.	interface	loginScreen	
+You have <colNum0><Num0></col> day of membership left.	interface	loginScreen	
 You are not a member. Subscribe to access extra skills, areas, quests, and more.	interface	loginScreen	
 You have <Num0> unread messages in your inbox.	interface	loginScreen	
 CLICK HERE TO PLAY	interface	loginScreen	
