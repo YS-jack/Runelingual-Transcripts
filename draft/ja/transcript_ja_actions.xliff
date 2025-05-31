@@ -10919,6 +10919,60 @@ source: groupTab
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110131"><xliff:source>Learn More</xliff:source><xliff:target state="translated">詳細</xliff:target><xliff:note>category: actions
 sub_category: menu
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110132"><xliff:source>Dyes</xliff:source><xliff:target state="translated">染料</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Aggie
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=121</xliff:note></xliff:trans-unit><xliff:trans-unit id="110133"><xliff:source>Challenge</xliff:source><xliff:target state="translated">挑戦</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Yama
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=124</xliff:note></xliff:trans-unit><xliff:trans-unit id="110134"><xliff:source>Claim-log-rewards</xliff:source><xliff:target state="translated">ログの報酬を受け取る</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: The Collector
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=8491</xliff:note></xliff:trans-unit><xliff:trans-unit id="110135"><xliff:source>Metamorph</xliff:source><xliff:target state="translated">変形</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Bran
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12593</xliff:note></xliff:trans-unit><xliff:trans-unit id="110136"><xliff:source>Sacrifice</xliff:source><xliff:target state="translated">生贄</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Branda the Fire Queen
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14148</xliff:note></xliff:trans-unit><xliff:trans-unit id="110137"><xliff:source>Take pages</xliff:source><xliff:target state="translated">ページを取る</xliff:target><xliff:note>category: actions
+sub_category: npc
+source: Branda the Fire Queen
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14148</xliff:note></xliff:trans-unit><xliff:trans-unit id="110138"><xliff:source>Top-Floor</xliff:source><xliff:target state="translated">最上階</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Ladder
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4458</xliff:note></xliff:trans-unit><xliff:trans-unit id="110139"><xliff:source>Top-floor</xliff:source><xliff:target state="translated">最上階</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Staircase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4568</xliff:note></xliff:trans-unit><xliff:trans-unit id="110140"><xliff:source>Bottom-floor</xliff:source><xliff:target state="translated">最下階</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Staircase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=4570</xliff:note></xliff:trans-unit><xliff:trans-unit id="110141"><xliff:source>Weiss</xliff:source><xliff:target state="translated">ウェイス</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Boat
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=33182</xliff:note></xliff:trans-unit><xliff:trans-unit id="110142"><xliff:source>Fishing Guild</xliff:source><xliff:target state="translated">釣りギルド</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Fancy Jewellery Box
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37514</xliff:note></xliff:trans-unit><xliff:trans-unit id="110143"><xliff:source>Take manta ray</xliff:source><xliff:target state="translated">マンタを取る</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Bounty supply crate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37548</xliff:note></xliff:trans-unit><xliff:trans-unit id="110144"><xliff:source>Take anglerfish</xliff:source><xliff:target state="translated">ペリカンアンコウを取る</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Bounty supply crate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=37548</xliff:note></xliff:trans-unit><xliff:trans-unit id="110145"><xliff:source>Reinvigorate</xliff:source><xliff:target state="translated">活性化させる</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Book of Eternal Flame
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=55990</xliff:note></xliff:trans-unit><xliff:trans-unit id="110146"><xliff:source>Trophies</xliff:source><xliff:target state="translated">トロフィー</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Teak display
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56110</xliff:note></xliff:trans-unit><xliff:trans-unit id="110147"><xliff:source>Bottom-Floor</xliff:source><xliff:target state="translated">最下階</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Ladder
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56229</xliff:note></xliff:trans-unit><xliff:trans-unit id="110148"><xliff:source>Quench</xliff:source><xliff:target state="translated">急冷する</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Pool of ichor
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56367</xliff:note></xliff:trans-unit><xliff:trans-unit id="110149"><xliff:source>Hang-over</xliff:source><xliff:target state="translated">ぶら下げる</xliff:target><xliff:note>category: actions
+sub_category: object
+source: Platform edge
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Object+ID&amp;value=56371</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

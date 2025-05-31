@@ -1219,7 +1219,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109415">
         <xliff:source>Taverley</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">タベリー</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1227,7 +1227,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109416">
         <xliff:source>Pollnivneach</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ポルニヴネッチ</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1259,7 +1259,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109420">
         <xliff:source>Hosidius</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">ホシディアス</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -1707,7 +1707,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109476">
         <xliff:source>Slayer Tower</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">討伐の塔</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2099,7 +2099,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109525">
         <xliff:source>Hunter Guild</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">狩人ギルド</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -2323,7 +2323,7 @@ wiki_url: None</xliff:note>
       </xliff:trans-unit>
       <xliff:trans-unit id="109553">
         <xliff:source>Warrior's Guild</xliff:source>
-        <xliff:target></xliff:target>
+        <xliff:target state="translated">戦士ギルド</xliff:target>
         <xliff:note>category: manual
 sub_category: location
 source: None
@@ -10505,10 +10505,10 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110675"><xliff:source>Rimmington</xliff:source><xliff:target state="translated">リミングトン</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110676"><xliff:source>Taverley</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110676"><xliff:source>Taverley</xliff:source><xliff:target state="translated">タベリー</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110677"><xliff:source>Pollnivneach</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110677"><xliff:source>Pollnivneach</xliff:source><xliff:target state="translated">ポルニヴネッチ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110678"><xliff:source>Rellekka</xliff:source><xliff:target state="translated">レレカ</xliff:target><xliff:note>category: manual
@@ -10520,7 +10520,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110680"><xliff:source>Yanille</xliff:source><xliff:target state="translated">ヤニル</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110681"><xliff:source>Hosidius</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110681"><xliff:source>Hosidius</xliff:source><xliff:target state="translated">ホシディアス</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110682"><xliff:source>Prifddinas</xliff:source><xliff:target state="translated">プリフディナス</xliff:target><xliff:note>category: manual
@@ -10688,7 +10688,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110736"><xliff:source>Avium Savannah</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110737"><xliff:source>Slayer Tower</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110737"><xliff:source>Slayer Tower</xliff:source><xliff:target state="translated">討伐の塔</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110738"><xliff:source>Catacombs of Kourend</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10835,7 +10835,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110785"><xliff:source>Sunset Coast</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110786"><xliff:source>Hunter Guild</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110786"><xliff:source>Hunter Guild</xliff:source><xliff:target state="translated">狩人ギルド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110787"><xliff:source>Cam Torum Entrance</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
@@ -10919,7 +10919,7 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110813"><xliff:source>Ferox Enclave</xliff:source><xliff:target state="translated">フェロックス・オンクレーブ</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110814"><xliff:source>Warrior's Guild</xliff:source><xliff:target></xliff:target><xliff:note>category: manual
+wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110814"><xliff:source>Warrior's Guild</xliff:source><xliff:target state="translated">戦士ギルド</xliff:target><xliff:note>category: manual
 sub_category: location
 source: 
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="110815"><xliff:source>Champion's Guild </xliff:source><xliff:target></xliff:target><xliff:note>category: manual
