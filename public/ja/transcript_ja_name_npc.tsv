@@ -67,7 +67,7 @@ Red dragon	赤竜	name	npc	Red dragon
 Black dragon	黒竜	name	npc	Black dragon
 Green dragon	緑竜	name	npc	Green dragon
 Blue dragon	青竜	name	npc	Blue dragon
-Bronze dragon	銅の竜	name	npc	Bronze dragon
+Bronze dragon	青銅の竜	name	npc	Bronze dragon
 Iron dragon	鉄の竜	name	npc	Iron dragon
 Town Crier	町の触れ役	name	npc	Town Crier
 Gull	カモメ	name	npc	Gull
@@ -94,7 +94,7 @@ Ironman tutor	鉄人の指導者	name	npc	Ironman tutor
 Frog	カエル	name	npc	Frog
 Leagues Tutor	リーグの指導者	name	npc	Leagues Tutor
 Dark core	暗黒の核	name	npc	Dark core
-Corporeal Beast	コーポリアル獣	name	npc	Corporeal Beast
+Corporeal Beast	コーポリアル・ビースト	name	npc	Corporeal Beast
 Dark energy core	暗黒エネルギーの核	name	npc	Dark energy core
 Mime	マイム	name	npc	Mime
 Drunken Dwarf	酔ったドワーフ	name	npc	Drunken Dwarf
@@ -110,12 +110,12 @@ Balloon Animal	風船動物	name	npc	Balloon Animal
 Freaky Forester	不気味な森林官	name	npc	Freaky Forester
 Pheasant	キジ	name	npc	Pheasant
 Rick Turpentine	リック・ターペンタイン	name	npc	Rick Turpentine
-Phosani's Nightmare	フォサニの悪夢	name	npc	Phosani's Nightmare
+Phosani's Nightmare	フォサーニの悪夢	name	npc	Phosani's Nightmare
 The Nightmare	ザ・ナイトメア	name	npc	The Nightmare
 Quiz Master	クイズの達人	name	npc	Quiz Master
 Pillory Guard	さらし台の衛兵	name	npc	Pillory Guard
 Tramp	浮浪者	name	npc	Tramp
-Man	男	name	npc	Man
+Man	手動	name	npc	Man
 Avan	アバン	name	npc	Avan
 Dark Core	暗黒の核	name	npc	Dark Core
 Evil Bob	邪悪なボブ	name	npc	Evil Bob
@@ -272,7 +272,7 @@ Ethereal Guide	優美な案内人	name	npc	Ethereal Guide
 Ethereal Fluke	優美なフルーク	name	npc	Ethereal Fluke
 Ethereal Mimic	優美なミミック	name	npc	Ethereal Mimic
 Me	ワタシ	name	npc	Me
-Suqah	スーカア	name	npc	Suqah
+Suqah	スーカ	name	npc	Suqah
 Scarab Mage	スカラベの魔術師	name	npc	Scarab Mage
 Locust rider	バッタ・ライダー	name	npc	Locust rider
 Giant Scarab	巨大なスカラベ	name	npc	Giant Scarab
@@ -461,7 +461,7 @@ Bouncer	バウンサー	name	npc	Bouncer
 Khazard Ogre	カザードのオーガ	name	npc	Khazard Ogre
 Khazard Scorpion	カザードのサソリ	name	npc	Khazard Scorpion
 Arzinian Avatar of Strength	アージニアンの化身・腕力	name	npc	Arzinian Avatar of Strength
-Arzinian Avatar of Ranging	アージニアンの化身・弓	name	npc	Arzinian Avatar of Ranging
+Arzinian Avatar of Ranging	アージニアンの化身・遠射	name	npc	Arzinian Avatar of Ranging
 Arzinian Avatar of Magic	アージニアンの化身・魔法	name	npc	Arzinian Avatar of Magic
 Arzinian Being of Bordanzan	アージニアンの生命体・ボーダンザン	name	npc	Arzinian Being of Bordanzan
 Saboteur	サボトー	name	npc	Saboteur
@@ -515,7 +515,7 @@ Gyr Falcon	ギール・ファルコン	name	npc	Gyr Falcon
 Prickly kebbit	トゲトゲのケビット	name	npc	Prickly kebbit
 Sabre-toothed kebbit	剣歯ケビット	name	npc	Sabre-toothed kebbit
 Barb-tailed kebbit	とげ尾のケビット	name	npc	Barb-tailed kebbit
-Wild kebbit	野生のケビット	name	npc	Wild kebbit
+Wild kebbit	野生ケビット	name	npc	Wild kebbit
 Artimeus	アーチメウス	name	npc	Artimeus
 Seth Groats	セス・グローツ	name	npc	Seth Groats
 Tassie Slipcast	タシー・スリップカスト	name	npc	Tassie Slipcast
@@ -816,8 +816,8 @@ Chaos Elemental	混沌エレメンタル	name	npc	Chaos Elemental
 Chaos Elemental Jr.	混沌エレメンタル・Jr.	name	npc	Chaos Elemental Jr.
 Dodgy Squire	ドジな従者	name	npc	Dodgy Squire
 Oomlie bird	ウームリー鳥	name	npc	Oomlie bird
-Terrorbird	テラー鳥	name	npc	Terrorbird
-Mounted terrorbird gnome	テラー鳥に乗るノーム	name	npc	Mounted terrorbird gnome
+Terrorbird	テラーバード	name	npc	Terrorbird
+Mounted terrorbird gnome	テラーバード乗りのノーム	name	npc	Mounted terrorbird gnome
 Crow	カラス	name	npc	Crow
 Fire giant	火の巨人	name	npc	Fire giant
 Ice giant	氷の巨人	name	npc	Ice giant
@@ -862,7 +862,7 @@ Neil	ネイル	name	npc	Neil
 Edmond	エドモンド	name	npc	Edmond
 Simon	サイモン	name	npc	Simon
 Sam	サム	name	npc	Sam
-Commander Zilyana	ジリアナ司令官	name	npc	Commander Zilyana
+Commander Zilyana	ジリアーナ司令官	name	npc	Commander Zilyana
 Starlight	スターライト	name	npc	Starlight
 Growler	グロウラー	name	npc	Growler
 Bree	ブリー	name	npc	Bree
@@ -875,16 +875,16 @@ General Graardor	グラドー将軍	name	npc	General Graardor
 Sergeant Strongstack	ストロングスタック軍曹	name	npc	Sergeant Strongstack
 Sergeant Steelwill	スチールウィル軍曹	name	npc	Sergeant Steelwill
 Sergeant Grimspike	グリムスパイク軍曹	name	npc	Sergeant Grimspike
-Purple Pewter Director	ムラサキ・ピューターの監督	name	npc	Purple Pewter Director
-Blue Opal Director	アオ・オパールの監督	name	npc	Blue Opal Director
-Yellow Fortune Director	キ・フォーチュンの監督	name	npc	Yellow Fortune Director
-Green Gemstone Director	ミドリ・ジェムストーンの監督	name	npc	Green Gemstone Director
-White Chisel Director	シロ・チーゼルの監督	name	npc	White Chisel Director
-Silver Cog Director	ギン・コグの監督	name	npc	Silver Cog Director
-Brown Engine Director	チャ・エンジンの監督	name	npc	Brown Engine Director
-Red Axe Director	アカ・アックスの監督	name	npc	Red Axe Director
+Purple Pewter Director	パープル・ピューターの監督	name	npc	Purple Pewter Director
+Blue Opal Director	ブルー・オパールの監督	name	npc	Blue Opal Director
+Yellow Fortune Director	イエロー・フォーチュンの監督	name	npc	Yellow Fortune Director
+Green Gemstone Director	グリーン・ジェムストーンの監督	name	npc	Green Gemstone Director
+White Chisel Director	ホワイト・チーゼルの監督	name	npc	White Chisel Director
+Silver Cog Director	シルバー・コグの監督	name	npc	Silver Cog Director
+Brown Engine Director	ブラウン・エンジンの監督	name	npc	Brown Engine Director
+Red Axe Director	レッド・アックスの監督	name	npc	Red Axe Director
 Commander Veldaban	ベルダバン司令官	name	npc	Commander Veldaban
-Red Axe Cat	アカ・アックスのネコ	name	npc	Red Axe Cat
+Red Axe Cat	レッド・アックスのネコ	name	npc	Red Axe Cat
 Black Guard Berserker	黒い衛兵バーザーカー	name	npc	Black Guard Berserker
 Door-support	ドアの支え	name	npc	Door-support
 Door	ドア	name	npc	Door
@@ -969,7 +969,7 @@ Kjut	クジュツ	name	npc	Kjut
 Tombar	トンバー	name	npc	Tombar
 Odmar	オドマール	name	npc	Odmar
 Audmann	オドマン	name	npc	Audmann
-Red Axe Henchman	アカ・アックスの子分	name	npc	Red Axe Henchman
+Red Axe Henchman	レッド・アックスの子分	name	npc	Red Axe Henchman
 Colonel Grimsson	グリムソン大佐	name	npc	Colonel Grimsson
 Ogre shaman	オーガ・シャーマン	name	npc	Ogre shaman
 Grunsh	グランシュ	name	npc	Grunsh
@@ -978,7 +978,7 @@ Gnome companion	ノームの仲間	name	npc	Gnome companion
 Dwarven Boatman	ドワーフの船頭	name	npc	Dwarven Boatman
 Dwarven Miner	ドワーフの鉱夫	name	npc	Dwarven Miner
 Buinn	ブイン	name	npc	Buinn
-Animated Bronze Armour	動く銅の鎧	name	npc	Animated Bronze Armour
+Animated Bronze Armour	動く青銅の鎧	name	npc	Animated Bronze Armour
 Animated Iron Armour	動く鉄の鎧	name	npc	Animated Iron Armour
 Animated Steel Armour	動く鋼鉄の鎧	name	npc	Animated Steel Armour
 Animated Black Armour	動く黒鉄の鎧	name	npc	Animated Black Armour
@@ -1012,9 +1012,9 @@ Johanhus Ulsbrecht	ヨハンフス・ウルスブレヒト	name	npc	Johanhus Uls
 H.A.M. Guard	H.A.M.の衛兵	name	npc	H.A.M. Guard
 H.A.M. Deacon	H.A.M.の助祭	name	npc	H.A.M. Deacon
 H.A.M. Member	H.A.M.の会員	name	npc	H.A.M. Member
-Mounted terrorchick gnome	テラー鳥のひなに乗るノーム	name	npc	Mounted terrorchick gnome
+Mounted terrorchick gnome	テラーバードのひなに乗るノーム	name	npc	Mounted terrorchick gnome
 Captain Lamdoo	ラムドゥー機長	name	npc	Captain Lamdoo
-Terrorchick gnome	テラー鳥のノーム	name	npc	Terrorchick gnome
+Terrorchick gnome	テラーバードのノーム	name	npc	Terrorchick gnome
 Gianne jnr.	ギアンヌ・ジュニア	name	npc	Gianne jnr.
 Timble	チンブル	name	npc	Timble
 Tamble	タンブル	name	npc	Tamble
@@ -1265,7 +1265,7 @@ Yt-MejKot	イト・メジュコト	name	npc	Yt-MejKot
 Ket-Zek	ケト・ゼク	name	npc	Ket-Zek
 TzTok-Jad	ツズトク・ジャッド	name	npc	TzTok-Jad
 Yt-HurKot	イト・フーコト	name	npc	Yt-HurKot
-K'ril Tsutsaroth	クリル・ツツジーロス	name	npc	K'ril Tsutsaroth
+K'ril Tsutsaroth	クリル・ツツァロス	name	npc	K'ril Tsutsaroth
 Tstanon Karlak	ツツタノン・カラク	name	npc	Tstanon Karlak
 Zakl'n Gritch	ザクルン・グリチ	name	npc	Zakl'n Gritch
 Balfrug Kreeyath	バルフルグ・クリーヤス	name	npc	Balfrug Kreeyath
@@ -1277,7 +1277,7 @@ Gnome baller	ノーム・ボーラー	name	npc	Gnome baller
 Gnome winger	ノーム・ウィンガー	name	npc	Gnome winger
 Gnome ball referee	ノーム・ボールの審判	name	npc	Gnome ball referee
 Cheerleader	チアリーダー	name	npc	Cheerleader
-Kree'arra	クリーアーラ	name	npc	Kree'arra
+Kree'arra	クリアーラ	name	npc	Kree'arra
 Wingman Skree	ウィングマン・スクリー	name	npc	Wingman Skree
 Flockleader Geerin	フロックリーダー・ギーリン	name	npc	Flockleader Geerin
 Flight Kilisa	フライト・キリサ	name	npc	Flight Kilisa
@@ -1412,7 +1412,7 @@ Lucien	ルシエン	name	npc	Lucien
 Guardian of Armadyl	アーマディルの守護者	name	npc	Guardian of Armadyl
 Winelda	ウィンデラ	name	npc	Winelda
 Fire Warrior of Lesarkus	レサークスの火の戦士	name	npc	Fire Warrior of Lesarkus
-Shadow Hound	シャドー・ハウンド	name	npc	Shadow Hound
+Shadow Hound	シャドウ・ハウンド	name	npc	Shadow Hound
 Mysterious ghost	不可思議な幽霊	name	npc	Mysterious ghost
 Fareed	ファリード	name	npc	Fareed
 Kamil	カミル	name	npc	Kamil
@@ -1471,7 +1471,7 @@ Ali the Mayor	市長のアリ	name	npc	Ali the Mayor
 Ali the Hag	老婆のアリ	name	npc	Ali the Hag
 Ali the Snake Charmer	ヘビ使いのアリ	name	npc	Ali the Snake Charmer
 Ali the Camel	ラクダのアリ	name	npc	Ali the Camel
-Blackjack seller	棍棒の販売人	name	npc	Blackjack seller
+Blackjack seller	ブラックジャックの販売人	name	npc	Blackjack seller
 Menaphite Leader	メナファイトの長	name	npc	Menaphite Leader
 Ali the Operator	オペレーターのアリ	name	npc	Ali the Operator
 Menaphite Thug	メナファイトの凶漢	name	npc	Menaphite Thug
@@ -1557,7 +1557,7 @@ Valgerd	ヴァルゲルド	name	npc	Valgerd
 Broddi	ブロッディ	name	npc	Broddi
 Ragnvald	ラグンヴァルド	name	npc	Ragnvald
 Vampyre Juvinate	ジュビネート吸血鬼	name	npc	Vampyre Juvinate
-Vampyre Juvenile	少年の吸血鬼	name	npc	Vampyre Juvenile
+Vampyre Juvenile	ジュビナイルの吸血鬼	name	npc	Vampyre Juvenile
 Former Vampyre	元吸血鬼	name	npc	Former Vampyre
 Vyrewatch	吸血鬼監視隊	name	npc	Vyrewatch
 Vanstrom Klause	バンストロム・クロース	name	npc	Vanstrom Klause
@@ -1649,7 +1649,7 @@ Tormented Warrior	苦悩する戦士	name	npc	Tormented Warrior
 Fionella	フィオネラ	name	npc	Fionella
 Siegfried Erkle	シエグフライド・エークル	name	npc	Siegfried Erkle
 Nezikchened	ネジクチェンド	name	npc	Nezikchened
-Viyeldi	ヴィイェルディ	name	npc	Viyeldi
+Viyeldi	ヴィーエルディ	name	npc	Viyeldi
 San Tojalon	サン・トジャロン	name	npc	San Tojalon
 Irvig Senay	イーヴィグ・セネイ	name	npc	Irvig Senay
 Ranalph Devere	ラナルフ・デヴェー	name	npc	Ranalph Devere
@@ -1852,8 +1852,8 @@ Skeleton fremennik	スケルトンのフレメニック	name	npc	Skeleton fremen
 Ulfric	ウルフリック	name	npc	Ulfric
 Brine rat	塩水ネズミ	name	npc	Brine rat
 Chadwell	チャドウェル	name	npc	Chadwell
-Blessed spider	祝福されたクモ	name	npc	Blessed spider
-Blessed giant rat	祝福された巨大ネズミ	name	npc	Blessed giant rat
+Blessed spider	祝福のクモ	name	npc	Blessed spider
+Blessed giant rat	祝福の巨大ネズミ	name	npc	Blessed giant rat
 Niloof	ニルーフ	name	npc	Niloof
 Klank	クランク	name	npc	Klank
 Kamen	カメン	name	npc	Kamen
@@ -2138,7 +2138,7 @@ The Monkey's Uncle	サルの叔父	name	npc	The Monkey's Uncle
 The Monkey's Aunt	サルの叔母	name	npc	The Monkey's Aunt
 Monkey Guard	サルの衛兵	name	npc	Monkey Guard
 Monkey Archer	サルのアーチャー	name	npc	Monkey Archer
-Elder Guard	サルの長老	name	npc	Elder Guard
+Elder Guard	長老の衛兵	name	npc	Elder Guard
 Monkey Zombie	サルのゾンビ	name	npc	Monkey Zombie
 Bonzara	ボンザラ	name	npc	Bonzara
 Elf Warrior	エルフの戦士	name	npc	Elf Warrior
@@ -2227,7 +2227,7 @@ Sir Rebral	サー・レブラル	name	npc	Sir Rebral
 Toby	トビー	name	npc	Toby
 Twiggy O'Korn	ツイギー・オコーン	name	npc	Twiggy O'Korn
 Spotted kebbit	斑点ケビット	name	npc	Spotted kebbit
-Dark kebbit	暗い色のケビット	name	npc	Dark kebbit
+Dark kebbit	暗ケビット	name	npc	Dark kebbit
 Dashing kebbit	素早いケビット	name	npc	Dashing kebbit
 Enormous Tentacle	巨大な触手	name	npc	Enormous Tentacle
 Vet'ion Jr.	ヴェティオン・Jr.	name	npc	Vet'ion Jr.
@@ -2366,14 +2366,14 @@ Pet rock	ペットの石	name	npc	Pet rock
 Rewards Guardian	報酬の守護者	name	npc	Rewards Guardian
 Charmed Warrior	魅了された戦士	name	npc	Charmed Warrior
 Secretary	秘書	name	npc	Secretary
-Purple Pewter Secretary	ムラサキ・ピューターの秘書	name	npc	Purple Pewter Secretary
-Yellow Fortune Secretary	キ・フォーチュンの秘書	name	npc	Yellow Fortune Secretary
-Blue Opal Secretary	アオ・オパールの秘書	name	npc	Blue Opal Secretary
-Green Gemstone Secretary	ミドリ・ジェムストーンの秘書	name	npc	Green Gemstone Secretary
-White Chisel Secretary	シロ・チーゼルの秘書	name	npc	White Chisel Secretary
-Silver Cog Secretary	ギン・コグの秘書	name	npc	Silver Cog Secretary
-Brown Engine Secretary	チャ・エンジンの秘書	name	npc	Brown Engine Secretary
-Red Axe Secretary	アカ・アックスの秘書	name	npc	Red Axe Secretary
+Purple Pewter Secretary	パープル・ピューターの秘書	name	npc	Purple Pewter Secretary
+Yellow Fortune Secretary	イエロー・フォーチュンの秘書	name	npc	Yellow Fortune Secretary
+Blue Opal Secretary	ブルー・オパールの秘書	name	npc	Blue Opal Secretary
+Green Gemstone Secretary	グリーン・ジェムストーンの秘書	name	npc	Green Gemstone Secretary
+White Chisel Secretary	ホワイト・チーゼルの秘書	name	npc	White Chisel Secretary
+Silver Cog Secretary	シルバー・コグの秘書	name	npc	Silver Cog Secretary
+Brown Engine Secretary	ブラウン・エンジンの秘書	name	npc	Brown Engine Secretary
+Red Axe Secretary	レッド・アックスの秘書	name	npc	Red Axe Secretary
 Orlando Smith	オルランド・スミス	name	npc	Orlando Smith
 Natural historian	自然史家	name	npc	Natural historian
 Leech display	ヒルの展示	name	npc	Leech display
@@ -2383,7 +2383,7 @@ Monkey display	サルの展示	name	npc	Monkey display
 Lizard display	トカゲの展示	name	npc	Lizard display
 Penguin display	ペンギンの展示	name	npc	Penguin display
 Camel display	ラクダの展示	name	npc	Camel display
-Terrorbird display	テラー鳥の展示	name	npc	Terrorbird display
+Terrorbird display	テラーバードの展示	name	npc	Terrorbird display
 Dragon display	竜の展示	name	npc	Dragon display
 Wyvern display	ワイバーンの展示	name	npc	Wyvern display
 Battle tortoise display	戦闘ガメの展示	name	npc	Battle tortoise display
@@ -2394,7 +2394,7 @@ Trader	商人	name	npc	Trader
 Trade Referee	貿易審判	name	npc	Trade Referee
 Supreme Commander	最高司令官	name	npc	Supreme Commander
 Gnome traveller	ノームの旅人	name	npc	Gnome traveller
-Ranging Guild Doorman	弓ギルドの玄関係	name	npc	Ranging Guild Doorman
+Ranging Guild Doorman	遠射ギルドの玄関係	name	npc	Ranging Guild Doorman
 Leatherworker	革細工師	name	npc	Leatherworker
 Armour salesman	防具の営業マン	name	npc	Armour salesman
 Bow and Arrow salesman	弓矢の営業マン	name	npc	Bow and Arrow salesman
@@ -2525,10 +2525,10 @@ Energy sprite	エナジー・スプライト	name	npc	Energy sprite
 Dagannoth Supreme Jr.	ダガノス・スプリーム・Jr.	name	npc	Dagannoth Supreme Jr.
 Dagannoth Prime Jr.	ダガノス・プライム・Jr.	name	npc	Dagannoth Prime Jr.
 Dagannoth Rex Jr.	ダガノス・レックス・Jr.	name	npc	Dagannoth Rex Jr.
-Kree'arra Jr.	クリーアーラ・Jr.	name	npc	Kree'arra Jr.
+Kree'arra Jr.	クリアーラ・Jr.	name	npc	Kree'arra Jr.
 General Graardor Jr.	グラドー将軍・Jr.	name	npc	General Graardor Jr.
-Zilyana Jr.	ジリアナ・Jr.	name	npc	Zilyana Jr.
-K'ril Tsutsaroth Jr.	クリル・ツツジーロス・Jr.	name	npc	K'ril Tsutsaroth Jr.
+Zilyana Jr.	ジリアーナ・Jr.	name	npc	Zilyana Jr.
+K'ril Tsutsaroth Jr.	クリル・ツツァロス・Jr.	name	npc	K'ril Tsutsaroth Jr.
 Prince Black Dragon	黒竜王子	name	npc	Prince Black Dragon
 Kalphite Princess	姫カルファイト	name	npc	Kalphite Princess
 Smoke Devil	スモーク・デビル	name	npc	Smoke Devil
@@ -2802,9 +2802,9 @@ Vespine soldier	軍隊スズメバチ	name	npc	Vespine soldier
 Tekton	テクトン	name	npc	Tekton
 Tekton (enraged)	テクトン（怒）	name	npc	Tekton (enraged)
 Scavenger beast	スカベンジャー・ビースト	name	npc	Scavenger beast
-Great Olm (Right claw)	偉大なるオルㇺ（右足）	name	npc	Great Olm (Right claw)
-Great Olm	偉大なるオルㇺ	name	npc	Great Olm
-Great Olm (Left claw)	偉大なるオルㇺ（左足）	name	npc	Great Olm (Left claw)
+Great Olm (Right claw)	偉大なるオルム（右足）	name	npc	Great Olm (Right claw)
+Great Olm	偉大なるオルム	name	npc	Great Olm
+Great Olm (Left claw)	偉大なるオルム（左足）	name	npc	Great Olm (Left claw)
 Fire	火	name	npc	Fire
 Deathly ranger	死の射手	name	npc	Deathly ranger
 Deathly mage	死の魔術師	name	npc	Deathly mage
@@ -2979,7 +2979,7 @@ Arsen the Thief	盗人のアーセン	name	npc	Arsen the Thief
 The Mimic	ザ・ミミック	name	npc	The Mimic
 Yusuf	ユスフ	name	npc	Yusuf
 Francois	フランソワー	name	npc	Francois
-Madame Caldarium	マダム・カルダリウｍｍ	name	npc	Madame Caldarium
+Madame Caldarium	マダム・カルダリウム	name	npc	Madame Caldarium
 Haris	ハリス	name	npc	Haris
 Altarkiz	アルターキズ	name	npc	Altarkiz
 Lord Marshal Brogan	マーシャル・ブローガン様	name	npc	Lord Marshal Brogan
@@ -3047,7 +3047,7 @@ Flaygian Screwte	フレイギアン・スクリューテ	name	npc	Flaygian Screw
 Mekritus A'hara	メクリタス・アハラ	name	npc	Mekritus A'hara
 Andiess Juip	アンジエス・ジュイップ	name	npc	Andiess Juip
 Kael Forshaw	カエル・フォーシャウ	name	npc	Kael Forshaw
-Verzik Vitur	ヴェージック・ヴァーチャー	name	npc	Verzik Vitur
+Verzik Vitur	ヴァージック・ヴァーチャー	name	npc	Verzik Vitur
 Abomination	イマワシキモノ	name	npc	Abomination
 Nylocas Ischyros	ニロカス・イスキロス	name	npc	Nylocas Ischyros
 Nylocas Toxobolos	ニロカス・トクソボロス	name	npc	Nylocas Toxobolos
@@ -3068,7 +3068,7 @@ Lil' Zik	小っちゃなジック	name	npc	Lil' Zik
 Xarpus	ハープス	name	npc	Xarpus
 Nylocas Hagios	ニロカス・ハイゴス	name	npc	Nylocas Hagios
 Nylocas Vasilias	ニロカス・ヴァシリアス	name	npc	Nylocas Vasilias
-Pestilent Bloat	疫病の膨張	name	npc	Pestilent Bloat
+Pestilent Bloat	疫病のブロート	name	npc	Pestilent Bloat
 The Maiden of Sugadinti	スガジンチの乙女	name	npc	The Maiden of Sugadinti
 Nylocas Matomenos	ニロカス・マトメノス	name	npc	Nylocas Matomenos
 Blood spawn	血の腹子	name	npc	Blood spawn
@@ -3246,7 +3246,7 @@ Iban	アイバン	name	npc	Iban
 King Thoros	ソロス王	name	npc	King Thoros
 Ed	エッド	name	npc	Ed
 Bryn	ブリン	name	npc	Bryn
-Crystalline Hunllef	結晶ハンレフ	name	npc	Crystalline Hunllef
+Crystalline Hunllef	結晶体ハンレフ	name	npc	Crystalline Hunllef
 Crystalline Rat	結晶ネズミ	name	npc	Crystalline Rat
 Crystalline Spider	結晶グモ	name	npc	Crystalline Spider
 Crystalline Bat	結晶コウモリ	name	npc	Crystalline Bat
@@ -3441,7 +3441,7 @@ Knight of the Unicorn	ユニコーンの騎士	name	npc	Knight of the Unicorn
 Knight of the Wolf	オオカミの騎士	name	npc	Knight of the Wolf
 Knight of the Lion	ライオンの騎士	name	npc	Knight of the Lion
 Archpriest of the Unicorn	ユニコーンの大司祭	name	npc	Archpriest of the Unicorn
-Darkmeyer Slave	ダーク・メヤーの奴隷	name	npc	Darkmeyer Slave
+Darkmeyer Slave	ダークメヤーの奴隷	name	npc	Darkmeyer Slave
 mad melvin96	mad melvin96	name	npc	mad melvin96
 r2t2pnsh0Ty	r2t2pnsh0Ty	name	npc	r2t2pnsh0Ty
 Jyn	Jyn	name	npc	Jyn
@@ -3600,7 +3600,7 @@ Raqueel	ラキール	name	npc	Raqueel
 Gem	ジェム	name	npc	Gem
 Gardener Jay Jr.	庭師のジェイ・Jr.	name	npc	Gardener Jay Jr.
 Lil' Maiden	小っちゃな乙女	name	npc	Lil' Maiden
-Lil' Bloat	小っちゃな膨張	name	npc	Lil' Bloat
+Lil' Bloat	小っちゃなブロート	name	npc	Lil' Bloat
 Lil' Nylo	小っちゃなニロ	name	npc	Lil' Nylo
 Lil' Sot	小っちゃなソット	name	npc	Lil' Sot
 Lil' Xarp	小っちゃなハープ	name	npc	Lil' Xarp
@@ -3775,7 +3775,7 @@ Arcane Scarab	神秘のスカラベ	name	npc	Arcane Scarab
 Agile Scarab	俊敏なスカラベ	name	npc	Agile Scarab
 Zebak's Tail	ゼバックの尻尾	name	npc	Zebak's Tail
 Jug	水差し	name	npc	Jug
-Wave	波	name	npc	Wave
+Wave	ウェーブ	name	npc	Wave
 Bloody Wave	血の波	name	npc	Bloody Wave
 Blood Cloud	血の雲	name	npc	Blood Cloud
 Elidinis' Warden	エリディニスの監視者	name	npc	Elidinis' Warden
@@ -3928,7 +3928,7 @@ Scarred imp	負傷した小悪魔	name	npc	Scarred imp
 Catalytic Guardian	触媒の守護者	name	npc	Catalytic Guardian
 Scarred black demon	負傷した黒悪魔	name	npc	Scarred black demon
 Giant goblin	巨大なゴブリン	name	npc	Giant goblin
-Mutated Terrorbird	変異テラー鳥	name	npc	Mutated Terrorbird
+Mutated Terrorbird	変異テラーバード	name	npc	Mutated Terrorbird
 Mutated Tortoise	変異カメ	name	npc	Mutated Tortoise
 Longramble	ロングランブル	name	npc	Longramble
 Yewnock the Engineer	技術者のユーノック	name	npc	Yewnock the Engineer
@@ -3936,12 +3936,12 @@ King Bolrie	ボルリー王	name	npc	King Bolrie
 Bolrie	ボルリー	name	npc	Bolrie
 Advisor	顧問	name	npc	Advisor
 Argenthorg	アーゲンソーグ	name	npc	Argenthorg
-Terrorbird Guard 21	テラー鳥の警備兵21	name	npc	Terrorbird Guard 21
-Terrorbird Guard 72	テラー鳥の警備兵72	name	npc	Terrorbird Guard 72
+Terrorbird Guard 21	テラーバードの警備兵21	name	npc	Terrorbird Guard 21
+Terrorbird Guard 72	テラーバードの警備兵72	name	npc	Terrorbird Guard 72
 Big Monolith	大きなモノリス	name	npc	Big Monolith
 Small Monolith	小さなモノリス	name	npc	Small Monolith
 Warped Tortoise	歪んだカメ	name	npc	Warped Tortoise
-Warped Terrorbird	歪んだテラー鳥	name	npc	Warped Terrorbird
+Warped Terrorbird	歪んだテラーバード	name	npc	Warped Terrorbird
 Hagus	ハグス	name	npc	Hagus
 Spidey dog	クモイヌ	name	npc	Spidey dog
 Unfinished Beehive	未完成なハチの巣	name	npc	Unfinished Beehive
@@ -4084,7 +4084,7 @@ Buffalo	バッファロー	name	npc	Buffalo
 Oryx	オリックス	name	npc	Oryx
 Blood Moon	ブラッド・ムーン	name	npc	Blood Moon
 Eclipse Moon	エクリプス・ムーン	name	npc	Eclipse Moon
-Blue Moon	ブルー・ムーン	name	npc	Blue Moon
+Blue Moon	ブルームーン	name	npc	Blue Moon
 Moon Shield	月の盾	name	npc	Moon Shield
 Blood jaguar	ブラッド・ジャガー	name	npc	Blood jaguar
 Frozen weapons	凍った武器	name	npc	Frozen weapons
@@ -4120,7 +4120,7 @@ Sunlight antelope	日光アンテロープ	name	npc	Sunlight antelope
 Soar Leader Pitri	ソアー・リーダー・ピトリ	name	npc	Soar Leader Pitri
 Orsaga	オーサガ	name	npc	Orsaga
 Orsaga's chinchompa	オーサガのチンチョンパ	name	npc	Orsaga's chinchompa
-Pyre fox	パイヤー・フォックス	name	npc	Pyre fox
+Pyre fox	炎ギツネ	name	npc	Pyre fox
 Embertailed jerboa	火尾トビネズミ	name	npc	Embertailed jerboa
 Metla	メトラ	name	npc	Metla
 Avinia	アヴィニア	name	npc	Avinia
@@ -4172,7 +4172,7 @@ Frog Prin	カエルのプリン	name	npc	Frog Prin
 Frog Prince	カエルの王子	name	npc	Frog Prince
 Frog Princess	カエルの姫	name	npc	Frog Princess
 Enraged Blood Moon	激怒したブラッド・ムーン	name	npc	Enraged Blood Moon
-Enraged Blue Moon	激怒したブルー・ムーン	name	npc	Enraged Blue Moon
+Enraged Blue Moon	激怒したブルームーン	name	npc	Enraged Blue Moon
 Enraged Eclipse Moon	激怒したエクリプス・ムーン	name	npc	Enraged Eclipse Moon
 Hazelmere's hat	ヘイゼルミアの帽子	name	npc	Hazelmere's hat
 Undead Hero	アンデッドのヒーロー	name	npc	Undead Hero
@@ -4220,117 +4220,153 @@ Zembo	ゼンボ	name	npc	Zembo
 Durial321	Durial321	name	npc	Durial321
 Magic Mark	Magic Mark	name	npc	Magic Mark
 Ranging Ro	Ranging Ro	name	npc	Ranging Ro
-Araxyte		name	npc	Araxyte
-Curator Herminius		name	npc	Curator Herminius
-Araxxor		name	npc	Araxxor
-Mirrorback Araxyte		name	npc	Mirrorback Araxyte
-Ruptura Araxyte		name	npc	Ruptura Araxyte
-Acidic Araxyte		name	npc	Acidic Araxyte
-Weave	で編む	name	npc	Weave
-Arancini		name	npc	Arancini
-Dreadborn Araxyte		name	npc	Dreadborn Araxyte
+Araxyte	アラキサイト	name	npc	Araxyte
+Curator Herminius	館長ハーミニウス	name	npc	Curator Herminius
+Araxxor	アラクソー	name	npc	Araxxor
+Mirrorback Araxyte	ミラーバック・アラキサイト	name	npc	Mirrorback Araxyte
+Ruptura Araxyte	ルプツラ・アラキサイト	name	npc	Ruptura Araxyte
+Acidic Araxyte	酸性アラキサイト	name	npc	Acidic Araxyte
+Weave	織物	name	npc	Weave
+Arancini	アランシニ	name	npc	Arancini
+Dreadborn Araxyte	ドレッドボーン・アラキサイト	name	npc	Dreadborn Araxyte
 Nid	ニッド	name	npc	Nid
 Rax	ラックス	name	npc	Rax
-Amoxliatl		name	npc	Amoxliatl
-Unstable ice		name	npc	Unstable ice
-Felius		name	npc	Felius
-Caritta		name	npc	Caritta
-Sergius		name	npc	Sergius
-Nova		name	npc	Nova
-Emissary Ascended		name	npc	Emissary Ascended
-Forebearer Janus		name	npc	Forebearer Janus
-Forebearer Fides		name	npc	Forebearer Fides
-Augur Metzli		name	npc	Augur Metzli
-Emissary Acolyte		name	npc	Emissary Acolyte
-Forebearer Vulcan		name	npc	Forebearer Vulcan
-Frost Nagua		name	npc	Frost Nagua
-Forebearer Honos		name	npc	Forebearer Honos
-Emissary Chosen		name	npc	Emissary Chosen
-Emissary Forebearer		name	npc	Emissary Forebearer
-Emissary Chef		name	npc	Emissary Chef
-Emissary Fisher		name	npc	Emissary Fisher
-Emissary Herder		name	npc	Emissary Herder
-Emissary Brawler		name	npc	Emissary Brawler
-Emissary Conjurer		name	npc	Emissary Conjurer
-Emissary		name	npc	Emissary
-Tenoch		name	npc	Tenoch
-Silia		name	npc	Silia
-Adrius		name	npc	Adrius
-Eleuia		name	npc	Eleuia
-Frost Crab		name	npc	Frost Crab
-Brew'ma		name	npc	Brew'ma
-Marika		name	npc	Marika
-Chilled jelly		name	npc	Chilled jelly
-Emelio		name	npc	Emelio
-Lelia		name	npc	Lelia
-Alba		name	npc	Alba
-Lucas		name	npc	Lucas
-Renata		name	npc	Renata
-Vincens		name	npc	Vincens
-Colosseum Announcer		name	npc	Colosseum Announcer
-Dire Wolf Alpha		name	npc	Dire Wolf Alpha
-Patzi		name	npc	Patzi
-Adala		name	npc	Adala
-Constantinius		name	npc	Constantinius
-Cozyac		name	npc	Cozyac
-Xocotla		name	npc	Xocotla
-Pavo		name	npc	Pavo
-Head Butler		name	npc	Head Butler
-Stradius		name	npc	Stradius
-Hutza		name	npc	Hutza
-Costumer		name	npc	Costumer
-Naiatli		name	npc	Naiatli
-Clodius		name	npc	Clodius
-Wandering Guard		name	npc	Wandering Guard
-Smart-looking dog		name	npc	Smart-looking dog
-Villa Guard		name	npc	Villa Guard
-Livius		name	npc	Livius
-Vineyard worker		name	npc	Vineyard worker
-Vineyard foreman		name	npc	Vineyard foreman
-Well-dressed man		name	npc	Well-dressed man
-Cabbage Farmer		name	npc	Cabbage Farmer
-Nasty Nick		name	npc	Nasty Nick
-Faustus		name	npc	Faustus
-Toci		name	npc	Toci
-Antonius		name	npc	Antonius
-Supervisor Lalo		name	npc	Supervisor Lalo
-Meztlan		name	npc	Meztlan
-Clanila		name	npc	Clanila
-Tzatelli		name	npc	Tzatelli
-Juatil		name	npc	Juatil
-Alaxxi		name	npc	Alaxxi
-Kali		name	npc	Kali
-Ichta		name	npc	Ichta
-Necto		name	npc	Necto
-Overseer Khougo		name	npc	Overseer Khougo
-Techichi		name	npc	Techichi
-Chiribaya		name	npc	Chiribaya
-Locke McScruff		name	npc	Locke McScruff
-Woofson		name	npc	Woofson
-Porcupine		name	npc	Porcupine
-Salius		name	npc	Salius
-Salvager		name	npc	Salvager
-Chosen Aluinus		name	npc	Chosen Aluinus
-Hugh		name	npc	Hugh
-Izel		name	npc	Izel
-Worm Tongue		name	npc	Worm Tongue
-Construction Worker		name	npc	Construction Worker
-Antonia		name	npc	Antonia
-Taala		name	npc	Taala
-Chef		name	npc	Chef
-Marla		name	npc	Marla
-Viero		name	npc	Viero
-Manauia		name	npc	Manauia
-The Hueycoatl		name	npc	The Hueycoatl
-Hueycoatl tail		name	npc	Hueycoatl tail
-Hueycoatl tail (broken)		name	npc	Hueycoatl tail (broken)
-Hueycoatl body		name	npc	Hueycoatl body
-Pilgrim		name	npc	Pilgrim
-Ezco, Teoki of Ranul		name	npc	Ezco, Teoki of Ranul
-Yolotli, Teoki of Ralos		name	npc	Yolotli, Teoki of Ralos
-Lucrezia		name	npc	Lucrezia
-Ercos		name	npc	Ercos
-Bone Squirrel		name	npc	Bone Squirrel
+Amoxliatl	エモックスリアトル	name	npc	Amoxliatl
+Unstable ice	不安定な氷	name	npc	Unstable ice
+Felius	フェリウス	name	npc	Felius
+Caritta	カリッタ	name	npc	Caritta
+Sergius	セーギウス	name	npc	Sergius
+Nova	ノヴァ	name	npc	Nova
+Emissary Ascended	昇格した天使	name	npc	Emissary Ascended
+Forebearer Janus	祖先ヤマネコ	name	npc	Forebearer Janus
+Forebearer Fides	祖先ヒーデス	name	npc	Forebearer Fides
+Augur Metzli	オーグー・メッジリ	name	npc	Augur Metzli
+Emissary Acolyte	侍祭の使者	name	npc	Emissary Acolyte
+Forebearer Vulcan	祖先バルカン	name	npc	Forebearer Vulcan
+Frost Nagua	フロスト・ナーガ	name	npc	Frost Nagua
+Forebearer Honos	祖先ホノス	name	npc	Forebearer Honos
+Emissary Chosen	選ばれし使者	name	npc	Emissary Chosen
+Emissary Forebearer	使者の祖先	name	npc	Emissary Forebearer
+Emissary Chef	使者のシェフ	name	npc	Emissary Chef
+Emissary Fisher	使者の釣り師	name	npc	Emissary Fisher
+Emissary Herder	使者羊飼い	name	npc	Emissary Herder
+Emissary Brawler	使者の暴れ者	name	npc	Emissary Brawler
+Emissary Conjurer	使者の魔法使い	name	npc	Emissary Conjurer
+Emissary	使者	name	npc	Emissary
+Tenoch	テノック	name	npc	Tenoch
+Silia	シリア	name	npc	Silia
+Adrius	アドリウス	name	npc	Adrius
+Eleuia	エルイア	name	npc	Eleuia
+Frost Crab	氷のカニ	name	npc	Frost Crab
+Brew'ma	ブリューマ	name	npc	Brew'ma
+Marika	マリカ	name	npc	Marika
+Chilled jelly	冷えたゼリー	name	npc	Chilled jelly
+Emelio	エメリオ	name	npc	Emelio
+Lelia	レリア	name	npc	Lelia
+Alba	アルバ	name	npc	Alba
+Lucas	ルーカス	name	npc	Lucas
+Renata	レナタ	name	npc	Renata
+Vincens	ヴィンセンス	name	npc	Vincens
+Colosseum Announcer	闘技場のアナウンサー	name	npc	Colosseum Announcer
+Dire Wolf Alpha	ダイアウルフ・アルファ	name	npc	Dire Wolf Alpha
+Patzi	パッチ	name	npc	Patzi
+Adala	アダラ	name	npc	Adala
+Constantinius	コンスタンティニウス	name	npc	Constantinius
+Cozyac	コジアック	name	npc	Cozyac
+Xocotla	ホコトラ	name	npc	Xocotla
+Pavo	パヴォ	name	npc	Pavo
+Head Butler	執事長	name	npc	Head Butler
+Stradius	ストラジウス	name	npc	Stradius
+Hutza	フッザ	name	npc	Hutza
+Costumer	コスチューマー	name	npc	Costumer
+Naiatli	ナイアトリ	name	npc	Naiatli
+Clodius	クロジウス	name	npc	Clodius
+Wandering Guard	さまよう衛兵	name	npc	Wandering Guard
+Smart-looking dog	賢そうな犬	name	npc	Smart-looking dog
+Villa Guard	別荘の警備員	name	npc	Villa Guard
+Livius	リヴィウス	name	npc	Livius
+Vineyard worker	ブドウ園の労働者	name	npc	Vineyard worker
+Vineyard foreman	ブドウ園の現場監督	name	npc	Vineyard foreman
+Well-dressed man	よい身なりの人	name	npc	Well-dressed man
+Cabbage Farmer	キャベツ農民	name	npc	Cabbage Farmer
+Nasty Nick	ナースティー・ニック	name	npc	Nasty Nick
+Faustus	ファウスト	name	npc	Faustus
+Toci	トキー	name	npc	Toci
+Antonius	アントニウス	name	npc	Antonius
+Supervisor Lalo	監視者ラロ	name	npc	Supervisor Lalo
+Meztlan	メジトラン	name	npc	Meztlan
+Clanila	クラニラ	name	npc	Clanila
+Tzatelli	ツァテリ	name	npc	Tzatelli
+Juatil	ジアチル	name	npc	Juatil
+Alaxxi	アラクシ	name	npc	Alaxxi
+Kali	カリ	name	npc	Kali
+Ichta	イチタ	name	npc	Ichta
+Necto	ネクト	name	npc	Necto
+Overseer Khougo	監視者コウゴ	name	npc	Overseer Khougo
+Techichi	テチチ	name	npc	Techichi
+Chiribaya	チリバヤ	name	npc	Chiribaya
+Locke McScruff	ロケ・マックスクラフ	name	npc	Locke McScruff
+Woofson	ウーフソン	name	npc	Woofson
+Porcupine	ヤマアラシ	name	npc	Porcupine
+Salius	サリウス	name	npc	Salius
+Salvager	サルヴァジャー	name	npc	Salvager
+Chosen Aluinus	選ばれたアルイヌス	name	npc	Chosen Aluinus
+Hugh	ヒュー	name	npc	Hugh
+Izel	イゼル	name	npc	Izel
+Worm Tongue	ワーム・タング	name	npc	Worm Tongue
+Construction Worker	建設作業員	name	npc	Construction Worker
+Antonia	アントニア	name	npc	Antonia
+Taala	ターラ	name	npc	Taala
+Chef	シェフ	name	npc	Chef
+Marla	マーラ	name	npc	Marla
+Viero	ヴィエロ	name	npc	Viero
+Manauia	マナウイア	name	npc	Manauia
+The Hueycoatl	ザ・フエコアトル	name	npc	The Hueycoatl
+Hueycoatl tail	フエコアトルの尾	name	npc	Hueycoatl tail
+Hueycoatl tail (broken)	フエコアトルの尾（壊）	name	npc	Hueycoatl tail (broken)
+Hueycoatl body	フエコアトルの胴体	name	npc	Hueycoatl body
+Pilgrim	巡礼者	name	npc	Pilgrim
+Ezco, Teoki of Ranul	エズコ、ラヌルのテオキ	name	npc	Ezco, Teoki of Ranul
+Yolotli, Teoki of Ralos	ヨロトリ、ラロスのテオキ	name	npc	Yolotli, Teoki of Ralos
+Lucrezia	ルクレジア	name	npc	Lucrezia
+Ercos	エーコス	name	npc	Ercos
+Bone Squirrel	骨のリス	name	npc	Bone Squirrel
 Huberte	フベルテ	name	npc	Huberte
 Moxi	モキシー	name	npc	Moxi
-Ghost Cat		name	npc	Ghost Cat
+Ghost Cat	ネコのお化け	name	npc	Ghost Cat
+Shepherd Dog	牧羊犬	name	npc	Shepherd Dog
+Corgi	コーギー	name	npc	Corgi
+Yorkie	ヨーキー	name	npc	Yorkie
+Golem guard	ゴーレムの衛兵	name	npc	Golem guard
+Small scarab	小さいスカラベ	name	npc	Small scarab
+Jonny the Beard	髭のジョニー	name	npc	Jonny the Beard
+League Navigator	リーグの案内人	name	npc	League Navigator
+Unidentified dog	未確認の犬	name	npc	Unidentified dog
+Unidentified festive dog	未確認の祝祭の犬	name	npc	Unidentified festive dog
+Sadie	サディー	name	npc	Sadie
+Sir Burrus	サー・ブルス	name	npc	Sir Burrus
+Archibald	アーチバルド	name	npc	Archibald
+Kimba	キンバ	name	npc	Kimba
+Unidentified festive object	未確認の祝祭のオブジェ	name	npc	Unidentified festive object
+Barrows	バロウズ	name	npc	
+Chambers of Xeric	ゼリックの部屋	name	npc	
+Chambers of Xeric: Challenge Mode	ゼリックの部屋：チャレンジモード	name	npc	
+Fortis Colosseum	フォーティス闘技場	name	npc	
+Grotesque Guardians	グロテスク・ガーディアン	name	npc	
+Moons of Peril	危険の月	name	npc	
+Phosanis Nightmare	フォサーニの悪夢	name	npc	
+The Royal Titans	高貴な巨人	name	npc	
+Theatre of Blood: Entry Mode	血の劇場：初心者モード	name	npc	
+Theatre of Blood	血の劇場	name	npc	
+Theatre of Blood: Hard Mode	血の劇場：ハードモード	name	npc	
+Tombs of Amascut: Entry Mode	アマスカットの墓：初心者モード	name	npc	
+Tombs of Amascut	アマスカットの墓	name	npc	
+Tombs of Amascut: Expert Mode	アマスカットの墓：専門家モード	name	npc	
+TzHaar-Ket-Rak's Challenges	ツザー・ケット・ラクの挑戦	name	npc	
+Wintertodt	ウィンタートッド	name	npc	
+None	なし	name	npc	
+Royal Titans	高貴な巨人	name	npc	
+Other	その他	name	npc	
+Mimic	ザ・ミミック	name	npc	
+Thermy	熱核悪魔	name	npc	
+Chambers of Xeric: CM	ゼリックの部屋：チャレンジモード	name	npc	
