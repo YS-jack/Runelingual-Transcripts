@@ -8749,13 +8749,13 @@ Looks dark in there.		examine	object	Cave
 Just a normal cave wall.		examine	object	Wall
 Various notes have been placed on here.		examine	object	Noticeboard
 Danger, one way only...once you enter there's no going back!		examine	object	Signpost
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
+"From the crevice you can hear a faint whisper. It sounds like ""Vet'Ion""."		examine	object	Crevice
+"It reads ""Calvar'Ion's resting place""."		examine	object	Memorial
+"Bones and webs are laid out to shape the word ""Venenatis""."		examine	object	Cave Entrance
+"The webs sticking to the entrance weirdly form a word: ""Spindel""."		examine	object	Cave Entrance
 Dead, but not bearied.		examine	object	Dead Explorer
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
+"Blood stains on the wall make out the word ""Callisto""."		examine	object	Cave Entrance
+"Carved into the cave wall is the word ""Artio""."		examine	object	Cave Entrance
 A dark and dangerous looking cave.		examine	object	Cave
 Some balloons in celebration to the 10th year of OSRS.		examine	object	Birthday Balloons
 A group of plushies, chilling.		examine	object	Birthday plushies
@@ -9823,113 +9823,3 @@ A bin for storing pumpkins.		examine	object	Storage bin
 For carving pumpkins.		examine	object	Pumpkin carving table
 That's a lot of mess you just made.		examine	object	Pumpkin carving table
 It's missing something to be quite scary enough.		examine	object	Scarecrow
-An entrance, but to where?		examine	object	Entry
-A mural consisting of ancient drawings and hieroglyphs.		examine	object	Mural
-Some very solid doors.		examine	object	Doors
-Some massive, reinforced metal doors.		examine	object	Metal doors
-Did I really crawl through that?		examine	object	Pipe
-So that's what's producing all the energy down here.		examine	object	Caged Killerwatt
-A basket packed with hearty vegetables.		examine	object	Food pot
-Someone ate all the vegetables!		examine	object	Empty pot
-Ready to be filled with beans.		examine	object	Empty pot
-Where did the local grain go?		examine	object	Empty pot
-The contents have been used for cooking.		examine	object	Empty basket
-Here is recorded for posterity all the times I robbed this place.		examine	object	Mural
-They lead deeper into the mastaba.		examine	object	Stairs
-They lead back to the upper level of the mastaba.		examine	object	Stairs
-The statue of Het is holding out an Echo pickaxe.		examine	object	Statue
-The statue of Het is holding out a trailblazer reloaded pickaxe.		examine	object	Statue
-Wait, isn't it my echo pickaxe?		examine	object	Cavity
-Wait, isn't it my trailblazer reloaded pickaxe?		examine	object	Cavity
-A limestone pedestal with a bronze trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A limestone pedestal with an iron trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A limestone pedestal with a steel trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A limestone pedestal with a mithril trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A limestone pedestal with an adamant trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A limestone pedestal with a rune trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A limestone pedestal with a dragon trophy from the Raging Echoes League.		examine	object	Trophy pedestal
-A marble pedestal with a bronze trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A marble pedestal with an iron trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A marble pedestal with a steel trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A marble pedestal with a mithril trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A marble pedestal with an adamant trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A marble pedestal with a rune trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A marble pedestal with a dragon trophy from the Raging Echoes League.		examine	object	Ornate trophy pedestal
-A stand displaying a banner from Leagues V - Raging Echoes.		examine	object	Banner stand
-An ornate stand displaying a banner from Leagues V - Raging Echoes.		examine	object	Ornate banner stand
-An oak outfit stand displaying a set of Raging Echo Relic Hunter (T1)		examine	object	Oak outfit stand
-An oak outfit stand displaying a set of Raging Echo Relic Hunter (T2)		examine	object	Oak outfit stand
-An oak outfit stand displaying a set of Raging Echo Relic Hunter (T3)		examine	object	Oak outfit stand
-A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T1)		examine	object	Mahogany outfit stand
-A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T2)		examine	object	Mahogany outfit stand
-A mahogany outfit stand displaying a set of Raging Echo Relic Hunter (T3)		examine	object	Mahogany outfit stand
-A rug adorned with the icon of Raging Echoes.		examine	object	Rug
-A fearsome yet stylish souvenir from Leagues V: Raging Echoes.		examine	object	Rug
-It harnesses the power of Raging Echoes.		examine	object	Scrying pool
-Lightning and brimstone.		examine	object	Echoing flames
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
-From the crevice you can hear a faint whisper. It sounds like "Vet'Ion".		examine	object	Crevice
-It reads "Calvar'Ion's resting place".		examine	object	Memorial
-Bones and webs are laid out to shape the word "Venenatis".		examine	object	Cave Entrance
-The webs sticking to the entrance weirdly form a word: "Spindel".		examine	object	Cave Entrance
-Blood stains on the wall make out the word "Callisto".		examine	object	Cave Entrance
-Carved into the cave wall is the word "Artio".		examine	object	Cave Entrance
