@@ -23067,7 +23067,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="13066">
         <xliff:source>Ancestral Glyph</xliff:source>
-        <xliff:target state="translated">先祖のグリフ</xliff:target>
+        <xliff:target state="translated">先祖の象形文字</xliff:target>
         <xliff:note>category: name
 sub_category: npc
 source: Ancestral Glyph
@@ -33989,42 +33989,6 @@ source:
 wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="14553"><xliff:source>Chambers of Xeric: CM</xliff:source><xliff:target state="translated">ゼリックの部屋：チャレンジモード</xliff:target><xliff:note>category: name
 sub_category: npc
 source: 
-wiki_url: None</xliff:note></xliff:trans-unit><xliff:trans-unit id="14554"><xliff:source>Yama</xliff:source><xliff:target state="translated">ヤマ</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Yama
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=124</xliff:note></xliff:trans-unit><xliff:trans-unit id="14555"><xliff:source>Bran</xliff:source><xliff:target state="translated">ブラン</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Bran
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=10476</xliff:note></xliff:trans-unit><xliff:trans-unit id="14556"><xliff:source>Ric</xliff:source><xliff:target state="translated">リック</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Ric
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12592</xliff:note></xliff:trans-unit><xliff:trans-unit id="14557"><xliff:source>Branda the Fire Queen</xliff:source><xliff:target state="translated">火の女王・ブランダ</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Branda the Fire Queen
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=12596</xliff:note></xliff:trans-unit><xliff:trans-unit id="14558"><xliff:source>Eldric the Ice King</xliff:source><xliff:target state="translated">氷の王・エルドリック</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Eldric the Ice King
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14147</xliff:note></xliff:trans-unit><xliff:trans-unit id="14559"><xliff:source>Ice elemental</xliff:source><xliff:target state="translated">氷エレメンタル</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Ice elemental
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14151</xliff:note></xliff:trans-unit><xliff:trans-unit id="14560"><xliff:source>Icicles</xliff:source><xliff:target state="translated">氷柱</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Icicles
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14153</xliff:note></xliff:trans-unit><xliff:trans-unit id="14561"><xliff:source>Yama's throne</xliff:source><xliff:target state="translated">ヤマの王座</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Yama's throne
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14157</xliff:note></xliff:trans-unit><xliff:trans-unit id="14562"><xliff:source>Void Flare</xliff:source><xliff:target state="translated">虚無の閃光</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Void Flare
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14179</xliff:note></xliff:trans-unit><xliff:trans-unit id="14563"><xliff:source>Lieutenant</xliff:source><xliff:target state="translated">中尉</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Lieutenant
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14195</xliff:note></xliff:trans-unit><xliff:trans-unit id="14564"><xliff:source>Jim</xliff:source><xliff:target state="translated">ジム</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Jim
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14201</xliff:note></xliff:trans-unit><xliff:trans-unit id="14565"><xliff:source>Yami</xliff:source><xliff:target state="translated">ヤミ</xliff:target><xliff:note>category: name
-sub_category: npc
-source: Yami
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=NPC+ID&amp;value=14203</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: None</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

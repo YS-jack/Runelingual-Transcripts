@@ -1603,21 +1603,3 @@ Remove friend <!PLAYER_NAME0>	<!PLAYER_NAME0>をフレンド解除	actions	menu	
 Remove ignore <!PLAYER_NAME0>	<!PLAYER_NAME0>を無視リストから除名	actions	menu	groupTab
 View Channel	チャンネルを見る	actions	menu	groupTab
 Learn More	詳細	actions	menu	
-Dyes	染料	actions	npc	Aggie
-Challenge	挑戦	actions	npc	Yama
-Claim-log-rewards	ログの報酬を受け取る	actions	npc	The Collector
-Metamorph	変形	actions	npc	Bran
-Sacrifice	生贄	actions	npc	Branda the Fire Queen
-Take pages	ページを取る	actions	npc	Branda the Fire Queen
-Top-Floor	最上階	actions	object	Ladder
-Top-floor	最上階	actions	object	Staircase
-Bottom-floor	最下階	actions	object	Staircase
-Weiss	ウェイス	actions	object	Boat
-Fishing Guild	釣りギルド	actions	object	Fancy Jewellery Box
-Take manta ray	マンタを取る	actions	object	Bounty supply crate
-Take anglerfish	ペリカンアンコウを取る	actions	object	Bounty supply crate
-Reinvigorate	活性化させる	actions	object	Book of Eternal Flame
-Trophies	トロフィー	actions	object	Teak display
-Bottom-Floor	最下階	actions	object	Ladder
-Quench	急冷する	actions	object	Pool of ichor
-Hang-over	ぶら下げる	actions	object	Platform edge

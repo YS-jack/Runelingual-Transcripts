@@ -5533,7 +5533,7 @@ Leaf-bladed sword	葉刃の剣	name	item	Leaf-bladed sword
 Entomologist's diary	昆虫学者の日記	name	item	Entomologist's diary
 Trident of the seas (full)	遠海のトライデント（満）	name	item	Trident of the seas (full)
 Trident of the seas	遠海のトライデント	name	item	Trident of the seas
-Uncharged trident	無力のトライデント	name	item	Uncharged trident
+Uncharged trident	無チャージのトライデント	name	item	Uncharged trident
 Chocolate strawberry	チョコイチゴ	name	item	Chocolate strawberry
 Box of chocolate strawberries	チョコイチゴのボックス	name	item	Box of chocolate strawberries
 Slice of birthday cake	誕生日ケーキのスライス	name	item	Slice of birthday cake
@@ -5978,7 +5978,7 @@ Antisanta boots	アンチサンタの靴	name	item	Antisanta boots
 Antisanta's coal box	アンチサンタの石炭箱	name	item	Antisanta's coal box
 Antisanta's coal box (full)	アンチサンタの石炭箱（満）	name	item	Antisanta's coal box (full)
 Trident of the swamp	沼のトライデント	name	item	Trident of the swamp
-Uncharged toxic trident	無力の有毒トライデント	name	item	Uncharged toxic trident
+Uncharged toxic trident	無チャージの有毒トライデント	name	item	Uncharged toxic trident
 Toxic staff (uncharged)	有毒杖（無力）	name	item	Toxic staff (uncharged)
 Toxic staff of the dead	有毒な死者の杖	name	item	Toxic staff of the dead
 Anti-venom(4)	抗毒素（4）	name	item	Anti-venom(4)
@@ -6532,7 +6532,7 @@ Clue hunter cloak	宝探しのマント	name	item	Clue hunter cloak
 Hornwood helm	ホーンウッドの兜	name	item	Hornwood helm
 Jar of darkness	暗黒の瓶	name	item	Jar of darkness
 Compost pack	堆肥のパック	name	item	Compost pack
-Amulet of eternal glory	永遠なる栄光のアミュレット	name	item	Amulet of eternal glory
+Amulet of eternal glory	永遠栄光のアミュレット	name	item	Amulet of eternal glory
 Ring of suffering (i)	苦難の指輪（付与）	name	item	Ring of suffering (i)
 Clue nest (easy)	宝探しの巣（初級）	name	item	Clue nest (easy)
 Clue nest (medium)	宝探しの巣（中級）	name	item	Clue nest (medium)
@@ -7463,9 +7463,9 @@ Red d'hide shield	青竜革の盾	name	item	Red d'hide shield
 Black d'hide shield	黒竜革の盾	name	item	Black d'hide shield
 Leather shields flyer	革盾のチラシ	name	item	Leather shields flyer
 Trident of the seas (e)	遠海のトライデント（魔法）	name	item	Trident of the seas (e)
-Uncharged trident (e)	無力のトライデント（魔法）	name	item	Uncharged trident (e)
+Uncharged trident (e)	無チャージのトライデント（魔法）	name	item	Uncharged trident (e)
 Trident of the swamp (e)	沼のトライデント（魔法）	name	item	Trident of the swamp (e)
-Uncharged toxic trident (e)	無力の有毒トライデント（魔法）	name	item	Uncharged toxic trident (e)
+Uncharged toxic trident (e)	無チャージの有毒トライデント（魔法）	name	item	Uncharged toxic trident (e)
 Staff of light	光の杖	name	item	Staff of light
 Ancient medallion	古代のメダリオン	name	item	Ancient medallion
 Ancient effigy	古代のエフィジー	name	item	Ancient effigy
@@ -8176,13 +8176,13 @@ Scroll box (hard)	巻物箱（上級）	name	item	Scroll box (hard)
 Scroll box (elite)	巻物箱（超級）	name	item	Scroll box (elite)
 Scroll box (master)	巻物箱（達人）	name	item	Scroll box (master)
 Twisted slayer helmet	歪んだ討伐兜	name	item	Twisted slayer helmet
-Twisted dragon trophy	歪んだ竜鉄のトロフィー	name	item	Twisted dragon trophy
-Twisted rune trophy	歪んだルーンのトロフィー	name	item	Twisted rune trophy
-Twisted adamant trophy	歪んだアダマントのトロフィー	name	item	Twisted adamant trophy
-Twisted mithril trophy	歪んだミスリルのトロフィー	name	item	Twisted mithril trophy
-Twisted steel trophy	歪んだ鋼鉄のトロフィー	name	item	Twisted steel trophy
-Twisted iron trophy	歪んだ鉄のトロフィー	name	item	Twisted iron trophy
-Twisted bronze trophy	歪んだ青銅のトロフィー	name	item	Twisted bronze trophy
+Twisted dragon trophy	歪んだ竜鉄トロフィー	name	item	Twisted dragon trophy
+Twisted rune trophy	歪んだルーントロフィー	name	item	Twisted rune trophy
+Twisted adamant trophy	歪んだアダマントトロフィー	name	item	Twisted adamant trophy
+Twisted mithril trophy	歪んだミスリルトロフィー	name	item	Twisted mithril trophy
+Twisted steel trophy	歪んだ鋼鉄トロフィー	name	item	Twisted steel trophy
+Twisted iron trophy	歪んだ鉄トロフィー	name	item	Twisted iron trophy
+Twisted bronze trophy	歪んだ青銅トロフィー	name	item	Twisted bronze trophy
 Twisted hat (t3)	歪んだ帽子（lvl3）	name	item	Twisted hat (t3)
 Twisted coat (t3)	歪んだコート（lvl3）	name	item	Twisted coat (t3)
 Twisted trousers (t3)	歪んだズボン（lvl3）	name	item	Twisted trousers (t3)
@@ -8441,13 +8441,13 @@ Trailblazer hood (t1)	トレールブレイザーフード（lvl1）	name	item	T
 Trailblazer top (t1)	トレールブレイザートップ（lvl1）	name	item	Trailblazer top (t1)
 Trailblazer trousers (t1)	トレールブレイザーズボン（lvl1）	name	item	Trailblazer trousers (t1)
 Trailblazer boots (t1)	トレールブレイザー靴（lvl1）	name	item	Trailblazer boots (t1)
-Trailblazer dragon trophy	トレールブレイザーの竜鉄のトロフィー	name	item	Trailblazer dragon trophy
-Trailblazer rune trophy	トレールブレイザーのルーンのトロフィー	name	item	Trailblazer rune trophy
-Trailblazer adamant trophy	トレールブレイザーのアダマントのトロフィー	name	item	Trailblazer adamant trophy
-Trailblazer mithril trophy	トレールブレイザーのミスリルのトロフィー	name	item	Trailblazer mithril trophy
-Trailblazer steel trophy	トレールブレイザーの鋼鉄のトロフィー	name	item	Trailblazer steel trophy
-Trailblazer iron trophy	トレールブレイザーの鉄のトロフィー	name	item	Trailblazer iron trophy
-Trailblazer bronze trophy	トレールブレイザーの青銅のトロフィー	name	item	Trailblazer bronze trophy
+Trailblazer dragon trophy	トレールブレイザーの竜鉄トロフィー	name	item	Trailblazer dragon trophy
+Trailblazer rune trophy	トレールブレイザーのルーントロフィー	name	item	Trailblazer rune trophy
+Trailblazer adamant trophy	トレールブレイザーのアダマントトロフィー	name	item	Trailblazer adamant trophy
+Trailblazer mithril trophy	トレールブレイザーのミスリルトロフィー	name	item	Trailblazer mithril trophy
+Trailblazer steel trophy	トレールブレイザーの鋼鉄トロフィー	name	item	Trailblazer steel trophy
+Trailblazer iron trophy	トレールブレイザーの鉄トロフィー	name	item	Trailblazer iron trophy
+Trailblazer bronze trophy	トレールブレイザーの青銅トロフィー	name	item	Trailblazer bronze trophy
 Trailblazer banner	トレールブレイザーのバナー	name	item	Trailblazer banner
 Infernal harpoon (or)	獄炎の銛（飾）	name	item	Infernal harpoon (or)
 Infernal pickaxe (or)	獄炎のツルハシ（飾）	name	item	Infernal pickaxe (or)
@@ -8954,13 +8954,13 @@ Book of war (or)	戦闘の本（飾）	name	item	Book of war (or)
 Holy book (or)	聖なる本（飾）	name	item	Holy book (or)
 Unholy book (or)	けがれの本（飾）	name	item	Unholy book (or)
 Shattered teleport scroll	砕けたワープ巻き物	name	item	Shattered teleport scroll
-Shattered relics bronze trophy	砕けた遺物の青銅のトロフィー	name	item	Shattered relics bronze trophy
-Shattered relics iron trophy	砕けた遺物の鉄のトロフィー	name	item	Shattered relics iron trophy
-Shattered relics steel trophy	砕けた遺物の鋼鉄のトロフィー	name	item	Shattered relics steel trophy
-Shattered relics mithril trophy	砕けた遺物のミスリルのトロフィー	name	item	Shattered relics mithril trophy
-Shattered relics adamant trophy	砕けた遺物のアダマントのトロフィー	name	item	Shattered relics adamant trophy
-Shattered relics rune trophy	砕けた遺物のルーンのトロフィー	name	item	Shattered relics rune trophy
-Shattered relics dragon trophy	砕けた遺物の竜鉄のトロフィー	name	item	Shattered relics dragon trophy
+Shattered relics bronze trophy	砕けた遺物の青銅トロフィー	name	item	Shattered relics bronze trophy
+Shattered relics iron trophy	砕けた遺物の鉄トロフィー	name	item	Shattered relics iron trophy
+Shattered relics steel trophy	砕けた遺物の鋼鉄トロフィー	name	item	Shattered relics steel trophy
+Shattered relics mithril trophy	砕けた遺物のミスリルトロフィー	name	item	Shattered relics mithril trophy
+Shattered relics adamant trophy	砕けた遺物のアダマントトロフィー	name	item	Shattered relics adamant trophy
+Shattered relics rune trophy	砕けた遺物のルーントロフィー	name	item	Shattered relics rune trophy
+Shattered relics dragon trophy	砕けた遺物の竜鉄トロフィー	name	item	Shattered relics dragon trophy
 Shattered cane	砕けた杖	name	item	Shattered cane
 Cannon base (or)	大砲の台（飾）	name	item	Cannon base (or)
 Cannon stand (or)	大砲のスタンド（飾）	name	item	Cannon stand (or)
@@ -9149,7 +9149,7 @@ Guardian fragments	守護者の破片	name	item	Guardian fragments
 Guardian essence	守護者のエッセンス	name	item	Guardian essence
 Catalytic guardian stone	触媒の守護者石	name	item	Catalytic guardian stone
 Elemental guardian stone	エレメンタルの守護者石	name	item	Elemental guardian stone
-Uncharged cell	無力なセル	name	item	Uncharged cell
+Uncharged cell	無チャージなセル	name	item	Uncharged cell
 Weak cell	弱いセル	name	item	Weak cell
 Medium cell	普通のセル	name	item	Medium cell
 Strong cell	強いセル	name	item	Strong cell
@@ -9892,13 +9892,13 @@ Trailblazer reloaded top (t3)	トレールブレイザー・リローデッド�
 Trailblazer reloaded trousers (t3)	トレールブレイザー・リローデッドのズボン（lvl 3）	name	item	Trailblazer reloaded trousers (t3)
 Trailblazer reloaded boots (t3)	トレールブレイザー・リローデッドの靴（lvl 3）	name	item	Trailblazer reloaded boots (t3)
 Trailblazer reloaded torch	トレールブレイザー・リローデッドの松明	name	item	Trailblazer reloaded torch
-Trailblazer reloaded dragon trophy	トレールブレイザー・リローデッドの竜鉄のトロフィー	name	item	Trailblazer reloaded dragon trophy
-Trailblazer reloaded rune trophy	トレールブレイザー・リローデッドのルーンのトロフィー	name	item	Trailblazer reloaded rune trophy
-Trailblazer reloaded adamant trophy	トレールブレイザー・リローデッドのアダマントのトロフィー	name	item	Trailblazer reloaded adamant trophy
-Trailblazer reloaded mithril trophy	トレールブレイザー・リローデッドのミスリルのトロフィー	name	item	Trailblazer reloaded mithril trophy
-Trailblazer reloaded steel trophy	トレールブレイザー・リローデッドの鋼鉄のトロフィー	name	item	Trailblazer reloaded steel trophy
-Trailblazer reloaded iron trophy	トレールブレイザー・リローデッドの鉄のトロフィー	name	item	Trailblazer reloaded iron trophy
-Trailblazer reloaded bronze trophy	トレールブレイザー・リローデッドの青銅のトロフィー	name	item	Trailblazer reloaded bronze trophy
+Trailblazer reloaded dragon trophy	トレールブレイザー・リローデッドの竜鉄トロフィー	name	item	Trailblazer reloaded dragon trophy
+Trailblazer reloaded rune trophy	トレールブレイザー・リローデッドのルーントロフィー	name	item	Trailblazer reloaded rune trophy
+Trailblazer reloaded adamant trophy	トレールブレイザー・リローデッドのアダマントトロフィー	name	item	Trailblazer reloaded adamant trophy
+Trailblazer reloaded mithril trophy	トレールブレイザー・リローデッドのミスリルトロフィー	name	item	Trailblazer reloaded mithril trophy
+Trailblazer reloaded steel trophy	トレールブレイザー・リローデッドの鋼鉄トロフィー	name	item	Trailblazer reloaded steel trophy
+Trailblazer reloaded iron trophy	トレールブレイザー・リローデッドの鉄トロフィー	name	item	Trailblazer reloaded iron trophy
+Trailblazer reloaded bronze trophy	トレールブレイザー・リローデッドの青銅トロフィー	name	item	Trailblazer reloaded bronze trophy
 Globetrotter pendant	グローブトロッター・ペンダント	name	item	Globetrotter pendant
 Banker's note	銀行員の紙	name	item	Banker's note
 Guardian horn	守護者の角	name	item	Guardian horn
@@ -10405,7 +10405,7 @@ Liplack liquor	リップラック・リカー	name	item	Liplack liquor
 Anti-leech lotion	寄生防止ローション	name	item	Anti-leech lotion
 Megalite liquid	メガライト・リキッド	name	item	Megalite liquid
 Mixalot	ミクサロット	name	item	Mixalot
-Digweed	掘草	name	item	Digweed
+Digweed	ディグウィード	name	item	Digweed
 Mixology lab notes	ミクソロジー研究所ノート	name	item	Mixology lab notes
 Moonrise wines	ムーンライズ・ワイン	name	item	Moonrise wines
 Grape barrel	ブドウ樽	name	item	Grape barrel
@@ -10518,236 +10518,103 @@ Powder grey pumpkin (happy)	パウダーグレーのカボチャ（幸）	name	i
 Powder grey pumpkin (laughing)	パウダーグレーのカボチャ（笑）	name	item	Powder grey pumpkin (laughing)
 Scarecrow shirt	かかしのシャツ	name	item	Scarecrow shirt
 Halloween scarecrow	ハロウィンのかかし	name	item	Halloween scarecrow
-Pointed myre snelm	尖ったマイヤーのスネルム	name	item	Pointed myre snelm
-Pointed blood'n'tar snelm	尖った血とタールのスネルム	name	item	Pointed blood'n'tar snelm
-Pointed ochre snelm	尖った黄土色のスネルム	name	item	Pointed ochre snelm
-Pointed bruise blue snelm	尖ったアザの青いスネルム	name	item	Pointed bruise blue snelm
-Crystal of echoes	反響の水晶	name	item	Crystal of echoes
-Echo axe	反響の斧	name	item	Echo axe
-Echo pickaxe	反響のツルハシ	name	item	Echo pickaxe
-Echo harpoon	反響の銛	name	item	Echo harpoon
-Arclight (inactive)	アークライト（不活性）	name	item	Arclight (inactive)
-Elias' message	エリアスの伝言	name	item	Elias' message
-Mastaba key	マスタバの鍵	name	item	Mastaba key
-Base plans	ベースの作戦	name	item	Base plans
-Base key	ベースの鍵	name	item	Base key
-Canopic jar (oil)	カノプスの瓶（油）	name	item	Canopic jar (oil)
-Canopic jar (oil and berries)	カノプスの瓶（油とベリー）	name	item	Canopic jar (oil and berries)
-Canopic jar (full)	カノプスの瓶（満）	name	item	Canopic jar (full)
-Code key	暗号キー	name	item	Code key
-Decoder strips	解読用紙	name	item	Decoder strips
-Mahjarrat notes (a-j)	マジャラットのメモ（a-j)	name	item	Mahjarrat notes (a-j)
-Mahjarrat notes (k-z)	マジャラットのメモ（k-z)	name	item	Mahjarrat notes (k-z)
-Arrav's axe	アラヴの斧	name	item	Arrav's axe
-Zombie helmet	ゾンビの兜	name	item	Zombie helmet
-Broken zombie helmet	壊れたゾンビの兜	name	item	Broken zombie helmet
-Dust	ホコリ	name	item	Dust
-Raging echoes relic hunter (t1) armour set	荒れた残響の遺物ハンター(lvl1)防具セット	name	item	Raging echoes relic hunter (t1) armour set
-Raging echoes relic hunter (t2) armour set	荒れた残響の遺物ハンター(lvl2)防具セット荒れた残響の遺物ハンター(lvl1)防具セット	name	item	Raging echoes relic hunter (t2) armour set
-Raging echoes relic hunter (t3) armour set	荒れた残響の遺物ハンター(lvl3)防具セット	name	item	Raging echoes relic hunter (t3) armour set
-Crystal dagger (perfected)	水晶の短剣（完璧）	name	item	Crystal dagger (perfected)
-Forager's pouch	採取者のポーチ	name	item	Forager's pouch
-Leprechaun's vault	レプラコーンの金庫	name	item	Leprechaun's vault
-Banker's briefcase	銀行員のブリーフケース	name	item	Banker's briefcase
-Clue compass	宝さがしの方位磁針	name	item	Clue compass
-Pocket kingdom	ポケット王国	name	item	Pocket kingdom
-The dogsword	犬剣	name	item	The dogsword
-Sunlight spear	日光槍	name	item	Sunlight spear
-Devil's element	悪魔の要素	name	item	Devil's element
-Drygore blowpipe (empty)	ドライゴーの吹き矢（空）	name	item	Drygore blowpipe (empty)
-Drygore blowpipe	ドライゴーの吹き矢	name	item	Drygore blowpipe
-Amulet of the monarchs	皇帝のアミュレット	name	item	Amulet of the monarchs
-Emperor ring	皇帝の指輪	name	item	Emperor ring
-Gloves of the damned	呪われた者の手袋	name	item	Gloves of the damned
-Thousand-dragon ward	千竜のワード	name	item	Thousand-dragon ward
-Crystal blessing	水晶の祝福	name	item	Crystal blessing
-Sunlit bracers	日光の腕輪	name	item	Sunlit bracers
-Thunder khopesh	雷のケペシュ	name	item	Thunder khopesh
-Nature's reprisal	自然界の報復	name	item	Nature's reprisal
-Nature's reprisal (uncharged)	自然界の報復（無力）	name	item	Nature's reprisal (uncharged)
-Asgarnia echo orb	アスガニアの反響オーブ	name	item	Asgarnia echo orb
-Desert echo orb	砂漠の反響オーブ	name	item	Desert echo orb
-Fremennik echo orb	フレメニックの反響オーブ	name	item	Fremennik echo orb
-Kandarin echo orb	カンダリンの反響オーブ	name	item	Kandarin echo orb
-Morytania echo orb	モリタニアの反響オーブ	name	item	Morytania echo orb
-Tirannwn echo orb	ティランワンの反響オーブ	name	item	Tirannwn echo orb
-Wilderness echo orb	ウィルダネスの反響オーブ	name	item	Wilderness echo orb
-Kourend echo orb	クーレンドの反響オーブ	name	item	Kourend echo orb
-Varlamore echo orb	ヴァーラモーの反響オーブ	name	item	Varlamore echo orb
-Raids megarare voucher	レイドの激レア券	name	item	Raids megarare voucher
-Raging echoes hat (t1)	荒れた残響の防止（lvl1）	name	item	Raging echoes hat (t1)
-Raging echoes top (t1)	荒れた残響のトップ（lvl1)	name	item	Raging echoes top (t1)
-Raging echoes robeskirt (t1)	荒れた残響のローブ（lvl1）	name	item	Raging echoes robeskirt (t1)
-Raging echoes boots (t1)	荒れた残響の靴（lvl1）	name	item	Raging echoes boots (t1)
-Raging echoes hat (t2)	荒れた残響の防止（lvl2）	name	item	Raging echoes hat (t2)
-Raging echoes top (t2)	荒れた残響のトップ（lvl2)	name	item	Raging echoes top (t2)
-Raging echoes robeskirt (t2)	荒れた残響のローブ（lvl2）	name	item	Raging echoes robeskirt (t2)
-Raging echoes boots (t2)	荒れた残響の靴（lvl2）	name	item	Raging echoes boots (t2)
-Raging echoes hat (t3)	荒れた残響の防止（lvl3）	name	item	Raging echoes hat (t3)
-Raging echoes top (t3)	荒れた残響のトップ（lvl3)	name	item	Raging echoes top (t3)
-Raging echoes robeskirt (t3)	荒れた残響のローブ（lvl3）	name	item	Raging echoes robeskirt (t3)
-Raging echoes boots (t3)	荒れた残響の靴（lvl3）	name	item	Raging echoes boots (t3)
-Raging echoes cane	荒れた残響の杖	name	item	Raging echoes cane
-Raging echoes banner	荒れた残響のバナー	name	item	Raging echoes banner
-Echo venator bow ornament kit	反響するベネターの弓の装飾キット	name	item	Echo venator bow ornament kit
-Echo venator bow	反響するベネターの弓	name	item	Echo venator bow
-Echo venator bow (uncharged)	反響するベネターの弓（無力）	name	item	Echo venator bow (uncharged)
-Echo virtus mask	反響するヴァータス・マスク	name	item	Echo virtus mask
-Echo virtus robe top	反響するヴァータス・ローブ上	name	item	Echo virtus robe top
-Echo virtus robe bottom	反響するヴァータス・ローブ下	name	item	Echo virtus robe bottom
-Echo virtus ornament kit	反響するヴァータスの装飾キット	name	item	Echo virtus ornament kit
-Echo ahrim's hood	反響するアリムのフード	name	item	Echo ahrim's hood
-Echo ahrim's robetop	反響するアリムのローブ上	name	item	Echo ahrim's robetop
-Echo ahrim's robeskirt	反響するアリムのローブスカート	name	item	Echo ahrim's robeskirt
-Echo ahrim's ornament kit	反響するアリムの装飾キット	name	item	Echo ahrim's ornament kit
-Echo home teleport scroll	反響する家ワープの巻物	name	item	Echo home teleport scroll
-Raging echoes death scroll	荒れた反響の死の巻物	name	item	Raging echoes death scroll
-Raging echoes npc contact scroll	荒れた反響のNPC通信の巻物	name	item	Raging echoes npc contact scroll
-Raging echoes nexus scroll	荒れた反響のネクサスの巻物	name	item	Raging echoes nexus scroll
-Raging echoes portal scroll	荒れた反響のポータルの巻物	name	item	Raging echoes portal scroll
-Raging echoes nexus rug	荒れた反響のネクサスのカーペット	name	item	Raging echoes nexus rug
-Raging echoes dragon trophy	荒れた反響の竜鉄のトロフィー	name	item	Raging echoes dragon trophy
-Raging echoes rune trophy	荒れた反響のルーンのトロフィー	name	item	Raging echoes rune trophy
-Raging echoes adamant trophy	荒れた反響のアダマントのトロフィー	name	item	Raging echoes adamant trophy
-Raging echoes mithril trophy	荒れた反響のミスリルのトロフィー	name	item	Raging echoes mithril trophy
-Raging echoes steel trophy	荒れた反響の鋼鉄のトロフィー	name	item	Raging echoes steel trophy
-Raging echoes iron trophy	荒れた反響の鉄のトロフィー	name	item	Raging echoes iron trophy
-Raging echoes bronze trophy	荒れた反響の青銅のトロフィー	name	item	Raging echoes bronze trophy
-Present box hat	プレゼント・ハット	name	item	Present box hat
-Dog disguise	犬のお面	name	item	Dog disguise
-Festive scarf	祝祭のマフラー	name	item	Festive scarf
-Dog boots	犬のブーツ	name	item	Dog boots
-Invitations	招待状	name	item	Invitations
-Auto-weed	自動除草	name	item	Auto-weed
-Soul talisman	魂のタリスマン	name	item	Soul talisman
-Auto-weed (deactivated)	自動除草（無効）	name	item	Auto-weed (deactivated)
-Gricoller's can (refill)	グリコラーのジョウロ（満たす）	name	item	Gricoller's can (refill)
-Auto-weed (activated)	自動除草（有効）	name	item	Auto-weed (activated)
-Teak mounted head display	チークの頭部の展示	name	item	Teak mounted head display
-Mahogany mounted head display	マホガニーの頭部の展示	name	item	Mahogany mounted head display
-Gilded mounted head display	黄金の頭部の展示	name	item	Gilded mounted head display
-Oak mounted fish display	樫の魚の展示	name	item	Oak mounted fish display
-Mahogany mounted fish display	マホガニーの魚の展示	name	item	Mahogany mounted fish display
-Teak mounted fish display	チークの魚の展示	name	item	Teak mounted fish display
-Raging echoes portal nexus	荒れた反響のポータル・ネクサス	name	item	Raging echoes portal nexus
-Raging echoes portal	荒れた反響のポータル	name	item	Raging echoes portal
-Raging echoes spirit tree & fairy ring	荒れた反響の精霊樹と妖精の輪	name	item	Raging echoes spirit tree & fairy ring
-Raging echoes rug	荒れた反響のカーペット	name	item	Raging echoes rug
-Raging echoes curtains	荒れた反響のカーテン	name	item	Raging echoes curtains
-Echo ahrim's hood 100	反響するアリムのフード100	name	item	Echo ahrim's hood 100
-Echo ahrim's robetop 100	反響するアリムのローブ上100	name	item	Echo ahrim's robetop 100
-Echo ahrim's robeskirt 100	反響するアリムのローブスカート100	name	item	Echo ahrim's robeskirt 100
-Echo ahrim's hood 75	反響するアリムのフード75	name	item	Echo ahrim's hood 75
-Echo ahrim's robetop 75	反響するアリムのローブ上75	name	item	Echo ahrim's robetop 75
-Echo ahrim's robeskirt 75	反響するアリムのローブスカート75	name	item	Echo ahrim's robeskirt 75
-Echo ahrim's hood 50	反響するアリムのフード50	name	item	Echo ahrim's hood 50
-Echo ahrim's robetop 50	反響するアリムのローブ上50	name	item	Echo ahrim's robetop 50
-Echo ahrim's robeskirt 50	反響するアリムのローブスカート50	name	item	Echo ahrim's robeskirt 50
-Echo ahrim's hood 25	反響するアリムのフード25	name	item	Echo ahrim's hood 25
-Echo ahrim's robetop 25	反響するアリムのローブ上25	name	item	Echo ahrim's robetop 25
-Echo ahrim's robeskirt 25	反響するアリムのローブスカート25	name	item	Echo ahrim's robeskirt 25
-Echo ahrim's hood 0	反響するアリムのフード0	name	item	Echo ahrim's hood 0
-Echo ahrim's robetop 0	反響するアリムのローブ上0	name	item	Echo ahrim's robetop 0
-Echo ahrim's robeskirt 0	反響するアリムのローブスカート0	name	item	Echo ahrim's robeskirt 0
-Raging echoes scrying pool scroll	荒れた反響の透視の水たまりの巻物	name	item	Raging echoes scrying pool scroll
-Raging echoes spirit tree scroll	荒れた反響の精霊樹の巻物	name	item	Raging echoes spirit tree scroll
-Raging echoes spirit tree	荒れた反響の精霊樹	name	item	Raging echoes spirit tree
-Echo ahrim's staff	反響するアリムの杖	name	item	Echo ahrim's staff
-Echo ahrim's staff 100	反響するアリムの杖100	name	item	Echo ahrim's staff 100
-Echo ahrim's staff 75	反響するアリムの杖75	name	item	Echo ahrim's staff 75
-Echo ahrim's staff 50	反響するアリムの杖50	name	item	Echo ahrim's staff 50
-Echo ahrim's staff 25	反響するアリムの杖25	name	item	Echo ahrim's staff 25
-Echo ahrim's staff 0	反響するアリムの杖0	name	item	Echo ahrim's staff 0
-Bounty supply crate	懸賞の物資クレート	name	item	Bounty supply crate
-Bronze staff of collection	青銅のコレクションの杖	name	item	Bronze staff of collection
-Iron staff of collection	鉄ののコレクションの杖	name	item	Iron staff of collection
-Steel staff of collection	鋼鉄のコレクションの杖	name	item	Steel staff of collection
-Black staff of collection	黒鉄のコレクションの杖	name	item	Black staff of collection
-Mithril staff of collection	ミスリルのコレクションの杖	name	item	Mithril staff of collection
-Adamant staff of collection	アダマントのコレクションの杖	name	item	Adamant staff of collection
-Rune staff of collection	ルーンのコレクションの杖	name	item	Rune staff of collection
-Dragon staff of collection	竜鉄のコレクションの杖	name	item	Dragon staff of collection
-Gilded staff of collection	黄金のコレクションの杖	name	item	Gilded staff of collection
-Bounty supply crate (manta ray)	懸賞の物資箱（マンタ）	name	item	Bounty supply crate (manta ray)
-Bounty supply crate (anglerfish)	懸賞の物資箱（ペリカンアンコウ）	name	item	Bounty supply crate (anglerfish)
-Bran	ブラン	name	item	Bran
-Ric	リック	name	item	Ric
-Deadeye prayer scroll	鋭い射手の祈りの巻物	name	item	Deadeye prayer scroll
-Mystic vigour prayer scroll	秘伝の活力の祈りの巻物	name	item	Mystic vigour prayer scroll
-Ice element staff crown	氷元素の杖の王冠	name	item	Ice element staff crown
-Fire element staff crown	炎元素の杖の王冠	name	item	Fire element staff crown
-Twinflame staff	ツインフレーム・スタッフ	name	item	Twinflame staff
-Giantsoul amulet (uncharged)	巨人魂のアミュレット（無力）	name	item	Giantsoul amulet (uncharged)
-Giantsoul amulet	巨人魂のアミュレット	name	item	Giantsoul amulet
-Desiccated page	乾燥したページ	name	item	Desiccated page
-Hunters' loot sack (supplies)	狩人の戦利品のカバン（物資）	name	item	Hunters' loot sack (supplies)
-Classic imp tail	クラシックな小悪魔の尻尾	name	item	Classic imp tail
-Classic imp hood	クラシックな小悪魔のフード	name	item	Classic imp hood
-Teak display	チークの展示	name	item	Teak display
-Mahogany display	マホガニーの展示	name	item	Mahogany display
-Gilded display	黄金の展示	name	item	Gilded display
-Oak display	樫の展示	name	item	Oak display
-Nimbleness charm	身軽のお守り	name	item	Nimbleness charm
-Stockpiling charm	蓄積のお守り	name	item	Stockpiling charm
-Accumulation charm	集積のお守り	name	item	Accumulation charm
-Vulnerability charm	脆弱性のお守り	name	item	Vulnerability charm
-Broken charm	壊れたお守り	name	item	Broken charm
-Trinket dust	装身具の塵	name	item	Trinket dust
-Castle wars supply crate	キャッスル・ウォーズの物資クレート	name	item	Castle wars supply crate
-Castle wars arrow	キャッスル・ウォーズの矢	name	item	Castle wars arrow
-Castle wars bolts	キャッスル・ウォーズのボルト	name	item	Castle wars bolts
-Carrot costume hat	人参コスプレの帽子	name	item	Carrot costume hat
-Carrot costume body	人参コスプレのボディ	name	item	Carrot costume body
-Carrot costume tights	人参コスプレのタイツ	name	item	Carrot costume tights
-Carrot costume gloves	人参コスプレの手袋	name	item	Carrot costume gloves
-Oathplate armour set	オースプレート防具セット	name	item	Oathplate armour set
-Demon dung	悪魔のフン	name	item	Demon dung
-Oathplate helm	オースプレートの兜	name	item	Oathplate helm
-Oathplate chest	オースプレートの胸部	name	item	Oathplate chest
-Oathplate legs	オースプレートの脚部	name	item	Oathplate legs
-Soulflame horn	魂炎の角	name	item	Soulflame horn
-Forgotten lockbox	忘却の貸し金庫	name	item	Forgotten lockbox
-Oathplate shards	オースプレートの破片	name	item	Oathplate shards
-Aether catalyst	エーサーの触媒	name	item	Aether catalyst
-Diabolic worms	悪魔のマムシ	name	item	Diabolic worms
-Chasm teleport scroll	割れ目ワープの巻物	name	item	Chasm teleport scroll
-Radiant oathplate helm	輝くオースプレートの兜	name	item	Radiant oathplate helm
-Radiant oathplate chest	輝くオースプレートの胸部	name	item	Radiant oathplate chest
-Radiant oathplate legs	輝くオースプレートの脚部	name	item	Radiant oathplate legs
-Purifying sigil (left)	浄化の紋章（左）	name	item	Purifying sigil (left)
-Purifying sigil (right)	浄化の紋章（右）	name	item	Purifying sigil (right)
-Purifying sigil (middle)	浄化の紋章（中）	name	item	Purifying sigil (middle)
-Purifying sigil (top)	浄化の紋章（上）	name	item	Purifying sigil (top)
-Purifying sigil (bottom)	浄化の紋章（下）	name	item	Purifying sigil (bottom)
-Purifying sigil	浄化の紋章	name	item	Purifying sigil
-Barrel of demonic tallow (full)	悪魔の獣脂の樽（満）	name	item	Barrel of demonic tallow (full)
-Barrel of demonic tallow	悪魔の獣脂の樽	name	item	Barrel of demonic tallow
-Demonic tallow	悪魔の獣脂	name	item	Demonic tallow
-Rite of vile transference	邪悪な移動の儀式	name	item	Rite of vile transference
-Jim's wet cloth	ジムの濡れた布	name	item	Jim's wet cloth
-Contract of glyphic attenuation	減衰するグリフの契約書	name	item	Contract of glyphic attenuation
-Contract of sensory clouding	混濁する感覚の契約書	name	item	Contract of sensory clouding
-Contract of bloodied blows	血みどろの打撃の契約書	name	item	Contract of bloodied blows
-Contract of divine severance	神聖な断罪の契約書	name	item	Contract of divine severance
-Contract of forfeit breath	息絶える契約書	name	item	Contract of forfeit breath
-Contract of oathplate acquisition	オースプレート入手の契約書	name	item	Contract of oathplate acquisition
-Contract of shard acquisition	破片入手の契約書	name	item	Contract of shard acquisition
-Contract of catalyst acquisition	触媒入手の契約書	name	item	Contract of catalyst acquisition
-Contract of worm acquisition	マムシ入手の契約書	name	item	Contract of worm acquisition
-Contract of harmony acquisition	ハーモニー入手の契約書	name	item	Contract of harmony acquisition
-Contract of familiar acquisition	召喚獣入手の契約書	name	item	Contract of familiar acquisition
-Aether rune	エーサーのルーン	name	item	Aether rune
-Infernal shale	獄炎の泥板岩	name	item	Infernal shale
-Crushed infernal shale	砕かれた獄炎の泥板岩	name	item	Crushed infernal shale
-Infernal blend	獄炎の混合物	name	item	Infernal blend
-Malformed infernal blend	不完全な獄炎の混合物	name	item	Malformed infernal blend
-Infernal nugget	獄炎の一塊	name	item	Infernal nugget
-Cooled infernal chunk	冷えた獄炎の塊	name	item	Cooled infernal chunk
-Infernal chunk	獄炎の塊	name	item	Infernal chunk
-Infernal plate	獄炎のプレート	name	item	Infernal plate
-Surge potion(4)	サージの薬液（4）	name	item	Surge potion(4)
-Surge potion(3)	サージの薬液（3）	name	item	Surge potion(3)
-Surge potion(2)	サージの薬液（2）	name	item	Surge potion(2)
-Surge potion(1)	サージの薬液（1）	name	item	Surge potion(1)
-Polycatalytic guardian stone	多触媒の守護石	name	item	Polycatalytic guardian stone
-Yami	ヤミ	name	item	Yami
+Pointed myre snelm		name	item	Pointed myre snelm
+Pointed blood'n'tar snelm		name	item	Pointed blood'n'tar snelm
+Pointed ochre snelm		name	item	Pointed ochre snelm
+Pointed bruise blue snelm		name	item	Pointed bruise blue snelm
+Crystal of echoes		name	item	Crystal of echoes
+Echo axe		name	item	Echo axe
+Echo pickaxe		name	item	Echo pickaxe
+Echo harpoon		name	item	Echo harpoon
+Arclight (inactive)		name	item	Arclight (inactive)
+Elias' message		name	item	Elias' message
+Mastaba key		name	item	Mastaba key
+Base plans		name	item	Base plans
+Base key		name	item	Base key
+Canopic jar (oil)		name	item	Canopic jar (oil)
+Canopic jar (oil and berries)		name	item	Canopic jar (oil and berries)
+Canopic jar (full)		name	item	Canopic jar (full)
+Code key		name	item	Code key
+Decoder strips		name	item	Decoder strips
+Mahjarrat notes (a-j)		name	item	Mahjarrat notes (a-j)
+Mahjarrat notes (k-z)		name	item	Mahjarrat notes (k-z)
+Arrav's axe		name	item	Arrav's axe
+Zombie helmet		name	item	Zombie helmet
+Broken zombie helmet		name	item	Broken zombie helmet
+Dust		name	item	Dust
+Raging echoes relic hunter (t1) armour set		name	item	Raging echoes relic hunter (t1) armour set
+Raging echoes relic hunter (t2) armour set		name	item	Raging echoes relic hunter (t2) armour set
+Raging echoes relic hunter (t3) armour set		name	item	Raging echoes relic hunter (t3) armour set
+Crystal dagger (perfected)		name	item	Crystal dagger (perfected)
+Forager's pouch		name	item	Forager's pouch
+Leprechaun's vault		name	item	Leprechaun's vault
+Banker's briefcase		name	item	Banker's briefcase
+Clue compass		name	item	Clue compass
+Pocket kingdom		name	item	Pocket kingdom
+The dogsword		name	item	The dogsword
+Sunlight spear		name	item	Sunlight spear
+Devil's element		name	item	Devil's element
+Drygore blowpipe (empty)		name	item	Drygore blowpipe (empty)
+Drygore blowpipe		name	item	Drygore blowpipe
+Amulet of the monarchs		name	item	Amulet of the monarchs
+Emperor ring		name	item	Emperor ring
+Gloves of the damned		name	item	Gloves of the damned
+Thousand-dragon ward		name	item	Thousand-dragon ward
+Crystal blessing		name	item	Crystal blessing
+Sunlit bracers		name	item	Sunlit bracers
+Thunder khopesh		name	item	Thunder khopesh
+Nature's reprisal		name	item	Nature's reprisal
+Nature's reprisal (uncharged)		name	item	Nature's reprisal (uncharged)
+Asgarnia echo orb		name	item	Asgarnia echo orb
+Desert echo orb		name	item	Desert echo orb
+Fremennik echo orb		name	item	Fremennik echo orb
+Kandarin echo orb		name	item	Kandarin echo orb
+Morytania echo orb		name	item	Morytania echo orb
+Tirannwn echo orb		name	item	Tirannwn echo orb
+Wilderness echo orb		name	item	Wilderness echo orb
+Kourend echo orb		name	item	Kourend echo orb
+Varlamore echo orb		name	item	Varlamore echo orb
+Raids megarare voucher		name	item	Raids megarare voucher
+Raging echoes hat (t1)		name	item	Raging echoes hat (t1)
+Raging echoes top (t1)		name	item	Raging echoes top (t1)
+Raging echoes robeskirt (t1)		name	item	Raging echoes robeskirt (t1)
+Raging echoes boots (t1)		name	item	Raging echoes boots (t1)
+Raging echoes hat (t2)		name	item	Raging echoes hat (t2)
+Raging echoes top (t2)		name	item	Raging echoes top (t2)
+Raging echoes robeskirt (t2)		name	item	Raging echoes robeskirt (t2)
+Raging echoes boots (t2)		name	item	Raging echoes boots (t2)
+Raging echoes hat (t3)		name	item	Raging echoes hat (t3)
+Raging echoes top (t3)		name	item	Raging echoes top (t3)
+Raging echoes robeskirt (t3)		name	item	Raging echoes robeskirt (t3)
+Raging echoes boots (t3)		name	item	Raging echoes boots (t3)
+Raging echoes cane		name	item	Raging echoes cane
+Raging echoes banner		name	item	Raging echoes banner
+Echo venator bow ornament kit		name	item	Echo venator bow ornament kit
+Echo venator bow		name	item	Echo venator bow
+Echo venator bow (uncharged)		name	item	Echo venator bow (uncharged)
+Echo virtus mask		name	item	Echo virtus mask
+Echo virtus robe top		name	item	Echo virtus robe top
+Echo virtus robe bottom		name	item	Echo virtus robe bottom
+Echo virtus ornament kit		name	item	Echo virtus ornament kit
+Echo ahrim's hood		name	item	Echo ahrim's hood
+Echo ahrim's robetop		name	item	Echo ahrim's robetop
+Echo ahrim's robeskirt		name	item	Echo ahrim's robeskirt
+Echo ahrim's ornament kit		name	item	Echo ahrim's ornament kit
+Echo home teleport scroll		name	item	Echo home teleport scroll
+Raging echoes death scroll		name	item	Raging echoes death scroll
+Raging echoes npc contact scroll		name	item	Raging echoes npc contact scroll
+Raging echoes nexus scroll		name	item	Raging echoes nexus scroll
+Raging echoes portal scroll		name	item	Raging echoes portal scroll
+Raging echoes nexus rug		name	item	Raging echoes nexus rug
+Raging echoes dragon trophy		name	item	Raging echoes dragon trophy
+Raging echoes rune trophy		name	item	Raging echoes rune trophy
+Raging echoes adamant trophy		name	item	Raging echoes adamant trophy
+Raging echoes mithril trophy		name	item	Raging echoes mithril trophy
+Raging echoes steel trophy		name	item	Raging echoes steel trophy
+Raging echoes iron trophy		name	item	Raging echoes iron trophy
+Raging echoes bronze trophy		name	item	Raging echoes bronze trophy
+Present box hat		name	item	Present box hat
+Dog disguise		name	item	Dog disguise
+Festive scarf		name	item	Festive scarf
+Dog boots		name	item	Dog boots
+Invitations		name	item	Invitations

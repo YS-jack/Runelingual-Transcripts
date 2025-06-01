@@ -44275,7 +44275,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5535">
         <xliff:source>Uncharged trident</xliff:source>
-        <xliff:target state="translated">無力のトライデント</xliff:target>
+        <xliff:target state="translated">無チャージのトライデント</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Uncharged trident
@@ -47835,7 +47835,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="5980">
         <xliff:source>Uncharged toxic trident</xliff:source>
-        <xliff:target state="translated">無力の有毒トライデント</xliff:target>
+        <xliff:target state="translated">無チャージの有毒トライデント</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Uncharged toxic trident
@@ -52267,7 +52267,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="6534">
         <xliff:source>Amulet of eternal glory</xliff:source>
-        <xliff:target state="translated">永遠なる栄光のアミュレット</xliff:target>
+        <xliff:target state="translated">永遠栄光のアミュレット</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Amulet of eternal glory
@@ -59715,7 +59715,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7465">
         <xliff:source>Uncharged trident (e)</xliff:source>
-        <xliff:target state="translated">無力のトライデント（魔法）</xliff:target>
+        <xliff:target state="translated">無チャージのトライデント（魔法）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Uncharged trident (e)
@@ -59731,7 +59731,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="7467">
         <xliff:source>Uncharged toxic trident (e)</xliff:source>
-        <xliff:target state="translated">無力の有毒トライデント（魔法）</xliff:target>
+        <xliff:target state="translated">無チャージの有毒トライデント（魔法）</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Uncharged toxic trident (e)
@@ -65419,7 +65419,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8178">
         <xliff:source>Twisted dragon trophy</xliff:source>
-        <xliff:target state="translated">歪んだ竜鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだ竜鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted dragon trophy
@@ -65427,7 +65427,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8179">
         <xliff:source>Twisted rune trophy</xliff:source>
-        <xliff:target state="translated">歪んだルーンのトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだルーントロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted rune trophy
@@ -65435,7 +65435,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8180">
         <xliff:source>Twisted adamant trophy</xliff:source>
-        <xliff:target state="translated">歪んだアダマントのトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだアダマントトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted adamant trophy
@@ -65443,7 +65443,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8181">
         <xliff:source>Twisted mithril trophy</xliff:source>
-        <xliff:target state="translated">歪んだミスリルのトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだミスリルトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted mithril trophy
@@ -65451,7 +65451,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8182">
         <xliff:source>Twisted steel trophy</xliff:source>
-        <xliff:target state="translated">歪んだ鋼鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだ鋼鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted steel trophy
@@ -65459,7 +65459,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8183">
         <xliff:source>Twisted iron trophy</xliff:source>
-        <xliff:target state="translated">歪んだ鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだ鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted iron trophy
@@ -65467,7 +65467,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8184">
         <xliff:source>Twisted bronze trophy</xliff:source>
-        <xliff:target state="translated">歪んだ青銅のトロフィー</xliff:target>
+        <xliff:target state="translated">歪んだ青銅トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Twisted bronze trophy
@@ -67539,7 +67539,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8443">
         <xliff:source>Trailblazer dragon trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーの竜鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーの竜鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer dragon trophy
@@ -67547,7 +67547,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8444">
         <xliff:source>Trailblazer rune trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーのルーンのトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーのルーントロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer rune trophy
@@ -67555,7 +67555,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8445">
         <xliff:source>Trailblazer adamant trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーのアダマントのトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーのアダマントトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer adamant trophy
@@ -67563,7 +67563,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8446">
         <xliff:source>Trailblazer mithril trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーのミスリルのトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーのミスリルトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer mithril trophy
@@ -67571,7 +67571,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8447">
         <xliff:source>Trailblazer steel trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーの鋼鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーの鋼鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer steel trophy
@@ -67579,7 +67579,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8448">
         <xliff:source>Trailblazer iron trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーの鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーの鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer iron trophy
@@ -67587,7 +67587,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8449">
         <xliff:source>Trailblazer bronze trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザーの青銅のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザーの青銅トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer bronze trophy
@@ -71643,7 +71643,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8956">
         <xliff:source>Shattered relics bronze trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物の青銅のトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物の青銅トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics bronze trophy
@@ -71651,7 +71651,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8957">
         <xliff:source>Shattered relics iron trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物の鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物の鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics iron trophy
@@ -71659,7 +71659,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8958">
         <xliff:source>Shattered relics steel trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物の鋼鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物の鋼鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics steel trophy
@@ -71667,7 +71667,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8959">
         <xliff:source>Shattered relics mithril trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物のミスリルのトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物のミスリルトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics mithril trophy
@@ -71675,7 +71675,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8960">
         <xliff:source>Shattered relics adamant trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物のアダマントのトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物のアダマントトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics adamant trophy
@@ -71683,7 +71683,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8961">
         <xliff:source>Shattered relics rune trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物のルーンのトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物のルーントロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics rune trophy
@@ -71691,7 +71691,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="8962">
         <xliff:source>Shattered relics dragon trophy</xliff:source>
-        <xliff:target state="translated">砕けた遺物の竜鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">砕けた遺物の竜鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Shattered relics dragon trophy
@@ -73203,7 +73203,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9151">
         <xliff:source>Uncharged cell</xliff:source>
-        <xliff:target state="translated">無力なセル</xliff:target>
+        <xliff:target state="translated">無チャージなセル</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Uncharged cell
@@ -79148,7 +79148,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9894">
         <xliff:source>Trailblazer reloaded dragon trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドの竜鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドの竜鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded dragon trophy
@@ -79156,7 +79156,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9895">
         <xliff:source>Trailblazer reloaded rune trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドのルーンのトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドのルーントロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded rune trophy
@@ -79164,7 +79164,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9896">
         <xliff:source>Trailblazer reloaded adamant trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドのアダマントのトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドのアダマントトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded adamant trophy
@@ -79172,7 +79172,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9897">
         <xliff:source>Trailblazer reloaded mithril trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドのミスリルのトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドのミスリルトロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded mithril trophy
@@ -79180,7 +79180,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9898">
         <xliff:source>Trailblazer reloaded steel trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドの鋼鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドの鋼鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded steel trophy
@@ -79188,7 +79188,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9899">
         <xliff:source>Trailblazer reloaded iron trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドの鉄のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドの鉄トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded iron trophy
@@ -79196,7 +79196,7 @@ wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp
       </xliff:trans-unit>
       <xliff:trans-unit id="9900">
         <xliff:source>Trailblazer reloaded bronze trophy</xliff:source>
-        <xliff:target state="translated">トレールブレイザー・リローデッドの青銅のトロフィー</xliff:target>
+        <xliff:target state="translated">トレールブレイザー・リローデッドの青銅トロフィー</xliff:target>
         <xliff:note>category: name
 sub_category: item
 source: Trailblazer reloaded bronze trophy
@@ -82131,7 +82131,7 @@ source: Megalite liquid
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30019</xliff:note></xliff:trans-unit><xliff:trans-unit id="10406"><xliff:source>Mixalot</xliff:source><xliff:target state="translated">ミクサロット</xliff:target><xliff:note>category: name
 sub_category: item
 source: Mixalot
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30020</xliff:note></xliff:trans-unit><xliff:trans-unit id="10407"><xliff:source>Digweed</xliff:source><xliff:target state="translated">掘草</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30020</xliff:note></xliff:trans-unit><xliff:trans-unit id="10407"><xliff:source>Digweed</xliff:source><xliff:target state="translated">ディグウィード</xliff:target><xliff:note>category: name
 sub_category: item
 source: Digweed
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30031</xliff:note></xliff:trans-unit><xliff:trans-unit id="10408"><xliff:source>Mixology lab notes</xliff:source><xliff:target state="translated">ミクソロジー研究所ノート</xliff:target><xliff:note>category: name
@@ -82470,705 +82470,306 @@ source: Scarecrow shirt
 wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30232</xliff:note></xliff:trans-unit><xliff:trans-unit id="10519"><xliff:source>Halloween scarecrow</xliff:source><xliff:target state="translated">ハロウィンのかかし</xliff:target><xliff:note>category: name
 sub_category: item
 source: Halloween scarecrow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30234</xliff:note></xliff:trans-unit><xliff:trans-unit id="10520"><xliff:source>Pointed myre snelm</xliff:source><xliff:target state="translated">尖ったマイヤーのスネルム</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30234</xliff:note></xliff:trans-unit><xliff:trans-unit id="10520"><xliff:source>Pointed myre snelm</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Pointed myre snelm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3337</xliff:note></xliff:trans-unit><xliff:trans-unit id="10521"><xliff:source>Pointed blood'n'tar snelm</xliff:source><xliff:target state="translated">尖った血とタールのスネルム</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3337</xliff:note></xliff:trans-unit><xliff:trans-unit id="10521"><xliff:source>Pointed blood'n'tar snelm</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Pointed blood'n'tar snelm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3339</xliff:note></xliff:trans-unit><xliff:trans-unit id="10522"><xliff:source>Pointed ochre snelm</xliff:source><xliff:target state="translated">尖った黄土色のスネルム</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3339</xliff:note></xliff:trans-unit><xliff:trans-unit id="10522"><xliff:source>Pointed ochre snelm</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Pointed ochre snelm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3341</xliff:note></xliff:trans-unit><xliff:trans-unit id="10523"><xliff:source>Pointed bruise blue snelm</xliff:source><xliff:target state="translated">尖ったアザの青いスネルム</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3341</xliff:note></xliff:trans-unit><xliff:trans-unit id="10523"><xliff:source>Pointed bruise blue snelm</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Pointed bruise blue snelm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3343</xliff:note></xliff:trans-unit><xliff:trans-unit id="10524"><xliff:source>Crystal of echoes</xliff:source><xliff:target state="translated">反響の水晶</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3343</xliff:note></xliff:trans-unit><xliff:trans-unit id="10524"><xliff:source>Crystal of echoes</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Crystal of echoes
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="10525"><xliff:source>Echo axe</xliff:source><xliff:target state="translated">反響の斧</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note></xliff:trans-unit><xliff:trans-unit id="10525"><xliff:source>Echo axe</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo axe
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25110</xliff:note></xliff:trans-unit><xliff:trans-unit id="10526"><xliff:source>Echo pickaxe</xliff:source><xliff:target state="translated">反響のツルハシ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25110</xliff:note></xliff:trans-unit><xliff:trans-unit id="10526"><xliff:source>Echo pickaxe</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo pickaxe
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25112</xliff:note></xliff:trans-unit><xliff:trans-unit id="10527"><xliff:source>Echo harpoon</xliff:source><xliff:target state="translated">反響の銛</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25112</xliff:note></xliff:trans-unit><xliff:trans-unit id="10527"><xliff:source>Echo harpoon</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo harpoon
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25114</xliff:note></xliff:trans-unit><xliff:trans-unit id="10528"><xliff:source>Arclight (inactive)</xliff:source><xliff:target state="translated">アークライト（不活性）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25114</xliff:note></xliff:trans-unit><xliff:trans-unit id="10528"><xliff:source>Arclight (inactive)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Arclight (inactive)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30305</xliff:note></xliff:trans-unit><xliff:trans-unit id="10529"><xliff:source>Elias' message</xliff:source><xliff:target state="translated">エリアスの伝言</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30305</xliff:note></xliff:trans-unit><xliff:trans-unit id="10529"><xliff:source>Elias' message</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Elias' message
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30307</xliff:note></xliff:trans-unit><xliff:trans-unit id="10530"><xliff:source>Mastaba key</xliff:source><xliff:target state="translated">マスタバの鍵</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30307</xliff:note></xliff:trans-unit><xliff:trans-unit id="10530"><xliff:source>Mastaba key</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Mastaba key
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30308</xliff:note></xliff:trans-unit><xliff:trans-unit id="10531"><xliff:source>Base plans</xliff:source><xliff:target state="translated">ベースの作戦</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30308</xliff:note></xliff:trans-unit><xliff:trans-unit id="10531"><xliff:source>Base plans</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Base plans
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30310</xliff:note></xliff:trans-unit><xliff:trans-unit id="10532"><xliff:source>Base key</xliff:source><xliff:target state="translated">ベースの鍵</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30310</xliff:note></xliff:trans-unit><xliff:trans-unit id="10532"><xliff:source>Base key</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Base key
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30311</xliff:note></xliff:trans-unit><xliff:trans-unit id="10533"><xliff:source>Canopic jar (oil)</xliff:source><xliff:target state="translated">カノプスの瓶（油）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30311</xliff:note></xliff:trans-unit><xliff:trans-unit id="10533"><xliff:source>Canopic jar (oil)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Canopic jar (oil)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30312</xliff:note></xliff:trans-unit><xliff:trans-unit id="10534"><xliff:source>Canopic jar (oil and berries)</xliff:source><xliff:target state="translated">カノプスの瓶（油とベリー）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30312</xliff:note></xliff:trans-unit><xliff:trans-unit id="10534"><xliff:source>Canopic jar (oil and berries)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Canopic jar (oil and berries)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30313</xliff:note></xliff:trans-unit><xliff:trans-unit id="10535"><xliff:source>Canopic jar (full)</xliff:source><xliff:target state="translated">カノプスの瓶（満）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30313</xliff:note></xliff:trans-unit><xliff:trans-unit id="10535"><xliff:source>Canopic jar (full)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Canopic jar (full)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30314</xliff:note></xliff:trans-unit><xliff:trans-unit id="10536"><xliff:source>Code key</xliff:source><xliff:target state="translated">暗号キー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30314</xliff:note></xliff:trans-unit><xliff:trans-unit id="10536"><xliff:source>Code key</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Code key
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30316</xliff:note></xliff:trans-unit><xliff:trans-unit id="10537"><xliff:source>Decoder strips</xliff:source><xliff:target state="translated">解読用紙</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30316</xliff:note></xliff:trans-unit><xliff:trans-unit id="10537"><xliff:source>Decoder strips</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Decoder strips
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30317</xliff:note></xliff:trans-unit><xliff:trans-unit id="10538"><xliff:source>Mahjarrat notes (a-j)</xliff:source><xliff:target state="translated">マジャラットのメモ（a-j)</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30317</xliff:note></xliff:trans-unit><xliff:trans-unit id="10538"><xliff:source>Mahjarrat notes (a-j)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Mahjarrat notes (a-j)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30318</xliff:note></xliff:trans-unit><xliff:trans-unit id="10539"><xliff:source>Mahjarrat notes (k-z)</xliff:source><xliff:target state="translated">マジャラットのメモ（k-z)</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30318</xliff:note></xliff:trans-unit><xliff:trans-unit id="10539"><xliff:source>Mahjarrat notes (k-z)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Mahjarrat notes (k-z)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30319</xliff:note></xliff:trans-unit><xliff:trans-unit id="10540"><xliff:source>Arrav's axe</xliff:source><xliff:target state="translated">アラヴの斧</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30319</xliff:note></xliff:trans-unit><xliff:trans-unit id="10540"><xliff:source>Arrav's axe</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Arrav's axe
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30320</xliff:note></xliff:trans-unit><xliff:trans-unit id="10541"><xliff:source>Zombie helmet</xliff:source><xliff:target state="translated">ゾンビの兜</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30320</xliff:note></xliff:trans-unit><xliff:trans-unit id="10541"><xliff:source>Zombie helmet</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Zombie helmet
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30321</xliff:note></xliff:trans-unit><xliff:trans-unit id="10542"><xliff:source>Broken zombie helmet</xliff:source><xliff:target state="translated">壊れたゾンビの兜</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30321</xliff:note></xliff:trans-unit><xliff:trans-unit id="10542"><xliff:source>Broken zombie helmet</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Broken zombie helmet
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30324</xliff:note></xliff:trans-unit><xliff:trans-unit id="10543"><xliff:source>Dust</xliff:source><xliff:target state="translated">ホコリ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30324</xliff:note></xliff:trans-unit><xliff:trans-unit id="10543"><xliff:source>Dust</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Dust
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30328</xliff:note></xliff:trans-unit><xliff:trans-unit id="10544"><xliff:source>Raging echoes relic hunter (t1) armour set</xliff:source><xliff:target state="translated">荒れた残響の遺物ハンター(lvl1)防具セット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30328</xliff:note></xliff:trans-unit><xliff:trans-unit id="10544"><xliff:source>Raging echoes relic hunter (t1) armour set</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes relic hunter (t1) armour set
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30331</xliff:note></xliff:trans-unit><xliff:trans-unit id="10545"><xliff:source>Raging echoes relic hunter (t2) armour set</xliff:source><xliff:target state="translated">荒れた残響の遺物ハンター(lvl2)防具セット荒れた残響の遺物ハンター(lvl1)防具セット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30331</xliff:note></xliff:trans-unit><xliff:trans-unit id="10545"><xliff:source>Raging echoes relic hunter (t2) armour set</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes relic hunter (t2) armour set
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30334</xliff:note></xliff:trans-unit><xliff:trans-unit id="10546"><xliff:source>Raging echoes relic hunter (t3) armour set</xliff:source><xliff:target state="translated">荒れた残響の遺物ハンター(lvl3)防具セット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30334</xliff:note></xliff:trans-unit><xliff:trans-unit id="10546"><xliff:source>Raging echoes relic hunter (t3) armour set</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes relic hunter (t3) armour set
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30337</xliff:note></xliff:trans-unit><xliff:trans-unit id="10547"><xliff:source>Crystal dagger (perfected)</xliff:source><xliff:target state="translated">水晶の短剣（完璧）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30337</xliff:note></xliff:trans-unit><xliff:trans-unit id="10547"><xliff:source>Crystal dagger (perfected)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Crystal dagger (perfected)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30340</xliff:note></xliff:trans-unit><xliff:trans-unit id="10548"><xliff:source>Forager's pouch</xliff:source><xliff:target state="translated">採取者のポーチ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30340</xliff:note></xliff:trans-unit><xliff:trans-unit id="10548"><xliff:source>Forager's pouch</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Forager's pouch
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note></xliff:trans-unit><xliff:trans-unit id="10549"><xliff:source>Leprechaun's vault</xliff:source><xliff:target state="translated">レプラコーンの金庫</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note></xliff:trans-unit><xliff:trans-unit id="10549"><xliff:source>Leprechaun's vault</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Leprechaun's vault
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30359</xliff:note></xliff:trans-unit><xliff:trans-unit id="10550"><xliff:source>Banker's briefcase</xliff:source><xliff:target state="translated">銀行員のブリーフケース</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30359</xliff:note></xliff:trans-unit><xliff:trans-unit id="10550"><xliff:source>Banker's briefcase</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Banker's briefcase
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30361</xliff:note></xliff:trans-unit><xliff:trans-unit id="10551"><xliff:source>Clue compass</xliff:source><xliff:target state="translated">宝さがしの方位磁針</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30361</xliff:note></xliff:trans-unit><xliff:trans-unit id="10551"><xliff:source>Clue compass</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Clue compass
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30363</xliff:note></xliff:trans-unit><xliff:trans-unit id="10552"><xliff:source>Pocket kingdom</xliff:source><xliff:target state="translated">ポケット王国</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30363</xliff:note></xliff:trans-unit><xliff:trans-unit id="10552"><xliff:source>Pocket kingdom</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Pocket kingdom
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note></xliff:trans-unit><xliff:trans-unit id="10553"><xliff:source>The dogsword</xliff:source><xliff:target state="translated">犬剣</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note></xliff:trans-unit><xliff:trans-unit id="10553"><xliff:source>The dogsword</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: The dogsword
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30367</xliff:note></xliff:trans-unit><xliff:trans-unit id="10554"><xliff:source>Sunlight spear</xliff:source><xliff:target state="translated">日光槍</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30367</xliff:note></xliff:trans-unit><xliff:trans-unit id="10554"><xliff:source>Sunlight spear</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Sunlight spear
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30369</xliff:note></xliff:trans-unit><xliff:trans-unit id="10555"><xliff:source>Devil's element</xliff:source><xliff:target state="translated">悪魔の要素</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30369</xliff:note></xliff:trans-unit><xliff:trans-unit id="10555"><xliff:source>Devil's element</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Devil's element
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30371</xliff:note></xliff:trans-unit><xliff:trans-unit id="10556"><xliff:source>Drygore blowpipe (empty)</xliff:source><xliff:target state="translated">ドライゴーの吹き矢（空）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30371</xliff:note></xliff:trans-unit><xliff:trans-unit id="10556"><xliff:source>Drygore blowpipe (empty)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Drygore blowpipe (empty)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30373</xliff:note></xliff:trans-unit><xliff:trans-unit id="10557"><xliff:source>Drygore blowpipe</xliff:source><xliff:target state="translated">ドライゴーの吹き矢</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30373</xliff:note></xliff:trans-unit><xliff:trans-unit id="10557"><xliff:source>Drygore blowpipe</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Drygore blowpipe
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30374</xliff:note></xliff:trans-unit><xliff:trans-unit id="10558"><xliff:source>Amulet of the monarchs</xliff:source><xliff:target state="translated">皇帝のアミュレット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30374</xliff:note></xliff:trans-unit><xliff:trans-unit id="10558"><xliff:source>Amulet of the monarchs</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Amulet of the monarchs
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30376</xliff:note></xliff:trans-unit><xliff:trans-unit id="10559"><xliff:source>Emperor ring</xliff:source><xliff:target state="translated">皇帝の指輪</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30376</xliff:note></xliff:trans-unit><xliff:trans-unit id="10559"><xliff:source>Emperor ring</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Emperor ring
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30378</xliff:note></xliff:trans-unit><xliff:trans-unit id="10560"><xliff:source>Gloves of the damned</xliff:source><xliff:target state="translated">呪われた者の手袋</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30378</xliff:note></xliff:trans-unit><xliff:trans-unit id="10560"><xliff:source>Gloves of the damned</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Gloves of the damned
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30380</xliff:note></xliff:trans-unit><xliff:trans-unit id="10561"><xliff:source>Thousand-dragon ward</xliff:source><xliff:target state="translated">千竜のワード</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30380</xliff:note></xliff:trans-unit><xliff:trans-unit id="10561"><xliff:source>Thousand-dragon ward</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Thousand-dragon ward
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30382</xliff:note></xliff:trans-unit><xliff:trans-unit id="10562"><xliff:source>Crystal blessing</xliff:source><xliff:target state="translated">水晶の祝福</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30382</xliff:note></xliff:trans-unit><xliff:trans-unit id="10562"><xliff:source>Crystal blessing</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Crystal blessing
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30384</xliff:note></xliff:trans-unit><xliff:trans-unit id="10563"><xliff:source>Sunlit bracers</xliff:source><xliff:target state="translated">日光の腕輪</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30384</xliff:note></xliff:trans-unit><xliff:trans-unit id="10563"><xliff:source>Sunlit bracers</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Sunlit bracers
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30386</xliff:note></xliff:trans-unit><xliff:trans-unit id="10564"><xliff:source>Thunder khopesh</xliff:source><xliff:target state="translated">雷のケペシュ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30386</xliff:note></xliff:trans-unit><xliff:trans-unit id="10564"><xliff:source>Thunder khopesh</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Thunder khopesh
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30388</xliff:note></xliff:trans-unit><xliff:trans-unit id="10565"><xliff:source>Nature's reprisal</xliff:source><xliff:target state="translated">自然界の報復</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30388</xliff:note></xliff:trans-unit><xliff:trans-unit id="10565"><xliff:source>Nature's reprisal</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Nature's reprisal
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30390</xliff:note></xliff:trans-unit><xliff:trans-unit id="10566"><xliff:source>Nature's reprisal (uncharged)</xliff:source><xliff:target state="translated">自然界の報復（無力）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30390</xliff:note></xliff:trans-unit><xliff:trans-unit id="10566"><xliff:source>Nature's reprisal (uncharged)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Nature's reprisal (uncharged)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30392</xliff:note></xliff:trans-unit><xliff:trans-unit id="10567"><xliff:source>Asgarnia echo orb</xliff:source><xliff:target state="translated">アスガニアの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30392</xliff:note></xliff:trans-unit><xliff:trans-unit id="10567"><xliff:source>Asgarnia echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Asgarnia echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30393</xliff:note></xliff:trans-unit><xliff:trans-unit id="10568"><xliff:source>Desert echo orb</xliff:source><xliff:target state="translated">砂漠の反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30393</xliff:note></xliff:trans-unit><xliff:trans-unit id="10568"><xliff:source>Desert echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Desert echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30394</xliff:note></xliff:trans-unit><xliff:trans-unit id="10569"><xliff:source>Fremennik echo orb</xliff:source><xliff:target state="translated">フレメニックの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30394</xliff:note></xliff:trans-unit><xliff:trans-unit id="10569"><xliff:source>Fremennik echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Fremennik echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30395</xliff:note></xliff:trans-unit><xliff:trans-unit id="10570"><xliff:source>Kandarin echo orb</xliff:source><xliff:target state="translated">カンダリンの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30395</xliff:note></xliff:trans-unit><xliff:trans-unit id="10570"><xliff:source>Kandarin echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Kandarin echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30396</xliff:note></xliff:trans-unit><xliff:trans-unit id="10571"><xliff:source>Morytania echo orb</xliff:source><xliff:target state="translated">モリタニアの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30396</xliff:note></xliff:trans-unit><xliff:trans-unit id="10571"><xliff:source>Morytania echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Morytania echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30397</xliff:note></xliff:trans-unit><xliff:trans-unit id="10572"><xliff:source>Tirannwn echo orb</xliff:source><xliff:target state="translated">ティランワンの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30397</xliff:note></xliff:trans-unit><xliff:trans-unit id="10572"><xliff:source>Tirannwn echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Tirannwn echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30398</xliff:note></xliff:trans-unit><xliff:trans-unit id="10573"><xliff:source>Wilderness echo orb</xliff:source><xliff:target state="translated">ウィルダネスの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30398</xliff:note></xliff:trans-unit><xliff:trans-unit id="10573"><xliff:source>Wilderness echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Wilderness echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30399</xliff:note></xliff:trans-unit><xliff:trans-unit id="10574"><xliff:source>Kourend echo orb</xliff:source><xliff:target state="translated">クーレンドの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30399</xliff:note></xliff:trans-unit><xliff:trans-unit id="10574"><xliff:source>Kourend echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Kourend echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30400</xliff:note></xliff:trans-unit><xliff:trans-unit id="10575"><xliff:source>Varlamore echo orb</xliff:source><xliff:target state="translated">ヴァーラモーの反響オーブ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30400</xliff:note></xliff:trans-unit><xliff:trans-unit id="10575"><xliff:source>Varlamore echo orb</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Varlamore echo orb
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30401</xliff:note></xliff:trans-unit><xliff:trans-unit id="10576"><xliff:source>Raids megarare voucher</xliff:source><xliff:target state="translated">レイドの激レア券</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30401</xliff:note></xliff:trans-unit><xliff:trans-unit id="10576"><xliff:source>Raids megarare voucher</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raids megarare voucher
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30402</xliff:note></xliff:trans-unit><xliff:trans-unit id="10577"><xliff:source>Raging echoes hat (t1)</xliff:source><xliff:target state="translated">荒れた残響の防止（lvl1）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30402</xliff:note></xliff:trans-unit><xliff:trans-unit id="10577"><xliff:source>Raging echoes hat (t1)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes hat (t1)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30404</xliff:note></xliff:trans-unit><xliff:trans-unit id="10578"><xliff:source>Raging echoes top (t1)</xliff:source><xliff:target state="translated">荒れた残響のトップ（lvl1)</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30404</xliff:note></xliff:trans-unit><xliff:trans-unit id="10578"><xliff:source>Raging echoes top (t1)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes top (t1)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30406</xliff:note></xliff:trans-unit><xliff:trans-unit id="10579"><xliff:source>Raging echoes robeskirt (t1)</xliff:source><xliff:target state="translated">荒れた残響のローブ（lvl1）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30406</xliff:note></xliff:trans-unit><xliff:trans-unit id="10579"><xliff:source>Raging echoes robeskirt (t1)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes robeskirt (t1)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30408</xliff:note></xliff:trans-unit><xliff:trans-unit id="10580"><xliff:source>Raging echoes boots (t1)</xliff:source><xliff:target state="translated">荒れた残響の靴（lvl1）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30408</xliff:note></xliff:trans-unit><xliff:trans-unit id="10580"><xliff:source>Raging echoes boots (t1)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes boots (t1)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30410</xliff:note></xliff:trans-unit><xliff:trans-unit id="10581"><xliff:source>Raging echoes hat (t2)</xliff:source><xliff:target state="translated">荒れた残響の防止（lvl2）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30410</xliff:note></xliff:trans-unit><xliff:trans-unit id="10581"><xliff:source>Raging echoes hat (t2)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes hat (t2)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30412</xliff:note></xliff:trans-unit><xliff:trans-unit id="10582"><xliff:source>Raging echoes top (t2)</xliff:source><xliff:target state="translated">荒れた残響のトップ（lvl2)</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30412</xliff:note></xliff:trans-unit><xliff:trans-unit id="10582"><xliff:source>Raging echoes top (t2)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes top (t2)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30414</xliff:note></xliff:trans-unit><xliff:trans-unit id="10583"><xliff:source>Raging echoes robeskirt (t2)</xliff:source><xliff:target state="translated">荒れた残響のローブ（lvl2）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30414</xliff:note></xliff:trans-unit><xliff:trans-unit id="10583"><xliff:source>Raging echoes robeskirt (t2)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes robeskirt (t2)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30416</xliff:note></xliff:trans-unit><xliff:trans-unit id="10584"><xliff:source>Raging echoes boots (t2)</xliff:source><xliff:target state="translated">荒れた残響の靴（lvl2）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30416</xliff:note></xliff:trans-unit><xliff:trans-unit id="10584"><xliff:source>Raging echoes boots (t2)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes boots (t2)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30418</xliff:note></xliff:trans-unit><xliff:trans-unit id="10585"><xliff:source>Raging echoes hat (t3)</xliff:source><xliff:target state="translated">荒れた残響の防止（lvl3）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30418</xliff:note></xliff:trans-unit><xliff:trans-unit id="10585"><xliff:source>Raging echoes hat (t3)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes hat (t3)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30420</xliff:note></xliff:trans-unit><xliff:trans-unit id="10586"><xliff:source>Raging echoes top (t3)</xliff:source><xliff:target state="translated">荒れた残響のトップ（lvl3)</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30420</xliff:note></xliff:trans-unit><xliff:trans-unit id="10586"><xliff:source>Raging echoes top (t3)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes top (t3)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30422</xliff:note></xliff:trans-unit><xliff:trans-unit id="10587"><xliff:source>Raging echoes robeskirt (t3)</xliff:source><xliff:target state="translated">荒れた残響のローブ（lvl3）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30422</xliff:note></xliff:trans-unit><xliff:trans-unit id="10587"><xliff:source>Raging echoes robeskirt (t3)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes robeskirt (t3)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30424</xliff:note></xliff:trans-unit><xliff:trans-unit id="10588"><xliff:source>Raging echoes boots (t3)</xliff:source><xliff:target state="translated">荒れた残響の靴（lvl3）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30424</xliff:note></xliff:trans-unit><xliff:trans-unit id="10588"><xliff:source>Raging echoes boots (t3)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes boots (t3)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30426</xliff:note></xliff:trans-unit><xliff:trans-unit id="10589"><xliff:source>Raging echoes cane</xliff:source><xliff:target state="translated">荒れた残響の杖</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30426</xliff:note></xliff:trans-unit><xliff:trans-unit id="10589"><xliff:source>Raging echoes cane</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes cane
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30428</xliff:note></xliff:trans-unit><xliff:trans-unit id="10590"><xliff:source>Raging echoes banner</xliff:source><xliff:target state="translated">荒れた残響のバナー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30428</xliff:note></xliff:trans-unit><xliff:trans-unit id="10590"><xliff:source>Raging echoes banner</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes banner
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30430</xliff:note></xliff:trans-unit><xliff:trans-unit id="10591"><xliff:source>Echo venator bow ornament kit</xliff:source><xliff:target state="translated">反響するベネターの弓の装飾キット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30430</xliff:note></xliff:trans-unit><xliff:trans-unit id="10591"><xliff:source>Echo venator bow ornament kit</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo venator bow ornament kit
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30432</xliff:note></xliff:trans-unit><xliff:trans-unit id="10592"><xliff:source>Echo venator bow</xliff:source><xliff:target state="translated">反響するベネターの弓</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30432</xliff:note></xliff:trans-unit><xliff:trans-unit id="10592"><xliff:source>Echo venator bow</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo venator bow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30434</xliff:note></xliff:trans-unit><xliff:trans-unit id="10593"><xliff:source>Echo venator bow (uncharged)</xliff:source><xliff:target state="translated">反響するベネターの弓（無力）</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30434</xliff:note></xliff:trans-unit><xliff:trans-unit id="10593"><xliff:source>Echo venator bow (uncharged)</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo venator bow (uncharged)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30436</xliff:note></xliff:trans-unit><xliff:trans-unit id="10594"><xliff:source>Echo virtus mask</xliff:source><xliff:target state="translated">反響するヴァータス・マスク</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30436</xliff:note></xliff:trans-unit><xliff:trans-unit id="10594"><xliff:source>Echo virtus mask</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo virtus mask
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30437</xliff:note></xliff:trans-unit><xliff:trans-unit id="10595"><xliff:source>Echo virtus robe top</xliff:source><xliff:target state="translated">反響するヴァータス・ローブ上</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30437</xliff:note></xliff:trans-unit><xliff:trans-unit id="10595"><xliff:source>Echo virtus robe top</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo virtus robe top
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30439</xliff:note></xliff:trans-unit><xliff:trans-unit id="10596"><xliff:source>Echo virtus robe bottom</xliff:source><xliff:target state="translated">反響するヴァータス・ローブ下</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30439</xliff:note></xliff:trans-unit><xliff:trans-unit id="10596"><xliff:source>Echo virtus robe bottom</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo virtus robe bottom
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30441</xliff:note></xliff:trans-unit><xliff:trans-unit id="10597"><xliff:source>Echo virtus ornament kit</xliff:source><xliff:target state="translated">反響するヴァータスの装飾キット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30441</xliff:note></xliff:trans-unit><xliff:trans-unit id="10597"><xliff:source>Echo virtus ornament kit</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo virtus ornament kit
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30443</xliff:note></xliff:trans-unit><xliff:trans-unit id="10598"><xliff:source>Echo ahrim's hood</xliff:source><xliff:target state="translated">反響するアリムのフード</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30443</xliff:note></xliff:trans-unit><xliff:trans-unit id="10598"><xliff:source>Echo ahrim's hood</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo ahrim's hood
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30445</xliff:note></xliff:trans-unit><xliff:trans-unit id="10599"><xliff:source>Echo ahrim's robetop</xliff:source><xliff:target state="translated">反響するアリムのローブ上</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30445</xliff:note></xliff:trans-unit><xliff:trans-unit id="10599"><xliff:source>Echo ahrim's robetop</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo ahrim's robetop
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30447</xliff:note></xliff:trans-unit><xliff:trans-unit id="10600"><xliff:source>Echo ahrim's robeskirt</xliff:source><xliff:target state="translated">反響するアリムのローブスカート</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30447</xliff:note></xliff:trans-unit><xliff:trans-unit id="10600"><xliff:source>Echo ahrim's robeskirt</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo ahrim's robeskirt
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30449</xliff:note></xliff:trans-unit><xliff:trans-unit id="10601"><xliff:source>Echo ahrim's ornament kit</xliff:source><xliff:target state="translated">反響するアリムの装飾キット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30449</xliff:note></xliff:trans-unit><xliff:trans-unit id="10601"><xliff:source>Echo ahrim's ornament kit</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo ahrim's ornament kit
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30451</xliff:note></xliff:trans-unit><xliff:trans-unit id="10602"><xliff:source>Echo home teleport scroll</xliff:source><xliff:target state="translated">反響する家ワープの巻物</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30451</xliff:note></xliff:trans-unit><xliff:trans-unit id="10602"><xliff:source>Echo home teleport scroll</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Echo home teleport scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30453</xliff:note></xliff:trans-unit><xliff:trans-unit id="10603"><xliff:source>Raging echoes death scroll</xliff:source><xliff:target state="translated">荒れた反響の死の巻物</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30453</xliff:note></xliff:trans-unit><xliff:trans-unit id="10603"><xliff:source>Raging echoes death scroll</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes death scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30455</xliff:note></xliff:trans-unit><xliff:trans-unit id="10604"><xliff:source>Raging echoes npc contact scroll</xliff:source><xliff:target state="translated">荒れた反響のNPC通信の巻物</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30455</xliff:note></xliff:trans-unit><xliff:trans-unit id="10604"><xliff:source>Raging echoes npc contact scroll</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes npc contact scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30457</xliff:note></xliff:trans-unit><xliff:trans-unit id="10605"><xliff:source>Raging echoes nexus scroll</xliff:source><xliff:target state="translated">荒れた反響のネクサスの巻物</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30457</xliff:note></xliff:trans-unit><xliff:trans-unit id="10605"><xliff:source>Raging echoes nexus scroll</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes nexus scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30459</xliff:note></xliff:trans-unit><xliff:trans-unit id="10606"><xliff:source>Raging echoes portal scroll</xliff:source><xliff:target state="translated">荒れた反響のポータルの巻物</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30459</xliff:note></xliff:trans-unit><xliff:trans-unit id="10606"><xliff:source>Raging echoes portal scroll</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes portal scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30461</xliff:note></xliff:trans-unit><xliff:trans-unit id="10607"><xliff:source>Raging echoes nexus rug</xliff:source><xliff:target state="translated">荒れた反響のネクサスのカーペット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30461</xliff:note></xliff:trans-unit><xliff:trans-unit id="10607"><xliff:source>Raging echoes nexus rug</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes nexus rug
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30463</xliff:note></xliff:trans-unit><xliff:trans-unit id="10608"><xliff:source>Raging echoes dragon trophy</xliff:source><xliff:target state="translated">荒れた反響の竜鉄のトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30463</xliff:note></xliff:trans-unit><xliff:trans-unit id="10608"><xliff:source>Raging echoes dragon trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes dragon trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30465</xliff:note></xliff:trans-unit><xliff:trans-unit id="10609"><xliff:source>Raging echoes rune trophy</xliff:source><xliff:target state="translated">荒れた反響のルーンのトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30465</xliff:note></xliff:trans-unit><xliff:trans-unit id="10609"><xliff:source>Raging echoes rune trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes rune trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30467</xliff:note></xliff:trans-unit><xliff:trans-unit id="10610"><xliff:source>Raging echoes adamant trophy</xliff:source><xliff:target state="translated">荒れた反響のアダマントのトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30467</xliff:note></xliff:trans-unit><xliff:trans-unit id="10610"><xliff:source>Raging echoes adamant trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes adamant trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30469</xliff:note></xliff:trans-unit><xliff:trans-unit id="10611"><xliff:source>Raging echoes mithril trophy</xliff:source><xliff:target state="translated">荒れた反響のミスリルのトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30469</xliff:note></xliff:trans-unit><xliff:trans-unit id="10611"><xliff:source>Raging echoes mithril trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes mithril trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30471</xliff:note></xliff:trans-unit><xliff:trans-unit id="10612"><xliff:source>Raging echoes steel trophy</xliff:source><xliff:target state="translated">荒れた反響の鋼鉄のトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30471</xliff:note></xliff:trans-unit><xliff:trans-unit id="10612"><xliff:source>Raging echoes steel trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes steel trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30473</xliff:note></xliff:trans-unit><xliff:trans-unit id="10613"><xliff:source>Raging echoes iron trophy</xliff:source><xliff:target state="translated">荒れた反響の鉄のトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30473</xliff:note></xliff:trans-unit><xliff:trans-unit id="10613"><xliff:source>Raging echoes iron trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes iron trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30475</xliff:note></xliff:trans-unit><xliff:trans-unit id="10614"><xliff:source>Raging echoes bronze trophy</xliff:source><xliff:target state="translated">荒れた反響の青銅のトロフィー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30475</xliff:note></xliff:trans-unit><xliff:trans-unit id="10614"><xliff:source>Raging echoes bronze trophy</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Raging echoes bronze trophy
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30477</xliff:note></xliff:trans-unit><xliff:trans-unit id="10615"><xliff:source>Present box hat</xliff:source><xliff:target state="translated">プレゼント・ハット</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30477</xliff:note></xliff:trans-unit><xliff:trans-unit id="10615"><xliff:source>Present box hat</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Present box hat
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30479</xliff:note></xliff:trans-unit><xliff:trans-unit id="10616"><xliff:source>Dog disguise</xliff:source><xliff:target state="translated">犬のお面</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30479</xliff:note></xliff:trans-unit><xliff:trans-unit id="10616"><xliff:source>Dog disguise</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Dog disguise
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30487</xliff:note></xliff:trans-unit><xliff:trans-unit id="10617"><xliff:source>Festive scarf</xliff:source><xliff:target state="translated">祝祭のマフラー</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30487</xliff:note></xliff:trans-unit><xliff:trans-unit id="10617"><xliff:source>Festive scarf</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Festive scarf
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30489</xliff:note></xliff:trans-unit><xliff:trans-unit id="10618"><xliff:source>Dog boots</xliff:source><xliff:target state="translated">犬のブーツ</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30489</xliff:note></xliff:trans-unit><xliff:trans-unit id="10618"><xliff:source>Dog boots</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Dog boots
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30491</xliff:note></xliff:trans-unit><xliff:trans-unit id="10619"><xliff:source>Invitations</xliff:source><xliff:target state="translated">招待状</xliff:target><xliff:note>category: name
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30491</xliff:note></xliff:trans-unit><xliff:trans-unit id="10619"><xliff:source>Invitations</xliff:source><xliff:target></xliff:target><xliff:note>category: name
 sub_category: item
 source: Invitations
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30493</xliff:note></xliff:trans-unit><xliff:trans-unit id="10620"><xliff:source>Auto-weed</xliff:source><xliff:target state="translated">自動除草</xliff:target><xliff:note>category: name
-sub_category: item
-source: Auto-weed
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1459</xliff:note></xliff:trans-unit><xliff:trans-unit id="10621"><xliff:source>Soul talisman</xliff:source><xliff:target state="translated">魂のタリスマン</xliff:target><xliff:note>category: name
-sub_category: item
-source: Soul talisman
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1460</xliff:note></xliff:trans-unit><xliff:trans-unit id="10622"><xliff:source>Auto-weed (deactivated)</xliff:source><xliff:target state="translated">自動除草（無効）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Auto-weed (deactivated)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5546</xliff:note></xliff:trans-unit><xliff:trans-unit id="10623"><xliff:source>Gricoller's can (refill)</xliff:source><xliff:target state="translated">グリコラーのジョウロ（満たす）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Gricoller's can (refill)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5551</xliff:note></xliff:trans-unit><xliff:trans-unit id="10624"><xliff:source>Auto-weed (activated)</xliff:source><xliff:target state="translated">自動除草（有効）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Auto-weed (activated)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5552</xliff:note></xliff:trans-unit><xliff:trans-unit id="10625"><xliff:source>Teak mounted head display</xliff:source><xliff:target state="translated">チークの頭部の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Teak mounted head display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8087</xliff:note></xliff:trans-unit><xliff:trans-unit id="10626"><xliff:source>Mahogany mounted head display</xliff:source><xliff:target state="translated">マホガニーの頭部の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Mahogany mounted head display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8088</xliff:note></xliff:trans-unit><xliff:trans-unit id="10627"><xliff:source>Gilded mounted head display</xliff:source><xliff:target state="translated">黄金の頭部の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Gilded mounted head display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8089</xliff:note></xliff:trans-unit><xliff:trans-unit id="10628"><xliff:source>Oak mounted fish display</xliff:source><xliff:target state="translated">樫の魚の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oak mounted fish display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11599</xliff:note></xliff:trans-unit><xliff:trans-unit id="10629"><xliff:source>Mahogany mounted fish display</xliff:source><xliff:target state="translated">マホガニーの魚の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Mahogany mounted fish display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11601</xliff:note></xliff:trans-unit><xliff:trans-unit id="10630"><xliff:source>Teak mounted fish display</xliff:source><xliff:target state="translated">チークの魚の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Teak mounted fish display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11603</xliff:note></xliff:trans-unit><xliff:trans-unit id="10631"><xliff:source>Raging echoes portal nexus</xliff:source><xliff:target state="translated">荒れた反響のポータル・ネクサス</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes portal nexus
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30497</xliff:note></xliff:trans-unit><xliff:trans-unit id="10632"><xliff:source>Raging echoes portal</xliff:source><xliff:target state="translated">荒れた反響のポータル</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes portal
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30498</xliff:note></xliff:trans-unit><xliff:trans-unit id="10633"><xliff:source>Raging echoes spirit tree &amp; fairy ring</xliff:source><xliff:target state="translated">荒れた反響の精霊樹と妖精の輪</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes spirit tree &amp; fairy ring
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30500</xliff:note></xliff:trans-unit><xliff:trans-unit id="10634"><xliff:source>Raging echoes rug</xliff:source><xliff:target state="translated">荒れた反響のカーペット</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes rug
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30501</xliff:note></xliff:trans-unit><xliff:trans-unit id="10635"><xliff:source>Raging echoes curtains</xliff:source><xliff:target state="translated">荒れた反響のカーテン</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes curtains
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30502</xliff:note></xliff:trans-unit><xliff:trans-unit id="10636"><xliff:source>Echo ahrim's hood 100</xliff:source><xliff:target state="translated">反響するアリムのフード100</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's hood 100
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30519</xliff:note></xliff:trans-unit><xliff:trans-unit id="10637"><xliff:source>Echo ahrim's robetop 100</xliff:source><xliff:target state="translated">反響するアリムのローブ上100</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robetop 100
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30521</xliff:note></xliff:trans-unit><xliff:trans-unit id="10638"><xliff:source>Echo ahrim's robeskirt 100</xliff:source><xliff:target state="translated">反響するアリムのローブスカート100</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robeskirt 100
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30523</xliff:note></xliff:trans-unit><xliff:trans-unit id="10639"><xliff:source>Echo ahrim's hood 75</xliff:source><xliff:target state="translated">反響するアリムのフード75</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's hood 75
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30525</xliff:note></xliff:trans-unit><xliff:trans-unit id="10640"><xliff:source>Echo ahrim's robetop 75</xliff:source><xliff:target state="translated">反響するアリムのローブ上75</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robetop 75
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30527</xliff:note></xliff:trans-unit><xliff:trans-unit id="10641"><xliff:source>Echo ahrim's robeskirt 75</xliff:source><xliff:target state="translated">反響するアリムのローブスカート75</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robeskirt 75
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30529</xliff:note></xliff:trans-unit><xliff:trans-unit id="10642"><xliff:source>Echo ahrim's hood 50</xliff:source><xliff:target state="translated">反響するアリムのフード50</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's hood 50
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30531</xliff:note></xliff:trans-unit><xliff:trans-unit id="10643"><xliff:source>Echo ahrim's robetop 50</xliff:source><xliff:target state="translated">反響するアリムのローブ上50</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robetop 50
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30533</xliff:note></xliff:trans-unit><xliff:trans-unit id="10644"><xliff:source>Echo ahrim's robeskirt 50</xliff:source><xliff:target state="translated">反響するアリムのローブスカート50</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robeskirt 50
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30535</xliff:note></xliff:trans-unit><xliff:trans-unit id="10645"><xliff:source>Echo ahrim's hood 25</xliff:source><xliff:target state="translated">反響するアリムのフード25</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's hood 25
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30537</xliff:note></xliff:trans-unit><xliff:trans-unit id="10646"><xliff:source>Echo ahrim's robetop 25</xliff:source><xliff:target state="translated">反響するアリムのローブ上25</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robetop 25
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30539</xliff:note></xliff:trans-unit><xliff:trans-unit id="10647"><xliff:source>Echo ahrim's robeskirt 25</xliff:source><xliff:target state="translated">反響するアリムのローブスカート25</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robeskirt 25
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30541</xliff:note></xliff:trans-unit><xliff:trans-unit id="10648"><xliff:source>Echo ahrim's hood 0</xliff:source><xliff:target state="translated">反響するアリムのフード0</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's hood 0
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30543</xliff:note></xliff:trans-unit><xliff:trans-unit id="10649"><xliff:source>Echo ahrim's robetop 0</xliff:source><xliff:target state="translated">反響するアリムのローブ上0</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robetop 0
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30545</xliff:note></xliff:trans-unit><xliff:trans-unit id="10650"><xliff:source>Echo ahrim's robeskirt 0</xliff:source><xliff:target state="translated">反響するアリムのローブスカート0</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's robeskirt 0
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30547</xliff:note></xliff:trans-unit><xliff:trans-unit id="10651"><xliff:source>Raging echoes scrying pool scroll</xliff:source><xliff:target state="translated">荒れた反響の透視の水たまりの巻物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes scrying pool scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30560</xliff:note></xliff:trans-unit><xliff:trans-unit id="10652"><xliff:source>Raging echoes spirit tree scroll</xliff:source><xliff:target state="translated">荒れた反響の精霊樹の巻物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes spirit tree scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30563</xliff:note></xliff:trans-unit><xliff:trans-unit id="10653"><xliff:source>Raging echoes spirit tree</xliff:source><xliff:target state="translated">荒れた反響の精霊樹</xliff:target><xliff:note>category: name
-sub_category: item
-source: Raging echoes spirit tree
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30567</xliff:note></xliff:trans-unit><xliff:trans-unit id="10654"><xliff:source>Echo ahrim's staff</xliff:source><xliff:target state="translated">反響するアリムの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's staff
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30568</xliff:note></xliff:trans-unit><xliff:trans-unit id="10655"><xliff:source>Echo ahrim's staff 100</xliff:source><xliff:target state="translated">反響するアリムの杖100</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's staff 100
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30570</xliff:note></xliff:trans-unit><xliff:trans-unit id="10656"><xliff:source>Echo ahrim's staff 75</xliff:source><xliff:target state="translated">反響するアリムの杖75</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's staff 75
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30571</xliff:note></xliff:trans-unit><xliff:trans-unit id="10657"><xliff:source>Echo ahrim's staff 50</xliff:source><xliff:target state="translated">反響するアリムの杖50</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's staff 50
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30572</xliff:note></xliff:trans-unit><xliff:trans-unit id="10658"><xliff:source>Echo ahrim's staff 25</xliff:source><xliff:target state="translated">反響するアリムの杖25</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's staff 25
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30573</xliff:note></xliff:trans-unit><xliff:trans-unit id="10659"><xliff:source>Echo ahrim's staff 0</xliff:source><xliff:target state="translated">反響するアリムの杖0</xliff:target><xliff:note>category: name
-sub_category: item
-source: Echo ahrim's staff 0
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30574</xliff:note></xliff:trans-unit><xliff:trans-unit id="10660"><xliff:source>Bounty supply crate</xliff:source><xliff:target state="translated">懸賞の物資クレート</xliff:target><xliff:note>category: name
-sub_category: item
-source: Bounty supply crate
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30576</xliff:note></xliff:trans-unit><xliff:trans-unit id="10661"><xliff:source>Bronze staff of collection</xliff:source><xliff:target state="translated">青銅のコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Bronze staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30597</xliff:note></xliff:trans-unit><xliff:trans-unit id="10662"><xliff:source>Iron staff of collection</xliff:source><xliff:target state="translated">鉄ののコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Iron staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30599</xliff:note></xliff:trans-unit><xliff:trans-unit id="10663"><xliff:source>Steel staff of collection</xliff:source><xliff:target state="translated">鋼鉄のコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Steel staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30601</xliff:note></xliff:trans-unit><xliff:trans-unit id="10664"><xliff:source>Black staff of collection</xliff:source><xliff:target state="translated">黒鉄のコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Black staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30603</xliff:note></xliff:trans-unit><xliff:trans-unit id="10665"><xliff:source>Mithril staff of collection</xliff:source><xliff:target state="translated">ミスリルのコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Mithril staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30605</xliff:note></xliff:trans-unit><xliff:trans-unit id="10666"><xliff:source>Adamant staff of collection</xliff:source><xliff:target state="translated">アダマントのコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Adamant staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30607</xliff:note></xliff:trans-unit><xliff:trans-unit id="10667"><xliff:source>Rune staff of collection</xliff:source><xliff:target state="translated">ルーンのコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Rune staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30609</xliff:note></xliff:trans-unit><xliff:trans-unit id="10668"><xliff:source>Dragon staff of collection</xliff:source><xliff:target state="translated">竜鉄のコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Dragon staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30611</xliff:note></xliff:trans-unit><xliff:trans-unit id="10669"><xliff:source>Gilded staff of collection</xliff:source><xliff:target state="translated">黄金のコレクションの杖</xliff:target><xliff:note>category: name
-sub_category: item
-source: Gilded staff of collection
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30613</xliff:note></xliff:trans-unit><xliff:trans-unit id="10670"><xliff:source>Bounty supply crate (manta ray)</xliff:source><xliff:target state="translated">懸賞の物資箱（マンタ）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Bounty supply crate (manta ray)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30616</xliff:note></xliff:trans-unit><xliff:trans-unit id="10671"><xliff:source>Bounty supply crate (anglerfish)</xliff:source><xliff:target state="translated">懸賞の物資箱（ペリカンアンコウ）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Bounty supply crate (anglerfish)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30619</xliff:note></xliff:trans-unit><xliff:trans-unit id="10672"><xliff:source>Bran</xliff:source><xliff:target state="translated">ブラン</xliff:target><xliff:note>category: name
-sub_category: item
-source: Bran
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30622</xliff:note></xliff:trans-unit><xliff:trans-unit id="10673"><xliff:source>Ric</xliff:source><xliff:target state="translated">リック</xliff:target><xliff:note>category: name
-sub_category: item
-source: Ric
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30624</xliff:note></xliff:trans-unit><xliff:trans-unit id="10674"><xliff:source>Deadeye prayer scroll</xliff:source><xliff:target state="translated">鋭い射手の祈りの巻物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Deadeye prayer scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30626</xliff:note></xliff:trans-unit><xliff:trans-unit id="10675"><xliff:source>Mystic vigour prayer scroll</xliff:source><xliff:target state="translated">秘伝の活力の祈りの巻物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Mystic vigour prayer scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30627</xliff:note></xliff:trans-unit><xliff:trans-unit id="10676"><xliff:source>Ice element staff crown</xliff:source><xliff:target state="translated">氷元素の杖の王冠</xliff:target><xliff:note>category: name
-sub_category: item
-source: Ice element staff crown
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30628</xliff:note></xliff:trans-unit><xliff:trans-unit id="10677"><xliff:source>Fire element staff crown</xliff:source><xliff:target state="translated">炎元素の杖の王冠</xliff:target><xliff:note>category: name
-sub_category: item
-source: Fire element staff crown
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30631</xliff:note></xliff:trans-unit><xliff:trans-unit id="10678"><xliff:source>Twinflame staff</xliff:source><xliff:target state="translated">ツインフレーム・スタッフ</xliff:target><xliff:note>category: name
-sub_category: item
-source: Twinflame staff
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30634</xliff:note></xliff:trans-unit><xliff:trans-unit id="10679"><xliff:source>Giantsoul amulet (uncharged)</xliff:source><xliff:target state="translated">巨人魂のアミュレット（無力）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Giantsoul amulet (uncharged)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30637</xliff:note></xliff:trans-unit><xliff:trans-unit id="10680"><xliff:source>Giantsoul amulet</xliff:source><xliff:target state="translated">巨人魂のアミュレット</xliff:target><xliff:note>category: name
-sub_category: item
-source: Giantsoul amulet
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30638</xliff:note></xliff:trans-unit><xliff:trans-unit id="10681"><xliff:source>Desiccated page</xliff:source><xliff:target state="translated">乾燥したページ</xliff:target><xliff:note>category: name
-sub_category: item
-source: Desiccated page
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30640</xliff:note></xliff:trans-unit><xliff:trans-unit id="10682"><xliff:source>Hunters' loot sack (supplies)</xliff:source><xliff:target state="translated">狩人の戦利品のカバン（物資）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Hunters' loot sack (supplies)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30644</xliff:note></xliff:trans-unit><xliff:trans-unit id="10683"><xliff:source>Classic imp tail</xliff:source><xliff:target state="translated">クラシックな小悪魔の尻尾</xliff:target><xliff:note>category: name
-sub_category: item
-source: Classic imp tail
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30646</xliff:note></xliff:trans-unit><xliff:trans-unit id="10684"><xliff:source>Classic imp hood</xliff:source><xliff:target state="translated">クラシックな小悪魔のフード</xliff:target><xliff:note>category: name
-sub_category: item
-source: Classic imp hood
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30648</xliff:note></xliff:trans-unit><xliff:trans-unit id="10685"><xliff:source>Teak display</xliff:source><xliff:target state="translated">チークの展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Teak display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30650</xliff:note></xliff:trans-unit><xliff:trans-unit id="10686"><xliff:source>Mahogany display</xliff:source><xliff:target state="translated">マホガニーの展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Mahogany display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30651</xliff:note></xliff:trans-unit><xliff:trans-unit id="10687"><xliff:source>Gilded display</xliff:source><xliff:target state="translated">黄金の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Gilded display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30653</xliff:note></xliff:trans-unit><xliff:trans-unit id="10688"><xliff:source>Oak display</xliff:source><xliff:target state="translated">樫の展示</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oak display
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30663</xliff:note></xliff:trans-unit><xliff:trans-unit id="10689"><xliff:source>Nimbleness charm</xliff:source><xliff:target state="translated">身軽のお守り</xliff:target><xliff:note>category: name
-sub_category: item
-source: Nimbleness charm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30676</xliff:note></xliff:trans-unit><xliff:trans-unit id="10690"><xliff:source>Stockpiling charm</xliff:source><xliff:target state="translated">蓄積のお守り</xliff:target><xliff:note>category: name
-sub_category: item
-source: Stockpiling charm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30679</xliff:note></xliff:trans-unit><xliff:trans-unit id="10691"><xliff:source>Accumulation charm</xliff:source><xliff:target state="translated">集積のお守り</xliff:target><xliff:note>category: name
-sub_category: item
-source: Accumulation charm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30682</xliff:note></xliff:trans-unit><xliff:trans-unit id="10692"><xliff:source>Vulnerability charm</xliff:source><xliff:target state="translated">脆弱性のお守り</xliff:target><xliff:note>category: name
-sub_category: item
-source: Vulnerability charm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30685</xliff:note></xliff:trans-unit><xliff:trans-unit id="10693"><xliff:source>Broken charm</xliff:source><xliff:target state="translated">壊れたお守り</xliff:target><xliff:note>category: name
-sub_category: item
-source: Broken charm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30688</xliff:note></xliff:trans-unit><xliff:trans-unit id="10694"><xliff:source>Trinket dust</xliff:source><xliff:target state="translated">装身具の塵</xliff:target><xliff:note>category: name
-sub_category: item
-source: Trinket dust
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30689</xliff:note></xliff:trans-unit><xliff:trans-unit id="10695"><xliff:source>Castle wars supply crate</xliff:source><xliff:target state="translated">キャッスル・ウォーズの物資クレート</xliff:target><xliff:note>category: name
-sub_category: item
-source: Castle wars supply crate
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30690</xliff:note></xliff:trans-unit><xliff:trans-unit id="10696"><xliff:source>Castle wars arrow</xliff:source><xliff:target state="translated">キャッスル・ウォーズの矢</xliff:target><xliff:note>category: name
-sub_category: item
-source: Castle wars arrow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30694</xliff:note></xliff:trans-unit><xliff:trans-unit id="10697"><xliff:source>Castle wars bolts</xliff:source><xliff:target state="translated">キャッスル・ウォーズのボルト</xliff:target><xliff:note>category: name
-sub_category: item
-source: Castle wars bolts
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30696</xliff:note></xliff:trans-unit><xliff:trans-unit id="10698"><xliff:source>Carrot costume hat</xliff:source><xliff:target state="translated">人参コスプレの帽子</xliff:target><xliff:note>category: name
-sub_category: item
-source: Carrot costume hat
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30720</xliff:note></xliff:trans-unit><xliff:trans-unit id="10699"><xliff:source>Carrot costume body</xliff:source><xliff:target state="translated">人参コスプレのボディ</xliff:target><xliff:note>category: name
-sub_category: item
-source: Carrot costume body
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30722</xliff:note></xliff:trans-unit><xliff:trans-unit id="10700"><xliff:source>Carrot costume tights</xliff:source><xliff:target state="translated">人参コスプレのタイツ</xliff:target><xliff:note>category: name
-sub_category: item
-source: Carrot costume tights
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30724</xliff:note></xliff:trans-unit><xliff:trans-unit id="10701"><xliff:source>Carrot costume gloves</xliff:source><xliff:target state="translated">人参コスプレの手袋</xliff:target><xliff:note>category: name
-sub_category: item
-source: Carrot costume gloves
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30726</xliff:note></xliff:trans-unit><xliff:trans-unit id="10702"><xliff:source>Oathplate armour set</xliff:source><xliff:target state="translated">オースプレート防具セット</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oathplate armour set
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30744</xliff:note></xliff:trans-unit><xliff:trans-unit id="10703"><xliff:source>Demon dung</xliff:source><xliff:target state="translated">悪魔のフン</xliff:target><xliff:note>category: name
-sub_category: item
-source: Demon dung
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30747</xliff:note></xliff:trans-unit><xliff:trans-unit id="10704"><xliff:source>Oathplate helm</xliff:source><xliff:target state="translated">オースプレートの兜</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oathplate helm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30750</xliff:note></xliff:trans-unit><xliff:trans-unit id="10705"><xliff:source>Oathplate chest</xliff:source><xliff:target state="translated">オースプレートの胸部</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oathplate chest
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30753</xliff:note></xliff:trans-unit><xliff:trans-unit id="10706"><xliff:source>Oathplate legs</xliff:source><xliff:target state="translated">オースプレートの脚部</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oathplate legs
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30756</xliff:note></xliff:trans-unit><xliff:trans-unit id="10707"><xliff:source>Soulflame horn</xliff:source><xliff:target state="translated">魂炎の角</xliff:target><xliff:note>category: name
-sub_category: item
-source: Soulflame horn
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30759</xliff:note></xliff:trans-unit><xliff:trans-unit id="10708"><xliff:source>Forgotten lockbox</xliff:source><xliff:target state="translated">忘却の貸し金庫</xliff:target><xliff:note>category: name
-sub_category: item
-source: Forgotten lockbox
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30763</xliff:note></xliff:trans-unit><xliff:trans-unit id="10709"><xliff:source>Oathplate shards</xliff:source><xliff:target state="translated">オースプレートの破片</xliff:target><xliff:note>category: name
-sub_category: item
-source: Oathplate shards
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30765</xliff:note></xliff:trans-unit><xliff:trans-unit id="10710"><xliff:source>Aether catalyst</xliff:source><xliff:target state="translated">エーサーの触媒</xliff:target><xliff:note>category: name
-sub_category: item
-source: Aether catalyst
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30771</xliff:note></xliff:trans-unit><xliff:trans-unit id="10711"><xliff:source>Diabolic worms</xliff:source><xliff:target state="translated">悪魔のマムシ</xliff:target><xliff:note>category: name
-sub_category: item
-source: Diabolic worms
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30773</xliff:note></xliff:trans-unit><xliff:trans-unit id="10712"><xliff:source>Chasm teleport scroll</xliff:source><xliff:target state="translated">割れ目ワープの巻物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Chasm teleport scroll
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30775</xliff:note></xliff:trans-unit><xliff:trans-unit id="10713"><xliff:source>Radiant oathplate helm</xliff:source><xliff:target state="translated">輝くオースプレートの兜</xliff:target><xliff:note>category: name
-sub_category: item
-source: Radiant oathplate helm
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30777</xliff:note></xliff:trans-unit><xliff:trans-unit id="10714"><xliff:source>Radiant oathplate chest</xliff:source><xliff:target state="translated">輝くオースプレートの胸部</xliff:target><xliff:note>category: name
-sub_category: item
-source: Radiant oathplate chest
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30779</xliff:note></xliff:trans-unit><xliff:trans-unit id="10715"><xliff:source>Radiant oathplate legs</xliff:source><xliff:target state="translated">輝くオースプレートの脚部</xliff:target><xliff:note>category: name
-sub_category: item
-source: Radiant oathplate legs
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30781</xliff:note></xliff:trans-unit><xliff:trans-unit id="10716"><xliff:source>Purifying sigil (left)</xliff:source><xliff:target state="translated">浄化の紋章（左）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Purifying sigil (left)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30783</xliff:note></xliff:trans-unit><xliff:trans-unit id="10717"><xliff:source>Purifying sigil (right)</xliff:source><xliff:target state="translated">浄化の紋章（右）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Purifying sigil (right)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30785</xliff:note></xliff:trans-unit><xliff:trans-unit id="10718"><xliff:source>Purifying sigil (middle)</xliff:source><xliff:target state="translated">浄化の紋章（中）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Purifying sigil (middle)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30787</xliff:note></xliff:trans-unit><xliff:trans-unit id="10719"><xliff:source>Purifying sigil (top)</xliff:source><xliff:target state="translated">浄化の紋章（上）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Purifying sigil (top)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30789</xliff:note></xliff:trans-unit><xliff:trans-unit id="10720"><xliff:source>Purifying sigil (bottom)</xliff:source><xliff:target state="translated">浄化の紋章（下）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Purifying sigil (bottom)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30791</xliff:note></xliff:trans-unit><xliff:trans-unit id="10721"><xliff:source>Purifying sigil</xliff:source><xliff:target state="translated">浄化の紋章</xliff:target><xliff:note>category: name
-sub_category: item
-source: Purifying sigil
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30793</xliff:note></xliff:trans-unit><xliff:trans-unit id="10722"><xliff:source>Barrel of demonic tallow (full)</xliff:source><xliff:target state="translated">悪魔の獣脂の樽（満）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Barrel of demonic tallow (full)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30795</xliff:note></xliff:trans-unit><xliff:trans-unit id="10723"><xliff:source>Barrel of demonic tallow</xliff:source><xliff:target state="translated">悪魔の獣脂の樽</xliff:target><xliff:note>category: name
-sub_category: item
-source: Barrel of demonic tallow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30798</xliff:note></xliff:trans-unit><xliff:trans-unit id="10724"><xliff:source>Demonic tallow</xliff:source><xliff:target state="translated">悪魔の獣脂</xliff:target><xliff:note>category: name
-sub_category: item
-source: Demonic tallow
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30800</xliff:note></xliff:trans-unit><xliff:trans-unit id="10725"><xliff:source>Rite of vile transference</xliff:source><xliff:target state="translated">邪悪な移動の儀式</xliff:target><xliff:note>category: name
-sub_category: item
-source: Rite of vile transference
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30806</xliff:note></xliff:trans-unit><xliff:trans-unit id="10726"><xliff:source>Jim's wet cloth</xliff:source><xliff:target state="translated">ジムの濡れた布</xliff:target><xliff:note>category: name
-sub_category: item
-source: Jim's wet cloth
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30808</xliff:note></xliff:trans-unit><xliff:trans-unit id="10727"><xliff:source>Contract of glyphic attenuation</xliff:source><xliff:target state="translated">減衰するグリフの契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of glyphic attenuation
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30810</xliff:note></xliff:trans-unit><xliff:trans-unit id="10728"><xliff:source>Contract of sensory clouding</xliff:source><xliff:target state="translated">混濁する感覚の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of sensory clouding
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30813</xliff:note></xliff:trans-unit><xliff:trans-unit id="10729"><xliff:source>Contract of bloodied blows</xliff:source><xliff:target state="translated">血みどろの打撃の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of bloodied blows
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30816</xliff:note></xliff:trans-unit><xliff:trans-unit id="10730"><xliff:source>Contract of divine severance</xliff:source><xliff:target state="translated">神聖な断罪の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of divine severance
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30819</xliff:note></xliff:trans-unit><xliff:trans-unit id="10731"><xliff:source>Contract of forfeit breath</xliff:source><xliff:target state="translated">息絶える契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of forfeit breath
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30822</xliff:note></xliff:trans-unit><xliff:trans-unit id="10732"><xliff:source>Contract of oathplate acquisition</xliff:source><xliff:target state="translated">オースプレート入手の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of oathplate acquisition
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30825</xliff:note></xliff:trans-unit><xliff:trans-unit id="10733"><xliff:source>Contract of shard acquisition</xliff:source><xliff:target state="translated">破片入手の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of shard acquisition
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30828</xliff:note></xliff:trans-unit><xliff:trans-unit id="10734"><xliff:source>Contract of catalyst acquisition</xliff:source><xliff:target state="translated">触媒入手の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of catalyst acquisition
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30831</xliff:note></xliff:trans-unit><xliff:trans-unit id="10735"><xliff:source>Contract of worm acquisition</xliff:source><xliff:target state="translated">マムシ入手の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of worm acquisition
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30834</xliff:note></xliff:trans-unit><xliff:trans-unit id="10736"><xliff:source>Contract of harmony acquisition</xliff:source><xliff:target state="translated">ハーモニー入手の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of harmony acquisition
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30837</xliff:note></xliff:trans-unit><xliff:trans-unit id="10737"><xliff:source>Contract of familiar acquisition</xliff:source><xliff:target state="translated">召喚獣入手の契約書</xliff:target><xliff:note>category: name
-sub_category: item
-source: Contract of familiar acquisition
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30840</xliff:note></xliff:trans-unit><xliff:trans-unit id="10738"><xliff:source>Aether rune</xliff:source><xliff:target state="translated">エーサーのルーン</xliff:target><xliff:note>category: name
-sub_category: item
-source: Aether rune
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30843</xliff:note></xliff:trans-unit><xliff:trans-unit id="10739"><xliff:source>Infernal shale</xliff:source><xliff:target state="translated">獄炎の泥板岩</xliff:target><xliff:note>category: name
-sub_category: item
-source: Infernal shale
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30846</xliff:note></xliff:trans-unit><xliff:trans-unit id="10740"><xliff:source>Crushed infernal shale</xliff:source><xliff:target state="translated">砕かれた獄炎の泥板岩</xliff:target><xliff:note>category: name
-sub_category: item
-source: Crushed infernal shale
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30848</xliff:note></xliff:trans-unit><xliff:trans-unit id="10741"><xliff:source>Infernal blend</xliff:source><xliff:target state="translated">獄炎の混合物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Infernal blend
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30854</xliff:note></xliff:trans-unit><xliff:trans-unit id="10742"><xliff:source>Malformed infernal blend</xliff:source><xliff:target state="translated">不完全な獄炎の混合物</xliff:target><xliff:note>category: name
-sub_category: item
-source: Malformed infernal blend
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30856</xliff:note></xliff:trans-unit><xliff:trans-unit id="10743"><xliff:source>Infernal nugget</xliff:source><xliff:target state="translated">獄炎の一塊</xliff:target><xliff:note>category: name
-sub_category: item
-source: Infernal nugget
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30858</xliff:note></xliff:trans-unit><xliff:trans-unit id="10744"><xliff:source>Cooled infernal chunk</xliff:source><xliff:target state="translated">冷えた獄炎の塊</xliff:target><xliff:note>category: name
-sub_category: item
-source: Cooled infernal chunk
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30860</xliff:note></xliff:trans-unit><xliff:trans-unit id="10745"><xliff:source>Infernal chunk</xliff:source><xliff:target state="translated">獄炎の塊</xliff:target><xliff:note>category: name
-sub_category: item
-source: Infernal chunk
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30862</xliff:note></xliff:trans-unit><xliff:trans-unit id="10746"><xliff:source>Infernal plate</xliff:source><xliff:target state="translated">獄炎のプレート</xliff:target><xliff:note>category: name
-sub_category: item
-source: Infernal plate
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30864</xliff:note></xliff:trans-unit><xliff:trans-unit id="10747"><xliff:source>Surge potion(4)</xliff:source><xliff:target state="translated">サージの薬液（4）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Surge potion(4)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30875</xliff:note></xliff:trans-unit><xliff:trans-unit id="10748"><xliff:source>Surge potion(3)</xliff:source><xliff:target state="translated">サージの薬液（3）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Surge potion(3)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30878</xliff:note></xliff:trans-unit><xliff:trans-unit id="10749"><xliff:source>Surge potion(2)</xliff:source><xliff:target state="translated">サージの薬液（2）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Surge potion(2)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30881</xliff:note></xliff:trans-unit><xliff:trans-unit id="10750"><xliff:source>Surge potion(1)</xliff:source><xliff:target state="translated">サージの薬液（1）</xliff:target><xliff:note>category: name
-sub_category: item
-source: Surge potion(1)
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30884</xliff:note></xliff:trans-unit><xliff:trans-unit id="10751"><xliff:source>Polycatalytic guardian stone</xliff:source><xliff:target state="translated">多触媒の守護石</xliff:target><xliff:note>category: name
-sub_category: item
-source: Polycatalytic guardian stone
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30887</xliff:note></xliff:trans-unit><xliff:trans-unit id="10752"><xliff:source>Yami</xliff:source><xliff:target state="translated">ヤミ</xliff:target><xliff:note>category: name
-sub_category: item
-source: Yami
-wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30888</xliff:note></xliff:trans-unit></xliff:body>
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30493</xliff:note></xliff:trans-unit></xliff:body>
   </xliff:file>
 </xliff:xliff>

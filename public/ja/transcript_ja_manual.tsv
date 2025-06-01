@@ -151,12 +151,12 @@ Waxed Moustache		manual	hair_beard
 Dali		manual	hair_beard	
 Vizier		manual	hair_beard	
 Rimmington	リミングトン	manual	location	
-Taverley	タベリー	manual	location	
-Pollnivneach	ポルニヴネッチ	manual	location	
+Taverley		manual	location	
+Pollnivneach		manual	location	
 Rellekka	レレカ	manual	location	
 Brimhaven	ブリムヘブン	manual	location	
 Yanille	ヤニル	manual	location	
-Hosidius	ホシディアス	manual	location	
+Hosidius		manual	location	
 Prifddinas	プリフディナス	manual	location	
 Ardougne	アルドイン	manual	location	
 Desert	砂漠	manual	location	
@@ -212,7 +212,7 @@ Troll Stronghold	トロール要塞	manual	location
 Witchaven		manual	location	
 Civitas illa Fortis	シビリタス・イラ・フォーチス	manual	location	
 Avium Savannah		manual	location	
-Slayer Tower	討伐の塔	manual	location	
+Slayer Tower		manual	location	
 Catacombs of Kourend		manual	location	
 Stronghold Slayer Dungeon		manual	location	
 Karuulm Slayer Dungeon		manual	location	
@@ -261,7 +261,7 @@ Poison Waste Dungeon		manual	location
 Neypotzli		manual	location	
 The Teomat		manual	location	
 Sunset Coast		manual	location	
-Hunter Guild	狩人ギルド	manual	location	
+Hunter Guild		manual	location	
 Cam Torum Entrance		manual	location	
 Colossal Wyrm Remains		manual	location	
 Outer Fortis		manual	location	
@@ -289,7 +289,7 @@ Perilous Moons	危険な月	manual	location
 PvP Arena	PvPアリーナ	manual	location	
 Castle Wars	キャッスル・ウォーズ	manual	location	
 Ferox Enclave	フェロックス・オンクレーブ	manual	location	
-Warrior's Guild	戦士ギルド	manual	location	
+Warrior's Guild		manual	location	
 Champion's Guild 		manual	location	
 Monestery		manual	location	
 Ranging Guild	遠射ギルド	manual	location	
@@ -1407,12 +1407,12 @@ Waxed Moustache		manual	hair_beard
 Dali		manual	hair_beard	
 Vizier		manual	hair_beard	
 Rimmington	リミングトン	manual	location	
-Taverley	タベリー	manual	location	
-Pollnivneach	ポルニヴネッチ	manual	location	
+Taverley		manual	location	
+Pollnivneach		manual	location	
 Rellekka	レレカ	manual	location	
 Brimhaven	ブリムヘブン	manual	location	
 Yanille	ヤニル	manual	location	
-Hosidius	ホシディアス	manual	location	
+Hosidius		manual	location	
 Prifddinas	プリフディナス	manual	location	
 Ardougne	アルドイン	manual	location	
 Desert	砂漠	manual	location	
@@ -1468,7 +1468,7 @@ Troll Stronghold	トロール要塞	manual	location
 Witchaven		manual	location	
 Civitas illa Fortis	シビリタス・イラ・フォーチス	manual	location	
 Avium Savannah		manual	location	
-Slayer Tower	討伐の塔	manual	location	
+Slayer Tower		manual	location	
 Catacombs of Kourend		manual	location	
 Stronghold Slayer Dungeon		manual	location	
 Karuulm Slayer Dungeon		manual	location	
@@ -1517,7 +1517,7 @@ Poison Waste Dungeon		manual	location
 Neypotzli		manual	location	
 The Teomat		manual	location	
 Sunset Coast		manual	location	
-Hunter Guild	狩人ギルド	manual	location	
+Hunter Guild		manual	location	
 Cam Torum Entrance		manual	location	
 Colossal Wyrm Remains		manual	location	
 Outer Fortis		manual	location	
@@ -1545,7 +1545,7 @@ Perilous Moons	危険な月	manual	location
 PvP Arena	PvPアリーナ	manual	location	
 Castle Wars	キャッスル・ウォーズ	manual	location	
 Ferox Enclave	フェロックス・オンクレーブ	manual	location	
-Warrior's Guild	戦士ギルド	manual	location	
+Warrior's Guild		manual	location	
 Champion's Guild 		manual	location	
 Monestery		manual	location	
 Ranging Guild	遠射ギルド	manual	location	
