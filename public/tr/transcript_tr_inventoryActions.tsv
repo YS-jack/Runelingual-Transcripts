@@ -1,0 +1,516 @@
+english	translation	category	sub_category	source
+Destroy	Tahrip etmek	inventoryActions	item	Dwarf remains
+Drop	Düşürmek	inventoryActions	item	Cannonball
+Read	Okumak	inventoryActions	item	Nulodion's notes
+Set-up	Kurmak	inventoryActions	item	Cannon base
+Blow	Üflemek	inventoryActions	item	Magic whistle
+Ring	Yüzük	inventoryActions	item	Grail bell
+Blow-on	Üfleme	inventoryActions	item	Magic gold feather
+Extinguish	Söndürmek	inventoryActions	item	Lit black candle
+Wield	Kullan	inventoryActions	item	Excalibur
+Wear	Giymek	inventoryActions	item	Khazard helmet
+Empty	Boş	inventoryActions	item	Guam potion (unf)
+Drink	İçmek	inventoryActions	item	Strength potion(4)
+Clean	Temiz	inventoryActions	item	Grimy guam leaf
+Eat	Yemek yemek	inventoryActions	item	Jangerberries
+Equip	Donatmak	inventoryActions	item	Cattleprod
+Plant	Bitki	inventoryActions	item	Mithril seeds
+Open	Açık	inventoryActions	item	Casket
+Throw	Fırlatmak	inventoryActions	item	Bird feed
+Bury	Gömmek	inventoryActions	item	Bones
+Inspect	İncelemek	inventoryActions	item	Ghost's skull
+Bail-with	Kefaletle serbest bırakma	inventoryActions	item	Bailing bucket
+Activate	Etkinleştir	inventoryActions	item	Locating crystal
+Search	Aramak	inventoryActions	item	Panning tray
+Polish	Lehçe	inventoryActions	item	Buttons
+Look-at	Bak-at	inventoryActions	item	Level 1 certificate
+Complete	Tamamlamak	inventoryActions	item	Radimus notes
+Swing	Sallanmak	inventoryActions	item	Bullroarer
+Look	Bakmak	inventoryActions	item	Sketch
+Enchant-Vials	Büyülü Şişeler	inventoryActions	item	Binding book
+Investigate	Araştırmak	inventoryActions	item	Dark dagger
+Cast Spell	Büyü Yap	inventoryActions	item	Holy force
+Hold	Tutmak	inventoryActions	item	Gnomeball
+Dig	Kazmak	inventoryActions	item	Spade
+Blackout	Karartma	inventoryActions	item	Disk of returning
+Check	Kontrol etmek	inventoryActions	item	Iban's staff
+Locate	Bulmak	inventoryActions	item	Air talisman
+Rub-together	Birbirine sürtünerek	inventoryActions	item	Dry sticks
+Study	Çalışmak	inventoryActions	item	Map part
+Rub	Ovmak	inventoryActions	item	Amulet of glory
+Edgeville	Edgeville	inventoryActions	item	Amulet of glory(1)
+Karamja	Karamja	inventoryActions	item	Amulet of glory(1)
+Draynor Village	Draynor Köyü	inventoryActions	item	Amulet of glory(1)
+Al Kharid	El-Harid	inventoryActions	item	Amulet of glory(1)
+Tan Leather	Tan Deri	inventoryActions	item	Leather
+Empty Bowl	Boş Kase	inventoryActions	item	Burnt stew
+Mix-cocktail	Karışık kokteyl	inventoryActions	item	Cocktail shaker
+Remove-legs	Bacakları çıkarın	inventoryActions	item	Swamp toad
+Prepare	Hazırlanmak	inventoryActions	item	Half baked bowl
+Empty Tray	Boş Tepsi	inventoryActions	item	Burnt crunchies
+Empty Tin	Boş Teneke	inventoryActions	item	Burnt batta
+Empty Dish	Boş Tabak	inventoryActions	item	Burnt pie
+Guzzle	Yudumlamak	inventoryActions	item	Rock cake
+Play-with	Oynamak	inventoryActions	item	Brown toy horsey
+Recharge Dragonstone	Ejderha Taşını Yeniden Şarj Et	inventoryActions	item	Dead orb
+Break	Kırmak	inventoryActions	item	Ring of recoil
+Emir's Arena	Emir'in Arenası	inventoryActions	item	Ring of dueling(8)
+Castle Wars	Kale Savaşları	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	Ferox Yerleşimi	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	Fortis Kolezyumu	inventoryActions	item	Ring of dueling(8)
+Toggle-respawn	Yeniden doğmayı aç/kapat	inventoryActions	item	Ring of life
+Features	Özellikler	inventoryActions	item	Ring of wealth
+Look through	İçine bak	inventoryActions	item	Sextant
+Check steps	Adımları kontrol edin	inventoryActions	item	Clue scroll (easy)
+Release All	Tümünü serbest bırak	inventoryActions	item	Bloated toad
+Release	Serbest bırakmak	inventoryActions	item	Bloated toad
+Check kills	Öldürmeleri kontrol et	inventoryActions	item	Ogre bow
+Fill	Doldurmak	inventoryActions	item	Druid pouch
+Cast Bloom	Bloom'u canlandırın	inventoryActions	item	Silver sickle (b)
+Bloom	Çiçek açmak	inventoryActions	item	Silver sickle (b)
+Cast	Döküm	inventoryActions	item	Druidic spell
+Debug	Hata ayıklama	inventoryActions	item	Boss helper tool
+Play	Oynamak	inventoryActions	item	Lyre
+Rellekka	Rellekka	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	Suda Doğum Adası	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	Neitiznot	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	Jatiszo	inventoryActions	item	Enchanted lyre(1)
+Interact	Etkileşime girmek	inventoryActions	item	Pet rock
+Shake	Sallamak	inventoryActions	item	Vase
+Remove-lid	Kapağı çıkarın	inventoryActions	item	Sealed vase
+Preach	Vaaz vermek	inventoryActions	item	Holy book
+Burthorpe	Burthorpe	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	Barbar Karakolu	inventoryActions	item	Games necklace(8)
+Corporeal Beast	Cismani Canavar	inventoryActions	item	Games necklace(8)
+Tears of Guthix	Guthix'in Gözyaşları	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	Wintertodt Kampı	inventoryActions	item	Games necklace(8)
+View	Görüş	inventoryActions	item	Spare controls
+Listen	Dinlemek	inventoryActions	item	Monkey dentures
+Poke	Dürtmek	inventoryActions	item	Monkey
+Surrender	Teslim olmak	inventoryActions	item	Saradomin cloak
+Heal	İyileştirmek	inventoryActions	item	Bandages
+Loop	Döngü	inventoryActions	item	Yo-yo
+Walk	Yürümek	inventoryActions	item	Yo-yo
+Crazy	Deli	inventoryActions	item	Yo-yo
+Ride	Sürmek	inventoryActions	item	Sled
+Partner	Ortak	inventoryActions	item	Enchanted gem
+Log	Kayıt	inventoryActions	item	Enchanted gem
+Repair	Tamirat	inventoryActions	item	Model ship
+Follow	Takip etmek	inventoryActions	item	Treasure map
+Count	Saymak	inventoryActions	item	Petition form
+Check-keys	Kontrol anahtarları	inventoryActions	item	Steel key ring
+Fling	Fling	inventoryActions	item	Easter basket
+Dance	Dans	inventoryActions	item	Rubber chicken
+Assemble	Bir araya getirmek	inventoryActions	item	Base schematics
+Spin	Döndürmek	inventoryActions	item	Spinning plate
+Remove-one	Birini kaldır	inventoryActions	item	Apples(2)
+Build	İnşa etmek	inventoryActions	item	Rogue kit
+Slice	Dilim	inventoryActions	item	Rotten potato
+Peel	Soymak	inventoryActions	item	Rotten potato
+Mash	Püre	inventoryActions	item	Rotten potato
+Lletya	Lletya	inventoryActions	item	Teleport crystal (4)
+Prifddinas	Prifddinas	inventoryActions	item	Teleport crystal (4)
+Toggle	Geçiş	inventoryActions	item	Teleport crystal (4)
+Uncharge	Şarjını boşalt	inventoryActions	item	Broodoo shield (10)
+Scan	Tarama	inventoryActions	item	Commorb
+Contact	Temas etmek	inventoryActions	item	Commorb
+Playback	Playback	inventoryActions	item	Commorb
+Talk-At	Konuşma-At	inventoryActions	item	Fishbowl
+Play-With	Oyna-İle	inventoryActions	item	Fishbowl
+Feed	Beslemek	inventoryActions	item	Fishbowl
+Untangle	Çözmek	inventoryActions	item	Fishbowl and net
+Check-charge	Kontrol ücreti	inventoryActions	item	Camulet
+Teleport	Işınlanma	inventoryActions	item	Camulet
+Display	Görüntülemek	inventoryActions	item	Zombie head
+Question	Soru	inventoryActions	item	Zombie head
+Chant	İlahi	inventoryActions	item	Demonic sigil
+Feel	Hissetmek	inventoryActions	item	Enchanted key
+Remove-rat	Kaldır-sıçan	inventoryActions	item	Rat pole
+Geomancy	Coğrafya falı	inventoryActions	item	Watering can
+Jump	Zıplamak	inventoryActions	item	Blue marionette
+Bow	Yay	inventoryActions	item	Blue marionette
+Talk-to	Konuş-ile	inventoryActions	item	Progress hat
+Return	Geri dönmek	inventoryActions	item	Prison key
+Smell	Koku	inventoryActions	item	Spicy stew
+Release-all	Tümünü serbest bırak	inventoryActions	item	Balloon toad
+Wind	Rüzgâr	inventoryActions	item	Toy soldier
+Separate	Ayırmak	inventoryActions	item	Kbd heads
+Unstuff	Eşyaları boşaltmak	inventoryActions	item	Stuffed crawling hand
+Varrock	Varrock	inventoryActions	item	Varrock teleport
+Grand Exchange	Büyük Borsa	inventoryActions	item	Varrock teleport
+Camelot	Camelot	inventoryActions	item	Camelot teleport
+Seers' Village	Kahinler Köyü	inventoryActions	item	Camelot teleport
+Watchtower	Gözetleme Kulesi	inventoryActions	item	Watchtower teleport
+Yanille	Yanille	inventoryActions	item	Watchtower teleport
+Inside	İçeri	inventoryActions	item	Teleport to house
+Outside	Dıştan	inventoryActions	item	Teleport to house
+Group	Grup	inventoryActions	item	Teleport to house
+Info	Bilgi	inventoryActions	item	Enchant sapphire or opal
+Dust-hands	Toz eller	inventoryActions	item	Ground ashes
+Talk-To	Konuş-Kimse	inventoryActions	item	Monkey
+Invoke	Çağırmak	inventoryActions	item	Skull sceptre
+Divine	İlahi	inventoryActions	item	Skull sceptre
+Convert	Dönüştürmek	inventoryActions	item	Pharaoh's sceptre
+Launch	Öğle yemeği	inventoryActions	item	Grand seed pod
+Squash	Kabak	inventoryActions	item	Grand seed pod
+Pour	Dökmek	inventoryActions	item	Mixed blizzard
+Add-ingreds	Ek malzemeler	inventoryActions	item	Mixed saturday
+Unpack	Paketini aç	inventoryActions	item	Proselyte harness m
+Shape-Earth	Şekil-Dünya	inventoryActions	item	Page 1
+Shape-Air	Şekil-Hava	inventoryActions	item	Page 1
+Shape-Fire	Şekil-Ateş	inventoryActions	item	Page 2
+Shape-Water	Şekil-Su	inventoryActions	item	Page 2
+Shape-Mind	Şekil-Zihin	inventoryActions	item	Page 3
+Boost	Artırmak	inventoryActions	item	Attack cape
+Warriors' Guild	Savaşçılar Loncası	inventoryActions	item	Strength cape
+Toggle Effect	Geçiş Efekti	inventoryActions	item	Defence cape
+Toggle Respawn	Yeniden Doğuş'u Aç/Kapat	inventoryActions	item	Defence cape
+Commune	Komün	inventoryActions	item	Ranging cape
+Spellbook	Büyü kitabı	inventoryActions	item	Magic cape
+Lunar	Ay	inventoryActions	item	Magic cape
+Arceuus	Arceuus	inventoryActions	item	Magic cape
+Standard	Standart	inventoryActions	item	Magic cape
+Ancient	Antik	inventoryActions	item	Magic cape
+Stamina Boost	Dayanıklılık Artışı	inventoryActions	item	Agility cape
+Tele to POH	Tele'den POH'a	inventoryActions	item	Construct. cape
+Brimhaven	Brimhaven	inventoryActions	item	Construct. cape
+Home	Ev	inventoryActions	item	Construct. cape
+Rimmington	Rimmington	inventoryActions	item	Construct. cape
+Taverley	Taverley	inventoryActions	item	Construct. cape
+Pollnivneach	Pollnivneach	inventoryActions	item	Construct. cape
+Hosidius	Hosidius	inventoryActions	item	Construct. cape
+Aldarin	Aldarin	inventoryActions	item	Construct. cape
+Fishing Guild	Balıkçı Loncası	inventoryActions	item	Fishing cape
+Otto's Grotto	Otto'nun Mağarası	inventoryActions	item	Fishing cape
+Trim	Kırpma	inventoryActions	item	Quest point cape
+Load	Yük	inventoryActions	item	White destabiliser
+Split	Bölmek	inventoryActions	item	Cap and goggles
+Hunter Guild	Avcı Loncası	inventoryActions	item	Hunter cape
+Carnivorous Chinchompas	Etçil Çinçompalar	inventoryActions	item	Hunter cape
+Black Chinchompas	Siyah Çinkompalar	inventoryActions	item	Hunter cape
+Lay	Sermek	inventoryActions	item	Bird snare
+Check totals	Toplamları kontrol edin	inventoryActions	item	Butterfly net
+Check Totals	Toplamları Kontrol Et	inventoryActions	item	Butterfly net
+Bank	Banka	inventoryActions	item	Imp-in-a-box(2)
+Translate	Çevir	inventoryActions	item	Research notes
+Prance	Zıplamak	inventoryActions	item	Reindeer hat
+Write-Role	Yazma Rolü	inventoryActions	item	Scroll
+Clear	Temizlemek	inventoryActions	item	Scroll
+Tell-red	Kırmızıyı söyle	inventoryActions	item	Attacker horn
+Tell-green	Tell-green	inventoryActions	item	Attacker horn
+Tell-blue	Tell-blue	inventoryActions	item	Attacker horn
+Medic	Tıbbi	inventoryActions	item	Attacker horn
+Look-in	Arama konumu	inventoryActions	item	Collection bag
+Tell-tofu	Tell-tofu	inventoryActions	item	Healer horn
+Tell-crackers	Söylentileri çürütenler	inventoryActions	item	Healer horn
+Tell-worms	Solucanlar	inventoryActions	item	Healer horn
+Tell-meat	Tell-meat	inventoryActions	item	Defender horn
+Tell-controlled	Tell-kontrollü	inventoryActions	item	Collector horn
+Tell-accurate	Doğruyu söylemek gerekirse	inventoryActions	item	Collector horn
+Tell-aggressive	Söyleyen-saldırgan	inventoryActions	item	Collector horn
+Tell-defensive	Anlat-savunma	inventoryActions	item	Collector horn
+Check tax	Vergiyi kontrol et	inventoryActions	item	Empty tax bag
+Check taxes	Vergileri kontrol edin	inventoryActions	item	Bulging taxbag
+Pray-over	Dua-üzerine	inventoryActions	item	Blessed lamp
+Recite-prayer	Dua oku	inventoryActions	item	Prayer book
+Operate	Çalıştırmak	inventoryActions	item	Beacon ring
+Farming Guild	Çiftçi Loncası	inventoryActions	item	Skills necklace(4)
+Mining Guild	Madencilik Loncası	inventoryActions	item	Skills necklace(4)
+Crafting Guild	Zanaatkar Loncası	inventoryActions	item	Skills necklace(4)
+Cooking Guild	Yemek Loncası	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	Odun Kesme Loncası	inventoryActions	item	Skills necklace(4)
+Champions' Guild	Şampiyonlar Loncası	inventoryActions	item	Combat bracelet(4)
+Monastery	Manastır	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	Menzil Loncası	inventoryActions	item	Combat bracelet(4)
+Gem Mine	Mücevher Madeni	inventoryActions	item	Karamja gloves 3
+Fossil Island	Fosil Adası	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	Lithkren Zindanı	inventoryActions	item	Digsite pendant (1)
+Digsite	Digsite	inventoryActions	item	Digsite pendant (1)
+Loot	Yağma	inventoryActions	item	Baby impling jar
+Impling-jar	İmpling-kavanoz	inventoryActions	item	Jar generator
+Butterfly-jar	Kelebek kavanozu	inventoryActions	item	Jar generator
+Toggle-view	Görünümü değiştir	inventoryActions	item	Impling scroll
+Copy to log	Günlüğe kopyala	inventoryActions	item	Ancient page
+Discard	Atmak	inventoryActions	item	Anti-dragon shield (nz)
+Take-one	Bir tane al	inventoryActions	item	Herb box
+Bank-all	Banka-hepsi	inventoryActions	item	Herb box
+Refund	Geri ödemek	inventoryActions	item	Scroll of redirection
+Revert	Geri al	inventoryActions	item	Rimmington teleport
+Dismantle	Sökmek	inventoryActions	item	Armadyl godsword
+Disassemble	Sökmek	inventoryActions	item	Slayer helmet
+Fremennik Dungeon	Fremennik Zindanı	inventoryActions	item	Slayer ring (8)
+Dark Beasts	Karanlık Canavarlar	inventoryActions	item	Slayer ring (8)
+Master	Usta	inventoryActions	item	Slayer ring (8)
+Stronghold	Kale	inventoryActions	item	Slayer ring (8)
+Slayer Tower	Katil Kulesi	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	Tarn'ın İni	inventoryActions	item	Slayer ring (8)
+Deposit	Depozito	inventoryActions	item	Looting bag
+Settings	Ayarlar	inventoryActions	item	Looting bag
+Miscellania	Çeşitli	inventoryActions	item	Ring of wealth (5)
+Falador	Falador	inventoryActions	item	Ring of wealth (5)
+Dondakan	Dondakan	inventoryActions	item	Ring of wealth (5)
+Boss Log	Patron Günlüğü	inventoryActions	item	Ring of wealth (5)
+Coin Collection	Madeni Para Koleksiyonu	inventoryActions	item	Ring of wealth (5)
+Tip	Uç	inventoryActions	item	Fedora
+Spawn Item	Oluşturma Öğesi	inventoryActions	item	Holiday tool
+Basic Reanimation	Temel Canlandırma	inventoryActions	item	Easter
+Dissolve	Çözülmek	inventoryActions	item	Abyssal tentacle
+Check completion	Tamamlanmayı kontrol edin	inventoryActions	item	Challenge scroll (elite)
+Check rank	Sıralamayı kontrol et	inventoryActions	item	Druidic wreath
+Check Rank	Sıralamayı Kontrol Et	inventoryActions	item	Druidic wreath
+Configure	Yapılandır	inventoryActions	item	Annakarl teleport
+Extract	Çıkarmak	inventoryActions	item	Nest box (empty)
+Unload	Boşaltmak	inventoryActions	item	Toxic blowpipe
+Untrim	Kırpmayı Kaldır	inventoryActions	item	Quest point cape (t)
+Karamja (Shilo)	Karamja (Şilo)	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	Batı İlleri	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	Karamja (Orman)	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	Twiggy O'Korn	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	Karamja (Mor Ul Rek)	inventoryActions	item	Achievement diary cape (t)
+Ardougne	Ardougne	inventoryActions	item	Achievement diary cape (t)
+Desert	Çöl	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	Kourend ve Kebos	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	Lumbridge ve Draynor	inventoryActions	item	Achievement diary cape (t)
+Fremennik	Fremennik	inventoryActions	item	Achievement diary cape (t)
+Morytania	Morytania	inventoryActions	item	Achievement diary cape (t)
+Kandarin	Kandarin	inventoryActions	item	Achievement diary cape (t)
+Wilderness	Vahşi doğa	inventoryActions	item	Achievement diary cape (t)
+Slayer Master	Avcı Ustası	inventoryActions	item	Karamja gloves 4
+Ecto Teleport	Ekto Işınlama	inventoryActions	item	Morytania legs 1
+Ectofuntus Pit	Ektofuntus Çukuru	inventoryActions	item	Morytania legs 1
+Burgh Teleport	Burgh Teleport	inventoryActions	item	Morytania legs 3
+Burgh de Rott	Rott Kasabası	inventoryActions	item	Morytania legs 3
+Activity	Etkinlik	inventoryActions	item	Bonecrusher
+Recharge-prayer	Şarj duası	inventoryActions	item	Falador shield 1
+Recharge Prayer	Şarj Duası	inventoryActions	item	Falador shield 1
+Monastery Teleport	Manastır Işınlanması	inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery	Kandarin Manastırı	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	Çiftlik Işınlaması	inventoryActions	item	Ardougne cloak 2
+Ardougne Farm	Ardougne Çiftliği	inventoryActions	item	Ardougne cloak 2
+Energy	Enerji	inventoryActions	item	Explorer's ring 1
+Alchemy	Simya	inventoryActions	item	Explorer's ring 1
+Functions	Fonksiyonlar	inventoryActions	item	Explorer's ring 2
+Nardah	Nardah	inventoryActions	item	Desert amulet 4
+Kalphite cave	Kalphite mağarası	inventoryActions	item	Desert amulet 4
+Emote	Duygu	inventoryActions	item	Diango's claws
+Redeem	Kurtar	inventoryActions	item	Old school bond
+Restore	Eski haline getirmek	inventoryActions	item	Tanzanite helm (uncharged)
+Scramble	Karıştırma	inventoryActions	item	Rotten egg
+Poach	Kaçak av	inventoryActions	item	Rotten egg
+Fry	Yağda kızartmak	inventoryActions	item	Rotten egg
+Pickle	Turşu	inventoryActions	item	Rotten egg
+Consume	Tüketmek	inventoryActions	item	Saradomin's light
+Teleports	Işınlanmalar	inventoryActions	item	Max cape
+Metamorphosis	Başkalaşım	inventoryActions	item	Beaver
+Chew	Çiğnemek	inventoryActions	item	Rotten onion
+POH Portals	POH Portalları	inventoryActions	item	Max cape
+Carnivorous chinchompas	Etçil çinçompalar	inventoryActions	item	Max cape
+Ring of Life	Hayat Yüzüğü	inventoryActions	item	Max cape
+Black chinchompas	Siyah chinchompalar	inventoryActions	item	Max cape
+Warrior's Guild	Savaşçı Loncası	inventoryActions	item	Max cape
+Guild Teleports	Lonca Işınlanmaları	inventoryActions	item	Max cape
+Skilling Areas	Beceri Alanları	inventoryActions	item	Max cape
+Xeric's Lookout	Xeric'in Gözetleme Kulesi	inventoryActions	item	Xeric's talisman
+Xeric's Glade	Xeric'in Glade'i	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	Xeric'in Cehennemi	inventoryActions	item	Xeric's talisman
+Xeric's Heart	Xeric'in Kalbi	inventoryActions	item	Xeric's talisman
+Xeric's Honour	Xeric'in Onuru	inventoryActions	item	Xeric's talisman
+Take-grubs	Kurtçuklar	inventoryActions	item	Bucket of sandworms
+Pack	Ambalaj	inventoryActions	item	Shayzien supply crate
+Check charges	Ücretleri kontrol edin	inventoryActions	item	Chronicle
+Check Charges	Ücretleri Kontrol Edin	inventoryActions	item	Chronicle
+Teleport to Target	Hedefe Işınlan	inventoryActions	item	Dead orb
+Transform	Dönüştürmek	inventoryActions	item	Monkey
+Lap-count	Tur sayısı	inventoryActions	item	Monkey
+Combine	Birleştirmek	inventoryActions	item	Torn clue scroll (part 1)
+Recoil settings	Geri tepme ayarları	inventoryActions	item	Ring of suffering (r)
+Recoil Settings	Geri Tepme Ayarları	inventoryActions	item	Ring of suffering (r)
+Pages	Sayfalar	inventoryActions	item	Tome of fire
+Swap	Takas	inventoryActions	item	Bruma torch
+Invigorate	Canlandırmak	inventoryActions	item	Imbued heart
+Look at	Bakın	inventoryActions	item	Snow globe
+Snow	Kar	inventoryActions	item	Snow globe
+The Outpost	Karakol	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	Kartalların Yuvası	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	Büyücülerin Kulesi	inventoryActions	item	Necklace of passage(5)
+Options	Seçenekler	inventoryActions	item	Amulet of chemistry
+Bandit Camp	Haydut Kampı	inventoryActions	item	Burning amulet(5)
+Lava Maze	Lav Labirenti	inventoryActions	item	Burning amulet(5)
+Chaos Temple	Kaos Tapınağı	inventoryActions	item	Burning amulet(5)
+Change-style	Stil değişikliği	inventoryActions	item	Rainbow scarf
+Chill	Sakin olmak	inventoryActions	item	Hand fan
+Remove default	Varsayılanı kaldır	inventoryActions	item	Master scroll book
+Throw-water	Atma suyu	inventoryActions	item	Heat-proof vessel
+Throw-water direction	Atma suyu yönü	inventoryActions	item	Heat-proof vessel
+Check-level	Kontrol seviyesi	inventoryActions	item	Heat-proof vessel
+Throw-water north	Kuzeye doğru akan su	inventoryActions	item	Heat-proof vessel
+Throw-water east	Doğuya doğru akan su	inventoryActions	item	Heat-proof vessel
+Throw-water south	Güneyde atış suyu	inventoryActions	item	Heat-proof vessel
+Throw-water west	Batıya doğru fırlatılan su	inventoryActions	item	Heat-proof vessel
+Roll	Rulo	inventoryActions	item	Hoop snake
+Recharge	Şarj et	inventoryActions	item	Ancient wyvern shield
+Channel	Kanal	inventoryActions	item	Merfolk trident
+Puff	Puf	inventoryActions	item	Pufferfish
+Take fish	Balık al	inventoryActions	item	Bowl of fish
+Reminisce	Anmak	inventoryActions	item	Kharedst's memoirs
+Lunch by the Lancalliums	Lancallium'ların Öğle Yemeği	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	Balıkçı Flütü	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	Tarih ve Söylentiler	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	Sevinç Takıları	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	Karanlık Bir Mizaç	inventoryActions	item	Kharedst's memoirs
+Toggle-absorption	Geçiş emilimi	inventoryActions	item	Bracelet of ethereum
+Toggle absorption	Emilimi değiştir	inventoryActions	item	Bracelet of ethereum
+Elite	Seçkinler	inventoryActions	item	Useful rock
+Assessment	Değerlendirme	inventoryActions	item	Useful rock
+Slash	Eğik çizgi	inventoryActions	item	Prop sword
+Control	Kontrol	inventoryActions	item	Rotten cabbage
+Spectate	Seyretmek	inventoryActions	item	Rotten cabbage
+Charge	Şarj	inventoryActions	item	Sanguinesti staff
+Scry	Kehanet	inventoryActions	item	Oculus orb
+Ver Sinhaza	Ver Sinhaza	inventoryActions	item	Drakan's medallion
+Darkmeyer	Karanlıkmayar	inventoryActions	item	Drakan's medallion
+Slepe	Uyumak	inventoryActions	item	Drakan's medallion
+Tele	Tele	inventoryActions	item	Rotten carrot
+Kill Bot	Öldürme Botu	inventoryActions	item	Rotten carrot
+Kill Area	Öldürme Alanı	inventoryActions	item	Rotten carrot
+Change	Değiştirmek	inventoryActions	item	Sinhaza shroud tier 1
+Auto-afk	Otomatik AFK	inventoryActions	item	Escape crystal
+Open-all	Açık-tüm	inventoryActions	item	Coin pouch
+Close	Kapalı	inventoryActions	item	Looting bag
+Weiss	Weiss	inventoryActions	item	Icy basalt
+Troll Stronghold	Trol Kalesi	inventoryActions	item	Stony basalt
+Collections overview	Koleksiyonlara genel bakış	inventoryActions	item	Collection log
+Collections Overview	Koleksiyonlara Genel Bakış	inventoryActions	item	Collection log
+Collection Log	Koleksiyon Günlüğü	inventoryActions	item	Collection log
+Fletch	Fletch	inventoryActions	item	Celastrus bark
+Kourend Woodland	Kourend Ormanı	inventoryActions	item	Rada's blessing 1
+Mount Karuulm	Karuulm Dağı	inventoryActions	item	Rada's blessing 3
+Check/Uncharge	Kontrol Et/Borçlandır	inventoryActions	item	Bonecrusher necklace
+Take	Almak	inventoryActions	item	Seed pack
+Take-all	Her şeyi al	inventoryActions	item	Seed pack
+Fill/Check	Doldur/Kontrol Et	inventoryActions	item	Bottomless compost bucket
+Easter dance	Paskalya dansı	inventoryActions	item	Giant easter egg
+Cut-open	Kesik-açık	inventoryActions	item	Giant egg sac(full)
+Check-eggs	Yumurtaları kontrol et	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	Yumurtaları çıkar	inventoryActions	item	Giant egg sac
+Scrutinise	İnceleyin	inventoryActions	item	Guthixian icon
+Trophy Emote	Kupa Duygusu	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	Bükülmüş Kalıntı Duygusu	inventoryActions	item	Twisted cane
+Chase	Takip etmek	inventoryActions	item	Cat ears
+Use	Kullanmak	inventoryActions	item	Plank sack
+Open-All	Açık-Tüm	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	Trailblazer Relic Duygusu	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	Trailblazer Alanı Duygusu	inventoryActions	item	Trailblazer cane
+Change-Style	Stil Değiştirme	inventoryActions	item	Infernal harpoon (or)
+Last-destination	Son varış noktası	inventoryActions	item	Fairy mushroom
+Fairy-Ring	Peri Yüzüğü	inventoryActions	item	Fairy mushroom
+Spirit-tree	Ruh ağacı	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	Alet-cinler	inventoryActions	item	Fairy mushroom
+Teleport-back	Geri ışınlanma	inventoryActions	item	Crystal of echoes
+Check-memories	Kontrol hafızaları	inventoryActions	item	Crystal of echoes
+Save-memory	Hafızayı kaydet	inventoryActions	item	Crystal of echoes
+Withdraw	Geri çekilmek	inventoryActions	item	Extradimensional bag
+Settings/Destroy	Ayarlar/Yok Et	inventoryActions	item	Extradimensional bag
+League Debug	Lig Hata Ayıklama	inventoryActions	item	League tomato
+Setups	Kurulumlar	inventoryActions	item	League tomato
+Toggle-colour	Geçiş rengi	inventoryActions	item	Soul cape
+Scatter	Dağılım	inventoryActions	item	Fiendish ashes
+Trollheim	Trollheim	inventoryActions	item	Ghommal's hilt 1
+Mor Ul Rek	Mor Ul Rek	inventoryActions	item	Ghommal's hilt 4
+Unattune	Uyumsuz	inventoryActions	item	Sigil of resilience
+Attune	Uyum sağlamak	inventoryActions	item	Sigil of resilience
+Make scary noise	Korkutucu bir ses çıkar	inventoryActions	item	Jered's empty wine bottle
+Reverse	Tersi	inventoryActions	item	Ugly halloween jumper (orange)
+Wake-ghost	Uyanma hayaleti	inventoryActions	item	Haunted wine bottle
+Read-tag	Oku-etiket	inventoryActions	item	Secret santa present (red)
+Change-colour	Renk değiştirme	inventoryActions	item	Secret santa present (red)
+Dismantle kit	Sökme kiti	inventoryActions	item	Abyssal whip (or)
+Skill Emote	Beceri Duygusu	inventoryActions	item	Shattered cane
+Boss Emote	Patron Duygusu	inventoryActions	item	Shattered cane
+Quest Emote	Görev Duygusu	inventoryActions	item	Shattered cane
+Fragment Emote	Parça Duygusu	inventoryActions	item	Shattered cane
+Change Spellbook	Büyü Kitabını Değiştir	inventoryActions	item	Arcane grimoire
+Previous Spellbook	Önceki Büyü Kitabı	inventoryActions	item	Arcane grimoire
+Check Previous	Öncekini Kontrol Et	inventoryActions	item	Arcane grimoire
+Unimbue	Unimbue	inventoryActions	item	Wristbands of the arena (i)
+Last Destination	Son Durak	inventoryActions	item	Ring of the elements
+Air Altar	Hava Sunağı	inventoryActions	item	Ring of the elements
+Water Altar	Su Sunağı	inventoryActions	item	Ring of the elements
+Earth Altar	Toprak Sunağı	inventoryActions	item	Ring of the elements
+Fire Altar	Ateş Sunağı	inventoryActions	item	Ring of the elements
+Last-Teleport	Son Işınlanma	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	Jalsavrah	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	Jaleustrophos	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	Jaldraocht	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	Jaltevas	inventoryActions	item	Pharaoh's sceptre
+Attach	Eklemek	inventoryActions	item	Cursed phalanx
+Place	Yer	inventoryActions	item	Mirror
+Withdraw 1	1'i geri çek	inventoryActions	item	Supplies
+Withdraw All	Tümünü Geri Çek	inventoryActions	item	Supplies
+Resupply	Yeniden ikmal	inventoryActions	item	Supplies
+Apply	Uygula	inventoryActions	item	Silk dressing (2)
+Crack	Çatırtı	inventoryActions	item	Blessed crystal scarab (2)
+Crush	Ezmek	inventoryActions	item	Smelling salts (2)
+Take-from	Al-al	inventoryActions	item	Infinite money bag
+Help	Yardım	inventoryActions	item	Fresh start helper
+Accept trick-or-treat	Şeker mi şaka mı teklifini kabul et	inventoryActions	item	Treat cauldron
+Sniff	Koklamak	inventoryActions	item	Smelly sock
+Destinations	Hedefler	inventoryActions	item	Ghommal's avernic defender 5
+Craft	Zanaat	inventoryActions	item	Secateurs blade
+History	Tarih	inventoryActions	item	Mulch
+Ancient Vault	Antik Kasa	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	Ghorrock Zindanı	inventoryActions	item	Ring of shadows
+The Scar	Yara İzi	inventoryActions	item	Ring of shadows
+Lassar Undercity	Lassar Yeraltı Şehri	inventoryActions	item	Ring of shadows
+The Stranglewood	Stranglewood	inventoryActions	item	Ring of shadows
+Recall	Hatırlamak	inventoryActions	item	Blackstone fragment
+Squeeze	Sıkmak	inventoryActions	item	Detonator
+Set-off	Tetiklemek	inventoryActions	item	Stink bomb
+Fairy-ring	Peri halkası	inventoryActions	item	Trinket of fairies
+Summon	Çağırmak	inventoryActions	item	Trinket of undead
+Nexus	Bağlantı noktası	inventoryActions	item	Globetrotter pendant
+Jewellery	Mücevher	inventoryActions	item	Globetrotter pendant
+Note-Quantity	Not-Miktar	inventoryActions	item	Banker's note
+Un-note-Quantity	Un-not-Miktar	inventoryActions	item	Banker's note
+Dismiss	Azletmek	inventoryActions	item	Guardian horn
+Toggle-modes	Geçiş modları	inventoryActions	item	Guardian horn
+Change-outfit	Değişim kıyafeti	inventoryActions	item	Guardian horn
+Change Prayerbook	Değişim Duası Kitabı	inventoryActions	item	Ruinous powers
+Toggle-activity	Geçiş etkinliği	inventoryActions	item	Echo boots
+Signal	Sinyal	inventoryActions	item	Basic quetzal whistle
+Rumour	Söylenti	inventoryActions	item	Basic quetzal whistle
+Break-down	Bozulma	inventoryActions	item	Blessed bone statuette
+The Darkfrost	Karanlık Don	inventoryActions	item	Pendant of ates
+Twilight Temple	Alacakaranlık Tapınağı	inventoryActions	item	Pendant of ates
+Ralos' Rise	Ralos'un Yükselişi	inventoryActions	item	Pendant of ates
+North Aldarin	Kuzey Aldarin	inventoryActions	item	Pendant of ates
+Colour	Renk	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	Oymak	inventoryActions	item	Beige pumpkin (disgusted)
+Withdraw-all	Tümünü geri çek	inventoryActions	item	Forager's pouch
+Withdraw-last	Son çekme	inventoryActions	item	Forager's pouch
+Current-step	Mevcut adım	inventoryActions	item	Clue compass
+Collect	TOPLAMAK	inventoryActions	item	Pocket kingdom
+Manage-kingdom	Yönet-krallık	inventoryActions	item	Pocket kingdom
+Relic Emote	Kalıntı Duygusu	inventoryActions	item	Raging echoes cane
+Area Emote	Alan Duygusu	inventoryActions	item	Raging echoes cane
+Detach	Ayırmak	inventoryActions	item	Echo venator bow
+Detatch	Ayırmak	inventoryActions	item	Echo ahrim's robeskirt 75
+Create-book	Kitap oluştur	inventoryActions	item	Bronze staff of collection
+Bryophyta	Briyofitler	inventoryActions	item	Giantsoul amulet
+Obor	Obor	inventoryActions	item	Giantsoul amulet
+Branda and Eldric	Branda ve Eldric	inventoryActions	item	Giantsoul amulet
+Radius	Yarıçap	inventoryActions	item	Soulflame horn
+Max Players	Maksimum Oyuncular	inventoryActions	item	Soulflame horn
+Wipe	Silip süpürmek	inventoryActions	item	Jim's wet cloth
+Gl. Attenuation	Gl. Zayıflama	inventoryActions	item	Contract of glyphic attenuation
+Se. Clouding	Se. Bulutlanma	inventoryActions	item	Contract of sensory clouding
+Bl. Blows	Bl. Darbeler	inventoryActions	item	Contract of bloodied blows
+Di. Severance	Di. Ayrılma	inventoryActions	item	Contract of divine severance
+Fo. Breath	Fo. Nefes	inventoryActions	item	Contract of forfeit breath
+Examine	İncelemek	inventoryActions	item	
+Remove	Kaldırmak	inventoryActions	item	
+Add	Eklemek	inventoryActions	item	
+Add-5	5 Ekle	inventoryActions	item	
+Add-10	10 Ekle	inventoryActions	item	
+Add-All	Tümünü Ekle	inventoryActions	item	
+Add-X	X Ekle	inventoryActions	item	
