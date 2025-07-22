@@ -8471,6 +8471,14 @@ Metal from infernus, waiting to be shaped at an anvil.	Infernus'tan elde edilen 
 1 dose of surge potion.	1 doz dalgalanma iksiri.	examine	item	Surge potion(1)
 Highly potent essence, imbued with multiple catalytic energies.	cok güclü bir öz, cok sayida katalitik enerjiyle dolu.	examine	item	Polycatalytic guardian stone
 Small, yet intimidating.	Kücük ama korkutucu.	examine	item	Yami
+A key to the chest of Obor, the Hill Titan.		examine	item	Giant key
+A key to the chest of Bryophyta, the Moss Giantess.		examine	item	Mossy key
+Used to assist with developing plugins.		examine	item	Rotten turnip
+A powerful polearm imbued with pinpoint precision.		examine	item	Keris partisan of amascut
+A jewel that amascut once used and has now discarded.		examine	item	Jewel of amascut
+A very old enchanted ring.		examine	item	Steel ring
+Bigger than big bones		examine	item	Giant bones
+Sharks just can't get enough of these		examine	item	Shark lure
 Looks after your farming tools.	ciftcilik aletlerinize bakar.	examine	npc	Tool Leprechaun
 A strange mole-like being.	Garip bir köstebek benzeri varlik.	examine	npc	Molanisk
 A very smelly ghost.	cok kokan bir hayalet.	examine	npc	Aberrant spectre
@@ -13069,6 +13077,7 @@ A regal little fellow.	Asil kücük dost.	examine	npc	Sir Burrus
 A sweet little dog with a great hairdo!	Harika bir sac modeli olan tatli kücük köpek!	examine	npc	Archibald
 Charlie's best friend!	Charlie'nin en iyi arkadasi!	examine	npc	Duke
 Would you believe it, that dog was a cat all along!	Inanir misin, o köpek basindan beri kediydi!	examine	npc	Kimba
+A witch.		examine	npc	Aggie
 Big mysterious crate. You wonder what could be inside.	Büyük gizemli sandik. Icinde ne olabilecegini merak ediyorsun.	examine	object	Crate
 Looks and smells like a place where goblins live.	Goblinlerin yasadigi bir yer gibi görünüyor ve kokuyor.	examine	object	Cave Entrance
 The door is closed.	Kapi kapali.	examine	object	Door
@@ -22925,3 +22934,10 @@ A trophy of a mighty kalphite slayer!	Güclü bir kalphite avcisinin ganimeti!	e
 A trophy of a mighty dragon slayer!	Güclü bir ejderha avcisinin ganimeti!	examine	object	Vorkath head
 A trophy of a mighty hydra slayer!	Güclü bir hidra avcisinin ganimeti!	examine	object	Alchemical Hydra
 A place for mounting stuffed fish.	Doldurulmus baliklari asmak icin bir yer.	examine	object	Oak display
+The ancient writings of a crazed mage.	Çilgin bir büyücünün eski yazilari.	examine	object	Nistirio's manifesto
+Scrawled jottings of a diminished mind.	Azalmis bir zihnin karalanmis notlari.	examine	object	Tekton's journal
+Ancient notes on transdimensional travel.	Boyutlar arasi yolculuk üzerine kadim notlar.	examine	object	Transdimensional notes
+Judgement of the Vanguard.	Öncülerin Yargisi.	examine	object	Vanguard Judgement
+Confessions of a troubled soul.	Sorunlu bir ruhun itiraflari.	examine	object	Houndmaster's Diary
+There are some buckets on this table.	Bu masada bazi kovalar var.	examine	object	Table
+There are some rune pouches here.	Burada bazi rün keseleri var.	examine	object	Table

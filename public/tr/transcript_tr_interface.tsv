@@ -1403,14 +1403,14 @@ Daily Mor Ul Rek teleports - Unlimited	Günlük Mor Ul Rek teleportlari - Sinirs
 The ability to make a <colNum0>TzKal Slayer Helmet</col>	<colNum0>TzKal Slayer Helmet</col> yapma yetenegi.	interface	combAchvmt	
 The ability to combine an Avernic defender with Ghommal's hilt <Num0> to create <colNum0>Ghommal's Avernic Defender <Num1></col>	Avernic defender ile Ghommal's hilt <Num0>'i birlestirerek <colNum0>Ghommal's Avernic Defender <Num1></col> yaratma yetenegi.	interface	combAchvmt	
 		interface	combAchvmt	
-Moons of Peril	Tehlikeli Aylar	interface	combAchvmt	
-The Hueycoatl	Hueycoatl	interface	combAchvmt	
+Moons of Peril	Moons of Peril	interface	combAchvmt	
+The Hueycoatl	The Hueycoatl	interface	combAchvmt	
 Amoxliatl	Amoxliatl	interface	combAchvmt	
 Grotesque Guardians	Grotesk Muhafizlar	interface	combAchvmt	
 Theatre of Blood: Entry Mode	Kan Tiyatrosu: Giris Modu	interface	combAchvmt	
 Tombs of Amascut: Entry Mode	Amascut Mezarlari: Giris Modu	interface	combAchvmt	
 Thermy	Thermy	interface	combAchvmt	
-Chambers of Xeric: CM	Xeric Odalari: CM	interface	combAchvmt	
+Chambers of Xeric: CM	Chambers of Xeric: CM	interface	combAchvmt	
 TzHaar-Ket-Rak's Challenges	TzHaar-Ket-Rak'in Meydan Okumalari	interface	combAchvmt	
 Tombs of Amascut: Expert Mode	Amascut Mezarlari: Uzman Modu	interface	combAchvmt	
 Theatre of Blood: Hard Mode	Kan Tiyatrosu: Zor Modu	interface	combAchvmt	

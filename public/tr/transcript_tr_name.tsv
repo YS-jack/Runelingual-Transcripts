@@ -10727,6 +10727,12 @@ Surge potion(2)		name	item	Surge potion(2)
 Surge potion(1)		name	item	Surge potion(1)
 Polycatalytic guardian stone		name	item	Polycatalytic guardian stone
 Yami		name	item	Yami
+Rotten turnip		name	item	Rotten turnip
+Keris partisan of amascut		name	item	Keris partisan of amascut
+Jewel of amascut		name	item	Jewel of amascut
+Steel ring		name	item	Steel ring
+Giant bones		name	item	Giant bones
+Shark lure		name	item	Shark lure
 level		name	level	
 Redemption		name	menu	prayerTab
 Protect Item		name	menu	prayerTab
@@ -15904,7 +15910,7 @@ Battlement		name	object	Battlement
 Magical shield		name	object	Magical shield
 Sewer valve		name	object	Sewer valve
 Raft		name	object	Raft
-Range		name	object	Range
+Range	Firin	name	object	Range
 Statue of Guthix		name	object	Statue of Guthix
 Sparkling pool		name	object	Sparkling pool
 Mystic portal		name	object	Mystic portal

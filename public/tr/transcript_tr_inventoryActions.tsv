@@ -38,10 +38,10 @@ Locate	Bul	inventoryActions	item	Air talisman
 Rub-together	Sürt	inventoryActions	item	Dry sticks
 Study	calis	inventoryActions	item	Map part
 Rub	Sürt	inventoryActions	item	Amulet of glory
-Edgeville		inventoryActions	item	Amulet of glory(1)
-Karamja		inventoryActions	item	Amulet of glory(1)
-Draynor Village		inventoryActions	item	Amulet of glory(1)
-Al Kharid		inventoryActions	item	Amulet of glory(1)
+Edgeville	Edgeville	inventoryActions	item	Amulet of glory(1)
+Karamja	Karamja	inventoryActions	item	Amulet of glory(1)
+Draynor Village	Draynor Village	inventoryActions	item	Amulet of glory(1)
+Al Kharid	Al Kharid	inventoryActions	item	Amulet of glory(1)
 Tan Leather	Deri tabakla	inventoryActions	item	Leather
 Empty Bowl	Kaseyi temizle	inventoryActions	item	Burnt stew
 Mix-cocktail	Kokteyl Karistir	inventoryActions	item	Cocktail shaker
@@ -71,19 +71,19 @@ Bloom	cicek Ac	inventoryActions	item	Silver sickle (b)
 Cast	Büyü Yap	inventoryActions	item	Druidic spell
 Debug	Hata Ayiklamak	inventoryActions	item	Boss helper tool
 Play	cal	inventoryActions	item	Lyre
-Rellekka		inventoryActions	item	Enchanted lyre(1)
-Waterbirth Island		inventoryActions	item	Enchanted lyre(1)
-Neitiznot		inventoryActions	item	Enchanted lyre(1)
-Jatiszo		inventoryActions	item	Enchanted lyre(1)
+Rellekka	Rellekka	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	Waterbirth Island	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	Neitiznot	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	Jatiszo	inventoryActions	item	Enchanted lyre(1)
 Interact	Etkilesim	inventoryActions	item	Pet rock
 Shake	Salla	inventoryActions	item	Vase
 Remove-lid	Kapagi cikar	inventoryActions	item	Sealed vase
 Preach	Vaaz Et	inventoryActions	item	Holy book
-Burthorpe		inventoryActions	item	Games necklace(8)
-Barbarian Outpost		inventoryActions	item	Games necklace(8)
-Corporeal Beast		inventoryActions	item	Games necklace(8)
-Tears of Guthix		inventoryActions	item	Games necklace(8)
-Wintertodt Camp		inventoryActions	item	Games necklace(8)
+Burthorpe	Burthorpe	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	Barbarian Outpost	inventoryActions	item	Games necklace(8)
+Corporeal Beast	Corporeal Beast	inventoryActions	item	Games necklace(8)
+Tears of Guthix	Tears of Guthix	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	Wintertodt Camp	inventoryActions	item	Games necklace(8)
 View	Gör	inventoryActions	item	Spare controls
 Listen	Dinle	inventoryActions	item	Monkey dentures
 Poke	Dürt	inventoryActions	item	Monkey
@@ -126,7 +126,7 @@ Question	Soru sor	inventoryActions	item	Zombie head
 Chant	Ilahi söyle	inventoryActions	item	Demonic sigil
 Feel	Hisset	inventoryActions	item	Enchanted key
 Remove-rat	Sicani kaldir	inventoryActions	item	Rat pole
-Geomancy		inventoryActions	item	Watering can
+Geomancy	Geomancy	inventoryActions	item	Watering can
 Jump	Zipla	inventoryActions	item	Blue marionette
 Bow	Selamla	inventoryActions	item	Blue marionette
 Talk-to	Konusma	inventoryActions	item	Progress hat
@@ -149,7 +149,7 @@ Info	Bilgi	inventoryActions	item	Enchant sapphire or opal
 Dust-hands	Ellerini Tozla	inventoryActions	item	Ground ashes
 Talk-To	Konus	inventoryActions	item	Monkey
 Invoke	cagir	inventoryActions	item	Skull sceptre
-Divine		inventoryActions	item	Skull sceptre
+Divine	Divine	inventoryActions	item	Skull sceptre
 Convert	Dönüstür	inventoryActions	item	Pharaoh's sceptre
 Launch	Baslat	inventoryActions	item	Grand seed pod
 Squash	Ez	inventoryActions	item	Grand seed pod
@@ -242,13 +242,13 @@ Fremennik Dungeon		inventoryActions	item	Slayer ring (8)
 Dark Beasts		inventoryActions	item	Slayer ring (8)
 Master		inventoryActions	item	Slayer ring (8)
 Stronghold		inventoryActions	item	Slayer ring (8)
-Slayer Tower		inventoryActions	item	Slayer ring (8)
-Tarn's Lair		inventoryActions	item	Slayer ring (8)
+Slayer Tower	Slayer Tower	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	Tarn's Lair	inventoryActions	item	Slayer ring (8)
 Deposit		inventoryActions	item	Looting bag
 Settings		inventoryActions	item	Looting bag
-Miscellania		inventoryActions	item	Ring of wealth (5)
-Falador		inventoryActions	item	Ring of wealth (5)
-Dondakan		inventoryActions	item	Ring of wealth (5)
+Miscellania	Miscellania	inventoryActions	item	Ring of wealth (5)
+Falador	Falador	inventoryActions	item	Ring of wealth (5)
+Dondakan	Dondakan	inventoryActions	item	Ring of wealth (5)
 Boss Log		inventoryActions	item	Ring of wealth (5)
 Coin Collection	Para topla	inventoryActions	item	Ring of wealth (5)
 Tip		inventoryActions	item	Fedora
@@ -262,31 +262,31 @@ Configure		inventoryActions	item	Annakarl teleport
 Extract		inventoryActions	item	Nest box (empty)
 Unload		inventoryActions	item	Toxic blowpipe
 Untrim		inventoryActions	item	Quest point cape (t)
-Karamja (Shilo)		inventoryActions	item	Achievement diary cape (t)
-Western Provinces		inventoryActions	item	Achievement diary cape (t)
-Karamja (Jungle)		inventoryActions	item	Achievement diary cape (t)
+Karamja (Shilo)	Karamja (Shilo)	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	Western Provinces	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	Karamja (Jungle)	inventoryActions	item	Achievement diary cape (t)
 Twiggy O'Korn		inventoryActions	item	Achievement diary cape (t)
-Karamja (Mor Ul Rek)		inventoryActions	item	Achievement diary cape (t)
-Ardougne		inventoryActions	item	Achievement diary cape (t)
-Desert		inventoryActions	item	Achievement diary cape (t)
-Kourend & Kebos		inventoryActions	item	Achievement diary cape (t)
-Lumbridge & Draynor		inventoryActions	item	Achievement diary cape (t)
-Fremennik		inventoryActions	item	Achievement diary cape (t)
-Morytania		inventoryActions	item	Achievement diary cape (t)
-Kandarin		inventoryActions	item	Achievement diary cape (t)
-Wilderness		inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	Karamja (Mor Ul Rek)	inventoryActions	item	Achievement diary cape (t)
+Ardougne	Ardougne	inventoryActions	item	Achievement diary cape (t)
+Desert	Desert	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	Kourend & Kebos	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	Lumbridge & Draynor	inventoryActions	item	Achievement diary cape (t)
+Fremennik	Fremennik	inventoryActions	item	Achievement diary cape (t)
+Morytania	Morytania	inventoryActions	item	Achievement diary cape (t)
+Kandarin	Kandarin	inventoryActions	item	Achievement diary cape (t)
+Wilderness	Wilderness	inventoryActions	item	Achievement diary cape (t)
 Slayer Master		inventoryActions	item	Karamja gloves 4
 Ecto Teleport		inventoryActions	item	Morytania legs 1
-Ectofuntus Pit		inventoryActions	item	Morytania legs 1
-Burgh Teleport		inventoryActions	item	Morytania legs 3
-Burgh de Rott		inventoryActions	item	Morytania legs 3
-Activity		inventoryActions	item	Bonecrusher
+Ectofuntus Pit	Ectofuntus Pit	inventoryActions	item	Morytania legs 1
+Burgh Teleport	Burgh Teleport	inventoryActions	item	Morytania legs 3
+Burgh de Rott	Burgh de Rott	inventoryActions	item	Morytania legs 3
+Activity	Activity	inventoryActions	item	Bonecrusher
 Recharge-prayer		inventoryActions	item	Falador shield 1
 Recharge Prayer		inventoryActions	item	Falador shield 1
-Monastery Teleport		inventoryActions	item	Ardougne cloak 1
-Kandarin Monastery		inventoryActions	item	Ardougne cloak 1
-Farm Teleport		inventoryActions	item	Ardougne cloak 2
-Ardougne Farm		inventoryActions	item	Ardougne cloak 2
+Monastery Teleport	Monastery Teleport	inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery	Kandarin Monastery	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	Farm Teleport	inventoryActions	item	Ardougne cloak 2
+Ardougne Farm	Ardougne Farm	inventoryActions	item	Ardougne cloak 2
 Energy		inventoryActions	item	Explorer's ring 1
 Alchemy		inventoryActions	item	Explorer's ring 1
 Functions		inventoryActions	item	Explorer's ring 2
@@ -378,7 +378,7 @@ Auto-afk		inventoryActions	item	Escape crystal
 Open-all		inventoryActions	item	Coin pouch
 Close		inventoryActions	item	Looting bag
 Weiss		inventoryActions	item	Icy basalt
-Troll Stronghold		inventoryActions	item	Stony basalt
+Troll Stronghold	Troll Stronghold	inventoryActions	item	Stony basalt
 Collections overview		inventoryActions	item	Collection log
 Collections Overview		inventoryActions	item	Collection log
 Collection Log		inventoryActions	item	Collection log
@@ -514,3 +514,4 @@ Add-5	Ekle-5	inventoryActions	item
 Add-10	Ekle-10	inventoryActions	item	
 Add-All	Hepsini Ekle	inventoryActions	item	
 Add-X	Ekle-X	inventoryActions	item	
+Chomp		inventoryActions	item	Rotten turnip
