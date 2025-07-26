@@ -1,0 +1,527 @@
+english	translation	category	sub_category	source
+Destroy	Destruir	inventoryActions	item	Dwarf remains
+Drop	Soltar	inventoryActions	item	Cannonball
+Read	Leer	inventoryActions	item	Nulodion's notes
+Set-up	Configurar	inventoryActions	item	Cannon base
+Blow	Soplar	inventoryActions	item	Magic whistle
+Ring	Tocar	inventoryActions	item	Grail bell
+Blow-on	Soplar sobre	inventoryActions	item	Magic gold feather
+Extinguish	Extinguir	inventoryActions	item	Lit black candle
+Wield	Empuñar	inventoryActions	item	Excalibur
+Wear	Usar	inventoryActions	item	Khazard helmet
+Empty	Vaciar	inventoryActions	item	Guam potion (unf)
+Drink	Beber	inventoryActions	item	Strength potion(4)
+Clean	Limpiar	inventoryActions	item	Grimy guam leaf
+Eat	Comer	inventoryActions	item	Jangerberries
+Equip	Equipar	inventoryActions	item	Cattleprod
+Plant	Plantar	inventoryActions	item	Mithril seeds
+Open	Abrir	inventoryActions	item	Casket
+Throw	Lanzar	inventoryActions	item	Bird feed
+Bury	Enterrar	inventoryActions	item	Bones
+Inspect	Inspeccionar	inventoryActions	item	Ghost's skull
+Bail-with	Achicar con	inventoryActions	item	Bailing bucket
+Activate	Activar	inventoryActions	item	Locating crystal
+Search	Buscar	inventoryActions	item	Panning tray
+Polish	Pulir	inventoryActions	item	Buttons
+Look-at	Mirar	inventoryActions	item	Level 1 certificate
+Complete	Completar	inventoryActions	item	Radimus notes
+Swing	Balancear	inventoryActions	item	Bullroarer
+Look	Ver	inventoryActions	item	Sketch
+Enchant-Vials	Encantar frascos	inventoryActions	item	Binding book
+Investigate	Investigar	inventoryActions	item	Dark dagger
+Cast Spell	Lanzar hechizo	inventoryActions	item	Holy force
+Hold	Sostener	inventoryActions	item	Gnomeball
+Dig	Cavar	inventoryActions	item	Spade
+Blackout	Apagón	inventoryActions	item	Disk of returning
+Check	Verificar	inventoryActions	item	Iban's staff
+Locate	Localizar	inventoryActions	item	Air talisman
+Rub-together	Frotar juntos	inventoryActions	item	Dry sticks
+Study	Estudiar	inventoryActions	item	Map part
+Rub	Frotar	inventoryActions	item	Amulet of glory
+Edgeville	Edgeville	inventoryActions	item	Amulet of glory(1)
+Karamja	Karamja	inventoryActions	item	Amulet of glory(1)
+Draynor Village	Pueblo Draynor	inventoryActions	item	Amulet of glory(1)
+Al Kharid	Al Kharid	inventoryActions	item	Amulet of glory(1)
+Tan Leather	Curtir cuero	inventoryActions	item	Leather
+Empty Bowl	Vaciar cuenco	inventoryActions	item	Burnt stew
+Mix-cocktail	Mezclar cóctel	inventoryActions	item	Cocktail shaker
+Remove-legs	Quitar patas	inventoryActions	item	Swamp toad
+Prepare	Preparar	inventoryActions	item	Half baked bowl
+Empty Tray	Vaciar bandeja	inventoryActions	item	Burnt crunchies
+Empty Tin	Vaciar lata	inventoryActions	item	Burnt batta
+Empty Dish	Vaciar plato	inventoryActions	item	Burnt pie
+Guzzle	Tragar	inventoryActions	item	Rock cake
+Play-with	Jugar con	inventoryActions	item	Brown toy horsey
+Recharge Dragonstone	Recargar piedra dragón	inventoryActions	item	Dead orb
+Break	Romper	inventoryActions	item	Ring of recoil
+Emir's Arena	Arena del Emir	inventoryActions	item	Ring of dueling(8)
+Castle Wars	Guerras del Castillo	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	Enclave Ferox	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	Coliseo Fortis	inventoryActions	item	Ring of dueling(8)
+Toggle-respawn	Alternar reaparición	inventoryActions	item	Ring of life
+Features	Características	inventoryActions	item	Ring of wealth
+Look through	Mirar a través	inventoryActions	item	Sextant
+Check steps	Verificar pasos	inventoryActions	item	Clue scroll (easy)
+Release All	Liberar todo	inventoryActions	item	Bloated toad
+Release	Liberar	inventoryActions	item	Bloated toad
+Check kills	Verificar muertes	inventoryActions	item	Ogre bow
+Fill	Llenar	inventoryActions	item	Druid pouch
+Cast Bloom	Lanzar floración	inventoryActions	item	Silver sickle (b)
+Bloom	Florecer	inventoryActions	item	Silver sickle (b)
+Cast	Lanzar	inventoryActions	item	Druidic spell
+Debug	Depurar	inventoryActions	item	Boss helper tool
+Play	Jugar	inventoryActions	item	Lyre
+Rellekka	Rellekka	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	Isla Waterbirth	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	Neitiznot	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	Jatiszo	inventoryActions	item	Enchanted lyre(1)
+Interact	Interactuar	inventoryActions	item	Pet rock
+Shake	Agitar	inventoryActions	item	Vase
+Remove-lid	Quitar tapa	inventoryActions	item	Sealed vase
+Preach	Predicar	inventoryActions	item	Holy book
+Burthorpe	Burthorpe	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	Puesto Bárbaro	inventoryActions	item	Games necklace(8)
+Corporeal Beast	Bestia Corpórea	inventoryActions	item	Games necklace(8)
+Tears of Guthix	Lágrimas de Guthix	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	Campamento Wintertodt	inventoryActions	item	Games necklace(8)
+View	Ver	inventoryActions	item	Spare controls
+Listen	Escuchar	inventoryActions	item	Monkey dentures
+Poke	Empujar	inventoryActions	item	Monkey
+Surrender	Rendirse	inventoryActions	item	Saradomin cloak
+Heal	Curar	inventoryActions	item	Bandages
+Loop	Bucle	inventoryActions	item	Yo-yo
+Walk	Caminar	inventoryActions	item	Yo-yo
+Crazy	Loco	inventoryActions	item	Yo-yo
+Ride	Montar	inventoryActions	item	Sled
+Partner	Compañero	inventoryActions	item	Enchanted gem
+Log	Registro	inventoryActions	item	Enchanted gem
+Repair	Reparar	inventoryActions	item	Model ship
+Follow	Seguir	inventoryActions	item	Treasure map
+Count	Contar	inventoryActions	item	Petition form
+Check-keys	Verificar llaves	inventoryActions	item	Steel key ring
+Fling	Arrojar	inventoryActions	item	Easter basket
+Dance	Bailar	inventoryActions	item	Rubber chicken
+Assemble	Ensamblar	inventoryActions	item	Base schematics
+Spin	Girar	inventoryActions	item	Spinning plate
+Remove-one	Quitar uno	inventoryActions	item	Apples(2)
+Build	Construir	inventoryActions	item	Rogue kit
+Slice	Cortar	inventoryActions	item	Rotten potato
+Peel	Pelar	inventoryActions	item	Rotten potato
+Mash	Triturar	inventoryActions	item	Rotten potato
+Lletya	Lletya	inventoryActions	item	Teleport crystal (4)
+Prifddinas	Prifddinas	inventoryActions	item	Teleport crystal (4)
+Toggle	Alternar	inventoryActions	item	Teleport crystal (4)
+Uncharge	Descargar	inventoryActions	item	Broodoo shield (10)
+Scan	Escanear	inventoryActions	item	Commorb
+Contact	Contactar	inventoryActions	item	Commorb
+Playback	Reproducir	inventoryActions	item	Commorb
+Talk-At	Hablar a	inventoryActions	item	Fishbowl
+Play-With	Jugar con	inventoryActions	item	Fishbowl
+Feed	Alimentar	inventoryActions	item	Fishbowl
+Untangle	Desenredar	inventoryActions	item	Fishbowl and net
+Check-charge	Verificar carga	inventoryActions	item	Camulet
+Teleport	Teletransportar	inventoryActions	item	Camulet
+Display	Mostrar	inventoryActions	item	Zombie head
+Question	Preguntar	inventoryActions	item	Zombie head
+Chant	Cantar	inventoryActions	item	Demonic sigil
+Feel	Sentir	inventoryActions	item	Enchanted key
+Remove-rat	Quitar rata	inventoryActions	item	Rat pole
+Geomancy	Geomancia	inventoryActions	item	Watering can
+Jump	Saltar	inventoryActions	item	Blue marionette
+Bow	Reverencia	inventoryActions	item	Blue marionette
+Talk-to	Hablar con	inventoryActions	item	Progress hat
+Return	Regresar	inventoryActions	item	Prison key
+Smell	Oler	inventoryActions	item	Spicy stew
+Release-all	Liberar todo	inventoryActions	item	Balloon toad
+Wind	Viento	inventoryActions	item	Toy soldier
+Separate	Separar	inventoryActions	item	Kbd heads
+Unstuff	Desrellenar	inventoryActions	item	Stuffed crawling hand
+Varrock	Varrock	inventoryActions	item	Varrock teleport
+Grand Exchange	Gran Intercambio	inventoryActions	item	Varrock teleport
+Camelot	Camelot	inventoryActions	item	Camelot teleport
+Seers' Village	Pueblo de los Videntes	inventoryActions	item	Camelot teleport
+Watchtower	Torre de Vigilancia	inventoryActions	item	Watchtower teleport
+Yanille	Yanille	inventoryActions	item	Watchtower teleport
+Inside	Dentro	inventoryActions	item	Teleport to house
+Outside	Fuera	inventoryActions	item	Teleport to house
+Group	Grupo	inventoryActions	item	Teleport to house
+Info	Información	inventoryActions	item	Enchant sapphire or opal
+Dust-hands	Limpiar manos	inventoryActions	item	Ground ashes
+Talk-To	Hablar con	inventoryActions	item	Monkey
+Invoke	Invocar	inventoryActions	item	Skull sceptre
+Divine	Divino	inventoryActions	item	Skull sceptre
+Convert	Convertir	inventoryActions	item	Pharaoh's sceptre
+Launch	Lanzar	inventoryActions	item	Grand seed pod
+Squash	Aplastar	inventoryActions	item	Grand seed pod
+Pour	Verter	inventoryActions	item	Mixed blizzard
+Add-ingreds	Añadir ingredientes	inventoryActions	item	Mixed saturday
+Unpack	Desempacar	inventoryActions	item	Proselyte harness m
+Shape-Earth	Moldear tierra	inventoryActions	item	Page 1
+Shape-Air	Moldear aire	inventoryActions	item	Page 1
+Shape-Fire	Moldear fuego	inventoryActions	item	Page 2
+Shape-Water	Moldear agua	inventoryActions	item	Page 2
+Shape-Mind	Moldear mente	inventoryActions	item	Page 3
+Boost	Potenciar	inventoryActions	item	Attack cape
+Warriors' Guild	Gremio de Guerreros	inventoryActions	item	Strength cape
+Toggle Effect	Alternar efecto	inventoryActions	item	Defence cape
+Toggle Respawn	Alternar reaparición	inventoryActions	item	Defence cape
+Commune	Comunicar	inventoryActions	item	Ranging cape
+Spellbook	Libro de hechizos	inventoryActions	item	Magic cape
+Lunar	Lunar	inventoryActions	item	Magic cape
+Arceuus	Arceuus	inventoryActions	item	Magic cape
+Standard	Estándar	inventoryActions	item	Magic cape
+Ancient	Antiguo	inventoryActions	item	Magic cape
+Stamina Boost	Potenciar resistencia	inventoryActions	item	Agility cape
+Tele to POH	Teletransportar a casa	inventoryActions	item	Construct. cape
+Brimhaven	Brimhaven	inventoryActions	item	Construct. cape
+Home	Casa	inventoryActions	item	Construct. cape
+Rimmington	Rimmington	inventoryActions	item	Construct. cape
+Taverley	Taverley	inventoryActions	item	Construct. cape
+Pollnivneach	Pollnivneach	inventoryActions	item	Construct. cape
+Hosidius	Hosidius	inventoryActions	item	Construct. cape
+Aldarin	Aldarin	inventoryActions	item	Construct. cape
+Fishing Guild	Gremio de Pesca	inventoryActions	item	Fishing cape
+Otto's Grotto	Gruta de Otto	inventoryActions	item	Fishing cape
+Trim	Recortar	inventoryActions	item	Quest point cape
+Load	Cargar	inventoryActions	item	White destabiliser
+Split	Dividir	inventoryActions	item	Cap and goggles
+Hunter Guild	Gremio de Cazadores	inventoryActions	item	Hunter cape
+Carnivorous Chinchompas	Chinchompas carnívoras	inventoryActions	item	Hunter cape
+Black Chinchompas	Chinchompas negras	inventoryActions	item	Hunter cape
+Lay	Poner	inventoryActions	item	Bird snare
+Check totals	Verificar totales	inventoryActions	item	Butterfly net
+Check Totals	Verificar totales	inventoryActions	item	Butterfly net
+Bank	Banco	inventoryActions	item	Imp-in-a-box(2)
+Translate	Traducir	inventoryActions	item	Research notes
+Prance	Brincar	inventoryActions	item	Reindeer hat
+Write-Role	Escribir rol	inventoryActions	item	Scroll
+Clear	Limpiar	inventoryActions	item	Scroll
+Tell-red	Decir rojo	inventoryActions	item	Attacker horn
+Tell-green	Decir verde	inventoryActions	item	Attacker horn
+Tell-blue	Decir azul	inventoryActions	item	Attacker horn
+Medic	Médico	inventoryActions	item	Attacker horn
+Look-in	Mirar dentro	inventoryActions	item	Collection bag
+Tell-tofu	Decir tofu	inventoryActions	item	Healer horn
+Tell-crackers	Decir galletas	inventoryActions	item	Healer horn
+Tell-worms	Decir gusanos	inventoryActions	item	Healer horn
+Tell-meat	Decir carne	inventoryActions	item	Defender horn
+Tell-controlled	Decir controlado	inventoryActions	item	Collector horn
+Tell-accurate	Decir preciso	inventoryActions	item	Collector horn
+Tell-aggressive	Decir agresivo	inventoryActions	item	Collector horn
+Tell-defensive	Decir defensivo	inventoryActions	item	Collector horn
+Check tax	Verificar impuesto	inventoryActions	item	Empty tax bag
+Check taxes	Verificar impuestos	inventoryActions	item	Bulging taxbag
+Pray-over	Rezar sobre	inventoryActions	item	Blessed lamp
+Recite-prayer	Recitar oración	inventoryActions	item	Prayer book
+Operate	Operar	inventoryActions	item	Beacon ring
+Farming Guild	Gremio de Agricultura	inventoryActions	item	Skills necklace(4)
+Mining Guild	Gremio de Minería	inventoryActions	item	Skills necklace(4)
+Crafting Guild	Gremio de Artesanía	inventoryActions	item	Skills necklace(4)
+Cooking Guild	Gremio de Cocina	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	Gremio de Tala	inventoryActions	item	Skills necklace(4)
+Champions' Guild	Gremio de Campeones	inventoryActions	item	Combat bracelet(4)
+Monastery	Monasterio	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	Gremio de Arquería	inventoryActions	item	Combat bracelet(4)
+Gem Mine	Mina de gemas	inventoryActions	item	Karamja gloves 3
+Fossil Island	Isla Fósil	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	Mazmorra Lithkren	inventoryActions	item	Digsite pendant (1)
+Digsite	Sitio de excavación	inventoryActions	item	Digsite pendant (1)
+Loot	Botín	inventoryActions	item	Baby impling jar
+Impling-jar	Frasco de impling	inventoryActions	item	Jar generator
+Butterfly-jar	Frasco de mariposa	inventoryActions	item	Jar generator
+Toggle-view	Alternar vista	inventoryActions	item	Impling scroll
+Copy to log	Copiar al registro	inventoryActions	item	Ancient page
+Discard	Descartar	inventoryActions	item	Anti-dragon shield (nz)
+Take-one	Tomar uno	inventoryActions	item	Herb box
+Bank-all	Depositar todo	inventoryActions	item	Herb box
+Refund	Reembolsar	inventoryActions	item	Scroll of redirection
+Revert	Revertir	inventoryActions	item	Rimmington teleport
+Dismantle	Desmantelar	inventoryActions	item	Armadyl godsword
+Disassemble	Desarmar	inventoryActions	item	Slayer helmet
+Fremennik Dungeon	Mazmorra Fremennik	inventoryActions	item	Slayer ring (8)
+Dark Beasts	Bestias oscuras	inventoryActions	item	Slayer ring (8)
+Master	Maestro	inventoryActions	item	Slayer ring (8)
+Stronghold	Fortaleza	inventoryActions	item	Slayer ring (8)
+Slayer Tower	Torre del Asesino	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	Guarida de Tarn	inventoryActions	item	Slayer ring (8)
+Deposit	Depositar	inventoryActions	item	Looting bag
+Settings	Configuración	inventoryActions	item	Looting bag
+Miscellania	Miscellania	inventoryActions	item	Ring of wealth (5)
+Falador	Falador	inventoryActions	item	Ring of wealth (5)
+Dondakan	Dondakan	inventoryActions	item	Ring of wealth (5)
+Boss Log	Registro de jefes	inventoryActions	item	Ring of wealth (5)
+Coin Collection	Colección de monedas	inventoryActions	item	Ring of wealth (5)
+Tip	Propina	inventoryActions	item	Fedora
+Spawn Item	Generar objeto	inventoryActions	item	Holiday tool
+Basic Reanimation	Reanimación básica	inventoryActions	item	Easter
+Dissolve	Disolver	inventoryActions	item	Abyssal tentacle
+Check completion	Verificar finalización	inventoryActions	item	Challenge scroll (elite)
+Check rank	Verificar rango	inventoryActions	item	Druidic wreath
+Check Rank	Verificar rango	inventoryActions	item	Druidic wreath
+Configure	Configurar	inventoryActions	item	Annakarl teleport
+Extract	Extraer	inventoryActions	item	Nest box (empty)
+Unload	Descargar	inventoryActions	item	Toxic blowpipe
+Untrim	Quitar adorno	inventoryActions	item	Quest point cape (t)
+Karamja (Shilo)	Karamja (Shilo)	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	Provincias occidentales	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	Karamja (Jungla)	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	Twiggy O'Korn	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	Karamja (Mor Ul Rek)	inventoryActions	item	Achievement diary cape (t)
+Ardougne	Ardougne	inventoryActions	item	Achievement diary cape (t)
+Desert	Desierto	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	Kourend y Kebos	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	Lumbridge y Draynor	inventoryActions	item	Achievement diary cape (t)
+Fremennik	Fremennik	inventoryActions	item	Achievement diary cape (t)
+Morytania	Morytania	inventoryActions	item	Achievement diary cape (t)
+Kandarin	Kandarin	inventoryActions	item	Achievement diary cape (t)
+Wilderness	Tierras salvajes	inventoryActions	item	Achievement diary cape (t)
+Slayer Master	Maestro asesino	inventoryActions	item	Karamja gloves 4
+Ecto Teleport	Teletransporte ecto	inventoryActions	item	Morytania legs 1
+Ectofuntus Pit	Foso ectofuntus	inventoryActions	item	Morytania legs 1
+Burgh Teleport	Teletransporte Burgh	inventoryActions	item	Morytania legs 3
+Burgh de Rott	Burgh de Rott	inventoryActions	item	Morytania legs 3
+Activity	Actividad	inventoryActions	item	Bonecrusher
+Recharge-prayer	Recargar oración	inventoryActions	item	Falador shield 1
+Recharge Prayer	Recargar oración	inventoryActions	item	Falador shield 1
+Monastery Teleport	Teletransporte monasterio	inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery	Monasterio Kandarin	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	Teletransporte granja	inventoryActions	item	Ardougne cloak 2
+Ardougne Farm	Granja Ardougne	inventoryActions	item	Ardougne cloak 2
+Energy	Energía	inventoryActions	item	Explorer's ring 1
+Alchemy	Alquimia	inventoryActions	item	Explorer's ring 1
+Functions	Funciones	inventoryActions	item	Explorer's ring 2
+Nardah	Nardah	inventoryActions	item	Desert amulet 4
+Kalphite cave	Cueva kalphite	inventoryActions	item	Desert amulet 4
+Emote	Emoticón	inventoryActions	item	Diango's claws
+Redeem	Canjear	inventoryActions	item	Old school bond
+Restore	Restaurar	inventoryActions	item	Tanzanite helm (uncharged)
+Scramble	Revolver	inventoryActions	item	Rotten egg
+Poach	Escalfar	inventoryActions	item	Rotten egg
+Fry	Freír	inventoryActions	item	Rotten egg
+Pickle	Encurtir	inventoryActions	item	Rotten egg
+Consume	Consumir	inventoryActions	item	Saradomin's light
+Teleports	Teletransportes	inventoryActions	item	Max cape
+Metamorphosis	Metamorfosis	inventoryActions	item	Beaver
+Chew	Masticar	inventoryActions	item	Rotten onion
+POH Portals	Portales de casa	inventoryActions	item	Max cape
+Carnivorous chinchompas	Chinchompas carnívoras	inventoryActions	item	Max cape
+Ring of Life	Anillo de vida	inventoryActions	item	Max cape
+Black chinchompas	Chinchompas negras	inventoryActions	item	Max cape
+Warrior's Guild	Gremio del guerrero	inventoryActions	item	Max cape
+Guild Teleports	Teletransportes de gremio	inventoryActions	item	Max cape
+Skilling Areas	Áreas de habilidades	inventoryActions	item	Max cape
+Xeric's Lookout	Mirador de Xeric	inventoryActions	item	Xeric's talisman
+Xeric's Glade	Claro de Xeric	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	Infierno de Xeric	inventoryActions	item	Xeric's talisman
+Xeric's Heart	Corazón de Xeric	inventoryActions	item	Xeric's talisman
+Xeric's Honour	Honor de Xeric	inventoryActions	item	Xeric's talisman
+Take-grubs	Tomar larvas	inventoryActions	item	Bucket of sandworms
+Pack	Empacar	inventoryActions	item	Shayzien supply crate
+Check charges	Verificar cargas	inventoryActions	item	Chronicle
+Check Charges	Verificar cargas	inventoryActions	item	Chronicle
+Teleport to Target	Teletransportar al objetivo	inventoryActions	item	Dead orb
+Transform	Transformar	inventoryActions	item	Monkey
+Lap-count	Contar vueltas	inventoryActions	item	Monkey
+Combine	Combinar	inventoryActions	item	Torn clue scroll (part 1)
+Recoil settings	Configuración de retroceso	inventoryActions	item	Ring of suffering (r)
+Recoil Settings	Configuración de retroceso	inventoryActions	item	Ring of suffering (r)
+Pages	Páginas	inventoryActions	item	Tome of fire
+Swap	Intercambiar	inventoryActions	item	Bruma torch
+Invigorate	Vigorizar	inventoryActions	item	Imbued heart
+Look at	Mirar	inventoryActions	item	Snow globe
+Snow	Nieve	inventoryActions	item	Snow globe
+The Outpost	El puesto	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	Nido de águilas	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	Torre de magos	inventoryActions	item	Necklace of passage(5)
+Options	Opciones	inventoryActions	item	Amulet of chemistry
+Bandit Camp	Campamento bandido	inventoryActions	item	Burning amulet(5)
+Lava Maze	Laberinto de lava	inventoryActions	item	Burning amulet(5)
+Chaos Temple	Templo del caos	inventoryActions	item	Burning amulet(5)
+Change-style	Cambiar estilo	inventoryActions	item	Rainbow scarf
+Chill	Relajar	inventoryActions	item	Hand fan
+Remove default	Quitar predeterminado	inventoryActions	item	Master scroll book
+Throw-water	Lanzar agua	inventoryActions	item	Heat-proof vessel
+Throw-water direction	Lanzar agua dirección	inventoryActions	item	Heat-proof vessel
+Check-level	Verificar nivel	inventoryActions	item	Heat-proof vessel
+Throw-water north	Lanzar agua norte	inventoryActions	item	Heat-proof vessel
+Throw-water east	Lanzar agua este	inventoryActions	item	Heat-proof vessel
+Throw-water south	Lanzar agua sur	inventoryActions	item	Heat-proof vessel
+Throw-water west	Lanzar agua oeste	inventoryActions	item	Heat-proof vessel
+Roll	Rodar	inventoryActions	item	Hoop snake
+Recharge	Recargar	inventoryActions	item	Ancient wyvern shield
+Channel	Canalizar	inventoryActions	item	Merfolk trident
+Puff	Soplar	inventoryActions	item	Pufferfish
+Take fish	Tomar pez	inventoryActions	item	Bowl of fish
+Reminisce	Recordar	inventoryActions	item	Kharedst's memoirs
+Lunch by the Lancalliums	Almuerzo junto a los Lancalliums	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	La flauta del pescador	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	Historia y rumores	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	Joyería de júbilo	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	Una disposición oscura	inventoryActions	item	Kharedst's memoirs
+Toggle-absorption	Alternar absorción	inventoryActions	item	Bracelet of ethereum
+Toggle absorption	Alternar absorción	inventoryActions	item	Bracelet of ethereum
+Elite	Élite	inventoryActions	item	Useful rock
+Assessment	Evaluación	inventoryActions	item	Useful rock
+Slash	Cortar	inventoryActions	item	Prop sword
+Control	Control	inventoryActions	item	Rotten cabbage
+Spectate	Observar	inventoryActions	item	Rotten cabbage
+Charge	Cargar	inventoryActions	item	Sanguinesti staff
+Scry	Escrutar	inventoryActions	item	Oculus orb
+Ver Sinhaza	Ver Sinhaza	inventoryActions	item	Drakan's medallion
+Darkmeyer	Darkmeyer	inventoryActions	item	Drakan's medallion
+Slepe	Slepe	inventoryActions	item	Drakan's medallion
+Tele	Tele	inventoryActions	item	Rotten carrot
+Kill Bot	Matar bot	inventoryActions	item	Rotten carrot
+Kill Area	Matar área	inventoryActions	item	Rotten carrot
+Change	Cambiar	inventoryActions	item	Sinhaza shroud tier 1
+Auto-afk	Auto-ausente	inventoryActions	item	Escape crystal
+Open-all	Abrir todo	inventoryActions	item	Coin pouch
+Close	Cerrar	inventoryActions	item	Looting bag
+Weiss	Weiss	inventoryActions	item	Icy basalt
+Troll Stronghold	Fortaleza troll	inventoryActions	item	Stony basalt
+Collections overview	Resumen de colecciones	inventoryActions	item	Collection log
+Collections Overview	Resumen de colecciones	inventoryActions	item	Collection log
+Collection Log	Registro de colección	inventoryActions	item	Collection log
+Fletch	Flechar	inventoryActions	item	Celastrus bark
+Kourend Woodland	Bosque Kourend	inventoryActions	item	Rada's blessing 1
+Mount Karuulm	Monte Karuulm	inventoryActions	item	Rada's blessing 3
+Check/Uncharge	Verificar/Descargar	inventoryActions	item	Bonecrusher necklace
+Take	Tomar	inventoryActions	item	Seed pack
+Take-all	Tomar todo	inventoryActions	item	Seed pack
+Fill/Check	Llenar/Verificar	inventoryActions	item	Bottomless compost bucket
+Easter dance	Baile de Pascua	inventoryActions	item	Giant easter egg
+Cut-open	Cortar abrir	inventoryActions	item	Giant egg sac(full)
+Check-eggs	Verificar huevos	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	Quitar huevos	inventoryActions	item	Giant egg sac
+Scrutinise	Escrutar	inventoryActions	item	Guthixian icon
+Trophy Emote	Emoticón de trofeo	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	Emoticón de reliquia retorcida	inventoryActions	item	Twisted cane
+Chase	Perseguir	inventoryActions	item	Cat ears
+Use	Usar	inventoryActions	item	Plank sack
+Open-All	Abrir todo	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	Emoticón de reliquia pionera	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	Emoticón de área pionera	inventoryActions	item	Trailblazer cane
+Change-Style	Cambiar estilo	inventoryActions	item	Infernal harpoon (or)
+Last-destination	Último destino	inventoryActions	item	Fairy mushroom
+Fairy-Ring	Anillo de hadas	inventoryActions	item	Fairy mushroom
+Spirit-tree	Árbol espíritu	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	Duendes herramienta	inventoryActions	item	Fairy mushroom
+Teleport-back	Teletransportar atrás	inventoryActions	item	Crystal of echoes
+Check-memories	Verificar memorias	inventoryActions	item	Crystal of echoes
+Save-memory	Guardar memoria	inventoryActions	item	Crystal of echoes
+Withdraw	Retirar	inventoryActions	item	Extradimensional bag
+Settings/Destroy	Configuración/Destruir	inventoryActions	item	Extradimensional bag
+League Debug	Depurar liga	inventoryActions	item	League tomato
+Setups	Configuraciones	inventoryActions	item	League tomato
+Toggle-colour	Alternar color	inventoryActions	item	Soul cape
+Scatter	Esparcir	inventoryActions	item	Fiendish ashes
+Trollheim	Trollheim	inventoryActions	item	Ghommal's hilt 1
+Mor Ul Rek	Mor Ul Rek	inventoryActions	item	Ghommal's hilt 4
+Unattune	Desafinizar	inventoryActions	item	Sigil of resilience
+Attune	Afinizar	inventoryActions	item	Sigil of resilience
+Make scary noise	Hacer ruido aterrador	inventoryActions	item	Jered's empty wine bottle
+Reverse	Reverso	inventoryActions	item	Ugly halloween jumper (orange)
+Wake-ghost	Despertar fantasma	inventoryActions	item	Haunted wine bottle
+Read-tag	Leer etiqueta	inventoryActions	item	Secret santa present (red)
+Change-colour	Cambiar color	inventoryActions	item	Secret santa present (red)
+Dismantle kit	Desmantelar kit	inventoryActions	item	Abyssal whip (or)
+Skill Emote	Emoticón de habilidad	inventoryActions	item	Shattered cane
+Boss Emote	Emoticón de jefe	inventoryActions	item	Shattered cane
+Quest Emote	Emoticón de misión	inventoryActions	item	Shattered cane
+Fragment Emote	Emoticón de fragmento	inventoryActions	item	Shattered cane
+Change Spellbook	Cambiar libro de hechizos	inventoryActions	item	Arcane grimoire
+Previous Spellbook	Libro de hechizos anterior	inventoryActions	item	Arcane grimoire
+Check Previous	Verificar anterior	inventoryActions	item	Arcane grimoire
+Unimbue	Desimbuir	inventoryActions	item	Wristbands of the arena (i)
+Last Destination	Último destino	inventoryActions	item	Ring of the elements
+Air Altar	Altar de aire	inventoryActions	item	Ring of the elements
+Water Altar	Altar de agua	inventoryActions	item	Ring of the elements
+Earth Altar	Altar de tierra	inventoryActions	item	Ring of the elements
+Fire Altar	Altar de fuego	inventoryActions	item	Ring of the elements
+Last-Teleport	Último teletransporte	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	Jalsavrah	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	Jaleustrophos	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	Jaldraocht	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	Jaltevas	inventoryActions	item	Pharaoh's sceptre
+Attach	Adjuntar	inventoryActions	item	Cursed phalanx
+Place	Colocar	inventoryActions	item	Mirror
+Withdraw 1	Retirar 1	inventoryActions	item	Supplies
+Withdraw All	Retirar todo	inventoryActions	item	Supplies
+Resupply	Reabastecer	inventoryActions	item	Supplies
+Apply	Aplicar	inventoryActions	item	Silk dressing (2)
+Crack	Agrietar	inventoryActions	item	Blessed crystal scarab (2)
+Crush	Aplastar	inventoryActions	item	Smelling salts (2)
+Take-from	Tomar de	inventoryActions	item	Infinite money bag
+Help	Ayuda	inventoryActions	item	Fresh start helper
+Accept trick-or-treat	Aceptar truco o trato	inventoryActions	item	Treat cauldron
+Sniff	Olfatear	inventoryActions	item	Smelly sock
+Destinations	Destinos	inventoryActions	item	Ghommal's avernic defender 5
+Forestry kit	Kit forestal	inventoryActions	item	Forestry basket
+Log basket	Cesta de troncos	inventoryActions	item	Forestry basket
+Empty basket	Vaciar cesta	inventoryActions	item	Forestry basket
+Craft	Crear	inventoryActions	item	Secateurs blade
+History	Historia	inventoryActions	item	Mulch
+Ancient Vault	Bóveda antigua	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	Mazmorra Ghorrock	inventoryActions	item	Ring of shadows
+The Scar	La cicatriz	inventoryActions	item	Ring of shadows
+Lassar Undercity	Ciudad subterránea Lassar	inventoryActions	item	Ring of shadows
+The Stranglewood	El bosque estrangulador	inventoryActions	item	Ring of shadows
+Recall	Recordar	inventoryActions	item	Blackstone fragment
+Squeeze	Apretar	inventoryActions	item	Detonator
+Set-off	Activar	inventoryActions	item	Stink bomb
+Fairy-ring	Anillo de hadas	inventoryActions	item	Trinket of fairies
+Summon	Invocar	inventoryActions	item	Trinket of undead
+Nexus	Nexo	inventoryActions	item	Globetrotter pendant
+Jewellery	Joyería	inventoryActions	item	Globetrotter pendant
+Note-Quantity	Cantidad de nota	inventoryActions	item	Banker's note
+Un-note-Quantity	Cantidad sin nota	inventoryActions	item	Banker's note
+Dismiss	Despedir	inventoryActions	item	Guardian horn
+Toggle-modes	Alternar modos	inventoryActions	item	Guardian horn
+Change-outfit	Cambiar atuendo	inventoryActions	item	Guardian horn
+Change Prayerbook	Cambiar libro de oraciones	inventoryActions	item	Ruinous powers
+Toggle-activity	Alternar actividad	inventoryActions	item	Echo boots
+Signal	Señal	inventoryActions	item	Basic quetzal whistle
+Rumour	Rumor	inventoryActions	item	Basic quetzal whistle
+Break-down	Descomponer	inventoryActions	item	Blessed bone statuette
+Darkfrost	Escarcha oscura	inventoryActions	item	Pendant of ates
+Twilight Temple	Templo del crepúsculo	inventoryActions	item	Pendant of ates
+Ralos' Rise	Ascenso de Ralos	inventoryActions	item	Pendant of ates
+North Aldarin	Norte de Aldarin	inventoryActions	item	Pendant of ates
+Kastori	Kastori	inventoryActions	item	Pendant of ates
+Nemus Retreat	Retiro Nemus	inventoryActions	item	Pendant of ates
+Colour	Color	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	Tallar	inventoryActions	item	Beige pumpkin (disgusted)
+Withdraw-all	Retirar todo	inventoryActions	item	Forager's pouch
+Withdraw-last	Retirar último	inventoryActions	item	Forager's pouch
+Current-step	Paso actual	inventoryActions	item	Clue compass
+Collect	Recoger	inventoryActions	item	Pocket kingdom
+Manage-kingdom	Gestionar reino	inventoryActions	item	Pocket kingdom
+Relic Emote	Emoticón de reliquia	inventoryActions	item	Raging echoes cane
+Area Emote	Emoticón de área	inventoryActions	item	Raging echoes cane
+Detach	Separar	inventoryActions	item	Echo venator bow
+Detatch	Separar	inventoryActions	item	Echo ahrim's robeskirt 75
+Create-book	Crear libro	inventoryActions	item	Bronze staff of collection
+Bryophyta	Bryophyta	inventoryActions	item	Giantsoul amulet
+Obor	Obor	inventoryActions	item	Giantsoul amulet
+Branda and Eldric	Branda y Eldric	inventoryActions	item	Giantsoul amulet
+Radius	Radio	inventoryActions	item	Soulflame horn
+Max Players	Jugadores máximos	inventoryActions	item	Soulflame horn
+Wipe	Limpiar	inventoryActions	item	Jim's wet cloth
+Gl. Attenuation	Atenuación gl.	inventoryActions	item	Contract of glyphic attenuation
+Se. Clouding	Nublado se.	inventoryActions	item	Contract of sensory clouding
+Bl. Blows	Golpes bl.	inventoryActions	item	Contract of bloodied blows
+Di. Severance	Separación di.	inventoryActions	item	Contract of divine severance
+Fo. Breath	Aliento fo.	inventoryActions	item	Contract of forfeit breath
+Chomp	Morder	inventoryActions	item	Rotten turnip
+Touch	Tocar	inventoryActions	item	Keystone fragment
+Breaches	Brechas	inventoryActions	item	Events tool
+Events	Eventos	inventoryActions	item	Events tool
+Rummage	Rebuscar	inventoryActions	item	Vale offerings
+Hasty-rummage	Rebuscar rápido	inventoryActions	item	Vale offerings
+Examine	Examinar	inventoryActions	item	
+Remove	Quitar	inventoryActions	item	
+Add	Añadir	inventoryActions	item	
+Add-5	Añadir 5	inventoryActions	item	
+Add-10	Añadir 10	inventoryActions	item	
+Add-All	Añadir todo	inventoryActions	item	
+Add-X	Añadir X	inventoryActions	item	
