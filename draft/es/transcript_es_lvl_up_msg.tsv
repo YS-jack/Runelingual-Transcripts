@@ -82,6 +82,7 @@ You can now use the Viyeldi Caves cliff shortcut.		lvl_up_msg	Transcript of Agil
 You can now enter Floor 5 of the Hallowed Sepulchre.		lvl_up_msg	Transcript of Agility	Transcript of Agility
 You can now use the advanced shortcut to the Meiyerditch Laboratories (with 78 mining).		lvl_up_msg	Transcript of Agility	Transcript of Agility
 Congratulations! You are now a master of Agility. Why not visit the Cap'n Izzy No-beard at the Brimhaven Agility Arena? He has something special that is only available to true masters of the Agility skill!		lvl_up_msg	Transcript of Agility	Transcript of Agility
+You can now use the Taverley dungeon lesser demon fence Agility shortcut and the Darkmeyer wall shortcut.		lvl_up_msg	Transcript of Agility	Transcript of Agility
 Your Attack level is used to determine how likely you are to hit your target in melee combat. A higher Attack level will give you a better chance to hit.		lvl_up_msg	Transcript of Attack	Transcript of Attack
 Additionally, a higher Attack level will allow you to wield more powerful weapons. A weapon with a higher Attack bonus will give you more accuracy in combat.		lvl_up_msg	Transcript of Attack	Transcript of Attack
 You can select your Attack style from the Combat Options side panel. Different enemies are weaker or stronger against different Attack styles, so choose carefully.		lvl_up_msg	Transcript of Attack	Transcript of Attack
@@ -103,6 +104,7 @@ Members can now wield the Dragon Hunter Lance!		lvl_up_msg	Transcript of Attack	
 Members can now wield the Scythe of Vitur, the Ghrazi Rapier, the Inquisitor's Mace, the Blade of Saeldor and the upgraded Keris Partisan!		lvl_up_msg	Transcript of Attack	Transcript of Attack
 Members can now wield Osmumten's Fang!		lvl_up_msg	Transcript of Attack	Transcript of Attack
 Congratulations! You are now a master of Attack. Why not visit Ajjat at the Warriors' Guild? He has something special that is only available to true masters of the Attack skill!		lvl_up_msg	Transcript of Attack	Transcript of Attack
+You can now wield Adamant Weaponry!		lvl_up_msg	Transcript of Attack	Transcript of Attack
 Construction gives you access to your very owned Player-Owned House. To get started, you'll need to buy a house from an Estate agent.		lvl_up_msg	Transcript of Construction	Transcript of Construction
 Once you have a house, you'll need to build furniture. Most furniture can be built with planks, which can be obtained via taking logs to a sawmill.		lvl_up_msg	Transcript of Construction	Transcript of Construction
 To build furniture, grab a hammer and a saw, enter your house in build mode, select a hotspot and select the furniture you want to build.		lvl_up_msg	Transcript of Construction	Transcript of Construction
@@ -228,6 +230,7 @@ You can now build: Obsidian decorative bench		lvl_up_msg	Transcript of Construct
 You can now build a maximum of 34 rooms.		lvl_up_msg	Transcript of Construction	Transcript of Construction
 You can now build: Demonic throne, Massive storage unit, Rune dragon, Magic stone cape rack		lvl_up_msg	Transcript of Construction	Transcript of Construction
 Congratulations! You are now a master of Construction. Why not visit the Estate Agent? He has something special that is only available to true masters of the Construction skill!		lvl_up_msg	Transcript of Construction	Transcript of Construction
+You can now build: Oak bed, Hoop-and-stick game, Willow tree, Small storage unit, Banner Stand		lvl_up_msg	Transcript of Construction	Transcript of Construction
 Cooking is a skill that lets you make all kinds of delicious food that will typically restore your Hitpoints, amongst providing other benefits.		lvl_up_msg	Transcript of Cooking	Transcript of Cooking
 At its most basic, Cooking can be done by simply taking raw meats and fish to either a fire or a range. You'll get better results overall if you use a range, though.		lvl_up_msg	Transcript of Cooking	Transcript of Cooking
 Some foods will require you to prepare your ingredients before you can cook them. For example, you first need to mix flour and water into a dough before you can bake them into bread.		lvl_up_msg	Transcript of Cooking	Transcript of Cooking
@@ -497,6 +500,7 @@ You can now grow Redwood Trees.		lvl_up_msg	Transcript of Farming	Transcript of 
 You can now plant 2 spirit trees at a time and get triple magic roots.		lvl_up_msg	Transcript of Farming	Transcript of Farming
 Congratulations! You are now a master of Farming. Why not visit Martin the Master Gardener in Draynor Village? He has something special that is only available to true masters of the Farming skill!		lvl_up_msg	Transcript of Farming	Transcript of Farming
 You can now plant unlimited spirit trees at a time and get quadruple magic roots.		lvl_up_msg	Transcript of Farming	Transcript of Farming
+Once your plant has grown, you might need another tool to collect the harvest. For instance, you'll need a shovel to dig up potatoes.		lvl_up_msg	Transcript of Farming	Transcript of Farming
 Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
 Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
 Members can now light Candle Lanterns.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
@@ -526,6 +530,8 @@ Members can now burn Magic Pyre Logs.		lvl_up_msg	Transcript of Firemaking	Trans
 Members can now create Infernal Axes.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
 Members can now burn Redwood Logs and light an Abyssal Lantern with Redwood Logs.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
 Congratulations! You are now a master of Firemaking. Why not visit Ignatius, south of Seers' Village? He has something special that is only available to true masters of the Firmaking skill!		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
+You can now burn Magic Logs and light an Abyssal Lantern with Magic Logs.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
+You can now burn Redwood Logs and light an Abyssal Lantern with Redwood Logs.		lvl_up_msg	Transcript of Firemaking	Transcript of Firemaking
 Fishing allows you to gather fish at various points across Gielinor. Typically, these will be indicated by moving bubbles on the surface of the water.		lvl_up_msg	Transcript of Fishing	Transcript of Fishing
 Different fish require different equipment to catch; for instance, you need a fishing net to catch shrimp, but a fishing rod and bait to catch sardines.		lvl_up_msg	Transcript of Fishing	Transcript of Fishing
 As your Fishing level increases, you'll gain access to more varieties of fish to catch, as well as having a higher chance of successfully catching fish when you try.		lvl_up_msg	Transcript of Fishing	Transcript of Fishing
@@ -954,6 +960,8 @@ Members can now cast Vengeance Other!		lvl_up_msg	Transcript of Magic	Transcript
 Members can now cast Vengeance!		lvl_up_msg	Transcript of Magic	Transcript of Magic
 Members can now cast Heal Group!		lvl_up_msg	Transcript of Magic	Transcript of Magic
 Members can now cast Spellbook Swap!		lvl_up_msg	Transcript of Magic	Transcript of Magic
+Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.		lvl_up_msg	Transcript of Magic	Transcript of Magic
+You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.		lvl_up_msg	Transcript of Magic	Transcript of Magic
 Mining allows you to get various minerals from the world, for use in other skills; primarily Smithing.		lvl_up_msg	Transcript of Mining	Transcript of Mining
 To mine a rock, simply interact with it while holding a pickaxe you have the level to use and you'll start mining it. Eventually, you'll collect the ore and the rock will deplete. Low level rocks will replenish themselves fairly quickly, but higher level ones will take longer and longer to come back.		lvl_up_msg	Transcript of Mining	Transcript of Mining
 At higher mining levels, you'll have an increased chance of successfully mining a rock. You'll also be able to use more powerful pickaxes, which decrease the amount of time between mining attempts.		lvl_up_msg	Transcript of Mining	Transcript of Mining
@@ -1122,6 +1130,8 @@ You will now receive 8 Mind Runes from each Essence.		lvl_up_msg	Transcript of R
 You will now receive 10 Air Runes from each Essence, and Members will now receive 2 Death Runes and 3 Sunfire Runes from each Essence.		lvl_up_msg	Transcript of Runecraft	Transcript of Runecraft
 Congratulations! You are now a master of Runecrafting. Why not visit Aubury, who runs the rune shop in Varrock, where you can buy something special that is only available to true masters of the		lvl_up_msg	Transcript of Runecraft	Transcript of Runecraft
 Runecrafting skill!		lvl_up_msg	Transcript of Runecraft	Transcript of Runecraft
+Runecrafting is the skill that allows you to convert essences into runes, which you can use to cast spells.		lvl_up_msg	Transcript of Runecraft	Transcript of Runecraft
+Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.		lvl_up_msg	Transcript of Runecraft	Transcript of Runecraft
 You can now build a bronze cannon for your boat.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now dock your boat at Dognose Island.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You can now recruit Jobless Jim as a crewmate.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
@@ -1144,6 +1154,17 @@ You can now dock your boat at Ardougne.[sic] and build a Teak hull on your boat.
 You can now dock your boat at Void Knight's Outpost and build a Teak cargo hold on your boat.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 Congratulations, you just reached the Sailing Beta's maximum level. You will not be able to level up anymore. Your Sailing level is now 30.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 You have reached the highest level in the Beta! You can now take on the Tempor Tamtrum Barracuda trial, dock at Port Khazard and Corsair Cove, and use Dragon cannons.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now dock your boat at Musa Point and The End,[sic] fully chart The Firth of Lum and purchase a Kandarin small boat.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now build a bronze salvaging hook and wind catcher for your boat, salvage Small shipwrecks, and build an oak hull and an oak mast with cloth sail for your boat.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now fully chart Mudskipper Sound.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now fully chart Rimmington Strait.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now build a iron salvaging hook for your boat.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now build an anchor for your boat and dock your boat at Charred Island.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now dock your boat at and take port tasks from Catherby.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now dock your boat at Witchaven.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now salvage Pirate shipwrecks and dock your boat at Brimhaven.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now dock your boat at Ardougne.		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
+You can now challenge yourself with the Tempor Tantrum barracuda trial south of the Pandemonium and dock your boat at Port Khazard. You have also reached the maximum Sailing level for this Alpha!		lvl_up_msg	Transcript of Sailing	Transcript of Sailing
 Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.		lvl_up_msg	Transcript of Slayer	Transcript of Slayer
 To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.		lvl_up_msg	Transcript of Slayer	Transcript of Slayer
 Once you've completed five tasks, you can start earning reward points, which can be used to skip or block tasks you don't want, or purchase various items and benefits like extended tasks.		lvl_up_msg	Transcript of Slayer	Transcript of Slayer

@@ -1,5 +1,5 @@
 english	translation	category	sub_category	source
-Dwarf remains	Restos enanos	name	item	Dwarf remains
+Dwarf remains	Restos de enano	name	item	Dwarf remains
 Toolkit	Toolkit	name	item	Toolkit
 Cannonball	Bala de cañón	name	item	Cannonball
 Nulodion's notes	Notas de Nulodion	name	item	Nulodion's notes
@@ -34,14 +34,14 @@ Bronze arrowtips	Puntas de flecha de bronce	name	item	Bronze arrowtips
 Iron arrowtips	Puntas de flecha de hierro	name	item	Iron arrowtips
 Steel arrowtips	Puntas de flecha de acero	name	item	Steel arrowtips
 Mithril arrowtips	Puntas de flecha de mithril	name	item	Mithril arrowtips
-Adamant arrowtips	Puntas de flecha Adamant	name	item	Adamant arrowtips
-Rune arrowtips	Puntas de flecha rúnicas	name	item	Rune arrowtips
-Opal bolt tips	Puntas de tornillo opalinas	name	item	Opal bolt tips
-Pearl bolt tips	Puntas de perno perladas	name	item	Pearl bolt tips
-Barb bolttips	Pernos Barb	name	item	Barb bolttips
+Adamant arrowtips	Puntas de flecha de adamant	name	item	Adamant arrowtips
+Rune arrowtips	Puntas de flecha de runita	name	item	Rune arrowtips
+Opal bolt tips	Puntas de ballesta de opal	name	item	Opal bolt tips
+Pearl bolt tips	Puntas de ballesta de perla	name	item	Pearl bolt tips
+Barb bolttips	Puntas de ballesta de barb	name	item	Barb bolttips
 Longbow (u)	Arco largo (u)	name	item	Longbow (u)
 Shortbow (u)	Arco corto (u)	name	item	Shortbow (u)
-Arrow shaft	Flecha	name	item	Arrow shaft
+Arrow shaft	Eje de flecha	name	item	Arrow shaft
 Headless arrow	Flecha sin cabeza	name	item	Headless arrow
 Oak shortbow (u)	Arco corto de roble (u)	name	item	Oak shortbow (u)
 Oak longbow (u)	Arco largo de roble (u)	name	item	Oak longbow (u)
@@ -59,10 +59,10 @@ Khazard cell keys	Llaves de celda Khazard	name	item	Khazard cell keys
 Khali brew	Cerveza Khali	name	item	Khali brew
 Ice arrows	Flechas de hielo	name	item	Ice arrows
 Lever	Palanca	name	item	Lever
-Staff of armadyl	Bastón de armadilo	name	item	Staff of armadyl
+Staff of armadyl	Bastón de Armadyl	name	item	Staff of armadyl
 Shiny key	Llave brillante	name	item	Shiny key
 Pendant of lucien	Colgante de lucien	name	item	Pendant of lucien
-Armadyl pendant	Colgante Armadyl	name	item	Armadyl pendant
+Armadyl pendant	Colgante de Armadyl	name	item	Armadyl pendant
 Boots of lightness	Botas de ligereza	name	item	Boots of lightness
 Child's blanket	Manta infantil	name	item	Child's blanket
 Guam potion (unf)	Poción de Guam (unf)	name	item	Guam potion (unf)
@@ -71,10 +71,10 @@ Tarromin potion (unf)	Poción de tarromina (unf)	name	item	Tarromin potion (unf)
 Harralander potion (unf)	Poción Harralander (unf)	name	item	Harralander potion (unf)
 Ranarr potion (unf)	Poción Ranarr (unf)	name	item	Ranarr potion (unf)
 Irit potion (unf)	Poción de Irit (unf)	name	item	Irit potion (unf)
-Avantoe potion (unf)	Poción de avance (unf)	name	item	Avantoe potion (unf)
+Avantoe potion (unf)	Poción de avantoe (unf)	name	item	Avantoe potion (unf)
 Kwuarm potion (unf)	Poción Kwuarm (unf)	name	item	Kwuarm potion (unf)
 Cadantine potion (unf)	Poción cadantina (unf)	name	item	Cadantine potion (unf)
-Dwarf weed potion (unf)	Poción de hierba enana (unf)	name	item	Dwarf weed potion (unf)
+Dwarf weed potion (unf)	Poción de hierba de enano (unf)	name	item	Dwarf weed potion (unf)
 Torstol potion (unf)	Poción de torstol (unf)	name	item	Torstol potion (unf)
 Strength potion(4)	Poción de fuerza(4)	name	item	Strength potion(4)
 Strength potion(3)	Poción de fuerza(3)	name	item	Strength potion(3)
@@ -128,7 +128,7 @@ Grimy irit leaf	Hoja de lirio	name	item	Grimy irit leaf
 Grimy avantoe	Grimy avantoe	name	item	Grimy avantoe
 Grimy kwuarm	Grimy kwuarm	name	item	Grimy kwuarm
 Grimy cadantine	Grimy cadantine	name	item	Grimy cadantine
-Grimy dwarf weed	Mala hierba enana	name	item	Grimy dwarf weed
+Grimy dwarf weed	Mala hierba de enano	name	item	Grimy dwarf weed
 Grimy torstol	Grimy torstol	name	item	Grimy torstol
 Eye of newt	Ojo de tritón	name	item	Eye of newt
 Red spiders' eggs	Huevos de araña roja	name	item	Red spiders' eggs
@@ -153,7 +153,7 @@ Irit leaf	Hoja de Irit	name	item	Irit leaf
 Avantoe	Avantoe	name	item	Avantoe
 Kwuarm	Kwuarm	name	item	Kwuarm
 Cadantine	Cadantine	name	item	Cadantine
-Dwarf weed	Hierba enana	name	item	Dwarf weed
+Dwarf weed	Hierba de enano	name	item	Dwarf weed
 Torstol	Silla Gate	name	item	Torstol
 Pressure gauge	Manómetro	name	item	Pressure gauge
 Fish food	Comida para peces	name	item	Fish food
@@ -267,7 +267,7 @@ Scorpion cage	Jaula para escorpiones	name	item	Scorpion cage
 Strange fruit	Fruta extraña	name	item	Strange fruit
 Pickaxe handle	Mango de piqueta	name	item	Pickaxe handle
 Broken pickaxe	Piqueta rota	name	item	Broken pickaxe
-Bronze pick head	Cabezal de púa de bronce	name	item	Bronze pick head
+Bronze pick head	Cabezal de pico de bronce	name	item	Bronze pick head
 Iron pick head	Cabezal de hierro	name	item	Iron pick head
 Steel pick head	Cabezal de acero	name	item	Steel pick head
 Mithril pick head	Cabeza de púa de mithril	name	item	Mithril pick head
@@ -610,7 +610,7 @@ Green partyhat	Sombrero verde	name	item	Green partyhat
 Purple partyhat	Sombrero de fiesta morado	name	item	Purple partyhat
 White partyhat	Sombrero de fiesta blanco	name	item	White partyhat
 Santa hat	Gorro de Papá Noel	name	item	Santa hat
-Cape of legends	Cabo de leyenda	name	item	Cape of legends
+Cape of legends	Capa de leyendas	name	item	Cape of legends
 Green halloween mask	Máscara de Halloween verde	name	item	Green halloween mask
 Blue halloween mask	Máscara de Halloween azul	name	item	Blue halloween mask
 Red halloween mask	Máscara roja de Halloween	name	item	Red halloween mask
@@ -618,14 +618,14 @@ Leather gloves	Guantes de cuero	name	item	Leather gloves
 Leather boots	Botas de piel	name	item	Leather boots
 Leather vambraces	Tirantes de cuero	name	item	Leather vambraces
 Green d'hide vambraces	Vambraces d'hide verdes	name	item	Green d'hide vambraces
-Iron platelegs	Patas de hierro	name	item	Iron platelegs
+Iron platelegs	Pantalón de hierro	name	item	Iron platelegs
 Steel platelegs	Patas de acero	name	item	Steel platelegs
 Mithril platelegs	Patas de metal	name	item	Mithril platelegs
 Adamant platelegs	Adamant platelegs	name	item	Adamant platelegs
 Bronze platelegs	Plaquetas de bronce	name	item	Bronze platelegs
 Black platelegs	Plaquetas negras	name	item	Black platelegs
 Rune platelegs	Runa platelegs	name	item	Rune platelegs
-Iron plateskirt	Falda de placas de hierro	name	item	Iron plateskirt
+Iron plateskirt	Falda de hierro	name	item	Iron plateskirt
 Steel plateskirt	Faldón de chapa de acero	name	item	Steel plateskirt
 Mithril plateskirt	Falda de placas de mithril	name	item	Mithril plateskirt
 Bronze plateskirt	Falda de placas de bronce	name	item	Bronze plateskirt
@@ -635,15 +635,15 @@ Rune plateskirt	Falda de placas rúnicas	name	item	Rune plateskirt
 Leather chaps	Polainas de cuero	name	item	Leather chaps
 Studded chaps	Chaparreras con tachuelas	name	item	Studded chaps
 Green d'hide chaps	Chaparreras Green d'hide	name	item	Green d'hide chaps
-Iron chainbody	Cadenas de hierro	name	item	Iron chainbody
-Bronze chainbody	Cadenas de bronce	name	item	Bronze chainbody
+Iron chainbody	Pechera de cadenas de hierro	name	item	Iron chainbody
+Bronze chainbody	Pechera de cadenas de bronce	name	item	Bronze chainbody
 Steel chainbody	Cadenas de acero	name	item	Steel chainbody
 Black chainbody	Cadenas negras	name	item	Black chainbody
 Mithril chainbody	Cuerpo de cadena de mithril	name	item	Mithril chainbody
 Adamant chainbody	Cadenas Adamant	name	item	Adamant chainbody
 Rune chainbody	Cadenas rúnicas	name	item	Rune chainbody
-Iron platebody	Plancha de hierro	name	item	Iron platebody
-Bronze platebody	Cuerpo de chapa de bronce	name	item	Bronze platebody
+Iron platebody	Pecho de hierro	name	item	Iron platebody
+Bronze platebody	Pechera de bronce	name	item	Bronze platebody
 Steel platebody	Carrocería de acero	name	item	Steel platebody
 Mithril platebody	Placa de mithril	name	item	Mithril platebody
 Adamant platebody	Adamant platebody	name	item	Adamant platebody
@@ -653,8 +653,8 @@ Leather body	Cuerpo de cuero	name	item	Leather body
 Hardleather body	Cuerpo de cuero duro	name	item	Hardleather body
 Studded body	Cuerpo con tachuelas	name	item	Studded body
 Green d'hide body	Cuerpo d'hide verde	name	item	Green d'hide body
-Iron med helm	Plancha con casco	name	item	Iron med helm
-Bronze med helm	Bronce med casco	name	item	Bronze med helm
+Iron med helm	Casco mediano de hierro	name	item	Iron med helm
+Bronze med helm	Casco mediano de bronce	name	item	Bronze med helm
 Steel med helm	Casco med de acero	name	item	Steel med helm
 Mithril med helm	Mithril con casco	name	item	Mithril med helm
 Adamant med helm	Adamant con casco	name	item	Adamant med helm
@@ -662,7 +662,7 @@ Rune med helm	Runa con casco	name	item	Rune med helm
 Dragon med helm	Dragón con casco	name	item	Dragon med helm
 Black med helm	Negro con casco	name	item	Black med helm
 Iron full helm	Casco completo de hierro	name	item	Iron full helm
-Bronze full helm	Timón completo de bronce	name	item	Bronze full helm
+Bronze full helm	Casco completo de bronce	name	item	Bronze full helm
 Steel full helm	Timón completo de acero	name	item	Steel full helm
 Mithril full helm	Casco completo de mithril	name	item	Mithril full helm
 Adamant full helm	Timón completo Adamant	name	item	Adamant full helm
@@ -671,7 +671,7 @@ Black full helm	Casco integral negro	name	item	Black full helm
 Leather cowl	Capucha de cuero	name	item	Leather cowl
 Coif	Coif	name	item	Coif
 Wooden shield	Escudo de madera	name	item	Wooden shield
-Bronze sq shield	Escudo cuadrado de bronce	name	item	Bronze sq shield
+Bronze sq shield	Escudo de bronce cuadrado	name	item	Bronze sq shield
 Iron sq shield	Escudo cuadrado de hierro	name	item	Iron sq shield
 Steel sq shield	Escudo cuadrado de acero	name	item	Steel sq shield
 Black sq shield	Escudo cuadrado negro	name	item	Black sq shield
@@ -680,7 +680,7 @@ Adamant sq shield	Escudo cuadrado Adamant	name	item	Adamant sq shield
 Rune sq shield	Escudo cuadrado rúnico	name	item	Rune sq shield
 Dragon sq shield	Escudo cuadrado del dragón	name	item	Dragon sq shield
 Bronze kiteshield	Escudo de bronce	name	item	Bronze kiteshield
-Iron kiteshield	Escudo de cometa de hierro	name	item	Iron kiteshield
+Iron kiteshield	Escudo de hierro	name	item	Iron kiteshield
 Steel kiteshield	Escudo de acero	name	item	Steel kiteshield
 Black kiteshield	Kiteshield negro	name	item	Black kiteshield
 Mithril kiteshield	Escudo de cometa de mithril	name	item	Mithril kiteshield
@@ -717,8 +717,8 @@ Mithril spear(p)	Lanza de mithril(p)	name	item	Mithril spear(p)
 Adamant spear(p)	Lanza Adamant(p)	name	item	Adamant spear(p)
 Rune spear(p)	Lanza rúnica(p)	name	item	Rune spear(p)
 Dragon spear(p)	Lanza de dragón(p)	name	item	Dragon spear(p)
-Bronze pickaxe	Piqueta de bronce	name	item	Bronze pickaxe
-Iron pickaxe	Piqueta de hierro	name	item	Iron pickaxe
+Bronze pickaxe	Pico de bronce	name	item	Bronze pickaxe
+Iron pickaxe	Pico de hierro	name	item	Iron pickaxe
 Steel pickaxe	Piqueta de acero	name	item	Steel pickaxe
 Adamant pickaxe	Piqueta Adamant	name	item	Adamant pickaxe
 Mithril pickaxe	Pico de mithril	name	item	Mithril pickaxe
@@ -738,22 +738,22 @@ Mithril longsword	Espada larga de mithril	name	item	Mithril longsword
 Adamant longsword	Espada larga Adamant	name	item	Adamant longsword
 Rune longsword	Espada larga rúnica	name	item	Rune longsword
 Dragon longsword	Espada larga del dragón	name	item	Dragon longsword
-Bronze 2h sword	Espada de bronce 2h	name	item	Bronze 2h sword
+Bronze 2h sword	Espada de bronce de dos manos	name	item	Bronze 2h sword
 Iron 2h sword	Espada de hierro 2h	name	item	Iron 2h sword
 Steel 2h sword	Espada de acero 2h	name	item	Steel 2h sword
 Black 2h sword	Espada negra 2h	name	item	Black 2h sword
 Mithril 2h sword	Espada de mithril 2h	name	item	Mithril 2h sword
 Adamant 2h sword	Espada Adamant 2h	name	item	Adamant 2h sword
 Rune 2h sword	Runa 2h espada	name	item	Rune 2h sword
-Bronze scimitar	Cimitarra de bronce	name	item	Bronze scimitar
-Iron scimitar	Cimitarra de hierro	name	item	Iron scimitar
+Bronze scimitar	Scimitar de bronce	name	item	Bronze scimitar
+Iron scimitar	Scimitar de hierro	name	item	Iron scimitar
 Steel scimitar	Cimitarra de acero	name	item	Steel scimitar
 Black scimitar	Cimitarra negra	name	item	Black scimitar
 Mithril scimitar	Cimitarra de mithril	name	item	Mithril scimitar
 Adamant scimitar	Cimitarra Adamant	name	item	Adamant scimitar
 Rune scimitar	Cimitarra rúnica	name	item	Rune scimitar
 Iron warhammer	Martillo de guerra de hierro	name	item	Iron warhammer
-Bronze warhammer	Martillo de bronce	name	item	Bronze warhammer
+Bronze warhammer	Martillo de guerra de bronce	name	item	Bronze warhammer
 Steel warhammer	Martillo de guerra de acero	name	item	Steel warhammer
 Black warhammer	Martillo de guerra negro	name	item	Black warhammer
 Mithril warhammer	Martillo de guerra de mithril	name	item	Mithril warhammer
@@ -841,7 +841,7 @@ Amulet of othanian	Amuleto de othanian	name	item	Amulet of othanian
 Amulet of doomion	Amuleto de doomion	name	item	Amulet of doomion
 Amulet of holthion	Amuleto de holthion	name	item	Amulet of holthion
 Iban's shadow	La sombra de Iban	name	item	Iban's shadow
-Dwarf brew	Brebaje enano	name	item	Dwarf brew
+Dwarf brew	Cerveza de enano	name	item	Dwarf brew
 Iban's ashes	Las cenizas de Iban	name	item	Iban's ashes
 Warrant	Orden	name	item	Warrant
 Hangover cure	Cura para la resaca	name	item	Hangover cure
@@ -1310,10 +1310,10 @@ Ranging potion(4)	Poción de alcance(4)	name	item	Ranging potion(4)
 Antipoison(4)	Antiveneno(4)	name	item	Antipoison(4)
 Superantipoison(4)	Superantiveneno(4)	name	item	Superantipoison(4)
 Zamorak brew(4)	Zamorak brew(4)	name	item	Zamorak brew(4)
-Antifire potion(4)	Poción antiincendios(4)	name	item	Antifire potion(4)
-Antifire potion(3)	Poción antiincendios(3)	name	item	Antifire potion(3)
-Antifire potion(2)	Poción antiincendios(2)	name	item	Antifire potion(2)
-Antifire potion(1)	Poción antiincendios(1)	name	item	Antifire potion(1)
+Antifire potion(4)	Poción antifuego(4)	name	item	Antifire potion(4)
+Antifire potion(3)	Poción antifuego(3)	name	item	Antifire potion(3)
+Antifire potion(2)	Poción antifuego(2)	name	item	Antifire potion(2)
+Antifire potion(1)	Poción antifuego(1)	name	item	Antifire potion(1)
 Assorted flowers	Flores variadas	name	item	Assorted flowers
 Red flowers	Flores rojas	name	item	Red flowers
 Blue flowers	Flores azules	name	item	Blue flowers
@@ -1595,7 +1595,7 @@ Monkey bones	Huesos de mono	name	item	Monkey bones
 Small zombie monkey bones	Pequeños huesos de mono zombi	name	item	Small zombie monkey bones
 Large zombie monkey bones	Huesos grandes de mono zombi	name	item	Large zombie monkey bones
 Cleaning cloth	Paño de limpieza	name	item	Cleaning cloth
-Bronze halberd	Medio bronce	name	item	Bronze halberd
+Bronze halberd	Alabarda de bronce	name	item	Bronze halberd
 Iron halberd	Alabarda de hierro	name	item	Iron halberd
 Steel halberd	Alabarda de acero	name	item	Steel halberd
 Black halberd	Alabarda negra	name	item	Black halberd
@@ -1704,7 +1704,7 @@ Maple pyre logs	Troncos de arce para pira	name	item	Maple pyre logs
 Yew pyre logs	Troncos de tejo	name	item	Yew pyre logs
 Magic pyre logs	Troncos de pira mágica	name	item	Magic pyre logs
 Bronze key red	Llave de bronce roja	name	item	Bronze key red
-Bronze key brown	Bronce llave marrón	name	item	Bronze key brown
+Bronze key brown	Llave de bronce marrón	name	item	Bronze key brown
 Bronze key crimson	Llave de bronce carmesí	name	item	Bronze key crimson
 Bronze key black	Llave de bronce negro	name	item	Bronze key black
 Bronze key purple	Llave de bronce morada	name	item	Bronze key purple
@@ -2051,56 +2051,56 @@ Ham logo	Logotipo del jamón	name	item	Ham logo
 Ham gloves	Guantes de jamón	name	item	Ham gloves
 Ham boots	Botas de jamón	name	item	Ham boots
 Crystal singing for beginners	Canto cristal para principiantes	name	item	Crystal singing for beginners
-Team-1 cape	Equipo-1 capa	name	item	Team-1 cape
-Team-2 cape	Equipo-2 capa	name	item	Team-2 cape
-Team-3 cape	Equipo-3 capa	name	item	Team-3 cape
-Team-4 cape	Equipo-4 capa	name	item	Team-4 cape
-Team-5 cape	Equipo-5 capa	name	item	Team-5 cape
-Team-6 cape	Equipo-6 capa	name	item	Team-6 cape
-Team-7 cape	Equipo-7 capa	name	item	Team-7 cape
-Team-8 cape	Equipo-8 capa	name	item	Team-8 cape
-Team-9 cape	Equipo-9 capa	name	item	Team-9 cape
-Team-10 cape	Equipo-10 capa	name	item	Team-10 cape
-Team-11 cape	Equipo-11 capa	name	item	Team-11 cape
-Team-12 cape	Equipo-12 capa	name	item	Team-12 cape
-Team-13 cape	Equipo-13 capa	name	item	Team-13 cape
-Team-14 cape	Equipo-14 capa	name	item	Team-14 cape
-Team-15 cape	Equipo-15 capa	name	item	Team-15 cape
-Team-16 cape	Equipo-16 capa	name	item	Team-16 cape
-Team-17 cape	Equipo-17 capa	name	item	Team-17 cape
-Team-18 cape	Equipo-18 capa	name	item	Team-18 cape
-Team-19 cape	Equipo-19 capa	name	item	Team-19 cape
-Team-20 cape	Equipo-20 capa	name	item	Team-20 cape
-Team-21 cape	Equipo-21 capa	name	item	Team-21 cape
-Team-22 cape	Equipo-22 capa	name	item	Team-22 cape
-Team-23 cape	Equipo-23 capa	name	item	Team-23 cape
-Team-24 cape	Capa Equipo-24	name	item	Team-24 cape
-Team-25 cape	Equipo-25 capa	name	item	Team-25 cape
-Team-26 cape	Equipo-26 capa	name	item	Team-26 cape
-Team-27 cape	Equipo-27 capa	name	item	Team-27 cape
-Team-28 cape	Equipo-28 capa	name	item	Team-28 cape
-Team-29 cape	Equipo-29 capa	name	item	Team-29 cape
-Team-30 cape	Equipo-30 capa	name	item	Team-30 cape
-Team-31 cape	Equipo-31 capa	name	item	Team-31 cape
-Team-32 cape	Equipo-32 capa	name	item	Team-32 cape
-Team-33 cape	Equipo-33 capa	name	item	Team-33 cape
-Team-34 cape	Equipo-34 capa	name	item	Team-34 cape
-Team-35 cape	Equipo-35 capa	name	item	Team-35 cape
-Team-36 cape	Equipo-36 capa	name	item	Team-36 cape
-Team-37 cape	Equipo-37 capa	name	item	Team-37 cape
-Team-38 cape	Equipo-38 capa	name	item	Team-38 cape
-Team-39 cape	Equipo-39 capa	name	item	Team-39 cape
-Team-40 cape	Equipo-40 capa	name	item	Team-40 cape
-Team-41 cape	Capa Team-41	name	item	Team-41 cape
-Team-42 cape	Equipo-42 capa	name	item	Team-42 cape
-Team-43 cape	Equipo-43 capa	name	item	Team-43 cape
-Team-44 cape	Equipo-44 capa	name	item	Team-44 cape
-Team-45 cape	Equipo-45 capa	name	item	Team-45 cape
-Team-46 cape	Equipo-46 capa	name	item	Team-46 cape
-Team-47 cape	Equipo-47 capa	name	item	Team-47 cape
-Team-48 cape	Equipo-48 capa	name	item	Team-48 cape
-Team-49 cape	Equipo-49 capa	name	item	Team-49 cape
-Team-50 cape	Capa Team-50	name	item	Team-50 cape
+Team-1 cape	Capa de Equipo-1	name	item	Team-1 cape
+Team-2 cape	Capa de Equipo-2	name	item	Team-2 cape
+Team-3 cape	Capa de Equipo-3	name	item	Team-3 cape
+Team-4 cape	Capa de Equipo-4	name	item	Team-4 cape
+Team-5 cape	Capa de Equipo-5	name	item	Team-5 cape
+Team-6 cape	Capa de Equipo-6	name	item	Team-6 cape
+Team-7 cape	Capa de Equipo-7	name	item	Team-7 cape
+Team-8 cape	Capa de Equipo-8	name	item	Team-8 cape
+Team-9 cape	Capa de Equipo-9	name	item	Team-9 cape
+Team-10 cape	Capa de Equipo-10	name	item	Team-10 cape
+Team-11 cape	Capa de Equipo-11	name	item	Team-11 cape
+Team-12 cape	Capa de Equipo-12	name	item	Team-12 cape
+Team-13 cape	Capa de Equipo-13	name	item	Team-13 cape
+Team-14 cape	Capa de Equipo-14	name	item	Team-14 cape
+Team-15 cape	Capa de Equipo-15	name	item	Team-15 cape
+Team-16 cape	Capa de Equipo-16	name	item	Team-16 cape
+Team-17 cape	Capa de Equipo-17	name	item	Team-17 cape
+Team-18 cape	Capa de Equipo-18	name	item	Team-18 cape
+Team-19 cape	Capa de Equipo-19	name	item	Team-19 cape
+Team-20 cape	Capa de Equipo-20	name	item	Team-20 cape
+Team-21 cape	Capa de Equipo-21	name	item	Team-21 cape
+Team-22 cape	Capa de Equipo-22	name	item	Team-22 cape
+Team-23 cape	Capa de Equipo-23	name	item	Team-23 cape
+Team-24 cape	Capa de Equipo-24	name	item	Team-24 cape
+Team-25 cape	Capa de Equipo-25	name	item	Team-25 cape
+Team-26 cape	Capa de Equipo-26	name	item	Team-26 cape
+Team-27 cape	Capa de Equipo-27	name	item	Team-27 cape
+Team-28 cape	Capa de Equipo-28	name	item	Team-28 cape
+Team-29 cape	Capa de Equipo-29	name	item	Team-29 cape
+Team-30 cape	Capa de Equipo-30	name	item	Team-30 cape
+Team-31 cape	Capa de Equipo-31	name	item	Team-31 cape
+Team-32 cape	Capa de Equipo-32	name	item	Team-32 cape
+Team-33 cape	Capa de Equipo-33	name	item	Team-33 cape
+Team-34 cape	Capa de Equipo-34	name	item	Team-34 cape
+Team-35 cape	Capa de Equipo-35	name	item	Team-35 cape
+Team-36 cape	Capa de Equipo-36	name	item	Team-36 cape
+Team-37 cape	Capa de Equipo-37	name	item	Team-37 cape
+Team-38 cape	Capa de Equipo-38	name	item	Team-38 cape
+Team-39 cape	Capa de Equipo-39	name	item	Team-39 cape
+Team-40 cape	Capa de Equipo-40	name	item	Team-40 cape
+Team-41 cape	Capa de Equipo-41	name	item	Team-41 cape
+Team-42 cape	Capa de Equipo-42	name	item	Team-42 cape
+Team-43 cape	Capa de Equipo-43	name	item	Team-43 cape
+Team-44 cape	Capa de Equipo-44	name	item	Team-44 cape
+Team-45 cape	Capa de Equipo-45	name	item	Team-45 cape
+Team-46 cape	Capa de Equipo-46	name	item	Team-46 cape
+Team-47 cape	Capa de Equipo-47	name	item	Team-47 cape
+Team-48 cape	Capa de Equipo-48	name	item	Team-48 cape
+Team-49 cape	Capa de Equipo-49	name	item	Team-49 cape
+Team-50 cape	Capa de Equipo-50	name	item	Team-50 cape
 Blunt axe	Hacha roma	name	item	Blunt axe
 Herbal tincture	Tintura de hierbas	name	item	Herbal tincture
 Guthix rest(4)	Guthix resto(4)	name	item	Guthix rest(4)
@@ -2497,7 +2497,7 @@ Kwuarm seed	Semillas Kwuarm	name	item	Kwuarm seed
 Snapdragon seed	Semillas de dragón	name	item	Snapdragon seed
 Cadantine seed	Semilla cadantina	name	item	Cadantine seed
 Lantadyme seed	Lantadyme semilla	name	item	Lantadyme seed
-Dwarf weed seed	Semillas de malas hierbas enanas	name	item	Dwarf weed seed
+Dwarf weed seed	Semillas de malas hierbas de enano	name	item	Dwarf weed seed
 Torstol seed	Semillas de torstol	name	item	Torstol seed
 Barley seed	Semilla de cebada	name	item	Barley seed
 Jute seed	Semilla de yute	name	item	Jute seed
@@ -2710,7 +2710,7 @@ Mithril arrow(p++)	Flecha de mithril(p++)	name	item	Mithril arrow(p++)
 Adamant arrow(p++)	Flecha Adamant(p++)	name	item	Adamant arrow(p++)
 Rune arrow(p++)	Flecha rúnica(p++)	name	item	Rune arrow(p++)
 Bronze dart(p+)	Dardo de bronce(p+)	name	item	Bronze dart(p+)
-Iron dart(p+)	Dardos de hierro (p+)	name	item	Iron dart(p+)
+Iron dart(p+)	Dardo de hierro (p+)	name	item	Iron dart(p+)
 Steel dart(p+)	Dardo de acero(p+)	name	item	Steel dart(p+)
 Black dart(p+)	Dardo negro(p+)	name	item	Black dart(p+)
 Mithril dart(p+)	Dardo de mithril(p+)	name	item	Mithril dart(p+)
@@ -2758,7 +2758,7 @@ Rune dagger(p+)	Daga rúnica(p+)	name	item	Rune dagger(p+)
 Dragon dagger(p+)	Daga de dragón(p+)	name	item	Dragon dagger(p+)
 Black dagger(p+)	Puñal negro(p+)	name	item	Black dagger(p+)
 Poison dagger(p+)	Puñal envenenado(p+)	name	item	Poison dagger(p+)
-Iron dagger(p++)	Puñal de hierro(p++)	name	item	Iron dagger(p++)
+Iron dagger(p++)	Daga de hierro(p++)	name	item	Iron dagger(p++)
 Bronze dagger(p++)	Daga de bronce(p++)	name	item	Bronze dagger(p++)
 Steel dagger(p++)	Daga de acero(p++)	name	item	Steel dagger(p++)
 Mithril dagger(p++)	Daga de mithril(p++)	name	item	Mithril dagger(p++)
@@ -3103,7 +3103,7 @@ Maple blackjack(o)	Blackjack de arce(o)	name	item	Maple blackjack(o)
 Maple blackjack(d)	Blackjack de arce(d)	name	item	Maple blackjack(d)
 Spadeful of coke	Una pizca de coca	name	item	Spadeful of coke
 Kandarin headgear	Casco kandarin	name	item	Kandarin headgear
-Mage arena cape	Capa de mago	name	item	Mage arena cape
+Mage arena cape	Capa de arena de magos	name	item	Mage arena cape
 White rose seed	Semilla de rosa blanca	name	item	White rose seed
 Red rose seed	Semilla de rosa roja	name	item	Red rose seed
 Pink rose seed	Semilla de rosa	name	item	Pink rose seed
@@ -3148,7 +3148,7 @@ Wily cat	Gato astuto	name	item	Wily cat
 Ahab's beer	La cerveza de Ahab	name	item	Ahab's beer
 Mud battlestaff	Bastón de barro	name	item	Mud battlestaff
 Mystic mud staff	Bastón de barro místico	name	item	Mystic mud staff
-Obsidian cape	Capa de obsidiana	name	item	Obsidian cape
+Obsidian cape	Capa de Obsidiana	name	item	Obsidian cape
 Fire cape	Capa de fuego	name	item	Fire cape
 Uncut onyx	Ónice en bruto	name	item	Uncut onyx
 Onyx	Ónice	name	item	Onyx
@@ -3800,12 +3800,12 @@ Morytania painting	Pintura Moritania	name	item	Morytania painting
 Small map	Mapa pequeño	name	item	Small map
 Medium map	Mapa medio	name	item	Medium map
 Large map	Mapa grande	name	item	Large map
-Varrock teleport	Teletransporte Varrock	name	item	Varrock teleport
-Lumbridge teleport	Telepuerto de Lumbridge	name	item	Lumbridge teleport
-Falador teleport	Falador teleport	name	item	Falador teleport
-Camelot teleport	Teletransporte Camelot	name	item	Camelot teleport
-Ardougne teleport	Teletransporte Ardougne	name	item	Ardougne teleport
-Watchtower teleport	Telepuerto de la Atalaya	name	item	Watchtower teleport
+Varrock teleport	Teletransporte a Varrock	name	item	Varrock teleport
+Lumbridge teleport	Teletransporte a Lumbridge	name	item	Lumbridge teleport
+Falador teleport	Teletransporte a Falador	name	item	Falador teleport
+Camelot teleport	Teletransporte a Camelot	name	item	Camelot teleport
+Ardougne teleport	Teletransporte a Ardougne	name	item	Ardougne teleport
+Watchtower teleport	Teletransporte a Atalaya	name	item	Watchtower teleport
 Teleport to house	Teletransporte a casa	name	item	Teleport to house
 Bones to bananas	De los huesos a los plátanos	name	item	Bones to bananas
 Enchant sapphire or opal	Encantar zafiro u ópalo	name	item	Enchant sapphire or opal
@@ -4208,7 +4208,7 @@ Void knight robe	Túnica de caballero del vacío	name	item	Void knight robe
 Void knight mace	Maza de caballero del vacío	name	item	Void knight mace
 Void knight gloves	Guantes de caballero del vacío	name	item	Void knight gloves
 Bronze defender	Defensor de bronce	name	item	Bronze defender
-Iron defender	Defensor del hierro	name	item	Iron defender
+Iron defender	Defensor de hierro	name	item	Iron defender
 Steel defender	Defensor del acero	name	item	Steel defender
 Black defender	Defensor negro	name	item	Black defender
 Mithril defender	Defensor de Mithril	name	item	Mithril defender
@@ -4589,79 +4589,79 @@ Mind helmet	Casco mental	name	item	Mind helmet
 Desert goat horn	Cuerno de cabra del desierto	name	item	Desert goat horn
 Goat horn dust	Polvo de cuerno de cabra	name	item	Goat horn dust
 Combat potion(4)	Poción de combate(4)	name	item	Combat potion(4)
-Combat potion(3)	SIN TRADUCCION	name	item	Combat potion(3)
+Combat potion(3)	Poción de combate(3)	name	item	Combat potion(3)
 Combat potion(2)	Poción de combate(2)	name	item	Combat potion(2)
 Combat potion(1)	Poción de combate(1)	name	item	Combat potion(1)
 Attack cape	Capa de ataque	name	item	Attack cape
 Attack cape(t)	Capa de ataque(t)	name	item	Attack cape(t)
 Attack hood	Capucha de ataque	name	item	Attack hood
-Strength cape	SIN TRADUCCION	name	item	Strength cape
-Strength cape(t)	Fuerza cabo(t)	name	item	Strength cape(t)
+Strength cape	Capa de Fuerza	name	item	Strength cape
+Strength cape(t)	Capa de Fuerza(t)	name	item	Strength cape(t)
 Strength hood	Campana de fuerza	name	item	Strength hood
 Defence cape	Capa de defensa	name	item	Defence cape
-Defence cape(t)	Cabo de defensa(t)	name	item	Defence cape(t)
+Defence cape(t)	Capa de defensa(t)	name	item	Defence cape(t)
 Defence hood	Capó de defensa	name	item	Defence hood
-Ranging cape	SIN TRADUCCION	name	item	Ranging cape
-Ranging cape(t)	Capa de alcance(t)	name	item	Ranging cape(t)
+Ranging cape	Capa de arquería	name	item	Ranging cape
+Ranging cape(t)	Capa de arquería(t)	name	item	Ranging cape(t)
 Ranging hood	Campana de alcance	name	item	Ranging hood
 Prayer cape	Capa de oración	name	item	Prayer cape
 Prayer cape(t)	Capa de oración(t)	name	item	Prayer cape(t)
 Prayer hood	Capucha de oración	name	item	Prayer hood
-Magic cape	SIN TRADUCCION	name	item	Magic cape
-Magic cape(t)	Capa mágica(t)	name	item	Magic cape(t)
+Magic cape	Capa de magia	name	item	Magic cape
+Magic cape(t)	Capd de magia(t)	name	item	Magic cape(t)
 Magic hood	Capucha mágica	name	item	Magic hood
-Runecraft cape	Capa Runecraft	name	item	Runecraft cape
-Runecraft cape(t)	Capa Runecraft(t)	name	item	Runecraft cape(t)
+Runecraft cape	Capa de Runecraft	name	item	Runecraft cape
+Runecraft cape(t)	Capa de Runecraft(t)	name	item	Runecraft cape(t)
 Runecraft hood	Capucha Runecraft	name	item	Runecraft hood
-Hitpoints cape	SIN TRADUCCION	name	item	Hitpoints cape
-Hitpoints cape(t)	Puntos de vida cape(t)	name	item	Hitpoints cape(t)
+Hitpoints cape	Capa de puntos de vida	name	item	Hitpoints cape
+Hitpoints cape(t)	Capa de puntos de vida(t)	name	item	Hitpoints cape(t)
 Hitpoints hood	Capucha de puntos de golpe	name	item	Hitpoints hood
 Agility cape	Capa de agilidad	name	item	Agility cape
 Agility cape(t)	Capa de agilidad(t)	name	item	Agility cape(t)
 Agility hood	Capucha de agilidad	name	item	Agility hood
-Herblore cape	SIN TRADUCCION	name	item	Herblore cape
-Herblore cape(t)	Capa Herblore(t)	name	item	Herblore cape(t)
+Herblore cape	Capa de Herblore	name	item	Herblore cape
+Herblore cape(t)	Capa de Herblore(t)	name	item	Herblore cape(t)
 Herblore hood	Capucha Herblore	name	item	Herblore hood
 Thieving cape	Capa de ladrón	name	item	Thieving cape
 Thieving cape(t)	Capa de ladrón(t)	name	item	Thieving cape(t)
 Thieving hood	Capucha de ladrón	name	item	Thieving hood
-Crafting cape	SIN TRADUCCION	name	item	Crafting cape
+Crafting cape	Capa de artesano	name	item	Crafting cape
 Crafting cape(t)	Capa de artesano(t)	name	item	Crafting cape(t)
 Crafting hood	Capucha artesanal	name	item	Crafting hood
-Fletching cape	Capa de plumas	name	item	Fletching cape
-Fletching cape(t)	Capa de emplumado(t)	name	item	Fletching cape(t)
+Fletching cape	Capa de fletching	name	item	Fletching cape
+Fletching cape(t)	Capa de fletching(t)	name	item	Fletching cape(t)
 Fletching hood	Campana de punzonado	name	item	Fletching hood
-Slayer cape	SIN TRADUCCION	name	item	Slayer cape
-Slayer cape(t)	Capa de cazadora(t)	name	item	Slayer cape(t)
+Slayer cape	Capa de asesino	name	item	Slayer cape
+Slayer cape(t)	Capa de asesino(t)	name	item	Slayer cape(t)
 Slayer hood	Capucha de cazadora	name	item	Slayer hood
-Construct. cape	Construir. capa	name	item	Construct. cape
-Construct. cape(t)	Construir. cabo(t)	name	item	Construct. cape(t)
+Construct. cape	Capa de construtor	name	item	Construct. cape
+Construct. cape(t)	Capa de construtor(t)	name	item	Construct. cape(t)
 Construct. hood	Construir. capucha	name	item	Construct. hood
-Mining cape	SIN TRADUCCION	name	item	Mining cape
-Mining cape(t)	Cabo minero(t)	name	item	Mining cape(t)
+Mining cape	Capa de minero	name	item	Mining cape
+Mining cape(t)	Capa de minero(t)	name	item	Mining cape(t)
 Mining hood	Campana minera	name	item	Mining hood
 Smithing cape	Capa de herrero	name	item	Smithing cape
 Smithing cape(t)	Capa de herrero(t)	name	item	Smithing cape(t)
 Smithing hood	Capucha de herrero	name	item	Smithing hood
-Fishing cape	SIN TRADUCCION	name	item	Fishing cape
-Fishing cape(t)	Cabo de pesca(t)	name	item	Fishing cape(t)
+Fishing cape	Capa de pescador	name	item	Fishing cape
+Fishing cape(t)	Capa de pescador(t)	name	item	Fishing cape(t)
 Fishing hood	Capucha de pesca	name	item	Fishing hood
-Cooking cape	Capa de cocina	name	item	Cooking cape
-Cooking cape(t)	Capa de cocción(t)	name	item	Cooking cape(t)
+Cooking cape	Capa de cocinero	name	item	Cooking cape
+Cooking cape(t)	Capa de cocinero(t)	name	item	Cooking cape(t)
 Cooking hood	Campana extractora	name	item	Cooking hood
-Firemaking cape	SIN TRADUCCION	name	item	Firemaking cape
-Firemaking cape(t)	Capa ignífuga(t)	name	item	Firemaking cape(t)
+Firemaking cape	Capa de pirómano	name	item	Firemaking cape
+Firemaking cape(t)	Capa de pirómano(t)	name	item	Firemaking cape(t)
 Firemaking hood	Campana extractora	name	item	Firemaking hood
 Woodcutting cape	Capa de leñador	name	item	Woodcutting cape
-Woodcut. cape(t)	Grabado en madera. cabo(t)	name	item	Woodcut. cape(t)
+Woodcut. cape(t)	Capa de leñador(t)	name	item	Woodcut. cape(t)
 Woodcutting hood	Campana de corte de madera	name	item	Woodcutting hood
-Farming cape	SIN TRADUCCION	name	item	Farming cape
-Farming cape(t)	Cabo agrícola(t)	name	item	Farming cape(t)
+Farming cape	Capa de agricultor	name	item	Farming cape
+Farming cape(t)	Capa de agricultor(t)	name	item	Farming cape(t)
 Farming hood	Campana agrícola	name	item	Farming hood
-Quest point cape	Capa de puntos Quest	name	item	Quest point cape
+Quest point cape	Capa de misiones	name	item	Quest point cape
 Quest point hood	Capucha de punto Quest	name	item	Quest point hood
 Oak cape rack	Perchero de capa de roble	name	item	Oak cape rack
-Teak cape rack	SIN TRADUCCION	name	item	Teak cape rack
+Teak cape rack	Perchero de capa de teca	name	item	Teak cape rack
 Mahogany cape rack	Perchero de capa de caoba	name	item	Mahogany cape rack
 Gilded cape rack	Perchero de capa dorado	name	item	Gilded cape rack
 Marble cape rack	Perchero de capa de mármol	name	item	Marble cape rack
@@ -4757,7 +4757,7 @@ Spicy minced meat	Carne picada picante	name	item	Spicy minced meat
 Hunter potion(4)	Poción de cazador(4)	name	item	Hunter potion(4)
 Hunter potion(3)	Poción de cazador(3)	name	item	Hunter potion(3)
 Hunter potion(2)	Poción de cazador(2)	name	item	Hunter potion(2)
-Hunter potion(1)	SIN TRADUCCION	name	item	Hunter potion(1)
+Hunter potion(1)	Poción de cazador(1)	name	item	Hunter potion(1)
 Bird snare	Lazo para pájaros	name	item	Bird snare
 Box trap	Caja trampa	name	item	Box trap
 Butterfly net	Red de mariposas	name	item	Butterfly net
@@ -5300,7 +5300,7 @@ My notes	Mis notas	name	item	My notes
 Barbarian skills	Habilidades del bárbaro	name	item	Barbarian skills
 Ancient page	Página antigua	name	item	Ancient page
 Bronze hasta	Bronce hasta	name	item	Bronze hasta
-Iron hasta	Iron hasta	name	item	Iron hasta
+Iron hasta	Hasta de hierro	name	item	Iron hasta
 Steel hasta	Acero hasta	name	item	Steel hasta
 Mithril hasta	Mithril hasta	name	item	Mithril hasta
 Adamant hasta	Adamant hasta	name	item	Adamant hasta
@@ -5309,10 +5309,10 @@ Bronze hasta(p)	Bronce hasta(p)	name	item	Bronze hasta(p)
 Bronze hasta(kp)	Bronce hasta(kp)	name	item	Bronze hasta(kp)
 Bronze hasta(p+)	Bronce hasta(p+)	name	item	Bronze hasta(p+)
 Bronze hasta(p++)	Bronce hasta(p++)	name	item	Bronze hasta(p++)
-Iron hasta(p)	Iron hasta(p)	name	item	Iron hasta(p)
-Iron hasta(kp)	Iron hasta(kp)	name	item	Iron hasta(kp)
-Iron hasta(p+)	Iron hasta(p+)	name	item	Iron hasta(p+)
-Iron hasta(p++)	Iron hasta(p++)	name	item	Iron hasta(p++)
+Iron hasta(p)	Hasta de hierro(p)	name	item	Iron hasta(p)
+Iron hasta(kp)	Hasta de hierro(kp)	name	item	Iron hasta(kp)
+Iron hasta(p+)	Hasta de hierro(p+)	name	item	Iron hasta(p+)
+Iron hasta(p++)	Hasta de hierro(p++)	name	item	Iron hasta(p++)
 Steel hasta(p)	Acero hasta(p)	name	item	Steel hasta(p)
 Steel hasta(kp)	Acero hasta(kp)	name	item	Steel hasta(kp)
 Steel hasta(p+)	Acero hasta(p+)	name	item	Steel hasta(p+)
@@ -5436,12 +5436,12 @@ Absorption (1)	Absorción (1)	name	item	Absorption (1)
 Herb box	Caja de hierbas	name	item	Herb box
 Open herb box	Caja de hierbas abierta	name	item	Open herb box
 Scroll of redirection	Pergamino de redirección	name	item	Scroll of redirection
-Rimmington teleport	Teletransporte Rimmington	name	item	Rimmington teleport
-Taverley teleport	Telepuerto de Taverley	name	item	Taverley teleport
-Pollnivneach teleport	Teletransporte Pollnivneach	name	item	Pollnivneach teleport
-Rellekka teleport	Teletransporte Rellekka	name	item	Rellekka teleport
+Rimmington teleport	Teletransporte a Rimmington	name	item	Rimmington teleport
+Taverley teleport	Teletransporte a Taverley	name	item	Taverley teleport
+Pollnivneach teleport	Teletransporte a Pollnivneach	name	item	Pollnivneach teleport
+Rellekka teleport	Teletransporte a Rellekka	name	item	Rellekka teleport
 Brimhaven teleport	Teletransporte a Brimhaven	name	item	Brimhaven teleport
-Yanille teleport	Teletransporte Yanille	name	item	Yanille teleport
+Yanille teleport	Teletransporte a Yanille	name	item	Yanille teleport
 Trollheim teleport	Teletransporte a Trollheim	name	item	Trollheim teleport
 New crystal bow (i)	Nuevo arco de cristal (i)	name	item	New crystal bow (i)
 Crystal bow full (i)	Arco de cristal lleno (i)	name	item	Crystal bow full (i)
@@ -5618,26 +5618,26 @@ Ancient cloak	Capa antigua	name	item	Ancient cloak
 Ancient crozier	Antiguo báculo	name	item	Ancient crozier
 Ancient stole	Estola antigua	name	item	Ancient stole
 Ancient mitre	Mitra antigua	name	item	Ancient mitre
-Bronze platebody (g)	Cuerpo de bronce (g)	name	item	Bronze platebody (g)
-Bronze platelegs (g)	Patas de bronce (g)	name	item	Bronze platelegs (g)
-Bronze plateskirt (g)	Falda de placas de bronce (g)	name	item	Bronze plateskirt (g)
-Bronze full helm (g)	Bronce timón completo (g)	name	item	Bronze full helm (g)
+Bronze platebody (g)	Pecho de bronce (g)	name	item	Bronze platebody (g)
+Bronze platelegs (g)	Pantalón de bronce (g)	name	item	Bronze platelegs (g)
+Bronze plateskirt (g)	Falda de bronce (g)	name	item	Bronze plateskirt (g)
+Bronze full helm (g)	Casco completo de bronce (g)	name	item	Bronze full helm (g)
 Bronze kiteshield (g)	Escudo de bronce (g)	name	item	Bronze kiteshield (g)
-Bronze platebody (t)	Cuerpo de bronce (t)	name	item	Bronze platebody (t)
-Bronze platelegs (t)	Patas de bronce (t)	name	item	Bronze platelegs (t)
-Bronze plateskirt (t)	Falda de placas de bronce (t)	name	item	Bronze plateskirt (t)
-Bronze full helm (t)	Timón completo de bronce (t)	name	item	Bronze full helm (t)
+Bronze platebody (t)	Pecho de bronce (t)	name	item	Bronze platebody (t)
+Bronze platelegs (t)	Pantalón de bronce (t)	name	item	Bronze platelegs (t)
+Bronze plateskirt (t)	Falta de bronce (t)	name	item	Bronze plateskirt (t)
+Bronze full helm (t)	Casco completo de bronce (t)	name	item	Bronze full helm (t)
 Bronze kiteshield (t)	Escudo de bronce (t)	name	item	Bronze kiteshield (t)
-Iron platebody (t)	Plancha de hierro (t)	name	item	Iron platebody (t)
-Iron platelegs (t)	Patas de hierro (t)	name	item	Iron platelegs (t)
-Iron plateskirt (t)	Faldón de hierro (t)	name	item	Iron plateskirt (t)
-Iron full helm (t)	Timón completo de hierro (t)	name	item	Iron full helm (t)
+Iron platebody (t)	Pecho de hierro(t)	name	item	Iron platebody (t)
+Iron platelegs (t)	Pantalón de hierro(t)	name	item	Iron platelegs (t)
+Iron plateskirt (t)	Falda de hierro(t)	name	item	Iron plateskirt (t)
+Iron full helm (t)	Escudo completo de hierro(t)	name	item	Iron full helm (t)
 Iron kiteshield (t)	Escudo de hierro (t)	name	item	Iron kiteshield (t)
-Iron platebody (g)	Cuerpo de hierro (g)	name	item	Iron platebody (g)
-Iron platelegs (g)	Plaquetas de hierro (g)	name	item	Iron platelegs (g)
-Iron plateskirt (g)	Faldón de hierro (g)	name	item	Iron plateskirt (g)
+Iron platebody (g)	Pecho de hierro(t)	name	item	Iron platebody (g)
+Iron platelegs (g)	Pantalón de hierro(g)	name	item	Iron platelegs (g)
+Iron plateskirt (g)	Falda de hierro(g)	name	item	Iron plateskirt (g)
 Iron full helm (g)	Casco completo de hierro (g)	name	item	Iron full helm (g)
-Iron kiteshield (g)	Escudo de cometa de hierro (g)	name	item	Iron kiteshield (g)
+Iron kiteshield (g)	Escudo de hierro(g)	name	item	Iron kiteshield (g)
 Beanie	Gorro	name	item	Beanie
 Red beret	Boina roja	name	item	Red beret
 Imp mask	Máscara de diablillo	name	item	Imp mask
@@ -5716,16 +5716,16 @@ Royal gown top	Top de bata real	name	item	Royal gown top
 Royal gown bottom	Fondo de bata real	name	item	Royal gown bottom
 Royal crown	Corona real	name	item	Royal crown
 Partyhat & specs	Partyhat y especificaciones	name	item	Partyhat & specs
-Nardah teleport	Teletransporte Nardah	name	item	Nardah teleport
-Digsite teleport	Teletransporte Digsite	name	item	Digsite teleport
+Nardah teleport	Teletransporte a Nardah	name	item	Nardah teleport
+Digsite teleport	Teletransporte a Digsite	name	item	Digsite teleport
 Feldip hills teleport	Teletransporte a las colinas de Feldip	name	item	Feldip hills teleport
 Lunar isle teleport	Teletransporte a la isla lunar	name	item	Lunar isle teleport
-Mort'ton teleport	Teletransporte Mort'ton	name	item	Mort'ton teleport
-Pest control teleport	Teletransporte de control de plagas	name	item	Pest control teleport
-Piscatoris teleport	Teletransporte Piscatoris	name	item	Piscatoris teleport
-Tai bwo wannai teleport	Tai bwo wannai teleport	name	item	Tai bwo wannai teleport
-Iorwerth camp teleport	Teletransporte del campamento de Iorwerth	name	item	Iorwerth camp teleport
-Mos le'harmless teleport	Mos le'harmless teleport	name	item	Mos le'harmless teleport
+Mort'ton teleport	Teletransporte a Mort'ton	name	item	Mort'ton teleport
+Pest control teleport	Teletransporte a control de plagas	name	item	Pest control teleport
+Piscatoris teleport	Teletransporte a Piscatoris	name	item	Piscatoris teleport
+Tai bwo wannai teleport	Teletransporte a Tai bwo wannai	name	item	Tai bwo wannai teleport
+Iorwerth camp teleport	Teletransporte a campamento de Iorwerth	name	item	Iorwerth camp teleport
+Mos le'harmless teleport	Teletransporte a Mos le'harmless	name	item	Mos le'harmless teleport
 Pirate hat & patch	Sombrero y parche pirata	name	item	Pirate hat & patch
 Dragon chainbody (g)	Dragon chainbody (g)	name	item	Dragon chainbody (g)
 Dragon platelegs (g)	Patas de dragón (g)	name	item	Dragon platelegs (g)
@@ -5830,7 +5830,7 @@ Zamorak halo	Halo de Zamorak	name	item	Zamorak halo
 Guthix halo	Halo de Guthix	name	item	Guthix halo
 Amylase crystal	Cristal de amilasa	name	item	Amylase crystal
 Amylase pack	Envase de amilasa	name	item	Amylase pack
-Lumberyard teleport	Telepuerto del aserradero	name	item	Lumberyard teleport
+Lumberyard teleport	Teletransporte al aserradero	name	item	Lumberyard teleport
 Pet dagannoth supreme	Mascota dagannoth suprema	name	item	Pet dagannoth supreme
 Pet dagannoth prime	Mascota dagannoth prime	name	item	Pet dagannoth prime
 Pet dagannoth rex	Mascota dagannoth rex	name	item	Pet dagannoth rex
@@ -5845,7 +5845,7 @@ Prince black dragon	Príncipe dragón negro	name	item	Prince black dragon
 Pet kraken	Agrietamiento de la tapa	name	item	Pet kraken
 Junk	Basura	name	item	Junk
 Iban's staff (u)	Bastón de Iban (u)	name	item	Iban's staff (u)
-Clan wars cape	Capa de guerra de clanes	name	item	Clan wars cape
+Clan wars cape	Capa de Clan Wars	name	item	Clan wars cape
 Tyrannical ring (i)	Anillo tiránico (i)	name	item	Tyrannical ring (i)
 Treasonous ring (i)	Anillo de traición (i)	name	item	Treasonous ring (i)
 Kree'arra	Kree'arra	name	item	Kree'arra
@@ -5905,14 +5905,14 @@ Frozen whip mix	Batido congelado	name	item	Frozen whip mix
 Volcanic whip mix	Mezcla de látigo volcánico	name	item	Volcanic whip mix
 Volcanic abyssal whip	Látigo abisal volcánico	name	item	Volcanic abyssal whip
 Frozen abyssal whip	Látigo abisal helado	name	item	Frozen abyssal whip
-Annakarl teleport	Teletransporte Annakarl	name	item	Annakarl teleport
-Carrallanger teleport	Teletransporte de Carrallanger	name	item	Carrallanger teleport
-Dareeyak teleport	Teletransporte Dareeyak	name	item	Dareeyak teleport
-Ghorrock teleport	Teletransporte Ghorrock	name	item	Ghorrock teleport
-Kharyrll teleport	Teletransporte Kharyrll	name	item	Kharyrll teleport
-Lassar teleport	Teletransporte Lassar	name	item	Lassar teleport
-Paddewwa teleport	Teletransporte Paddewwa	name	item	Paddewwa teleport
-Senntisten teleport	Teletransporte Senntisten	name	item	Senntisten teleport
+Annakarl teleport	Teletransporte a Annakarl	name	item	Annakarl teleport
+Carrallanger teleport	Teletransporte a Carrallanger	name	item	Carrallanger teleport
+Dareeyak teleport	Teletransporte a Dareeyak	name	item	Dareeyak teleport
+Ghorrock teleport	Teletransporte a Ghorrock	name	item	Ghorrock teleport
+Kharyrll teleport	Teletransporte a Kharyrll	name	item	Kharyrll teleport
+Lassar teleport	Teletransporte a Lassar	name	item	Lassar teleport
+Paddewwa teleport	Teletransporte a Paddewwa	name	item	Paddewwa teleport
+Senntisten teleport	Teletransporte a Senntisten	name	item	Senntisten teleport
 Ring of wealth scroll	Pergamino del anillo de riqueza	name	item	Ring of wealth scroll
 Ring of wealth (i)	Anillo de riqueza (i)	name	item	Ring of wealth (i)
 Magic shortbow scroll	Pergamino mágico de arco corto	name	item	Magic shortbow scroll
@@ -5929,11 +5929,11 @@ Saradomin's tear	Lágrima de Saradomin	name	item	Saradomin's tear
 Sara's blessed sword (full)	Espada bendita de Sara (completa)	name	item	Sara's blessed sword (full)
 Saradomin's blessed sword	Espada bendita de Saradomin	name	item	Saradomin's blessed sword
 Ironman helm	Casco Ironman	name	item	Ironman helm
-Ironman platebody	Plancha Ironman	name	item	Ironman platebody
-Ironman platelegs	Piernas de hierro	name	item	Ironman platelegs
+Ironman platebody	Pecho Ironman	name	item	Ironman platebody
+Ironman platelegs	Pantalon Ironman	name	item	Ironman platelegs
 Ultimate ironman helm	Casco Ironman definitivo	name	item	Ultimate ironman helm
-Ultimate ironman platebody	El mejor cuerpo de Ironman	name	item	Ultimate ironman platebody
-Ultimate ironman platelegs	Ultimate ironman platelegs	name	item	Ultimate ironman platelegs
+Ultimate ironman platebody	Pecho Ironman definitivo	name	item	Ultimate ironman platebody
+Ultimate ironman platelegs	Pantalón Ironman definitivo	name	item	Ultimate ironman platelegs
 Pet dark core	Mascota núcleo oscuro	name	item	Pet dark core
 Elysian spirit shield	Escudo del espíritu elíseo	name	item	Elysian spirit shield
 Elysian sigil	Sello elíseo	name	item	Elysian sigil
@@ -5964,7 +5964,7 @@ Rogue's revenge	La venganza del granuja	name	item	Rogue's revenge
 Olive oil pack	Envase de aceite de oliva	name	item	Olive oil pack
 Eye of newt pack	Pack Ojo de tritón	name	item	Eye of newt pack
 Thanksgiving dinner	Cena de Acción de Gracias	name	item	Thanksgiving dinner
-Dwarf cannon set	Juego de cañones enanos	name	item	Dwarf cannon set
+Dwarf cannon set	Juego de cañones de enano	name	item	Dwarf cannon set
 Green dragonhide set	Juego de piel de dragón verde	name	item	Green dragonhide set
 Blue dragonhide set	Juego de cuero de dragón azul	name	item	Blue dragonhide set
 Red dragonhide set	Juego de cuero de dragón rojo	name	item	Red dragonhide set
@@ -6011,25 +6011,25 @@ Magic fang	Colmillo mágico	name	item	Magic fang
 Zulrah's scales	Escamas de Zulrah	name	item	Zulrah's scales
 Ohn's diary	Diario de Ohn	name	item	Ohn's diary
 Jar of swamp	Jarra de pantano	name	item	Jar of swamp
-Zul-andra teleport	Teletransporte Zul-andra	name	item	Zul-andra teleport
+Zul-andra teleport	Teletransporte a Zul-andra	name	item	Zul-andra teleport
 Dragon defender	Defensor del dragón	name	item	Dragon defender
 Free to play starter pack	Paquete de inicio gratuito	name	item	Free to play starter pack
 Cow top	Tapa de vaca	name	item	Cow top
 Cow trousers	Pantalones de vaca	name	item	Cow trousers
 Cow gloves	Guantes de vaca	name	item	Cow gloves
 Cow shoes	Zapatos de vaca	name	item	Cow shoes
-Bronze set (lg)	Juego de bronce (lg)	name	item	Bronze set (lg)
-Bronze set (sk)	Juego de bronce (sk)	name	item	Bronze set (sk)
-Bronze trimmed set (lg)	Juego con adornos de bronce (lg)	name	item	Bronze trimmed set (lg)
-Bronze trimmed set (sk)	Juego con adornos de bronce (sk)	name	item	Bronze trimmed set (sk)
-Bronze gold-trimmed set (lg)	Conjunto dorado bronce (lg)	name	item	Bronze gold-trimmed set (lg)
-Bronze gold-trimmed set (sk)	Conjunto dorado bronce (sk)	name	item	Bronze gold-trimmed set (sk)
-Iron set (lg)	Juego de planchas (lg)	name	item	Iron set (lg)
-Iron set (sk)	Juego de planchas (sk)	name	item	Iron set (sk)
-Iron trimmed set (lg)	Set de hierro recortado (lg)	name	item	Iron trimmed set (lg)
-Iron trimmed set (sk)	Conjunto de hierro recortado (sk)	name	item	Iron trimmed set (sk)
-Iron gold-trimmed set (lg)	Conjunto hierro dorado (lg)	name	item	Iron gold-trimmed set (lg)
-Iron gold-trimmed set (sk)	Conjunto de hierro dorado (sk)	name	item	Iron gold-trimmed set (sk)
+Bronze set (lg)	Set de bronce (lg)	name	item	Bronze set (lg)
+Bronze set (sk)	Set de bronce (sk)	name	item	Bronze set (sk)
+Bronze trimmed set (lg)	Set con adornos de bronce (lg)	name	item	Bronze trimmed set (lg)
+Bronze trimmed set (sk)	Set con adornos de bronce (sk)	name	item	Bronze trimmed set (sk)
+Bronze gold-trimmed set (lg)	Set doradeado de bronce (lg)	name	item	Bronze gold-trimmed set (lg)
+Bronze gold-trimmed set (sk)	Set doradeado de bronce (sk)	name	item	Bronze gold-trimmed set (sk)
+Iron set (lg)	Set de Hierro(lg)	name	item	Iron set (lg)
+Iron set (sk)	Set de hierro(sk)	name	item	Iron set (sk)
+Iron trimmed set (lg)	Set de hierro con adornos(lg)	name	item	Iron trimmed set (lg)
+Iron trimmed set (sk)	Set de hierro con adornos(sk)	name	item	Iron trimmed set (sk)
+Iron gold-trimmed set (lg)	Set doradeado de hierro (lg)	name	item	Iron gold-trimmed set (lg)
+Iron gold-trimmed set (sk)	Set doradeado de hierro (sk)	name	item	Iron gold-trimmed set (sk)
 Steel set (lg)	Juego de acero (lg)	name	item	Steel set (lg)
 Steel set (sk)	Juego de acero (sk)	name	item	Steel set (sk)
 Black set (lg)	Conjunto negro (lg)	name	item	Black set (lg)
@@ -6072,8 +6072,8 @@ Ancient rune armour set (lg)	Conjunto de armadura rúnica antigua (lg)	name	item
 Ancient rune armour set (sk)	Conjunto de armadura rúnica antigua (sk)	name	item	Ancient rune armour set (sk)
 Combat potion set	Set de pociones de combate	name	item	Combat potion set
 Super potion set	Juego de superpociones	name	item	Super potion set
-Quest point cape (t)	Punto de búsqueda cabo (t)	name	item	Quest point cape (t)
-Achievement diary cape (t)	Capa de diario de logros (t)	name	item	Achievement diary cape (t)
+Quest point cape (t)	Capa de misiones(t)	name	item	Quest point cape (t)
+Achievement diary cape (t)	Capa de diario de logros(t)	name	item	Achievement diary cape (t)
 Achievement diary hood	Diario de logros capó	name	item	Achievement diary hood
 Chompy chick	Chompy chick	name	item	Chompy chick
 Elite void top	Elite void top	name	item	Elite void top
@@ -6206,7 +6206,7 @@ Infernal pickaxe (uncharged)	Piqueta infernal (sin carga)	name	item	Infernal pic
 Jar of souls	Tarro de almas	name	item	Jar of souls
 Hellpuppy	Hellpuppy	name	item	Hellpuppy
 Key master's key	Llave maestra	name	item	Key master's key
-Key master teleport	Llave maestra teletransporte	name	item	Key master teleport
+Key master teleport	Teletransporte a Key Master	name	item	Key master teleport
 Plant pot pack	Paquete de macetas	name	item	Plant pot pack
 Sack pack	Paquete de sacos	name	item	Sack pack
 Basket pack	Cesta de la compra	name	item	Basket pack
@@ -6227,7 +6227,7 @@ Bludgeon claw	Garra bludgeon	name	item	Bludgeon claw
 Bludgeon axon	Axón Bludgeon	name	item	Bludgeon axon
 Jar of miasma	Tarro de miasma	name	item	Jar of miasma
 Overseer's book	Libro del supervisor	name	item	Overseer's book
-Max cape	Capa Max	name	item	Max cape
+Max cape	Capa de maxeo	name	item	Max cape
 Max hood	Capota máxima	name	item	Max hood
 Gravedigger mask	Máscara de sepulturero	name	item	Gravedigger mask
 Gravedigger top	Sepulturero superior	name	item	Gravedigger top
@@ -6239,22 +6239,22 @@ Bank key	Clave bancaria	name	item	Bank key
 Blood money	Dinero manchado de sangre	name	item	Blood money
 Deadman's chest	El pecho del hombre muerto	name	item	Deadman's chest
 Deadman's legs	Piernas de hombre muerto	name	item	Deadman's legs
-Deadman's cape	Capa de hombre muerto	name	item	Deadman's cape
+Deadman's cape	Capa de Deadman's	name	item	Deadman's cape
 Heron	Heron	name	item	Heron
 Rock golem	Golem de roca	name	item	Rock golem
 Beaver	Castor	name	item	Beaver
 Baby chinchompa	Bebé chinchompa	name	item	Baby chinchompa
 Rotten onion	Cebolla podrida	name	item	Rotten onion
 Green banner	Pancarta verde	name	item	Green banner
-Fire max cape	Capa Fire max	name	item	Fire max cape
+Fire max cape	Capa de maxeo de fuego	name	item	Fire max cape
 Fire max hood	Campana máxima contra incendios	name	item	Fire max hood
-Saradomin max cape	Saradomin max capa	name	item	Saradomin max cape
+Saradomin max cape	Capa de maxeo de Saradomin	name	item	Saradomin max cape
 Saradomin max hood	Saradomin max capucha	name	item	Saradomin max hood
-Zamorak max cape	Capa Zamorak max	name	item	Zamorak max cape
+Zamorak max cape	Capa de maxeo de Zamorak	name	item	Zamorak max cape
 Zamorak max hood	Capucha máxima Zamorak	name	item	Zamorak max hood
-Guthix max cape	Capa Guthix max	name	item	Guthix max cape
+Guthix max cape	Capa de maxeo de Guthix	name	item	Guthix max cape
 Guthix max hood	Guthix max capucha	name	item	Guthix max hood
-Accumulator max cape	Capa máxima del acumulador	name	item	Accumulator max cape
+Accumulator max cape	Capa de maxeo de Acumulador	name	item	Accumulator max cape
 Accumulator max hood	Acumulador max capó	name	item	Accumulator max hood
 Sacred eel	Anguila sagrada	name	item	Sacred eel
 Black santa hat	Gorro de Papá Noel negro	name	item	Black santa hat
@@ -6443,7 +6443,7 @@ Chronicle	Crónica	name	item	Chronicle
 Bunny top	Top conejito	name	item	Bunny top
 Bunny legs	Patas de conejo	name	item	Bunny legs
 Bunny paws	Patas de conejo	name	item	Bunny paws
-Deadman teleport tablet	Pastilla de teletransporte Deadman	name	item	Deadman teleport tablet
+Deadman teleport tablet	Tableta de teletransporte a Deadman	name	item	Deadman teleport tablet
 Cabbage cape	Capa de col	name	item	Cabbage cape
 Cabbage rune	Runa de la col	name	item	Cabbage rune
 Cruciferous codex	Códice crucífero	name	item	Cruciferous codex
@@ -6500,16 +6500,16 @@ Ballista spring	Muelle de ballesta	name	item	Ballista spring
 Unstrung light ballista	Balista ligera sin cordaje	name	item	Unstrung light ballista
 Unstrung heavy ballista	Balista pesada sin cuerda	name	item	Unstrung heavy ballista
 Monkey tail	Cola de mono	name	item	Monkey tail
-Arceuus library teleport	Teletransporte de biblioteca Arceuus	name	item	Arceuus library teleport
+Arceuus library teleport	Teletransporte a biblioteca Arceuus	name	item	Arceuus library teleport
 Draynor manor teleport	Teletransporte a la mansión Draynor	name	item	Draynor manor teleport
-Mind altar teleport	Teletransporte de altar mental	name	item	Mind altar teleport
-Salve graveyard teleport	Teletransporte al cementerio Salve	name	item	Salve graveyard teleport
-Fenkenstrain's castle teleport	Teletransporte al castillo de Fenkenstrain	name	item	Fenkenstrain's castle teleport
-West ardougne teleport	Telepuerto de Ardougne Oeste	name	item	West ardougne teleport
-Harmony island teleport	Telepuerto de la isla Harmony	name	item	Harmony island teleport
-Cemetery teleport	Teletransporte al cementerio	name	item	Cemetery teleport
+Mind altar teleport	Teletransporte a Mind Altar	name	item	Mind altar teleport
+Salve graveyard teleport	Teletransporte a cementerio Salve	name	item	Salve graveyard teleport
+Fenkenstrain's castle teleport	Teletransporte a castillo de Fenkenstrain	name	item	Fenkenstrain's castle teleport
+West ardougne teleport	Teletransporte a Ardougne Oeste	name	item	West ardougne teleport
+Harmony island teleport	Teletransporte a isla Harmony	name	item	Harmony island teleport
+Cemetery teleport	Teletransporte a cementerio	name	item	Cemetery teleport
 Barrows teleport	Teletransporte Barrows	name	item	Barrows teleport
-Ape atoll teleport	Teletransporte al atolón de los simios	name	item	Ape atoll teleport
+Ape atoll teleport	Teletransporte a Ape Atoll	name	item	Ape atoll teleport
 Soul bearer	Portador del alma	name	item	Soul bearer
 Damaged soul bearer	Portador de almas dañado	name	item	Damaged soul bearer
 Soul journey	Viaje del alma	name	item	Soul journey
@@ -6519,7 +6519,7 @@ Green slayer helmet	Casco de cazavampiros verde	name	item	Green slayer helmet
 Green slayer helmet (i)	Casco de cazavampiros verde (i)	name	item	Green slayer helmet (i)
 Red slayer helmet	Casco de cazadora rojo	name	item	Red slayer helmet
 Red slayer helmet (i)	Casco de cazadora rojo (i)	name	item	Red slayer helmet (i)
-Hosidius teleport	Teletransporte Hosidius	name	item	Hosidius teleport
+Hosidius teleport	Teletransporte a Hosidius	name	item	Hosidius teleport
 Golovanova fruit top	Top de frutas de Golovan	name	item	Golovanova fruit top
 Uncooked botanical pie	Pastel botánico crudo	name	item	Uncooked botanical pie
 Half a botanical pie	Media tarta botánica	name	item	Half a botanical pie
@@ -6661,9 +6661,9 @@ Monk's robe top (g)	Túnica de monje (g)	name	item	Monk's robe top (g)
 Monk's robe (g)	Túnica de monje (g)	name	item	Monk's robe (g)
 Golden chef's hat	Gorro de cocinero dorado	name	item	Golden chef's hat
 Golden apron	Delantal dorado	name	item	Golden apron
-Team cape zero	Equipo cabo cero	name	item	Team cape zero
-Team cape x	Equipo capa x	name	item	Team cape x
-Team cape i	Equipo cabo i	name	item	Team cape i
+Team cape zero	Capa de equipo cero	name	item	Team cape zero
+Team cape x	Capa de equipo x	name	item	Team cape x
+Team cape i	Capa de equipo i	name	item	Team cape i
 Holy blessing	Santa bendición	name	item	Holy blessing
 Unholy blessing	Bendición impía	name	item	Unholy blessing
 Peaceful blessing	Bendición pacífica	name	item	Peaceful blessing
@@ -6839,7 +6839,7 @@ Zamorak's grapes	Uvas de Zamorak	name	item	Zamorak's grapes
 Zamorak's unfermented wine	El vino sin fermentar de Zamorak	name	item	Zamorak's unfermented wine
 Giant key	Llave gigante	name	item	Giant key
 Hill giant club	Club de gigantes	name	item	Hill giant club
-Ardougne max cape	Ardougne max capa	name	item	Ardougne max cape
+Ardougne max cape	Capa de maxeo de Ardounge	name	item	Ardougne max cape
 Ardougne max hood	Ardougne max capucha	name	item	Ardougne max hood
 Manor key	Llave solariega	name	item	Manor key
 Ruby key	Llave Rubí	name	item	Ruby key
@@ -6857,9 +6857,9 @@ Ring of wealth (i3)	Anillo de riqueza (i3)	name	item	Ring of wealth (i3)
 Ring of wealth (i2)	Anillo de riqueza (i2)	name	item	Ring of wealth (i2)
 Ring of wealth (i1)	Anillo de riqueza (i1)	name	item	Ring of wealth (i1)
 Extra supply crate	Caja de suministros extra	name	item	Extra supply crate
-Hardcore ironman helm	Hardcore ironman helm	name	item	Hardcore ironman helm
-Hardcore ironman platebody	Hardcore ironman platebody	name	item	Hardcore ironman platebody
-Hardcore ironman platelegs	Hardcore ironman platelegs	name	item	Hardcore ironman platelegs
+Hardcore ironman helm	Casco de Ironman Hardcore	name	item	Hardcore ironman helm
+Hardcore ironman platebody	Pecho de Ironman Hardcore	name	item	Hardcore ironman platebody
+Hardcore ironman platelegs	Pantalón de Ironman Hardcore	name	item	Hardcore ironman platelegs
 Smelly journal	Diario maloliente	name	item	Smelly journal
 Empty gourd vial	Vial de calabaza vacío	name	item	Empty gourd vial
 Water-filled gourd vial	Vial de calabaza lleno de agua	name	item	Water-filled gourd vial
@@ -6955,8 +6955,8 @@ Kodai (-)(3)	Códigos (-)(3)	name	item	Kodai (-)(3)
 Kodai (-)(4)	Códigos (-)(4)	name	item	Kodai (-)(4)
 Kodai potion (1)	Poción de Kodai (1)	name	item	Kodai potion (1)
 Kodai potion (2)	Poción de Kodai (2)	name	item	Kodai potion (2)
-Kodai potion (3)	Poción Kodai (3)	name	item	Kodai potion (3)
-Kodai potion (4)	Poción Kodai (4)	name	item	Kodai potion (4)
+Kodai potion (3)	Poción de Kodai (3)	name	item	Kodai potion (3)
+Kodai potion (4)	Poción de Kodai (4)	name	item	Kodai potion (4)
 Kodai (+)(1)	Códigos (+)(1)	name	item	Kodai (+)(1)
 Kodai (+)(2)	Códigos (+)(2)	name	item	Kodai (+)(2)
 Kodai (+)(3)	Códigos (+)(3)	name	item	Kodai (+)(3)
@@ -7126,9 +7126,9 @@ Skull sceptre (i)	Cetro de calavera (i)	name	item	Skull sceptre (i)
 Tzhaar-hur	Tzhaar-hur	name	item	Tzhaar-hur
 Obsidian armour set	Conjunto de armadura de obsidiana	name	item	Obsidian armour set
 Infernal max hood	Capucha máxima infernal	name	item	Infernal max hood
-Infernal max cape	Capa Infernal Max	name	item	Infernal max cape
+Infernal max cape	Capa infernal de maxeo	name	item	Infernal max cape
 Infernal cape (broken)	Capa infernal (rota)	name	item	Infernal cape (broken)
-Infernal max cape (broken)	Capa máxima infernal (rota)	name	item	Infernal max cape (broken)
+Infernal max cape (broken)	Capa infernal de maxeo (rota)	name	item	Infernal max cape (broken)
 Jal-nib-rek	Jal-nib-rek	name	item	Jal-nib-rek
 Infernal eel	Anguila infernal	name	item	Infernal eel
 Infernal cape	Capa infernal	name	item	Infernal cape
@@ -7168,7 +7168,7 @@ Master scroll book	Libro maestro de pergaminos	name	item	Master scroll book
 Brutal black dragon	Brutal dragón negro	name	item	Brutal black dragon
 Expert mining gloves	Guantes expertos en minería	name	item	Expert mining gloves
 Karambwanji	Karambwanji	name	item	Karambwanji
-Wilderness cape	Cabo salvaje	name	item	Wilderness cape
+Wilderness cape	Capa de wilderness	name	item	Wilderness cape
 Wilderness champion amulet	Amuleto de campeón salvaje	name	item	Wilderness champion amulet
 Champion's cape	Capa de campeón	name	item	Champion's cape
 Teak seedling	Plantón de teca	name	item	Teak seedling
@@ -7306,21 +7306,21 @@ History and hearsay	Historia y rumores	name	item	History and hearsay
 Jewellery of jubilation	Joyas de júbilo	name	item	Jewellery of jubilation
 A dark disposition	Una disposición oscura	name	item	A dark disposition
 Secret page	Página secreta	name	item	Secret page
-Imbued saradomin max cape	Imbuido saradomin max capa	name	item	Imbued saradomin max cape
+Imbued saradomin max cape	Capa máxima de Saradomin Imbuida	name	item	Imbued saradomin max cape
 Imbued saradomin max hood	Imbuido saradomin max capucha	name	item	Imbued saradomin max hood
-Imbued zamorak max cape	Imbuido zamorak max capa	name	item	Imbued zamorak max cape
+Imbued zamorak max cape	Capa máxima de Zamorak Imbuida	name	item	Imbued zamorak max cape
 Imbued zamorak max hood	Imbuido zamorak max capucha	name	item	Imbued zamorak max hood
-Imbued guthix max cape	Imbuido guthix max capa	name	item	Imbued guthix max cape
+Imbued guthix max cape	Capa máxima de Guthix Imbuida	name	item	Imbued guthix max cape
 Imbued guthix max hood	Imbuido guthix max capucha	name	item	Imbued guthix max hood
 Obelisk	Obelisco	name	item	Obelisk
-Imbued saradomin cape	Capa de saradomin imbuido	name	item	Imbued saradomin cape
-Imbued guthix cape	Capa de guthix imbuido	name	item	Imbued guthix cape
-Imbued zamorak cape	Capa de zamorak imbuido	name	item	Imbued zamorak cape
+Imbued saradomin cape	Capa de Saradomin Imbuida	name	item	Imbued saradomin cape
+Imbued guthix cape	Capa de Guthix Imbuida	name	item	Imbued guthix cape
+Imbued zamorak cape	Capa de zamorak imbuida	name	item	Imbued zamorak cape
 Justiciar's hand	Mano de Justiciar	name	item	Justiciar's hand
 Ent's roots	Las raíces de Ent	name	item	Ent's roots
 Demon's heart	Corazón de demonio	name	item	Demon's heart
 Enchanted symbol	Símbolo encantado	name	item	Enchanted symbol
-Revenant cave teleport	Teletransporte a la cueva del Revenant	name	item	Revenant cave teleport
+Revenant cave teleport	Teletransporte a la cueva Revenant	name	item	Revenant cave teleport
 Ancient crystal	Cristal antiguo	name	item	Ancient crystal
 Ancient emblem	Antiguo emblema	name	item	Ancient emblem
 Ancient totem	Tótem antiguo	name	item	Ancient totem
@@ -7338,7 +7338,7 @@ Snow imp costume feet	Pies de disfraz de diablillo de las nieves	name	item	Snow 
 Wise old man's santa hat	Gorro de Papá Noel de viejo sabio	name	item	Wise old man's santa hat
 Enchanted curtains	Cortinas encantadas	name	item	Enchanted curtains
 Enchanted snowy curtains	Cortinas de nieve encantadas	name	item	Enchanted snowy curtains
-Wise old man's teleport tablet	Tablilla de teletransporte del viejo sabio	name	item	Wise old man's teleport tablet
+Wise old man's teleport tablet	Tableta de teletransporte a Wise Old Man's	name	item	Wise old man's teleport tablet
 Snow sprite	Sprite de nieve	name	item	Snow sprite
 Fine mesh net	Red de malla fina	name	item	Fine mesh net
 Santa suit	Traje de Papá Noel	name	item	Santa suit
@@ -7356,7 +7356,7 @@ Turquoise slayer helmet	Casco de cazadora turquesa	name	item	Turquoise slayer he
 Turquoise slayer helmet (i)	Casco de cazadora turquesa (i)	name	item	Turquoise slayer helmet (i)
 Dragon platebody	Cuerpo de dragón	name	item	Dragon platebody
 Dragon kiteshield	Escudo de dragón	name	item	Dragon kiteshield
-Assembler max cape	Montar la capa máxima	name	item	Assembler max cape
+Assembler max cape	Capa máxima de ensamblador	name	item	Assembler max cape
 Assembler max hood	Ensamblador max capucha	name	item	Assembler max hood
 Dragon crossbow	Ballesta de dragón	name	item	Dragon crossbow
 Dragon bolts	Cerrojos de dragón	name	item	Dragon bolts
@@ -7394,9 +7394,9 @@ Dragonstone dragon bolts	Cerrojos de dragón de Dragonstone	name	item	Dragonston
 Onyx dragon bolts	Cerrojos de dragón de ónice	name	item	Onyx dragon bolts
 Crushed superior dragon bones	Huesos de dragón superiores triturados	name	item	Crushed superior dragon bones
 Super antifire potion(4)	Super poción antifuego(4)	name	item	Super antifire potion(4)
-Super antifire potion(3)	Poción superantiincendios(3)	name	item	Super antifire potion(3)
+Super antifire potion(3)	Super poción antifuego(3)	name	item	Super antifire potion(3)
 Super antifire potion(2)	Súper poción antifuego(2)	name	item	Super antifire potion(2)
-Super antifire potion(1)	Poción superantiincendios(1)	name	item	Super antifire potion(1)
+Super antifire potion(1)	Super poción antifuego(1)	name	item	Super antifire potion(1)
 Vorki	Vorki	name	item	Vorki
 Super antifire mix(2)	Super mezcla antiincendios(2)	name	item	Super antifire mix(2)
 Super antifire mix(1)	Super mezcla antiincendios(1)	name	item	Super antifire mix(1)
@@ -7704,7 +7704,7 @@ Rada's blessing 1	La bendición de Rada 1	name	item	Rada's blessing 1
 Rada's blessing 2	La bendición de Rada 2	name	item	Rada's blessing 2
 Rada's blessing 3	La bendición de Rada 3	name	item	Rada's blessing 3
 Rada's blessing 4	La bendición de Rada 4	name	item	Rada's blessing 4
-Battlefront teleport	Teletransporte del frente de batalla	name	item	Battlefront teleport
+Battlefront teleport	Teletransporte a Battlefront	name	item	Battlefront teleport
 Boots of brimstone	Botas de azufre	name	item	Boots of brimstone
 Devout boots	Botas devotas	name	item	Devout boots
 Drake's claw	Garra de Drake	name	item	Drake's claw
@@ -7835,7 +7835,7 @@ Black platebody (h4)	Carrocería negra (h4)	name	item	Black platebody (h4)
 Black platebody (h5)	Carrocería negra (h5)	name	item	Black platebody (h5)
 Leather body (g)	Cuerpo de cuero (g)	name	item	Leather body (g)
 Leather chaps (g)	Polainas de cuero (g)	name	item	Leather chaps (g)
-Watson teleport	Teletransporte Watson	name	item	Watson teleport
+Watson teleport	Teletransporte a Watson	name	item	Watson teleport
 Spiked manacles	Esposas con pinchos	name	item	Spiked manacles
 Adamant platebody (h1)	Adamant platebody (h1)	name	item	Adamant platebody (h1)
 Adamant platebody (h2)	Adamant platebody (h2)	name	item	Adamant platebody (h2)
@@ -7908,7 +7908,7 @@ Smolcano	Smolcano	name	item	Smolcano
 Crystal harpoon	Arpón de cristal	name	item	Crystal harpoon
 Crystal harpoon (inactive)	Arpón de cristal (inactivo)	name	item	Crystal harpoon (inactive)
 Crystal impling jar	Tarro de cristal	name	item	Crystal impling jar
-Prifddinas teleport	Teletransporte Prifddinas	name	item	Prifddinas teleport
+Prifddinas teleport	Teletransporte a Prifddinas	name	item	Prifddinas teleport
 Scrawled notes	Notas garabateadas	name	item	Scrawled notes
 Black crystal	Cristal negro	name	item	Black crystal
 Ardougne knight helm	Casco de caballero de Ardougne	name	item	Ardougne knight helm
@@ -7958,7 +7958,7 @@ Corrupted bow (basic)	Arco corrompido (básico)	name	item	Corrupted bow (basic)
 Corrupted bow (attuned)	Arco corrompido (sintonizado)	name	item	Corrupted bow (attuned)
 Corrupted bow (perfected)	Arco corrompido (perfeccionado)	name	item	Corrupted bow (perfected)
 Corrupted teleport crystal	Cristal de teletransporte corrompido	name	item	Corrupted teleport crystal
-Gauntlet cape	Capa guantelete	name	item	Gauntlet cape
+Gauntlet cape	Capa de Gauntlet	name	item	Gauntlet cape
 Crystal sceptre	Cetro de cristal	name	item	Crystal sceptre
 Crystal shards	Fragmentos de cristal	name	item	Crystal shards
 Crystal spike	Espiga de cristal	name	item	Crystal spike
@@ -8060,10 +8060,10 @@ Combat path starter kit	Kit de iniciación a la ruta de combate	name	item	Combat
 Combat path voucher	Bono de ruta de combate	name	item	Combat path voucher
 Marble lectern	Atril de mármol	name	item	Marble lectern
 Infernal max cape (l)	Capa máxima infernal (l)	name	item	Infernal max cape (l)
-Fire max cape (l)	Capa Fire max (l)	name	item	Fire max cape (l)
-Assembler max cape (l)	Montar la capa máxima (l)	name	item	Assembler max cape (l)
+Fire max cape (l)	Capa máxima de fuego(l)	name	item	Fire max cape (l)
+Assembler max cape (l)	Capa máxima de ensamblador (l)	name	item	Assembler max cape (l)
 Bronze defender (l)	Defensor de bronce (l)	name	item	Bronze defender (l)
-Iron defender (l)	Defensor del hierro (l)	name	item	Iron defender (l)
+Iron defender (l)	Defensor de hierro (I)	name	item	Iron defender (l)
 Steel defender (l)	Defensor de acero (l)	name	item	Steel defender (l)
 Black defender (l)	Defensor negro (l)	name	item	Black defender (l)
 Mithril defender (l)	Defensor de mithril (l)	name	item	Mithril defender (l)
@@ -8109,8 +8109,8 @@ Ancient halo	Halo antiguo	name	item	Ancient halo
 Ancient halo (l)	Halo antiguo (l)	name	item	Ancient halo (l)
 Brassica halo	Halo de Brassica	name	item	Brassica halo
 Brassica halo (l)	Brassica halo (l)	name	item	Brassica halo (l)
-Victor's cape (1)	La capa de Victor (1)	name	item	Victor's cape (1)
-Victor's cape (10)	La capa de Victor (10)	name	item	Victor's cape (10)
+Victor's cape (1)	Capa de Victor (1)	name	item	Victor's cape (1)
+Victor's cape (10)	Capa de Victor (10)	name	item	Victor's cape (10)
 Victor's cape (50)	Capa de Víctor (50)	name	item	Victor's cape (50)
 Victor's cape (100)	Capa de Víctor (100)	name	item	Victor's cape (100)
 Victor's cape (500)	Capa de Víctor (500)	name	item	Victor's cape (500)
@@ -8120,20 +8120,20 @@ Ava's assembler (l)	Ensamblador de Ava (l)	name	item	Ava's assembler (l)
 Fire cape (l)	Capa de fuego (l)	name	item	Fire cape (l)
 Infernal cape (l)	Capa infernal (l)	name	item	Infernal cape (l)
 Ornate maul handle	Empuñadura de maza ornamentada	name	item	Ornate maul handle
-Imbued saradomin max cape (l)	Imbuido saradomin max capa (l)	name	item	Imbued saradomin max cape (l)
-Imbued zamorak max cape (l)	Imbuido zamorak max capa (l)	name	item	Imbued zamorak max cape (l)
-Imbued guthix max cape (l)	Capa guthix max impregnada (l)	name	item	Imbued guthix max cape (l)
+Imbued saradomin max cape (l)	Capa máxima de Saradomin Imbuida (l)	name	item	Imbued saradomin max cape (l)
+Imbued zamorak max cape (l)	Capa máxima de Zamorak Imbuida (l)	name	item	Imbued zamorak max cape (l)
+Imbued guthix max cape (l)	Capa máxima de Guthix Imbuida (l)	name	item	Imbued guthix max cape (l)
 House advertisement	Anuncio de la casa	name	item	House advertisement
-Imbued saradomin cape (broken)	Capa de saradomin imbuido (rota)	name	item	Imbued saradomin cape (broken)
-Imbued saradomin max cape (broken)	Imbuido saradomin max capa (roto)	name	item	Imbued saradomin max cape (broken)
-Imbued guthix cape (broken)	Capa de guthix imbuida (rota)	name	item	Imbued guthix cape (broken)
-Imbued guthix max cape (broken)	Capa guthix max imbuida (rota)	name	item	Imbued guthix max cape (broken)
-Imbued zamorak cape (broken)	Capa de zamorak imbuido (rota)	name	item	Imbued zamorak cape (broken)
-Imbued zamorak max cape (broken)	Capa máxima de zamorak imbuido (rota)	name	item	Imbued zamorak max cape (broken)
-Imbued saradomin cape (l)	Capa de saradomin imbuido (l)	name	item	Imbued saradomin cape (l)
-Imbued guthix cape (l)	Capa de guthix imbuido (l)	name	item	Imbued guthix cape (l)
-Imbued zamorak cape (l)	Capa de zamorak imbuido (l)	name	item	Imbued zamorak cape (l)
-Wilderness crabs teleport	Los cangrejos silvestres se teletransportan	name	item	Wilderness crabs teleport
+Imbued saradomin cape (broken)	Capa Saradomin Imbuida (rota)	name	item	Imbued saradomin cape (broken)
+Imbued saradomin max cape (broken)	Capa máxima de Saradomin Imbuida  (roto)	name	item	Imbued saradomin max cape (broken)
+Imbued guthix cape (broken)	Capa de Guthix Imbuida rota)	name	item	Imbued guthix cape (broken)
+Imbued guthix max cape (broken)	Capa máxima de Guthix Imbuida (rota)	name	item	Imbued guthix max cape (broken)
+Imbued zamorak cape (broken)	Capa de Zamorak Imbuida (rota)	name	item	Imbued zamorak cape (broken)
+Imbued zamorak max cape (broken)	Capa máxima de Zamorak Imbuida (rota)	name	item	Imbued zamorak max cape (broken)
+Imbued saradomin cape (l)	Capa de Saradomin Imbuida  (l)	name	item	Imbued saradomin cape (l)
+Imbued guthix cape (l)	Capa de Guthix Imbuida (l)	name	item	Imbued guthix cape (l)
+Imbued zamorak cape (l)	Capa de Zamorak imbuida (l)	name	item	Imbued zamorak cape (l)
+Wilderness crabs teleport	Teletransporte a Wilderness Crabs	name	item	Wilderness crabs teleport
 Fang	Fang	name	item	Fang
 Venom gland	Glándula del veneno	name	item	Venom gland
 Unsealed letter	Carta sin sellar	name	item	Unsealed letter
@@ -8173,7 +8173,7 @@ Pumpkin lantern	Farol de calabaza	name	item	Pumpkin lantern
 Skeleton lantern	Linterna esqueleto	name	item	Skeleton lantern
 Bounty crate	Caja de recompensas	name	item	Bounty crate
 Dagon'hai robes set	Juego de túnicas Dagon'hai	name	item	Dagon'hai robes set
-Target teleport	Teletransporte objetivo	name	item	Target teleport
+Target teleport	Teletransporte a punto	name	item	Target teleport
 Bounty hunter hat (tier 1)	Sombrero de cazarrecompensas (nivel 1)	name	item	Bounty hunter hat (tier 1)
 Bounty hunter hat (tier 2)	Sombrero de cazarrecompensas (nivel 2)	name	item	Bounty hunter hat (tier 2)
 Bounty hunter hat (tier 3)	Sombrero de cazarrecompensas (nivel 3)	name	item	Bounty hunter hat (tier 3)
@@ -8228,7 +8228,7 @@ Festive pot	Maceta festiva	name	item	Festive pot
 Festive flour	Harina festiva	name	item	Festive flour
 Gingerbread shield	Escudo de pan de jengibre	name	item	Gingerbread shield
 Iced gingerbread shield	Escudo de jengibre helado	name	item	Iced gingerbread shield
-Scaperune teleport	Teletransporte Scaperune	name	item	Scaperune teleport
+Scaperune teleport	Teletransporte a Scaperune	name	item	Scaperune teleport
 Bakery storage key	Llave de almacenamiento de panadería	name	item	Bakery storage key
 Gingerbread gnome	Gnomo de pan de jengibre	name	item	Gingerbread gnome
 Twisted slayer helmet (i)	Casco Twisted Slayer (i)	name	item	Twisted slayer helmet (i)
@@ -8290,7 +8290,7 @@ Blighted super restore(2)	Superrestauración asolada(2)	name	item	Blighted super
 Blighted super restore(1)	Superrestauración asolada(1)	name	item	Blighted super restore(1)
 Blighted ancient ice sack	Saco de hielo antiguo	name	item	Blighted ancient ice sack
 Blighted entangle sack	Saco de enredos	name	item	Blighted entangle sack
-Blighted teleport spell sack	Saco de hechizo de teletransporte Blighted	name	item	Blighted teleport spell sack
+Blighted teleport spell sack	Saco de hechizo de teletransporte arruinado	name	item	Blighted teleport spell sack
 Vesta's blighted longsword	La espada larga de Vesta	name	item	Vesta's blighted longsword
 Vesta's longsword (inactive)	Espada larga de Vesta (inactiva)	name	item	Vesta's longsword (inactive)
 Blighted vengeance sack	Saco de la venganza	name	item	Blighted vengeance sack
@@ -8415,14 +8415,14 @@ Bp obj	Objeto Bp	name	item	Bp obj
 Reinforced goggles	Gafas reforzadas	name	item	Reinforced goggles
 Sourhog foot	Pie agrio	name	item	Sourhog foot
 Hallowed sack	Saco sagrado	name	item	Hallowed sack
-Moonclan teleport	Teletransporte Moonclan	name	item	Moonclan teleport
-Ourania teleport	Teletransporte Ourania	name	item	Ourania teleport
-Waterbirth teleport	Teletransporte de parto en el agua	name	item	Waterbirth teleport
-Barbarian teleport	Teletransporte bárbaro	name	item	Barbarian teleport
-Khazard teleport	Teletransporte Khazard	name	item	Khazard teleport
+Moonclan teleport	Teletransporte a Moonclan	name	item	Moonclan teleport
+Ourania teleport	Teletransporte a Ourania	name	item	Ourania teleport
+Waterbirth teleport	Teletransporte a Waterbirth	name	item	Waterbirth teleport
+Barbarian teleport	Teletransporte a Barbarian	name	item	Barbarian teleport
+Khazard teleport	Teletransporte a Khazard	name	item	Khazard teleport
 Fishing guild teleport	Telepuerto del gremio de pescadores	name	item	Fishing guild teleport
-Catherby teleport	Teletransporte Catherby	name	item	Catherby teleport
-Ice plateau teleport	Teletransporte a la meseta de hielo	name	item	Ice plateau teleport
+Catherby teleport	Teletransporte aCatherby	name	item	Catherby teleport
+Ice plateau teleport	Teletransporte a Ice Plateau	name	item	Ice plateau teleport
 Headless head	Cabeza sin cabeza	name	item	Headless head
 Magical pumpkin	Calabaza mágica	name	item	Magical pumpkin
 Brown candy	Caramelo marrón	name	item	Brown candy
@@ -8844,14 +8844,14 @@ Sigil of remote storage	Sigilo de almacenamiento remoto	name	item	Sigil of remot
 Sigil of last recall	Sigilo del último recuerdo	name	item	Sigil of last recall
 Sigil of the guardian angel	Sigilo del ángel de la guarda	name	item	Sigil of the guardian angel
 Mount karuulm diary	diario del monte karuulm	name	item	Mount karuulm diary
-Group ironman helm	Grupo ironman casco	name	item	Group ironman helm
-Group ironman platebody	Grupo ironman platebody	name	item	Group ironman platebody
-Group ironman platelegs	Grupo ironman platelegs	name	item	Group ironman platelegs
-Group ironman bracers	Grupo ironman bracers	name	item	Group ironman bracers
-Hardcore group ironman helm	Hardcore grupo ironman timón	name	item	Hardcore group ironman helm
-Hardcore group ironman platebody	Grupo hardcore ironman platebody	name	item	Hardcore group ironman platebody
-Hardcore group ironman platelegs	Hardcore grupo ironman platelegs	name	item	Hardcore group ironman platelegs
-Hardcore group ironman bracers	brazaletes ironman grupo hardcore	name	item	Hardcore group ironman bracers
+Group ironman helm	Casco de grupo Ironman	name	item	Group ironman helm
+Group ironman platebody	Pecho de grupo Ironman	name	item	Group ironman platebody
+Group ironman platelegs	Pantalón de grupo Ironman	name	item	Group ironman platelegs
+Group ironman bracers	Bracers de grupo Ironman	name	item	Group ironman bracers
+Hardcore group ironman helm	Casco de grupo Ironman Hardcore	name	item	Hardcore group ironman helm
+Hardcore group ironman platebody	Pecho de grupo Ironman Hardcore	name	item	Hardcore group ironman platebody
+Hardcore group ironman platelegs	Pantalón de grupo Ironman Hardcore	name	item	Hardcore group ironman platelegs
+Hardcore group ironman bracers	Bracers de grupo Ironman Hardcore	name	item	Hardcore group ironman bracers
 Osmumten's fang	Captura de Osmumten	name	item	Osmumten's fang
 Ancient ceremonial top	Antiguo top ceremonial	name	item	Ancient ceremonial top
 Ancient ceremonial legs	Antiguas piernas ceremoniales	name	item	Ancient ceremonial legs
@@ -9246,10 +9246,10 @@ Gorgeous orange lily seed	Preciosa semilla de lirio naranja	name	item	Gorgeous o
 Beautiful yellow pansy seed	Hermosa semilla de pensamiento amarillo	name	item	Beautiful yellow pansy seed
 Tenacious indigo iris seed	Semilla de iris índigo tenaz	name	item	Tenacious indigo iris seed
 Quality violet tulip seed	Semillas de tulipán violeta de calidad	name	item	Quality violet tulip seed
-Group ironman helm (unranked)	Grupo ironman helm (sin clasificar)	name	item	Group ironman helm (unranked)
-Group ironman platelegs (unranked)	Grupo ironman platelegs (sin clasificar)	name	item	Group ironman platelegs (unranked)
-Group ironman bracers (unranked)	Grupo ironman bracers (sin clasificar)	name	item	Group ironman bracers (unranked)
-Group ironman platebody (unranked)	Grupo ironman platebody (sin clasificar)	name	item	Group ironman platebody (unranked)
+Group ironman helm (unranked)	Casco de grupo Ironman (Sin clasificar)	name	item	Group ironman helm (unranked)
+Group ironman platelegs (unranked)	Pantalón de grupo Ironman (Sin clasificar)	name	item	Group ironman platelegs (unranked)
+Group ironman bracers (unranked)	Bracers de grupo Ironman (Sin clasificar)	name	item	Group ironman bracers (unranked)
+Group ironman platebody (unranked)	Pecho de grupo Ironman (Sin clasificar)	name	item	Group ironman platebody (unranked)
 Elder maul ornament kit	Kit de adorno de maul mayor	name	item	Elder maul ornament kit
 Elder maul (or)	Maza mayor (oro)	name	item	Elder maul (or)
 Mithril gloves (wrapped)	Guantes de mithril (envueltos)	name	item	Mithril gloves (wrapped)
@@ -9333,9 +9333,9 @@ Tumeken's guardian	El guardián de Tumeken	name	item	Tumeken's guardian
 Elidinis' guardian	El guardián de Elidinis	name	item	Elidinis' guardian
 Masori armour set (f)	Conjunto de armadura Masori (f)	name	item	Masori armour set (f)
 Masori assembler (broken)	Ensamblador Masori (roto)	name	item	Masori assembler (broken)
-Masori assembler max cape (broken)	Masori ensamblador max capa (roto)	name	item	Masori assembler max cape (broken)
-Masori assembler max cape	Masori ensamblador max capa	name	item	Masori assembler max cape
-Masori assembler max cape (l)	Masori montador max capa (l)	name	item	Masori assembler max cape (l)
+Masori assembler max cape (broken)	Capa máxima de Masori (roto)	name	item	Masori assembler max cape (broken)
+Masori assembler max cape	Capa máxima de Masori	name	item	Masori assembler max cape
+Masori assembler max cape (l)	Capa máxima de Masori (l)	name	item	Masori assembler max cape (l)
 Masori assembler max hood	Masori ensamblador max capucha	name	item	Masori assembler max hood
 Dawn scarab egg	Huevo de escarabajo de la aurora	name	item	Dawn scarab egg
 Mask of rebirth	Máscara del renacimiento	name	item	Mask of rebirth
@@ -9654,7 +9654,7 @@ Powdered pollen	Polen en polvo	name	item	Powdered pollen
 Strange pollen	Polen extraño	name	item	Strange pollen
 Unfired cup	Taza sin disparar	name	item	Unfired cup
 Bronze felling axe	Hacha de tala de bronce	name	item	Bronze felling axe
-Iron felling axe	Hacha de hierro	name	item	Iron felling axe
+Iron felling axe	Hacha de tala de hierro	name	item	Iron felling axe
 Steel felling axe	Hacha de acero	name	item	Steel felling axe
 Black felling axe	Hacha de tala negra	name	item	Black felling axe
 Mithril felling axe	Hacha de talar de mithril	name	item	Mithril felling axe
@@ -9886,7 +9886,7 @@ Trailblazer reloaded alchemy scroll	Pergamino de alquimia recargado Trailblazer	
 Trailblazer reloaded vengeance scroll	Trailblazer reloaded vengeance scroll	name	item	Trailblazer reloaded vengeance scroll
 Trailblazer reloaded death scroll	Trailblazer reloaded death scroll	name	item	Trailblazer reloaded death scroll
 Trailblazer reloaded banner	Banner Trailblazer reloaded	name	item	Trailblazer reloaded banner
-Trailblazer reloaded home teleport scroll	Trailblazer recargado teletransportador de desplazamiento a casa	name	item	Trailblazer reloaded home teleport scroll
+Trailblazer reloaded home teleport scroll	Pergamino de teletransporte a casa de Trailblazer Reloaded	name	item	Trailblazer reloaded home teleport scroll
 Trailblazer reloaded rejuvenation pool scroll	Pergamino de rejuvenecimiento Trailblazer reloaded	name	item	Trailblazer reloaded rejuvenation pool scroll
 Trailblazer reloaded rejuvenation pool	Piscina de rejuvenecimiento Trailblazer reloaded	name	item	Trailblazer reloaded rejuvenation pool
 Trailblazer reloaded headband (t1)	Cinta para la cabeza Trailblazer reloaded (t1)	name	item	Trailblazer reloaded headband (t1)
@@ -9939,7 +9939,7 @@ Slate tablet	Tableta de pizarra	name	item	Slate tablet
 Shale tablet	Pastilla de esquisto	name	item	Shale tablet
 Wealthy citizen	Ciudadano rico	name	item	Wealthy citizen
 Lesser nagua	Nagua menor	name	item	Lesser nagua
-Civitas illa fortis teleport	Teletransporte Civitas illa fortis	name	item	Civitas illa fortis teleport
+Civitas illa fortis teleport	Teletransporte a Civitas illa fortis	name	item	Civitas illa fortis teleport
 Dizana's quiver (broken)	Carcaj de Dizana (roto)	name	item	Dizana's quiver (broken)
 Blessed dizana's quiver (broken)	Bendito carcaj de dizana (roto)	name	item	Blessed dizana's quiver (broken)
 Dizana's max cape (broken)	Capa máxima de Dizana (rota)	name	item	Dizana's max cape (broken)
@@ -10173,7 +10173,7 @@ Egg priest robe	Túnica de sacerdote huevo	name	item	Egg priest robe
 Egg priest robe top	Túnica de sacerdote de huevo	name	item	Egg priest robe top
 Egg priest necklace	Collar del cura de los huevos	name	item	Egg priest necklace
 Egg priest mitre	Huevo sacerdote mitra	name	item	Egg priest mitre
-Imbued mage arena cape	Capa de mago imbuido	name	item	Imbued mage arena cape
+Imbued mage arena cape	Capa de Arena de Magos Imbuida	name	item	Imbued mage arena cape
 Zombie pirate key	Llave pirata zombi	name	item	Zombie pirate key
 Teleport anchoring scroll	Pergamino de anclaje de teletransporte	name	item	Teleport anchoring scroll
 Adamant seeds	Semillas Adamant	name	item	Adamant seeds
@@ -10253,9 +10253,9 @@ Armadyl godsword (deadman)	Armadyl godsword (hombre muerto)	name	item	Armadyl go
 Voidwaker (deadman)	Voidwaker (hombre muerto)	name	item	Voidwaker (deadman)
 Volatile nightmare staff (deadman)	Báculo de pesadilla volátil (hombre muerto)	name	item	Volatile nightmare staff (deadman)
 Dark bow (deadman)	Arco oscuro (deadman)	name	item	Dark bow (deadman)
-Imbued zamorak cape (deadman)	Capa de zamorak imbuido (hombre muerto)	name	item	Imbued zamorak cape (deadman)
+Imbued zamorak cape (deadman)	Capa de zamorak imbuida (hombre muerto)	name	item	Imbued zamorak cape (deadman)
 Imbued guthix cape (deadman)	Capa de guthix imbuida (hombre muerto)	name	item	Imbued guthix cape (deadman)
-Imbued saradomin cape (deadman)	Capa de saradomin imbuido (hombre muerto)	name	item	Imbued saradomin cape (deadman)
+Imbued saradomin cape (deadman)	Capa de saradomin imbuida (hombre muerto)	name	item	Imbued saradomin cape (deadman)
 Armageddon rug	Alfombra Armageddon	name	item	Armageddon rug
 Armageddon teleport scroll	Pergamino de teletransporte Armageddon	name	item	Armageddon teleport scroll
 Armageddon weapon scroll	Pergamino del arma Armagedón	name	item	Armageddon weapon scroll
@@ -10446,7 +10446,7 @@ Goading potion(4)	Poción estimulante(4)	name	item	Goading potion(4)
 Goading potion(3)	Poción estimulante(3)	name	item	Goading potion(3)
 Goading potion(2)	Poción estimulante(2)	name	item	Goading potion(2)
 Goading potion(1)	Poción estimulante(1)	name	item	Goading potion(1)
-Aldarin teleport	Teletransporte Aldarin	name	item	Aldarin teleport
+Aldarin teleport	Teletransporte a Aldarin	name	item	Aldarin teleport
 Bone squirrel	Ardilla ósea	name	item	Bone squirrel
 Huberte	Huberte	name	item	Huberte
 Moxi	Moxi	name	item	Moxi
@@ -10849,7 +10849,7 @@ Clarity of Thought	Claridad de pensamiento	name	menu	prayerTab
 Rapid Restore	Restauración rápida	name	menu	prayerTab
 Rapid Heal	Curación rápida	name	menu	prayerTab
 Steel Skin	Piel de acero	name	menu	prayerTab
-Lumbridge Home Teleport	Telepuerto doméstico de Lumbridge	name	menu	spellBookTab
+Lumbridge Home Teleport	Teletransporte a Lumbridge	name	menu	spellBookTab
 Wind Strike	Golpe de viento	name	menu	spellBookTab
 Confuse	Confundir	name	menu	spellBookTab
 Crossbow Bolt Enchantments	Encantamientos de virotes de ballesta	name	menu	spellBookTab
@@ -10865,14 +10865,14 @@ Fire Strike	Huelga de fuego	name	menu	spellBookTab
 Weaken	Debilitar	name	menu	spellBookTab
 Low Level Alchemy	Alquimia de bajo nivel	name	menu	spellBookTab
 Water Bolt	Cerrojo de agua	name	menu	spellBookTab
-Varrock Teleport	Teletransporte Varrock	name	menu	spellBookTab
+Varrock Teleport	Teletransporte a Varrock	name	menu	spellBookTab
 Earth Bolt	Cerrojo de Tierra	name	menu	spellBookTab
-Lumbridge Teleport	Telepuerto de Lumbridge	name	menu	spellBookTab
+Lumbridge Teleport	Teletransporte a Lumbridge	name	menu	spellBookTab
 Fire Bolt	Rayo de fuego	name	menu	spellBookTab
-Falador Teleport	Teleport Talker	name	menu	spellBookTab
-Kourend Castle Teleport	Telepuerto del castillo de Kourend	name	menu	spellBookTab
+Falador Teleport	Teletransporte a Falador	name	menu	spellBookTab
+Kourend Castle Teleport	Teletransporte a castillo de Kourend	name	menu	spellBookTab
 Water Blast	Chorro de agua	name	menu	spellBookTab
-Camelot Teleport	Telepuerto de Camelot	name	menu	spellBookTab
+Camelot Teleport	Teletransporte a Camelot	name	menu	spellBookTab
 Superheat Item	Sobrecalentamiento Artículo	name	menu	spellBookTab
 Wind Blast	Ráfaga de viento	name	menu	spellBookTab
 Teleport to House	Teletransporte a casa	name	menu	spellBookTab
@@ -10880,22 +10880,22 @@ Crumble Undead	Desmenuzar muertos vivientes	name	menu	spellBookTab
 Iban Blast	Explosión Iban	name	menu	spellBookTab
 Snare	trampa	name	menu	spellBookTab
 Magic Dart	Dardo mágico	name	menu	spellBookTab
-Ardougne Teleport	Telepuerto de Ardougne	name	menu	spellBookTab
+Ardougne Teleport	Teletransporte a Ardougne	name	menu	spellBookTab
 Earth Blast	Explosión de tierra	name	menu	spellBookTab
-Civitas illa Fortis Teleport	Telepuerto Civitas illa Fortis	name	menu	spellBookTab
+Civitas illa Fortis Teleport	Teletransporte a Civitas illa Fortis	name	menu	spellBookTab
 High Level Alchemy	Alquimia de alto nivel	name	menu	spellBookTab
 Charge Water Orb	Carga Orbe de Agua	name	menu	spellBookTab
-Watchtower Teleport	Telepuerto de la Atalaya	name	menu	spellBookTab
+Watchtower Teleport	Teletransporte a Atalaya	name	menu	spellBookTab
 Fire Blast	Ráfaga de fuego	name	menu	spellBookTab
 Charge Earth Orb	Carga Orbe Terrestre	name	menu	spellBookTab
 Bones to Peaches	De huesos a melocotones	name	menu	spellBookTab
 Saradomin Strike	Huelga de Saradomin	name	menu	spellBookTab
 Claws of Guthix	Garras de Guthix	name	menu	spellBookTab
 Flames of Zamorak	Llamas de Zamorak	name	menu	spellBookTab
-Trollheim Teleport	Telepuerto de Trollheim	name	menu	spellBookTab
+Trollheim Teleport	Teletransporte a Trollheim	name	menu	spellBookTab
 Wind Wave	Ola de viento	name	menu	spellBookTab
 Charge Fire Orb	Carga Orbe de Fuego	name	menu	spellBookTab
-Ape Atoll Teleport	Teletransporte al Atolón de los Monos	name	menu	spellBookTab
+Ape Atoll Teleport	Teletransporte a Ape Atoll	name	menu	spellBookTab
 Water Wave	Ola de agua	name	menu	spellBookTab
 Charge Air Orb	Orbe de aire de carga	name	menu	spellBookTab
 Vulnerability	Vulnerabilidad	name	menu	spellBookTab
@@ -10914,32 +10914,32 @@ Wind Surge	Oleada de viento	name	menu	spellBookTab
 Charge	Carga	name	menu	spellBookTab
 Earth Surge	Sobretensión	name	menu	spellBookTab
 Fire Surge	Sobrecarga de fuego	name	menu	spellBookTab
-Edgeville Home Teleport	Telepuerto doméstico de Edgeville	name	menu	spellBookTab
+Edgeville Home Teleport	Teletransporte de casa a Edgeville	name	menu	spellBookTab
 Smoke Rush	Fiebre del humo	name	menu	spellBookTab
 Shadow Rush	Sombra Rush	name	menu	spellBookTab
-Paddewwa Teleport	Telepuerto de Paddewwa	name	menu	spellBookTab
+Paddewwa Teleport	Teletransporte a Paddewwa	name	menu	spellBookTab
 Smoke Burst	Ráfaga de humo	name	menu	spellBookTab
-Senntisten Teleport	Telepuerto Senntisten	name	menu	spellBookTab
+Senntisten Teleport	Teletransporte a Senntisten	name	menu	spellBookTab
 Ice Rush	Fiebre del hielo	name	menu	spellBookTab
 Blood Rush	Torrente de sangre	name	menu	spellBookTab
 Shadow Burst	Ráfaga de sombras	name	menu	spellBookTab
-Kharyrll Teleport	Teletransporte Kharyrll	name	menu	spellBookTab
+Kharyrll Teleport	Teletransporte a Kharyrll	name	menu	spellBookTab
 Blood Burst	Ráfaga de sangre	name	menu	spellBookTab
 Ice Burst	Ráfaga de hielo	name	menu	spellBookTab
-Dareeyak Teleport	Telepuerto Dareeyak	name	menu	spellBookTab
+Dareeyak Teleport	Teletransporte a Dareeyak	name	menu	spellBookTab
 Shadow Blitz	Sombra Blitz	name	menu	spellBookTab
 Smoke Blitz	Smoke Blitz	name	menu	spellBookTab
-Lassar Teleport	Telepuerto Lassar	name	menu	spellBookTab
+Lassar Teleport	Teletransporte a Lassar	name	menu	spellBookTab
 Blood Blitz	Blitz de sangre	name	menu	spellBookTab
 Ice Blitz	Ice Blitz	name	menu	spellBookTab
-Carrallanger Teleport	Telepuerto de Carrallanger	name	menu	spellBookTab
+Carrallanger Teleport	Teletransporte a Carrallanger	name	menu	spellBookTab
 Blood Barrage	Aluvión de sangre	name	menu	spellBookTab
-Annakarl Teleport	Teletransporte Annakarl	name	menu	spellBookTab
+Annakarl Teleport	Teletransporte a Annakarl	name	menu	spellBookTab
 Shadow Barrage	Aluvión de sombras	name	menu	spellBookTab
 Smoke Barrage	Aluvión de humo	name	menu	spellBookTab
 Ice Barrage	Aluvión de hielo	name	menu	spellBookTab
-Ghorrock Teleport	Telepuerto Ghorrock	name	menu	spellBookTab
-Lunar Home Teleport	Telepuerto Lunar a Casa	name	menu	spellBookTab
+Ghorrock Teleport	Teletransporte a Ghorrock	name	menu	spellBookTab
+Lunar Home Teleport	Teletransporte de casa a Lunar	name	menu	spellBookTab
 Bake Pie	Hornear pastel	name	menu	spellBookTab
 Geomancy	Geomancia	name	menu	spellBookTab
 Cure Plant	Planta de curado	name	menu	spellBookTab
@@ -10947,21 +10947,21 @@ Monster Examine	Examen de monstruos	name	menu	spellBookTab
 NPC Contact	Contacto NPC	name	menu	spellBookTab
 Cure Other	Cura Otros	name	menu	spellBookTab
 Humidify	Humidificar	name	menu	spellBookTab
-Moonclan Teleport	Teletransporte Moonclan	name	menu	spellBookTab
+Moonclan Teleport	Teletransporte a Moonclan	name	menu	spellBookTab
 Tele Group Moonclan	Tele Grupo Moonclan	name	menu	spellBookTab
 Cure Me	Cúrame	name	menu	spellBookTab
-Ourania Teleport	Telepuerto de Ourania	name	menu	spellBookTab
+Ourania Teleport	Teletransporte a Ourania	name	menu	spellBookTab
 Hunter Kit	Kit de cazador	name	menu	spellBookTab
-Waterbirth Teleport	Teletransporte acuático	name	menu	spellBookTab
+Waterbirth Teleport	Teletransporte a acuático	name	menu	spellBookTab
 Tele Group Waterbirth	Grupo Tele Parto en el Agua	name	menu	spellBookTab
 Cure Group	Grupo Cure	name	menu	spellBookTab
 Stat Spy	Espía de estadísticas	name	menu	spellBookTab
-Barbarian Teleport	Teletransporte bárbaro	name	menu	spellBookTab
+Barbarian Teleport	Teletransporte a bárbaro	name	menu	spellBookTab
 Tele Group Barbarian	Tele Grupo Bárbaro	name	menu	spellBookTab
 Spin Flax	Lino Spin	name	menu	spellBookTab
 Superglass Make	Marca Superglass	name	menu	spellBookTab
 Tan Leather	Piel tostada	name	menu	spellBookTab
-Khazard Teleport	Teletransporte Khazard	name	menu	spellBookTab
+Khazard Teleport	Teletransporte a Khazard	name	menu	spellBookTab
 Tele Group Khazard	Tele Grupo Khazard	name	menu	spellBookTab
 Dream	Sueño	name	menu	spellBookTab
 String Jewellery	Joyas de cuerda	name	menu	spellBookTab
@@ -10969,13 +10969,13 @@ Stat Restore Pot Share	Stat Restaurar Pot Compartir	name	menu	spellBookTab
 Magic Imbue	Imbuir magia	name	menu	spellBookTab
 Fertile Soil	Suelo fértil	name	menu	spellBookTab
 Boost Potion Share	Poción Boost Share	name	menu	spellBookTab
-Fishing Guild Teleport	Telepuerto de la Cofradía de Pescadores	name	menu	spellBookTab
+Fishing Guild Teleport	Teletransporte a Gremio de Pescadores	name	menu	spellBookTab
 Tele Group Fishing Guild	Tele Grupo Cofradía de Pescadores	name	menu	spellBookTab
 Plank Make	Hacer tabla	name	menu	spellBookTab
-Catherby Teleport	Telepuerto Catherby	name	menu	spellBookTab
+Catherby Teleport	Teletransporte a Catherby	name	menu	spellBookTab
 Tele Group Catherby	Tele Grupo Catherby	name	menu	spellBookTab
 Recharge Dragonstone	Recarga Dragonstone	name	menu	spellBookTab
-Ice Plateau Teleport	Telepuerto de la Meseta de Hielo	name	menu	spellBookTab
+Ice Plateau Teleport	Teletransporte a Ice Plateau	name	menu	spellBookTab
 Tele Group Ice Plateau	Grupo Tele Meseta helada	name	menu	spellBookTab
 Energy Transfer	Transferencia de energía	name	menu	spellBookTab
 Heal Other	Curar a otros	name	menu	spellBookTab
@@ -10983,35 +10983,35 @@ Vengeance Other	Venganza Otros	name	menu	spellBookTab
 Vengeance	Venganza	name	menu	spellBookTab
 Heal Group	Grupo Heal	name	menu	spellBookTab
 Spellbook Swap	Intercambio de libros de hechizos	name	menu	spellBookTab
-Arceuus Home Teleport	Arceuus Teletransporte a casa	name	menu	spellBookTab
-Arceuus Library Teleport	Teletransporte Biblioteca Arceuus	name	menu	spellBookTab
+Arceuus Home Teleport	Teletransporte a casa a Arceeus	name	menu	spellBookTab
+Arceuus Library Teleport	Teletransporte a Biblioteca Arceuus	name	menu	spellBookTab
 Basic Reanimation	Reanimación básica	name	menu	spellBookTab
-Draynor Manor Teleport	Telepuerto de Draynor Manor	name	menu	spellBookTab
-Battlefront Teleport	Telepuerto del frente de batalla	name	menu	spellBookTab
-Mind Altar Teleport	Teletransporte de altar mental	name	menu	spellBookTab
-Respawn Teleport	Teletransporte Respawn	name	menu	spellBookTab
+Draynor Manor Teleport	Teletransporte a Mansion Draynor	name	menu	spellBookTab
+Battlefront Teleport	Teletransporte a Battlefront	name	menu	spellBookTab
+Mind Altar Teleport	Teletransporte a altar mental	name	menu	spellBookTab
+Respawn Teleport	Teletransporte a Respawn	name	menu	spellBookTab
 Ghostly Grasp	Abrazo fantasmal	name	menu	spellBookTab
 Resurrect Lesser Ghost	Resucitar fantasma menor	name	menu	spellBookTab
 Resurrect Lesser Skeleton	Resucitar esqueleto menor	name	menu	spellBookTab
 Resurrect Lesser Zombie	Resucitar zombie menor	name	menu	spellBookTab
-Salve Graveyard Teleport	Salve Cementerio Teletransporte	name	menu	spellBookTab
+Salve Graveyard Teleport	Teletransporte a Cementerio Salve	name	menu	spellBookTab
 Adept Reanimation	Adepto Reanimación	name	menu	spellBookTab
 Inferior Demonbane	Bajo Demonbane	name	menu	spellBookTab
 Shadow Veil	Velo de sombra	name	menu	spellBookTab
-Fenkenstrain's Castle Teleport	Teletransporte al castillo de Fenkenstrain	name	menu	spellBookTab
+Fenkenstrain's Castle Teleport	Teletransporte a castillo de Fenkenstrain	name	menu	spellBookTab
 Dark Lure	Señuelo oscuro	name	menu	spellBookTab
 Skeletal Grasp	Agarre esquelético	name	menu	spellBookTab
 Resurrect Superior Ghost	Resucitar fantasma superior	name	menu	spellBookTab
 Resurrect Superior Skeleton	Resucitar esqueleto superior	name	menu	spellBookTab
 Resurrect Superior Zombie	Resucitar a un zombi superior	name	menu	spellBookTab
 Mark of Darkness	Marca de la oscuridad	name	menu	spellBookTab
-West Ardougne Teleport	Telepuerto Ardougne Oeste	name	menu	spellBookTab
+West Ardougne Teleport	Teletransporte a Ardougne Oeste	name	menu	spellBookTab
 Superior Demonbane	Demonbane superior	name	menu	spellBookTab
 Lesser Corruption	Corrupción menor	name	menu	spellBookTab
-Harmony Island Teleport	Telepuerto de Harmony Island	name	menu	spellBookTab
+Harmony Island Teleport	Teletransporte a Harmony Island	name	menu	spellBookTab
 Vile Vigour	Vigor vil	name	menu	spellBookTab
 Degrime	Degrime	name	menu	spellBookTab
-Cemetery Teleport	Teletransporte al cementerio	name	menu	spellBookTab
+Cemetery Teleport	Teletransporte a cementerio	name	menu	spellBookTab
 Expert Reanimation	Experto en reanimación	name	menu	spellBookTab
 Ward of Arceuus	Barrio de Arceuus	name	menu	spellBookTab
 Resurrect Greater Ghost	Resucitar fantasma mayor	name	menu	spellBookTab
@@ -11021,7 +11021,7 @@ Resurrect Crops	Resucitar cultivos	name	menu	spellBookTab
 Undead Grasp	Agarre no muerto	name	menu	spellBookTab
 Death Charge	Cargo por muerte	name	menu	spellBookTab
 Dark Demonbane	Demonbane oscuro	name	menu	spellBookTab
-Barrows Teleport	Telepuerto de Barrows	name	menu	spellBookTab
+Barrows Teleport	Teletransporte a Barrows	name	menu	spellBookTab
 Demonic Offering	Ofrenda demoníaca	name	menu	spellBookTab
 Greater Corruption	Mayor corrupción	name	menu	spellBookTab
 Master Reanimation	Maestro de la reanimación	name	menu	spellBookTab
@@ -12621,7 +12621,7 @@ Brother Kojo	Hermano Kojo	name	npc	Brother Kojo
 Mine cart	Carro de mina	name	npc	Mine cart
 Zealot	Zealot	name	npc	Zealot
 Possessed pickaxe	Piqueta poseída	name	npc	Possessed pickaxe
-Iron pickaxe	Piqueta de hierro	name	npc	Iron pickaxe
+Iron pickaxe	Pico de hierro	name	npc	Iron pickaxe
 Corpse	Cadáver	name	npc	Corpse
 Skeletal miner	Minero esquelético	name	npc	Skeletal miner
 Treus Dayth	Treus Dayth	name	npc	Treus Dayth
@@ -13198,7 +13198,7 @@ Sigmund and Zanik	Sigmund y Zanik	name	npc	Sigmund and Zanik
 Sergeant Mossfists	Sargento Mossfists	name	npc	Sergeant Mossfists
 Sergeant Slimetoes	Sargento Slimetoes	name	npc	Sergeant Slimetoes
 Ticket goblin	Billete duende	name	npc	Ticket goblin
-Ticket dwarf	Billete enano	name	npc	Ticket dwarf
+Ticket dwarf	Ticket el enano	name	npc	Ticket dwarf
 Ambassador Alvijar	Embajador Alvijar	name	npc	Ambassador Alvijar
 Builder	Constructor	name	npc	Builder
 Tegdak	Tegdak	name	npc	Tegdak
@@ -13425,7 +13425,7 @@ Abyssal orphan	Huérfano abisal	name	npc	Abyssal orphan
 Abyssal Sire	Señor Abisal	name	npc	Abyssal Sire
 TzRek-Jad	TzRek-Jad	name	npc	TzRek-Jad
 Bast	Bast	name	npc	Bast
-Drogo dwarf	Querido enano	name	npc	Drogo dwarf
+Drogo dwarf	Drogo el enano	name	npc	Drogo dwarf
 Flynn	Flynn	name	npc	Flynn
 Wayne	Wayne	name	npc	Wayne
 Probita	Probita	name	npc	Probita
@@ -15488,7 +15488,7 @@ Ikniu	Ikniu	name	npc	Ikniu
 Tonali Archer	Tonali Archer	name	npc	Tonali Archer
 Tonali Warrior	Guerrero de Tonali	name	npc	Tonali Warrior
 Emissary Archer	Emisario Archer	name	npc	Emissary Archer
-Tonali Teleporter	Teletransportador Tonali	name	npc	Tonali Teleporter
+Tonali Teleporter	Teletransporte a Tonali	name	npc	Tonali Teleporter
 Earthen Nagua	Nagua de tierra	name	npc	Earthen Nagua
 Forebearer Honos	Honos Precursores	name	npc	Forebearer Honos
 Humphrey Dumphrey	Humphrey Dumphrey	name	npc	Humphrey Dumphrey
@@ -15587,11 +15587,12 @@ Other	Otros	name	npc
 Mimic	Mimic	name	npc	
 Thermy	Termo	name	npc	
 Chambers of Xeric: CM	Cámaras de Xeric: CM	name	npc	
+		name	npc	
 Crate	Caja	name	object	Crate
 Cave Entrance	Entrada de la cueva	name	object	Cave Entrance
 Door	Por	name	object	Door
 Broken multicannon	Multicannon roto	name	object	Broken multicannon
-Dwarf multicannon	Multicañón enano	name	object	Dwarf multicannon
+Dwarf multicannon	Multicañón de enano	name	object	Dwarf multicannon
 Cannon base	Base del cañón	name	object	Cannon base
 Cannon stand	Soporte para cañones	name	object	Cannon stand
 Cannon barrels	Cañones	name	object	Cannon barrels
@@ -15707,7 +15708,7 @@ Statue of a warrior	Estatua de un guerrero	name	object	Statue of a warrior
 Statue of a king	Estatua de un rey	name	object	Statue of a king
 Statue of a queen	Estatua de una reina	name	object	Statue of a queen
 Tribal statue	Estatua tribal	name	object	Tribal statue
-Dwarf statue	Estatua enana	name	object	Dwarf statue
+Dwarf statue	Estatua de enano	name	object	Dwarf statue
 Gnome statue	Estatuas de gnomos	name	object	Gnome statue
 Statue	Estatua	name	object	Statue
 Vase	Jarrón	name	object	Vase
@@ -16483,7 +16484,7 @@ Gas hole	Agujero de gas	name	object	Gas hole
 Dark hole	Agujero oscuro	name	object	Dark hole
 Cannonball	Bala de cañón	name	object	Cannonball
 Gold cannonball	Bala de cañón dorada	name	object	Gold cannonball
-Dwarf MultiCannon	SIN TRADUCCION	name	object	Dwarf MultiCannon
+Dwarf MultiCannon	Multicañón de enano	name	object	Dwarf MultiCannon
 Small rock	Roca pequeña	name	object	Small rock
 Gold vein	Veta de oro	name	object	Gold vein
 Depleted vein	Vena agotada	name	object	Depleted vein
@@ -16502,7 +16503,7 @@ Giant Dwarf	Enano gigante	name	object	Giant Dwarf
 Armour	Armadura	name	object	Armour
 Warhammer	Warhammer	name	object	Warhammer
 Pickaxe	Piqueta	name	object	Pickaxe
-Dwarf mirror	Espejo enano	name	object	Dwarf mirror
+Dwarf mirror	Espejo de enano	name	object	Dwarf mirror
 Poor Bed	Cama pobre	name	object	Poor Bed
 Dwarven Consortium Table	Mesa del Consorcio Enano	name	object	Dwarven Consortium Table
 Money Pot	Bote de dinero	name	object	Money Pot
@@ -16969,7 +16970,7 @@ Tapestry	Tapiz	name	object	Tapestry
 Bank Deposit Box	Caja de depósitos bancarios	name	object	Bank Deposit Box
 Bank Deposit Chest	Caja de depósitos bancarios	name	object	Bank Deposit Chest
 Human Flag	Bandera humana	name	object	Human Flag
-Dwarf Flag	SIN TRADUCCION	name	object	Dwarf Flag
+Dwarf Flag	Bandera de enano	name	object	Dwarf Flag
 Elf Flag	Bandera Once	name	object	Elf Flag
 Gnome Flag	Bandera de los gnomos	name	object	Gnome Flag
 Werewolf Flag	Bandera de hombre lobo	name	object	Werewolf Flag
@@ -17082,7 +17083,7 @@ Cider	Sidra	name	object	Cider
 Mature Cider	Sidra madura	name	object	Mature Cider
 Dairy churn	Leche batida	name	object	Dairy churn
 Pie stall	Puesto de pasteles	name	object	Pie stall
-Zul-Andra teleport	Teletransporte Zul-Andra	name	object	Zul-Andra teleport
+Zul-Andra teleport	Teletransporte a Zul-Andra	name	object	Zul-Andra teleport
 Baker's stall	Puesto de panadería	name	object	Baker's stall
 Grape vine	Vid	name	object	Grape vine
 Dead vine	Vid muerta	name	object	Dead vine
@@ -17092,7 +17093,7 @@ Wine barrel	SIN TRADUCCION	name	object	Wine barrel
 Open hot vent door	Abrir la puerta de ventilación caliente	name	object	Open hot vent door
 Hot vent door	Ventilación caliente por	name	object	Hot vent door
 Sulphur vent	Ventilación de azufre	name	object	Sulphur vent
-Dwarf bath	Baño enano	name	object	Dwarf bath
+Dwarf bath	Baño de enano	name	object	Dwarf bath
 Multicannon parts	Piezas multicannon	name	object	Multicannon parts
 Canary	Canarias	name	object	Canary
 Blacksmiths' tools	Herramientas de herrería	name	object	Blacksmiths' tools
@@ -17296,7 +17297,7 @@ Darklight	Darklight	name	object	Darklight
 Excalibur	Excalibur	name	object	Excalibur
 Anti-Dragon Breath Shield	Escudo antialiento de dragón	name	object	Anti-Dragon Breath Shield
 Amulet of Glory	Amuleto de la gloria	name	object	Amulet of Glory
-Cape of Legends	Cabo de Leyenda	name	object	Cape of Legends
+Cape of Legends	Capa de leyendas	name	object	Cape of Legends
 Map	Mapa	name	object	Map
 Firepit	Hoguera	name	object	Firepit
 Firepit with hook	Hoguera con gancho	name	object	Firepit with hook
@@ -17508,7 +17509,7 @@ Snake	Serpiente	name	object	Snake
 Tchiki Monkey Nut Bush	Arbusto de nuez de mono Tchiki	name	object	Tchiki Monkey Nut Bush
 Strange banana tree	Extraño platanero	name	object	Strange banana tree
 Red Banana Tree	Platanero rojo	name	object	Red Banana Tree
-Dwarf remains	Restos enanos	name	object	Dwarf remains
+Dwarf remains	Restos de enano	name	object	Dwarf remains
 Wooden Beams	Vigas de madera	name	object	Wooden Beams
 Snow	Nieve	name	object	Snow
 Spotlight	Foco	name	object	Spotlight
@@ -17786,7 +17787,7 @@ Oak cape rack	Perchero de capa de roble	name	object	Oak cape rack
 Teak cape rack	Perchero de capa de teca	name	object	Teak cape rack
 Mahogany cape rack	Perchero de capa de caoba	name	object	Mahogany cape rack
 Gilded cape rack	Perchero de capa dorado	name	object	Gilded cape rack
-Marble cape rack	SIN TRADUCCION	name	object	Marble cape rack
+Marble cape rack	Perchero de capa de marmol	name	object	Marble cape rack
 Magic cape rack	Estante mágico para capas	name	object	Magic cape rack
 Fancy dress box	Caja de disfraces	name	object	Fancy dress box
 Armour case	Caja blindada	name	object	Armour case
@@ -18085,11 +18086,11 @@ Long branched tree	SIN TRADUCCION	name	object	Long branched tree
 A wooden log	SIN TRADUCCION	name	object	A wooden log
 Stepping stones	Peldaños	name	object	Stepping stones
 Oozing barrier	Barrera rezumante	name	object	Oozing barrier
-Telekinetic Teleport	Teletransporte telequinético	name	object	Telekinetic Teleport
-Enchanters Teleport	Teletransporte de encantadores	name	object	Enchanters Teleport
-Alchemists Teleport	SIN TRADUCCION	name	object	Alchemists Teleport
+Telekinetic Teleport	Teletransporte a Telekinético	name	object	Telekinetic Teleport
+Enchanters Teleport	Teletransporte a encantadores	name	object	Enchanters Teleport
+Alchemists Teleport	Teletransporte a Alquimista	name	object	Alchemists Teleport
 Graveyard Teleport	Teletransporte al cementerio	name	object	Graveyard Teleport
-Exit Teleport	Telepuerto de salida	name	object	Exit Teleport
+Exit Teleport	Teletransporte a salida	name	object	Exit Teleport
 Food pot	Olla de comida	name	object	Food pot
 Cube Pile	SIN TRADUCCION	name	object	Cube Pile
 Cylinder Pile	SIN TRADUCCION	name	object	Cylinder Pile
@@ -18243,10 +18244,10 @@ Potion	Poción	name	object	Potion
 Spectator potion	Poción de espectador	name	object	Spectator potion
 Dominic's coffer	SIN TRADUCCION	name	object	Dominic's coffer
 Rewards chest	Cofre de recompensas	name	object	Rewards chest
-Super ranging potion	Poción super ranging	name	object	Super ranging potion
-Super magic potion	Super poción mágica	name	object	Super magic potion
-Overload potion	SIN TRADUCCION	name	object	Overload potion
-Absorption potion	SIN TRADUCCION	name	object	Absorption potion
+Super ranging potion	Poción de superalcance	name	object	Super ranging potion
+Super magic potion	Poción de supermagia	name	object	Super magic potion
+Overload potion	Poción de sobrecarga	name	object	Overload potion
+Absorption potion	Poción de absorción	name	object	Absorption potion
 Anti-dragon shield	Escudo antidragón	name	object	Anti-dragon shield
 Magic secateurs	Tijeras de podar mágicas	name	object	Magic secateurs
 Chaos rune	Runa del caos	name	object	Chaos rune
@@ -18305,7 +18306,7 @@ Marker	Marcador	name	object	Marker
 Supermajority marker	Marcador de supermayoría	name	object	Supermajority marker
 Domination marker	SIN TRADUCCION	name	object	Domination marker
 Mounted Infernal Cape	Capa infernal montada	name	object	Mounted Infernal Cape
-Mounted Max Cape	Cabo Max montado	name	object	Mounted Max Cape
+Mounted Max Cape	Capa máxima montada	name	object	Mounted Max Cape
 Volcanic Forge	Fragua volcánica	name	object	Volcanic Forge
 Wilderness Statistics	SIN TRADUCCION	name	object	Wilderness Statistics
 Artefacts	Artefactos	name	object	Artefacts
@@ -18502,56 +18503,56 @@ Skotizo display	Skotizo display	name	object	Skotizo display
 Mounted Emblem	Emblema montado	name	object	Mounted Emblem
 Mounted Coins	Monedas montadas	name	object	Mounted Coins
 Cape hanger	Percha	name	object	Cape hanger
-Mounted Achievement Diary Cape	SIN TRADUCCION	name	object	Mounted Achievement Diary Cape
-Mounted Fire Cape	SIN TRADUCCION	name	object	Mounted Fire Cape
-Mounted Music Cape	SIN TRADUCCION	name	object	Mounted Music Cape
-Mounted Quest Cape	Capa de búsqueda montada	name	object	Mounted Quest Cape
-Mounted Agility Cape	Cabo de Agility montado	name	object	Mounted Agility Cape
-Mounted Agility Cape (t)	Cabo de agilidad montado (t)	name	object	Mounted Agility Cape (t)
+Mounted Achievement Diary Cape	Capa de Diario de Logros montada	name	object	Mounted Achievement Diary Cape
+Mounted Fire Cape	Capa de fuego montada	name	object	Mounted Fire Cape
+Mounted Music Cape	Capa de música montada	name	object	Mounted Music Cape
+Mounted Quest Cape	Capa de misiones montada	name	object	Mounted Quest Cape
+Mounted Agility Cape	Capa de agilidad montada	name	object	Mounted Agility Cape
+Mounted Agility Cape (t)	Capa de agilidad montada(t)	name	object	Mounted Agility Cape (t)
 Mounted Attack Cape	Capa de ataque montada	name	object	Mounted Attack Cape
-Mounted Attack Cape (t)	SIN TRADUCCION	name	object	Mounted Attack Cape (t)
-Mounted Construction Cape	Cabo de construcción montado	name	object	Mounted Construction Cape
-Mounted Construction Cape (t)	Cabo de construcción montado (t)	name	object	Mounted Construction Cape (t)
-Mounted Cooking Cape	SIN TRADUCCION	name	object	Mounted Cooking Cape
-Mounted Cooking Cape (t)	SIN TRADUCCION	name	object	Mounted Cooking Cape (t)
-Mounted Crafting Cape	SIN TRADUCCION	name	object	Mounted Crafting Cape
-Mounted Crafting Cape (t)	Capa de artesano montado (t)	name	object	Mounted Crafting Cape (t)
+Mounted Attack Cape (t)	Capa de ataque montada(t)	name	object	Mounted Attack Cape (t)
+Mounted Construction Cape	Capa de constructor montada	name	object	Mounted Construction Cape
+Mounted Construction Cape (t)	Capa de constructor montada(t)	name	object	Mounted Construction Cape (t)
+Mounted Cooking Cape	Capa de cocinero montada	name	object	Mounted Cooking Cape
+Mounted Cooking Cape (t)	Capa de cocinero montada(t)	name	object	Mounted Cooking Cape (t)
+Mounted Crafting Cape	Capa de artesano montada	name	object	Mounted Crafting Cape
+Mounted Crafting Cape (t)	Capa de artesano montada(t)	name	object	Mounted Crafting Cape (t)
 Mounted Defence Cape	Capa de defensa montada	name	object	Mounted Defence Cape
-Mounted Defence Cape (t)	Cabo de defensa montado (t)	name	object	Mounted Defence Cape (t)
-Mounted Farming Cape	Cabo de agricultura a caballo	name	object	Mounted Farming Cape
-Mounted Farming Cape (t)	SIN TRADUCCION	name	object	Mounted Farming Cape (t)
-Mounted Firemaking Cape	Capa montada para hacer fuego	name	object	Mounted Firemaking Cape
-Mounted Firemaking Cape (t)	Cabo de fuego montado (t)	name	object	Mounted Firemaking Cape (t)
-Mounted Fishing Cape	Cabo de pesca montado	name	object	Mounted Fishing Cape
-Mounted Fishing Cape (t)	SIN TRADUCCION	name	object	Mounted Fishing Cape (t)
-Mounted Fletching Cape	Cabo de plumas montado	name	object	Mounted Fletching Cape
-Mounted Fletching Cape (t)	Cabo de Fletching montado (t)	name	object	Mounted Fletching Cape (t)
-Mounted Herblore Cape	Capa herborizada montada	name	object	Mounted Herblore Cape
-Mounted Herblore Cape (t)	Cabo Herblore montado (t)	name	object	Mounted Herblore Cape (t)
-Mounted Hitpoints Cape	Capa de puntos de golpe montada	name	object	Mounted Hitpoints Cape
-Mounted Hitpoints Cape (t)	SIN TRADUCCION	name	object	Mounted Hitpoints Cape (t)
-Mounted Hunting Cape	Cabo de caza montado	name	object	Mounted Hunting Cape
-Mounted Hunting Cape (t)	Cabo de caza montado (t)	name	object	Mounted Hunting Cape (t)
-Mounted Magic Cape	Capa mágica montada	name	object	Mounted Magic Cape
-Mounted Magic Cape (t)	SIN TRADUCCION	name	object	Mounted Magic Cape (t)
-Mounted Mining Cape	SIN TRADUCCION	name	object	Mounted Mining Cape
-Mounted Mining Cape (t)	Cabo minero montado (t)	name	object	Mounted Mining Cape (t)
+Mounted Defence Cape (t)	Capa de defensa montada(t)	name	object	Mounted Defence Cape (t)
+Mounted Farming Cape	Capa de agricultor montada	name	object	Mounted Farming Cape
+Mounted Farming Cape (t)	Capa de agricultor montada(t)	name	object	Mounted Farming Cape (t)
+Mounted Firemaking Cape	Capa de pirómano montada	name	object	Mounted Firemaking Cape
+Mounted Firemaking Cape (t)	Capa de pirómano montada(t)	name	object	Mounted Firemaking Cape (t)
+Mounted Fishing Cape	Capa de pescador montada	name	object	Mounted Fishing Cape
+Mounted Fishing Cape (t)	Capa de pescador montada(t)	name	object	Mounted Fishing Cape (t)
+Mounted Fletching Cape	Capa de Fletching montada	name	object	Mounted Fletching Cape
+Mounted Fletching Cape (t)	Capa de Fletching montada(t)	name	object	Mounted Fletching Cape (t)
+Mounted Herblore Cape	Capa de herblore montada	name	object	Mounted Herblore Cape
+Mounted Herblore Cape (t)	Capa de herblore montada(t)	name	object	Mounted Herblore Cape (t)
+Mounted Hitpoints Cape	Capa de puntos de vida montada	name	object	Mounted Hitpoints Cape
+Mounted Hitpoints Cape (t)	Capa de puntos de vida montada(t)	name	object	Mounted Hitpoints Cape (t)
+Mounted Hunting Cape	Capa de cazador montada	name	object	Mounted Hunting Cape
+Mounted Hunting Cape (t)	Capa de cazador montada(t)	name	object	Mounted Hunting Cape (t)
+Mounted Magic Cape	Capa de magia montada	name	object	Mounted Magic Cape
+Mounted Magic Cape (t)	Capa de magia montada(t)	name	object	Mounted Magic Cape (t)
+Mounted Mining Cape	Capa de minero montada	name	object	Mounted Mining Cape
+Mounted Mining Cape (t)	Capa de minero montada(t)	name	object	Mounted Mining Cape (t)
 Mounted Prayer Cape	Capa de oración montada	name	object	Mounted Prayer Cape
-Mounted Prayer Cape (t)	Capa de oración montada (t)	name	object	Mounted Prayer Cape (t)
-Mounted Ranged Cape	Capa a distancia montada	name	object	Mounted Ranged Cape
-Mounted Ranged Cape (t)	Capa a distancia montada (t)	name	object	Mounted Ranged Cape (t)
-Mounted Runecrafting Cape	SIN TRADUCCION	name	object	Mounted Runecrafting Cape
-Mounted Runecrafting Cape (t)	Cabo de Runecrafting montado (t)	name	object	Mounted Runecrafting Cape (t)
-Mounted Slayer Cape	Capa de cazador montado	name	object	Mounted Slayer Cape
-Mounted Slayer Cape (t)	SIN TRADUCCION	name	object	Mounted Slayer Cape (t)
-Mounted Smithing Cape	SIN TRADUCCION	name	object	Mounted Smithing Cape
-Mounted Smithing Cape (t)	SIN TRADUCCION	name	object	Mounted Smithing Cape (t)
-Mounted Strength Cape	Cabo de fuerza montado	name	object	Mounted Strength Cape
-Mounted Strength Cape (t)	Cabo de fuerza montado (t)	name	object	Mounted Strength Cape (t)
-Mounted Thieving Cape	Capa de ladrón montado	name	object	Mounted Thieving Cape
+Mounted Prayer Cape (t)	Capa de oración montada(t)	name	object	Mounted Prayer Cape (t)
+Mounted Ranged Cape	Capa de arquería montada	name	object	Mounted Ranged Cape
+Mounted Ranged Cape (t)	Capa de arquería montada(t)	name	object	Mounted Ranged Cape (t)
+Mounted Runecrafting Cape	Capa de Runecrafting montada	name	object	Mounted Runecrafting Cape
+Mounted Runecrafting Cape (t)	Capa de  Runecrafting montada(t)	name	object	Mounted Runecrafting Cape (t)
+Mounted Slayer Cape	Capa de asesino montada	name	object	Mounted Slayer Cape
+Mounted Slayer Cape (t)	Capa de asesino montada(t)	name	object	Mounted Slayer Cape (t)
+Mounted Smithing Cape	Capa de herrero montada	name	object	Mounted Smithing Cape
+Mounted Smithing Cape (t)	Capa de herrero montada(t)	name	object	Mounted Smithing Cape (t)
+Mounted Strength Cape	Capa de fuerza montada	name	object	Mounted Strength Cape
+Mounted Strength Cape (t)	Capa de fuerza montada(t)	name	object	Mounted Strength Cape (t)
+Mounted Thieving Cape	Capa de ladrón montada	name	object	Mounted Thieving Cape
 Mounted Thieving Cape (t)	Capa de ladrón montada (t)	name	object	Mounted Thieving Cape (t)
-Mounted Woodcutting Cape	SIN TRADUCCION	name	object	Mounted Woodcutting Cape
-Mounted Woodcutting Cape (t)	Cabo de leñador montado (t)	name	object	Mounted Woodcutting Cape (t)
+Mounted Woodcutting Cape	Capa de leñador montada	name	object	Mounted Woodcutting Cape
+Mounted Woodcutting Cape (t)	Capa de leñador montada(t)	name	object	Mounted Woodcutting Cape (t)
 Quest List	Lista de misiones	name	object	Quest List
 Topiary bush	SIN TRADUCCION	name	object	Topiary bush
 Kraken Topiary	SIN TRADUCCION	name	object	Kraken Topiary
@@ -18686,7 +18687,7 @@ Ancestral Glyph	Glifo ancestral	name	object	Ancestral Glyph
 Falling rock	Caída de rocas	name	object	Falling rock
 Castle Wars portal	Portal de la Guerra de los Castillos	name	object	Castle Wars portal
 Mysterious pool	SIN TRADUCCION	name	object	Mysterious pool
-Mounted Champion's Cape	Capa de Campeón Montado	name	object	Mounted Champion's Cape
+Mounted Champion's Cape	Capa de campeón montada	name	object	Mounted Champion's Cape
 Mahogany sapling	Plantón de caoba	name	object	Mahogany sapling
 Mahogany tree stump	Tocón de caoba	name	object	Mahogany tree stump
 Diseased Mahogany	Caoba enferma	name	object	Diseased Mahogany
@@ -18888,7 +18889,7 @@ Deadman display	Pantalla de hombre muerto	name	object	Deadman display
 World map display	Visualización del mapa del mundo	name	object	World map display
 Fossil Island display case	Vitrina de la Isla Fósil	name	object	Fossil Island display case
 Ironman & Ultimate Ironwoman	Ironman y Ultimate Ironwoman	name	object	Ironman & Ultimate Ironwoman
-Hardcore Ironman	Ironman duro	name	object	Hardcore Ironman
+Hardcore Ironman	Hardcore Ironman	name	object	Hardcore Ironman
 Monkey Madness II display	SIN TRADUCCION	name	object	Monkey Madness II display
 Rooftop Agility display	Exhibición de agilidad en el tejado	name	object	Rooftop Agility display
 Nightmare zone display	Visualización de la zona de pesadilla	name	object	Nightmare zone display
@@ -19219,7 +19220,7 @@ Orb of light	Orbe de luz	name	object	Orb of light
 Watchtower	Atalaya	name	object	Watchtower
 Grain sacks	Sacos de grano	name	object	Grain sacks
 Corrupted Sceptre	Cetro corrompido	name	object	Corrupted Sceptre
-Teleport Platform	SIN TRADUCCION	name	object	Teleport Platform
+Teleport Platform	Plataforma de teletransporte	name	object	Teleport Platform
 Singing Bowl	Cuenco cantor	name	object	Singing Bowl
 Corrupt Deposit	Depósito corrupto	name	object	Corrupt Deposit
 Corrupt Deposit (Depleted)	Depósito corrupto (agotado)	name	object	Corrupt Deposit (Depleted)
@@ -19520,7 +19521,7 @@ Fortified gate	Puerta fortificada	name	object	Fortified gate
 Clan banner	Estandarte del clan	name	object	Clan banner
 Clan hall portal	Portal de la sala del clan	name	object	Clan hall portal
 Clan recruitment board	SIN TRADUCCION	name	object	Clan recruitment board
-Iron pickaxe	Piqueta de hierro	name	object	Iron pickaxe
+Iron pickaxe	Pico de hierro	name	object	Iron pickaxe
 Panel	Panel	name	object	Panel
 Arceuus statue	Estatua de Arceuus	name	object	Arceuus statue
 Hosidius statue	Estatua de Hosidio	name	object	Hosidius statue
@@ -19861,7 +19862,7 @@ Church Brazier	Brasero de iglesia	name	object	Church Brazier
 Ancient banner	Bandera antigua	name	object	Ancient banner
 Iron maiden	Doncella de hierro	name	object	Iron maiden
 Puddle	Charco	name	object	Puddle
-Teleporter	SIN TRADUCCION	name	object	Teleporter
+Teleporter	Teletransportador	name	object	Teleporter
 Shadow Blocker	Bloqueador de sombras	name	object	Shadow Blocker
 Revitalising Idol	Revitalizar el ídolo	name	object	Revitalising Idol
 Anima Portal	Portal Anima	name	object	Anima Portal
@@ -20006,7 +20007,7 @@ Weapon table	Tabla de armas	name	object	Weapon table
 Metal doors	Puertas metálicas	name	object	Metal doors
 Human detection spell	Hechizo de detección humana	name	object	Human detection spell
 Caged Killerwatt	SIN TRADUCCION	name	object	Caged Killerwatt
-Mounted Dizana's Max Cape	Capa Max de Dizana montada	name	object	Mounted Dizana's Max Cape
+Mounted Dizana's Max Cape	Capa máxima de Dizana's montada	name	object	Mounted Dizana's Max Cape
 Civitas illa Fortis Portal	Portal Civitas illa Fortis	name	object	Civitas illa Fortis Portal
 Molten Sand	Arena fundida	name	object	Molten Sand
 Colosseum scoreboard	Marcador del Coliseo	name	object	Colosseum scoreboard
@@ -20369,3 +20370,6 @@ Strange statue	SIN TRADUCCION	name	object	Strange statue
 Picnic	Picnic	name	object	Picnic
 Gemstone rock	Piedra preciosa	name	object	Gemstone rock
 Debug Wall	SIN TRADUCCION	name	object	Debug Wall
+Dye Pots		name	object	Dye Pots
+Rope bridge support		name	object	Rope bridge support
+Termite Mound		name	object	Termite Mound

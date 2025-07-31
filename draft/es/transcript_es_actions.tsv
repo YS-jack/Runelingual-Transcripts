@@ -1575,6 +1575,7 @@ Decorate	Decorar	actions	object	Oak totem
 Carve	Tallar	actions	object	Oak totem
 General-stats	Estadísticas generales	actions	object	Scoreboard
 Delve-stats	Estadísticas de excavación	actions	object	Scoreboard
+search		actions	object	Desk
 Follow	Seguir	actions	player	
 Trade with	Comerciar con	actions	player	
 Lookup	Buscar	actions	player	

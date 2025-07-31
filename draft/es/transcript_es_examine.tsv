@@ -8552,6 +8552,8 @@ Perfect for balancing on your head.		examine	item	Orange
 A letter sent long ago.		examine	item	Old letter
 A tasty treat that can't be beat.		examine	item	Blueberry muffin
 Doom on a small scale.		examine	item	Dom
+A key to the lair of Obor, the Hill Titan.		examine	item	Giant key
+A key to the lair of Bryophyta, the Moss Giantess.		examine	item	Mossy key
 A very smelly ghost.		examine	npc	Aberrant spectre
 An evil death demon.		examine	npc	Nechryael
 Reminds me of playing pooh sticks.		examine	npc	Twig
@@ -13270,6 +13272,9 @@ Likes a good bow and arrow.		examine	npc	Arcuani
 The shiniest crustacean this side of the shoreline.		examine	npc	Gemstone Crab
 The sparkling shell of a giant crab.		examine	npc	Gemstone Crab Shell
 I wonder what his siblings are called...		examine	npc	Ru Merald
+A strange mole-like being.		examine	npc	Molanisk
+A witch.		examine	npc	Winelda
+He seems to like deviled eggs.		examine	npc	Yama's throne
 Looks and smells like a place where goblins live.		examine	object	Cave Entrance
 The door is closed.		examine	object	Door
 A powerful ranging device, unfortunately not working.		examine	object	Broken multicannon
@@ -23318,3 +23323,12 @@ How unusual.		examine	object	Strange statue
 A colorful spread of various fruits, fresh orange juice, and a nojito!		examine	object	Picnic
 Very nice.		examine	object	Flowers
 I wonder where this could lead to...		examine	object	Cave
+Big mysterious crate. You wonder what could be inside.		examine	object	Crate
+Staves in a Barrel.		examine	object	Barrel
+An imposing stone structure.		examine	object	Trellis
+Pots full of dye.		examine	object	Dye Pots
+A scary rope bridge.		examine	object	Rope bridge support
+A public noticeboard for Draynor Village.		examine	object	Notice board
+Welcome to the FINAL of the DMM21 tournement!		examine	object	Banner
+A Redwood tree.		examine	object	Redwood tree
+The termites scurry within.		examine	object	Termite Mound
