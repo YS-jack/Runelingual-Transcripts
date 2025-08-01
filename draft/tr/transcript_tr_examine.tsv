@@ -8479,6 +8479,81 @@ A jewel that amascut once used and has now discarded.		examine	item	Jewel of ama
 A very old enchanted ring.		examine	item	Steel ring
 Bigger than big bones		examine	item	Giant bones
 Sharks just can't get enough of these		examine	item	Shark lure
+Maybe I should open it...		examine	item	Minor beginner scroll case
+It's been in the river.		examine	item	Wet fabric scrap
+Some tasty blue berries.		examine	item	Caerula berries
+Apparently helps with nerves.		examine	item	Mind mender
+A small leather coin purse with some money in it.		examine	item	Coin purse
+An empty leather coin purse.		examine	item	Empty coin purse
+A sand-filled leather coin purse.		examine	item	Sandy coin purse
+Should just about do the job.		examine	item	Makeshift blackjack
+A springy branch.		examine	item	Branch
+An empty potato sack with convenient eye holes.		examine	item	Potato sack
+A scroll with a message for Metzli.		examine	item	Emissary scroll
+The face of the sun, painted on canvas.		examine	item	Canvas piece
+An ornate key.		examine	item	Key
+A powerful sword imbued with the fire of the sun.		examine	item	Arkan blade
+Shaped from rock that was sharpened by time.		examine	item	Earthbound tecpatl
+A strange shard, filled with energy.		examine	item	Keystone fragment
+A ancient piece of essence.		examine	item	Kuhu essence
+Very old roots.		examine	item	Ancient roots
+Good for starting fires.		examine	item	Root kindling
+It's very old and lacks a handle, but it should still be usable.		examine	item	Knife blade
+A portable teleporter.		examine	item	Ancient teleporter
+A larger than normal chicken egg.		examine	item	Large egg
+The egg of a dragon. It feels slightly warm.		examine	item	Dragon egg
+The egg of a jaguar... apparently.		examine	item	Jaguar egg
+An egg.		examine	item	Egg
+RIP.		examine	item	Alan's bones
+A pot of Alan's crushed bones.		examine	item	Alan's bonemeal
+Leaves from a fragrant shrub.		examine	item	Damiana leaves
+It's a bowl of water, with some damiana leaves in it.		examine	item	Damiana water
+It's a bowl of damiana tea.		examine	item	Damiana tea
+It's a bowl of milky damiana tea.		examine	item	Damiana tea
+A nice cup of damiana tea.		examine	item	Cup of tea
+A milky cup of damiana tea.		examine	item	Cup of tea
+It needs repairing.		examine	item	Acatzin's axe
+It looks much better now.		examine	item	Acatzin's axe
+I can make some atlatl darts with these.		examine	item	Atlatl dart tips
+An atlatl dart shaft.		examine	item	Atlatl dart shaft
+An atlatl dart shaft with flights attached.		examine	item	Headless atlatl dart
+Ranulph's notes on ents.		examine	item	Sacraments of ent folk
+A curious seed left by an ent.		examine	item	Ent seed
+A mountable carving of a woodland spirit.		examine	item	Greenman carving
+A garden statue of a woodland spirit.		examine	item	Greenman statue
+A carving of a woodland spirit.		examine	item	Greenman carving
+A branch from an ent.		examine	item	Ent branch
+Makes you feel at one with nature.		examine	item	Greenman mask
+A crafty looking knife.		examine	item	Fletching knife
+A tightly bound bundle of flax.		examine	item	Bale of flax
+I can clean these.		examine	item	Dirty arrowtips
+A decorative staff that provides support when hiking.		examine	item	Redwood hiking staff
+A spool for holding many bow strings.		examine	item	Bow string spool
+If I collect enough of these, I might find something useful.		examine	item	Vale offerings
+A scrappy and unsent letter.		examine	item	Letter
+A neatly written yet unsent letter.		examine	item	Letter
+A discarded book detailing patterns of animal migration in northern Varlamore.		examine	item	On migration patterns
+A collection of hunter reports regarding the Auburn Valley.		examine	item	Auburn valley ecological reports
+Surprisingly flexible.		examine	item	Antler guard
+A ring that presumably belonged to an alchemist.		examine	item	Alchemist's signet
+A broken antler from a custodian stalker.		examine	item	Broken antler
+A finely crafted pair of boots.		examine	item	Avernic treads
+A pair of boots with the power of Primordial boots.		examine	item	Avernic treads (pr)
+A pair of boots with the power of Pegasian boots.		examine	item	Avernic treads (pe)
+A pair of boots with the power of Eternal boots.		examine	item	Avernic treads (et)
+A pair of boots with the power of Primordial and Pegasian boots.		examine	item	Avernic treads (pr)(pe)
+A pair of boots with the power of Primordial and Eternal boots.		examine	item	Avernic treads (pr)(et)
+A pair of boots with the power of Pegasian and Eternal boots.		examine	item	Avernic treads (pe)(et)
+A pair of boots with the power of Primordial, Pegasian and Eternal boots.		examine	item	Avernic treads (max)
+A magical shard linked to Mokhaiotl.		examine	item	Mokhaiotl waystone
+A finely crafted pair of gloves, infused with magic power.		examine	item	Confliction gauntlets
+A rare cloth imbued with wild magic, left behind by a fallen monster.		examine	item	Mokhaiotl cloth
+This staff is imbued with demonic power.		examine	item	Eye of ayak
+This staff is imbued with demonic power. It is currently uncharged.		examine	item	Eye of ayak (uncharged)
+Perfect for balancing on your head.		examine	item	Orange
+A letter sent long ago.		examine	item	Old letter
+A tasty treat that can't be beat.		examine	item	Blueberry muffin
+Doom on a small scale.		examine	item	Dom
 Looks after your farming tools.	ciftcilik aletlerinize bakar.	examine	npc	Tool Leprechaun
 A strange mole-like being.	Garip bir köstebek benzeri varlik.	examine	npc	Molanisk
 A very smelly ghost.	cok kokan bir hayalet.	examine	npc	Aberrant spectre
@@ -13078,6 +13153,7 @@ A sweet little dog with a great hairdo!	Harika bir sac modeli olan tatli kücük
 Charlie's best friend!	Charlie'nin en iyi arkadasi!	examine	npc	Duke
 Would you believe it, that dog was a cat all along!	Inanir misin, o köpek basindan beri kediydi!	examine	npc	Kimba
 A witch.		examine	npc	Aggie
+I wonder what his siblings are called...		examine	npc	Hambling
 Big mysterious crate. You wonder what could be inside.	Büyük gizemli sandik. Icinde ne olabilecegini merak ediyorsun.	examine	object	Crate
 Looks and smells like a place where goblins live.	Goblinlerin yasadigi bir yer gibi görünüyor ve kokuyor.	examine	object	Cave Entrance
 The door is closed.	Kapi kapali.	examine	object	Door
@@ -22941,3 +23017,6 @@ Judgement of the Vanguard.	Öncülerin Yargisi.	examine	object	Vanguard Judgemen
 Confessions of a troubled soul.	Sorunlu bir ruhun itiraflari.	examine	object	Houndmaster's Diary
 There are some buckets on this table.	Bu masada bazi kovalar var.	examine	object	Table
 There are some rune pouches here.	Burada bazi rün keseleri var.	examine	object	Table
+Commonly found in these parts.		examine	object	Plant
+Pots full of dye.		examine	object	Dye pots
+The termites scurry within.		examine	object	Termite mound

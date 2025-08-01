@@ -4664,25 +4664,25 @@ You have <colNum0><Num0></col> days of membership left.	Üyeliginizin <colNum0><
 You have <colNum0><Num0></col> day of membership left.	Üyeliginizin <colNum0><Num0></col> günü kaldi.	interface	loginScreen	
 You are not a member. Subscribe to access extra skills, areas, quests, and more.	Üye degilsiniz. Ekstra beceriler, alanlar, görevler ve daha fazlasina erismek icin abone olun.	interface	loginScreen	
 You have <Num0> unread messages in your inbox.	Gelen kutunuzda <Num0> okunmamis mesajiniz var.	interface	loginScreen	
-CLICK HERE TO PLAY	OYNAMAK IcIN TIKLAYIN	interface	loginScreen	
+CLICK HERE TO PLAY	OYNAMAK IÇIN TIKLAYIN	interface	loginScreen	
 It's been some time coming but this weeks update contains almost all of the QoL changes as proposed in <colNum0>Poll <Num0></col>! With a variety of changes, please check out the <colNum1>update post</col> for all the latest info!	Biraz zaman aldi ama bu haftaki güncelleme yeni dil paketini getirdi	interface	loginScreen	
 Friends - W<Num0> (<Num1>/<Num2>)		interface	mainTabs	friendsTab
 <colNum0>World <Num0>		interface	mainTabs	friendsTab
 World <Num0>		interface	mainTabs	friendsTab
-Offline		interface	mainTabs	friendsTab
+Offline	Çevrimdisi	interface	mainTabs	friendsTab
 Del Friend		interface	mainTabs	friendsTab
 Ignores - W<Num0> (<Num1>/<Num2>)		interface	mainTabs	ignoreTab
-Add Name		interface	mainTabs	ignoreTab
+Add Name	Ad Ekle	interface	mainTabs	ignoreTab
 Del Name		interface	mainTabs	ignoreTab
-Add Friend		interface	mainTabs	friendsTab
-You may ignore users by using the button below, or by right-clicking on a message from them and selecting to add them to your ignore list.		interface	mainTabs	ignoreTab
-You may add friends by using the button below, or by right-clicking on a message from them and selecting to add them as a friend.		interface	mainTabs	friendsTab
+Add Friend	Arkadas Ekle	interface	mainTabs	friendsTab
+You may ignore users by using the button below, or by right-clicking on a message from them and selecting to add them to your ignore list.	Asagidaki dügmeyi kullanarak veya kullanicilarin mesajlarina sag tiklayip onlari görmezden gelme listesine eklemeyi seçerek kullanicilari görmezden gelebilirsiniz.	interface	mainTabs	ignoreTab
+You may add friends by using the button below, or by right-clicking on a message from them and selecting to add them as a friend.	Asagidaki dügmeyi kullanarak veya kullanicilarin mesajlarina sag tiklayip onlari arkadas olarak eklemeyi seçerek arkadas ekleyebilirsiniz.	interface	mainTabs	friendsTab
 Account		interface	mainTabs	accountManagementTab
 Membership: <Num0> days left		interface	mainTabs	accountManagementTab
 Open Store		interface	mainTabs	accountManagementTab
 Bond Pouch		interface	mainTabs	accountManagementTab
 Inbox: <Num0> unread messages		interface	mainTabs	accountManagementTab
-View Inbox		interface	mainTabs	accountManagementTab
+View Inbox	Gelen Kutusu'nu Görüntüle	interface	mainTabs	accountManagementTab
 Name Changer		interface	mainTabs	accountManagementTab
 Membership: <colNum0>None</col>		interface	mainTabs	accountManagementTab
 Upgrade Now		interface	mainTabs	accountManagementTab
