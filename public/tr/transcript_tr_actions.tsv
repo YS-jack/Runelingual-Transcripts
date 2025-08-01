@@ -47,7 +47,7 @@ Unhide	Gizlemeyi kaldir	actions	menu	prayerTab
 Deactivate	Devre disi birak	actions	menu	prayerTab
 Animation	Animasyon	actions	menu	spellBookTab
 Hide	Gizle	actions	menu	spellBookTab
-Cast	Oynat	actions	menu	spellBookTab
+Cast	Büyü-yap	actions	menu	spellBookTab
 Unhide	Gizlemeyi kaldir	actions	menu	spellBookTab
 View	Görüntüle	actions	menu	spellBookTab
 Warnings	Uyarilar	actions	menu	spellBookTab
@@ -695,6 +695,13 @@ Stats	Istatistikler	actions	npc	Worm Tongue
 Sacrifice	Kurban	actions	npc	Branda the Fire Queen
 Take pages	Sayfalari al	actions	npc	Branda the Fire Queen
 Examine	Incele	actions	npc	
+Whack		actions	npc	Forebearer Janus
+Translate		actions	npc	Prince Itzla Arkan
+Fix		actions	npc	Humphrey Dumphrey
+Tal Teklan		actions	npc	Achilka
+Gloomthorn Trail		actions	npc	Achilka
+Kastori		actions	npc	Achilka
+Directions		actions	npc	Ru Merald
 Search	Ara	actions	object	Crate
 Enter	Gir	actions	object	Cave Entrance
 Open	Ac	actions	object	Door
@@ -1564,6 +1571,11 @@ Trophies	Kupalar	actions	object	Teak display
 Bottom-Floor	Alt kat	actions	object	Ladder
 Quench	Söndür	actions	object	Pool of ichor
 Hang-over	Hangover	actions	object	Platform edge
+Move-Itzla		actions	object	Northern platform
+Decorate		actions	object	Oak totem
+Carve		actions	object	Oak totem
+General-stats		actions	object	Scoreboard
+Delve-stats		actions	object	Scoreboard
 Follow	Takip et	actions	player	
 Trade with	Ticaret yap	actions	player	
 Lookup	Ara	actions	player	
