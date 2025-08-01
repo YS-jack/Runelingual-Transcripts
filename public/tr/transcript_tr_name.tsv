@@ -10733,6 +10733,92 @@ Jewel of amascut		name	item	Jewel of amascut
 Steel ring		name	item	Steel ring
 Giant bones		name	item	Giant bones
 Shark lure		name	item	Shark lure
+Minor beginner scroll case		name	item	Minor beginner scroll case
+Major beginner scroll case		name	item	Major beginner scroll case
+Minor easy scroll case		name	item	Minor easy scroll case
+Major easy scroll case		name	item	Major easy scroll case
+Minor medium scroll case		name	item	Minor medium scroll case
+Major medium scroll case		name	item	Major medium scroll case
+Minor hard scroll case		name	item	Minor hard scroll case
+Major hard scroll case		name	item	Major hard scroll case
+Minor elite scroll case		name	item	Minor elite scroll case
+Major elite scroll case		name	item	Major elite scroll case
+Minor master scroll case		name	item	Minor master scroll case
+Major master scroll case		name	item	Major master scroll case
+Mimic scroll case		name	item	Mimic scroll case
+Wet fabric scrap		name	item	Wet fabric scrap
+Caerula berries		name	item	Caerula berries
+Mind mender		name	item	Mind mender
+Coin purse		name	item	Coin purse
+Empty coin purse		name	item	Empty coin purse
+Sandy coin purse		name	item	Sandy coin purse
+Makeshift blackjack		name	item	Makeshift blackjack
+Potato sack		name	item	Potato sack
+Emissary scroll		name	item	Emissary scroll
+Canvas piece		name	item	Canvas piece
+Arkan blade		name	item	Arkan blade
+Earthbound tecpatl		name	item	Earthbound tecpatl
+Keystone fragment		name	item	Keystone fragment
+Kuhu essence		name	item	Kuhu essence
+Ancient roots		name	item	Ancient roots
+Root kindling		name	item	Root kindling
+Knife blade		name	item	Knife blade
+Ancient teleporter		name	item	Ancient teleporter
+Large egg		name	item	Large egg
+Dragon egg		name	item	Dragon egg
+Jaguar egg		name	item	Jaguar egg
+Alan's bones		name	item	Alan's bones
+Alan's bonemeal		name	item	Alan's bonemeal
+Damiana leaves		name	item	Damiana leaves
+Damiana water		name	item	Damiana water
+Damiana tea		name	item	Damiana tea
+Acatzin's axe		name	item	Acatzin's axe
+Custodian stalker		name	item	Custodian stalker
+Events tool		name	item	Events tool
+Atlatl dart tips		name	item	Atlatl dart tips
+Atlatl dart shaft		name	item	Atlatl dart shaft
+Headless atlatl dart		name	item	Headless atlatl dart
+Sacraments of ent folk		name	item	Sacraments of ent folk
+Ent seed		name	item	Ent seed
+Greenman carving		name	item	Greenman carving
+Greenman statue		name	item	Greenman statue
+Ent branch		name	item	Ent branch
+Greenman mask		name	item	Greenman mask
+Greenman mask (normal)		name	item	Greenman mask (normal)
+Greenman mask (oak)		name	item	Greenman mask (oak)
+Greenman mask (willow)		name	item	Greenman mask (willow)
+Greenman mask (maple)		name	item	Greenman mask (maple)
+Greenman mask (yew)		name	item	Greenman mask (yew)
+Greenman mask (magic)		name	item	Greenman mask (magic)
+Fletching knife		name	item	Fletching knife
+Bale of flax		name	item	Bale of flax
+Dirty arrowtips		name	item	Dirty arrowtips
+Redwood hiking staff		name	item	Redwood hiking staff
+Bow string spool		name	item	Bow string spool
+Vale offerings		name	item	Vale offerings
+Alan's blessed bones		name	item	Alan's blessed bones
+On migration patterns		name	item	On migration patterns
+Auburn valley ecological reports		name	item	Auburn valley ecological reports
+Antler guard		name	item	Antler guard
+Alchemist's signet		name	item	Alchemist's signet
+Broken antler		name	item	Broken antler
+Avernic treads		name	item	Avernic treads
+Avernic treads (pr)		name	item	Avernic treads (pr)
+Avernic treads (pe)		name	item	Avernic treads (pe)
+Avernic treads (et)		name	item	Avernic treads (et)
+Avernic treads (pr)(pe)		name	item	Avernic treads (pr)(pe)
+Avernic treads (pr)(et)		name	item	Avernic treads (pr)(et)
+Avernic treads (pe)(et)		name	item	Avernic treads (pe)(et)
+Avernic treads (max)		name	item	Avernic treads (max)
+Mokhaiotl waystone		name	item	Mokhaiotl waystone
+Confliction gauntlets		name	item	Confliction gauntlets
+Mokhaiotl cloth		name	item	Mokhaiotl cloth
+Demon tear		name	item	Demon tear
+Eye of ayak		name	item	Eye of ayak
+Eye of ayak (uncharged)		name	item	Eye of ayak (uncharged)
+Old letter		name	item	Old letter
+Blueberry muffin		name	item	Blueberry muffin
+Dom		name	item	Dom
 level		name	level	
 Redemption		name	menu	prayerTab
 Protect Item		name	menu	prayerTab
@@ -15401,6 +15487,107 @@ Other		name	npc
 Mimic		name	npc	
 Thermy		name	npc	
 Chambers of Xeric: CM		name	npc	
+Hambling		name	npc	Hambling
+Vorbio		name	npc	Vorbio
+Marcus		name	npc	Marcus
+Antos		name	npc	Antos
+Ictus		name	npc	Ictus
+Aemilia		name	npc	Aemilia
+Injured boy		name	npc	Injured boy
+Shas		name	npc	Shas
+Captain Ariadna		name	npc	Captain Ariadna
+Etz		name	npc	Etz
+Faaid		name	npc	Faaid
+Citlalli		name	npc	Citlalli
+Ecatl		name	npc	Ecatl
+Gus		name	npc	Gus
+Emissary Enforcer		name	npc	Emissary Enforcer
+Captain Vibia		name	npc	Captain Vibia
+Galna		name	npc	Galna
+Teumo		name	npc	Teumo
+Highlord Katlo		name	npc	Highlord Katlo
+Tornado		name	npc	Tornado
+Chimalli		name	npc	Chimalli
+Lucius		name	npc	Lucius
+Ikniu		name	npc	Ikniu
+Tonali Archer		name	npc	Tonali Archer
+Tonali Warrior		name	npc	Tonali Warrior
+Emissary Archer		name	npc	Emissary Archer
+Tonali Teleporter		name	npc	Tonali Teleporter
+Earthen Nagua		name	npc	Earthen Nagua
+Humphrey Dumphrey		name	npc	Humphrey Dumphrey
+Chicken Egg		name	npc	Chicken Egg
+Dragon Egg		name	npc	Dragon Egg
+Jaguar Egg		name	npc	Jaguar Egg
+King		name	npc	King
+Nezketi		name	npc	Nezketi
+Kauayotl		name	npc	Kauayotl
+Acatzin		name	npc	Acatzin
+Large chicken		name	npc	Large chicken
+Aub		name	npc	Aub
+Tziuhtla		name	npc	Tziuhtla
+Ehecatl		name	npc	Ehecatl
+Dom		name	npc	Dom
+Ancient Custodian		name	npc	Ancient Custodian
+Bees		name	npc	Bees
+Flying squirrel		name	npc	Flying squirrel
+Ocelot		name	npc	Ocelot
+Ocelot kitten		name	npc	Ocelot kitten
+Pygmy hippo		name	npc	Pygmy hippo
+Pygmy hippo calf		name	npc	Pygmy hippo calf
+Tapir		name	npc	Tapir
+Tapir calf		name	npc	Tapir calf
+Anteater		name	npc	Anteater
+Squirrel monkey		name	npc	Squirrel monkey
+Macaw		name	npc	Macaw
+Caique		name	npc	Caique
+Ranulph		name	npc	Ranulph
+Isadora		name	npc	Isadora
+Buffalo spirit		name	npc	Buffalo spirit
+Jaguar spirit		name	npc	Jaguar spirit
+Eagle spirit		name	npc	Eagle spirit
+Snake spirit		name	npc	Snake spirit
+Scorpion spirit		name	npc	Scorpion spirit
+Lunami		name	npc	Lunami
+Sebamo		name	npc	Sebamo
+Chouani		name	npc	Chouani
+Dominicus, Teoki of Ranul		name	npc	Dominicus, Teoki of Ranul
+Litlihui, Teoki of Ralos		name	npc	Litlihui, Teoki of Ralos
+Taz		name	npc	Taz
+Ocuil		name	npc	Ocuil
+Toch		name	npc	Toch
+Jasper		name	npc	Jasper
+Bernard		name	npc	Bernard
+Adrinus		name	npc	Adrinus
+Juvenile custodian stalker		name	npc	Juvenile custodian stalker
+Mature custodian stalker		name	npc	Mature custodian stalker
+Elder custodian stalker		name	npc	Elder custodian stalker
+Baby custodian stalker		name	npc	Baby custodian stalker
+Strange creature		name	npc	Strange creature
+Doom of Mokhaiotl		name	npc	Doom of Mokhaiotl
+Doom of Mokhaiotl (Shielded)		name	npc	Doom of Mokhaiotl (Shielded)
+Doom of Mokhaiotl (Burrowed)		name	npc	Doom of Mokhaiotl (Burrowed)
+Demonic larva		name	npc	Demonic larva
+Demonic range larva		name	npc	Demonic range larva
+Demonic magic larva		name	npc	Demonic magic larva
+Demonic melee larva		name	npc	Demonic melee larva
+Volatile earth		name	npc	Volatile earth
+Earthen shield		name	npc	Earthen shield
+Xopanatl, Teoki of Ralos		name	npc	Xopanatl, Teoki of Ralos
+Nenetl, Teoki of Ranul		name	npc	Nenetl, Teoki of Ranul
+Jatziri, Teoki of Ralos		name	npc	Jatziri, Teoki of Ralos
+Achilka		name	npc	Achilka
+Felix		name	npc	Felix
+Xilo		name	npc	Xilo
+Fabia		name	npc	Fabia
+Kiyahtla		name	npc	Kiyahtla
+Ameyalli		name	npc	Ameyalli
+Sulisal		name	npc	Sulisal
+Xochitl		name	npc	Xochitl
+Teicuh		name	npc	Teicuh
+Arcuani		name	npc	Arcuani
+Gemstone Crab		name	npc	Gemstone Crab
+Gemstone Crab Shell		name	npc	Gemstone Crab Shell
 		name	npc	
 Crate		name	object	Crate
 Cave Entrance		name	object	Cave Entrance
@@ -20117,3 +20304,73 @@ Infernal shale deposit		name	object	Infernal shale deposit
 Infernal shale deposit (Depleted)		name	object	Infernal shale deposit (Depleted)
 Pool of ichor		name	object	Pool of ichor
 Mysterious Portal		name	object	Mysterious Portal
+Dye pots		name	object	Dye pots
+Termite mound		name	object	Termite mound
+Inactive Rune		name	object	Inactive Rune
+Infernal Rift		name	object	Infernal Rift
+Caerula bush		name	object	Caerula bush
+Keystone		name	object	Keystone
+Broken keystone		name	object	Broken keystone
+Teleport spell		name	object	Teleport spell
+Sun Statue		name	object	Sun Statue
+Broken urn		name	object	Broken urn
+Moon Statue		name	object	Moon Statue
+Northern platform		name	object	Northern platform
+Southern platform		name	object	Southern platform
+Tree root		name	object	Tree root
+Infected root		name	object	Infected root
+Strange root		name	object	Strange root
+Plank pile		name	object	Plank pile
+Stack of bricks		name	object	Stack of bricks
+Carcasses		name	object	Carcasses
+Damiana		name	object	Damiana
+Broken whetstone		name	object	Broken whetstone
+Cacao tree		name	object	Cacao tree
+Chocolate Vat		name	object	Chocolate Vat
+Greenman carving		name	object	Greenman carving
+Greenman statue		name	object	Greenman statue
+Totem site		name	object	Totem site
+Oak totem		name	object	Oak totem
+Willow totem		name	object	Willow totem
+Maple totem		name	object	Maple totem
+Yew totem		name	object	Yew totem
+Magic totem		name	object	Magic totem
+Redwood totem		name	object	Redwood totem
+Offering site		name	object	Offering site
+Offerings		name	object	Offerings
+Spirit offerings		name	object	Spirit offerings
+Buffalo totem		name	object	Buffalo totem
+Jaguar totem		name	object	Jaguar totem
+Eagle totem		name	object	Eagle totem
+Snake totem		name	object	Snake totem
+Scorpion totem		name	object	Scorpion totem
+Beautiful log		name	object	Beautiful log
+Beautiful tree stump		name	object	Beautiful tree stump
+Beautiful rock		name	object	Beautiful rock
+Ent trail		name	object	Ent trail
+Entling		name	object	Entling
+Redwood slices		name	object	Redwood slices
+Chopped trees		name	object	Chopped trees
+Lumber transport		name	object	Lumber transport
+Planks		name	object	Planks
+Sawdust		name	object	Sawdust
+Saw mill		name	object	Saw mill
+Large roots		name	object	Large roots
+Acid blood		name	object	Acid blood
+Burrow hole		name	object	Burrow hole
+Remains		name	object	Remains
+Small boat		name	object	Small boat
+Produce basket		name	object	Produce basket
+Cocoa basket		name	object	Cocoa basket
+Corn basket		name	object	Corn basket
+Hanging pots		name	object	Hanging pots
+Stack of reeds		name	object	Stack of reeds
+Half-made rug		name	object	Half-made rug
+Hoop		name	object	Hoop
+Orange hibiscus		name	object	Orange hibiscus
+Red hibiscus		name	object	Red hibiscus
+Overgrown pillar		name	object	Overgrown pillar
+Strange statue		name	object	Strange statue
+Picnic		name	object	Picnic
+Gemstone rock		name	object	Gemstone rock
+Debug Wall		name	object	Debug Wall
