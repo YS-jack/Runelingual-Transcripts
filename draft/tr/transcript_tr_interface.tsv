@@ -1,13 +1,13 @@
 english	translation	category	sub_category	source
-All	Tüm	interface	chatButtons	
-Game 	Oyun	interface	chatButtons	
-Public 	Genel	interface	chatButtons	
-Private 	Özel	interface	chatButtons	
- On	Acik	interface	chatButtons	
-Channel 	Kanal	interface	chatButtons	
-Clan 	Klan	interface	chatButtons	
-Trade 	Ticaret	interface	chatButtons	
-Group 	Grup	interface	chatButtons	
+All		interface	chatButtons	
+Game 		interface	chatButtons	
+Public 		interface	chatButtons	
+Private 		interface	chatButtons	
+ On		interface	chatButtons	
+Channel 		interface	chatButtons	
+Clan 		interface	chatButtons	
+Trade 		interface	chatButtons	
+Group 		interface	chatButtons	
  <colNum0>Autochat</col>	<colNum0>Otomatik Sohbet</col>	interface	chatButtons	
  <colNum0>Friends</col>	<colNum0>Arkadaslar</col>	interface	chatButtons	
  <colNum0>Filtered</col>	<colNum0>Filtrelenmis</col>	interface	chatButtons	

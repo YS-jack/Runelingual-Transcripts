@@ -72,7 +72,7 @@ Adjust Music Volume	Müzik Sesini Ayarla	actions	menu	settingsTab
 Adjust Area Sound Volume	Alan Ses Seviyesini Ayarla	actions	menu	settingsTab
 Adjust Sound Effect Volume	Ses Efekti Ses Seviyesini Ayarla	actions	menu	settingsTab
 Toggle unlock message	Kilidi Acma Mesajini Ac/Kapat	actions	menu	settingsTab
-Play	Oynat	actions	menu	
+Play	Oyna	actions	menu	
 Open Activity Adviser	Etkinlik Danismani Ac	actions	menu	
 <colNum0>Set chat mode:</col> Group (/@g)	<colNum0>Sohbet modunu ayarla:</col> Grup (/@g)	actions	menu	
 <colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>Sohbet modunu ayarla:</col> Misafir Klan (/@gc)	actions	menu	
@@ -131,7 +131,7 @@ Ironman Group	Ironman Grubu	actions	menu
 Settings	Ayarlar	actions	menu	
 Emotes	Ifadeler	actions	menu	
 Music Player	Müzik Calar	actions	menu	
-Logout	Cikis	actions	menu	
+Logout	Çikis	actions	menu	
 Look West	Batiya bak	actions	menu	
 Look South	Güneye bak	actions	menu	
 Look East	Doguya bak	actions	menu	
@@ -389,7 +389,7 @@ Trade-Builders-Store	Insaatci magazasi ticareti	actions	npc	Razmire Keelgan
 Haircut	Saç kesimi	actions	npc	Hairdresser
 Shave	Tiras	actions	npc	Hairdresser
 Makeover	Güzellestirme	actions	npc	Makeover Mage
-Talk-To	Konusma	actions	npc	Tarquin
+Talk-To	Konus	actions	npc	Tarquin
 Quick-falcon	Hizli sahin	actions	npc	Matthias
 Retrieve	Geri alma	actions	npc	Gyr Falcon
 Give-Sword	Kilic verme	actions	npc	Tindel Marchant
@@ -468,7 +468,7 @@ Buy-plank	Tahta-Yap	actions	npc	Sawmill operator
 Age	Yas	actions	npc	Hans
 Tackle	Mücadele Et	actions	npc	Gnome baller
 Pass-to	Geçirmek	actions	npc	Gnome winger
-Claim	Hak Talep Et	actions	npc	Ranged combat tutor
+Claim	Egitim Silahi Al	actions	npc	Ranged combat tutor
 Buy	Satin Al	actions	npc	Fadli
 Heal	Iyilestir	actions	npc	A'abla
 Stroke	Oksa	actions	npc	Gertrude's cat
@@ -1578,6 +1578,6 @@ General-stats		actions	object	Scoreboard
 Delve-stats		actions	object	Scoreboard
 Follow	Takip et	actions	player	
 Trade with	Ticaret yap	actions	player	
-Lookup	Ara	actions	player	
-Equipment	Ekipman	actions	player	
+Lookup		actions	player	
+Equipment		actions	player	
 Report	Rapor et	actions	player	
