@@ -1,5 +1,5 @@
 english	translation	category	sub_category	source
-Study	Calisma	actions	item	Fire
+Study	Çalisma	actions	item	Fire
 Remove	Kaldir	actions	item	Oak lectern
 Lay	Kur	actions	item	Bird snare
 Activate	Etkinlestir	actions	item	Magic box
@@ -14,24 +14,24 @@ Walk here	Buraya yürü	actions	manual
 Cancel	Iptal	actions	manual	
 Accurate	Isabetli	actions	menu	combatOptionsTab
 Aggressive	Agresif	actions	menu	combatOptionsTab
-Defensive	Savunmaci	actions	menu	combatOptionsTab
+Defensive	Defansif	actions	menu	combatOptionsTab
 Controlled	Kontrollü	actions	menu	combatOptionsTab
 Chop	Kes	actions	menu	combatOptionsTab
-Slash	Bic	actions	menu	combatOptionsTab
-Stab	Bicakla	actions	menu	combatOptionsTab
+Slash	Biç	actions	menu	combatOptionsTab
+Stab	Sapla	actions	menu	combatOptionsTab
 Block	Engelle	actions	menu	combatOptionsTab
 Pound	Vur	actions	menu	combatOptionsTab
 Pummel	Döv	actions	menu	combatOptionsTab
-Spike	Sivri	actions	menu	combatOptionsTab
+Spike	Sapla	actions	menu	combatOptionsTab
 Impale	Del	actions	menu	combatOptionsTab
-Smash	Parcala	actions	menu	combatOptionsTab
+Smash	Parçala	actions	menu	combatOptionsTab
 Lunge	Atil	actions	menu	combatOptionsTab
 Swipe	Salla	actions	menu	combatOptionsTab
 Hack	Kes	actions	menu	combatOptionsTab
-Reap	Bic	actions	menu	combatOptionsTab
+Reap	Biç	actions	menu	combatOptionsTab
 Rapid	Hizli	actions	menu	combatOptionsTab
 Longrange	Uzun menzilli	actions	menu	combatOptionsTab
-Flick	Cirp	actions	menu	combatOptionsTab
+Flick	Çirp	actions	menu	combatOptionsTab
 Lash	Kirbacla	actions	menu	combatOptionsTab
 Deflect	Saptir	actions	menu	combatOptionsTab
 Fend	Savun	actions	menu	combatOptionsTab
@@ -41,7 +41,7 @@ Scorch	Yak	actions	menu	combatOptionsTab
 Flare	Alev	actions	menu	combatOptionsTab
 Punch	Yumruk	actions	menu	combatOptionsTab
 Kick	Tekme	actions	menu	combatOptionsTab
-Hide	Sakla	actions	menu	prayerTab
+Hide	Gizle	actions	menu	prayerTab
 Activate	Etkinlestir	actions	menu	prayerTab
 Unhide	Gizlemeyi kaldir	actions	menu	prayerTab
 Deactivate	Devre disi birak	actions	menu	prayerTab
@@ -74,44 +74,44 @@ Adjust Sound Effect Volume	Ses Efekti Ses Seviyesini Ayarla	actions	menu	setting
 Toggle unlock message	Kilidi Acma Mesajini Ac/Kapat	actions	menu	settingsTab
 Play	Oyna	actions	menu	
 Open Activity Adviser	Etkinlik Danismani Ac	actions	menu	
-<colNum0>Set chat mode:</col> Group (/@g)	<colNum0>Sohbet modunu ayarla:</col> Grup (/@g)	actions	menu	
-<colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>Sohbet modunu ayarla:</col> Misafir Klan (/@gc)	actions	menu	
-<colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>Sohbet modunu ayarla:</col> Klan (/@c)	actions	menu	
-<colNum0>Set chat mode:</col> Channel (/@f)	<colNum0>Sohbet modunu ayarla:</col> Kanal (/@f)	actions	menu	
-<colNum0>Set chat mode:</col> Public (/@p)	<colNum0>Sohbet modunu ayarla:</col> Genel (/@p)	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)		actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)		actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)		actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)		actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)		actions	menu	
 Clear history	Gecmisi temizle	actions	menu	
 Switch tab	Sekmeyi degistir	actions	menu	
 Configure filter	Filtreyi yapilandir	actions	menu	
-<colNum0>Game:</col> Clear history	<colNum0>Oyun:</col> Gecmisi temizle	actions	menu	
-<colNum0>Game:</col> Filter	<colNum0>Oyun:</col> Filtre	actions	menu	
+<colNum0>Game:</col> Clear history		actions	menu	
+<colNum0>Game:</col> Filter		actions	menu	
 Setup your autochat	Otomatik sohbetini ayarla	actions	menu	
 Filter public chat	Genel sohbeti filtrele	actions	menu	
-<colNum0>Public:</col> Clear history	<colNum0>Genel:</col> Gecmisi temizle	actions	menu	
-<colNum0>Public:</col> Hide	<colNum0>Genel:</col> Gizle	actions	menu	
-<colNum0>Public:</col> Show none	<colNum0>Genel:</col> Hicbirini göster	actions	menu	
-<colNum0>Public:</col> Show friends	<colNum0>Genel:</col> Arkadaslari göster	actions	menu	
-<colNum0>Public:</col> Show standard	<colNum0>Genel:</col> Standart göster	actions	menu	
-<colNum0>Public:</col> Show autochat	<colNum0>Genel:</col> Otomatik sohbeti göster	actions	menu	
-<colNum0>Private:</col> Clear history	<colNum0>Özel:</col> Gecmisi temizle	actions	menu	
-<colNum0>Private:</col> Show none	<colNum0>Özel:</col> Hicbirini göster	actions	menu	
-<colNum0>Private:</col> Show friends	<colNum0>Özel:</col> Arkadaslari göster	actions	menu	
-<colNum0>Private:</col> Show all	<colNum0>Özel:</col> Tümünü göster	actions	menu	
-<colNum0>Channel:</col> Clear history	<colNum0>Kanal:</col> Gecmisi temizle	actions	menu	
-<colNum0>Channel:</col> Show none	<colNum0>Kanal:</col> Hicbirini göster	actions	menu	
-<colNum0>Channel:</col> Show friends	<colNum0>Kanal:</col> Arkadaslari göster	actions	menu	
-<colNum0>Channel:</col> Show all	<colNum0>Kanal:</col> Tümünü göster	actions	menu	
-<colNum0>Clan:</col> Clear history	<colNum0>Klan:</col> Gecmisi temizle	actions	menu	
-<colNum0>Clan:</col> Show none	<colNum0>Klan:</col> Hicbirini göster	actions	menu	
-<colNum0>Clan:</col> Show friends	<colNum0>Klan:</col> Arkadaslari göster	actions	menu	
-<colNum0>Clan:</col> Show all	<colNum0>Klan:</col> Tümünü göster	actions	menu	
-<colNum0>Group:</col> Clear history	<colNum0>Grup:</col> Gecmisi temizle	actions	menu	
-<colNum0>Group:</col> Show none	<colNum0>Grup:</col> Hicbirini göster	actions	menu	
-<colNum0>Group:</col> Show friends	<colNum0>Grup:</col> Arkadaslari göster	actions	menu	
-<colNum0>Group:</col> Show all	<colNum0>Grup:</col> Tümünü göster	actions	menu	
-<colNum0>Trade:</col> Clear history	<colNum0>Ticaret:</col> Gecmisi temizle	actions	menu	
-<colNum0>Trade:</col> Show none	<colNum0>Ticaret:</col> Hicbirini göster	actions	menu	
-<colNum0>Trade:</col> Show friends	<colNum0>Ticaret:</col> Arkadaslari göster	actions	menu	
-<colNum0>Trade:</col> Show all	<colNum0>Ticaret:</col> Tümünü göster	actions	menu	
+<colNum0>Public:</col> Clear history		actions	menu	
+<colNum0>Public:</col> Hide		actions	menu	
+<colNum0>Public:</col> Show none		actions	menu	
+<colNum0>Public:</col> Show friends		actions	menu	
+<colNum0>Public:</col> Show standard		actions	menu	
+<colNum0>Public:</col> Show autochat		actions	menu	
+<colNum0>Private:</col> Clear history		actions	menu	
+<colNum0>Private:</col> Show none		actions	menu	
+<colNum0>Private:</col> Show friends		actions	menu	
+<colNum0>Private:</col> Show all		actions	menu	
+<colNum0>Channel:</col> Clear history		actions	menu	
+<colNum0>Channel:</col> Show none		actions	menu	
+<colNum0>Channel:</col> Show friends		actions	menu	
+<colNum0>Channel:</col> Show all		actions	menu	
+<colNum0>Clan:</col> Clear history		actions	menu	
+<colNum0>Clan:</col> Show none		actions	menu	
+<colNum0>Clan:</col> Show friends		actions	menu	
+<colNum0>Clan:</col> Show all		actions	menu	
+<colNum0>Group:</col> Clear history		actions	menu	
+<colNum0>Group:</col> Show none		actions	menu	
+<colNum0>Group:</col> Show friends		actions	menu	
+<colNum0>Group:</col> Show all		actions	menu	
+<colNum0>Trade:</col> Clear history		actions	menu	
+<colNum0>Trade:</col> Show none		actions	menu	
+<colNum0>Trade:</col> Show friends		actions	menu	
+<colNum0>Trade:</col> Show all		actions	menu	
 Report game bug	Oyun hatasini bildir	actions	menu	
 Report abuse	Kötüye kullanimi bildir	actions	menu	
 Combat Options	Savas Secenekleri	actions	menu	
@@ -153,34 +153,34 @@ DPS	DPS	actions	menu
 Search	Arama	actions	menu	
 Lookup	Ara	actions	menu	
 Auto retaliate	Otomatik misilleme	actions	menu	combatOptionsTab
-Use <colNum0>Special Attack</col>	<colNum0>Özel Saldiri</col> kullan	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>		actions	menu	combatOptionsTab
 Choose spell	Büyü Sec	actions	menu	combatOptionsTab
 Focus	Odaklan	actions	menu	combatOptionsTab
 Wiki	Wiki	actions	menu	
 Add to canvas	Tuval'e Ekle	actions	menu	
-View <colNum0>Attack</col> guide	<colNum0>Saldiri</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Hitpoints</col> guide	<colNum0>Can Puani</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Mining</col> guide	<colNum0>Madencilik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Strength</col> guide	<colNum0>Güc</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Agility</col> guide	<colNum0>Ceviklik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Smithing</col> guide	<colNum0>Demircilik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Defence</col> guide	<colNum0>Savunma</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Herblore</col> guide	<colNum0>Bitki Bilimi</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Fishing</col> guide	<colNum0>Balikcilik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Ranged</col> guide	<colNum0>Menzilli Saldiri</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Thieving</col> guide	<colNum0>Hirsizlik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Cooking</col> guide	<colNum0>Ascilik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Prayer</col> guide	<colNum0>Dua</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Crafting</col> guide	<colNum0>Zanaat</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Firemaking</col> guide	<colNum0>Ates Yakma</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Magic</col> guide	<colNum0>Büyü</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Fletching</col> guide	<colNum0>Ok Yapimi</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Woodcutting</col> guide	<colNum0>Odun Kesme</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Runecraft</col> guide	<colNum0>Rün Yapimi</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Slayer</col> guide	<colNum0>Slayer</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Farming</col> guide	<colNum0>Ciftcilik</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Construction</col> guide	<colNum0>Insaat</col> kilavuzunu görüntüle	actions	menu	skillsTab
-View <colNum0>Hunter</col> guide	<colNum0>Avcilik</col> kilavuzunu görüntüle	actions	menu	skillsTab
+View <colNum0>Attack</col> guide		actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide		actions	menu	skillsTab
+View <colNum0>Mining</col> guide		actions	menu	skillsTab
+View <colNum0>Strength</col> guide		actions	menu	skillsTab
+View <colNum0>Agility</col> guide		actions	menu	skillsTab
+View <colNum0>Smithing</col> guide		actions	menu	skillsTab
+View <colNum0>Defence</col> guide		actions	menu	skillsTab
+View <colNum0>Herblore</col> guide		actions	menu	skillsTab
+View <colNum0>Fishing</col> guide		actions	menu	skillsTab
+View <colNum0>Ranged</col> guide		actions	menu	skillsTab
+View <colNum0>Thieving</col> guide		actions	menu	skillsTab
+View <colNum0>Cooking</col> guide		actions	menu	skillsTab
+View <colNum0>Prayer</col> guide		actions	menu	skillsTab
+View <colNum0>Crafting</col> guide		actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide		actions	menu	skillsTab
+View <colNum0>Magic</col> guide		actions	menu	skillsTab
+View <colNum0>Fletching</col> guide		actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide		actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide		actions	menu	skillsTab
+View <colNum0>Slayer</col> guide		actions	menu	skillsTab
+View <colNum0>Farming</col> guide		actions	menu	skillsTab
+View <colNum0>Construction</col> guide		actions	menu	skillsTab
+View <colNum0>Hunter</col> guide		actions	menu	skillsTab
 Character Summary	Karakter Özeti	actions	menu	characterSummaryTab
 Achievement Diaries	Basari Günlükleri	actions	menu	characterSummaryTab
 Quest List	Görev Listesi	actions	menu	characterSummaryTab
@@ -642,7 +642,7 @@ Forfeit	Kaybet	actions	npc	Captain Pudi
 Locks	Kilitler	actions	npc	Dampe
 Take-net	Ag al	actions	npc	Spirit Angler
 Ferry	Feribot	actions	npc	Ferryman Sathwood
-Awaken	Uyan	actions	npc	Rubble
+Awaken	Uyandir	actions	npc	Rubble
 Items	Ögeler	actions	npc	Clerk
 Buy-sphere	Küre satin al	actions	npc	Oldak
 Power-up	Güclendirme	actions	npc	The Great Guardian
@@ -689,10 +689,10 @@ Recharge-whistle	Sarj düdügü	actions	npc	Soar Leader Pitri
 Trade-in	Takas	actions	npc	Oriana
 Last-destination	Son varis noktasi	actions	npc	Renu
 Plant-orb	Bitki küresi	actions	npc	Surok Magis
-Choose	Sec	actions	npc	Tenoch
+Choose	Seç	actions	npc	Tenoch
 Check-on	Kontrol et	actions	npc	Man
 Stats	Istatistikler	actions	npc	Worm Tongue
-Sacrifice	Kurban	actions	npc	Branda the Fire Queen
+Sacrifice	Kurban-et	actions	npc	Branda the Fire Queen
 Take pages	Sayfalari al	actions	npc	Branda the Fire Queen
 Examine	Incele	actions	npc	
 Whack		actions	npc	Forebearer Janus
@@ -704,7 +704,7 @@ Kastori		actions	npc	Achilka
 Directions		actions	npc	Ru Merald
 Search	Ara	actions	object	Crate
 Enter	Gir	actions	object	Cave Entrance
-Open	Ac	actions	object	Door
+Open	Aç	actions	object	Door
 Inspect	Incele	actions	object	Broken multicannon
 Fire	Ates et	actions	object	Dwarf multicannon
 Pick-up	Al	actions	object	Dwarf multicannon
