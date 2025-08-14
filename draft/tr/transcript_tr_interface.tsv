@@ -4651,6 +4651,7 @@ Toggle Building mode by default when teleport inside the house.	Evin icine telep
 Render house doors as initially closed.	Ev kapilarini baslangicta kapali olarak görüntüler.	interface	generalUI	
 Render house doors as initially open.	Ev kapilarini baslangicta acik olarak görüntüler.	interface	generalUI	
 Do not render doors.	Kapilari görüntüleme.	interface	generalUI	
+Hitpoints		interface	generalUI	skillGuide
 Welcome to Old School RuneScape	Old School RuneScape'e hos geldiniz.	interface	loginScreen	
 You last logged in a minute ago.	En son bir dakika önce giris yaptiniz.	interface	loginScreen	
 You last logged in <Num0> minutes ago.	En son <Num0> dakika önce giris yaptiniz.	interface	loginScreen	

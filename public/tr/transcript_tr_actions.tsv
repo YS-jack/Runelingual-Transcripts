@@ -1576,6 +1576,7 @@ Decorate		actions	object	Oak totem
 Carve		actions	object	Oak totem
 General-stats		actions	object	Scoreboard
 Delve-stats		actions	object	Scoreboard
+Quick-exit		actions	object	Gate
 Follow	Takip et	actions	player	
 Trade with	Ticaret yap	actions	player	
 Lookup		actions	player	
