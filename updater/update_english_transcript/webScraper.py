@@ -145,22 +145,17 @@ def get_data_from_wiki_page(url, category):
     return data
 
 def getTrueNameFromDialogue(soup):
-    # Find the div with the class "mw-body-content mw-content-ltr"
-    div = soup.find('div', class_='mw-body-content mw-content-ltr')
-    if div is None:
-        return None
+    # Find the part that starts with "This page contains the dialogue of", which contains a link to the npc, which holds the display name (true name) of the npc
+    first_href_link = None
+    for td in soup.find_all('td'):
+        if td.text.strip().startswith("This page contains the dialogue of"):
+            a_tag = td.find('a')
+            if a_tag and a_tag.has_attr('href'):
+                first_href_link = a_tag['href']
+                break
 
-    table_tag = div.find('table', class_='messagebox plainlinks')
-    if table_tag is None:
-        return None
-
-    # Find the first <a> tag within that div
-    first_a_tag = table_tag.find('a', href=True)
-    if first_a_tag is None:
-        return None
-
-    # Extract the href attribute
-    first_href_link = first_a_tag['href'] if first_a_tag else None
+    if first_href_link is None:
+        print("No 'This page contains dialogue of ... ' found in the dialogue page.")
 
     # Fetch the webpage content
     response = requests.get(common.WIKI_URL["base"] + first_href_link)
@@ -432,8 +427,11 @@ def scrape_chisel(url, examine_url):
 
 if __name__ == "__main__":
     #scrape_wiki()
-    item_names, item_examines, item_options = scrape_chisel(common.CHISEL_URL["item_main"], common.CHISEL_URL["item_main"])
+    #item_names, item_examines, item_options = scrape_chisel(common.CHISEL_URL["item_main"], common.CHISEL_URL["item_main"])
     
+    url = "https://oldschool.runescape.wiki/w/Transcript:Banker_(Keldagrim)"
+    dialogue_data = get_data_from_wiki_page(url, common.WIKI_URL["npc_dialogue"])
+    print(dialogue_data)
     
     #scrape_chisel(common.CHISEL_URL["npc_main"], common.CHISEL_URL["npc_examine"])
     #scrape_chisel(common.CHISEL_URL["object_main"], common.CHISEL_URL["object_examine"])

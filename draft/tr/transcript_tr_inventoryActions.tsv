@@ -1,22 +1,22 @@
 english	translation	category	sub_category	source
 Destroy	Yok et	inventoryActions	item	Dwarf remains
-Drop	Birak	inventoryActions	item	Cannonball
+Drop	Yere at	inventoryActions	item	Cannonball
 Read	Oku	inventoryActions	item	Nulodion's notes
 Set-up	Kur	inventoryActions	item	Cannon base
 Blow	Üfle	inventoryActions	item	Magic whistle
-Ring	cal	inventoryActions	item	Grail bell
+Ring	çal	inventoryActions	item	Grail bell
 Blow-on	Üfle	inventoryActions	item	Magic gold feather
 Extinguish	Söndür	inventoryActions	item	Lit black candle
 Wield	Kavra	inventoryActions	item	Excalibur
 Wear	Giy	inventoryActions	item	Khazard helmet
 Empty	Bosalt	inventoryActions	item	Guam potion (unf)
-Drink	Ic	inventoryActions	item	Strength potion(4)
+Drink	Iç	inventoryActions	item	Strength potion(4)
 Clean	Temizle	inventoryActions	item	Grimy guam leaf
 Eat	Ye	inventoryActions	item	Jangerberries
 Equip	Donan	inventoryActions	item	Cattleprod
 Plant	Dik	inventoryActions	item	Mithril seeds
-Open	Ac	inventoryActions	item	Casket
-Throw	At	inventoryActions	item	Bird feed
+Open	Aç	inventoryActions	item	Casket
+Throw	Firlat	inventoryActions	item	Bird feed
 Bury	Göm	inventoryActions	item	Bones
 Inspect	Incele	inventoryActions	item	Ghost's skull
 Bail-with	Su topla	inventoryActions	item	Bailing bucket
@@ -192,7 +192,7 @@ Lay	Kur	inventoryActions	item	Bird snare
 Check totals	Toplamlari kontrol et	inventoryActions	item	Butterfly net
 Check Totals	Toplamlari kontrol et	inventoryActions	item	Butterfly net
 Bank	Banka	inventoryActions	item	Imp-in-a-box(2)
-Translate	cevir	inventoryActions	item	Research notes
+Translate	Çevir	inventoryActions	item	Research notes
 Prance		inventoryActions	item	Reindeer hat
 Write-Role	Rol yaz	inventoryActions	item	Scroll
 Clear	Temizle	inventoryActions	item	Scroll
@@ -213,7 +213,7 @@ Check tax	Vergiyi kontrol et	inventoryActions	item	Empty tax bag
 Check taxes	Vergileri kontrol et	inventoryActions	item	Bulging taxbag
 Pray-over	Dua et	inventoryActions	item	Blessed lamp
 Recite-prayer	Dua oku	inventoryActions	item	Prayer book
-Operate	calistir	inventoryActions	item	Beacon ring
+Operate	Çalistir	inventoryActions	item	Beacon ring
 Farming Guild		inventoryActions	item	Skills necklace(4)
 Mining Guild		inventoryActions	item	Skills necklace(4)
 Crafting Guild		inventoryActions	item	Skills necklace(4)
@@ -242,13 +242,13 @@ Fremennik Dungeon		inventoryActions	item	Slayer ring (8)
 Dark Beasts		inventoryActions	item	Slayer ring (8)
 Master		inventoryActions	item	Slayer ring (8)
 Stronghold		inventoryActions	item	Slayer ring (8)
-Slayer Tower	Slayer Tower	inventoryActions	item	Slayer ring (8)
-Tarn's Lair	Tarn's Lair	inventoryActions	item	Slayer ring (8)
+Slayer Tower		inventoryActions	item	Slayer ring (8)
+Tarn's Lair		inventoryActions	item	Slayer ring (8)
 Deposit		inventoryActions	item	Looting bag
 Settings		inventoryActions	item	Looting bag
-Miscellania	Miscellania	inventoryActions	item	Ring of wealth (5)
-Falador	Falador	inventoryActions	item	Ring of wealth (5)
-Dondakan	Dondakan	inventoryActions	item	Ring of wealth (5)
+Miscellania		inventoryActions	item	Ring of wealth (5)
+Falador		inventoryActions	item	Ring of wealth (5)
+Dondakan		inventoryActions	item	Ring of wealth (5)
 Boss Log		inventoryActions	item	Ring of wealth (5)
 Coin Collection	Para topla	inventoryActions	item	Ring of wealth (5)
 Tip		inventoryActions	item	Fedora
@@ -262,31 +262,31 @@ Configure		inventoryActions	item	Annakarl teleport
 Extract		inventoryActions	item	Nest box (empty)
 Unload		inventoryActions	item	Toxic blowpipe
 Untrim		inventoryActions	item	Quest point cape (t)
-Karamja (Shilo)	Karamja (Shilo)	inventoryActions	item	Achievement diary cape (t)
-Western Provinces	Western Provinces	inventoryActions	item	Achievement diary cape (t)
-Karamja (Jungle)	Karamja (Jungle)	inventoryActions	item	Achievement diary cape (t)
+Karamja (Shilo)		inventoryActions	item	Achievement diary cape (t)
+Western Provinces		inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)		inventoryActions	item	Achievement diary cape (t)
 Twiggy O'Korn		inventoryActions	item	Achievement diary cape (t)
-Karamja (Mor Ul Rek)	Karamja (Mor Ul Rek)	inventoryActions	item	Achievement diary cape (t)
-Ardougne	Ardougne	inventoryActions	item	Achievement diary cape (t)
-Desert	Desert	inventoryActions	item	Achievement diary cape (t)
-Kourend & Kebos	Kourend & Kebos	inventoryActions	item	Achievement diary cape (t)
-Lumbridge & Draynor	Lumbridge & Draynor	inventoryActions	item	Achievement diary cape (t)
-Fremennik	Fremennik	inventoryActions	item	Achievement diary cape (t)
-Morytania	Morytania	inventoryActions	item	Achievement diary cape (t)
-Kandarin	Kandarin	inventoryActions	item	Achievement diary cape (t)
-Wilderness	Wilderness	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)		inventoryActions	item	Achievement diary cape (t)
+Ardougne		inventoryActions	item	Achievement diary cape (t)
+Desert		inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos		inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor		inventoryActions	item	Achievement diary cape (t)
+Fremennik		inventoryActions	item	Achievement diary cape (t)
+Morytania		inventoryActions	item	Achievement diary cape (t)
+Kandarin		inventoryActions	item	Achievement diary cape (t)
+Wilderness		inventoryActions	item	Achievement diary cape (t)
 Slayer Master		inventoryActions	item	Karamja gloves 4
 Ecto Teleport		inventoryActions	item	Morytania legs 1
-Ectofuntus Pit	Ectofuntus Pit	inventoryActions	item	Morytania legs 1
-Burgh Teleport	Burgh Teleport	inventoryActions	item	Morytania legs 3
-Burgh de Rott	Burgh de Rott	inventoryActions	item	Morytania legs 3
-Activity	Activity	inventoryActions	item	Bonecrusher
+Ectofuntus Pit		inventoryActions	item	Morytania legs 1
+Burgh Teleport		inventoryActions	item	Morytania legs 3
+Burgh de Rott		inventoryActions	item	Morytania legs 3
+Activity		inventoryActions	item	Bonecrusher
 Recharge-prayer		inventoryActions	item	Falador shield 1
 Recharge Prayer		inventoryActions	item	Falador shield 1
-Monastery Teleport	Monastery Teleport	inventoryActions	item	Ardougne cloak 1
-Kandarin Monastery	Kandarin Monastery	inventoryActions	item	Ardougne cloak 1
-Farm Teleport	Farm Teleport	inventoryActions	item	Ardougne cloak 2
-Ardougne Farm	Ardougne Farm	inventoryActions	item	Ardougne cloak 2
+Monastery Teleport		inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery		inventoryActions	item	Ardougne cloak 1
+Farm Teleport		inventoryActions	item	Ardougne cloak 2
+Ardougne Farm		inventoryActions	item	Ardougne cloak 2
 Energy		inventoryActions	item	Explorer's ring 1
 Alchemy		inventoryActions	item	Explorer's ring 1
 Functions		inventoryActions	item	Explorer's ring 2
@@ -386,8 +386,8 @@ Fletch		inventoryActions	item	Celastrus bark
 Kourend Woodland		inventoryActions	item	Rada's blessing 1
 Mount Karuulm		inventoryActions	item	Rada's blessing 3
 Check/Uncharge		inventoryActions	item	Bonecrusher necklace
-Take		inventoryActions	item	Seed pack
-Take-all		inventoryActions	item	Seed pack
+Take	Al	inventoryActions	item	Seed pack
+Take-all	Hepsini-Al	inventoryActions	item	Seed pack
 Fill/Check		inventoryActions	item	Bottomless compost bucket
 Easter dance		inventoryActions	item	Giant easter egg
 Cut-open		inventoryActions	item	Giant egg sac(full)
@@ -397,7 +397,7 @@ Scrutinise		inventoryActions	item	Guthixian icon
 Trophy Emote		inventoryActions	item	Twisted dragon trophy
 Twisted Relic Emote		inventoryActions	item	Twisted cane
 Chase		inventoryActions	item	Cat ears
-Use		inventoryActions	item	Plank sack
+Use	Kullan	inventoryActions	item	Plank sack
 Open-All		inventoryActions	item	Supply crate
 Trailblazer Relic Emote		inventoryActions	item	Trailblazer cane
 Trailblazer Area Emote		inventoryActions	item	Trailblazer cane
@@ -515,3 +515,14 @@ Add-10	Ekle-10	inventoryActions	item
 Add-All	Hepsini Ekle	inventoryActions	item	
 Add-X	Ekle-X	inventoryActions	item	
 Chomp		inventoryActions	item	Rotten turnip
+Forestry kit		inventoryActions	item	Forestry basket
+Log basket		inventoryActions	item	Forestry basket
+Empty basket		inventoryActions	item	Forestry basket
+Darkfrost		inventoryActions	item	Pendant of ates
+Kastori		inventoryActions	item	Pendant of ates
+Nemus Retreat		inventoryActions	item	Pendant of ates
+Touch		inventoryActions	item	Keystone fragment
+Breaches		inventoryActions	item	Events tool
+Events		inventoryActions	item	Events tool
+Rummage		inventoryActions	item	Vale offerings
+Hasty-rummage		inventoryActions	item	Vale offerings
