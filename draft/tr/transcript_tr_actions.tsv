@@ -79,7 +79,7 @@ Open Activity Adviser	Etkinlik Danismani Ac	actions	menu
 <colNum0>Set chat mode:</col> Clan (/@c)		actions	menu	
 <colNum0>Set chat mode:</col> Channel (/@f)		actions	menu	
 <colNum0>Set chat mode:</col> Public (/@p)		actions	menu	
-Clear history	Gecmisi temizle	actions	menu	
+Clear history	Geçmisi temizle	actions	menu	
 Switch tab	Sekmeyi degistir	actions	menu	
 Configure filter	Filtreyi yapilandir	actions	menu	
 <colNum0>Game:</col> Clear history		actions	menu	
@@ -130,7 +130,7 @@ Account Management	Hesap Yönetimi	actions	menu
 Ironman Group	Ironman Grubu	actions	menu	
 Settings	Ayarlar	actions	menu	
 Emotes	Ifadeler	actions	menu	
-Music Player	Müzik Calar	actions	menu	
+Music Player	Müzik Çalar	actions	menu	
 Logout	Çikis	actions	menu	
 Look West	Batiya bak	actions	menu	
 Look South	Güneye bak	actions	menu	
@@ -142,19 +142,19 @@ Show	Göster	actions	menu
 Activate	Etkinlestir	actions	menu	
 Toggle Run	Kos	actions	menu	
 Use	Kullan	actions	menu	
-Bond Pouch	Bond Cantasi	actions	menu	
-Open Store	Magazayi ac	actions	menu	
+Bond Pouch	Bond Çantasi	actions	menu	
+Open Store	Magazayi aç	actions	menu	
 Clear	Temizle	actions	menu	
-Import	Ice aktar	actions	menu	
+Import	Içe aktar	actions	menu	
 Export	Disa aktar	actions	menu	
 Fullscreen <colNum0>World Map</col>	Tam ekran <colNum0>Dünya Haritasi</col>	actions	menu	
-Floating <colNum0>World Map</col>	Yüzen <colNum0>Dünya Haritasi</col>	actions	menu	
+Floating <colNum0>World Map</col>	Seyyar <colNum0>Dünya Haritasi</col>	actions	menu	
 DPS	DPS	actions	menu	
 Search	Arama	actions	menu	
 Lookup	Ara	actions	menu	
 Auto retaliate	Otomatik misilleme	actions	menu	combatOptionsTab
 Use <colNum0>Special Attack</col>		actions	menu	combatOptionsTab
-Choose spell	Büyü Sec	actions	menu	combatOptionsTab
+Choose spell	Büyü Seç	actions	menu	combatOptionsTab
 Focus	Odaklan	actions	menu	combatOptionsTab
 Wiki	Wiki	actions	menu	
 Add to canvas	Tuval'e Ekle	actions	menu	
@@ -200,7 +200,7 @@ Collection Log	Koleksiyon Günlügü	actions	menu	characterSummaryTab
 Collection Overview	Koleksiyon Genel Bakis	actions	menu	characterSummaryTab
 Reveal	Göster	actions	menu	characterSummaryTab
 Hide	Gizle	actions	menu	characterSummaryTab
-Open	Ac	actions	menu	questListTab
+Open	Aç	actions	menu	questListTab
 Close	Kapat	actions	menu	questListTab
 Start Quest Helper	Görev Yardimcisi Baslat	actions	menu	questListTab
 Open wiki quick guide:	Wiki hizli kilavuzunu ac:	actions	menu	questListTab
@@ -235,9 +235,9 @@ Open <colNum0>Wilderness Journal</col>		actions	menu	achievementDiaryTab
 View equipment stats	Ekipman istatistiklerini görüntüle	actions	menu	wornEquipmentTab
 View guide prices	Kilavuz fiyatlarini görüntüle	actions	menu	wornEquipmentTab
 View items kept on death	Ölümde saklanan ögeleri görüntüle	actions	menu	wornEquipmentTab
-Call follower	Takipciyi cagir	actions	menu	wornEquipmentTab
+Call follower	Takipçiyi çagir	actions	menu	wornEquipmentTab
 Disable prayer reordering	Prayer siralamasini devre disi birak	actions	menu	
-Enable prayer filtering	Dua filtrelemeyi etkinlestir	actions	menu	
+Enable prayer filtering	Prayer filtrelemeyi etkinlestir	actions	menu	
 Disable spell reordering	Büyü siralamasini devre disi birak	actions	menu	
 Enable spell filtering	Büyü filtrelemeyi etkinlestir	actions	menu	
 Show notifications	Bildirimleri göster	actions	menu	
@@ -245,7 +245,7 @@ Add Note	Not ekle	actions	menu
 Hide notifications	Bildirimleri gizle	actions	menu	
 Delete	Sil	actions	menu	friendsTab
 Message	Mesaj	actions	menu	friendsTab
-View Ignore List	Yoksayma listesini görüntüle	actions	menu	friendsTab
+View Ignore List	Engelli listesini görüntüle	actions	menu	friendsTab
 Add Friend	Arkadas ekle	actions	menu	friendsTab
 Delete Friend	Arkadasi sil	actions	menu	friendsTab
 Hop-to	Hop-to	actions	menu	friendsTab
@@ -256,8 +256,8 @@ Delete Name	Adi sil	actions	menu	ignoreTab
 Account	Hesap	actions	menu	accountManagementTab
 Community	Topluluk	actions	menu	accountManagementTab
 Useful Links	Faydali Baglantilar	actions	menu	accountManagementTab
-Open Store	Magazayi Ac	actions	menu	accountManagementTab
-Bond Pouch	Tahvil Cüzdani	actions	menu	accountManagementTab
+Open Store	Magazayi Aç	actions	menu	accountManagementTab
+Bond Pouch	Bond Cüzdani	actions	menu	accountManagementTab
 View Inbox	Gelen Kutusunu Görüntüle	actions	menu	accountManagementTab
 Name Changer	Isim Degistirici	actions	menu	accountManagementTab
 View History	Gecmisi Görüntüle	actions	menu	accountManagementTab
@@ -271,7 +271,7 @@ Setup	Kurulum	actions	menu	groupTab
 Find	Bul	actions	menu	groupTab
 Open	Aç	actions	menu	groupTab
 Add friend	Arkadas Ekle	actions	menu	groupTab
-Add ignore	Yoksay Ekle	actions	menu	groupTab
+Add ignore	Engellere Ekle	actions	menu	groupTab
 Teleport	Isinlan	actions	menu	groupTab
 Select	Seç	actions	menu	groupTab
 Join <colNum0><!ANY_TRANSLATED0></col> channel	<colNum0><!ANY_TRANSLATED0></col> kanalina katil	actions	menu	groupTab
@@ -282,22 +282,22 @@ Add ignore <!PLAYER_NAME0>	<!PLAYER_NAME0>'i görmezden gel	actions	menu	groupTa
 Remove friend <!PLAYER_NAME0>	<!PLAYER_NAME0>'i arkadas listesinden kaldir	actions	menu	groupTab
 Remove ignore <!PLAYER_NAME0>	<!PLAYER_NAME0>'i engellemeyi kaldir	actions	menu	groupTab
 View Channel	Kanali görüntüle	actions	menu	groupTab
-Toggle skull prevention	Kafatasi önlemeyi ac/kapat	actions	menu	settingsTab
-Toggle Accept Aid	Yardimi kabul etmeyi ac/kapat	actions	menu	settingsTab
-Toggle Run	Kosmayi ac/kapat	actions	menu	settingsTab
+Toggle skull prevention	Kafatasi önlemeyi aç/kapat	actions	menu	settingsTab
+Toggle Accept Aid	Yardimi kabul etmeyi aç/kapat	actions	menu	settingsTab
+Toggle Run	Kosmayi aç/kapat	actions	menu	settingsTab
 View House Options	Ev seceneklerini görüntüle	actions	menu	settingsTab
-Open Bond Pouch	Baglanti kesesini ac	actions	menu	settingsTab
+Open Bond Pouch	Bond kesesini aç	actions	menu	settingsTab
 All Settings	Tüm ayarlar	actions	menu	settingsTab
 Controls	Kontroller	actions	menu	settingsTab
 Display	Ekran	actions	menu	settingsTab
 Audio	Ses	actions	menu	settingsTab
-Unmute	Sesi ac	actions	menu	settingsTab
+Unmute	Sesi aç	actions	menu	settingsTab
 Adjust Brightness	Parlakligi ayarla	actions	menu	settingsTab
 Restore Default Zoom	Varsayilan yakinlastirmayi geri yükle	actions	menu	settingsTab
 Disable	Devre disi birak	actions	menu	settingsTab
-Select	Sec	actions	menu	settingsTab
-Perform	Gerceklestir	actions	menu	emotesTab
-Perform <colNum0>Relic unlock</col>	<colNum0>Relic unlock</col> islemini gerceklestirin.	actions	menu	emotesTab
+Select	Seç	actions	menu	settingsTab
+Perform	Gerçeklestir	actions	menu	emotesTab
+Perform <colNum0>Relic unlock</col>	<colNum0>Relic unlock</col> islemini gerçeklestirin.	actions	menu	emotesTab
 Loop	Döngü	actions	menu	emotesTab
 Area	Alan	actions	menu	musicTab
 Manual	Manuel	actions	menu	musicTab
@@ -309,10 +309,10 @@ Open	Aç	actions	menu	musicTab
 Thumbs Up	Begen	actions	menu	logoutTab
 Thumbs Down	Begenme	actions	menu	logoutTab
 World Switcher	Dünya Degistirici	actions	menu	logoutTab
-Logout	Cikis	actions	menu	logoutTab
+Logout	Çikis	actions	menu	logoutTab
 Favourite	Favori	actions	menu	worldSwitcherTab
 Switch	Degistir	actions	menu	worldSwitcherTab
-Logout	Cikis	actions	menu	worldSwitcherTab
+Logout	Çikis	actions	menu	worldSwitcherTab
 Clear	Temizle	actions	menu	worldSwitcherTab
 Close	Kapat	actions	menu	worldSwitcherTab
 Configure	Yapilandir	actions	menu	worldSwitcherTab
@@ -331,11 +331,11 @@ Off	Kapali	actions	menu
 Expel Guests	Misafirleri kov	actions	menu	
 Call Servant	Hizmetciyi cagir	actions	menu	
 Leave House	Evden ayril	actions	menu	
-Open subsection	Alt bölümü ac	actions	menu	
+Open subsection	Alt bölümü aç	actions	menu	
 Move	Tasi	actions	menu	
 Learn More	Daha fazla bilgi	actions	menu	
 Talk-to	Konus	actions	npc	Tool Leprechaun
-Exchange	Degis tokus	actions	npc	Tool Leprechaun
+Exchange	Degis-tokus	actions	npc	Tool Leprechaun
 Attack	Saldir	actions	npc	Molanisk
 Trade	Ticaret	actions	npc	Hudo
 Travel	Seyahat	actions	npc	Rug Merchant
@@ -365,18 +365,18 @@ Disturb	Rahatsiz et	actions	npc	Phosani's Nightmare
 Gauntlets	Eldivenler	actions	npc	Avan
 Lure	Tüy	actions	npc	Rod Fishing spot
 Bait	Yem	actions	npc	Rod Fishing spot
-Pickpocket	Yankesici	actions	npc	Guard
+Pickpocket	Para-çal	actions	npc	Guard
 Assignment	Görev	actions	npc	Vannaka
-Search	Arama	actions	npc	Entomologist
-Confront	Karsilasma	actions	npc	Mi-Gor
+Search	Ara	actions	npc	Entomologist
+Confront	Yüzles	actions	npc	Mi-Gor
 Transport	Tasima	actions	npc	Brother Tranquility
-Intimidate	Gözdagi verme	actions	npc	Zombie swab
-Fish	Balik	actions	npc	Fishing spot
-Smash-ice	Buz kirma	actions	npc	Ice block
-Shear	Kesme	actions	npc	Sheep
-Knock-Out	Nakavt etme	actions	npc	Bandit
+Intimidate	Gözdagi ver	actions	npc	Zombie swab
+Fish	Balik-tut	actions	npc	Fishing spot
+Smash-ice	Buz-kir	actions	npc	Ice block
+Shear	Yünü-kes	actions	npc	Sheep
+Knock-Out	Nakavt et	actions	npc	Bandit
 Bank	Banka	actions	npc	Banker
-Collect	Toplama	actions	npc	Banker
+Collect	Topla	actions	npc	Banker
 Check-Approval	Onay kontrolü	actions	npc	Arnor
 Tuxedo-time	Smokin zamani	actions	npc	Larry
 Mines	Madenler	actions	npc	Dartog
@@ -388,16 +388,16 @@ Trade-General-Store	Genel magaza ticareti	actions	npc	Razmire Keelgan
 Trade-Builders-Store	Insaatci magazasi ticareti	actions	npc	Razmire Keelgan
 Haircut	Saç kesimi	actions	npc	Hairdresser
 Shave	Tiras	actions	npc	Hairdresser
-Makeover	Güzellestirme	actions	npc	Makeover Mage
+Makeover	Karakterini-düzenle	actions	npc	Makeover Mage
 Talk-To	Konus	actions	npc	Tarquin
 Quick-falcon	Hizli sahin	actions	npc	Matthias
-Retrieve	Geri alma	actions	npc	Gyr Falcon
-Give-Sword	Kilic verme	actions	npc	Tindel Marchant
+Retrieve	Geri al	actions	npc	Gyr Falcon
+Give-Sword	Kiliç ver	actions	npc	Tindel Marchant
 Mine	Kaz	actions	npc	Elemental rock
 Push	It	actions	npc	Trolley
 Pull	Çek	actions	npc	Trolley
-Big-push	Büyük itme	actions	npc	Trolley
-Place	Yerlestirme	actions	npc	Trolley
+Big-push	Güçlü-it	actions	npc	Trolley
+Place	Yerlestir	actions	npc	Trolley
 Claim-arrows	Oklari talep et	actions	npc	Rantz
 Inflate	Sisir	actions	npc	Swamp toad
 Pluck	Tüy-yol	actions	npc	Chompy bird
@@ -415,7 +415,7 @@ Use-rod	Olta kullan	actions	npc	Fishing spot
 Escort	Eskort	actions	npc	Smiddi Ryak (hard)
 Supply	Tedarik	actions	npc	Smiddi Ryak (hard)
 Claim-runes	Rünleri talep et	actions	npc	Lundail
-Chase	Kovalama	actions	npc	Cat
+Chase	Kovala	actions	npc	Cat
 Interact	Etkilesim	actions	npc	Cat
 Catch	Yakala	actions	npc	Baby impling
 Get-rewards	Ödül al	actions	npc	Commander Connad
@@ -424,14 +424,14 @@ Start-minigame	Mini oyun baslat	actions	npc	Guardian mummy
 Teleport	Isinlan	actions	npc	Apprentice
 Join-Crew	Mürettebata katil	actions	npc	San Fan
 Join-Team	Takima katil	actions	npc	Honest Jimmy
-Pick-pocket	Yankesici	actions	npc	Fairy Godfather
+Pick-pocket	Para-çal	actions	npc	Fairy Godfather
 Craft-goods	El sanatlari	actions	npc	Thakkrad Sigmundson
 Rellekka	Rellekka	actions	npc	Maria Gunnars
 Neitiznot	Neitiznot	actions	npc	Maria Gunnars
 Jatizso	Jatizso	actions	npc	Mord Gunnars
 Watch-shouting	Saat-bagirma	actions	npc	Guard
 Kick	Tekmele	actions	npc	Bed
-Claim-Tokens	Talep-Jetonlar	actions	npc	Lorelai
+Claim-Tokens	Talep-Jeton	actions	npc	Lorelai
 History	Gecmis	actions	npc	Grand Exchange Clerk
 Sets	Setler	actions	npc	Grand Exchange Clerk
 Prices	Fiyatlar	actions	npc	Brugsen Bursen
@@ -456,13 +456,13 @@ Upgrade	Yükselt	actions	npc	Combat dummy
 Remove	Kaldir	actions	npc	Combat dummy
 Shoo	Kov	actions	npc	Clockwork cat
 Fur Clothing	Kürk Giysi	actions	npc	Asyff
-Shoo-away	Kovmak	actions	npc	Stray dog
-Tease	Alay Etmek	actions	npc	Sabre-toothed kyatt
+Shoo-away	Kov	actions	npc	Stray dog
+Tease	Alay Et	actions	npc	Sabre-toothed kyatt
 Leave	Birakmak	actions	npc	Squire
-Claim-slime	Hak Talep Etmek	actions	npc	Robin
-Use	Kullanmak	actions	npc	Portal
+Claim-slime	Slime-al	actions	npc	Robin
+Use	Kullan	actions	npc	Portal
 Exit	Çik	actions	npc	Portal
-Relocate	Yer Degistirmek	actions	npc	Estate agent
+Relocate	Yer Degistir	actions	npc	Estate agent
 Redecorate	Yeniden Dekore Et	actions	npc	Estate agent
 Buy-plank	Tahta-Yap	actions	npc	Sawmill operator
 Age	Yas	actions	npc	Hans
@@ -491,7 +491,7 @@ Roll	Yuvarla	actions	npc	Boulder
 Watch	Izle	actions	npc	Mercenary Captain
 Buy-pass	Geçis Al	actions	npc	Shantay
 Pass	Geç	actions	npc	Shantay Guard
-Fly	Uc	actions	npc	Auguste
+Fly	Uç	actions	npc	Auguste
 Decant	Dök	actions	npc	Zahur
 Clean	Temizle	actions	npc	Zahur
 Make unfinished potion(s)	Bitmemis iksir(ler) yap	actions	npc	Zahur
@@ -503,17 +503,17 @@ Grab-feather	Tüy kap	actions	npc	Desert Phoenix
 Take-from	Al	actions	npc	Jig cart
 Coffer	Sandik	actions	npc	Yohnus
 Attract	Kendine Çek	actions	npc	Light creature
-Call-Over	Cagir	actions	npc	Zombie
+Call-Over	Çagir	actions	npc	Zombie
 Insult	Hakaret	actions	npc	Zombie
 Scare	Korkut	actions	npc	Zombie
 Skin	Derisini yüz	actions	npc	Swamp snake
 Burn	Yak	actions	npc	Barricade
 Extinguish	Söndür	actions	npc	Barricade
-Quick-withdraw	Hizli cek	actions	npc	Elnock Inquisitor
+Quick-withdraw	Hizli çekil	actions	npc	Elnock Inquisitor
 Check-gates	Kapilari kontrol et	actions	npc	Wandering impling
 Sand	Kum	actions	npc	Bert
 Request-supplies	Malzeme iste	actions	npc	Bork Sigmundson
-Sew	Dikis	actions	npc	Patchy
+Sew	Dik	actions	npc	Patchy
 Check	Kontrol et	actions	npc	Probita
 View Laps	Turlari görüntüle	actions	npc	Grace
 Toggle Counter	Sayac ac/kapat	actions	npc	Grace
@@ -530,8 +530,8 @@ Peek	Göz at	actions	npc	Eye
 Deposit-box	Depozit kutusu	actions	npc	Financial Seer
 Move	Hareket ettir	actions	npc	Boulder
 Log-storage	Günlük depolama	actions	npc	Friendly Forester
-Claim Sand	Kum talep etme	actions	npc	Drew
-Deposit buckets	Kova depolama	actions	npc	Drew
+Claim Sand	Kum talep et	actions	npc	Drew
+Deposit buckets	Kova depola	actions	npc	Drew
 Toggle warnings	Uyarilari ac/kapat	actions	npc	Doomsayer
 Remove PvP Protection	PvP Korumasini kaldir	actions	npc	Doomsayer
 Observe	Gözlemle	actions	npc	Maze Guardian
@@ -567,10 +567,10 @@ Toggle-minerals	Mineralleri ac/kapat	actions	npc	Belona
 Kitten	Yavru kedi	actions	npc	Gertrude
 Toggle-vials	Siseleri ac/kapat	actions	npc	Barbarian guard
 Redeem-code	Kodu kullan	actions	npc	Recruiter
-Purchase Amulet	Tilsim satin al	actions	npc	Wizard Mizgog
+Purchase Amulet	kolye satin al	actions	npc	Wizard Mizgog
 Staves	Asalar	actions	npc	Dark Mage
 Deboard	Inmek	actions	npc	Barge guard
-Toggle Fossils	Fosilleri ac/kapat	actions	npc	Peter
+Toggle Fossils	Fosilleri aç/kapat	actions	npc	Peter
 Poke	Dürt	actions	npc	Bobbing fossil
 Training	Egitim	actions	npc	Mairin
 Harvest	Hasat	actions	npc	Herbiboar
@@ -579,7 +579,7 @@ Murder	Öldür	actions	npc	Conrad King
 Quick-Travel	Hizli Seyahat	actions	npc	Barge guard
 Escape	Kaç	actions	npc	Brundt the Chieftain
 Scry	Kehanet	actions	npc	Abigaila
-Claim Pet Rock	Evcil Kaya Talep Et	actions	npc	Askeladden
+Claim Pet Rock	Evcil Kaya Al	actions	npc	Askeladden
 Standard Variant	Standart Varyant	actions	npc	Combat Test (maxhit)
 Get-log	Günlük Al	actions	npc	The Collector
 Claim-log-rewards	Günlük Ödülleri Talep Et	actions	npc	The Collector
@@ -654,18 +654,18 @@ Commission	Komisyon	actions	npc	Kovac
 Talk	Konus	actions	npc	Hannibal
 Proceed	Devam et	actions	npc	Osmumten
 Begin	Basla	actions	npc	Osmumten
-Water	Su	actions	npc	Palm of Resourcefulness
+Water	Sula	actions	npc	Palm of Resourcefulness
 Check-costume	Kostüm kontrol et	actions	npc	Costumed child
 Trick-or-treat	Seker mi saka mi	actions	npc	Generous Treater
 Scare-away	Korkut	actions	npc	Spooky dog
 Tend-to	Ilgilen	actions	npc	Flowering bush (Lilac)
 Emote	Duygu göster	actions	npc	Wisp
-Deposit	Para yatir	actions	npc	Woodcutting Leprechaun
+Deposit	Esya-depola	actions	npc	Woodcutting Leprechaun
 Cast	Yakala	actions	npc	Fishing spot
 Reset-room	Odayi sifirla	actions	npc	Cerebral pathfinder
 Take-lure	Yem al	actions	npc	Light leech
 Build	Insa et	actions	npc	Unfinished Beehive
-Disarm	Silahsizlandir	actions	npc	Fox trap
+Disarm	Boz	actions	npc	Fox trap
 Prune	Budama	actions	npc	Entling
 Prune-top	Budama-üst	actions	npc	Entling
 Prune-back	Budama-arka	actions	npc	Entling
@@ -713,33 +713,33 @@ Climb-down	Asagi in	actions	object	Ladder
 Climb-up	Yukari cik	actions	object	Ladder
 Climb-over	Tirman-üzerinden	actions	object	Rock pile
 Prod	Dürt	actions	object	Sacks
-Pull	Cek	actions	object	Lever
-Go-through	Gec-icinden	actions	object	Gate
+Pull	Çek	actions	object	Lever
+Go-through	Geç-icinden	actions	object	Gate
 Fish	Balik tut	actions	object	Fishing spot
-Squeeze-through	Sik-icinden	actions	object	Loose Railing
+Squeeze-through	Geç-icinden	actions	object	Loose Railing
 Check	Kontrol et	actions	object	Vine
 Pray-at	Dua et	actions	object	Chaos altar
 Smash	Kir	actions	object	Giant crystal
 Hide-in	Saklan	actions	object	Crate
 Take-from	Al-icinden	actions	object	Beehive
 Cross	Geç	actions	object	Gangplank
-Knock-at	Cal-icinden	actions	object	Large door
+Knock-at	Kapiya-vur	actions	object	Large door
 Search for traps	Tuzaklari ara	actions	object	Lever
 Shut	Kapat	actions	object	Open chest
 Cook	Pisir	actions	object	Cooking range
 Burst	Patlat	actions	object	Party Balloon
 Jump-up	Zipla	actions	object	Rocks
-Operate	Calistir	actions	object	Winch
+Operate	Çalistir	actions	object	Winch
 Pick	Topla	actions	object	Potato
 Close	Kapat	actions	object	Large open cupboard
-Play	Oyna	actions	object	Church organ
+Play	Çal	actions	object	Church organ
 Use	Kullan	actions	object	Crevice
 Peek	Gözetle	actions	object	Crevice
 Private	Özel	actions	object	Crevice
 Jump	Atla	actions	object	Broken Fence
-Steal-from	Cal	actions	object	Tea stall
+Steal-from	Çal	actions	object	Tea stall
 Take	Al	actions	object	Small fishing net
-Exit	Cik	actions	object	Cave exit
+Exit	Çik	actions	object	Cave exit
 Suck	Em	actions	object	Swamp bubbles
 Reset	Sifirla	actions	object	Shaking box
 Slash	Kes	actions	object	Web
@@ -769,7 +769,7 @@ Craft	Üret	actions	object	Smashed table
 Disembark	In	actions	object	Crude raft
 Pay-fare	Ücret öde	actions	object	Travel cart
 Listen-at	Dinle	actions	object	Grill
-Pan	Tava	actions	object	Panning point
+Pan	Elekten-geçir	actions	object	Panning point
 Shoot	Firlat	actions	object	Gnome goal
 Deposit	Yatir	actions	object	Chest
 Climb-on	Tirman	actions	object	Barrel
@@ -791,7 +791,7 @@ Climb-to	Tirman	actions	object	Rock
 Climb down	Asagi in	actions	object	Rock
 Walk through	Icinden gec	actions	object	Mine cave
 Walk-through	Icinden gec	actions	object	Tent door
-Remove	Cikar	actions	object	Hellhound
+Remove	Çikar	actions	object	Hellhound
 Steal-From	Çal	actions	object	Counter
 Prospect	Arastir	actions	object	Rock of Dalgroth
 Leave	Çik	actions	object	Cave exit
@@ -856,7 +856,7 @@ Talk-to	Konus	actions	object	Awowogei
 Pick-lock	Kilit aç	actions	object	Jail Door
 Steal from	Çal	actions	object	Crafting Stall
 Crawl-down	Asagi sürün	actions	object	Cart tunnel
-Crawl-through	Icinden sürün	actions	object	Cart tunnel
+Crawl-through	Içinden sürün	actions	object	Cart tunnel
 Go-down	Asagi git	actions	object	Lift
 Go-up	Yukari git	actions	object	Lift
 Slide	Kay	actions	object	Slope
@@ -884,10 +884,10 @@ Work-at	Çalis	actions	object	Workbench
 Make-helmet	Kask yap	actions	object	Helmet pluming stand
 Ring	Zili cal	actions	object	Bell
 Quick-board	Hizli tahta	actions	object	Swamp Boaty
-Ride	Binmek	actions	object	Train cart
+Ride	Sür	actions	object	Train cart
 Observe	Gözlemle	actions	object	Telescope
 Leave-area	Alani terk et	actions	object	Ladder
-Crack	Çatlat	actions	object	Wall safe
+Crack	Kilidi-kir	actions	object	Wall safe
 Pull-spade	Küregi çek	actions	object	Stone Door
 Guide	Rehberlik et	actions	object	Belladonna patch
 Rake	Tirmikla	actions	object	Belladonna patch
@@ -911,8 +911,8 @@ Pick-orange	Portakal topla	actions	object	Orange tree
 Pick-coconut	Hindistan cevizi topla	actions	object	Palm tree
 Harvest	Hasat	actions	object	Asgarnian Hops
 Travel	Seyahat	actions	object	Spirit Tree
-Milk	Süt sag	actions	object	Dairy cow
-Steal-cowbell	Çan çal	actions	object	Dairy cow
+Milk	Süt-sag	actions	object	Dairy cow
+Steal-cowbell	Çan-çal	actions	object	Dairy cow
 Dismantle	Sök	actions	object	Young tree
 Set-trap	Tuzak kur	actions	object	Young tree
 Release	Serbest birak	actions	object	Gnome on a rack
@@ -1072,7 +1072,7 @@ Deactivate	Devre disi birak	actions	object	Magic box
 Trap	Tuzak kur	actions	object	Pit
 Flush	Deligi Temizle	actions	object	Rabbit hole
 Shout-over	Bagir	actions	object	Rockslide
-Pull-down	Cek-asagi	actions	object	Eagle lever
+Pull-down	Çek-asagi	actions	object	Eagle lever
 Push-up	It-yukari	actions	object	Eagle lever
 Quick-start	Hizli-baslat	actions	object	Ladder
 Reset-wave	Sifirla-dalga	actions	object	Door
@@ -1087,7 +1087,7 @@ Take-Tofu	Tofu-al	actions	object	Defender item machine
 Take-Worms	Solucan-al	actions	object	Defender item machine
 Take-Vial	Sise-al	actions	object	Healer item machine
 Take-Meat	Et-al	actions	object	Healer item machine
-Call	Cagir	actions	object	Horn of glory
+Call	Çagir	actions	object	Horn of glory
 Get-Spikes	Diken-al	actions	object	Petrified mushroom
 Load	Yükle	actions	object	Egg hopper
 Evade	Savustur	actions	object	Trap
@@ -1119,10 +1119,10 @@ Check Kudos	Kudos'u kontrol et	actions	object	Information booth
 Add finds	Buluntulari ekle	actions	object	Storage crate
 Clean	Temizle	actions	object	Specimen table
 Talk-into	Konus	actions	object	Drain Pipe
-Wind-up	Calistir	actions	object	Gramophone
+Wind-up	Çalistir	actions	object	Gramophone
 Turn-Off	Kapat	actions	object	Gramophone
 Climb up	Tirman	actions	object	Beard
-Exit-through	Cik	actions	object	Fire rift
+Exit-through	Çik	actions	object	Fire rift
 Push-through	It	actions	object	Magical wheat
 Dive in	Dalis yap	actions	object	Whirlpool
 Construct	Insa et	actions	object	Pyre site
@@ -1133,7 +1133,7 @@ Reach	Ulas	actions	object	Vent
 Free	Serbest birak	actions	object	King Arthur
 Break	Kir	actions	object	Smashed window
 Distract	Dikkatini dagit	actions	object	Eyes
-Drink	Ic	actions	object	Potion
+Drink	Iç	actions	object	Potion
 Store	Sakla	actions	object	Super ranging potion
 Equip	Donat	actions	object	Anti-dragon shield
 Teleport	Isinlan	actions	object	Zamorak altar
@@ -1143,7 +1143,7 @@ Claim-staves	Hak iddia et	actions	object	Barrel
 Climb-off	In	actions	object	Ice bridge
 Crawl	Sürün	actions	object	Cave
 Join	Katil	actions	object	Challenge portal
-Hammer	Cekic	actions	object	Broken strut
+Hammer	Çekiç	actions	object	Broken strut
 Toggle K/D	K/D'yi degistir	actions	object	Wilderness Statistics
 Make-raft	Sal yap	actions	object	Old log
 Toggle XP	XP'yi degistir	actions	object	Deadman chest
@@ -1157,11 +1157,11 @@ Scale	Tirman	actions	object	Rocks
 Walk on	Üzerinde yürü	actions	object	Vine
 Look-in-all	Her yere bak	actions	object	Hole
 Disarm	Boz	actions	object	Floor spikes
-Pass through	Gec	actions	object	Sliced web
+Pass through	Geç	actions	object	Sliced web
 Gaze-into	Icine bak	actions	object	Burning brazier
 Reset-time	Zamani sifirla	actions	object	Burning brazier
 Balance-across	Dengede dur	actions	object	Steep roof
-Leave Cavern	Magaradan cik	actions	object	Inanimate Altar
+Leave Cavern	Magaradan çik	actions	object	Inanimate Altar
 Story	Hikaye	actions	object	Juna
 Climb over	Tirman	actions	object	Broken cart
 Claim	Talep et	actions	object	Reward chest
@@ -1174,8 +1174,8 @@ Perks	Avantajlar	actions	object	Mounted Max Cape
 Spellbook	Büyü Kitabi	actions	object	Mounted Magic Cape
 Clip	Klip	actions	object	Topiary bush
 Feed	Besle	actions	object	Burning brazier
-Take-hammer	Cekic Al	actions	object	Crate
-Take-knife	Bicak Al	actions	object	Crate
+Take-hammer	Çekiç Al	actions	object	Crate
+Take-knife	Biçak Al	actions	object	Crate
 Take-tinderbox	Kibrit Kutusu Al	actions	object	Crate
 Take-concoction	Iksir Al	actions	object	Crate
 Take-5 concoctions	5 Iksir Al	actions	object	Crate
@@ -1317,7 +1317,7 @@ Take Seed Dibber	Tohum ekici al	actions	object	Old tools
 Pick-lots	Topla	actions	object	Gourd tree
 Quick-pass	Hizli gecis	actions	object	Mystical barrier
 Coffer	Kasa	actions	object	Furnace
-Quick-exit	Hizli cikis	actions	object	Cave exit
+Quick-exit	Hizli çikis	actions	object	Cave exit
 Travel to platform	Platforma git	actions	object	Row boat
 Leave platform	Platformdan ayril	actions	object	Row boat
 Check count	Sayimi kontrol et	actions	object	Rock
@@ -1356,13 +1356,13 @@ Heal	Iyilestir	actions	object	Fremennik warrior
 Complete	Tamamla	actions	object	Incomplete map
 Check-Count	Sayimi Kontrol Et	actions	object	Gate
 Clamber	Tirman	actions	object	Rock Pile
-Look-through	Icinden Bak	actions	object	Window
+Look-through	Içinden Bak	actions	object	Window
 Charge-at	Sarj Et	actions	object	Vyre well
 Quick-enter	Hizli Gir	actions	object	Door
 Resign	Istifa Et	actions	object	Vyre Orator
 Varrock	Varrock	actions	object	Varrock Portal
 Grand Exchange	Grand Exchange	actions	object	Varrock Portal
-Toggle	Acik/Kapali	actions	object	Varrock Portal
+Toggle	Açik/Kapali	actions	object	Varrock Portal
 Camelot	Camelot	actions	object	Camelot Portal
 Seers' Village	Seers' Village	actions	object	Camelot Portal
 Watchtower	Watchtower	actions	object	Yanille Watchtower Portal
@@ -1389,9 +1389,9 @@ Cleanse	Temizle	actions	object	Refinery
 Rebalance	Dengele	actions	object	Energy Pylon
 Pick-dragonfruit	Topla-ejderha meyvesi	actions	object	Dragonfruit tree
 Crawl through	Sürünerek gec	actions	object	Tunnel
-Quick-open	Hizli ac	actions	object	Alchemical door
+Quick-open	Hizli aç	actions	object	Alchemical door
 Take-rock	Al-kaya	actions	object	Rubble
-Quick-Exit	Hizli Cikis	actions	object	Ancient Fire
+Quick-Exit	Hizli Çikis	actions	object	Ancient Fire
 Check-Faith	Kontrol et-Inanc	actions	object	Sacred Bone Burner
 Enter-crypt	Gir-mezara	actions	object	Thick Web
 Follow	Takip et	actions	object	Tracks
@@ -1520,7 +1520,7 @@ Take-supplies	Malzemeleri al	actions	object	Stone chest
 Lockpick	Kilidi ac	actions	object	Stone chest (locked)
 Burn	Yak	actions	object	Shipwreck
 Burn`	Yak	actions	object	Gunpowder
-Withdraw	Cek	actions	object	Extract orifice
+Withdraw	Çek	actions	object	Extract orifice
 Tend-to	Ilgilen	actions	object	Forester's Campfire
 Rest	Dinlen	actions	object	Forester's Campfire
 Retrieve-egg	Yumurta al	actions	object	Pheasant Nest
@@ -1548,10 +1548,10 @@ Cimb-down	Asagi-in	actions	object	Open trapdoor
 Bless	Kutsama	actions	object	Exposed altar
 Deposit-eggs	Yumurta-yatir	actions	object	Easter mine cart
 Redeem	Kullan	actions	object	Agility dispenser
-Squeeze-Through	Sikistir-gec	actions	object	Crevice
-Jump-Across	Atla-gec	actions	object	Dry stone wall
-Cross-over	Gecis-yap	actions	object	Broken wall
-Take-many	Cok-al	actions	object	Medical box
+Squeeze-Through	Sikistir-geç	actions	object	Crevice
+Jump-Across	Atla-geç	actions	object	Dry stone wall
+Cross-over	Geçis-yap	actions	object	Broken wall
+Take-many	Çok-al	actions	object	Medical box
 Slide-along	Kay-kay	actions	object	Icy ledge
 Take-uniform	Üniforma-al	actions	object	Wardrobe
 Concentrate-potion	Konsantre-iksir	actions	object	Retort

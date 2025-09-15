@@ -83,15 +83,15 @@ Strength potion(1)	Güç iksiri (1)	name	item	Strength potion(1)
 Attack potion(3)	Saldiri iksiri (3)	name	item	Attack potion(3)
 Attack potion(2)	Saldiri iksiri (2)	name	item	Attack potion(2)
 Attack potion(1)	Saldiri iksiri (1)	name	item	Attack potion(1)
-Restore potion(3)	Iyilestirme iksiri (3)	name	item	Restore potion(3)
-Restore potion(2)	Iyilestirme iksiri (2)	name	item	Restore potion(2)
-Restore potion(1)	Iyilestirme iksiri (1)	name	item	Restore potion(1)
+Restore potion(3)	Restorasyon iksiri (3)	name	item	Restore potion(3)
+Restore potion(2)	Restorasyon iksiri (2)	name	item	Restore potion(2)
+Restore potion(1)	Restorasyon iksiri (1)	name	item	Restore potion(1)
 Defence potion(3)	Savunma iksiri (3)	name	item	Defence potion(3)
 Defence potion(2)	Savunma iksiri (2)	name	item	Defence potion(2)
 Defence potion(1)	Savunma iksiri (1)	name	item	Defence potion(1)
-Prayer potion(3)	Dua iksiri (3)	name	item	Prayer potion(3)
-Prayer potion(2)	Dua iksiri (2)	name	item	Prayer potion(2)
-Prayer potion(1)	Dua iksiri (1)	name	item	Prayer potion(1)
+Prayer potion(3)	Prayer iksiri (3)	name	item	Prayer potion(3)
+Prayer potion(2)	Prayer iksiri (2)	name	item	Prayer potion(2)
+Prayer potion(1)	Prayer iksiri (1)	name	item	Prayer potion(1)
 Super attack(3)	Süper saldiri (3)	name	item	Super attack(3)
 Super attack(2)	Süper saldiri (2)	name	item	Super attack(2)
 Super attack(1)	Süper saldiri (1)	name	item	Super attack(1)
@@ -101,12 +101,12 @@ Fishing potion(1)	Balikçilik iksiri (1)	name	item	Fishing potion(1)
 Super strength(3)	Süper güç (3)	name	item	Super strength(3)
 Super strength(2)	Süper güç (2)	name	item	Super strength(2)
 Super strength(1)	Süper güç (1)	name	item	Super strength(1)
-Super defence(3)	Süper savunma (3)	name	item	Super defence(3)
-Super defence(2)	Süper savunma (2)	name	item	Super defence(2)
-Super defence(1)	Süper savunma (1)	name	item	Super defence(1)
-Ranging potion(3)	Menzil iksiri (3)	name	item	Ranging potion(3)
-Ranging potion(2)	Menzil iksiri (2)	name	item	Ranging potion(2)
-Ranging potion(1)	Menzil iksiri (1)	name	item	Ranging potion(1)
+Super defence(3)	Süper defans (3)	name	item	Super defence(3)
+Super defence(2)	Süper defans (2)	name	item	Super defence(2)
+Super defence(1)	Süper defans (1)	name	item	Super defence(1)
+Ranging potion(3)	Okçu iksiri (3)	name	item	Ranging potion(3)
+Ranging potion(2)	Okçu iksiri (2)	name	item	Ranging potion(2)
+Ranging potion(1)	Okçu iksiri (1)	name	item	Ranging potion(1)
 Antipoison(3)	Panzehir(3)	name	item	Antipoison(3)
 Antipoison(2)	Panzehir(2)	name	item	Antipoison(2)
 Antipoison(1)	Panzehir(1)	name	item	Antipoison(1)
@@ -136,7 +136,7 @@ Limpwurt root	Limpwurt kökü	name	item	Limpwurt root
 Vial of water	Su sisesi	name	item	Vial of water
 Vial	Sise	name	item	Vial
 Snape grass	Snape otu	name	item	Snape grass
-Pestle and mortar	Havan ve havaneli	name	item	Pestle and mortar
+Pestle and mortar	Havan ve tokmak	name	item	Pestle and mortar
 Unicorn horn dust	Tek boynuzlu at boynuzu tozu	name	item	Unicorn horn dust
 Unicorn horn	Tek boynuzlu at boynuzu	name	item	Unicorn horn
 White berries	Beyaz meyveler	name	item	White berries
@@ -232,7 +232,7 @@ Sea turtle	Deniz kaplumbagasi	name	item	Sea turtle
 Burnt sea turtle	Yanmis deniz kaplumbagasi	name	item	Burnt sea turtle
 Seaweed	Deniz yosunu	name	item	Seaweed
 Edible seaweed	Yenilebilir deniz yosunu	name	item	Edible seaweed
-Casket	Tabut	name	item	Casket
+Casket	Sandik	name	item	Casket
 Oyster	Istiridye	name	item	Oyster
 Empty oyster	Bos istiridye	name	item	Empty oyster
 Oyster pearl	Istiridye incisi	name	item	Oyster pearl
@@ -301,19 +301,19 @@ Shade robe	Gölge cüppesi	name	item	Shade robe
 Newcomer map	Yeni gelenler haritasi	name	item	Newcomer map
 Ghostspeak amulet	Hayalet konusma muskasi	name	item	Ghostspeak amulet
 Ghost's skull	Hayaletin kafatasi	name	item	Ghost's skull
-Fire rune	Ates runesi	name	item	Fire rune
-Water rune	Su runesi	name	item	Water rune
-Air rune	Hava runesi	name	item	Air rune
-Earth rune	Toprak runesi	name	item	Earth rune
-Mind rune	Zihin runesi	name	item	Mind rune
-Body rune	Beden runesi	name	item	Body rune
-Death rune	Ölüm runesi	name	item	Death rune
-Nature rune	Doga runesi	name	item	Nature rune
-Chaos rune	Kaos runesi	name	item	Chaos rune
-Law rune	Yasa runesi	name	item	Law rune
-Cosmic rune	Kozmik runesi	name	item	Cosmic rune
-Blood rune	Kan runesi	name	item	Blood rune
-Soul rune	Ruh runesi	name	item	Soul rune
+Fire rune	Ates Runü	name	item	Fire rune
+Water rune	Su Runü	name	item	Water rune
+Air rune	Hava Runü	name	item	Air rune
+Earth rune	Toprak Runü	name	item	Earth rune
+Mind rune	Zihin Runü	name	item	Mind rune
+Body rune	Beden Runü	name	item	Body rune
+Death rune	Ölüm Runü	name	item	Death rune
+Nature rune	Doga Runü	name	item	Nature rune
+Chaos rune	Kaos Runü	name	item	Chaos rune
+Law rune	Yasa Runü	name	item	Law rune
+Cosmic rune	Kozmik Runü	name	item	Cosmic rune
+Blood rune	Kan Runü	name	item	Blood rune
+Soul rune	Ruh Runü	name	item	Soul rune
 Unpowered orb	Güçsüz küre	name	item	Unpowered orb
 Fire orb	Ates küresi	name	item	Fire orb
 Water orb	Su küresi	name	item	Water orb
@@ -326,7 +326,7 @@ Bailing bucket	Kova	name	item	Bailing bucket
 Orb of protection	Koruma küresi	name	item	Orb of protection
 Orbs of protection	Koruma küreleri	name	item	Orbs of protection
 Gnome amulet	Cüce muskasi	name	item	Gnome amulet
-Tinderbox	Çakmaktasi kutusu	name	item	Tinderbox
+Tinderbox	Kibrit kutusu	name	item	Tinderbox
 Ashes	Küller	name	item	Ashes
 Lit torch	Yanan mesale	name	item	Lit torch
 Torch	Mesale	name	item	Torch
@@ -345,7 +345,7 @@ Rashiliyia corpse	Rashiliyia cesedi	name	item	Rashiliyia corpse
 Zadimus corpse	Zadimus cesedi	name	item	Zadimus corpse
 Locating crystal	Konum belirleme kristali	name	item	Locating crystal
 Beads of the dead	Ölülerin boncuklari	name	item	Beads of the dead
-Coins	Madeni paralar	name	item	Coins
+Coins	altin	name	item	Coins
 Bone beads	Kemik boncuklar	name	item	Bone beads
 Paramaya ticket	Paramaya bileti	name	item	Paramaya ticket
 Ship ticket	Gemi bileti	name	item	Ship ticket
@@ -568,16 +568,16 @@ Bear fur	Ayi kürkü	name	item	Bear fur
 Silk	Ipek	name	item	Silk
 Spade	Kürek	name	item	Spade
 Rope	Halat	name	item	Rope
-Flyer	Uçan yaprak	name	item	Flyer
+Flyer	El ilani	name	item	Flyer
 Grey wolf fur	Gri kurt kürkü	name	item	Grey wolf fur
 Plank	Tahta	name	item	Plank
 Christmas cracker	Noel kraker	name	item	Christmas cracker
 Skull	Kafatasi	name	item	Skull
-Tile	Karo	name	item	Tile
+Tile	Tugla	name	item	Tile
 Rock	Kaya	name	item	Rock
 Papyrus	Papirüs	name	item	Papyrus
 Charcoal	Kömür	name	item	Charcoal
-Machete	Palata	name	item	Machete
+Machete	Pala	name	item	Machete
 Cooking pot	Tencere	name	item	Cooking pot
 Disk of returning	Geri dönüs diski	name	item	Disk of returning
 Brass key	Pirinç anahtar	name	item	Brass key
@@ -616,8 +616,8 @@ Blue halloween mask	Mavi cadilar bayrami maskesi	name	item	Blue halloween mask
 Red halloween mask	Kirmizi cadilar bayrami maskesi	name	item	Red halloween mask
 Leather gloves	Deri eldivenler	name	item	Leather gloves
 Leather boots	Deri botlar	name	item	Leather boots
-Leather vambraces	Deri kol zirhlari	name	item	Leather vambraces
-Green d'hide vambraces	Yesil deri kol zirhlari	name	item	Green d'hide vambraces
+Leather vambraces	Deri bileklik	name	item	Leather vambraces
+Green d'hide vambraces	Yesil deri bileklik	name	item	Green d'hide vambraces
 Iron platelegs	Demir bacak zirhlari	name	item	Iron platelegs
 Steel platelegs	Çelik bacak zirhlari	name	item	Steel platelegs
 Mithril platelegs	Mithril bacak zirhlari	name	item	Mithril platelegs
@@ -642,17 +642,17 @@ Black chainbody	Siyah zincir zirh	name	item	Black chainbody
 Mithril chainbody	Mithril zincir zirh	name	item	Mithril chainbody
 Adamant chainbody	Adamant zincir zirh	name	item	Adamant chainbody
 Rune chainbody	Rune zincir zirh	name	item	Rune chainbody
-Iron platebody	Demir zirh gövdesi	name	item	Iron platebody
-Bronze platebody	Bronz zirh gövdesi	name	item	Bronze platebody
-Steel platebody	Çelik zirh gövdesi	name	item	Steel platebody
-Mithril platebody	Mithril zirh gövdesi	name	item	Mithril platebody
-Adamant platebody	Adamant zirh gövdesi	name	item	Adamant platebody
-Black platebody	Siyah zirh gövdesi	name	item	Black platebody
-Rune platebody	Rune zirh gövdesi	name	item	Rune platebody
-Leather body	Deri gövde	name	item	Leather body
+Iron platebody	Demir gövde zirhi	name	item	Iron platebody
+Bronze platebody	Bronz gövde zirhi	name	item	Bronze platebody
+Steel platebody	Çelik gövde zirhi	name	item	Steel platebody
+Mithril platebody	Mithril gövde zirhi	name	item	Mithril platebody
+Adamant platebody	Adamant gövde zirhi	name	item	Adamant platebody
+Black platebody	Siyah gövde zirhi	name	item	Black platebody
+Rune platebody	Rune gövde zirhi	name	item	Rune platebody
+Leather body	Deri gövdelik	name	item	Leather body
 Hardleather body	Sert deri gövde	name	item	Hardleather body
-Studded body	Çivili gövde	name	item	Studded body
-Green d'hide body	Yesil deri gövde	name	item	Green d'hide body
+Studded body	Çivili gövdelik	name	item	Studded body
+Green d'hide body	Yesil deri gövdelik	name	item	Green d'hide body
 Iron med helm	Demir orta zirh basligi	name	item	Iron med helm
 Bronze med helm	Bronz orta zirh basligi	name	item	Bronze med helm
 Steel med helm	Çelik orta zirh basligi	name	item	Steel med helm
@@ -745,13 +745,13 @@ Black 2h sword	Siyah 2h kiliç	name	item	Black 2h sword
 Mithril 2h sword	Mithril 2h kiliç	name	item	Mithril 2h sword
 Adamant 2h sword	Adamant 2h kiliç	name	item	Adamant 2h sword
 Rune 2h sword	Rune 2h kiliç	name	item	Rune 2h sword
-Bronze scimitar	Bronz kiliç	name	item	Bronze scimitar
-Iron scimitar	Demir kiliç	name	item	Iron scimitar
-Steel scimitar	Çelik kiliç	name	item	Steel scimitar
-Black scimitar	Siyah kiliç	name	item	Black scimitar
-Mithril scimitar	Mithril kiliç	name	item	Mithril scimitar
-Adamant scimitar	Adamant kiliç	name	item	Adamant scimitar
-Rune scimitar	Rune kiliç	name	item	Rune scimitar
+Bronze scimitar	Bronz egri kiliç	name	item	Bronze scimitar
+Iron scimitar	Demir egri kiliç	name	item	Iron scimitar
+Steel scimitar	Çelik egri kiliç	name	item	Steel scimitar
+Black scimitar	Siyah egri kiliç	name	item	Black scimitar
+Mithril scimitar	Mithril egri kiliç	name	item	Mithril scimitar
+Adamant scimitar	Adamant egri kiliç	name	item	Adamant scimitar
+Rune scimitar	Rune egri kiliç	name	item	Rune scimitar
 Iron warhammer	Demir savas çekici	name	item	Iron warhammer
 Bronze warhammer	Bronz savas çekici	name	item	Bronze warhammer
 Steel warhammer	Çelik savas çekici	name	item	Steel warhammer
@@ -950,7 +950,7 @@ Holy symbol	Kutsal sembol	name	item	Holy symbol
 Unstrung emblem	Baglanmamis amblem	name	item	Unstrung emblem
 Unpowered symbol	Güçsüz sembol	name	item	Unpowered symbol
 Unholy symbol	Kutsal olmayan sembol	name	item	Unholy symbol
-Amulet of strength	Güç muskasi	name	item	Amulet of strength
+Amulet of strength	Kuvvet muskasi	name	item	Amulet of strength
 Amulet of magic	Büyü muskasi	name	item	Amulet of magic
 Amulet of defence	Savunma muskasi	name	item	Amulet of defence
 Amulet of power	Güç muskasi	name	item	Amulet of power
@@ -1088,7 +1088,7 @@ Easter egg	Paskalya yumurtasi	name	item	Easter egg
 Banana	Muz	name	item	Banana
 Cabbage	Lahana	name	item	Cabbage
 Spinach roll	Ispanakli rulo	name	item	Spinach roll
-Kebab	Kebab	name	item	Kebab
+Kebab	Kebap	name	item	Kebab
 Chocolate bar	Çikolata bar	name	item	Chocolate bar
 Chocolate dust	Çikolata tozu	name	item	Chocolate dust
 Chocolatey milk	Çikolatali süt	name	item	Chocolatey milk
@@ -1184,11 +1184,11 @@ Burnt crunchies	Yanmis çitirlar	name	item	Burnt crunchies
 Half baked crunchy	Yari pismis çitir	name	item	Half baked crunchy
 Raw crunchies	Çig çitirlar	name	item	Raw crunchies
 Rock-climbing boots	Kaya tirmanma botlari	name	item	Rock-climbing boots
-Worm crunchies	Solucan çitirlar	name	item	Worm crunchies
+Worm crunchies	Solucan çitirlari	name	item	Worm crunchies
 Unfinished crunchy	Bitmemis çitir	name	item	Unfinished crunchy
 Chocchip crunchies	Çikolata parçacikli çitirlar	name	item	Chocchip crunchies
 Spicy crunchies	Baharatli çitirlar	name	item	Spicy crunchies
-Toad crunchies	Kurbaga çitirlar	name	item	Toad crunchies
+Toad crunchies	Kurbaga çitirlari	name	item	Toad crunchies
 Premade w'm batta	Hazir w'm batta	name	item	Premade w'm batta
 Premade t'd batta	Hazir t'd batta	name	item	Premade t'd batta
 Premade c+t batta	Hazir c+t batta	name	item	Premade c+t batta
@@ -1299,16 +1299,16 @@ Paste	Yapistirici	name	item	Paste
 Vorkath's head	Vorkath'in kafasi	name	item	Vorkath's head
 Burnt oomlie	Yanmis oomlie	name	item	Burnt oomlie
 Attack potion(4)	Saldiri iksiri (4)	name	item	Attack potion(4)
-Restore potion(4)	Iyilestirme iksiri (4)	name	item	Restore potion(4)
+Restore potion(4)	Restorasyon iksiri (4)	name	item	Restore potion(4)
 Defence potion(4)	Savunma iksiri (4)	name	item	Defence potion(4)
-Prayer potion(4)	Dua iksiri (4)	name	item	Prayer potion(4)
+Prayer potion(4)	Prayer iksiri (4)	name	item	Prayer potion(4)
 Super attack(4)	Süper saldiri (4)	name	item	Super attack(4)
 Fishing potion(4)	Balikçilik iksiri (4)	name	item	Fishing potion(4)
 Super strength(4)	Süper güç (4)	name	item	Super strength(4)
-Super defence(4)	Süper savunma (4)	name	item	Super defence(4)
-Ranging potion(4)	Menzil iksiri (4)	name	item	Ranging potion(4)
-Antipoison(4)	Zehir karsiti (4)	name	item	Antipoison(4)
-Superantipoison(4)	Süper zehir karsiti (4)	name	item	Superantipoison(4)
+Super defence(4)	Süper defans (4)	name	item	Super defence(4)
+Ranging potion(4)	Okçu iksiri (4)	name	item	Ranging potion(4)
+Antipoison(4)	Panzehir (4)	name	item	Antipoison(4)
+Superantipoison(4)	Süper panzehir (4)	name	item	Superantipoison(4)
 Zamorak brew(4)	Zamorak iksiri (4)	name	item	Zamorak brew(4)
 Antifire potion(4)	Yangin karsiti iksiri (4)	name	item	Antifire potion(4)
 Antifire potion(3)	Yangin karsiti iksiri (3)	name	item	Antifire potion(3)
@@ -1326,9 +1326,9 @@ Black flowers	Siyah çiçekler	name	item	Black flowers
 Lantadyme	Lantadyme	name	item	Lantadyme
 Lantadyme potion (unf)	Lantadyme iksiri (unf)	name	item	Lantadyme potion (unf)
 Grimy lantadyme	Kirli lantadyme	name	item	Grimy lantadyme
-Blue d'hide vambraces	Mavi deri kol zirhi	name	item	Blue d'hide vambraces
-Red d'hide vambraces	Kirmizi deri kol zirhi	name	item	Red d'hide vambraces
-Black d'hide vambraces	Siyah deri kol zirhi	name	item	Black d'hide vambraces
+Blue d'hide vambraces	Mavi deri bileklik	name	item	Blue d'hide vambraces
+Red d'hide vambraces	Kirmizi deri bileklik	name	item	Red d'hide vambraces
+Black d'hide vambraces	Siyah deri bileklik	name	item	Black d'hide vambraces
 Blue d'hide chaps	Mavi deri bacak zirhi	name	item	Blue d'hide chaps
 Red d'hide chaps	Kirmizi deri bacak zirhi	name	item	Red d'hide chaps
 Black d'hide chaps	Siyah deri bacak zirhi	name	item	Black d'hide chaps
@@ -1390,11 +1390,11 @@ Adamant platebody (g)	Adamant zirhli gövde (g)	name	item	Adamant platebody (g)
 Adamant platelegs (g)	Adamant zirhli bacak koruyucusu (g)	name	item	Adamant platelegs (g)
 Adamant kiteshield (g)	Adamant uçurtma kalkani (g)	name	item	Adamant kiteshield (g)
 Adamant full helm (g)	Adamant tam migfer (g)	name	item	Adamant full helm (g)
-Rune platebody (g)	Rune zirh gövdesi (g)	name	item	Rune platebody (g)
+Rune platebody (g)	Rune gövde zirhi (g)	name	item	Rune platebody (g)
 Rune platelegs (g)	Rune zirh bacaklari (g)	name	item	Rune platelegs (g)
 Rune full helm (g)	Rune tam migfer (g)	name	item	Rune full helm (g)
 Rune kiteshield (g)	Rune uçurtma kalkani (g)	name	item	Rune kiteshield (g)
-Rune platebody (t)	Rune zirh gövdesi (t)	name	item	Rune platebody (t)
+Rune platebody (t)	Rune gövde zirhi (t)	name	item	Rune platebody (t)
 Rune platelegs (t)	Rune zirh bacaklari (t)	name	item	Rune platelegs (t)
 Rune full helm (t)	Rune tam migfer (t)	name	item	Rune full helm (t)
 Rune kiteshield (t)	Rune uçurtma kalkani (t)	name	item	Rune kiteshield (t)
@@ -1409,25 +1409,25 @@ Red headband	Kirmizi kafa bandi	name	item	Red headband
 Black headband	Siyah kafa bandi	name	item	Black headband
 Brown headband	Kahverengi kafa bandi	name	item	Brown headband
 Pirate's hat	Korsan sapkasi	name	item	Pirate's hat
-Zamorak platebody	Zamorak zirh gövdesi	name	item	Zamorak platebody
+Zamorak platebody	Zamorak gövde zirhi	name	item	Zamorak platebody
 Zamorak platelegs	Zamorak zirh bacaklari	name	item	Zamorak platelegs
 Zamorak full helm	Zamorak tam migfer	name	item	Zamorak full helm
 Zamorak kiteshield	Zamorak uçurtma kalkani	name	item	Zamorak kiteshield
-Saradomin platebody	Saradomin zirh gövdesi	name	item	Saradomin platebody
+Saradomin platebody	Saradomin gövde zirhi	name	item	Saradomin platebody
 Saradomin platelegs	Saradomin zirh bacaklari	name	item	Saradomin platelegs
 Saradomin full helm	Saradomin tam migfer	name	item	Saradomin full helm
 Saradomin kiteshield	Saradomin uçurtma kalkani	name	item	Saradomin kiteshield
-Guthix platebody	Guthix zirh gövdesi	name	item	Guthix platebody
+Guthix platebody	Guthix gövde zirhi	name	item	Guthix platebody
 Guthix platelegs	Guthix zirh bacaklari	name	item	Guthix platelegs
 Guthix full helm	Guthix tam migfer	name	item	Guthix full helm
 Guthix kiteshield	Guthix uçurtma kalkani	name	item	Guthix kiteshield
 Clue scroll (easy)	Ipucu parsömeni (kolay)	name	item	Clue scroll (easy)
-Casket (easy)	Tabut (kolay)	name	item	Casket (easy)
+Casket (easy)	Kasa (kolay)	name	item	Casket (easy)
 Clue scroll (hard)	Ipucu parsömeni (zor)	name	item	Clue scroll (hard)
-Casket (hard)	Tabut (zor)	name	item	Casket (hard)
+Casket (hard)	Kasa (zor)	name	item	Casket (hard)
 Puzzle box (hard)	Bulmaca kutusu (zor)	name	item	Puzzle box (hard)
 Clue scroll (medium)	Ipucu parsömeni (orta)	name	item	Clue scroll (medium)
-Casket (medium)	Tabut (orta)	name	item	Casket (medium)
+Casket (medium)	Kasa (orta)	name	item	Casket (medium)
 Key (medium)	Anahtar (orta)	name	item	Key (medium)
 Challenge scroll (medium)	Meydan okuma parsömeni (orta)	name	item	Challenge scroll (medium)
 Wolf bones	Kurt kemikleri	name	item	Wolf bones
@@ -1479,7 +1479,7 @@ Purple hat	Mor sapka	name	item	Purple hat
 Purple gloves	Mor eldivenler	name	item	Purple gloves
 Golden key	Altin anahtar	name	item	Golden key
 Iron key	Demir anahtar	name	item	Iron key
-Golden tinderbox	Altin çakmaktasi kutusu	name	item	Golden tinderbox
+Golden tinderbox	Altin kibrit kutusu	name	item	Golden tinderbox
 Golden candle	Altin mum	name	item	Golden candle
 Golden pot	Altin tencere	name	item	Golden pot
 Golden hammer	Altin çekiç	name	item	Golden hammer
@@ -1899,7 +1899,7 @@ Decorative sword	Dekoratif kiliç	name	item	Decorative sword
 Decorative armour	Dekoratif zirh	name	item	Decorative armour
 Decorative helm	Dekoratif migfer	name	item	Decorative helm
 Decorative shield	Dekoratif kalkan	name	item	Decorative shield
-Damp tinderbox	Nemli çakmaktasi kutusu	name	item	Damp tinderbox
+Damp tinderbox	Nemli kibrit kutusu	name	item	Damp tinderbox
 Glowing fungus	Parlayan mantar	name	item	Glowing fungus
 Crystal-mine key	Kristal maden anahtari	name	item	Crystal-mine key
 Zealot's key	Fanatik anahtari	name	item	Zealot's key
@@ -2235,12 +2235,12 @@ Pile of salt	Tuz yigini	name	item	Pile of salt
 Sphinx's token	Sfenks'in simgesi	name	item	Sphinx's token
 Gold leaf	Altin yaprak	name	item	Gold leaf
 Bucket of saltwater	Tuzlu su kovasi	name	item	Bucket of saltwater
-Steam rune	Buhar runesi	name	item	Steam rune
-Mist rune	Sis runesi	name	item	Mist rune
-Dust rune	Toz runesi	name	item	Dust rune
-Smoke rune	Duman runesi	name	item	Smoke rune
-Mud rune	Çamur runesi	name	item	Mud rune
-Lava rune	Lav runesi	name	item	Lava rune
+Steam rune	Buhar Runü	name	item	Steam rune
+Mist rune	Sis Runü	name	item	Mist rune
+Dust rune	Toz Runü	name	item	Dust rune
+Smoke rune	Duman Runü	name	item	Smoke rune
+Mud rune	Çamur Runü	name	item	Mud rune
+Lava rune	Lav Runü	name	item	Lava rune
 Sapphire lantern	Safir fener	name	item	Sapphire lantern
 Magic stone	Sihirli tas	name	item	Magic stone
 Stone bowl	Tas kase	name	item	Stone bowl
@@ -2251,11 +2251,11 @@ Ahrim's robetop	Ahrim'in cüppe üstü	name	item	Ahrim's robetop
 Ahrim's robeskirt	Ahrim'in cüppe etegi	name	item	Ahrim's robeskirt
 Dharok's helm	Dharok'un migferi	name	item	Dharok's helm
 Dharok's greataxe	Dharok'un büyük baltasi	name	item	Dharok's greataxe
-Dharok's platebody	Dharok'un zirh gövdesi	name	item	Dharok's platebody
+Dharok's platebody	Dharok'un gövde zirhi	name	item	Dharok's platebody
 Dharok's platelegs	Dharok'un zirh bacaklari	name	item	Dharok's platelegs
 Guthan's helm	Guthan'in migferi	name	item	Guthan's helm
 Guthan's warspear	Guthan'in savas mizragi	name	item	Guthan's warspear
-Guthan's platebody	Guthan'in zirh gövdesi	name	item	Guthan's platebody
+Guthan's platebody	Guthan'in gövde zirhi	name	item	Guthan's platebody
 Guthan's chainskirt	Guthan'in zincir etegi	name	item	Guthan's chainskirt
 Karil's coif	Karil'in basligi	name	item	Karil's coif
 Karil's crossbow	Karil'in tatar yayi	name	item	Karil's crossbow
@@ -2264,7 +2264,7 @@ Karil's leatherskirt	Karil'in deri etegi	name	item	Karil's leatherskirt
 Bolt rack	Ok rafi	name	item	Bolt rack
 Torag's helm	Torag'in migferi	name	item	Torag's helm
 Torag's hammers	Torag'in çekiçleri	name	item	Torag's hammers
-Torag's platebody	Torag'in zirh gövdesi	name	item	Torag's platebody
+Torag's platebody	Torag'in gövde zirhi	name	item	Torag's platebody
 Torag's platelegs	Torag'in zirh bacaklari	name	item	Torag's platelegs
 Verac's helm	Verac'in migferi	name	item	Verac's helm
 Verac's flail	Verac'in kirbaç	name	item	Verac's flail
@@ -2340,11 +2340,11 @@ Dharok's greataxe 75	Dharok'un büyük baltasi 75	name	item	Dharok's greataxe 75
 Dharok's greataxe 50	Dharok'un büyük baltasi 50	name	item	Dharok's greataxe 50
 Dharok's greataxe 25	Dharok'un büyük baltasi 25	name	item	Dharok's greataxe 25
 Dharok's greataxe 0	Dharok'un büyük baltasi 0	name	item	Dharok's greataxe 0
-Dharok's platebody 100	Dharok'un zirh gövdesi 100	name	item	Dharok's platebody 100
-Dharok's platebody 75	Dharok'un zirh gövdesi 75	name	item	Dharok's platebody 75
-Dharok's platebody 50	Dharok'un zirh gövdesi 50	name	item	Dharok's platebody 50
-Dharok's platebody 25	Dharok'un zirh gövdesi 25	name	item	Dharok's platebody 25
-Dharok's platebody 0	Dharok'un zirh gövdesi 0	name	item	Dharok's platebody 0
+Dharok's platebody 100	Dharok'un gövde zirhi 100	name	item	Dharok's platebody 100
+Dharok's platebody 75	Dharok'un gövde zirhi 75	name	item	Dharok's platebody 75
+Dharok's platebody 50	Dharok'un gövde zirhi 50	name	item	Dharok's platebody 50
+Dharok's platebody 25	Dharok'un gövde zirhi 25	name	item	Dharok's platebody 25
+Dharok's platebody 0	Dharok'un gövde zirhi 0	name	item	Dharok's platebody 0
 Dharok's platelegs 100	Dharok'un zirh bacaklari 100	name	item	Dharok's platelegs 100
 Dharok's platelegs 75	Dharok'un zirh bacaklari 75	name	item	Dharok's platelegs 75
 Dharok's platelegs 50	Dharok'un zirh bacaklari 50	name	item	Dharok's platelegs 50
@@ -2360,11 +2360,11 @@ Guthan's warspear 75	Guthan'in savas mizragi 75	name	item	Guthan's warspear 75
 Guthan's warspear 50	Guthan'in savas mizragi 50	name	item	Guthan's warspear 50
 Guthan's warspear 25	Guthan'in savas mizragi 25	name	item	Guthan's warspear 25
 Guthan's warspear 0	Guthan'in savas mizragi 0	name	item	Guthan's warspear 0
-Guthan's platebody 100	Guthan'in zirh gövdesi 100	name	item	Guthan's platebody 100
-Guthan's platebody 75	Guthan'in zirh gövdesi 75	name	item	Guthan's platebody 75
-Guthan's platebody 50	Guthan'in zirh gövdesi 50	name	item	Guthan's platebody 50
-Guthan's platebody 25	Guthan'in zirh gövdesi 25	name	item	Guthan's platebody 25
-Guthan's platebody 0	Guthan'in zirh gövdesi 0	name	item	Guthan's platebody 0
+Guthan's platebody 100	Guthan'in gövde zirhi 100	name	item	Guthan's platebody 100
+Guthan's platebody 75	Guthan'in gövde zirhi 75	name	item	Guthan's platebody 75
+Guthan's platebody 50	Guthan'in gövde zirhi 50	name	item	Guthan's platebody 50
+Guthan's platebody 25	Guthan'in gövde zirhi 25	name	item	Guthan's platebody 25
+Guthan's platebody 0	Guthan'in gövde zirhi 0	name	item	Guthan's platebody 0
 Guthan's chainskirt 100	Guthan'in zincir etegi 100	name	item	Guthan's chainskirt 100
 Guthan's chainskirt 75	Guthan'in zincir etegi 75	name	item	Guthan's chainskirt 75
 Guthan's chainskirt 50	Guthan'in zincir etegi 50	name	item	Guthan's chainskirt 50
@@ -2400,11 +2400,11 @@ Torag's hammers 75	Torag'in çekiçleri 75	name	item	Torag's hammers 75
 Torag's hammers 50	Torag'in çekiçleri 50	name	item	Torag's hammers 50
 Torag's hammers 25	Torag'in çekiçleri 25	name	item	Torag's hammers 25
 Torag's hammers 0	Torag'in çekiçleri 0	name	item	Torag's hammers 0
-Torag's platebody 100	Torag'in zirh gövdesi 100	name	item	Torag's platebody 100
-Torag's platebody 75	Torag'in zirh gövdesi 75	name	item	Torag's platebody 75
-Torag's platebody 50	Torag'in zirh gövdesi 50	name	item	Torag's platebody 50
-Torag's platebody 25	Torag'in zirh gövdesi 25	name	item	Torag's platebody 25
-Torag's platebody 0	Torag'in zirh gövdesi 0	name	item	Torag's platebody 0
+Torag's platebody 100	Torag'in gövde zirhi 100	name	item	Torag's platebody 100
+Torag's platebody 75	Torag'in gövde zirhi 75	name	item	Torag's platebody 75
+Torag's platebody 50	Torag'in gövde zirhi 50	name	item	Torag's platebody 50
+Torag's platebody 25	Torag'in gövde zirhi 25	name	item	Torag's platebody 25
+Torag's platebody 0	Torag'in gövde zirhi 0	name	item	Torag's platebody 0
 Torag's platelegs 100	Torag'in zirhli bacaklari 100	name	item	Torag's platelegs 100
 Torag's platelegs 75	Torag'in zirhli bacaklari 75	name	item	Torag's platelegs 75
 Torag's platelegs 50	Torag'in zirhli bacaklari 50	name	item	Torag's platelegs 50
@@ -3073,7 +3073,7 @@ Snakeskin body	Yilan derisi gövde	name	item	Snakeskin body
 Snakeskin chaps	Yilan derisi çizmeler	name	item	Snakeskin chaps
 Snakeskin bandana	Yilan derisi bandana	name	item	Snakeskin bandana
 Snakeskin boots	Yilan derisi botlar	name	item	Snakeskin boots
-Snakeskin vambraces	Yilan derisi kol zirhlari	name	item	Snakeskin vambraces
+Snakeskin vambraces	Yilan derisi bileklik	name	item	Snakeskin vambraces
 Mahogany logs	Maun kütükleri	name	item	Mahogany logs
 Teak logs	Tik kütükleri	name	item	Teak logs
 Tribal mask	Kabile maskesi	name	item	Tribal mask
@@ -3679,11 +3679,11 @@ Teapot	Çaydanlik	name	item	Teapot
 Tea leaves	Çay yapraklari	name	item	Tea leaves
 Paintbrush	Firça	name	item	Paintbrush
 Toy soldier	Oyuncak asker	name	item	Toy soldier
-Toy soldier (wound)	Oyuncak asker (yarali)	name	item	Toy soldier (wound)
+Toy soldier (wound)	Oyuncak asker (kurulu)	name	item	Toy soldier (wound)
 Toy doll	Oyuncak bebek	name	item	Toy doll
-Toy doll (wound)	Oyuncak bebek (yarali)	name	item	Toy doll (wound)
+Toy doll (wound)	Oyuncak bebek (kurulu)	name	item	Toy doll (wound)
 Toy mouse	Oyuncak fare	name	item	Toy mouse
-Toy mouse (wound)	Oyuncak fare (yarali)	name	item	Toy mouse (wound)
+Toy mouse (wound)	Oyuncak fare (kurulu)	name	item	Toy mouse (wound)
 Toy cat	Oyuncak kedi	name	item	Toy cat
 Reward token	Ödül jetonu	name	item	Reward token
 Long vine	Uzun asma	name	item	Long vine
@@ -4563,11 +4563,11 @@ Page 3	Sayfa 3	name	item	Page 3
 Fragment 1	Parça 1	name	item	Fragment 1
 Fragment 2	Parça 2	name	item	Fragment 2
 Fragment 3	Parça 3	name	item	Fragment 3
-Blank water rune	Bos su runesi	name	item	Blank water rune
-Blank air rune	Bos hava runesi	name	item	Blank air rune
-Blank earth rune	Bos toprak runesi	name	item	Blank earth rune
-Blank mind rune	Bos zihin runesi	name	item	Blank mind rune
-Blank fire rune	Bos ates runesi	name	item	Blank fire rune
+Blank water rune	Bos su Runü	name	item	Blank water rune
+Blank air rune	Bos hava Runü	name	item	Blank air rune
+Blank earth rune	Bos toprak Runü	name	item	Blank earth rune
+Blank mind rune	Bos zihin Runü	name	item	Blank mind rune
+Blank fire rune	Bos ates Runü	name	item	Blank fire rune
 Training sword	Egitim kilici	name	item	Training sword
 Training shield	Egitim kalkani	name	item	Training shield
 Training bow	Egitim yayi	name	item	Training bow
@@ -4792,11 +4792,11 @@ Polar camo legs	Kutup kamuflaj bacaklar	name	item	Polar camo legs
 Spotted cape	Benekli pelerin	name	item	Spotted cape
 Spottier cape	Daha benekli pelerin	name	item	Spottier cape
 Gloves of silence	Sessizlik eldivenleri	name	item	Gloves of silence
-Spiky vambraces	Dikenli kol zirhlari	name	item	Spiky vambraces
-Green spiky vambraces	Yesil dikenli kol zirhlari	name	item	Green spiky vambraces
-Blue spiky vambraces	Mavi dikenli kol zirhlari	name	item	Blue spiky vambraces
-Red spiky vambraces	Kirmizi dikenli kol zirhlari	name	item	Red spiky vambraces
-Black spiky vambraces	Siyah dikenli kol zirhlari	name	item	Black spiky vambraces
+Spiky vambraces	Dikenli bileklik	name	item	Spiky vambraces
+Green spiky vambraces	Yesil dikenli bileklik	name	item	Green spiky vambraces
+Blue spiky vambraces	Mavi dikenli bileklik	name	item	Blue spiky vambraces
+Red spiky vambraces	Kirmizi dikenli bileklik	name	item	Red spiky vambraces
+Black spiky vambraces	Siyah dikenli bileklik	name	item	Black spiky vambraces
 Stripy feather	Çizgili tüy	name	item	Stripy feather
 Red feather	Kirmizi tüy	name	item	Red feather
 Blue feather	Mavi tüy	name	item	Blue feather
@@ -4894,15 +4894,15 @@ Amulet of glory (t1)	Zafer muskasi (t1)	name	item	Amulet of glory (t1)
 Amulet of glory (t)	Zafer muskasi (t)	name	item	Amulet of glory (t)
 Strength amulet (t)	Güç muskasi (t)	name	item	Strength amulet (t)
 Amulet of magic (t)	Büyü muskasi (t)	name	item	Amulet of magic (t)
-Zamorak bracers	Zamorak kol zirhi	name	item	Zamorak bracers
+Zamorak bracers	Zamorak bileklik	name	item	Zamorak bracers
 Zamorak d'hide body	Zamorak deri gövde zirhi	name	item	Zamorak d'hide body
 Zamorak chaps	Zamorak tozluk	name	item	Zamorak chaps
 Zamorak coif	Zamorak baslik	name	item	Zamorak coif
-Guthix bracers	Guthix kol zirhi	name	item	Guthix bracers
+Guthix bracers	Guthix bileklik	name	item	Guthix bracers
 Guthix d'hide body	Guthix deri gövde zirhi	name	item	Guthix d'hide body
 Guthix chaps	Guthix tozluk	name	item	Guthix chaps
 Guthix coif	Guthix baslik	name	item	Guthix coif
-Saradomin bracers	Saradomin kol zirhi	name	item	Saradomin bracers
+Saradomin bracers	Saradomin bileklik	name	item	Saradomin bracers
 Saradomin d'hide body	Saradomin deri gövde zirhi	name	item	Saradomin d'hide body
 Saradomin chaps	Saradomin tozluk	name	item	Saradomin chaps
 Saradomin coif	Saradomin basligi	name	item	Saradomin coif
@@ -5217,8 +5217,8 @@ Dream vial (empty)	Rüya sisesi (bos)	name	item	Dream vial (empty)
 Dream vial (water)	Rüya sisesi (su)	name	item	Dream vial (water)
 Dream vial (herb)	Rüya sisesi (bitki)	name	item	Dream vial (herb)
 Dream potion	Rüya iksiri	name	item	Dream potion
-Ground astral rune	Zemin astral runesi	name	item	Ground astral rune
-Astral rune shards	Astral runesi parçalari	name	item	Astral rune shards
+Ground astral rune	Zemin astral Runü	name	item	Ground astral rune
+Astral rune shards	Astral Runü parçalari	name	item	Astral rune shards
 Dreamy lamp	Rüya lambasi	name	item	Dreamy lamp
 Cyrisus's chest	Cyrisus'un sandigi	name	item	Cyrisus's chest
 Hunter kit	Avci seti	name	item	Hunter kit
@@ -5332,8 +5332,8 @@ Rune hasta(p++)	Rune hasta(p++)	name	item	Rune hasta(p++)
 Fish vial	Balik sisesi	name	item	Fish vial
 Attack mix(2)	Saldiri karisimi(2)	name	item	Attack mix(2)
 Attack mix(1)	Saldiri karisimi(1)	name	item	Attack mix(1)
-Antipoison mix(2)	Zehir karsiti karisimi(2)	name	item	Antipoison mix(2)
-Antipoison mix(1)	Zehir karsiti karisimi(1)	name	item	Antipoison mix(1)
+Antipoison mix(2)	Panzehir karisimi(2)	name	item	Antipoison mix(2)
+Antipoison mix(1)	Panzehir karisimi(1)	name	item	Antipoison mix(1)
 Relicym's mix(2)	Relicym'in karisimi(2)	name	item	Relicym's mix(2)
 Relicym's mix(1)	Relicym'in karisimi(1)	name	item	Relicym's mix(1)
 Strength mix(1)	Güç karisimi(1)	name	item	Strength mix(1)
@@ -5364,7 +5364,7 @@ Magic essence mix(2)	Sihirli öz karisimi (2)	name	item	Magic essence mix(2)
 Magic essence mix(1)	Sihirli öz karisimi (1)	name	item	Magic essence mix(1)
 Super restore mix(2)	Süper iyilestirme karisimi (2)	name	item	Super restore mix(2)
 Super restore mix(1)	Süper iyilestirme karisimi (1)	name	item	Super restore mix(1)
-Super def. mix(2)	Süper savunma karisimi (2)	name	item	Super def. mix(2)
+Super def. mix(2)	Süper defans karisimi (2)	name	item	Super def. mix(2)
 Super def. mix(1)	Süper defans karisimi (1)	name	item	Super def. mix(1)
 Antidote+ mix(2)	Panzehir+ karisimi (2)	name	item	Antidote+ mix(2)
 Antidote+ mix(1)	Panzehir+ karisimi (1)	name	item	Antidote+ mix(1)
@@ -5407,13 +5407,13 @@ Cursed goblin bow	Lanetli goblin yayi	name	item	Cursed goblin bow
 Cursed goblin staff	Lanetli goblin asasi	name	item	Cursed goblin staff
 Anti-dragon shield (nz)	Ejderha karsiti kalkan (nz)	name	item	Anti-dragon shield (nz)
 Magic secateurs (nz)	Sihirli budama makasi (nz)	name	item	Magic secateurs (nz)
-Chaos rune (nz)	Kaos runesi (nz)	name	item	Chaos rune (nz)
-Death rune (nz)	Ölüm runesi (nz)	name	item	Death rune (nz)
-Blood rune (nz)	Kan runesi (nz)	name	item	Blood rune (nz)
-Air rune (nz)	Hava runesi (nz)	name	item	Air rune (nz)
-Water rune (nz)	Su runesi (nz)	name	item	Water rune (nz)
-Earth rune (nz)	Toprak runesi (nz)	name	item	Earth rune (nz)
-Fire rune (nz)	Ates runesi (nz)	name	item	Fire rune (nz)
+Chaos rune (nz)	Kaos Runü (nz)	name	item	Chaos rune (nz)
+Death rune (nz)	Ölüm Runü (nz)	name	item	Death rune (nz)
+Blood rune (nz)	Kan Runü (nz)	name	item	Blood rune (nz)
+Air rune (nz)	Hava Runü (nz)	name	item	Air rune (nz)
+Water rune (nz)	Su Runü (nz)	name	item	Water rune (nz)
+Earth rune (nz)	Toprak Runü (nz)	name	item	Earth rune (nz)
+Fire rune (nz)	Ates Runü (nz)	name	item	Fire rune (nz)
 Rune pickaxe (nz)	Rune kazma (nz)	name	item	Rune pickaxe (nz)
 Mithril pickaxe (nz)	Mithril kazma (nz)	name	item	Mithril pickaxe (nz)
 Iron pickaxe (nz)	Demir kazma (nz)	name	item	Iron pickaxe (nz)
@@ -5609,7 +5609,7 @@ Prospector boots	Madenci botlari	name	item	Prospector boots
 Salve amulet(i)	Merhem muskasi (i)	name	item	Salve amulet(i)
 Salve amulet(ei)	Merhem muskasi (ei)	name	item	Salve amulet(ei)
 Clue scroll (elite)	Ipucu parsömeni (elit)	name	item	Clue scroll (elite)
-Casket (elite)	Tabut (elit)	name	item	Casket (elite)
+Casket (elite)	Kasa (elit)	name	item	Casket (elite)
 Challenge scroll (elite)	Meydan okuma parsömeni (elit)	name	item	Challenge scroll (elite)
 Puzzle box (elite)	Bulmaca kutusu (elit)	name	item	Puzzle box (elite)
 Ancient robe top	Eski cüppe üstü	name	item	Ancient robe top
@@ -5618,12 +5618,12 @@ Ancient cloak	Eski pelerin	name	item	Ancient cloak
 Ancient crozier	Eski piskopos asasi	name	item	Ancient crozier
 Ancient stole	Eski stola	name	item	Ancient stole
 Ancient mitre	Eski mitre	name	item	Ancient mitre
-Bronze platebody (g)	Bronz zirh gövdesi (g)	name	item	Bronze platebody (g)
+Bronze platebody (g)	Bronz gövde zirhi (g)	name	item	Bronze platebody (g)
 Bronze platelegs (g)	Bronz zirh bacaklari (g)	name	item	Bronze platelegs (g)
 Bronze plateskirt (g)	Bronz zirh etegi (g)	name	item	Bronze plateskirt (g)
 Bronze full helm (g)	Bronz tam migfer (g)	name	item	Bronze full helm (g)
 Bronze kiteshield (g)	Bronz uçurtma kalkani (g)	name	item	Bronze kiteshield (g)
-Bronze platebody (t)	Bronz zirh gövdesi (t)	name	item	Bronze platebody (t)
+Bronze platebody (t)	Bronz gövde zirhi (t)	name	item	Bronze platebody (t)
 Bronze platelegs (t)	Bronz zirh bacaklari (t)	name	item	Bronze platelegs (t)
 Bronze plateskirt (t)	Bronz zirh etegi (t)	name	item	Bronze plateskirt (t)
 Bronze full helm (t)	Bronz tam migfer (t)	name	item	Bronze full helm (t)
@@ -5756,7 +5756,7 @@ Black wizard hat (t)	Siyah büyücü sapkasi (t)	name	item	Black wizard hat (t)
 Dark infinity hat	Karanlik sonsuzluk sapkasi	name	item	Dark infinity hat
 Dark infinity top	Karanlik sonsuzluk üstü	name	item	Dark infinity top
 Dark infinity bottoms	Karanlik sonsuzluk alti	name	item	Dark infinity bottoms
-Ancient platebody	Eski zirh gövdesi	name	item	Ancient platebody
+Ancient platebody	Eski gövde zirhi	name	item	Ancient platebody
 Ancient platelegs	Eski zirh bacaklari	name	item	Ancient platelegs
 Ancient plateskirt	Eski plaka etek	name	item	Ancient plateskirt
 Ancient full helm	Eski tam migfer	name	item	Ancient full helm
@@ -5775,11 +5775,11 @@ Ancient bracers	Eski bileklikler	name	item	Ancient bracers
 Ancient d'hide body	Eski deri gövde	name	item	Ancient d'hide body
 Ancient chaps	Eski çoraplar	name	item	Ancient chaps
 Ancient coif	Eski baslik	name	item	Ancient coif
-Bandos bracers	Bandos kol zirhi	name	item	Bandos bracers
+Bandos bracers	Bandos bileklik	name	item	Bandos bracers
 Bandos d'hide body	Bandos deri gövde zirhi	name	item	Bandos d'hide body
 Bandos chaps	Bandos çoraplari	name	item	Bandos chaps
 Bandos coif	Bandos baslik	name	item	Bandos coif
-Armadyl bracers	Armadyl kol zirhi	name	item	Armadyl bracers
+Armadyl bracers	Armadyl bileklik	name	item	Armadyl bracers
 Armadyl d'hide body	Armadyl deri gövde zirhi	name	item	Armadyl d'hide body
 Armadyl chaps	Armadyl çoraplari	name	item	Armadyl chaps
 Armadyl coif	Armadyl baslik	name	item	Armadyl coif
@@ -5929,10 +5929,10 @@ Saradomin's tear	Saradomin'in gözyasi	name	item	Saradomin's tear
 Sara's blessed sword (full)	Sara'nin kutsanmis kilici (dolu)	name	item	Sara's blessed sword (full)
 Saradomin's blessed sword	Saradomin'in kutsanmis kilici	name	item	Saradomin's blessed sword
 Ironman helm	Demir Adam migferi	name	item	Ironman helm
-Ironman platebody	Demir Adam zirh gövdesi	name	item	Ironman platebody
+Ironman platebody	Demir Adam gövde zirhi	name	item	Ironman platebody
 Ironman platelegs	Demir Adam zirh bacaklari	name	item	Ironman platelegs
 Ultimate ironman helm	Ultimate Demir Adam migferi	name	item	Ultimate ironman helm
-Ultimate ironman platebody	Ultimate Demir Adam zirh gövdesi	name	item	Ultimate ironman platebody
+Ultimate ironman platebody	Ultimate Demir Adam gövde zirhi	name	item	Ultimate ironman platebody
 Ultimate ironman platelegs	Ultimate Demir Adam zirh bacaklari	name	item	Ultimate ironman platelegs
 Pet dark core	Pet karanlik çekirdek	name	item	Pet dark core
 Elysian spirit shield	Elysian ruh kalkani	name	item	Elysian spirit shield
@@ -6274,22 +6274,22 @@ Shayzien gloves (1)	Shayzien eldivenleri (1)	name	item	Shayzien gloves (1)
 Shayzien boots (1)	Shayzien botlari (1)	name	item	Shayzien boots (1)
 Shayzien helm (1)	Shayzien migferi (1)	name	item	Shayzien helm (1)
 Shayzien greaves (1)	Shayzien grevleri (1)	name	item	Shayzien greaves (1)
-Shayzien platebody (1)	Shayzien zirh gövdesi (1)	name	item	Shayzien platebody (1)
+Shayzien platebody (1)	Shayzien gövde zirhi (1)	name	item	Shayzien platebody (1)
 Shayzien gloves (2)	Shayzien eldivenleri (2)	name	item	Shayzien gloves (2)
 Shayzien boots (2)	Shayzien botlari (2)	name	item	Shayzien boots (2)
 Shayzien helm (2)	Shayzien migferi (2)	name	item	Shayzien helm (2)
 Shayzien greaves (2)	Shayzien grevleri (2)	name	item	Shayzien greaves (2)
-Shayzien platebody (2)	Shayzien zirh gövdesi (2)	name	item	Shayzien platebody (2)
+Shayzien platebody (2)	Shayzien gövde zirhi (2)	name	item	Shayzien platebody (2)
 Shayzien gloves (3)	Shayzien eldivenleri (3)	name	item	Shayzien gloves (3)
 Shayzien boots (3)	Shayzien botlari (3)	name	item	Shayzien boots (3)
 Shayzien helm (3)	Shayzien migferi (3)	name	item	Shayzien helm (3)
 Shayzien greaves (3)	Shayzien grevleri (3)	name	item	Shayzien greaves (3)
-Shayzien platebody (3)	Shayzien zirh gövdesi (3)	name	item	Shayzien platebody (3)
+Shayzien platebody (3)	Shayzien gövde zirhi (3)	name	item	Shayzien platebody (3)
 Shayzien gloves (4)	Shayzien eldivenleri (4)	name	item	Shayzien gloves (4)
 Shayzien boots (4)	Shayzien botlari (4)	name	item	Shayzien boots (4)
 Shayzien helm (4)	Shayzien migferi (4)	name	item	Shayzien helm (4)
 Shayzien greaves (4)	Shayzien grevleri (4)	name	item	Shayzien greaves (4)
-Shayzien platebody (4)	Shayzien zirh gövdesi (4)	name	item	Shayzien platebody (4)
+Shayzien platebody (4)	Shayzien gövde zirhi (4)	name	item	Shayzien platebody (4)
 Shayzien gloves (5)	Shayzien eldivenleri (5)	name	item	Shayzien gloves (5)
 Shayzien boots (5)	Shayzien botlari (5)	name	item	Shayzien boots (5)
 Shayzien helm (5)	Shayzien migferi (5)	name	item	Shayzien helm (5)
@@ -6392,27 +6392,27 @@ Shayzien supply gloves (1)	Shayzien tedarik eldivenleri (1)	name	item	Shayzien s
 Shayzien supply boots (1)	Shayzien tedarik botlari (1)	name	item	Shayzien supply boots (1)
 Shayzien supply helm (1)	Shayzien tedarik migferi (1)	name	item	Shayzien supply helm (1)
 Shayzien supply greaves (1)	Shayzien tedarik grevleri (1)	name	item	Shayzien supply greaves (1)
-Shayzien supply platebody (1)	Shayzien tedarik zirh gövdesi (1)	name	item	Shayzien supply platebody (1)
+Shayzien supply platebody (1)	Shayzien tedarik gövde zirhi (1)	name	item	Shayzien supply platebody (1)
 Shayzien supply gloves (2)	Shayzien tedarik eldivenleri (2)	name	item	Shayzien supply gloves (2)
 Shayzien supply boots (2)	Shayzien tedarik botlari (2)	name	item	Shayzien supply boots (2)
 Shayzien supply helm (2)	Shayzien tedarik migferi (2)	name	item	Shayzien supply helm (2)
 Shayzien supply greaves (2)	Shayzien tedarik grevleri (2)	name	item	Shayzien supply greaves (2)
-Shayzien supply platebody (2)	Shayzien tedarik zirh gövdesi (2)	name	item	Shayzien supply platebody (2)
+Shayzien supply platebody (2)	Shayzien tedarik gövde zirhi (2)	name	item	Shayzien supply platebody (2)
 Shayzien supply gloves (3)	Shayzien tedarik eldivenleri (3)	name	item	Shayzien supply gloves (3)
 Shayzien supply boots (3)	Shayzien tedarik botlari (3)	name	item	Shayzien supply boots (3)
 Shayzien supply helm (3)	Shayzien tedarik migferi (3)	name	item	Shayzien supply helm (3)
 Shayzien supply greaves (3)	Shayzien tedarik grevleri (3)	name	item	Shayzien supply greaves (3)
-Shayzien supply platebody (3)	Shayzien tedarik zirh gövdesi (3)	name	item	Shayzien supply platebody (3)
+Shayzien supply platebody (3)	Shayzien tedarik gövde zirhi (3)	name	item	Shayzien supply platebody (3)
 Shayzien supply gloves (4)	Shayzien tedarik eldivenleri (4)	name	item	Shayzien supply gloves (4)
 Shayzien supply boots (4)	Shayzien tedarik botlari (4)	name	item	Shayzien supply boots (4)
 Shayzien supply helm (4)	Shayzien tedarik migferi (4)	name	item	Shayzien supply helm (4)
 Shayzien supply greaves (4)	Shayzien tedarik grevleri (4)	name	item	Shayzien supply greaves (4)
-Shayzien supply platebody (4)	Shayzien tedarik zirh gövdesi (4)	name	item	Shayzien supply platebody (4)
+Shayzien supply platebody (4)	Shayzien tedarik gövde zirhi (4)	name	item	Shayzien supply platebody (4)
 Shayzien supply gloves (5)	Shayzien tedarik eldivenleri (5)	name	item	Shayzien supply gloves (5)
 Shayzien supply boots (5)	Shayzien tedarik botlari (5)	name	item	Shayzien supply boots (5)
 Shayzien supply helm (5)	Shayzien tedarik migferi (5)	name	item	Shayzien supply helm (5)
 Shayzien supply greaves (5)	Shayzien tedarik grevleri (5)	name	item	Shayzien supply greaves (5)
-Shayzien supply platebody (5)	Shayzien tedarik zirh gövdesi (5)	name	item	Shayzien supply platebody (5)
+Shayzien supply platebody (5)	Shayzien tedarik gövde zirhi (5)	name	item	Shayzien supply platebody (5)
 Shayzien supply crate	Shayzien tedarik sandigi	name	item	Shayzien supply crate
 Shayzien supply set (1)	Shayzien tedarik seti (1)	name	item	Shayzien supply set (1)
 Shayzien supply set (2)	Shayzien tedarik seti (2)	name	item	Shayzien supply set (2)
@@ -6445,7 +6445,7 @@ Bunny legs	Tavsan bacaklari	name	item	Bunny legs
 Bunny paws	Tavsan pençeleri	name	item	Bunny paws
 Deadman teleport tablet	Ölü adam isinlanma tableti	name	item	Deadman teleport tablet
 Cabbage cape	Lahana pelerini	name	item	Cabbage cape
-Cabbage rune	Lahana runesi	name	item	Cabbage rune
+Cabbage rune	Lahana Runü	name	item	Cabbage rune
 Cruciferous codex	Turpgiller kodeksi	name	item	Cruciferous codex
 Bag full of gems	Mücevherlerle dolu çanta	name	item	Bag full of gems
 Achievement diary cape	Basari günlügü pelerini	name	item	Achievement diary cape
@@ -6858,7 +6858,7 @@ Ring of wealth (i2)	Zenginlik yüzügü (i2)	name	item	Ring of wealth (i2)
 Ring of wealth (i1)	Zenginlik yüzügü (i1)	name	item	Ring of wealth (i1)
 Extra supply crate	Ekstra erzak sandigi	name	item	Extra supply crate
 Hardcore ironman helm	Hardcore ironman migferi	name	item	Hardcore ironman helm
-Hardcore ironman platebody	Hardcore ironman zirh gövdesi	name	item	Hardcore ironman platebody
+Hardcore ironman platebody	Hardcore ironman gövde zirhi	name	item	Hardcore ironman platebody
 Hardcore ironman platelegs	Hardcore ironman zirh bacaklari	name	item	Hardcore ironman platelegs
 Smelly journal	Kokulu günlük	name	item	Smelly journal
 Empty gourd vial	Bos kabak sisesi	name	item	Empty gourd vial
@@ -6867,7 +6867,7 @@ Snow globe	Kar küresi	name	item	Snow globe
 Sack of presents	Hediye çuvali	name	item	Sack of presents
 Giant present	Dev hediye	name	item	Giant present
 Corrupted helm	Bozuk migfer	name	item	Corrupted helm
-Corrupted platebody	Bozuk zirh gövdesi	name	item	Corrupted platebody
+Corrupted platebody	Bozuk gövde zirhi	name	item	Corrupted platebody
 Corrupted platelegs	Bozuk zirh bacaklari	name	item	Corrupted platelegs
 Corrupted plateskirt	Bozuk zirh etegi	name	item	Corrupted plateskirt
 Corrupted kiteshield	Bozuk uçurtma kalkani	name	item	Corrupted kiteshield
@@ -7133,7 +7133,7 @@ Jal-nib-rek	Jal-nib-rek	name	item	Jal-nib-rek
 Infernal eel	Cehennemlik yilan baligi	name	item	Infernal eel
 Infernal cape	Cehennemlik pelerin	name	item	Infernal cape
 Obsidian helmet	Obsidiyen migfer	name	item	Obsidian helmet
-Obsidian platebody	Obsidiyen zirh gövdesi	name	item	Obsidian platebody
+Obsidian platebody	Obsidiyen gövde zirhi	name	item	Obsidian platebody
 Obsidian platelegs	Obsidiyen zirh bacaklari	name	item	Obsidian platelegs
 Rogue's equipment crate	Haydut ekipman sandigi	name	item	Rogue's equipment crate
 Red rainbow strand	Kirmizi gökkusagi ipligi	name	item	Red rainbow strand
@@ -7349,7 +7349,7 @@ Santa's seal	Noel Baba'nin mührü	name	item	Santa's seal
 Vault key	Kasa anahtari	name	item	Vault key
 Bulging sack	Dolgun çuval	name	item	Bulging sack
 Kristmas kebab	Kristmas kebabi	name	item	Kristmas kebab
-Wrath rune	Öfke runesi	name	item	Wrath rune
+Wrath rune	Öfke Runü	name	item	Wrath rune
 Dragon armour set (lg)	Ejderha zirh seti (lg)	name	item	Dragon armour set (lg)
 Dragon armour set (sk)	Ejderha zirh seti (sk)	name	item	Dragon armour set (sk)
 Turquoise slayer helmet	Turkuaz avci migferi	name	item	Turquoise slayer helmet
@@ -7598,7 +7598,7 @@ Vesta's chainbody	Vesta'nin zincir zirhi	name	item	Vesta's chainbody
 Vesta's plateskirt	Vesta'nin zirh etegi	name	item	Vesta's plateskirt
 Statius's warhammer	Statius'un savas çekici	name	item	Statius's warhammer
 Statius's full helm	Statius'un tam migferi	name	item	Statius's full helm
-Statius's platebody	Statius'un zirh gövdesi	name	item	Statius's platebody
+Statius's platebody	Statius'un gövde zirhi	name	item	Statius's platebody
 Statius's platelegs	Statius'un zirh bacaklari	name	item	Statius's platelegs
 Morrigan's throwing axe	Morrigan'in firlatma baltasi	name	item	Morrigan's throwing axe
 Morrigan's javelin	Morrigan'in ciriti	name	item	Morrigan's javelin
@@ -7776,11 +7776,11 @@ Ancient d'hide shield	Eski deri kalkan	name	item	Ancient d'hide shield
 Armadyl d'hide shield	Armadyl deri kalkan	name	item	Armadyl d'hide shield
 Bandos d'hide shield	Bandos deri kalkan	name	item	Bandos d'hide shield
 Dual sai	Çift sai	name	item	Dual sai
-Rune platebody (h1)	Rune zirh gövdesi (h1)	name	item	Rune platebody (h1)
-Rune platebody (h2)	Rune zirh gövdesi (h2)	name	item	Rune platebody (h2)
-Rune platebody (h3)	Rune zirh gövdesi (h3)	name	item	Rune platebody (h3)
-Rune platebody (h4)	Rune zirh gövdesi (h4)	name	item	Rune platebody (h4)
-Rune platebody (h5)	Rune zirh gövdesi (h5)	name	item	Rune platebody (h5)
+Rune platebody (h1)	Rune gövde zirhi (h1)	name	item	Rune platebody (h1)
+Rune platebody (h2)	Rune gövde zirhi (h2)	name	item	Rune platebody (h2)
+Rune platebody (h3)	Rune gövde zirhi (h3)	name	item	Rune platebody (h3)
+Rune platebody (h4)	Rune gövde zirhi (h4)	name	item	Rune platebody (h4)
+Rune platebody (h5)	Rune gövde zirhi (h5)	name	item	Rune platebody (h5)
 Thieving bag	Hirsiz çantasi	name	item	Thieving bag
 Rune defender ornament kit	Rune savunucu süsleme kiti	name	item	Rune defender ornament kit
 Rune defender (t)	Rune savunucu (t)	name	item	Rune defender (t)
@@ -7828,7 +7828,7 @@ Amulet of power (t)	Güç muskasi (t)	name	item	Amulet of power (t)
 Rain bow	Gökkusagi	name	item	Rain bow
 Ham joint	Jambon eklemi	name	item	Ham joint
 Staff of bob the cat	Bob the cat asasi	name	item	Staff of bob the cat
-Black platebody (h1)	Siyah zirh gövdesi (h1)	name	item	Black platebody (h1)
+Black platebody (h1)	Siyah gövde zirhi (h1)	name	item	Black platebody (h1)
 Black platebody (h2)	Siyah zirh (h2)	name	item	Black platebody (h2)
 Black platebody (h3)	Siyah zirh (h3)	name	item	Black platebody (h3)
 Black platebody (h4)	Siyah zirh (h4)	name	item	Black platebody (h4)
@@ -8038,7 +8038,7 @@ Memoriam crystal (2)	Anma kristali (2)	name	item	Memoriam crystal (2)
 Memoriam crystal (3)	Anma kristali (3)	name	item	Memoriam crystal (3)
 Memoriam crystal (4)	Anma kristali (4)	name	item	Memoriam crystal (4)
 Dragonstone full helm	Dragonstone tam migfer	name	item	Dragonstone full helm
-Dragonstone platebody	Dragonstone zirh gövdesi	name	item	Dragonstone platebody
+Dragonstone platebody	Dragonstone gövde zirhi	name	item	Dragonstone platebody
 Dragonstone platelegs	Dragonstone zirh bacaklari	name	item	Dragonstone platelegs
 Dragonstone boots	Dragonstone botlari	name	item	Dragonstone boots
 Dragonstone gauntlets	Dragonstone eldivenleri	name	item	Dragonstone gauntlets
@@ -8703,15 +8703,15 @@ Lil' bloat	Lil' siskin	name	item	Lil' bloat
 Lil' nylo	Lil' nylo	name	item	Lil' nylo
 Lil' sot	Lil' sot	name	item	Lil' sot
 Lil' xarp	Küçük xarp	name	item	Lil' xarp
-Antipoison (-)(1)	Zehir karsiti (-)(1)	name	item	Antipoison (-)(1)
-Antipoison (-)(2)	Zehir karsiti (-)(2)	name	item	Antipoison (-)(2)
-Antipoison (-)(3)	Zehir karsiti (-)(3)	name	item	Antipoison (-)(3)
-Antipoison (-)(4)	Zehir karsiti (-)(4)	name	item	Antipoison (-)(4)
-Antipoison potion (1)	Zehir karsiti iksir (1)	name	item	Antipoison potion (1)
-Antipoison potion (2)	Zehir karsiti iksir (2)	name	item	Antipoison potion (2)
-Antipoison potion (3)	Zehir karsiti iksir (3)	name	item	Antipoison potion (3)
-Antipoison potion (4)	Zehir karsiti iksir (4)	name	item	Antipoison potion (4)
-Antipoison (+)(1)	Zehir karsiti (+)(1)	name	item	Antipoison (+)(1)
+Antipoison (-)(1)	Panzehir (-)(1)	name	item	Antipoison (-)(1)
+Antipoison (-)(2)	Panzehir (-)(2)	name	item	Antipoison (-)(2)
+Antipoison (-)(3)	Panzehir (-)(3)	name	item	Antipoison (-)(3)
+Antipoison (-)(4)	Panzehir (-)(4)	name	item	Antipoison (-)(4)
+Antipoison potion (1)	Panzehir iksir (1)	name	item	Antipoison potion (1)
+Antipoison potion (2)	Panzehir iksir (2)	name	item	Antipoison potion (2)
+Antipoison potion (3)	Panzehir iksir (3)	name	item	Antipoison potion (3)
+Antipoison potion (4)	Panzehir iksir (4)	name	item	Antipoison potion (4)
+Antipoison (+)(1)	Panzehir (+)(1)	name	item	Antipoison (+)(1)
 Antipoison (+)(2)	Antipoison (+)(2)	name	item	Antipoison (+)(2)
 Antipoison (+)(3)	Antipoison (+)(3)	name	item	Antipoison (+)(3)
 Antipoison (+)(4)	Antipoison (+)(4)	name	item	Antipoison (+)(4)
@@ -8845,11 +8845,11 @@ Sigil of last recall	Son hatirlama mührü	name	item	Sigil of last recall
 Sigil of the guardian angel	Koruyucu melek mührü	name	item	Sigil of the guardian angel
 Mount karuulm diary	Karuulm dagi günlügü	name	item	Mount karuulm diary
 Group ironman helm	Grup demir adam migferi	name	item	Group ironman helm
-Group ironman platebody	Grup demir adam zirh gövdesi	name	item	Group ironman platebody
+Group ironman platebody	Grup demir adam gövde zirhi	name	item	Group ironman platebody
 Group ironman platelegs	Grup demir adam zirh bacaklari	name	item	Group ironman platelegs
 Group ironman bracers	Grup demir adam zirh kolluklari	name	item	Group ironman bracers
 Hardcore group ironman helm	Sert grup demir adam migferi	name	item	Hardcore group ironman helm
-Hardcore group ironman platebody	Sert grup demir adam zirh gövdesi	name	item	Hardcore group ironman platebody
+Hardcore group ironman platebody	Sert grup demir adam gövde zirhi	name	item	Hardcore group ironman platebody
 Hardcore group ironman platelegs	Sert grup demir adam zirh bacaklari	name	item	Hardcore group ironman platelegs
 Hardcore group ironman bracers	Sert grup demir adam zirh kolluklari	name	item	Hardcore group ironman bracers
 Osmumten's fang	Osmumten'in disi	name	item	Osmumten's fang
@@ -8860,7 +8860,7 @@ Ancient ceremonial gloves	Eski tören eldivenleri	name	item	Ancient ceremonial g
 Ancient ceremonial boots	Eski tören botlari	name	item	Ancient ceremonial boots
 Nihil shard	Nihil parçasi	name	item	Nihil shard
 Ancient godsword	Eski tanri kilici	name	item	Ancient godsword
-Zaryte vambraces	Zaryte kol zirhi	name	item	Zaryte vambraces
+Zaryte vambraces	Zaryte bileklik	name	item	Zaryte vambraces
 Zaryte bow	Zaryte yay	name	item	Zaryte bow
 Virtus mask	Virtus maskesi	name	item	Virtus mask
 Virtus robe top	Virtus cüppe üstü	name	item	Virtus robe top
@@ -8878,10 +8878,10 @@ Festive cinnamon	Bayramlik tarçin	name	item	Festive cinnamon
 Festive holly	Bayramlik çobanpüskülü	name	item	Festive holly
 Festive white wine	Bayramlik beyaz sarap	name	item	Festive white wine
 Magical cleaning potion	Sihirli temizlik iksiri	name	item	Magical cleaning potion
-Pink stained platebody	Pembe lekeli zirh gövdesi	name	item	Pink stained platebody
+Pink stained platebody	Pembe lekeli gövde zirhi	name	item	Pink stained platebody
 Pink stained platelegs	Pembe lekeli zirh bacaklari	name	item	Pink stained platelegs
 Pink stained full helm	Pembe lekeli tam migfer	name	item	Pink stained full helm
-Clean platebody	Temiz zirh gövdesi	name	item	Clean platebody
+Clean platebody	Temiz gövde zirhi	name	item	Clean platebody
 Clean platelegs	Temiz zirh bacaklari	name	item	Clean platelegs
 Clean full helm	Temiz tam migfer	name	item	Clean full helm
 Festive gingerbread gnomes	Bayramlik zencefilli kurabiye cüceleri	name	item	Festive gingerbread gnomes
@@ -8922,10 +8922,10 @@ Ancient hilt	Eski kabza	name	item	Ancient hilt
 Nihil horn	Nihil boynuzu	name	item	Nihil horn
 Zaryte crossbow	Zaryte tatar yayi	name	item	Zaryte crossbow
 Torva full helm (damaged)	Torva tam migfer (hasarli)	name	item	Torva full helm (damaged)
-Torva platebody (damaged)	Torva zirh gövdesi (hasarli)	name	item	Torva platebody (damaged)
+Torva platebody (damaged)	Torva gövde zirhi (hasarli)	name	item	Torva platebody (damaged)
 Torva platelegs (damaged)	Torva zirh bacaklari (hasarli)	name	item	Torva platelegs (damaged)
 Torva full helm	Torva tam migfer	name	item	Torva full helm
-Torva platebody	Torva zirh gövdesi	name	item	Torva platebody
+Torva platebody	Torva gövde zirhi	name	item	Torva platebody
 Torva platelegs	Torva zirh bacaklari	name	item	Torva platelegs
 Ecumenical key shard	Ekümenik anahtar parçasi	name	item	Ecumenical key shard
 Blood essence	Kan özü	name	item	Blood essence
@@ -9248,7 +9248,7 @@ Tenacious indigo iris seed	Inatçi indigo iris tohumu	name	item	Tenacious indigo
 Quality violet tulip seed	Kaliteli menekse lale tohumu	name	item	Quality violet tulip seed
 Group ironman helm (unranked)	Grup demir adam migferi (siralamasi yok)	name	item	Group ironman helm (unranked)
 Group ironman platelegs (unranked)	Grup demir adam bacak zirhi (siralamasi yok)	name	item	Group ironman platelegs (unranked)
-Group ironman bracers (unranked)	Grup demir adam kol zirhi (siralamasi yok)	name	item	Group ironman bracers (unranked)
+Group ironman bracers (unranked)	Grup demir adam bileklik (siralamasi yok)	name	item	Group ironman bracers (unranked)
 Group ironman platebody (unranked)	Grup demir adam gövde zirhi (siralamasi yok)	name	item	Group ironman platebody (unranked)
 Elder maul ornament kit	Yasli çekiç süsleme kiti	name	item	Elder maul ornament kit
 Elder maul (or)	Yasli çekiç (or)	name	item	Elder maul (or)
@@ -9365,7 +9365,7 @@ Adventurer's top (t3)	Maceracinin üstü (t3)	name	item	Adventurer's top (t3)
 Adventurer's trousers (t3)	Maceracinin pantolonu (t3)	name	item	Adventurer's trousers (t3)
 Adventurer's hood (t3)	Maceracinin basligi (t3)	name	item	Adventurer's hood (t3)
 Adventurer's boots (t3)	Maceracinin botlari (t3)	name	item	Adventurer's boots (t3)
-Adventurer's vambraces	Maceracinin kol zirhi	name	item	Adventurer's vambraces
+Adventurer's vambraces	Maceracinin bileklik	name	item	Adventurer's vambraces
 Giant stopwatch	Dev kronometre	name	item	Giant stopwatch
 Speedy teleport scroll	Hizli isinlanma parsömeni	name	item	Speedy teleport scroll
 Bronze speedrun trophy	Bronz hiz kosusu kupasi	name	item	Bronze speedrun trophy
@@ -9504,7 +9504,7 @@ Zuriel's robe bottom (bh)	Zuriel'in cüppe alti (bh)	name	item	Zuriel's robe bot
 Corrupted vesta's chainbody (bh)	Yozlasmis Vesta'nin zincir zirhi (bh)	name	item	Corrupted vesta's chainbody (bh)
 Corrupted vesta's plateskirt (bh)	Yozlasmis Vesta'nin zirh etegi (bh)	name	item	Corrupted vesta's plateskirt (bh)
 Corrupted statius's full helm (bh)	Yozlasmis Statius'un tam migferi (bh)	name	item	Corrupted statius's full helm (bh)
-Corrupted statius's platebody (bh)	Yozlasmis Statius'un zirh gövdesi (bh)	name	item	Corrupted statius's platebody (bh)
+Corrupted statius's platebody (bh)	Yozlasmis Statius'un gövde zirhi (bh)	name	item	Corrupted statius's platebody (bh)
 Corrupted statius's platelegs (bh)	Yozlasmis Statius'un zirh bacaklari (bh)	name	item	Corrupted statius's platelegs (bh)
 Corrupted morrigan's coif (bh)	Yozlasmis Morrigan'in basligi (bh)	name	item	Corrupted morrigan's coif (bh)
 Corrupted morrigan's leather body (bh)	Yozlasmis Morrigan'in deri gövdesi (bh)	name	item	Corrupted morrigan's leather body (bh)
@@ -9539,7 +9539,7 @@ Zuriel's staff (bh)(inactive)	Zuriel'in asasi (bh)(etkin degil)	name	item	Zuriel
 Vesta's chainbody (bh)(inactive)	Vesta'nin zincir zirhi (bh)(etkin degil)	name	item	Vesta's chainbody (bh)(inactive)
 Vesta's plateskirt (bh)(inactive)	Vesta'nin zirh etegi (bh)(etkin degil)	name	item	Vesta's plateskirt (bh)(inactive)
 Statius's full helm (bh)(inactive)	Statius'un tam migferi (bh)(etkin degil)	name	item	Statius's full helm (bh)(inactive)
-Statius's platebody (bh)(inactive)	Statius'un zirh gövdesi (bh)(etkin degil)	name	item	Statius's platebody (bh)(inactive)
+Statius's platebody (bh)(inactive)	Statius'un gövde zirhi (bh)(etkin degil)	name	item	Statius's platebody (bh)(inactive)
 Statius's platelegs (bh)(inactive)	Statius'un zirh bacaklari (bh)(etkin degil)	name	item	Statius's platelegs (bh)(inactive)
 Morrigan's coif (bh)(inactive)	Morrigan'in basligi (bh)(etkin degil)	name	item	Morrigan's coif (bh)(inactive)
 Morrigan's leather body (bh)(inactive)	Morrigan'in deri gövdesi (bh)(etkin degil)	name	item	Morrigan's leather body (bh)(inactive)
@@ -9673,7 +9673,7 @@ Butch	Butch	name	item	Butch
 Baron	Baron	name	item	Baron
 Lil'viathan	Lil'viathan	name	item	Lil'viathan
 Sanguine torva full helm	Sanguine torva tam migfer	name	item	Sanguine torva full helm
-Sanguine torva platebody	Sanguine torva zirh gövdesi	name	item	Sanguine torva platebody
+Sanguine torva platebody	Sanguine torva gövde zirhi	name	item	Sanguine torva platebody
 Sanguine torva platelegs	Sanguine torva zirh bacaklari	name	item	Sanguine torva platelegs
 Blood quartz	Kan kuvars	name	item	Blood quartz
 Ice quartz	Buz kuvars	name	item	Ice quartz
@@ -9964,7 +9964,7 @@ Dizana's max cape (l)	Dizana'nin maksimum pelerini (l)	name	item	Dizana's max ca
 Tonalztics of ralos (uncharged)	Ralos'un tonalztikleri (sarjsiz)	name	item	Tonalztics of ralos (uncharged)
 Tonalztics of ralos	Ralos'un tonalztikleri	name	item	Tonalztics of ralos
 Sunfire splinters	Günes atesi kiymiklari	name	item	Sunfire splinters
-Sunfire rune	Günes atesi runesi	name	item	Sunfire rune
+Sunfire rune	Günes atesi Runü	name	item	Sunfire rune
 Searing page	Yakici sayfa	name	item	Searing page
 Sunfire fanatic helm	Günes atesi fanatigi migferi	name	item	Sunfire fanatic helm
 Sunfire fanatic cuirass	Günes atesi fanatigi zirhi	name	item	Sunfire fanatic cuirass
@@ -10229,7 +10229,7 @@ Water block	Su blogu	name	item	Water block
 Vine flower	Asma çiçegi	name	item	Vine flower
 Grimy note	Kirli not	name	item	Grimy note
 Elite black full helm	Elit siyah tam migfer	name	item	Elite black full helm
-Elite black platebody	Elit siyah zirh gövdesi	name	item	Elite black platebody
+Elite black platebody	Elit siyah gövde zirhi	name	item	Elite black platebody
 Elite black platelegs	Elit siyah zirh bacaklari	name	item	Elite black platelegs
 Dark squall hood	Karanlik firtina basligi	name	item	Dark squall hood
 Dark squall robe top	Karanlik firtina cüppesi üstü	name	item	Dark squall robe top
@@ -10712,7 +10712,7 @@ Contract of catalyst acquisition	Katalizör edinme sözlesmesi	name	item	Contrac
 Contract of worm acquisition	Solucan edinme sözlesmesi	name	item	Contract of worm acquisition
 Contract of harmony acquisition	Uyum edinme sözlesmesi	name	item	Contract of harmony acquisition
 Contract of familiar acquisition	Tanidik edinme sözlesmesi	name	item	Contract of familiar acquisition
-Aether rune	Eter runesi	name	item	Aether rune
+Aether rune	Eter Runü	name	item	Aether rune
 Infernal shale	Cehennem sist	name	item	Infernal shale
 Crushed infernal shale	Ezilmis cehennem sist	name	item	Crushed infernal shale
 Infernal blend	Cehennem karisimi	name	item	Infernal blend
@@ -16280,231 +16280,231 @@ Fire altar	Ates sunagi	name	object	Fire altar
 Broken Fire altar	Kirik ates sunagi	name	object	Broken Fire altar
 Funeral Pyre	Cenaze atesi	name	object	Funeral Pyre
 Basic Pyre	Basit ates	name	object	Basic Pyre
-Oak Pyre	Sögüt Atesi	name	object	Oak Pyre
-Willow Pyre	Akçaagaç Atesi	name	object	Willow Pyre
-Maple Pyre	Porsuk Atesi	name	object	Maple Pyre
-Yew Pyre	Sihirli Ates	name	object	Yew Pyre
-Magic Pyre	Masif bronz kapi	name	object	Magic Pyre
-Solid bronze door	Masif çelik kapi	name	object	Solid bronze door
-Solid steel door	Masif siyah kapi	name	object	Solid steel door
-Solid black door	Masif gümüs kapi	name	object	Solid black door
-Solid silver door	Bronz Sandik	name	object	Solid silver door
-Bronze Chest	Çelik Sandik	name	object	Bronze Chest
-Steel Chest	Siyah Sandik	name	object	Steel Chest
-Black Chest	Gümüs Sandik	name	object	Black Chest
-Silver Chest	Ahsap kapilar	name	object	Silver Chest
-Wooden doors	Yamaç girisi	name	object	Wooden doors
-Hillside entrance	Garip sunak	name	object	Hillside entrance
-Strange altar	Sallanan agaç	name	object	Strange altar
-Swaying tree	Altin agaç	name	object	Swaying tree
-Golden tree	Lalli'nin Güveci	name	object	Golden tree
-Lalli's Stew	Portal	name	object	Lalli's Stew
-Portal	Kaçis ipi	name	object	Portal
-Escape rope	Donmus masa	name	object	Escape rope
-Frozen table	Kanalizasyon	name	object	Frozen table
-Drain	Musluk	name	object	Drain
-Tap	Soyut duvar resmi	name	object	Tap
-Abstract mural	Sis kebap	name	object	Abstract mural
-Spit roast	Ahsap masa	name	object	Spit roast
-Wooden Table	Balik tezgahi	name	object	Wooden Table
-Fish stall	Fiçi	name	object	Fish stall
-Keg	Terk edilmis araba	name	object	Keg
-Abandoned Cart	Çömlek firini	name	object	Abandoned Cart
-Pottery Oven	Iplik çarki	name	object	Pottery Oven
-Spinning wheel	Çömlekçi çarki	name	object	Spinning wheel
-Potter's Wheel	Kabuk	name	object	Potter's Wheel
-Shell	Kase	name	object	Shell
-Bowl	Standart stand	name	object	Bowl
-Standard Stand	Demir merdiven	name	object	Standard Stand
-Iron ladder	Saradomin portali	name	object	Iron ladder
-Saradomin Portal	Zamorak portali	name	object	Saradomin Portal
-Zamorak Portal	Guthix portali	name	object	Zamorak Portal
-Guthix Portal	Basamak tasi	name	object	Guthix Portal
-Stepping stone	Barikat	name	object	Stepping stone
-Barricade	Kirik kapi	name	object	Barricade
-Broken door	Siperler	name	object	Broken door
-Battlements	Magara duvari	name	object	Battlements
-Cave wall	Enerji bariyeri	name	object	Cave wall
-Energy Barrier	Skor tahtasi	name	object	Energy Barrier
-Scoreboard	Güvercin	name	object	Scoreboard
-Pigeon	Kurask kafasi	name	object	Pigeon
-Kurask head	Duvara asili kiliç baligi	name	object	Kurask head
-Mounted swordfish	Duvara asili levrek	name	object	Mounted swordfish
-Mounted sea bass	Sandalye alani	name	object	Mounted sea bass
-Chair space	Hali alani	name	object	Chair space
-Rug space	Kitaplik alani	name	object	Rug space
-Bookcase space	Sömine alani	name	object	Bookcase space
-Fireplace space	Perde alani	name	object	Fireplace space
-Curtain space	Gölet	name	object	Curtain space
-Pond	Zindan girisi	name	object	Pond
-Dungeon entrance	Mese agaci	name	object	Dungeon entrance
-Oak tree	Sögüt agaci	name	object	Oak tree
-Willow tree	Akçaagaç agaci	name	object	Willow tree
-Maple tree	Porsuk agaci	name	object	Maple tree
-Yew tree	Sihirli agaç	name	object	Yew tree
-Magic tree	Garip duvar	name	object	Magic tree
-Strange wall	Plaj	name	object	Strange wall
-Beach	Bazalt kayasi	name	object	Beach
-Basalt rock	Kayalik sahil	name	object	Basalt rock
-Rocky shore	Aydinlatma mekanizmasi	name	object	Rocky shore
-Lighting mechanism	Kirik köprü	name	object	Lighting mechanism
-Broken bridge	Sömine	name	object	Broken bridge
-Fireplace	Yigilmis fiçilar	name	object	Fireplace
-Stacked barrels	Arrav	name	object	Stacked barrels
-Arrav	Camorra	name	object	Arrav
-Camorra	Taht Odasi Kapisi	name	object	Camorra
-Throne Room Door	Kömür kayalari	name	object	Throne Room Door
-Coal rocks	Arp	name	object	Coal rocks
-Harp	Sebze tezgahi	name	object	Harp
-Veg stall	Bambu Merdiven	name	object	Veg stall
-Bamboo Ladder	Köprünün ucu	name	object	Bamboo Ladder
-End of bridge	Bambu Tabure	name	object	End of bridge
-Bamboo Stool	Alev duvari	name	object	Bamboo Stool
-Wall of flame	Kurban Atesi	name	object	Wall of flame
-Sacrificial Pyre	Tugla duvar	name	object	Sacrificial Pyre
-Wall of bricks	Tugla yigini	name	object	Wall of bricks
-Pile of bricks	Awowogei	name	object	Pile of bricks
-Awowogei	Bambu Kapi	name	object	Awowogei
-Bamboo Gate	Bambu Yatak	name	object	Bamboo Gate
-Bamboo Bed	Bambu Masa	name	object	Bamboo Bed
-Bamboo Desk	Bambu Kitaplik	name	object	Bamboo Desk
-Bamboo Bookcase	Hapishane Kapisi	name	object	Bamboo Bookcase
-Jail Door	Orman Çimi	name	object	Jail Door
-Jungle Grass	Uzun ot	name	object	Jungle Grass
-Long grass	Orman agaci kütügü	name	object	Long grass
-Jungle tree stump	Orman çiçegi	name	object	Jungle tree stump
-Jungle Flower	Orman bitkisi	name	object	Jungle Flower
-Jungle Plant	Sürünen bitki	name	object	Jungle Plant
-Creeping Plant	Kesilmis çali	name	object	Creeping Plant
-Slashed Bush	Tropikal yapraklar	name	object	Slashed Bush
-Tropical Leaves	Içi bos kütük	name	object	Tropical Leaves
-Hollow Log	Parlayan mantar	name	object	Hollow Log
-Glowing Fungus	Goril heykeli	name	object	Glowing Fungus
-Gorilla Statue	Maymun heykeli	name	object	Gorilla Statue
-Monkey Statue	Gözetleme kulesi ayaklari	name	object	Monkey Statue
-Watchtower Legs	Gözetleme kulesi ortasi	name	object	Watchtower Legs
-Watchtower Middle	Cüce planörü	name	object	Watchtower Middle
-Gnome Glider	Isinlanma cihazi	name	object	Gnome Glider
-Teleportation Device	Yeniden baslatma paneli	name	object	Teleportation Device
-Reinitialisation Panel	Çikis isareti	name	object	Reinitialisation Panel
-Exit Sign	El sanatlari tezgahi	name	object	Exit Sign
-Crafting Stall	Yiyecek tezgahi	name	object	Crafting Stall
-Food Stall	Genel tezgah	name	object	Food Stall
-General Stall	Sihir tezgahi	name	object	General Stall
-Magic Stall	Kiliç Tezgahi	name	object	Magic Stall
-Scimitar Stall	Hafif girintiler	name	object	Scimitar Stall
-Slight indentations	Bir kaya	name	object	Slight indentations
-A rock	Saradomin Sancagi	name	object	A rock
-Saradomin Standard	Zamorak Sancagi	name	object	Saradomin Standard
-Zamorak Standard	Araba tüneli	name	object	Zamorak Standard
-Cart tunnel	Su Vanasi	name	object	Cart tunnel
-Water Valve	Kristal çikintisi	name	object	Water Valve
-Crystal outcrop	Karanlik tünel	name	object	Crystal outcrop
-Dark tunnel	Parlayan mantar	name	object	Dark tunnel
-Glowing fungus	Tavan destegi	name	object	Glowing fungus
-Ceiling support	Duvar destegi	name	object	Ceiling support
-Wall support	Asansör	name	object	Wall support
-Lift	Puan ayarlari	name	object	Lift
-Points settings	Ahsap tahtalar	name	object	Points settings
-Wooden boards	Halat köprü	name	object	Wooden boards
-Rope bridge	Nadir Çiçekler	name	object	Rope bridge
-Rare Flowers	Egim	name	object	Rare Flowers
-Slope	Çatlak	name	object	Slope
-Crevasse	Buzla kapli kaya	name	object	Crevasse
-Ice covered boulder	Buz kapisi	name	object	Ice covered boulder
-Ice gate	Sarkit	name	object	Ice gate
-Stalactite	Bataklik Teknesi	name	object	Stalactite
-Swamp Boaty	Savas Parsömeni	name	object	Swamp Boaty
-Combat Scroll	Duman çikisi	name	object	Combat Scroll
-Smoking vent	Kalkan	name	object	Smoking vent
-Shield	Uzun Bitki	name	object	Shield
-Tall Plant	Kisa Bitki	name	object	Tall Plant
-Short Plant	Büyük Yaprakli Bitki	name	object	Short Plant
-Large-leaf Plant	Dev Bitki	name	object	Large-leaf Plant
-Huge plant	Rihtim Yapragi	name	object	Huge plant
-Dock Leaf	Sazlik	name	object	Dock Leaf
-Reeds	Biberiye	name	object	Reeds
-Rosemary	Nergis	name	object	Rosemary
-Daffodils	Çan Çiçegi	name	object	Daffodils
-Bluebells	Kadife Çiçegi	name	object	Bluebells
-Marigolds	Gül	name	object	Marigolds
-Roses	Sinir taslari	name	object	Roses
-Boundary stones	Ahsap çit	name	object	Boundary stones
-Wooden fence	Tas duvar	name	object	Wooden fence
-Stone wall	Demir parmakliklar	name	object	Stone wall
-Iron railings	Baston yigini	name	object	Iron railings
-Pile of canes	Saat	name	object	Pile of canes
-Clock	Anit	name	object	Clock
-Memorial	Mezar	name	object	Memorial
-Grave	Paratoner	name	object	Grave
-Lightning conductor	Sömine çevresi	name	object	Lightning conductor
-Fireplace surround	Sütun	name	object	Fireplace surround
-Column	Kristal büyümesi	name	object	Column
-Crystal growth	Tekne	name	object	Crystal growth
-Boat	El arabasi	name	object	Boat
-Wheelbarrow	Iskelet	name	object	Wheelbarrow
-Skeleton	Direk	name	object	Skeleton
-Mast	Kaptan masasi	name	object	Mast
-Captain's Table	Kirik kapi	name	object	Captain's Table
-Broken Door	Mücevher tezgahi	name	object	Broken Door
-Jewellery stall	Kürsü	name	object	Jewellery stall
-Lectern	Rihtim yapragi bitkisi	name	object	Lectern
-Dock leaf plant	Asili duvar halisi	name	object	Dock leaf plant
-Hanging tapestry	Aggie'nin Kazani	name	object	Hanging tapestry
-Aggie's Cauldron	Kuru tas duvar	name	object	Aggie's Cauldron
-Dry stone wall	Kümes	name	object	Dry stone wall
-Coop	Çuval	name	object	Coop
-Sack	Tomruklar	name	object	Sack
-Logs	Oyuncak tezgahi	name	object	Logs
-Toy Stall	Su varili	name	object	Toy Stall
-Water Barrel	Tencere	name	object	Water Barrel
-Cooking Pots	Siçan deligi	name	object	Cooking Pots
-Rat-hole	Büyük vazo	name	object	Rat-hole
-Big vase	Ned'in masasi	name	object	Big vase
-Ned's Table	Çit	name	object	Ned's Table
-Picket fence	Bahçe çiti	name	object	Picket fence
-Garden fence	Kilise sirasi	name	object	Garden fence
-Church pew	Çatlak	name	object	Church pew
-Crack	Heykel	name	object	Crack
-Sculpture	Rüzgar gülü	name	object	Sculpture
-Weathervane	Kahin rüzgar gülü	name	object	Weathervane
-Seers weathervane	Cüce inis isigi	name	object	Seers weathervane
-Gnome landing light	Yanip sönen inis isigi	name	object	Gnome landing light
-Flashing landing light	Kiliç dükkani tabelasi	name	object	Flashing landing light
-Swordshop Sign	Antika dükkani tezgahi	name	object	Swordshop Sign
-Antiques Shop Stall	Uzun agaç	name	object	Antiques Shop Stall
-Tall tree	Kaya yigini	name	object	Tall tree
-Clump of rocks	Düz tas	name	object	Clump of rocks
-Flat stone	Parlayan havuz	name	object	Flat stone
-Shining pool	Dikenli çalilar	name	object	Shining pool
-Thorny bushes	Dik mizraklar	name	object	Thorny bushes
-Standing spears	Mezar höyügü	name	object	Standing spears
-Burial mound	Mezar yigini	name	object	Burial mound
-Burial cairn	Çamur	name	object	Burial cairn
-Mud	Eski kaya	name	object	Mud
-Ancient Rock	Mermer duvar	name	object	Ancient Rock
-Marble wall	Lamba yagi damiticisi	name	object	Marble wall
-Lamp oil still	Gaz deligi	name	object	Lamp oil still
-Gas hole	Karanlik delik	name	object	Gas hole
-Dark hole	Top mermisi	name	object	Dark hole
-Cannonball	Altin top mermisi	name	object	Cannonball
-Gold cannonball	Cüce Çoklu Top	name	object	Gold cannonball
-Dwarf MultiCannon	Küçük kaya	name	object	Dwarf MultiCannon
-Small rock	Altin damari	name	object	Small rock
-Gold vein	Tükenmis damar	name	object	Gold vein
-Depleted vein	Mavi Ates	name	object	Depleted vein
-Blue Fire	Kazan	name	object	Blue Fire
-Boiler	Silah Rafi	name	object	Boiler
-Weapon Rack	Iplik Çekme Makinesi	name	object	Weapon Rack
-Spinning Machine	Kapali banka gisesi	name	object	Spinning Machine
-Closed bank booth	Banka gisesi	name	object	Closed bank booth
-Bank booth	Kus kafesi standi	name	object	Bank booth
-Bird cage stand	Kirmizi mantar	name	object	Bird cage stand
-Red fungi	Mücevher Tezgahi	name	object	Red fungi
-Gem Stall	Giysi tezgahi	name	object	Gem Stall
-Clothes stall	El sanatlari tezgahi	name	object	Clothes stall
-Crafting stall	Dev Cüce	name	object	Crafting stall
-Giant Dwarf	Zirh	name	object	Giant Dwarf
+Oak Pyre	Meşe Odun Yığını	name	object	Oak Pyre
+Willow Pyre	Söğüt Odun Yığını	name	object	Willow Pyre
+Maple Pyre	Akçaağaç Odun Yığını	name	object	Maple Pyre
+Yew Pyre	Porsuk Odun Yığını	name	object	Yew Pyre
+Magic Pyre	Sihirli Odun Yığını	name	object	Magic Pyre
+Solid bronze door	Masif bronz kapi	name	object	Solid bronze door
+Solid steel door	Masif çelik kapi	name	object	Solid steel door
+Solid black door	Masif siyah kapi	name	object	Solid black door
+Solid silver door	Masif gümüs kapi	name	object	Solid silver door
+Bronze Chest	Bronz Sandik	name	object	Bronze Chest
+Steel Chest	Çelik Sandik	name	object	Steel Chest
+Black Chest	Siyah Sandik	name	object	Black Chest
+Silver Chest	Gümüs Sandik	name	object	Silver Chest
+Wooden doors	Ahsap kapilar	name	object	Wooden doors
+Hillside entrance	Yamaç girisi	name	object	Hillside entrance
+Strange altar	Garip sunak	name	object	Strange altar
+Swaying tree	Sallanan agaç	name	object	Swaying tree
+Golden tree	Altin agaç	name	object	Golden tree
+Lalli's Stew	Lalli'nin Güveci	name	object	Lalli's Stew
+Portal	Portal	name	object	Portal
+Escape rope	Kaçis ipi	name	object	Escape rope
+Frozen table	Donmus masa	name	object	Frozen table
+Drain	Kanalizasyon	name	object	Drain
+Tap	Musluk	name	object	Tap
+Abstract mural	Soyut duvar resmi	name	object	Abstract mural
+Spit roast	Sis kebap	name	object	Spit roast
+Wooden Table	Ahsap masa	name	object	Wooden Table
+Fish stall	Balik tezgahi	name	object	Fish stall
+Keg	Fiçi	name	object	Keg
+Abandoned Cart	Terk edilmis araba	name	object	Abandoned Cart
+Pottery Oven	Çömlek firini	name	object	Pottery Oven
+Spinning wheel	Iplik çarki	name	object	Spinning wheel
+Potter's Wheel	Çömlekçi çarki	name	object	Potter's Wheel
+Shell	Kabuk	name	object	Shell
+Bowl	Kase	name	object	Bowl
+Standard Stand	Standart stand	name	object	Standard Stand
+Iron ladder	Demir merdiven	name	object	Iron ladder
+Saradomin Portal	Saradomin portali	name	object	Saradomin Portal
+Zamorak Portal	Zamorak portali	name	object	Zamorak Portal
+Guthix Portal	Guthix portali	name	object	Guthix Portal
+Stepping stone	Basamak tasi	name	object	Stepping stone
+Barricade	Barikat	name	object	Barricade
+Broken door	Kirik kapi	name	object	Broken door
+Battlements	Siperler	name	object	Battlements
+Cave wall	Magara duvari	name	object	Cave wall
+Energy Barrier	Enerji bariyeri	name	object	Energy Barrier
+Scoreboard	Skor tahtasi	name	object	Scoreboard
+Pigeon	Güvercin	name	object	Pigeon
+Kurask head	Kurask kafasi	name	object	Kurask head
+Mounted swordfish	Duvara asili kiliç baligi	name	object	Mounted swordfish
+Mounted sea bass	Duvara asili levrek	name	object	Mounted sea bass
+Chair space	Sandalye alani	name	object	Chair space
+Rug space	Hali alani	name	object	Rug space
+Bookcase space	Kitaplik alani	name	object	Bookcase space
+Fireplace space	Sömine alani	name	object	Fireplace space
+Curtain space	Perde alani	name	object	Curtain space
+Pond	Gölet	name	object	Pond
+Dungeon entrance	Zindan girisi	name	object	Dungeon entrance
+Oak tree	Mese agaci	name	object	Oak tree
+Willow tree	Sögüt agaci	name	object	Willow tree
+Maple tree	Akçaagaç agaci	name	object	Maple tree
+Yew tree	Porsuk agaci	name	object	Yew tree
+Magic tree	Sihirli agaç	name	object	Magic tree
+Strange wall	Garip duvar	name	object	Strange wall
+Beach	Plaj	name	object	Beach
+Basalt rock	Bazalt kayasi	name	object	Basalt rock
+Rocky shore	Kayalik sahil	name	object	Rocky shore
+Lighting mechanism	Aydinlatma mekanizmasi	name	object	Lighting mechanism
+Broken bridge	Kirik köprü	name	object	Broken bridge
+Fireplace	Sömine	name	object	Fireplace
+Stacked barrels	Yigilmis fiçilar	name	object	Stacked barrels
+Arrav	Arrav	name	object	Arrav
+Camorra	Camorra	name	object	Camorra
+Throne Room Door	Taht Odasi Kapisi	name	object	Throne Room Door
+Coal rocks	Kömür kayalari	name	object	Coal rocks
+Harp	Arp	name	object	Harp
+Veg stall	Sebze tezgahi	name	object	Veg stall
+Bamboo Ladder	Bambu Merdiven	name	object	Bamboo Ladder
+End of bridge	Köprünün ucu	name	object	End of bridge
+Bamboo Stool	Bambu Tabure	name	object	Bamboo Stool
+Wall of flame	Alev duvari	name	object	Wall of flame
+Sacrificial Pyre	Kurban Atesi	name	object	Sacrificial Pyre
+Wall of bricks	Tugla duvar	name	object	Wall of bricks
+Pile of bricks	Tugla yigini	name	object	Pile of bricks
+Awowogei	Awowogei	name	object	Awowogei
+Bamboo Gate	Bambu Kapi	name	object	Bamboo Gate
+Bamboo Bed	Bambu Yatak	name	object	Bamboo Bed
+Bamboo Desk	Bambu Masa	name	object	Bamboo Desk
+Bamboo Bookcase	Bambu Kitaplik	name	object	Bamboo Bookcase
+Jail Door	Hapishane Kapisi	name	object	Jail Door
+Jungle Grass	Orman Çimi	name	object	Jungle Grass
+Long grass	Uzun ot	name	object	Long grass
+Jungle tree stump	Orman agaci kütügü	name	object	Jungle tree stump
+Jungle Flower	Orman çiçegi	name	object	Jungle Flower
+Jungle Plant	Orman bitkisi	name	object	Jungle Plant
+Creeping Plant	Sürünen bitki	name	object	Creeping Plant
+Slashed Bush	Kesilmis çali	name	object	Slashed Bush
+Tropical Leaves	Tropikal yapraklar	name	object	Tropical Leaves
+Hollow Log	Içi bos kütük	name	object	Hollow Log
+Glowing Fungus	Parlayan mantar	name	object	Glowing Fungus
+Gorilla Statue	Goril heykeli	name	object	Gorilla Statue
+Monkey Statue	Maymun heykeli	name	object	Monkey Statue
+Watchtower Legs	Gözetleme kulesi ayaklari	name	object	Watchtower Legs
+Watchtower Middle	Gözetleme kulesi ortasi	name	object	Watchtower Middle
+Gnome Glider	Cüce planörü	name	object	Gnome Glider
+Teleportation Device	Isinlanma cihazi	name	object	Teleportation Device
+Reinitialisation Panel	Yeniden baslatma paneli	name	object	Reinitialisation Panel
+Exit Sign	Çikis isareti	name	object	Exit Sign
+Crafting Stall	El sanatlari tezgahi	name	object	Crafting Stall
+Food Stall	Yiyecek tezgahi	name	object	Food Stall
+General Stall	Genel tezgah	name	object	General Stall
+Magic Stall	Sihir tezgahi	name	object	Magic Stall
+Scimitar Stall	Kiliç Tezgahi	name	object	Scimitar Stall
+Slight indentations	Hafif girintiler	name	object	Slight indentations
+A rock	Bir kaya	name	object	A rock
+Saradomin Standard	Saradomin Sancagi	name	object	Saradomin Standard
+Zamorak Standard	Zamorak Sancagi	name	object	Zamorak Standard
+Cart tunnel	Araba tüneli	name	object	Cart tunnel
+Water Valve	Su Vanasi	name	object	Water Valve
+Crystal outcrop	Kristal çikintisi	name	object	Crystal outcrop
+Dark tunnel	Karanlik tünel	name	object	Dark tunnel
+Glowing fungus	Parlayan mantar	name	object	Glowing fungus
+Ceiling support	Tavan destegi	name	object	Ceiling support
+Wall support	Duvar destegi	name	object	Wall support
+Lift	Asansör	name	object	Lift
+Points settings	Puan ayarlari	name	object	Points settings
+Wooden boards	Ahsap tahtalar	name	object	Wooden boards
+Rope bridge	Halat köprü	name	object	Rope bridge
+Rare Flowers	Nadir Çiçekler	name	object	Rare Flowers
+Slope	Egim	name	object	Slope
+Crevasse	Çatlak	name	object	Crevasse
+Ice covered boulder	Buzla kapli kaya	name	object	Ice covered boulder
+Ice gate	Buz kapisi	name	object	Ice gate
+Stalactite	Sarkit	name	object	Stalactite
+Swamp Boaty	Bataklik Teknesi	name	object	Swamp Boaty
+Combat Scroll	Savas Parsömeni	name	object	Combat Scroll
+Smoking vent	Duman çikisi	name	object	Smoking vent
+Shield	Kalkan	name	object	Shield
+Tall Plant	Uzun Bitki	name	object	Tall Plant
+Short Plant	Kisa Bitki	name	object	Short Plant
+Large-leaf Plant	Büyük Yaprakli Bitki	name	object	Large-leaf Plant
+Huge plant	Dev Bitki	name	object	Huge plant
+Dock Leaf	Rihtim Yapragi	name	object	Dock Leaf
+Reeds	Sazlik	name	object	Reeds
+Rosemary	Biberiye	name	object	Rosemary
+Daffodils	Nergis	name	object	Daffodils
+Bluebells	Çan Çiçegi	name	object	Bluebells
+Marigolds	Kadife Çiçegi	name	object	Marigolds
+Roses	Gül	name	object	Roses
+Boundary stones	Sinir taslari	name	object	Boundary stones
+Wooden fence	Ahsap çit	name	object	Wooden fence
+Stone wall	Tas duvar	name	object	Stone wall
+Iron railings	Demir parmakliklar	name	object	Iron railings
+Pile of canes	Baston yigini	name	object	Pile of canes
+Clock	Saat	name	object	Clock
+Memorial	Anit	name	object	Memorial
+Grave	Mezar	name	object	Grave
+Lightning conductor	Paratoner	name	object	Lightning conductor
+Fireplace surround	Sömine çevresi	name	object	Fireplace surround
+Column	Sütun	name	object	Column
+Crystal growth	Kristal büyümesi	name	object	Crystal growth
+Boat	Tekne	name	object	Boat
+Wheelbarrow	El arabasi	name	object	Wheelbarrow
+Skeleton	Iskelet	name	object	Skeleton
+Mast	Direk	name	object	Mast
+Captain's Table	Kaptan masasi	name	object	Captain's Table
+Broken Door	Kirik kapi	name	object	Broken Door
+Jewellery stall	Mücevher tezgahi	name	object	Jewellery stall
+Lectern	Kürsü	name	object	Lectern
+Dock leaf plant	Rihtim yapragi bitkisi	name	object	Dock leaf plant
+Hanging tapestry	Asili duvar halisi	name	object	Hanging tapestry
+Aggie's Cauldron	Aggie'nin Kazani	name	object	Aggie's Cauldron
+Dry stone wall	Kuru tas duvar	name	object	Dry stone wall
+Coop	Kümes	name	object	Coop
+Sack	Çuval	name	object	Sack
+Logs	Tomruklar	name	object	Logs
+Toy Stall	Oyuncak tezgahi	name	object	Toy Stall
+Water Barrel	Su varili	name	object	Water Barrel
+Cooking Pots	Tencere	name	object	Cooking Pots
+Rat-hole	Siçan deligi	name	object	Rat-hole
+Big vase	Büyük vazo	name	object	Big vase
+Ned's Table	Ned'in masasi	name	object	Ned's Table
+Picket fence	Çit	name	object	Picket fence
+Garden fence	Bahçe çiti	name	object	Garden fence
+Church pew	Kilise sirasi	name	object	Church pew
+Crack	Çatlak	name	object	Crack
+Sculpture	Heykel	name	object	Sculpture
+Weathervane	Rüzgar gülü	name	object	Weathervane
+Seers weathervane	Kahin rüzgar gülü	name	object	Seers weathervane
+Gnome landing light	Cüce inis isigi	name	object	Gnome landing light
+Flashing landing light	Yanip sönen inis isigi	name	object	Flashing landing light
+Swordshop Sign	Kiliç dükkani tabelasi	name	object	Swordshop Sign
+Antiques Shop Stall	Antika dükkani tezgahi	name	object	Antiques Shop Stall
+Tall tree	Uzun agaç	name	object	Tall tree
+Clump of rocks	Kaya yigini	name	object	Clump of rocks
+Flat stone	Düz tas	name	object	Flat stone
+Shining pool	Parlayan havuz	name	object	Shining pool
+Thorny bushes	Dikenli çalilar	name	object	Thorny bushes
+Standing spears	Dik mizraklar	name	object	Standing spears
+Burial mound	Mezar höyügü	name	object	Burial mound
+Burial cairn	Mezar yigini	name	object	Burial cairn
+Mud	Çamur	name	object	Mud
+Ancient Rock	Eski kaya	name	object	Ancient Rock
+Marble wall	Mermer duvar	name	object	Marble wall
+Lamp oil still	Lamba yagi damiticisi	name	object	Lamp oil still
+Gas hole	Gaz deligi	name	object	Gas hole
+Dark hole	Karanlik delik	name	object	Dark hole
+Cannonball	Top mermisi	name	object	Cannonball
+Gold cannonball	Altin top mermisi	name	object	Gold cannonball
+Dwarf MultiCannon	Cüce Çoklu Top	name	object	Dwarf MultiCannon
+Small rock	Küçük kaya	name	object	Small rock
+Gold vein	Altin damari	name	object	Gold vein
+Depleted vein	Tükenmis damar	name	object	Depleted vein
+Blue Fire	Mavi Ates	name	object	Blue Fire
+Boiler	Kazan	name	object	Boiler
+Weapon Rack	Silah Rafi	name	object	Weapon Rack
+Spinning Machine	Iplik Çekme Makinesi	name	object	Spinning Machine
+Closed bank booth	Kapali banka gisesi	name	object	Closed bank booth
+Bank booth	Banka gisesi	name	object	Bank booth
+Bird cage stand	Kuş kafesi standı	name	object	Bird cage stand
+Red fungi	Kirmizi mantar	name	object	Red fungi
+Gem Stall	Mücevher Tezgahi	name	object	Gem Stall
+Clothes stall	Giysi tezgahi	name	object	Clothes stall
+Crafting stall	El sanatlari tezgahi	name	object	Crafting stall
+Giant Dwarf	Dev Cüce	name	object	Giant Dwarf
 Armour	Zirh	name	object	Armour
 Warhammer	Savas çekici	name	object	Warhammer
 Pickaxe	Kazma	name	object	Pickaxe
@@ -18256,13 +18256,13 @@ Overload potion	Asiri yük iksiri	name	object	Overload potion
 Absorption potion	Emme iksiri	name	object	Absorption potion
 Anti-dragon shield	Ejderha karsiti kalkan	name	object	Anti-dragon shield
 Magic secateurs	Sihirli budama makasi	name	object	Magic secateurs
-Chaos rune	Kaos runesi	name	object	Chaos rune
-Death rune	Ölüm runesi	name	object	Death rune
-Blood rune	Kan runesi	name	object	Blood rune
-Air rune	Hava runesi	name	object	Air rune
-Water rune	Su runesi	name	object	Water rune
-Earth rune	Toprak runesi	name	object	Earth rune
-Fire rune	Ates runesi	name	object	Fire rune
+Chaos rune	Kaos Runü	name	object	Chaos rune
+Death rune	Ölüm Runü	name	object	Death rune
+Blood rune	Kan Runü	name	object	Blood rune
+Air rune	Hava Runü	name	object	Air rune
+Water rune	Su Runü	name	object	Water rune
+Earth rune	Toprak Runü	name	object	Earth rune
+Fire rune	Ates Runü	name	object	Fire rune
 Bear droppings	Ayi diskisi	name	object	Bear droppings
 Pet house space	Evcil hayvan evi alani	name	object	Pet house space
 Oak house	Mese ev	name	object	Oak house
@@ -18836,7 +18836,7 @@ Portal of Heroes	Kahramanlar Portali	name	object	Portal of Heroes
 Portal of Legends	Efsaneler Portali	name	object	Portal of Legends
 Fountain of Uhld	Uhld Çesmesi	name	object	Fountain of Uhld
 Mythic Statue	Efsanevi Heykel	name	object	Mythic Statue
-Tinderbox	Tinderbox	name	object	Tinderbox
+Tinderbox	Kibrit kutusu	name	object	Tinderbox
 Stone Plinth	Tas Kaide	name	object	Stone Plinth
 Roof Entrance	Çati Girisi	name	object	Roof Entrance
 Roof Exit	Çati Çikisi	name	object	Roof Exit
@@ -20160,8 +20160,8 @@ Tiling	Fayans	name	object	Tiling
 Bed chest	Yatak sandigi	name	object	Bed chest
 Empty pallet	Bos palet	name	object	Empty pallet
 Coal pile	Kömür yigini	name	object	Coal pile
-Fire rune pile	Ates runesi yigini	name	object	Fire rune pile
-Death rune pile	Ölüm runesi yigini	name	object	Death rune pile
+Fire rune pile	Ates Runü yigini	name	object	Fire rune pile
+Death rune pile	Ölüm Runü yigini	name	object	Death rune pile
 Magic logs pile	Sihirli kütük yigini	name	object	Magic logs pile
 Display dial	Ekran kadrani	name	object	Display dial
 Debug Man	Hata ayiklama adami	name	object	Debug Man

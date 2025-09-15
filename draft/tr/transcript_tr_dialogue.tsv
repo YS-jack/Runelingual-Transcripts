@@ -160,6 +160,46 @@ You'll find a kettle in the box to the-	Kutuda bir su isiticisi bulacaksiniz-	di
 Erm...yeah...no...sorry...gotta go.	Erm...evet...hayir...üzgünüm...gitmeliyim.	dialogue	'Black-eye'	Player
 Say, that's a nice helmet.	Güzel bir kaskmis.	dialogue	'Black-eye'	Player
 Thank you - just as nice as the one in your bank!	Tesekkür ederim - bankanizdaki kadar güzel!	dialogue	'Black-eye'	'Black-eye'
+Why, thanks.	Tesekkürler.	dialogue	'Black-eye'	'Black-eye'
+I was just wondering if you might be able to help me out with one?	Bana bir konuda yardimci olabilir misiniz diye merak ediyordum da?	dialogue	'Black-eye'	Player
+Always glad to help a budding builder. But first, prove your Construction knowledge by answering some questions.	Yeni baslayan bir insaatçiya yardim etmekten her zaman memnuniyet duyarim. Ama önce, birkaç soruya cevap vererek insaat bilgini kanitla.	dialogue	'Black-eye'	'Black-eye'
+How many nails does it take to make a rocking chair?	Bir sallanan sandalye yapmak için kaç çivi gerekir?	dialogue	'Black-eye'	'Black-eye'
+One?	Bir mi?	dialogue	'Black-eye'	Player
+One? How do you suppose you'd use a single nail?	Bir mi? Tek bir çiviyi nasil kullanirsin ki?	dialogue	'Black-eye'	'Black-eye'
+Five?	Bes mi?	dialogue	'Black-eye'	Player
+Nope. Keep guessing!	Hayir. Tahmin etmeye devam et!	dialogue	'Black-eye'	'Black-eye'
+Three?	Üç mü?	dialogue	'Black-eye'	Player
+Bingo! Okay, now what takes 3 planks, 3 cloths and 3 nails to make, and helps remove light from a room?	Bingo! Peki, 3 tahta, 3 kumas ve 3 çivi ile yapilan ve odadaki isigi engelleyen sey nedir?	dialogue	'Black-eye'	'Black-eye'
+Torn curtains?	Yirtik perdeler mi?	dialogue	'Black-eye'	Player
+Nice one. Last question: I like fish and I want to put some in my garden, but I need a special water feature. What materials would I require?	Güzel. Son soru: Baliklari seviyorum ve bahçeme balik koymak istiyorum, ama özel bir su özelligi gerekiyor. Hangi malzemelere ihtiyacim var?	dialogue	'Black-eye'	'Black-eye'
+8 clay pieces and 3 limestone bricks?	8 kil parçasi ve 3 kireçtasi tugla mi?	dialogue	'Black-eye'	Player
+Oh, and you were so close!	Oh, çok yaklastin!	dialogue	'Black-eye'	'Black-eye'
+10 clay pieces?	10 kil parçasi mi?	dialogue	'Black-eye'	Player
+That's it! You seem to know your stuff. I got a spare helmet from a builder that died on... I mean, err, had to leave the job for greener pastures.	İste bu! Konuyu iyi biliyorsun galiba. Ölen bir insaatçidan yedek bir kask aldim... Yani, sey, daha iyi bir is bulmak için isi birakmak zorunda kaldi.	dialogue	'Black-eye'	'Black-eye'
+Greener pastures?	Daha iyi bir is mi?	dialogue	'Black-eye'	Player
+Fair enough.	Mantikli.	dialogue	'Black-eye'	Player
+Wait a minute! Is there blood on this helmet?	Bir dakika! Bu kaskin üzerinde kan var mi?	dialogue	'Black-eye'	Player
+Erm, no, that's just, erm, paint. Yes, paint! That's what it is!	Hayir, o sadece, sey, boya. Evet, boya! Öyle!	dialogue	'Black-eye'	'Black-eye'
+Oh, okay. Thanks. Bye.	Tamam, tesekkürler. Hosça kal.	dialogue	'Black-eye'	Player
+Ha, gullible fool.	Ha, saf aptal.	dialogue	'Black-eye'	'Black-eye'
+What?	Ne?	dialogue	'Black-eye'	Player
+Nothing.	Hiçbir sey.	dialogue	'Black-eye'	'Black-eye'
+10 limestone bricks?	10 kireçtasi tugla mi?	dialogue	'Black-eye'	Player
+Guess again.	Tekrar tahmin et.	dialogue	'Black-eye'	'Black-eye'
+A brown rug?	Kahverengi bir hali mi?	dialogue	'Black-eye'	Player
+Of course, because that's what everyone needs - a rug up at their window.	Tabii ki, çünkü herkesin ihtiyaci olan sey penceresine bir halidir.	dialogue	'Black-eye'	'Black-eye'
+Opulent curtains?	Gösterisli perdeler mi?	dialogue	'Black-eye'	Player
+Those curtains are not going to be in any way opulent, matey.	O perdeler hiçbir sekilde gösterisli olmayacak dostum.	dialogue	'Black-eye'	'Black-eye'
+Yes - just as nice as the one you're carrying I'd say.	Evet, tasidigin kadar güzel diyebilirim.	dialogue	'Black-eye'	'Black-eye'
+One	Bir	dialogue	'Black-eye'	'Black-eye'
+Five	Bes	dialogue	'Black-eye'	'Black-eye'
+Three	Üç	dialogue	'Black-eye'	'Black-eye'
+Torn curtains	Yirtik perdeler	dialogue	'Black-eye'	'Black-eye'
+8 clay pieces and 3 limestone bricks	8 kil parçasi ve 3 kireçtasi tugla	dialogue	'Black-eye'	'Black-eye'
+10 clay pieces	10 kil parçasi	dialogue	'Black-eye'	'Black-eye'
+10 limestone bricks	10 kireçtasi tugla	dialogue	'Black-eye'	'Black-eye'
+A brown rug	Kahverengi bir hali	dialogue	'Black-eye'	'Black-eye'
+Opulent curtains	Gösterisli perdeler	dialogue	'Black-eye'	'Black-eye'
 This is quite the tower.	Bu oldukca güzel bir kule.	dialogue	'Currency' The Alchemist	Player
 Yeah, it cost a fair bit.	Evet, epey pahaliya mal oldu.	dialogue	'Currency' The Alchemist	'Currency' The Alchemist
 How much?	Ne kadar?	dialogue	'Currency' The Alchemist	Player
@@ -2213,6 +2253,11 @@ I think I'll give it a miss.	Sanirim almayacagim.	dialogue	Ali the Carter	Player
 If you want water you need to buy it off me.	Su istiyorsan benden almalisin.	dialogue	Ali the Carter	Ali the Carter
 Ok, I feel sorry for you.	Tamam, senin icin üzüldüm.	dialogue	Ali the Carter	Ali the Carter
 I think I'll give it a miss.	Sanirim almayacagim.	dialogue	Ali the Carter	Ali the Carter
+Water, water get your fresh water here, 1000 coins a waterskin, a bargain in these difficult times.	Su, su, taze suyunuzu buradan alin, bir su tulumu 1000 sikke, bu zor zamanlarda çok uygun bir fiyat.	dialogue	Ali the Carter	Ali the Carter
+That's extortionate! Why so much?	Bu fahis fiyat! Neden bu kadar pahali?	dialogue	Ali the Carter	Player
+Well it's the cheapest water you'll find in this town.	Bu kasabada bulabileceginiz en ucuz su bu.	dialogue	Ali the Carter	Ali the Carter
+That's extortionate! Why so much?	Bu fahis fiyat! Neden bu kadar pahali?	dialogue	Ali the Carter	Ali the Carter
+Ok, I'll buy some!	Tamam, biraz alacagim!	dialogue	Ali the Carter	Ali the Carter
 Hello there!	Merhaba!	dialogue	Ali the Farmer	Player
 Oh, er, hello. What do you want?	Oh, merhaba. Ne istiyorsun?	dialogue	Ali the Farmer	Ali the Farmer
 What can you tell me about Al Kharid?	Al Kharid hakkinda ne söyleyebilirsin?	dialogue	Ali the Farmer	Player
@@ -3343,6 +3388,7 @@ No thanks.	Hayir, tesekkürler.	dialogue	Aneirin	Aneirin
 Repair that item: [cost to repair single item] coins.		dialogue	Aneirin	Aneirin
 Repair all items: [cost to repair all items] coins.		dialogue	Aneirin	Aneirin
 Cancel.	Iptal.	dialogue	Aneirin	Aneirin
+We don't talk to strangers.	Yabancilarla konusmayiz.	dialogue	Angel	Angel
 Hey, how can I help you?	Merhaba, nasil yardimci olabilirim?	dialogue	Angelo	Angelo
 What do you do here?	Burada ne yapiyorsun?	dialogue	Angelo	Player
 This is one of the branches for Mahogany Homes, Gielinor's first construction company.	Burasi Gielinor'un ilk insaat sirketi olan Mahogany Homes'un subelerinden biri.	dialogue	Angelo	Angelo
@@ -4272,6 +4318,7 @@ Tell me about the Calamity Coven.	Bana Calamity Coven'dan bahsedin.	dialogue	Are
 Tell me again about the Calamity Coven.	Bana Calamity Coven'dan tekrar bahsedin.	dialogue	Arena Guard Beni	Arena Guard Beni
 Do you have any tips on how to win duels?	Düellolari kazanmak icin herhangi bir ipucunuz var mi?	dialogue	Arena Guard Beni	Arena Guard Beni
 I'm fine, thanks.	Ben iyiyim, tesekkürler.	dialogue	Arena Guard Beni	Arena Guard Beni
+The Emir of Al Kharid has decreed that his Arena should be guarded, to stop ruffians like the Calamity Coven from returning. But is there something I can do for you?	Al Kharid Emiri, Calamity Coven gibi haydutlarin geri dönmesini engellemek için arenanin korunmasini emretti. Ama sizin için yapabilecegim bir sey var mi?	dialogue	Arena Guard Beni	Arena Guard Beni
 Can I help you, [sir/madam]?	Yardimci olabilir miyim, ?	dialogue	Arena Guard Drakno	Arena Guard Drakno
 What is this place?	Burasi neresi?	dialogue	Arena Guard Drakno	Player
 This is the Emir's Arena. Fighters come from far and wide to arrange fights against their friends and rivals. They can fight in 1v1 Tournaments or Duels.	Burasi Emir'in Arenasi. Dövüscüler, arkadaslari ve rakipleriyle dövüsmek icin uzaklardan buraya gelirler. 1v1 Turnuvalarinda veya Düellolarda dövüsebilirler.	dialogue	Arena Guard Drakno	Arena Guard Drakno
@@ -4365,6 +4412,7 @@ Tell me about the Calamity Coven.	Bana Calamity Coven'dan bahsedin.	dialogue	Are
 Tell me again about the Calamity Coven.	Bana Calamity Coven'dan tekrar bahsedin.	dialogue	Arena Guard Joby	Arena Guard Joby
 Do you have any tips on how to win duels?	Düellolari kazanmak icin herhangi bir ipucunuz var mi?	dialogue	Arena Guard Joby	Arena Guard Joby
 I'm fine, thanks.	Ben iyiyim, tesekkürler.	dialogue	Arena Guard Joby	Arena Guard Joby
+The Emir of Al Kharid has decreed that his Arena should be guarded, to stop ruffians like the Calamity Coven from returning. But is there something I can do for you?	Al Kharid Emiri, Calamity Coven gibi haydutlarin geri dönmesini engellemek için arenanin korunmasini emretti. Ama sizin için yapabilecegim bir sey var mi?	dialogue	Arena Guard Joby	Arena Guard Joby
 Can I help you, [sir/madam]?	Yardimci olabilir miyim, ?	dialogue	Arena Guard Nikkolas	Arena Guard Nikkolas
 What is this place?	Burasi neresi?	dialogue	Arena Guard Nikkolas	Player
 This is the Emir's Arena. Fighters come from far and wide to arrange fights against their friends and rivals. They can fight in 1v1 Tournaments or Duels.	Burasi Emir'in Arenasi. Dövüscüler, arkadaslari ve rakipleriyle dövüsmek icin uzaklardan buraya geliyorlar. 1'e 1 Turnuvalarda veya Düellolarda dövüsebilirler.	dialogue	Arena Guard Nikkolas	Arena Guard Nikkolas
@@ -4825,6 +4873,19 @@ I still didn't like it.	Hala begenmedim.	dialogue	Art Critic Jacques	Art Critic 
 Beautiful.	Güzel.	dialogue	Art Critic Jacques	Art Critic Jacques
 I didn't like it, but I still like the painting.	Begenmedim, ama yine de resmi begendim.	dialogue	Art Critic Jacques	Art Critic Jacques
 No thanks.	Hayir, tesekkürler.	dialogue	Art Critic Jacques	Art Critic Jacques
+Ah, many greetings, and welcome to the Museum!	Ah, merhaba, müzeye hos geldiniz!	dialogue	Art Critic Jacques	Art Critic Jacques
+My name is Jacques and I am the Museum's finest art critic!	Benim adim Jacques ve müzenin en iyi sanat elestirmeniyim!	dialogue	Art Critic Jacques	Art Critic Jacques
+Looks to me like you're the only one.	Bana öyle geliyor ki, tek elestirmen sensin.	dialogue	Art Critic Jacques	Player
+This is true. However, in the future, I will have my own entire floor of the Museum with paintings galore!	Bu dogru. Ancak gelecekte, müzenin bir kati tamamen benim olacak ve orada bolca tablo sergilenecek!	dialogue	Art Critic Jacques	Art Critic Jacques
+Er... has that been approved, or are you just dreaming?	Ee... bu onaylandi mi, yoksa sadece hayal mi kuruyorsun?	dialogue	Art Critic Jacques	Player
+Ah, I see you're being witty, eh?	Ah, esprili davraniyorsun, degil mi?	dialogue	Art Critic Jacques	Art Critic Jacques
+I am?	Öyle mi?	dialogue	Art Critic Jacques	Player
+Yes! You're poking fun at me! I shall have my gallery. You will see eventually. Then I shall be the one with the last laugh!	Evet! Benimle dalga geçiyorsunuz! Kendi galerim olacak. Eninde sonunda göreceksiniz. O zaman son gülen ben olacagim!	dialogue	Art Critic Jacques	Art Critic Jacques
+I critique the art! See the beautiful colours and the masterful use of the brush to capture perfectly the royal presence...	Ben sanati elestiriyorum! Kraliyetin varligini mükemmel bir sekilde yakalamak için kullanilan güzel renkleri ve ustaca firça darbelerini görün...	dialogue	Art Critic Jacques	Art Critic Jacques
+Er... it's a painting.	Sey... bu bir resim.	dialogue	Art Critic Jacques	Player
+Just a painting? How could you say such a thing? When you learn how to appreciate the wonderful works of art, you may talk to me.	Sadece bir resim mi? Nasil böyle bir sey söyleyebilirsin? Harika sanat eserlerini takdir etmeyi ögrendiginde, benimle konusabilirsin.	dialogue	Art Critic Jacques	Art Critic Jacques
+So it is. So perfect, it almost makes me weep with joy! The grandiloquent strokes of the brush convey a kind of mystic quality... It is almost as if he were here with us.	Öyle. O kadar mükemmel ki, sevinçten aglayacak gibiyim! Firçanin görkemli vuruslari, bir tür mistik nitelik aktariyor... Sanki o da bizimle birlikteymis gibi.	dialogue	Art Critic Jacques	Art Critic Jacques
+No words can truly describe my feelings, so let us continue to admire this work in silence.	Hiçbir kelime duygularimi tam olarak tarif edemez, o yüzden sessizce bu eseri hayranlikla izlemeye devam edelim.	dialogue	Art Critic Jacques	Art Critic Jacques
 What can I do for you?	Sizin icin ne yapabilirim?	dialogue	Arthur the Clue Hunter	Arthur the Clue Hunter
 What are beginner clues?	Baslangic ipuclari nedir?	dialogue	Arthur the Clue Hunter	Player
 Arthur's eyes light up.	Arthur'un gözleri parladi.	dialogue	Arthur the Clue Hunter	Arthur the Clue Hunter
@@ -6773,6 +6834,20 @@ Good luck, bye.	Iyi sanslar, hosca kal.	dialogue	Barge foreman	Player
 Thanks for all your help, [player name].	Yardimin icin tesekkürler, Maceraci.	dialogue	Barge foreman	Barge foreman
 Is there anything I can do to help?	Yardimci olabilecegim bir sey var mi?	dialogue	Barge foreman	Barge foreman
 Good luck, bye.	Iyi sanslar, hosca kal.	dialogue	Barge foreman	Barge foreman
+Hello.	Merhaba.	dialogue	Barge guard	Player
+Hello there, can I help you?	Merhaba, yardimci olabilir miyim?	dialogue	Barge guard	Barge guard
+Can I go onto the barge?	Mavna'ya binebilir miyim?	dialogue	Barge guard	Player
+Absolutely, the navigators are waiting for you on board!	Tabii ki, navigatörler sizi gemide bekliyor!	dialogue	Barge guard	Barge guard
+The barge guard helps you board the ship.	Mavna muhafizi gemiye binmenize yardimci olur.	dialogue	Barge guard	Barge guard
+You row to the expedition camp.	Kesif kampina kürek çekersiniz.	dialogue	Barge guard	Barge guard
+No, thanks.	Hayir, tesekkürler.	dialogue	Barge guard	Player
+Can I get off the barge?	Mavnadan inebilir miyim?	dialogue	Barge guard	Player
+Absolutely, let me help you off!	Tabii ki, size yardim edeyim!	dialogue	Barge guard	Barge guard
+The barge guard helps you off the ship.	Mavna muhafizi gemiden inmenize yardim eder.	dialogue	Barge guard	Barge guard
+Can I go onto the barge?	Mavnaya binebilir miyim?	dialogue	Barge guard	Barge guard
+Let's go to Fossil Island!	Fosil Adasi'na gidelim!	dialogue	Barge guard	Barge guard
+No, thanks.	Hayir, tesekkürler.	dialogue	Barge guard	Barge guard
+Can I get off the barge?	Mavnadan inebilir miyim?	dialogue	Barge guard	Barge guard
 This work isn't going to do itself.	Bu is kendi kendine yapilmayacak.	dialogue	Barge workman	Barge workman
 Is it lunch break yet?	Ögle arasi oldu mu?	dialogue	Barge workman	Barge workman
 Ouch! That was my finger!	Ah! O benim parmagimdi!	dialogue	Barge workman	Barge workman
@@ -7495,6 +7570,7 @@ I almost choked on a log! I don't know if I camphor-give you for that!	Neredeyse
 The truth is...	Gerçek su ki...	dialogue	Beaver	Beaver
 I am ironwood.	Ben demir agaciyim.	dialogue	Beaver	Beaver
 Eating logs is like enjoying wine. They all have a nuance of flavour. That last one for example was earthy, with hints of nuts and redberries, along with a scent of rose.!	Kütük yemek, sarap içmek gibidir. Hepsinin kendine özgü bir tadi vardir. Mesela sonuncusu topraksi bir tada sahipti, findik ve kirmizi meyve aromalariyla birlikte gül kokusu da vardi!	dialogue	Beaver	Beaver
+Eating logs is like enjoying wine. They all have a nuance of flavour. That last one for example was earthy, with hints of nuts and redberries, along with a scent of rose.	Kütük yemek, sarap içmek gibidir. Hepsinin kendine özgü bir tadi vardir. Mesela sonuncusu topraksi bir tada sahipti, findik ve kirmizi meyve aromalariyla birlikte gül kokusu da vardi!	dialogue	Beaver	Beaver
 Hello Effendi! How can I help you?	Merhaba Effendi! Nasil yardimci olabilirim?	dialogue	Bedabin Nomad	Bedabin Nomad
 What is this place?	Burasi neresi?	dialogue	Bedabin Nomad	Player
 This is the camp of the Bedabin. Talk to our leader, Al Shabim, he'll be happy to chat. We can sell you very reasonably priced water...	Burasi Bedabin kampi. Liderimiz Al Shabim ile konusun, sizinle sohbet etmekten memnuniyet duyacaktir. Size cok uygun fiyatli su satabiliriz...	dialogue	Bedabin Nomad	Bedabin Nomad
@@ -9987,6 +10063,7 @@ Could you explain this place to me again?	Bana burayi tekrar aciklayabilir misin
 I'm thinking of giving the Gauntlet a go.	Gauntlet'i denemeyi düsünüyorum.	dialogue	Bryn	Bryn
 What is this place?	Burasi neresi?	dialogue	Bryn	Bryn
 Just passing by.	Sadece geciyordum.	dialogue	Bryn	Bryn
+You know, if things start getting comfortable down there, things can be a little unstable at times.	Biliyorsun, eger asagisi rahatlamaya baslarsa, bazen isler biraz istikrarsizlasabilir.	dialogue	Bryn	Bryn
 You's better talk to Dad, him chasey sneaky da chompy.	Babanla konussan iyi olur, o kovalayan sinsi cigneyen.	dialogue	Bugs	Bugs
 Thanks for da chompy, it was deloverly!	Cigneyen icin tesekkürler, cok lezzetliydi!	dialogue	Bugs	Bugs
 A bug! Hahaha.	Bir böcek! Hahaha.	dialogue	Bugs	Player
@@ -10061,6 +10138,16 @@ Glad to hear it.	Bunu duyduguma sevindim.	dialogue	Builder	Player
 What's going on here?	Burada neler oluyor?	dialogue	Builder	Builder
 Are you two philosophers?	Siz ikiniz filozof musunuz?	dialogue	Builder	Builder
 Goodbye.	Hosca kalin.	dialogue	Builder	Builder
+Pretty good, mate. There was a little commotion in here earlier, but things soon got straightened out.	Oldukça iyi, dostum. Az önce burada küçük bir kargasa çikti, ama her sey kisa sürede düzeldi.	dialogue	Builder	Builder 2
+Makes you wonder why someone would try to mess with her in the first place.	İnsan neden birinin ona satasmak isteyecegini merak ediyor.	dialogue	Builder	Builder 2
+Aye, they must have had some pretty strong convictions to take on that risk. Ain't it crazy how far some people will go?	Evet, bu riski göze alacak kadar güçlü bir inançlari olmali. Bazi insanlarin bu kadar ileri gitmesi delilik degil mi?	dialogue	Builder	Builder 1
+Too right. Glad I'm not one of them. I'll just stick to my attempts at being a top-notch builder, thank you very much.	Çok haklisin. Onlardan biri olmadigim için mutluyum. Ben birinci sinif bir insaatçi olmaya çalismaya devam edecegim, çok tesekkürler.	dialogue	Builder	Builder 2
+Anyway, mate, look at us getting you all sidetracked. Nice of you to drop in, but don't be letting us distract you now.	Neyse dostum, bak bizi dinleyerek dikkatini dagittik. Ugradigin için tesekkürler, ama simdi dikkatini dagitmamiza izin verme.	dialogue	Builder	Builder 1
+Though sometimes a distraction can be a good thing. We're all 'bout efficiency these days, but sometimes it can be good to take a step back.	Bazen dikkatin dagilmasi iyi bir sey olabilir. Bu günlerde hepimiz verimlilik pesindeyiz, ama bazen bir adim geri atmak iyi olabilir.	dialogue	Builder	Builder 2
+You make a very good point.	Çok haklisin.	dialogue	Builder	Player
+Tell you what, mate, when the opportunity next presents itself, you should kick back and relax. You've earned it.	Bak ne diyecegim dostum, bir dahaki sefere firsatini buldugunda, arkana yaslan ve rahatla. Bunu hak ettin.	dialogue	Builder	Builder 1
+Thank you.	Tesekkürler.	dialogue	Builder	Player
+Don't mention it, mate.	Önemli degil dostum.	dialogue	Builder	Builder 1
 Can I help you today?	Bugün size nasil yardimci olabilirim?	dialogue	Buneir	Buneir
 Can I go for a ride?	Binmek ister misin?	dialogue	Buneir	Player
 Minecart rides are 20 coins.	Maden arabasi binmek 20 jeton.	dialogue	Buneir	Buneir
@@ -10930,6 +11017,16 @@ I'd like to go to Rimmington.	Rimmington'a gitmek istiyorum.	dialogue	Captain Ba
 I'd like to go to Brimhaven.	Brimhaven'a gitmek istiyorum.	dialogue	Captain Barnaby	Captain Barnaby
 I'm good thanks.	Tesekkürler, gerek yok.	dialogue	Captain Barnaby	Captain Barnaby
 I'd like to go to Ardougne.	Ardougne'a gitmek istiyorum.	dialogue	Captain Barnaby	Captain Barnaby
+You board the ship and sail to Rimmington.	Gemiye binip Rimmington'a yelken açarsiniz.	dialogue	Captain Barnaby	Captain Barnaby
+You board the ship and sail to Brimhaven.	Gemiye binip Brimhaven'a yelken açarsiniz.	dialogue	Captain Barnaby	Captain Barnaby
+Or I could pay you nothing at all...	Ya da size hiç ödeme yapmayabilirim...	dialogue	Captain Barnaby	Player
+Well that seems totally reasonable. Where would you like to go?	Bu tamamen makul görünüyor. Nereye gitmek istersiniz?	dialogue	Captain Barnaby	Captain Barnaby
+You board the ship and sail to Ardougne.	Gemiye binip Ardougne'a yelken açarsiniz.	dialogue	Captain Barnaby	Captain Barnaby
+[Charm] Or I could pay you nothing at all...	[Cazibe] Ya da sana hiç para ödemem...	dialogue	Captain Barnaby	Captain Barnaby
+Rimmington.		dialogue	Captain Barnaby	Captain Barnaby
+Brimhaven.		dialogue	Captain Barnaby	Captain Barnaby
+Nowhere.	Hiçbir yere.	dialogue	Captain Barnaby	Captain Barnaby
+Ardougne.		dialogue	Captain Barnaby	Captain Barnaby
 Can we head to Lunar Isle?	Lunar Isle'a gidebilir miyiz?	dialogue	Captain Bentley	Player
 Sure matey!	Tabii ki dostum!	dialogue	Captain Bentley	Captain Bentley
 Hi.	Merhaba.	dialogue	Captain Bentley	Player
@@ -11772,6 +11869,7 @@ Eh, goodbye.	Eh, hosca kal.	dialogue	Captain Tock	Player
 I'm fine, thanks.	Iyiyim, tesekkürler.	dialogue	Captain Tock	Captain Tock
 What is there to do here?	Burada ne yapabilirim?	dialogue	Captain Tock	Captain Tock
 Eh, goodbye.	Eh, hosca kal.	dialogue	Captain Tock	Captain Tock
+The capybara and hippo don't seem to care for your moves.	Kapibara ve su aygiri hareketlerinizi umursamiyor gibi görünüyor.	dialogue	Capybara	Capybara
 Good day, Carado.	Iyi günler, Carado.	dialogue	Carado	Player
 What are you doing here?	Burada ne yapiyorsun?	dialogue	Carado	Player
 Well, I figured that with Glough being gone and all...	Sey, Glough gittigine göre......	dialogue	Carado	Carado
@@ -13477,6 +13575,8 @@ I'm still too busy to talk to you.	Hala seninle konusacak vaktim yok.	dialogue	C
 Alright, cheerio!	Tamam, hosca kal!	dialogue	Concerned man	Concerned man
 Yes.	Evet.	dialogue	Concerned man	Concerned man
 No.	Hayir.	dialogue	Concerned man	Concerned man
+Take it up with the anteater. I'm a bit busy right now.	Karinca yiyenle konusun. Su anda biraz mesgulüm.	dialogue	Construction Worker	Construction Worker
+Well, that's not something you hear everyday...	Bu, her gün duyabileceginiz bir sey degil...	dialogue	Construction Worker	Player
 Hello.	Merhaba.	dialogue	Conwenna	Player
 Welcome, traveller.	Hos geldin, yolcu.	dialogue	Conwenna	Conwenna
 Could you tell me about crystal singing?	Bana kristal sarki söyleme hakkinda bilgi verebilir misin?	dialogue	Conwenna	Player
@@ -13751,6 +13851,7 @@ You're hired!	Ise alindin!	dialogue	Cook	Player
 What can you do?	Neler yapabilirsin?	dialogue	Cook	Cook
 Tell me about your previous jobs	Bana önceki islerinden bahset.	dialogue	Cook	Cook
 You're hired!	Ise alindin!	dialogue	Cook	Cook
+You were seriously great when you defeated the Culinaromancer! I can't believe I nearly caused all of those people to be killed! So how is the adventuring going now?	Culinaromancer'i yendiginde gerçekten harikaydin! O kadar insanin ölümüne neden olmaya ramak kaldigina inanamiyorum! Peki, maceralarin nasil gidiyor?	dialogue	Cook	Cook
 Can you teach me the basics of cooking please?	Bana yemek pisirmenin temellerini ögretir misin lütfen?	dialogue	Cooking tutor	Player
 The simplest thing to cook is raw meat or fish.	Pisirilmesi en kolay sey cig et veya baliktir.	dialogue	Cooking tutor	Cooking tutor
 Fish can be caught, speak to the fishing tutor south of here in the swamp. Killing cows or chickens will yield raw meat to cook too.	Balik yakalanabilir, buradan güneydeki bataklikta balikcilik ögretmeni ile konus. Inekleri veya tavuklari öldürerek de pisirmek icin cig et elde edebilirsin.	dialogue	Cooking tutor	Cooking tutor
@@ -13977,6 +14078,7 @@ What is this place?	Burasi neresi?	dialogue	Corrupted Warrior	Corrupted Warrior
 Can I access my Bounty Hunter coffer?	Ödül Avcisi kasama erisebilir miyim?	dialogue	Corrupted Warrior	Corrupted Warrior
 When you kill a target, if you've been in long enough, you'll get a crate. If you've been in there longer, you'll get a higher value crate.	Bir hedefi öldürdügünüzde, yeterince uzun süre orada kaldiysaniz, bir sandik alirsiniz. Daha uzun süre orada kaldiysaniz, daha degerli bir sandik alirsiniz.	dialogue	Corrupted Warrior	Corrupted Warrior
 Of course. Your current EP value is [number]%.		dialogue	Corrupted Warrior	Corrupted Warrior
+Yawwwwwn!	*Esner*	dialogue	Corrupted scavenger	Corrupted scavenger
 Ye'll pay!	Bunu ödeyeceksin!	dialogue	Corsair Traitor	Corsair Traitor
 Curse you!	Lanet olsun sana!	dialogue	Corsair Traitor	Corsair Traitor
 Curse 'em all!	Hepsine lanet olsun!	dialogue	Corsair Traitor	Corsair Traitor
@@ -15224,6 +15326,7 @@ Can I have a new essence pouch?	Yeni bir öz kesesi alabilir miyim?	dialogue	Dar
 Can you repair my pouches?	Keselerimi tamir edebilir misin?	dialogue	Dark Mage	Dark Mage
 Actually, I don't need anything right now.	Aslinda su anda bir seye ihtiyacim yok.	dialogue	Dark Mage	Dark Mage
 Sorry, I'll go.	Üzgünüm, gidiyorum.	dialogue	Dark Mage	Dark Mage
+Your items interest me not, traveller.	Senin esyalarin beni ilgilendirmiyor, yolcu.	dialogue	Dark Mage	Dark Mage
 The player entered the stone circle south of Varrock with Silverlight	Oyuncu, Silverlight ile Varrock'un güneyindeki tas cemberine girdi.	dialogue	Dark wizard	Dark wizard
 Arise, O mighty Delrith! Bring destruction to this soft, weak city!	Kalk, ey güclü Delrith! Bu yumusak, zayif sehri yok et!	dialogue	Dark wizard	Denath
 Arise, Delrith!	Kalk, Delrith!	dialogue	Dark wizard	Dark wizards
@@ -25743,6 +25846,8 @@ Yeah, well spotted. You have to be one of us to go in there, and you're clearly 
 Are you new? I've never seen you around here before.	Yeni misin? Seni daha önce buralarda görmedim.	dialogue	Door Guard	Door Guard
 You could say that. Long live General Khazard!	Öyle de denebilir. General Khazard çok yasa!	dialogue	Door Guard	Player
 Er... yeah...	Sey... evet...	dialogue	Door Guard	Door Guard
+Hello.	Merhaba.	dialogue	Door Guard	Player
+You're [him/her/them]! The one who murdered the General's pet. Leave this place at once!		dialogue	Door Guard	Door Guard
 Hello traveller, what brings you to my humble smithy?	Merhaba gezgin, benim mütevazi demirci dükkanima seni ne getirdi?	dialogue	Doric	Doric
 I wanted to use your anvils.	Örslerini kullanmak istedim.	dialogue	Doric	Player
 My anvils get enough work with my own use. I make pickaxes, and it takes a lot of hard work. If you could get me some more materials, then I could let you use them.	Örslerim benim kullanimimla yeterince calisiyor. Kazma yapiyorum ve bu cok zor bir is. Bana biraz daha malzeme getirirsen, kullanmana izin verebilirim.	dialogue	Doric	Doric
@@ -28924,6 +29029,9 @@ No thanks.	Hayir, tesekkürler.	dialogue	Elven Scout	Player
 Yes please.	Evet, lütfen.	dialogue	Elven Scout	Elven Scout
 Yes - [charge price] coins.		dialogue	Elven Scout	Elven Scout
 No thanks.	Hayir, tesekkürler.	dialogue	Elven Scout	Elven Scout
+Hello, please can you open the gate?	Merhaba, lütfen kapiyi açar misiniz?	dialogue	Elven city guard	Player
+I'm sorry but no humans may enter Prifddinas while those criminals are at large.	Üzgünüm ama o suçlular serbestken Prifddinas'a hiç kimse giremez.	dialogue	Elven city guard	Elven city guard
+Rules are rules. No one enters until the brigands are gone.	Kural kuraldir. Haydutlar gidene kadar kimse giremez.	dialogue	Elven city guard	Elven city guard
 Hi.	Merhaba.	dialogue	Embalmer	Player
 Hello again. Do you need something?	Tekrar merhaba. Bir seye ihtiyacin var mi?	dialogue	Embalmer	Embalmer
 No thanks.	Hayir, tesekkürler.	dialogue	Embalmer	Player
@@ -30159,6 +30267,39 @@ Do you ever get tired of guarding this place?	Bu yeri korumaktan hic yorulmuyor 
 This place is beautiful. I thought it was supposed to be a prison?	Burasi cok güzel. Burasi bir hapishane olmasi gerekmiyor muydu?	dialogue	Eyatlalli	Eyatlalli
 Goodbye.	Hosca kal.	dialogue	Eyatlalli	Eyatlalli
 Yes.	Evet.	dialogue	Eyatlalli	Eyatlalli
+Welcome back, iknil. You have timed your arrival here well, for Neypotzli is in danger once more. There are interlopers present who have little regard for the dangers posed by the Moons of Peril.	Hos geldin, iknil. Buraya gelmek için dogru zamani seçmissin, çünkü Neypotzli bir kez daha tehlike altinda. Tehlikeli Aylar'in olusturdugu tehlikeleri hiçe sayan davetsiz misafirler var.	dialogue	Eyatlalli	Eyatlalli
+Well, that's exactly why I'm here. I know who these interlopers are and I know what they're after.	İste bu yüzden buradayim. Bu davetsiz misafirlerin kim oldugunu ve neyin pesinde olduklarini biliyorum.	dialogue	Eyatlalli	Player
+Yes, I suspected that to be the case. Your arrival was too precise to be coincidence. Tell me, what do the interlopers seek?	Evet, ben de öyle oldugunu tahmin etmistim. Buraya gelisin tesadüf olamayacak kadar zamanlamasi çok iyiydi. Söylesene, davetsiz misafirler neyin pesindeler?	dialogue	Eyatlalli	Eyatlalli
+They're after an Old One keystone.	Eski Olan'in anahtar tasini ariyorlar.	dialogue	Eyatlalli	Player
+Old One? A curious term. We nagua measure time as the rivers change their paths and as the mountains erode away.	Eski Olan mi? İlginç bir terim. Biz nagualar, nehirlerin yön degistirmesi ve daglarin asinmasiyla zamani ölçeriz.	dialogue	Eyatlalli	Eyatlalli
+The days of the masters are fresh memories to me, but to you, one who is so short lived, they are days of myth...	Ustalarin günleri benim için taze hatiralar, ama senin gibi kisa ömürlü biri için bunlar efsane günler...	dialogue	Eyatlalli	Eyatlalli
+Tell me, why do the interlopers seek the magic of the masters?	Söylesene, davetsiz misafirler ustalarin büyüsünü neden ariyorlar?	dialogue	Eyatlalli	Eyatlalli
+There's a crypt in the Tlati Rainforest, but it's sealed using Old One magic. These interlopers are cultists who want to get inside. They think they can do so if they have a keystone of their own.	Tlati Yagmur Ormani'nda bir mezar var, ama Eski Olanlarin büyüsüyle mühürlenmis. Bu davetsiz misafirler, içeri girmek isteyen tarikatçilar. Kendi anahtar taslarina sahip olurlarsa bunu basarabileceklerini düsünüyorlar.	dialogue	Eyatlalli	Player
+Provided they have the aptitude, I suspect their beliefs are correct.	Yetenekleri varsa, inançlarinin dogru oldugunu düsünüyorum.	dialogue	Eyatlalli	Eyatlalli
+Then we need to stop them before they get one.	O zaman anahtar tasi ele geçirmeden onlari durdurmaliyiz.	dialogue	Eyatlalli	Player
+The icosahedron behind me is a form of keystone, and the interlopers have already tried to tamper with it.	Arkamdaki ikosahedron bir tür anahtar tasidir ve davetsiz misafirler onu kurcalamaya çalismislardir.	dialogue	Eyatlalli	Eyatlalli
+But you stopped them?	Ama onlari durdurdun?	dialogue	Eyatlalli	Player
+Yes, but the danger remains. There is another keystone here. An earlier form of the icosahedron from when Neypotzli was being built.	Evet, ama tehlike devam ediyor. Burada baska bir anahtar tasi daha var. Neypotzli insa edildigi zamanlardan kalma, ikosahedronun daha eski bir formu.	dialogue	Eyatlalli	Eyatlalli
+However, the Moons of Peril must remain my priority. I cannot stop the interlopers from trying to obtain it.	Ancak, Tehlikeli Aylar benim önceligim olmaya devam etmelidir. Davetsiz misafirlerin onu ele geçirmeye çalismasini engelleyemem.	dialogue	Eyatlalli	Eyatlalli
+Don't worry, I can deal with them. I just need to know where they are.	Merak etme, onlarla ben ilgilenirim. Sadece nerede olduklarini bilmem gerekiyor.	dialogue	Eyatlalli	Player
+I can give you a fragment of the icosahedron. It resonates with the magic of the other keystone. It will guide you to it. Go to the keystone, and you will no doubt find the interlopers.	Sana ikosahedronun bir parçasini verebilirim. Diger anahtar tasin büyüsüyle rezonansa girer. Seni ona götürür. Anahtar tasa git, orada davetsiz misafirleri bulacaksin.	dialogue	Eyatlalli	Eyatlalli
+Thank you, but before I go, there's one other thing...	Tesekkürler, ama gitmeden önce bir sey daha var...	dialogue	Eyatlalli	Player
+What is it?	Nedir o?	dialogue	Eyatlalli	Eyatlalli
+The reason these cultists want to enter that crypt... It's because they think there's a path to Mokhaiotl inside.	Bu tarikatçilarin o mezara girmek istemelerinin sebebi... İçeride Mokhaiotl'a giden bir yol oldugunu düsünmeleri.	dialogue	Eyatlalli	Player
+Mokhaiotl?	Mokhaiotl mu?	dialogue	Eyatlalli	Eyatlalli
+Do you know what it is?	Nedir o biliyor musun?	dialogue	Eyatlalli	Player
+The masters were always secretive, especially towards the end. They rarely spoke of the world outside this place, but when they did, they only spoke of pain.	Ustalar her zaman gizemliydiler, özellikle de sonlara dogru. Bu yerin disindaki dünyadan nadiren bahsederlerdi, ama bahsettiklerinde sadece acidan söz ederlerdi.	dialogue	Eyatlalli	Eyatlalli
+They had already lost so much by the time they summoned me. Their extinction was already guaranteed, yet they kept going all the same.	Beni çagirdiklarinda çoktan çok sey kaybetmislerdi. Yok olmalari kaçinilmazdi, ama yine de devam ettiler.	dialogue	Eyatlalli	Eyatlalli
+This word... Mokhaiotl... I only heard it once, when things neared the end. It was not clear to me what it was, but when they spoke of it... it was the first time I'd heard them speak with hope.	Bu kelime... Mokhaiotl... Sadece bir kez duydum, her sey sona yaklasirken. Ne oldugunu tam olarak anlamamistim, ama onlar bundan bahsederken... ilk kez umutla konustuklarini duydum.	dialogue	Eyatlalli	Eyatlalli
+Now, I must return to my focus on the Moons of Peril. Seek me out in the chamber to the south east if you need my guidance. Go with haste, iknil. Good luck.	Simdi, Tehlikeli Aylar'a odaklanmam gerekiyor. Rehberligime ihtiyacin olursa, güneydogudaki odada beni ara. Acele et, iknil. İyi sanslar.	dialogue	Eyatlalli	Eyatlalli
+Yes, iknil?	Evet, iknil?	dialogue	Eyatlalli	Eyatlalli
+I wasn't able to stop those cultists.	O tarikatçilari durduramadim.	dialogue	Eyatlalli	Player
+So they now have the keystone? The magic of the masters is not for them.	Yani simdi anahtar taslari ellerinde mi? Ustalarin büyüsü onlara uygun degil.	dialogue	Eyatlalli	Eyatlalli
+I'm sorry.	Üzgünüm.	dialogue	Eyatlalli	Player
+Do not apologise, iknil. You still have a chance to stop them.	Özür dileme, iknil. Onlari durdurmak için hâlâ bir sansin var.	dialogue	Eyatlalli	Eyatlalli
+That's true I suppose. I guess on that note, I should get going.	Sanirim haklisin. Öyleyse, ben de gitmeliyim.	dialogue	Eyatlalli	Player
+Good luck, iknil.	İyi sanslar, iknil.	dialogue	Eyatlalli	Eyatlalli
+I wasn't able to stop those cultists.	O tarikatçilari durduramadim.	dialogue	Eyatlalli	Eyatlalli
 Hello!	Merhaba!	dialogue	Ezco, Teoki of Ranul	Player
 Nilsal. I'm afraid I must ask not to be disturbed. There are many things that one in my position must contemplate. If you seek conversation, I'm sure my companion would be willing.	Nilsal. Maalesef rahatsiz edilmemeyi rica etmek zorundayim. Benim konumumdaki birinin düsünmesi gereken bircok sey var. Konusmak istiyorsan, eminim arkadasim memnuniyetle konusur.	dialogue	Ezco, Teoki of Ranul	Ezco, Teoki of Ranul
 Okay, thanks.	Tamam, tesekkürler.	dialogue	Ezco, Teoki of Ranul	Player
@@ -30308,6 +30449,13 @@ As you wish.	Nasil istersen.	dialogue	Fairy	Fairy
 Yes, I'm ready to leave.	Evet, gitmeye hazirim.	dialogue	Fairy	Player
 I think I'll stay down here a bit longer.	Sanirim biraz daha burada kalacagim.	dialogue	Fairy	Fairy
 Yes, I'm ready to leave.	Evet, gitmeye hazirim.	dialogue	Fairy	Fairy
+I don't want to go back! That orc tried to kill me!	Geri dönmek istemiyorum! O ork beni öldürmeye çalisti!	dialogue	Fairy	Fairy
+We must find a way to fight back! To throw those villains out of our homes.	Karsi koymanin bir yolunu bulmaliyiz! O kötü adamlari evlerimizden kovmaliyiz.	dialogue	Fairy	Fairy
+I can't believe that there are orcs in Zanaris.	Zanaris'te orklarin olduguna inanamiyorum.	dialogue	Fairy	Fairy
+Have you heard? The Godfather has allowed orcs into Zanaris!	Duydun mu? Godfather, orklarin Zanaris'e girmesine izin verdi!	dialogue	Fairy	Fairy
+Those fairies that side with the Godfather are all traitors! The Queen is the true ruler of Zanaris!	Godfather'in tarafinda olan periler hepsi hain! Kraliçe, Zanaris'in gerçek hükümdari!	dialogue	Fairy	Fairy
+Have you seen Fairy Cake? She went to talk to the Godfather and I haven't seen her since.	Peri Kek'i gördün mü? Godfather ile konusmaya gitti ve o zamandan beri onu görmedim.	dialogue	Fairy	Fairy
+How is the Queen? Has she woken up yet?	Kraliçe nasil? Henüz uyanmadi mi?	dialogue	Fairy	Fairy
 Hello, my name is [player name]. Who are you?	Merhaba, benim adim Maceraci. Sen kimsin?	dialogue	Fairy Aeryka	Player
 Oh hello [player name]. I'm Aeryka. Aery for short.	Merhaba Maceraci. Ben Aeryka. Kisaca Aery.	dialogue	Fairy Aeryka	Fairy Aeryka
 Airy Fairy?	Airy Fairy mi?	dialogue	Fairy Aeryka	Player
@@ -32704,6 +32852,7 @@ Sure, that sounds like a fair price.	Tabii, bu fiyat makul görünüyor.	dialogu
 No	Hayir	dialogue	Fritz the Glassblower	Fritz the Glassblower
 Could you tell me how to make molten glass again, please?	Erimis camin nasil yapildigini tekrar anlatir misin lütfen?	dialogue	Fritz the Glassblower	Fritz the Glassblower
 I just thought I'd drop in and say hello.	Sadece ugrayip merhaba demek istedim.	dialogue	Fritz the Glassblower	Fritz the Glassblower
+my house for that; it's the one directly west of here. Next we collect sand from the sandpit that you'll also find just west of here, there are others located in Yanille and Shilo Village.	Bunun için benim evim; buradan batiya dogru ilerlediginizde göreceksiniz. Sonra, yine buradan batiya dogru ilerlediginizde göreceginiz kum havuzundan kum topluyoruz. Yanille ve Shilo Köyü'nde de baska kum havuzlari var.	dialogue	Fritz the Glassblower	Fritz the Glassblower
 Hurrah for the frog [prince/princess]!	Kurbaga hazretleri icin yasasin!	dialogue	Frog	Frog
 Don't talk to me! Speak to the frog [prince/princess]!	Benimle konusma! Kurbagahazretleri ile konus!	dialogue	Frog	Frog
 ​The frogs do not need your help right now.	Kurbagalarin su anda senin yardimina ihtiyaci yok.	dialogue	Frog	Frog
@@ -33986,6 +34135,7 @@ You not need sharp when you have strong goblin swinging big lump of iron!	Gücl�
 Do you want me to...	Senin...	dialogue	General Wartface	Player
 Shut up human, we sort this one out ourselves!	Kapa ceneni insan, bunu kendimiz hallederiz!	dialogue	General Wartface	General Wartface
 Where's Wartface gone now?	Wartface simdi nereye gitti?	dialogue	General Wartface	General Bentnoze
+Where's Bentnoze gone now?	Bentnoze simdi nereye gitti?	dialogue	General Wartface	General Wartface
 Ah, so you are there, [Master/Mistress] [player name]. I'm so glad you summoned me. Please take this lamp and make your wish.	Ah, buradasin demek,  Maceraci. Beni cagirdigin icin cok mutluyum. Lütfen bu lambayi al ve dilegini tut.	dialogue	Genie	Genie
 Have a nice day, [Master/Mistress].	Iyi günler.	dialogue	Genie	Genie
 Sorry, I'm trying to talk to someone else, but [he/she] seems to be ignoring me.	Üzgünüm, baska biriyle konusmaya calisiyorum ama o beni görmezden geliyor gibi.	dialogue	Genie	Genie
@@ -35184,6 +35334,23 @@ Do you know my Glory status?	Zafer durumumu biliyor musun?	dialogue	Gloria	Glori
 I'd better get going.	Gitmem gerek.	dialogue	Gloria	Gloria
 Tell me more about these rewards.	Bu ödüller hakkinda daha fazla bilgi verin.	dialogue	Gloria	Gloria
 Actually, I'm good.	Aslinda, ben iyiyim.	dialogue	Gloria	Gloria
+You are a Challenger!	Sen bir meydan okuyucusun!	dialogue	Gloria	Gloria
+You are a Gladiator!	Sen bir gladyatörsün!	dialogue	Gloria	Gloria
+You are a Hero!	Sen bir kahramansin!	dialogue	Gloria	Gloria
+You are a Champion!	Sen bir sampiyonsun!	dialogue	Gloria	Gloria
+Can you change my respawn point?	Yeniden dogma noktami degistirebilir misin?	dialogue	Gloria	Player
+What would you like changing about it?	Neyi degistirmek istersin?	dialogue	Gloria	Gloria
+Do you think you could change my respawn point to Civitas illa Fortis?	Yeniden dogma noktami Civitas illa Fortis olarak degistirebilir misin?	dialogue	Gloria	Player
+I'm sure I could put in a good word at the palace now that you are a [rank].		dialogue	Gloria	Gloria
+Anytime, [rank].		dialogue	Gloria	Gloria
+On second thoughts, I'll leave it for now.	Bir daha düsündüm de, simdilik birakacagim.	dialogue	Gloria	Player
+No problem.	Sorun degil.	dialogue	Gloria	Gloria
+I was wondering if I could respawn back in Lumbridge instead of the city?	Sehir yerine Lumbridge'de yeniden dogabilir miyim acaba?	dialogue	Gloria	Player
+Not a problem. I'll let the palace know right away.	Sorun degil. Hemen saraya haber verecegim.	dialogue	Gloria	Gloria
+Thanks.	Tesekkürler.	dialogue	Gloria	Player
+Can you change my respawn point?	Yeniden dogma noktami degistirebilir misin?	dialogue	Gloria	Gloria
+Yes.	Evet.	dialogue	Gloria	Gloria
+No.	Hayir.	dialogue	Gloria	Gloria
 Urgh...	Urgh...	dialogue	Gnocci the Cook	Gnocci the Cook
 He looks too sick to chat.	Sohbet edecek kadar iyi görünmüyor.	dialogue	Gnocci the Cook	Gnocci the Cook
 I'm really grateful to you for clearing up what Ithoi did to us. The rest of the Corsairs will appreciate my cooking even more now!	Ithoi'nin bize yaptiklarini acikliga kavusturdugunuz icin size gercekten minnettarim. Korsanlarin geri kalani artik yemeklerimi daha da cok takdir edecek!	dialogue	Gnocci the Cook	Gnocci the Cook
@@ -37462,6 +37629,15 @@ Are you there [player name]?	Orada misin Maceraci?	dialogue	Guardian of Armadyl	
 [player name]? I have a message for you.	Maceraci? Sana bir mesajim var.	dialogue	Guardian of Armadyl	Guardian of Armadyl
 [player name]? You've been sent a message.	Maceraci? Sana bir mesaj gönderildi.	dialogue	Guardian of Armadyl	Guardian of Armadyl
 Maybe another time.	Belki baska bir zaman.	dialogue	Guardian of Armadyl	Guardian of Armadyl
+I have defeated Lucien!	Lucien'i yendim!	dialogue	Guardian of Armadyl	Player
+Well done friend! He will not be able to return for a while, this is good news!	Aferin dostum! Bir süre geri dönemeyecek, bu iyi haber!	dialogue	Guardian of Armadyl	Guardian of Armadyl
+Can I have another pendant?	Bir kolye daha alabilir miyim?	dialogue	Guardian of Armadyl	Player
+Cheers. Catch you later.	Tesekkürler. Görüsürüz.	dialogue	Guardian of Armadyl	Player
+I'm sure you've got one stored somewhere.	Eminim bir yerlerde sakladigin vardir.	dialogue	Guardian of Armadyl	Guardian of Armadyl
+See you around.	Görüsürüz.	dialogue	Guardian of Armadyl	Player
+Great. Thanks for the pendant.	Harika. Kolye için tesekkürler.	dialogue	Guardian of Armadyl	Player
+Can I have another pendant?	Bir kolye daha alabilir miyim?	dialogue	Guardian of Armadyl	Guardian of Armadyl
+See you around.	Görüsürüz.	dialogue	Guardian of Armadyl	Guardian of Armadyl
 Hello again Guidor. How are you doing?	Merhaba Guidor. Nasilsin?	dialogue	Guidor	Player
 I'm hanging in there.	Idare ediyorum.	dialogue	Guidor	Guidor
 Good for you.	Aferin sana.	dialogue	Guidor	Player
@@ -42116,7 +42292,7 @@ No thanks.	Hayir, tesekkürler.	dialogue	Istoria	Istoria
 Goodbye.	Hosca kal.	dialogue	Istoria	Istoria
 I have a question about King Shayzien VII.	Kral Shayzien VII hakkinda bir sorum var.	dialogue	Istoria	Istoria
 Do you know anything about Camorra?	Camorra hakkinda bir sey biliyor musun?	dialogue	Istoria	Istoria
-		dialogue	Istoria	Istoria
+	Hiçbir sey.	dialogue	Istoria	Istoria
 Urgh...	Urgh...	dialogue	Ithoi the Navigator	Ithoi the Navigator
 He looks too sick to chat.	Sohbet edecek kadar iyi görünmüyor.	dialogue	Ithoi the Navigator	Ithoi the Navigator
 Hey it's the Hero! Wow! You're amazing, how on earth did you manage to tackle those two juvinates and Gadderanks? And the town is lovely, you've done a great job!	Hey, bu Kahraman! Vay canina! Sen harikasin, o iki juvinate ve Gadderank'i nasil alt ettin? Ve kasaba cok güzel, harika bir is cikarmissin!	dialogue	Ivan	Ivan
@@ -43002,6 +43178,8 @@ Nilsal, [player name]. How are things going?	Nilsal, Maceraci. Isler nasil gidiy
 Pretty good, thanks. How about you? Made any more discoveries down here?	Oldukca iyi, tesekkürler. Sen nasilsin? Burada baska kesifler yaptin mi?	dialogue	Jessamine	Player
 More than you can count! I've found so much new information on the Old Ones and naguanil. The museum are hoping to include it all in some new exhibits soon!	Sayamayacagin kadar cok! Eski Varliklar ve naguanil hakkinda cok fazla yeni bilgi buldum. Müze yakinda tüm bunlari yeni sergilere dahil etmeyi umuyor!	dialogue	Jessamine	Jessamine
 Sounds awesome! I'll be sure to keep an eye out for them. On that note, I'll let you get back to it.	Harika! Onlari mutlaka görecegim. Bu arada, seni isine birakayim.	dialogue	Jessamine	Player
+Yes, I know about them. Don't worry, I'll make sure they don't cause any more problems.	Evet, onlari biliyorum. Merak etmeyin, bir daha sorun çikarmamalarini saglayacagim.	dialogue	Jessamine	Player
+Glad to hear it. I'd hate for them to go damaging something around here!	Bunu duyduguma sevindim. Buralarda bir seyleri mahvetmelerini hiç istemem!	dialogue	Jessamine	Jessamine
 Hello friend.	Merhaba arkadasim.	dialogue	Jessie	Jessie
 Hello, what are you doing here?	Merhaba, burada ne yapiyorsun?	dialogue	Jessie	Player
 My name is Jessie. I help look after the forest.	Benim adim Jessie. Ormani korumaya yardim ediyorum.	dialogue	Jessie	Jessie
@@ -44086,6 +44264,14 @@ How do I get into the Kharazi jungle?	Kharazi Ormani'na nasil girebilirim?	dialo
 I have a question about my Achievement Diary.	Basari Günlügümle ilgili bir sorum var.	dialogue	Jungle forester	Jungle forester
 Yes	Evet	dialogue	Jungle forester	Jungle forester
 No	Hayir	dialogue	Jungle forester	Jungle forester
+Hello.	Merhaba.	dialogue	Junior Navigator	Player
+Hello, you should probably talk to the lead navigator, he's calling the shots around here.	Merhaba, muhtemelen bas navigatörle konusmalisin, buradaki kararlari o veriyor.	dialogue	Junior Navigator	Junior Navigator
+You should probably talk to the lead navigator, he's calling the shots around here.	Muhtemelen bas navigatörle konusmalisin, buradaki kararlari o veriyor.	dialogue	Junior Navigator	Junior Navigator
+Hey, [player name], would you like me to row you to shore?	Hey, maceraci, seni kiyiya götürmemi ister misin?	dialogue	Junior Navigator	Junior Navigator
+You row to the expedition camp...	Kesif kampina kürek çek...	dialogue	Junior Navigator	Junior Navigator
+No, thanks.	Hayir, tesekkürler.	dialogue	Junior Navigator	Player
+Expedition camp.	Kesif kampi.	dialogue	Junior Navigator	Junior Navigator
+No thanks.	Hayir, tesekkürler.	dialogue	Junior Navigator	Junior Navigator
 Hey, I'm Justine. I've got some rewards here for fighters who've done well in Lisa's Last Man Standing game. Wanna see?	Merhaba, ben Justine. Lisa'nin Son Adam Ayakta Kalan oyununda basarili olan savascilar icin bazi ödüllerim var. Görmek ister misin?	dialogue	Justine	Justine
 What have you got?	Ne var sende?	dialogue	Justine	Player
 No thanks.	Hayir, tesekkürler.	dialogue	Justine	Player
@@ -44761,6 +44947,10 @@ What do you do here?	Burada ne yapiyorsun?	dialogue	Karaday	Karaday
 Is there anything interesting to do here?	Burada ilginc bir sey var mi?	dialogue	Karaday	Karaday
 I've been doing some work around the village.	Köyde bazi isler yapiyorum.	dialogue	Karaday	Karaday
 Ok, thanks.	Tamam, tesekkürler.	dialogue	Karaday	Karaday
+What are you still doing here?	Hala burada ne yapiyorsun?	dialogue	Karam	Player
+I'm hunting for maniacal monkeys that escaped Glough's airship laboratory!	Glough'un hava gemisi laboratuvarindan kaçan çilgin maymunlari avliyorum!	dialogue	Karam	Karam
+Any luck?	Sansin yaver gitti mi?	dialogue	Karam	Player
+Not yet, I'm still perfecting my strategy... I'll let you know as soon as I find a way.	Henüz degil, stratejimi hala mükemmellestiriyorum... Bir yol bulur bulmaz sana haber veririm.	dialogue	Karam	Karam
 You dare disturb my rest!	Dinlenmemi bozmaya nasil cüret edersin!	dialogue	Karil the Tainted	Karil the Tainted
 You dare steal from us!	Bizi soymaya nasil cüret edersin!	dialogue	Karil the Tainted	Karil the Tainted
 Would you like to buy a nice kebab? Only one gold.	Güzel bir kebap almak ister misin? Sadece bir altin.	dialogue	Karim	Karim
@@ -46517,6 +46707,7 @@ I'll take my chances.	Sansimi deneyecegim.	dialogue	Koftik	Koftik
 Tell me more...	Biraz daha anlat...	dialogue	Koftik	Koftik
 Probably just litter.	Muhtemelen sadece cöp.	dialogue	Koftik	Koftik
 What does it say?	Ne yaziyor?	dialogue	Koftik	Koftik
+I wouldn't go in there if I were you. Only death awaits those who enter that place.	Ben olsam oraya girmezdim. Oraya girenleri sadece ölüm bekliyor.	dialogue	Koftik	Koftik
 Hello there. What is this place?	Merhaba. Burasi neresi?	dialogue	Kolodion	Player
 Do not waste my time with trivial questions. I am the Great Kolodion, master of battle magic. I have an arena to run.	Önemsiz sorularla vaktimi bosa harcama. Ben Büyük Kolodion, savas büyüsünün ustasiyim. Yönetmem gereken bir arenam var.	dialogue	Kolodion	Kolodion
 Can I enter?	Girebilir miyim?	dialogue	Kolodion	Player
@@ -46909,6 +47100,7 @@ Okay, I've grown those cabbages like you asked.	Tamam, istedigin gibi o lahanala
 Are you a member of the Group of Advanced Gardeners?	Ileri Düzey Bahcivanlar Grubu'nun üyesi misin?	dialogue	Kragen	Kragen
 Fairy Tale Part I - Growing Pains	Masal Bölüm I - Büyüme Sancilari	dialogue	Kragen	Kragen
 Garden of Tranquility	Huzur Bahcesi	dialogue	Kragen	Kragen
+Garden of Tranquillity	Huzur Bahcesi	dialogue	Kragen	Kragen
 What's Kraken?	Kraken nedir?	dialogue	Kraken	Player
 Not heard that one before.	Daha önce duymadim.	dialogue	Kraken	Kraken
 How are you actually walking on land?	Nasil karada yürüyebiliyorsunuz?	dialogue	Kraken	Player
@@ -47390,6 +47582,7 @@ Not at the moment, no.	Su anda yok, hayir.	dialogue	Laidee Gnonock	Laidee Gnonoc
 Could I reclaim some rewards?	Bazi ödülleri geri alabilir miyim?	dialogue	Laidee Gnonock	Laidee Gnonock
 I have to go.	Gitmem gerek.	dialogue	Laidee Gnonock	Laidee Gnonock
 I'd better get going.	Gitmem gerek.	dialogue	Laidee Gnonock	Laidee Gnonock
+What do you expect me to do with this?	Bununla ne yapmami bekliyorsun?	dialogue	Laidee Gnonock	Laidee Gnonock
 Hello there.	Merhaba.	dialogue	Lalli	Player
 Bah! Puny humans always try steal Lallis' golden apples! You go away now!	Bah! Zayif insanlar her zaman Lallis'in altin elmalarini calmaya calisir! Simdi git buradan!	dialogue	Lalli	Lalli
 Uh.... okay...	Uh.... tamam...	dialogue	Lalli	Player
@@ -47737,6 +47930,7 @@ No thanks, I'll pass.	Hayir, tesekkürler, ben almayayim.	dialogue	Larxus	Larxus
 Yes, please.	Evet, lütfen.	dialogue	Larxus	Larxus
 I'd like another one.	Bir tane daha istiyorum.	dialogue	Larxus	Larxus
 Thank you, and goodbye.	Tesekkürler ve hosca kal.	dialogue	Larxus	Larxus
+I believe I mentioned you're only allowed to take Weapons into this duel.	Bu düelloya sadece silahlarla katilabileceginizi söylemistim sanirim.	dialogue	Larxus	Larxus
 Can I help you today?	Bugün size nasil yardimci olabilirim?	dialogue	Lassin	Lassin
 Can I go for a ride?	Binmek ister misiniz?	dialogue	Lassin	Player
 Minecart rides are 20 coins.	Maden arabasi binmek 20 jeton.	dialogue	Lassin	Lassin
@@ -48103,6 +48297,13 @@ Hard Rewards.	Zor Ödüller.	dialogue	Le-sabrè	Le-sabrè
 Elite Rewards.	Elit Ödüller.	dialogue	Le-sabrè	Le-sabrè
 How do I claim the rewards?	Ödülleri nasil alabilirim?	dialogue	Le-sabrè	Le-sabrè
 Bye!	Hosca kal!	dialogue	Le-sabrè	Le-sabrè
+Hello.	Merhaba.	dialogue	Lead Navigator	Player
+Would you like to travel to Fossil Island?	Fosil Adasi'na gitmek ister misiniz?	dialogue	Lead Navigator	Lead Navigator
+No, thanks.	Hayir, tesekkürler.	dialogue	Lead Navigator	Player
+Would you like to travel to the Digsite?	Kazi Alani'na gitmek ister misiniz?	dialogue	Lead Navigator	Lead Navigator
+Yes, please.	Evet, lütfen.	dialogue	Lead Navigator	Player
+Yes, please.	Evet, lütfen.	dialogue	Lead Navigator	Lead Navigator
+No, thanks.	Hayir, tesekkürler.	dialogue	Lead Navigator	Lead Navigator
 Hello there, [player name].	Merhaba, Maceraci.	dialogue	League Navigator	League Navigator
 Hi...	Merhaba...	dialogue	League Navigator	Player
 How do you know my name? Have we met before?	Adimi nereden biliyorsun? Daha önce tanismis miydik?	dialogue	League Navigator	Player
@@ -53056,6 +53257,9 @@ Hello.	Merhaba.	dialogue	Menaphite Thug	Player
 What do you want?	Ne istiyorsun?	dialogue	Menaphite Thug	Menaphite Thug
 Nothing really, I'm new to town and wanted to get to know the locals.	Aslinda bir sey istemiyorum, bu kasabaya yeni geldim ve yerlileri tanimak istedim.	dialogue	Menaphite Thug	Player
 I'm too busy for chitchat. Come back if you have some business to discuss with us.	Sohbet etmek icin cok mesgulüm. Bizimle görüsecek bir isin varsa geri gel.	dialogue	Menaphite Thug	Menaphite Thug
+You treacherous jackal! I should never have trusted you.	Seni hain çakal! Sana asla güvenmemeliydim.	dialogue	Menaphite Thug	Menaphite Thug
+What can I say, you live an learn	Ne diyebilirim ki, yasayarak ögreniyorsun.	dialogue	Menaphite Thug	Player
+I will avenge my master!	Efendimin intikamini alacagim!	dialogue	Menaphite Thug	Menaphite Thug
 Yeah, what do you want?	Evet, ne istiyorsun?	dialogue	Mercenary	Mercenary
 What is this place?	Burasi neresi?	dialogue	Mercenary	Player
 It's none of your business now get lost.	Seni ilgilendirmez, simdi kaybol.	dialogue	Mercenary	Mercenary
@@ -53343,6 +53547,13 @@ Oh, hello there. I'm afraid I don't have time to talk right now. I'm rather busy
 Ok, sorry.	Tamam, özür dilerim.	dialogue	Miazrqa	Player
 Thanks again for finding my pendant. I felt so lost without it.	Kolyeyi buldugun icin tekrar tesekkürler. Onsuz kendimi cok kaybolmus hissediyordum.	dialogue	Miazrqa	Miazrqa
 You're welcome. Goodbye.	Rica ederim. Hosca kal.	dialogue	Miazrqa	Player
+Hello there.	Merhaba.	dialogue	Miazrqa	Player
+Oh, hello.	Oh, merhaba.	dialogue	Miazrqa	Miazrqa
+Who are you?	Kimsin sen?	dialogue	Miazrqa	Player
+Who am I? Why, how impertinent! I am a princess and I will be spoken to like one. Now be off with you. I have no time for scruffy adventurers like yourself!	Kim miyim? Ne küstahça! Ben bir prensesim ve bana prenses gibi davranilmasini beklerim. Simdi git buradan. Senin gibi daginik maceracilarla ugrasacak vaktim yok!	dialogue	Miazrqa	Miazrqa
+I notice there is a dwarf up in the tower there. Why is he up there?	Kuleye bir cüce çiktigini fark ettim. Neden oraya çikti?	dialogue	Miazrqa	Player
+I do believe that is none of your business, young scallyrumpit! Now kindly leave.	Bunun seni ilgilendirmedigini düsünüyorum, genç haylaz! Simdi lütfen git buradan.	dialogue	Miazrqa	Miazrqa
+Uh...ok. Never mind then!	Uh... tamam. Önemli degil o zaman!	dialogue	Miazrqa	Player
 Hey it's the Hero! Wow! You're amazing, how on earth did you manage to tackle those two juvinates and Gadderanks? And the town is lovely, you've done a great job!	Hey, bu Kahraman! Vay canina! Sen harikasin, o iki juvinate ve Gadderank'i nasil alt ettin? Ve kasaba cok güzel, harika bir is cikarmissin!	dialogue	Mihail	Mihail
 You're more than welcome.	Rica ederim.	dialogue	Mihail	Player
 What do you do here?	Burada ne yapiyorsun?	dialogue	Mihail	Player
@@ -57567,6 +57778,11 @@ Could I have a bonesack as well?	Ben de bir kemik cuvali alabilir miyim?	dialogu
 Where was that mumbling coming from anyway?	Bu mirildanma nereden geliyordu ki?	dialogue	Odd Old Man	Odd Old Man
 Could I exchange this bonesack for the helm?	Bu kemik cuvalini migferle takas edebilir miyim?	dialogue	Odd Old Man	Odd Old Man
 Could I have a helm as well?	Ben de bir migfer alabilir miyim?	dialogue	Odd Old Man	Odd Old Man
+So how is the sorting going?	Siralama nasil gidiyor?	dialogue	Odd Old Man	Player
+It's going well, especially now I have all the bones I need.	İyi gidiyor, özellikle de ihtiyacim olan tüm kemikleri topladigim için.	dialogue	Odd Old Man	Odd Old Man
+There are still a few bits and pieces I wouldn't mind, but that's the way things go.	Hala birkaç parça eksik ama bu isler böyledir.	dialogue	Odd Old Man	Odd Old Man
+Well if I see any bones I think you might like I'll bring them over.	Eger hosuna gidebilecek kemikler görürsem sana getiririm.	dialogue	Odd Old Man	Player
+Cheers, we, err, that is myself and the museum staff, really appreciate it.	Tesekkürler, biz, yani ben ve müze çalisanlari, çok minnettariz.	dialogue	Odd Old Man	Odd Old Man
 Hey, human.	Hey, insan.	dialogue	Odd Stone	Odd Stone
 Who are you?	Kimsin sen?	dialogue	Odd Stone	Player
 I am Odd Stone. Got named after some odd stone thing I found in the snowfields south of Weiss.	Ben Odd Stone. Adimi, Weiss'in güneyindeki karli arazide buldugum tuhaf bir tastan aldim.	dialogue	Odd Stone	Odd Stone
@@ -58091,6 +58307,8 @@ Hello there.	Merhaba.	dialogue	Old man	Player
 Hello traveller, do you know what this is?	Merhaba gezgin, bunun ne oldugunu biliyor musun?	dialogue	Old man	Old man
 It looks like a monument.	Anit gibi görünüyor.	dialogue	Old man	Player
 Yes. I served in the military for 30 years. This monument always reminds me of my days in the army.	Evet. 30 yil orduda görev yaptim. Bu anit bana her zaman ordudaki günlerimi hatirlatir.	dialogue	Old man	Old man
+How is it going?	Nasil gidiyor?	dialogue	Old man	Player
+Wonderful, wonderful! Mother's coming to get me!	Harika, harika! Annem beni almaya geliyor!	dialogue	Old man	Old man
 Oh, hello! I was just trying to discover the properties of these magical stones you call 'runes', and trying to make some devices to harness their power.	Merhaba! Ben de sizin “rune” dediginiz bu sihirli taslarin özelliklerini kesfetmeye ve onlarin gücünü kullanmak icin bazi cihazlar yapmaya calisiyordum.	dialogue	Oldak	Oldak
 What have you discovered?	Ne kesfettiniz?	dialogue	Oldak	Player
 Oh, it's terribly exciting! Let me explain...	Oh, bu cok heyecan verici! Aciklayayim...	dialogue	Oldak	Oldak
@@ -60685,6 +60903,7 @@ Which friend?	Hangi arkadas?	dialogue	Pirate	Pirate
 Bill Teach.	Bill Teach.	dialogue	Pirate	Player
 Bill hired you eh? He must have been scrapin' the barrel and no mistake.	Bill seni ise mi aldi? Kesinlikle caresiz kalmis olmali.	dialogue	Pirate	Pirate
 Hey! I resent that!	Hey! Buna kizdim!	dialogue	Pirate	Player
+The pirate captain ignores you and continues to stare lifelessly at nothing, as he has clearly been dead for some time.	Korsan kaptani seni görmezden gelir ve bir süredir ölü oldugu açikça belli oldugu halde, cansiz bir sekilde bosluga bakmaya devam eder.	dialogue	Pirate Captain	Pirate Captain
 Hello!	Merhaba!	dialogue	Pirate Guard	Player
 Arrh I'll keel haul ye!	Seni geminin omurgasina baglayacagim!	dialogue	Pirate Guard	Pirate Guard
 Pieces of eight! pieces of eight!	Sekiz parcalik! Sekiz parcalik!	dialogue	Pirate Guard	Pirate Guard
@@ -61467,6 +61686,11 @@ Timoiva, my friend.	Timoiva, dostum.	dialogue	Prince Itzla Arkan	Prince Itzla Ar
 How are you doing?	Nasilsin?	dialogue	Prince Itzla Arkan	Prince Itzla Arkan
 You don't happen to have another sword do you?	Baska bir kilicin yok, degil mi?	dialogue	Prince Itzla Arkan	Prince Itzla Arkan
 I'd better get going.	Gitsem iyi olacak.	dialogue	Prince Itzla Arkan	Prince Itzla Arkan
+Anyway, I had to pay 250,000 coins to buy this one, so if you want it, that's how much I'll have to charge you.	Her neyse, bunu satin almak için 250.000 altin ödemek zorunda kaldim, yani eger istiyorsan, sana da bu kadar ücret talep etmek zorundayim.	dialogue	Prince Itzla Arkan	Prince Itzla Arkan
+Sounds good to me.	Bana uyar.	dialogue	Prince Itzla Arkan	Player
+Use it well, iknami.	İyi kullan, iknami.	dialogue	Prince Itzla Arkan	Prince Itzla Arkan
+I think I'll pass.	Sanirim almayacagim.	dialogue	Prince Itzla Arkan	Player
+As you wish, iknami.	Nasil istersen, iknami.	dialogue	Prince Itzla Arkan	Prince Itzla Arkan
 I hear you made peace between our kingdom and Etceteria once more. Well done, [Fremennik name].	Kralligimiz ile Etceteria arasinda bir kez daha baris sagladigini duydum. Aferin, Dokrak.	dialogue	Princess Astrid	Princess Astrid
 I hear you made peace between our kingdom and Etceteria once more. Well done, dear friend.	Kralligimiz ile Etceteria arasinda bir kez daha baris sagladigini duydum. Aferin, sevgili dostum.	dialogue	Princess Astrid	Princess Astrid
 Princess Astrid, will you marry me?	Prenses Astrid, benimle evlenir misin?	dialogue	Princess Astrid	Player
@@ -61589,6 +61813,15 @@ I have a pet that I'd like to insure.	Sigortalatmak istedigim bir evcil hayvanim
 What pets have I insured?	Hangi evcil hayvanlari sigortaladim?	dialogue	Probita	Probita
 Maybe another time.	Belki baska bir zaman.	dialogue	Probita	Probita
 If you keep waving money at me, I might take it!	Bana sürekli para sallarsan, alabilirim!	dialogue	Probita	Probita
+If you then somehow lose your pet, you can reclaim it here for free also. The service used to cost Reclaim tokens worth 1,000,000 coins each. If you have any of those, I can refund you.	Eger bir sekilde evcil hayvaninizi kaybederseniz, onu buradan ücretsiz olarak geri alabilirsiniz. Bu hizmet eskiden her biri 1.000.000 coin degerinde olan Geri Alma jetonlari ile ödeniyordu. Eger bu jetonlardan varsa, size geri ödeme yapabilirim.	dialogue	Probita	Probita
+If you lose a pet somehow, you can come here and reclaim them. It used to cost reclaim tokens, although we're now subsidised by the Grand Exchange and the service is free. If you have any reclaim tokens left, let	Evcil hayvaninizi bir sekilde kaybederseniz, buraya gelip geri alabilirsiniz. Eskiden geri alma jetonlari gerekiyordu, ancak artik Grand Exchange tarafindan sübvanse ediliyoruz ve hizmet ücretsiz. Geri alma jetonlariniz kaldiysa, bize bildirin,	dialogue	Probita	Probita
+us know and we will buy them back.	geri satin alalim.	dialogue	Probita	Probita
+My pet is still lost. Could you look again?	Evcil hayvanim hala kayip. Tekrar bakabilir misiniz?	dialogue	Probita	Player
+It's possible there was an error in our records. Let me check again for you.	Kayitlarimizda bir hata olabilir. Tekrar kontrol edeyim.	dialogue	Probita	Probita
+If you believe you have some pets that are not showing on your insurance record, please visit Probita with your pets and she will automatically insure them for you.	Sigorta kaydinizda görünmeyen evcil hayvanlariniz oldugunu düsünüyorsaniz, lütfen evcil hayvanlarinizla birlikte Probita'yi ziyaret edin, o sizin için otomatik olarak sigortalayacaktir.	dialogue	Probita	Probita
+More options...	Daha fazla seçenek...	dialogue	Probita	Probita
+My pet is still lost. Could you look again?	Evcil hayvanim hala kayip. Tekrar bakabilir misiniz?	dialogue	Probita	Probita
+Previous options...	Önceki seçenekler...	dialogue	Probita	Probita
 I didn't realise gnomes were interested in magic.	Cücelerin sihirle ilgilendigini bilmiyordum.	dialogue	Professor Imblewyn	Player
 Gnomes are interested in everything, [lad/lass].	Cüceler her seyle ilgilenir, .	dialogue	Professor Imblewyn	Professor Imblewyn
 Of course.	Tabii ki.	dialogue	Professor Imblewyn	Player
@@ -64770,6 +65003,142 @@ Yes please.	Evet, lütfen.	dialogue	Rufus	Rufus
 I'll find my own way.	Kendi yolumu bulurum.	dialogue	Rufus	Rufus
 Yes, don't ask me again.	Evet, bir daha sorma.	dialogue	Rufus	Rufus
 No.	Hayir.	dialogue	Rufus	Rufus
+Hello.	Merhaba.	dialogue	Rug Merchant	Player
+Greetings, desert traveller. Do you require the services of Ali Morrisane's flying carpet fleet?	Selamlar, çöl gezgini. Ali Morrisane'nin uçan hali filosunun hizmetlerine ihtiyaciniz var mi?	dialogue	Rug Merchant	Rug Merchant
+Yes please.	Evet, lütfen.	dialogue	Rug Merchant	Player
+From here you can travel to Uzer, to the Bedabin camp or to the North of Pollnivneach.	Buradan Uzer'e, Bedabin kampina veya Pollnivneach'in kuzeyine seyahat edebilirsiniz.	dialogue	Rug Merchant	Rug Merchant
+The second major carpet hub station, to the south of Pollnivneach is in easy walking distance from there.	Pollnivneach'in güneyindeki ikinci büyük hali merkezi istasyonu, buradan yürüyerek kolayca ulasilabilir mesafededir.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Uzer.	Uzer'e seyahat etmek istiyorum.	dialogue	Rug Merchant	Player
+I want to travel to the Bedabin Camp.	Bedabin Kampi'na seyahat etmek istiyorum.	dialogue	Rug Merchant	Player
+I want to travel to Pollnivneach.	Pollnivneach'e gitmek istiyorum.	dialogue	Rug Merchant	Player
+I don't want to travel to any of those places.	Bu yerlerin hiçbirine gitmek istemiyorum.	dialogue	Rug Merchant	Player
+Fair enough, magic carpet travel isn't for everyone. Enjoy the walk.	Anlasildi, uçan hali yolculugu herkese göre degildir. Yürüyüsün tadini çikarin.	dialogue	Rug Merchant	Rug Merchant
+You can travel from here back to the Shantay Pass.	Buradan Shantay Geçidi'ne geri dönebilirsiniz.	dialogue	Rug Merchant	Rug Merchant
+I don't want to travel there.	Oraya gitmek istemiyorum.	dialogue	Rug Merchant	Player
+From here you can travel to the Shantay Pass.	Buradan Shantay Geçidi'ne gidebilirsiniz.	dialogue	Rug Merchant	Rug Merchant
+Take me there.	Beni oraya götür.	dialogue	Rug Merchant	Player
+From here you can travel to the Shantay Pass - the Southern gate of Al Kharid.	Buradan Shantay Geçidi'ne, Al Kharid'in güney kapisina seyahat edebilirsin.	dialogue	Rug Merchant	Rug Merchant
+Take me to the Pass then.	O zaman beni geçide götür.	dialogue	Rug Merchant	Player
+From here you can travel to Nardah and the Menaphite cities of Sophanem and Menaphos.	Buradan Nardah'a ve Menaphite sehirleri Sophanem ve Menaphos'a seyahat edebilirsin.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Nardah.	Nardah'a seyahat etmek istiyorum.	dialogue	Rug Merchant	Player
+I want to travel to Menaphos.	Menaphos'a seyahat etmek istiyorum.	dialogue	Rug Merchant	Player
+I want to travel to Sophanem.	Sophanem'e gitmek istiyorum.	dialogue	Rug Merchant	Player
+The carpets here will take you to the south of Pollnivneach.	Buradaki halilar sizi Pollnivneach'in güneyine götürecektir.	dialogue	Rug Merchant	Rug Merchant
+Let's go then.	O zaman gidelim.	dialogue	Rug Merchant	Player
+The carpets here will take you to the south of Pollnivneach. Do you want to take a lift?	Buradaki halilar sizi Pollnivneach'in güneyine götürecektir. Asansörle gitmek ister misiniz?	dialogue	Rug Merchant	Rug Merchant
+Pollnivneach will do.	Pollnivneach olur.	dialogue	Rug Merchant	Player
+Tell me about Ali Morrisane.	Ali Morrisane'den bahset bana.	dialogue	Rug Merchant	Player
+What, you haven't heard of Ali M? Possibly the greatest salesman of the Kharidian empire if not all Gielinor?	Ne, Ali M'yi duymadin mi? Gielinor'un tamaminda olmasa da, Kharidian imparatorlugunun en büyük saticisi olabilir mi?	dialogue	Rug Merchant	Rug Merchant
+I can't say that I have, but he must be the ambitious type to try and set up his own airline.	Duymadim diyemem, ama kendi havayolu sirketini kurmaya çalisan biri olarak hirsli bir tip olmali.	dialogue	Rug Merchant	Player
+You know something, I reckon that he's trying to take on those gnomes at their own game and I'd bet good money that he'll probably win.	Biliyor musun, bence o cüceleri kendi oyunlarinda yenmeye çalisiyor ve muhtemelen kazanacagina bahse girerim.	dialogue	Rug Merchant	Rug Merchant
+Hah? I think you've gone and lost me now.	Ha? Sanirim simdi kafam karisti.	dialogue	Rug Merchant	Player
+You know those small little guys, not the dwarves now mind.	Su küçük adamlari biliyorsun, cüceler degil tabii.	dialogue	Rug Merchant	Rug Merchant
+Ya... gnomes, I'm with you that far.	Evet... cüceler, o kadarini anladim.	dialogue	Rug Merchant	Player
+Well they have already established an Airline, Gnome Air...	Onlar zaten bir havayolu sirketi kurdular, Gnome Air...	dialogue	Rug Merchant	Rug Merchant
+Go on...	Devam et...	dialogue	Rug Merchant	Player
+Anyway I think that Ali M's setup here will prove really successful and maybe once we're properly established we could try compete with those gnomes.	Her neyse, bence Ali M'nin buradaki girisimi gerçekten basarili olacak ve belki de biz de düzgün bir sekilde yerlestikten sonra o cücelerle rekabet etmeye çalisabiliriz.	dialogue	Rug Merchant	Rug Merchant
+I'll watch this space.	Bu alani izleyecegim.	dialogue	Rug Merchant	Player
+Ah yes I remember him now, I went on a wild goose chase looking for his nephew.	Ah evet, simdi onu hatirladim, yegenini aramak için bosuna bir arayisa çikmistim.	dialogue	Rug Merchant	Player
+Ha! No doubt old Ali M instigated the whole thing.	Ha! Hiç süphe yok ki, tüm bunlari yasli Ali M kiskirtti.	dialogue	Rug Merchant	Rug Merchant
+I had a bit of fun though, The whole job was quite diverting.	Yine de biraz eglendim, tüm is oldukça eglenceliydi.	dialogue	Rug Merchant	Player
+There's never a dull moment around that man, he's always looking for a way to make a quick coin or two.	O adamin etrafinda hiç sikici bir an olmaz, her zaman hizlica bir iki kurus kazanmanin yolunu arar.	dialogue	Rug Merchant	Rug Merchant
+Tell me about this Magic Carpet fleet.	Bana bu Sihirli Hali filosundan bahset.	dialogue	Rug Merchant	Player
+The latest idea from the great Ali Morrisane. Desert travel will never be the same again.	Büyük Ali Morrisane'nin son fikri. Çöl seyahati artik eskisi gibi olmayacak.	dialogue	Rug Merchant	Rug Merchant
+So how does it work?	Peki nasil çalisiyor?	dialogue	Rug Merchant	Player
+The carpet or the whole enterprise?	Hali mi, yoksa tüm isletme mi?	dialogue	Rug Merchant	Rug Merchant
+Tell me about how the carpet works.	Hali nasil çalisiyor, anlat bana.	dialogue	Rug Merchant	Player
+I'm not really too sure, it's just an enchanted rug really, made out of special Ugthanki hair. It flies to whatever destination its owner commands.	Tam emin degilim, aslinda sadece özel Ugthanki killarindan yapilmis büyülü bir hali. Sahibinin istedigi yere uçuyor.	dialogue	Rug Merchant	Rug Merchant
+Are they for sale then?	Satilik mi peki?	dialogue	Rug Merchant	Player
+Do you think I'm mad? Do you think that Ali Morrisane would throw his magic carpet monopoly away?	Deli miyim saniyorsun? Ali Morrisane sihirli hali tekelini elinden çikarir mi sence?	dialogue	Rug Merchant	Rug Merchant
+Well perhaps if I offered the right price?	Belki dogru fiyati teklif edersem?	dialogue	Rug Merchant	Player
+Not a hope. Could you imagine the mess there'd be if people were constantly zooming through Al Kharid and Pollnivneach? It would be chaos. This way, we can keep the carpet traffic outside towns and other busy places.	Hiç sansi yok. İnsanlar sürekli Al Kharid ve Pollnivneach'ta uçup durursa ne kadar karisiklik olur, hayal edebiliyor musun? Kaos olur. Bu sekilde, hali trafigini sehirlerin ve diger kalabalik yerlerin disinda tutabiliriz.	dialogue	Rug Merchant	Rug Merchant
+I suppose getting stuck in a carpet jam could get a bit tiresome.	Hali trafiginde sikisip kalmak biraz yorucu olabilir.	dialogue	Rug Merchant	Player
+Just think of the friction burns you would get if you were in a carpet crash.	Hali kazasinda maruz kalacagin sürtünme yaniklarini bir düsün.	dialogue	Rug Merchant	Rug Merchant
+Tell me about the enterprise then.	Bana girisimden bahset o zaman.	dialogue	Rug Merchant	Player
+It's quite simple really, Ali Morrisane has hired myself and a few others to set up carpet stations at some of the desert's more populated places and run flights between the stations.	Aslinda oldukça basit, Ali Morrisane beni ve birkaç kisiyi, çölün daha kalabalik yerlerine hali istasyonlari kurmak ve istasyonlar arasinda uçuslar düzenlemek için ise aldi.	dialogue	Rug Merchant	Rug Merchant
+So why has he limited the service to just the desert?	Peki neden hizmeti sadece çölle sinirladi?	dialogue	Rug Merchant	Player
+I don't think Ali is prepared to take on Gnome Air just yet, their gliders are much faster than our carpets, besides that I think we are in the short haul business, something that would only work in harsh conditions like	Ali'nin Gnome Air ile rekabet etmeye henüz hazir oldugunu sanmiyorum, onlarin planörleri bizim halilarimizdan çok daha hizli,	dialogue	Rug Merchant	Rug Merchant
+the desert.	ayrica biz kisa mesafe tasimaciligi yapiyoruz, bu da sadece çöl gibi zorlu kosullarda ise yarayabilir.	dialogue	Rug Merchant	Rug Merchant
+Why is that?	Neden öyle?	dialogue	Rug Merchant	Player
+I suppose because people would just walk. Getting lost isn't too much of a problem generally, but it's a different matter when you're in the middle of the Kharidian desert with a dry waterskin and no idea	Sanirim insanlar sadece yürürlerdi. Kaybolmak genellikle çok büyük bir sorun degildir, ama Kharidian çölünün ortasinda, kuru bir su tulumu ve nereye gideceginizi bilmeden	dialogue	Rug Merchant	Rug Merchant
+which direction to go in.	bulunmak bambaska bir meseledir.	dialogue	Rug Merchant	Rug Merchant
+You're right I guess. How's the business going then?	Haklisin sanirim. İsler nasil gidiyor peki?	dialogue	Rug Merchant	Player
+Not too bad, the hubs are generally quite busy. But the stations in Uzer and the Bedabin camp could do with a bit more traffic.	Fena degil, merkezler genellikle oldukça yogun. Ama Uzer ve Bedabin kampindaki istasyonlarin trafigi biraz daha yogun olabilir.	dialogue	Rug Merchant	Rug Merchant
+A growth market I guess.	Büyüyen bir pazar sanirim.	dialogue	Rug Merchant	Player
+I have some questions.	Birkaç sorum var.	dialogue	Rug Merchant	Player
+I'll try to help you as much as I can.	Elimden geldigince yardimci olmaya çalisacagim.	dialogue	Rug Merchant	Rug Merchant
+What are you doing here?	Burada ne yapiyorsun?	dialogue	Rug Merchant	Player
+Well this is a good position for desert traffic. Shantay seems to have a nice little money spinner setup, but I reckon, this could turn out even better.	Burasi çöl trafigi için iyi bir konum. Shantay iyi bir para kaynagi olusturmus gibi görünüyor, ama bence bu daha da iyi hale gelebilir.	dialogue	Rug Merchant	Rug Merchant
+You mightn't realise it, but this is quite a busy station.	Farkinda olmayabilirsin, ama burasi oldukça yogun bir istasyon.	dialogue	Rug Merchant	Rug Merchant
+Who would want to come here?	Kim buraya gelmek ister ki?	dialogue	Rug Merchant	Player
+Well you for one, and besides that we get quite a few archaeologists from the dig site passing through to examine the golem.	Öncelikle sen, ayrica kazi alanindan gelen ve golemi incelemek için buradan geçen pek çok arkeolog var.	dialogue	Rug Merchant	Rug Merchant
+Well besides the obvious - looking after this station, I'm trying to figure out how these Tentis manage to cultivate such delicious pineapples.	Bu istasyonu yönetmenin yani sira, Tentilerin bu kadar lezzetli ananaslari nasil yetistirdiklerini anlamaya çalisiyorum.	dialogue	Rug Merchant	Rug Merchant
+Well Pollnivneach is the ideal location for setting up a carpet station.	Pollnivneach hali istasyonu kurmak için ideal bir yer.	dialogue	Rug Merchant	Rug Merchant
+Why's that?	Neden?	dialogue	Rug Merchant	Player
+You see it's located halfway between Al Kharid, and the Menaphite cities and close enough to Nardah too, so we get more than enough traffic to keep the business running.	Al Kharid ile Menaphite sehirleri arasinda, Nardah'a da yeterince yakin bir konumda, bu yüzden isi devam ettirmek için yeterli trafigi aliyoruz.	dialogue	Rug Merchant	Rug Merchant
+I work here renting out magic carpets. I'm from Pollnivneach so it is a handy job, I don't have to commute too far to work every day.	Burada sihirli hali kiraliyorum. Pollnivneachliyim, bu yüzden isim çok uygun, her gün ise gitmek için çok uzaklara gitmem gerekmiyor.	dialogue	Rug Merchant	Rug Merchant
+So I suppose you're called Ali then.	O zaman adin Ali olmali.	dialogue	Rug Merchant	Player
+Not the most remarkable of names, not that it matters, you see everyone in town knows me as Flash.	Çok dikkat çekici bir isim degil, ama önemli degil, kasabadaki herkes beni Flash olarak taniyor.	dialogue	Rug Merchant	Rug Merchant
+Really?	Gerçekten mi?	dialogue	Rug Merchant	Player
+No.	Hayir.	dialogue	Rug Merchant	Rug Merchant
+........		dialogue	Rug Merchant	Player
+........		dialogue	Rug Merchant	Rug Merchant
+Oh right.	Oh, tamam.	dialogue	Rug Merchant	Player
+Well I'd preferred to have been running one of the carpet stations at a hub such as Pollnivneach. I was a bit slow off the mark to get that gig though. Still business in Nardah isn't bad for a terminal. At least	Aslinda Pollnivneach gibi bir merkezde hali istasyonlarindan birini isletmeyi tercih ederdim. Ama o isi kapmak için biraz geç kaldim. Yine de Nardah'daki isler bir terminal için fena degil. En azindan	dialogue	Rug Merchant	Rug Merchant
+people come here for the bank and to see the herbalist.	insanlar buraya banka ve sifali bitki saticisini görmek için geliyorlar.	dialogue	Rug Merchant	Rug Merchant
+I look after the carpet station here. The place is a bit dead though. Ha! I'm just too much.	Burada hali istasyonuna bakiyorum. Ama burasi biraz ölü bir yer. Ha! Ben çok abartiyorum.	dialogue	Rug Merchant	Rug Merchant
+What?	Ne?	dialogue	Rug Merchant	Player
+You know, Sophanem, city of the dead and all that?	Biliyorsun, Sophanem, ölülerin sehri falan?	dialogue	Rug Merchant	Rug Merchant
+...		dialogue	Rug Merchant	Player
+Aw come on, the joke wasn't that bad.	Hadi ama, saka o kadar da kötü degildi.	dialogue	Rug Merchant	Rug Merchant
+Until recently I was looking after one of the busiest carpet stations. But that all changed since Menaphos closed its gates.	Yakin zamana kadar en yogun hali istasyonlarindan birinin bakimini yapiyordum. Ama Menaphos kapilarini kapattigindan beri her sey degisti.	dialogue	Rug Merchant	Rug Merchant
+Right now I have to fill my day trying to come up with reasons why Ali M should keep this place open.	Su anda günümü, Ali M'nin burayi açik tutmasi için nedenler bulmaya çalisarak doldurmak zorundayim.	dialogue	Rug Merchant	Rug Merchant
+So have you come up with any good ideas then?	Peki, iyi bir fikir bulabildin mi?	dialogue	Rug Merchant	Player
+Not really. The only reason I have come up with to date is that by keeping the station open, people become familiar with it.	Pek sayilmaz. Bugüne kadar bulabildigim tek neden, istasyonu açik tutarak insanlarin ona alismasi.	dialogue	Rug Merchant	Rug Merchant
+Maybe once Menaphos opens her gates again, the station will make a fortune once more.	Belki Menaphos kapilarini tekrar açtiginda, istasyon bir kez daha servet kazanir.	dialogue	Rug Merchant	Rug Merchant
+Is that your pet monkey nearby?	Yanindaki senin evcil maymunun mu?	dialogue	Rug Merchant	Player
+He's his own monkey, he does whatever suits him, a total nuisance.	O kendi maymunu, cani ne isterse onu yapiyor, tam bir bas belasi.	dialogue	Rug Merchant	Rug Merchant
+I detect a degree of hostility being directed towards the monkey.	Maymuna karsi bir miktar düsmanlik hissediyorum.	dialogue	Rug Merchant	Player
+I shouldn't say this really, but sometimes I begin to question some of Ali Morrisane's ideas, he says that associating a monkey with any product will increase sales. I just don't know, what will be next?	Bunu söylememem gerekir ama bazen Ali Morrisane'nin fikirlerinden bazilarini sorgulamaya basliyorum. O, maymunlari herhangi bir ürünle iliskilendirmenin satislari artiracagini söylüyor. Ne olacagini bilmiyorum. Sirada ne var?	dialogue	Rug Merchant	Rug Merchant
+Frogs?	Kurbagalar mi?	dialogue	Rug Merchant	Player
+I doubt it, amphibians don't have the same cutesy factor as monkeys.	Sanmiyorum, amfibiler maymunlar kadar sevimli degiller.	dialogue	Rug Merchant	Rug Merchant
+I'm confused. I thought you didn't like monkeys.	Kafam karisti. Maymunlari sevmedigini saniyordum.	dialogue	Rug Merchant	Player
+I don't dislike monkeys, it's just that monkey. I don't know, I might just be paranoid but I think he's... well... evil.	Maymunlari sevmiyorum, sadece o maymunu sevmiyorum. Bilmiyorum, belki paranoyaklik yapiyorum ama bence o... sey... kötü.	dialogue	Rug Merchant	Rug Merchant
+Hmmm... Interesting.	Hmmm... İlginç.	dialogue	Rug Merchant	Player
+Hang on a minute, I think I have an amulet of monkeyspeak stored somewhere. Perhaps I could get it and see what it has to say for itself.	Bir dakika, sanirim bir yerde maymun dili muskasi sakliyorum. Belki onu getirip ne diyecegini dinleyebilirim.	dialogue	Rug Merchant	Player
+Would you? It sometimes gives me these stares...~A visible shiver runs down his back.	Yapabilir misin? Bazen bana öyle bakiyor ki... ~Görünür bir titreme sirtindan asagiya dogru yayiliyor.	dialogue	Rug Merchant	Rug Merchant
+I would be really grateful if you could get that monkey off my back.	O maymunu sirtimdan indirirsen çok minnettar olurum.	dialogue	Rug Merchant	Rug Merchant
+Hang on a second, I have an amulet of monkeyspeak in my bag, perhaps I could have a word with him.	Bir saniye bekle, çantamda maymun dili muskasi var, belki onunla konusabilirim.	dialogue	Rug Merchant	Player
+Where did you get that hat?	O sapkayi nereden aldin?	dialogue	Rug Merchant	Player
+My fez? I got it from Ali Morrisane, it's a uniform of sorts, apparently it makes us more visible, but I'm not too sure about it.	Fesimi mi? Ali Morrisane'den aldim, bir tür üniforma, görünüse göre bizi daha görünür kiliyor, ama ben pek emin degilim.	dialogue	Rug Merchant	Rug Merchant
+Well it is quite distinctive.	Oldukça farkli bir sey.	dialogue	Rug Merchant	Player
+Do you like it? I haven't really made my mind up about it yet. You see it's not all that practical for desert conditions.	Begendin mi? Henüz kararimi vermedim. Çöl kosullari için pek pratik degil.	dialogue	Rug Merchant	Rug Merchant
+How so?	Nasil yani?	dialogue	Rug Merchant	Player
+Well it doesn't keep the sun out of my eyes and after a while sitting out in the desert they really begin to burn.	Günesi gözlerimden uzak tutmuyor ve çölde bir süre oturduktan sonra gözlerim gerçekten yanmaya basliyor.	dialogue	Rug Merchant	Rug Merchant
+Come back anytime.	Ne zaman istersen geri gel.	dialogue	Rug Merchant	Rug Merchant
+Yes please.	Evet, lütfen.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Uzer.	Uzer'e gitmek istiyorum.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to the Bedabin Camp.	Bedabin Kampi'na gitmek istiyorum.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Pollnivneach.	Pollnivneach'a gitmek istiyorum.	dialogue	Rug Merchant	Rug Merchant
+I don't want to travel to any of those places.	O yerlerin hiçbirine gitmek istemiyorum.	dialogue	Rug Merchant	Rug Merchant
+That sounds good, take me there.	Kulaga hos geliyor, beni oraya götür.	dialogue	Rug Merchant	Rug Merchant
+I don't want to travel there.	Oraya gitmek istemiyorum.	dialogue	Rug Merchant	Rug Merchant
+Take me there.	Beni oraya götür.	dialogue	Rug Merchant	Rug Merchant
+Take me to the Pass then.	O zaman beni Geçit'e götür.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Nardah.	Nardah'a gitmek istiyorum.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Menaphos.	Menaphos'a gitmek istiyorum.	dialogue	Rug Merchant	Rug Merchant
+I want to travel to Sophanem.	Sophanem'e gitmek istiyorum.	dialogue	Rug Merchant	Rug Merchant
+Let's go then.	Hadi gidelim o zaman.	dialogue	Rug Merchant	Rug Merchant
+Pollnivneach will do.	Pollnivneach olur.	dialogue	Rug Merchant	Rug Merchant
+Tell me about Ali Morrisane.	Ali Morrisane'den bahset.	dialogue	Rug Merchant	Rug Merchant
+Tell me about this magic carpet fleet.	Bu sihirli hali filosundan bahset.	dialogue	Rug Merchant	Rug Merchant
+Tell me about how the carpet works.	Halilarin nasil çalistigindan bahset.	dialogue	Rug Merchant	Rug Merchant
+Tell me about the enterprise then.	O zaman girisimden bahset.	dialogue	Rug Merchant	Rug Merchant
+I have some questions.	Birkaç sorum var.	dialogue	Rug Merchant	Rug Merchant
+What are you doing here?	Burada ne yapiyorsun?	dialogue	Rug Merchant	Rug Merchant
+Is that your pet monkey nearby?	Suradaki senin evcil maymunun mu?	dialogue	Rug Merchant	Rug Merchant
+Where did you get that hat?	O sapkayi nereden aldin?	dialogue	Rug Merchant	Rug Merchant
+No thanks.	Hayir, tesekkürler.	dialogue	Rug Merchant	Rug Merchant
 Ahoy there, sailor! Can't stop to talk right now, I'm afraid. You'll need to come back later.	Selam denizci! Su anda konusacak vaktim yok, üzgünüm. Daha sonra tekrar gelmelisin.	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
 You need to complete the Pandemonium quest to fully access the Sailing skill.	Yelkencilik becerisine tam erisim icin Pandemonium görevini tamamlaman gerekiyor.	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
 Ahoy there sailor and welcome to Storm Tempor!	Selam denizci, Storm Tempor'a hos geldin!	dialogue	Rum-dashed Ralph	Rum-dashed Ralph
@@ -64867,6 +65236,16 @@ What? That namby pamby nincompoop? Not on your nelly! More fluff in the ears tha
 I see. Well is there anything I can do to help you up there?	Anliyorum. Peki, sana yardim edebilecegim bir sey var mi?	dialogue	Rupert the Beard	Player
 Hmmm. No, no, I can't think of anything at the moment. I'm a bit stuck. Let me know if you get any ideas though.	Hmmm. Hayir, hayir, su anda aklima bir sey gelmiyor. Biraz sikistim. Bir fikrin olursa bana haber ver.	dialogue	Rupert the Beard	Rupert the Beard
 I'll do my best!	Elimden geleni yapacagim!	dialogue	Rupert the Beard	Player
+I say! Where on Gielinor did that voice come from?	Hey! bu ses nereden geldi?	dialogue	Rupert the Beard	Drain pipe
+Why yes. Yes I can. My word. Is that...is that one of the gods? Guthix perhaps? Saradomin?	Evet, evet, yapabilirim. Tanrim. Bu... bu tanrilardan biri mi? Guthix olabilir mi? Saradomin?	dialogue	Rupert the Beard	Drain pipe
+Egad! You're not...Zamorak...are you? I mean, uh...begging your pardon of course, my Lord. No offence intended!	Tanrim! Sen... Zamorak... degil misin? Yani, sey... affedersiniz tabii ki, efendim. Alinmayin lütfen!	dialogue	Rupert the Beard	Drain pipe
+Oh. Oh I see! Oh, yes. How clever! Remarkable idea! How ever did you think of that? Good show, old bean!	Oh. Oh, anliyorum! Oh, evet. Ne kadar zekice! Harika bir fikir! Bunu nasil düsündün? Aferin, dostum!	dialogue	Rupert the Beard	Drain pipe
+Rupert the Beard. At your service, old fruit.	Rupert the Beard. Hizmetindeyim, dostum.	dialogue	Rupert the Beard	Drain pipe
+Yes, old turnip. On account of my wonderfully long bearded chin, you see.	Evet, dostum. Muhtesem uzun sakalimdan dolayi, anlarsin ya.	dialogue	Rupert the Beard	Drain pipe
+What am I doing? Well, I guess I'm stuck in a matter of speaking. Dear me, yes! I'm stuck. And I speak in the King's speech, I'll have you know.	Ne yapiyorum ben? Sanirim, tabiri caizse, sikisip kaldim. Evet, sikisip kaldim. Ve bilginiz olsun, kralin dilinde konusuyorum.	dialogue	Rupert the Beard	Drain pipe
+Which K...? Why, THE King old spud! THE King! Only one worth mentioning in my opinion.	Hangi kral? Tabii ki, eski patates kral! Kral! Bence bahsetmeye deger tek kisi.	dialogue	Rupert the Beard	Drain pipe
+What? That namby pamby nincompoop? Not on your nelly! More fluff in the ears than sense, that man!	Ne? O zayif, aptal herif mi? Hayatta olmaz! O adamin kulaklarinda mantiktan çok tüy var!	dialogue	Rupert the Beard	Drain pipe
+Hmmm. No, no, I can't think of anything at the moment. I'm a bit stuck. Let me know if you get any ideas though.	Hmmm. Hayir, hayir, su anda aklima bir sey gelmiyor. Biraz sikistim. Bir fikir bulursan bana haber ver.	dialogue	Rupert the Beard	Drain pipe
 Hiya. Are you carrying anything valuable?	Merhaba. Yaninda degerli bir sey tasiyor musun?	dialogue	Rusty	Rusty
 Why are you asking?	Neden soruyorsun?	dialogue	Rusty	Player
 Um... It's a quiz. I'm asking everyone I meet if they're carrying anything valuable.	Sey... Bu bir test. Karsilastigim herkese degerli bir sey tasiyip tasimadiklarini soruyorum.	dialogue	Rusty	Rusty
@@ -66987,6 +67366,111 @@ I'd like to buy a new boat.	Yeni bir tekne satin almak istiyorum.	dialogue	Shipw
 I'd like to customise a boat.	Bir tekneyi özellestirmek istiyorum.	dialogue	Shipwright Spencer	Shipwright Spencer
 I'd like to retrieve a boat.	Bir tekneyi geri almak istiyorum.	dialogue	Shipwright Spencer	Shipwright Spencer
 Nothing, thanks.	Hicbir sey, tesekkürler.	dialogue	Shipwright Spencer	Shipwright Spencer
+Hey you! What are you up to?	Hey sen! Ne yapiyorsun?	dialogue	Shipyard worker	Shipyard worker
+I'm trying to open the gate!	Kapiyi açmaya çalisiyorum!	dialogue	Shipyard worker	Player
+I can see that! Why?	Görüyorum! Neden?	dialogue	Shipyard worker	Shipyard worker
+I'm from the Ministry of Health and Safety.	Saglik ve Güvenlik Bakanligi'ndan geliyorum.	dialogue	Shipyard worker	Player
+Never 'erd of 'em.	Hiç duymadim.	dialogue	Shipyard worker	Shipyard worker
+You will respect my authority!	Yetkime saygi göstereceksin!	dialogue	Shipyard worker	Player
+Get out of here before I give you a beating!	Seni dövmeden önce buradan git!	dialogue	Shipyard worker	Shipyard worker
+Glough sent me.	Glough beni gönderdi.	dialogue	Shipyard worker	Player
+Hmm...really? What for?	Hmm... gerçekten mi? Ne için?	dialogue	Shipyard worker	Shipyard worker
+You're wasting my time! Take me to your superior!	Zamanimi bosa harciyorsun! Beni üstüne götür!	dialogue	Shipyard worker	Player
+OK. Password.	Tamam. Sifre.	dialogue	Shipyard worker	Shipyard worker
+Ka.		dialogue	Shipyard worker	Player
+Ko.		dialogue	Shipyard worker	Player
+Ke.		dialogue	Shipyard worker	Player
+Lo.		dialogue	Shipyard worker	Player
+Lu.		dialogue	Shipyard worker	Player
+Le.		dialogue	Shipyard worker	Player
+Mon.		dialogue	Shipyard worker	Player
+Min.		dialogue	Shipyard worker	Player
+Men.		dialogue	Shipyard worker	Player
+Sorry to have kept you.	Sizi beklettigim için özür dilerim.	dialogue	Shipyard worker	Shipyard worker
+The player goes through the gate	Oyuncu kapidan geçer.	dialogue	Shipyard worker	Shipyard worker
+You have no idea!	Hiçbir fikrin yok!	dialogue	Shipyard worker	Shipyard worker
+I'm just looking around.	Sadece etrafa bakiniyorum.	dialogue	Shipyard worker	Player
+This ain't a museum! Leave now!	Burasi müze degil! Hemen çikin!	dialogue	Shipyard worker	Shipyard worker
+I'll leave when I choose!	Ben istedigim zaman çikarim!	dialogue	Shipyard worker	Player
+Well you're not on the list so you're not coming in. Go away.	Listede adin yok, bu yüzden içeri giremezsin. Git buradan.	dialogue	Shipyard worker	Shipyard worker
+Well I'll just stand here then until you let me in.	O zaman beni içeri alana kadar burada bekleyecegim.	dialogue	Shipyard worker	Player
+You do that!	Öyle yap!	dialogue	Shipyard worker	Shipyard worker
+I will!	Yapacagim!	dialogue	Shipyard worker	Player
+Yeah?	Öyle mi?	dialogue	Shipyard worker	Shipyard worker
+Yeah!	Öyle!	dialogue	Shipyard worker	Player
+...		dialogue	Shipyard worker	Shipyard worker
+...		dialogue	Shipyard worker	Player
+So are you going to let me in then?	Öyleyse beni içeri alacak misin?	dialogue	Shipyard worker	Player
+No.	Hayir.	dialogue	Shipyard worker	Shipyard worker
+You bored yet?	Henüz sikilmadin mi?	dialogue	Shipyard worker	Player
+No, I can stand here all day.	Hayir, bütün gün burada durabilirim.	dialogue	Shipyard worker	Shipyard worker
+Alright you win. I'll find another way in.	Tamam, sen kazandin. Baska bir yol bulurum.	dialogue	Shipyard worker	Player
+No you won't.	Bulamazsin.	dialogue	Shipyard worker	Shipyard worker
+Yes I will.	Bulurum.	dialogue	Shipyard worker	Player
+I'm not starting that again. Maybe if I ignore you you'll go away...	Yine ayni seyi yapmayacagim. Belki seni görmezden gelirsem gidersin...	dialogue	Shipyard worker	Shipyard worker
+I am on a special mission for King Narnode of the Gnomes.	Gnomelar Krali Narnode için özel bir görevdeyim.	dialogue	Shipyard worker	Player
+Narnode? I don't believe you. He wouldn't send a human!	Narnode mu? Sana inanmiyorum. O bir insan göndermez!	dialogue	Shipyard worker	Shipyard worker
+Well, he did...	Ama gönderdi...	dialogue	Shipyard worker	Player
+Tough.	Zor.	dialogue	Shipyard worker	Shipyard worker
+Look, I have the Gnome Royal Seal.	Bak, Gnome Kraliyet Mührü bende.	dialogue	Shipyard worker	Player
+Wow. I haven't seen one of these since...	Vay canina. Bunlardan en son...	dialogue	Shipyard worker	Shipyard worker
+Since when?	En son ne zaman?...	dialogue	Shipyard worker	Player
+... since Glough used to visit.	Glough ziyarete geldiginde görmüstüm.	dialogue	Shipyard worker	Shipyard worker
+Anyway. Please step inside, [Sir/Miss].	Neyse. Lütfen içeri girin.	dialogue	Shipyard worker	Shipyard worker
+Hello.	Merhaba.	dialogue	Shipyard worker	Player
+Quite a few ships you're building!	Oldukça fazla gemi insa ediyorsun!	dialogue	Shipyard worker	Player
+This is just the start! The completed fleet will be awesome!	Bu sadece baslangiç! Tamamlanan filo muhtesem olacak!	dialogue	Shipyard worker	Shipyard worker
+No time to talk we've a fleet to build!	Konusacak vaktimiz yok, insa etmemiz gereken bir filo var!	dialogue	Shipyard worker	Shipyard worker
+Hello matey!	Merhaba dostum!	dialogue	Shipyard worker	Shipyard worker
+How are you?	Nasilsin?	dialogue	Shipyard worker	Player
+Tired!	Yorgunum!	dialogue	Shipyard worker	Shipyard worker
+You shouldn't work so hard!	Bu kadar çok çalismamalisin!	dialogue	Shipyard worker	Player
+Quite an impressive set up!	Oldukça etkileyici bir düzenek!	dialogue	Shipyard worker	Player
+It needs to be. There's no other way to build a fleet of this size!	Öyle olmasi gerekiyor. Bu büyüklükte bir filo insa etmenin baska yolu yok!	dialogue	Shipyard worker	Shipyard worker
+Hello there. I haven't seen you before.	Merhaba. Seni daha önce görmedim.	dialogue	Shipyard worker	Shipyard worker
+I'm new!	Ben yeniyim!	dialogue	Shipyard worker	Player
+Well it's hard work, but the pay is good.	Zor bir is ama maasi iyi.	dialogue	Shipyard worker	Shipyard worker
+Hello!	Merhaba!	dialogue	Shipyard worker	Player
+Too busy to waste time gossiping!	Dedikodu yapmak için vaktim yok!	dialogue	Shipyard worker	Shipyard worker
+Touchy!	Alingan!	dialogue	Shipyard worker	Player
+Looks like hard work.	Zor bir is gibi görünüyor.	dialogue	Shipyard worker	Player
+I like to keep busy.	Mesgul olmayi severim.	dialogue	Shipyard worker	Shipyard worker
+So where are you sailing?	Nereye yelken açiyorsun?	dialogue	Shipyard worker	Player
+What do you mean?	Ne demek istiyorsun?	dialogue	Shipyard worker	Shipyard worker
+Don't worry, just kidding!	Merak etme, saka yapiyorum!	dialogue	Shipyard worker	Player
+Hello there, are you too lazy to work as well?	Merhaba, sen de çalismak için çok mu tembelsin?	dialogue	Shipyard worker	Shipyard worker
+Something like that.	Öyle bir sey.	dialogue	Shipyard worker	Player
+I'm just sun bathing!	Sadece günesleniyorum!	dialogue	Shipyard worker	Shipyard worker
+What are you building?	Ne yapiyorsun?	dialogue	Shipyard worker	Player
+Are you serious?	Ciddi misin?	dialogue	Shipyard worker	Shipyard worker
+Of course not! You're obviously building a boat.	Tabii ki hayir! Belli ki bir tekne yapiyorsun.	dialogue	Shipyard worker	Player
+I'm getting tired of this!	Bundan biktim artik!	dialogue	Shipyard worker	Shipyard worker
+What?	Ne?	dialogue	Shipyard worker	Player
+Breaking my back for pennies! It's just not on!	Birkaç kurus için belimi kiriyorum! Bu adil degil!	dialogue	Shipyard worker	Shipyard worker
+What do you want?	Ne istiyorsun?	dialogue	Shipyard worker	Shipyard worker
+Is that any way to talk to your new superior?	Yeni amirine böyle mi konusulur?	dialogue	Shipyard worker	Player
+Oh, I'm sorry, I didn't realise!	Oh, özür dilerim, fark etmedim!	dialogue	Shipyard worker	Shipyard worker
+Ouch!	Ah!	dialogue	Shipyard worker	Shipyard worker
+What's wrong?!	Ne oldu?!	dialogue	Shipyard worker	Player
+I cut my finger!	Parmagimi kestim!	dialogue	Shipyard worker	Shipyard worker
+Do you have a bandage?	Bandajin var mi?	dialogue	Shipyard worker	Shipyard worker
+I'm afraid not.	Maalesef yok.	dialogue	Shipyard worker	Player
+That's ok, I'll use my shirt.	Önemli degil, gömlegimi kullanirim.	dialogue	Shipyard worker	Shipyard worker
+Can I help you?	Yardimci olabilir miyim?	dialogue	Shipyard worker	Shipyard worker
+Well there's plenty of work to be done, so if you don't mind...	Yapilacak çok is var, sakincasi yoksa...	dialogue	Shipyard worker	Shipyard worker
+Of course. Sorry to have disturbed you.	Tabii ki. Rahatsiz ettigim için özür dilerim.	dialogue	Shipyard worker	Shipyard worker
+I'm from the Ministry of Health and Safety.	Saglik ve Güvenlik Bakanligi'ndan geliyorum.	dialogue	Shipyard worker	Shipyard worker
+Glough sent me.	Glough gönderdi.	dialogue	Shipyard worker	Shipyard worker
+Ka.		dialogue	Shipyard worker	Shipyard worker
+Ko.		dialogue	Shipyard worker	Shipyard worker
+Ke.		dialogue	Shipyard worker	Shipyard worker
+Lo.		dialogue	Shipyard worker	Shipyard worker
+Lu.		dialogue	Shipyard worker	Shipyard worker
+Le.		dialogue	Shipyard worker	Shipyard worker
+Mon.		dialogue	Shipyard worker	Shipyard worker
+Min.		dialogue	Shipyard worker	Shipyard worker
+Men.		dialogue	Shipyard worker	Shipyard worker
+I'm just looking around.	Sadece etrafa bakiniyorum.	dialogue	Shipyard worker	Shipyard worker
 Thanks for returning the statuette. You have freed us of our curse. May you forever be considered a friend of Elidinis and her followers.	Heykeli geri getirdiginiz icin tesekkürler. Bizi lanetimizden kurtardiniz. Elidinis ve takipcilerinin dostu olarak kalin.	dialogue	Shiratti the Custodian	Shiratti the Custodian
 Can I help you at all?	Yardimci olabilir miyim?	dialogue	Shop assistant	Shop assistant
 No thanks.	Hayir, tesekkürler.	dialogue	Shop assistant	Player
@@ -68306,6 +68790,13 @@ Medium	Orta	dialogue	Sir Renitee	Sir Renitee
 Large	Büyük	dialogue	Sir Renitee	Sir Renitee
 Nothing, thanks	Hicbir sey, tesekkürler	dialogue	Sir Renitee	Sir Renitee
 Hmm? What's that, young [man/woman]? What can I do for you?	Hmm? Ne dedin? Senin için ne yapabilirim?	dialogue	Sir Renitee	Sir Renitee
+Hmm? What's that, young [man/woman/one]? What can I do for you?	Hmm? Ne var, genç? Senin için ne yapabilirim?	dialogue	Sir Renitee	Sir Renitee
+First things first, young [man/woman/one]! There is not much point in having a family crest if you cannot display it. You should train construction until you can build a wall decoration in your dining room.	Öncelikle, genç! Aile armasini sergileyemiyorsan, ona sahip olmanin pek bir anlami yok. Yemek odanda bir duvar süsü yapabilene kadar insaat egitimi almalisin.	dialogue	Sir Renitee	Sir Renitee
+But that legendary shield is still lost! I don't think it would be proper for you to wear its symbol.	Ama o efsanevi kalkan hala kayip! Onun sembolünü tasimanin uygun oldugunu sanmiyorum.	dialogue	Sir Renitee	Sir Renitee
+When the dragon on Crandor Isle remains undefeated? I think you should prove yourself a dragon-slayer before you can wear a dragon symbol!	Crandor Adasi'ndaki ejderha hala yenilmezken mi? Bence ejderha sembolünü takmadan önce kendini bir ejderha avcisi olarak kanitlamalisin!	dialogue	Sir Renitee	Sir Renitee
+A fairy? Fairies are rumoured to exist in a lost city somewhere. I don't think I should let you use them as a symbol until you have met them in person.	Bir peri mi? Perilerin kayip bir sehirde yasadigi söyleniyor. Onlarla sahsen tanisana kadar onlari sembol olarak kullanmana izin vermemeliyim.	dialogue	Sir Renitee	Sir Renitee
+You wish to represent yourself by a money bag? I think to make that meaningful I should increase the price to 500,000 coins. Do you agree?	Kendini bir para çuvaliyla mi temsil etmek istiyorsun? Bunun anlamli olmasi için fiyati 500.000 sikkeye çikarmaliyim. Katiliyor musun?	dialogue	Sir Renitee	Sir Renitee
+Thank you very much! You may now use a money-bag as your symbol.	Çok tesekkür ederim! Artik para çuvalini sembolün olarak kullanabilirsin.	dialogue	Sir Renitee	Sir Renitee
 Hey Tiffy, I lost my CommOrb...	Hey Tiffy, CommOrb'umu kaybettim...	dialogue	Sir Tiffy Cashien	Player
 Very careless of you, what? Here, take another, but be careful of this one!	Cok dikkatsizsin, degil mi? Al, baska bir tane al, ama buna dikkat et!	dialogue	Sir Tiffy Cashien	Sir Tiffy Cashien
 Good day, Proselyte. I heard from Akrisae what happened with that Lucien business. Be sure to keep your chin up. We'll get the old boy sooner or later.	Iyi günler, Proselyte. Akrisae'den Lucien meselesinde olanlari duydum. Moralini bozma. Er ya da gec o yasli adami yakalayacagiz.	dialogue	Sir Tiffy Cashien	Sir Tiffy Cashien
@@ -69363,6 +69854,23 @@ Yes.	Evet.	dialogue	Smith	Smith
 No.	Hayir.	dialogue	Smith	Smith
 Unlucky Jenkins' Lucky Cutlass.	Sanssiz Jenkins'in Sansli Kilici.	dialogue	Smith	Smith
 Gentleman Mallard's Rapier	Gentleman Mallard'in Rapier'i	dialogue	Smith	Smith
+Cutlasses! Think yer a pirate now [lad/lass/kid]?	Kiliçlar! Simdi kendini korsan mi saniyorsun?	dialogue	Smith	Smith
+Smart [lad/lass/kid]! Come and see me when ye have the coins fer it.	Akilli! Paran oldugunda gel beni gör.	dialogue	Smith	Smith
+That weren't the worst of it [lad/lass/kid]. He survived the fight, and the ship's surgeon was trying to get the arrow out when...	En kötüsü bu degildi. Kavgadan sag kurtuldu ve geminin cerrahi oku çikarmaya çalisirken...	dialogue	Smith	Smith
+No [lad/lass/kid]!	Hayir!	dialogue	Smith	Smith
+I have this anchor, can you fix it?	Bu çapam var, tamir edebilir misin?	dialogue	Smith	Player
+Well, this is a very unusual job. This thing looks more suited to bashin' peoples heads in than securing a ship.	Bu çok sira disi bir is. Bu sey gemiyi sabitlemekten çok insanlarin kafalarini ezmeye daha uygun görünüyor.	dialogue	Smith	Smith
+Where did ye get it?	Nereden buldun bunu?	dialogue	Smith	Smith
+You wouldn't believe me if I told you.	Söylersem bana inanmazsin.	dialogue	Smith	Player
+Stole it eh? Well I can sort it out for 230000 coins, if you like.	Çaldin ha? İstersen 230.000 sikke karsiliginda halledebilirim.	dialogue	Smith	Smith
+That's too much for me at the moment.	Su anda benim için çok fazla.	dialogue	Smith	Player
+Yes please.	Evet, lütfen.	dialogue	Smith	Player
+Right, let's get to work.	Tamam, ise koyulalim.	dialogue	Smith	Smith
+There ye go, good as new!	İste, yeni gibi oldu!	dialogue	Smith	Smith
+Thanks Smith!	Tesekkürler Smith!	dialogue	Smith	Player
+I have this anchor, can you fix it?	Bu çapam var, tamir edebilir misin?	dialogue	Smith	Smith
+Yes please.	Evet, lütfen.	dialogue	Smith	Smith
+No	Hayir	dialogue	Smith	Smith
 Can you teach me the basics of smelting please?	Bana eritmenin temellerini ögretir misin lütfen?	dialogue	Smithing apprentice	Player
 You'll need to have mined some ore to smelt first. Go see the mining tutor to the south if you're not sure how to do this.	Önce eritmek icin biraz cevher cikarmalisin. Nasil yapilacagini bilmiyorsan güneydeki madencilik ögretmenine git.	dialogue	Smithing apprentice	Smithing apprentice
 I see you have some ore with you to smelt, so let's get started.	Görüyorum ki eritmek icin biraz cevherin var, hadi baslayalim.	dialogue	Smithing apprentice	Smithing apprentice
@@ -70517,6 +71025,8 @@ Oh please no... Not again...	Lütfen hayir... Yine mi...	dialogue	Spirit tree	Sp
 Clockwise.	Saat yönünde.	dialogue	Spirit tree	Spirit tree
 Anti-clockwise.	Saat yönünün tersinde.	dialogue	Spirit tree	Spirit tree
 180 degrees.	180 derece.	dialogue	Spirit tree	Spirit tree
+The tree doesn't feel like talking.	Agaç konusmak istemiyor.	dialogue	Spirit tree	Spirit tree
+The tree won't transport you until you've completed the Tree Gnome Village quest.	Agaç Gnome Köyü görevini tamamlayana kadar seni oraya götürmeyecek.	dialogue	Spirit tree	Spirit tree
 That smells nice!	Kokusu cok güzel!	dialogue	Spit goblin	Player
 Mmm, yes. Some hunters caught it earlier today.	Mmm, evet. Avcilar bugün erken saatlerde yakaladi.	dialogue	Spit goblin	Spit goblin
 Can I have some?	Biraz alabilir miyim?	dialogue	Spit goblin	Player
@@ -74255,6 +74765,10 @@ That she is [lad/lass], that she is.	Öyle , öyle.	dialogue	Tommy 2-times	Tommy
 Nilsal, traveller. You walk on holy ground. Please ensure you are respectful.	Nilsal, gezgin. Kutsal topraklarda yürüyorsun. Lütfen saygili davran.	dialogue	Tonali Archer	Tonali Archer
 Nilsal, traveller. You walk on holy ground. Please ensure you are respectful.	Nilsal, gezgin. Kutsal topraklarda yürüyorsun. Lütfen saygili davran.	dialogue	Tonali Warrior	Tonali Warrior
 I'm sorry, traveller, but access into the Crypt of Tonali is restricted. You may not enter.	Üzgünüm, gezgin, ama Tonali Mezarligi'na giris yasaktir. Giremezsin.	dialogue	Tonali Warrior	Tonali Warrior
+Nilsal, adventurer. Good work in dealing with those cultist!	Nilsal, maceraci. O tarikatçilarla iyi is çikardin!	dialogue	Tonali Warrior	Tonali Warrior
+Nilsal, adventurer. I hope you are doing well?	Nilsal, maceraci. Umarim iyisindir?	dialogue	Tonali Warrior	Tonali Warrior
+Very well, thank you.	Çok iyiyim, tesekkürler.	dialogue	Tonali Warrior	Player
+Glad to hear it.	Bunu duyduguma sevindim.	dialogue	Tonali Warrior	Tonali Warrior
 Ah, 'tis a foine day to be sure! Were yez wantin' me to store yer tools, or maybe ye might be wantin' yer stuff back from me?	Ah, bugün gercekten güzel bir gün! Aletlerinizi depolamami mi istiyorsunuz, yoksa esyalarinizi benden geri almak mi istiyorsunuz?	dialogue	Tool Leprechaun	Tool Leprechaun
 Why are you here in Weiss?	Neden Weiss'ta bulunuyorsunuz?	dialogue	Tool Leprechaun	Player
 An' why would I not be here? Now that there be farming patches, there'll be folk needing a leprechaun to hold their stuff! So, dod ye want to be using the store?	Neden burada olmayayim ki? Artik tarim alanlari olduguna göre, esyalarini saklayacak bir leprikon arayan insanlar olacaktir! Peki, depoyu kullanmak ister misiniz?	dialogue	Tool Leprechaun	Tool Leprechaun
@@ -74452,6 +74966,7 @@ The [north/east/south/west] tower has received reinforcements, kill them quickly
 The [north/east/south/west] tower is occupied, get them!		dialogue	Tower Advisor	Tower Advisor
 Hello. What are you doing here?	Merhaba. Burada ne yapiyorsunuz?	dialogue	Tower guard	Player
 We are the tower guards - our business is our own!	Biz kule muhafizlariyiz - isimiz bize aittir!	dialogue	Tower guard	Tower guard
+You can't go up there. That's private, that is.	Oraya çikamazsin. Orasi özel bir yer.	dialogue	Tower guard	Tower guard
 Hello citizen!	Merhaba vatandas!	dialogue	Town Crier	Town crier
 What do you do around here?	Burada ne yapiyorsunuz?	dialogue	Town Crier	Player
 I'm a Town Crier. It's my job to let people know of any recent news. After all, there's all sorts of things happening around here.	Ben bir kasaba tellalisin. Insanlara son haberleri duyurmak benim isim. Sonucta, burada her türlü sey oluyor.	dialogue	Town Crier	Town crier
@@ -74569,6 +75084,12 @@ Can you show me the Guidelines please?	Bana Kilavuzlari gösterebilir misiniz?	d
 Do you have a copy of the Code of Conduct?	Davranis Kurallari'nin bir kopyasi var mi?	dialogue	Town Crier	Town Crier
 Can you give me a moderating tip please?	Bana moderatörlükle ilgili bir ipucu verebilir misiniz?	dialogue	Town Crier	Town Crier
 What help do you give to non Player Moderators?	Oyuncu Moderatörü olmayanlara ne tür yardimlar sunuyorsunuz?	dialogue	Town Crier	Town Crier
+Make sure your account security is up to date!	Hesap güvenliginizin güncel oldugundan emin olun!	dialogue	Town Crier	Town Crier
+Old School has loads going on right now! Keep up to date with our latest newsposts!	Old School'da su anda pek çok sey oluyor! En son haberlerimizi takip edin!	dialogue	Town Crier	Town Crier
+The Combat Achievements for the Doom of Mokhaiotl are here!	Mokhaiotl'un Kiyameti için Savas Basarilari burada!	dialogue	Town Crier	Town Crier
+Have you checked out the latest additions to Varlamore yet?(13 Aug 2025 – 20 Aug 2025)	Varlamore'a eklenen son yenilikleri gördünüz mü? (13 Agustos 2025 – 20 Agustos 2025)	dialogue	Town Crier	Town Crier
+Thanks for helping us break player records!(20 Aug 2025 – 27 Aug 2025)	Oyuncu rekorlarini kirmamiza yardim ettiginiz için tesekkürler! (20 Agustos 2025 – 27 Agustos 2025)	dialogue	Town Crier	Town Crier
+The Summer Sweep-Up Slayer & Misc changes are here!(27 Aug 2025 – 03 Sep 2025)	Yaz Temizligi Slayer & Misc degisiklikleri geldi! (27 Agustos 2025 – 03 Eylül 2025)	dialogue	Town Crier	Town Crier
 Hello.	Merhaba.	dialogue	Tracker gnome 1	Player
 I can't talk now. Can't you see we're trying to win a battle here?	Su anda konusamam. Burada bir savas kazanmaya calistigimizi görmüyor musun?	dialogue	Tracker gnome 1	Tracker gnome 1
 Do you know the coordinates of the Khazard stronghold?	Khazard kalesinin koordinatlarini biliyor musun?	dialogue	Tracker gnome 1	Player
@@ -78829,6 +79350,8 @@ All's well that ends well.	Sonu iyi biten her sey iyidir.	dialogue	Wizard	Wizard
 I've got some questions about the search for evidence.	Kanit arama konusunda bazi sorularim var.	dialogue	Wizard	Player
 You'll have to speak to the Watchtower Wizard about that.	Bunun icin Gözcü Kule Büyücüsü ile konusmalisin.	dialogue	Wizard	Wizard
 I've got some questions regarding the tribal ogres.	Kabile ogreleriyle ilgili bazi sorularim var.	dialogue	Wizard	Player
+What's going on here?	Burada neler oluyor?	dialogue	Wizard	Player
+You'll have to speak with the Watchtower Wizard about that.	Bununla ilgili olarak Gözcü Kule Sihirbazi ile konusmalisin.	dialogue	Wizard	Wizard
 Who are you? Get out of here, I don't have anything for you.	Kimsin sen? Defol buradan, sana verecek hicbir seyim yok.	dialogue	Wizard Akutha	Wizard Akutha
 You must have completed The Hand in the Sand to use the Guild's shop.	Guild'in dükkanini kullanmak icin The Hand in the Sand görevini tamamlamis olmalisin.	dialogue	Wizard Akutha	Wizard Akutha
 I don't know if I can trust you with any of my supplies...	Sana malzemelerimi emanet edebilir miyim, bilmiyorum...	dialogue	Wizard Akutha	Wizard Akutha
