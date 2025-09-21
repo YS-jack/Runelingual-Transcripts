@@ -46,7 +46,8 @@ To make pottery, you'll need to obtain some soft clay, obtained by adding water 
 To make jewellery, you'll need to first get a crafting mould. You can then take that mould and some gold or silver bars to a furnace to craft your jewellery. At higher crafting levels, you can cut gems and mould them simultaneously to create jewellery which you can enchant!	interface	generalUI	skillGuide
 Firemaking is a skill that allows you to make fires. To do so, simply use a tinderbox on a set of logs and you'll attempt to light them on fire.	interface	generalUI	skillGuide
 Higher Firemaking levels will allow you to burn logs that grant more experience, as well as allowing you to burn them quicker.	interface	generalUI	skillGuide
-Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the side panel, or in their tab in this skill guide.	interface	generalUI	skillGuide
+Magic grants you access to a wide variety of spells. To cast each spell, you will need a specific set of runes. You can see the runes required by inspecting the spell in either the spellbook side-panel, or in their tab in this guide.	interface	generalUI	skillGuide
+Click the spells in this guide to see the required runes to cast each spell.  By opening the spellbook icon on the spellbook side-panel, you can see what each spell does by moving your mouse over its icon.	interface	generalUI	skillGuide
 You can use certain pieces of equipment to replace runes in order to cast spells. For instance, an equipped staff of air counts as an infinite supply of air runes.	interface	generalUI	skillGuide
 Staves can also be used to auto-cast certain offensive spells in combat; to enable this, equip your staff, go to the Combat Options side panel, and select one of the 'Spell' options.	interface	generalUI	skillGuide
 Fletching - Members Only	interface	generalUI	skillGuide
@@ -57,9 +58,9 @@ To make bolts, you only need to combine unfinished bolts with feathers. You can 
 Woodcutting allows you to chop down trees to obtain logs. Most trees in the game can be chopped down with an axe.	interface	generalUI	skillGuide
 Increasing your Woodcutting level will give you a higher chance of successfully chopping a tree. You'll also gain access to more trees to cut down.	interface	generalUI	skillGuide
 In addition to this, higher Woodcutting levels grant access to more powerful axes, which also increase the chance of chopping trees. Note that you can still use an axe in your inventory if you have the Woodcutting level for it, even if you don't have the Attack level to equip it.	interface	generalUI	skillGuide
-Runecrafting is the skill that allows you to convert essences into runes, which you can use to cast spells.	interface	generalUI	skillGuide
+Runecraft is the skill that allows you to convert essences into runes, which you can use to cast spells.	interface	generalUI	skillGuide
 To create runes, you'll first need some essence and a talisman of the rune you want to make. You can use the talisman to both locate and access the runic altar, which is where the runes are crafted.	interface	generalUI	skillGuide
-Higher Runecrafting levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	interface	generalUI	skillGuide
+Higher Runecraft levels will allow you to craft more kinds of runes. At higher levels, you'll also be able to make multiple runes per essence.	interface	generalUI	skillGuide
 Slayer - Members Only	interface	generalUI	skillGuide
 Slayer is a skill that lets you fight increasingly dangerous and lucrative monsters. Some monsters can only be fought if you have a high enough Slayer level.	interface	generalUI	skillGuide
 To get started with Slayer, you'll first need a Slayer task, which can be obtained from a Slayer Master. You can then kill the assigned target to get Slayer experience.	interface	generalUI	skillGuide
