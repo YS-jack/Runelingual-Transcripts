@@ -258,7 +258,7 @@ Tin ore	Minério de estanho	name	item	Tin ore
 Iron ore	Minério de ferro	name	item	Iron ore
 Silver ore	Minério de prata	name	item	Silver ore
 Gold ore	Minério de ouro	name	item	Gold ore
-'perfect' gold ore	"Minério de ouro ""perfeito"""	name	item	'perfect' gold ore
+perfect' gold ore	"Minério de ouro ""perfeito"""	name	item	perfect' gold ore
 Mithril ore	Minério de mithril	name	item	Mithril ore
 Adamantite ore	Minério de adamantio	name	item	Adamantite ore
 Runite ore	Minério de runita	name	item	Runite ore
@@ -462,8 +462,8 @@ Certificate	Certificado	name	item	Certificate
 Ardougne cloak	Capa de Ardougne	name	item	Ardougne cloak
 Dramen branch	Ramo de dramen	name	item	Dramen branch
 Dramen staff	Cajado Dramen	name	item	Dramen staff
-'perfect' ring	"Anel ""perfeito"""	name	item	'perfect' ring
-'perfect' necklace	"Colar ""perfeito"""	name	item	'perfect' necklace
+perfect' ring	"Anel ""perfeito"""	name	item	perfect' ring
+perfect' necklace	"Colar ""perfeito"""	name	item	perfect' necklace
 Cooking gauntlets	Manoplas de Culinária	name	item	Cooking gauntlets
 Goldsmith gauntlets	Manoplas de ourives	name	item	Goldsmith gauntlets
 Chaos gauntlets	Manoplas do caos	name	item	Chaos gauntlets
@@ -880,7 +880,7 @@ Pet cat	Gato de estimação	name	item	Pet cat
 Doogle leaves	Folhas de coriantro	name	item	Doogle leaves
 Cat training medal	Medalha de treinamento	name	item	Cat training medal
 Pete's candlestick	Castiçal do Pete	name	item	Pete's candlestick
-Thieves' armband	Bracelete de ladrão 	name	item	Thieves' armband
+Thieves' armband	Bracelete de ladrão	name	item	Thieves' armband
 Ice gloves	Luvas de gelo	name	item	Ice gloves
 Blamish snail slime	Baba de caracol de blamiche	name	item	Blamish snail slime
 Blamish oil	Óleo de blamiche	name	item	Blamish oil
@@ -1252,7 +1252,7 @@ Gold bar	Barra de ouro	name	item	Gold bar
 Mithril bar	Barra de mithril	name	item	Mithril bar
 Adamantite bar	Barra de adamantio	name	item	Adamantite bar
 Runite bar	Barra rúnica	name	item	Runite bar
-'perfect' gold bar	"Barra de ouro ""perfeita"""	name	item	'perfect' gold bar
+perfect' gold bar	"Barra de ouro ""perfeita"""	name	item	perfect' gold bar
 Shield left half	Metade esquerda do escudo	name	item	Shield left half
 Shield right half	Metade direita do escudo	name	item	Shield right half
 Steel studs	Tachas de aço	name	item	Steel studs
@@ -1800,13 +1800,13 @@ Fremennik brown cloak	Capa marrom fremennikiana	name	item	Fremennik brown cloak
 Fremennik blue cloak	Capa azul fremennikiana	name	item	Fremennik blue cloak
 Fremennik green cloak	Capa verde fremennikiana	name	item	Fremennik green cloak
 Fremennik brown shirt	Camisa Fremennik marrom	name	item	Fremennik brown shirt
-Fremennik grey shirt	Camisa Fremennik cinza 	name	item	Fremennik grey shirt
+Fremennik grey shirt	Camisa Fremennik cinza	name	item	Fremennik grey shirt
 Fremennik beige shirt	Camisa Fremennik bege	name	item	Fremennik beige shirt
 Fremennik red shirt	Camisa Fremennik vermelha	name	item	Fremennik red shirt
 Fremennik blue shirt	Camisa Fremennik azul	name	item	Fremennik blue shirt
 Fremennik red cloak	Capa Fremennik vermelha	name	item	Fremennik red cloak
 Fremennik grey cloak	Capa Fremennik cinza	name	item	Fremennik grey cloak
-Fremennik yellow cloak	Capa Fremennik amarela 	name	item	Fremennik yellow cloak
+Fremennik yellow cloak	Capa Fremennik amarela	name	item	Fremennik yellow cloak
 Fremennik teal cloak	Capa Fremennik azul-petróleo	name	item	Fremennik teal cloak
 Fremennik purple cloak	Capa Fremennik roxa	name	item	Fremennik purple cloak
 Fremennik pink cloak	Capa Fremennik rosa	name	item	Fremennik pink cloak
@@ -1833,7 +1833,7 @@ Guthix page 4	Guthix página 4	name	item	Guthix page 4
 Damaged book	Livro danificado	name	item	Damaged book
 Holy book	Livro sagrado	name	item	Holy book
 Unholy book	Livro profano	name	item	Unholy book
-Book of balance	Livro do equilíbrio 	name	item	Book of balance
+Book of balance	Livro do equilíbrio	name	item	Book of balance
 Manual	Manual	name	item	Manual
 Lighthouse key	Chave do farol	name	item	Lighthouse key
 Rusty casket	Cofre enferrujado	name	item	Rusty casket
@@ -2253,7 +2253,7 @@ Guthan's platebody	Cota de placa de Guthan	name	item	Guthan's platebody
 Guthan's chainskirt	Escarcela de Guthan	name	item	Guthan's chainskirt
 Karil's coif	Coifa de Karil	name	item	Karil's coif
 Karil's crossbow	Balestra de Karil	name	item	Karil's crossbow
-Karil's leathertop	Túnica de Karil 	name	item	Karil's leathertop
+Karil's leathertop	Túnica de Karil	name	item	Karil's leathertop
 Karil's leatherskirt	Saia de Karil	name	item	Karil's leatherskirt
 Bolt rack	Pente de setas	name	item	Bolt rack
 Torag's helm	Elmo de Torag	name	item	Torag's helm
@@ -3239,7 +3239,7 @@ Seercull	Arco magicida	name	item	Seercull
 Dagannoth-king bonemeal	Farelo de osso dagannoth	name	item	Dagannoth-king bonemeal
 Dagannoth bones	Ossos de dagannoth	name	item	Dagannoth bones
 Seers ring	Anel dos Videntes	name	item	Seers ring
-Archers ring	Anel do Arqueiro 	name	item	Archers ring
+Archers ring	Anel do Arqueiro	name	item	Archers ring
 Warrior ring	Anel do Guerreiro	name	item	Warrior ring
 Berserker ring	Anel da força	name	item	Berserker ring
 Dragon axe	Machado dragônico	name	item	Dragon axe
@@ -3271,7 +3271,7 @@ Sole	Sola	name	item	Sole
 Ancestral key	Chave ancestral	name	item	Ancestral key
 Ballad	Balada	name	item	Ballad
 Choc-ice	Sorvete de chocolate	name	item	Choc-ice
-Earth warrior champion scroll	Pergaminho de campeão de Guerreiro da Terra 	name	item	Earth warrior champion scroll
+Earth warrior champion scroll	Pergaminho de campeão de Guerreiro da Terra	name	item	Earth warrior champion scroll
 Ghoul champion scroll	Pergaminho do Carniçal Campeão	name	item	Ghoul champion scroll
 Giant champion scroll	Pergaminho do Gigante Campeão	name	item	Giant champion scroll
 Goblin champion scroll	Pergaminho do Duende Campeão	name	item	Goblin champion scroll
@@ -3399,7 +3399,7 @@ Fuse	Fusível	name	item	Fuse
 Stripy pirate shirt	Camisa pirata listrada	name	item	Stripy pirate shirt
 Pirate bandana	Lenço de pirata	name	item	Pirate bandana
 Pirate boots	Botas de pirata	name	item	Pirate boots
-Pirate leggings	Perneiras de pirata 	name	item	Pirate leggings
+Pirate leggings	Perneiras de pirata	name	item	Pirate leggings
 Canister	Tambor	name	item	Canister
 Ramrod	Vareta	name	item	Ramrod
 Repair plank	Tábua de reparo	name	item	Repair plank
@@ -3412,7 +3412,7 @@ Cannon barrel	Cano de canhão	name	item	Cannon barrel
 Broken cannon	Canhão quebrado	name	item	Broken cannon
 Cannon balls	Balas de canhão	name	item	Cannon balls
 Tacks	Pregos	name	item	Tacks
-Braindeath 'rum'	"""Refresco"" do coma"	name	item	Braindeath 'rum'
+Braindeath 'rum'	Refresco do coma	name	item	Braindeath 'rum'
 Dragon 2h sword	Espada de 2m dragônica	name	item	Dragon 2h sword
 Insulated boots	Botas isolantes	name	item	Insulated boots
 Killerwatt	Descarga eletrizante	name	item	Killerwatt
@@ -3705,7 +3705,7 @@ Giant bat wing	Asa de morcego gigante	name	item	Giant bat wing
 Wolf bone	Osso de lobo	name	item	Wolf bone
 Bat wing	Asa de morcego	name	item	Bat wing
 Rat bone	Osso de rato	name	item	Rat bone
-Baby dragon bone	Osso de filhote de dragão 	name	item	Baby dragon bone
+Baby dragon bone	Osso de filhote de dragão	name	item	Baby dragon bone
 Ogre ribs	Costelas de ogro	name	item	Ogre ribs
 Jogre bone	Osso de selgro	name	item	Jogre bone
 Zogre bone	Osso de zogro	name	item	Zogre bone
@@ -4033,7 +4033,7 @@ Mounted shark	Tubarão montado	name	item	Mounted shark
 Mithril armour	Armadura de mithril	name	item	Mithril armour
 Adamantite armour	Armadura de adamantio	name	item	Adamantite armour
 Runite armour	Armadura rúnica	name	item	Runite armour
-Cw armour 1	Armadura das Cidadelas 1 	name	item	Cw armour 1
+Cw armour 1	Armadura das Cidadelas 1	name	item	Cw armour 1
 Cw armour 2	Armadura das Cidadelas 2	name	item	Cw armour 2
 Cw armour 3	Armadura das Cidadelas 3	name	item	Cw armour 3
 Rune case 1	Caixa de runas 1	name	item	Rune case 1
@@ -4099,7 +4099,7 @@ Celestial globe	Globo celestial	name	item	Celestial globe
 Armillary sphere	Esfera armilar	name	item	Armillary sphere
 Small orrery	Pequeno planetário	name	item	Small orrery
 Large orrery	Planetário grande	name	item	Large orrery
-Oak telescope	Telescópio de carvalho 	name	item	Oak telescope
+Oak telescope	Telescópio de carvalho	name	item	Oak telescope
 Teak telescope	Telescópio de teca	name	item	Teak telescope
 Mahogany telescope	Telescópio de mogno	name	item	Mahogany telescope
 Crystal ball	Bola de cristal	name	item	Crystal ball
@@ -4573,7 +4573,7 @@ Large cog	Engrenagem grande	name	item	Large cog
 Medium cog	Engrenagem média	name	item	Medium cog
 Small cog	Engrenagem pequena	name	item	Small cog
 Primed bar	Barra preparada	name	item	Primed bar
-Primed mind bar	Barra mental preparada 	name	item	Primed mind bar
+Primed mind bar	Barra mental preparada	name	item	Primed mind bar
 Elemental helmet	Elmo elemental	name	item	Elemental helmet
 Mind shield	Escudo mental	name	item	Mind shield
 Mind helmet	Elmo mental	name	item	Mind helmet
@@ -5704,9 +5704,9 @@ Gilded boots	Botas douradas	name	item	Gilded boots
 Royal gown top	Túnica Real	name	item	Royal gown top
 Royal gown bottom	Saia da Túnica Real	name	item	Royal gown bottom
 Royal crown	Coroa real	name	item	Royal crown
-Partyhat & specs	Chapéu de festa perspicaz 	name	item	Partyhat & specs
+Partyhat & specs	Chapéu de festa perspicaz	name	item	Partyhat & specs
 Nardah teleport	Teleporte a Nardah	name	item	Nardah teleport
-Digsite teleport	Teleporte ao Sítio de Escavação 	name	item	Digsite teleport
+Digsite teleport	Teleporte ao Sítio de Escavação	name	item	Digsite teleport
 Feldip hills teleport	Teleporte às Colinas de Feldip	name	item	Feldip hills teleport
 Lunar isle teleport	Teleporte a Ilha Lunar	name	item	Lunar isle teleport
 Mort'ton teleport	Teleporte a Mort'ton	name	item	Mort'ton teleport
@@ -5715,7 +5715,7 @@ Piscatoris teleport	Teleporte a Piscatoris	name	item	Piscatoris teleport
 Tai bwo wannai teleport	Teleporte a Tai Bwo Wannai	name	item	Tai bwo wannai teleport
 Iorwerth camp teleport	Teleporte ao acampamento Iorwerth	name	item	Iorwerth camp teleport
 Mos le'harmless teleport	Teleporte a Mos Ino'fensivo	name	item	Mos le'harmless teleport
-Pirate hat & patch	Chapéu de pirata com tapa olho 	name	item	Pirate hat & patch
+Pirate hat & patch	Chapéu de pirata com tapa olho	name	item	Pirate hat & patch
 Dragon chainbody (g)	Cota de malha dragônica (o)	name	item	Dragon chainbody (g)
 Dragon platelegs (g)	Perneiras de placa dragônica (o)	name	item	Dragon platelegs (g)
 Dragon plateskirt (g)	Escarcela de placa dragônica (o)	name	item	Dragon plateskirt (g)
@@ -5723,19 +5723,19 @@ Dragon full helm (g)	Elmo completo dragônico (o)	name	item	Dragon full helm (g)
 Dragon sq shield (g)	Escudo retangular dragônico (o)	name	item	Dragon sq shield (g)
 Light infinity hat	Chapéu do infinito branco-ouro	name	item	Light infinity hat
 Light infinity top	Túnica do infinito branco-ouro	name	item	Light infinity top
-Light infinity bottoms	Saia da túnica do infinito branco-ouro 	name	item	Light infinity bottoms
+Light infinity bottoms	Saia da túnica do infinito branco-ouro	name	item	Light infinity bottoms
 3rd age wand	Varinha da Terceira Era	name	item	3rd age wand
 3rd age bow	Arco da Terceira Era	name	item	3rd age bow
-3rd age longsword	Espada longa da Terceira Era 	name	item	3rd age longsword
+3rd age longsword	Espada longa da Terceira Era	name	item	3rd age longsword
 Penguin mask	Máscara de pinguim	name	item	Penguin mask
 Afro	Afro	name	item	Afro
 Top hat	Cartola	name	item	Top hat
-Top hat & monocle	Cartola com monóculo 	name	item	Top hat & monocle
+Top hat & monocle	Cartola com monóculo	name	item	Top hat & monocle
 Amulet of fury (or)	Amuleto da fúria (or)	name	item	Amulet of fury (or)
 3rd age cloak	Capa da Terceira Era	name	item	3rd age cloak
 Royal sceptre	Cetro real	name	item	Royal sceptre
 Musketeer tabard	Tabardo de Mosqueteiro	name	item	Musketeer tabard
-Musketeer pants	Calça de Mosqueteiro 	name	item	Musketeer pants
+Musketeer pants	Calça de Mosqueteiro	name	item	Musketeer pants
 Black skirt (g)	Saia negra (o)	name	item	Black skirt (g)
 Black skirt (t)	Saia negra (enf)	name	item	Black skirt (t)
 Black wizard robe (g)	Túnica de mago negro (o)	name	item	Black wizard robe (g)
@@ -6426,7 +6426,7 @@ Clue bottle (hard)	Garrafa com pergaminho (difícil)	name	item	Clue bottle (hard
 Clue bottle (elite)	Garrafa com pergaminho (elite)	name	item	Clue bottle (elite)
 Dragon claws	Garras dragônicas	name	item	Dragon claws
 Gnome child hat	Chapéu de gnomo criança	name	item	Gnome child hat
-Grape seed	Semente de uva 	name	item	Grape seed
+Grape seed	Semente de uva	name	item	Grape seed
 Teleport card	Cartão de Teleporte	name	item	Teleport card
 Chronicle	Chronicle	name	item	Chronicle
 Bunny top	Torso de coelho	name	item	Bunny top
@@ -6768,7 +6768,7 @@ Boss lair display	Expositor de chefe	name	item	Boss lair display
 Mounted emblem	Emblema montado	name	item	Mounted emblem
 Mounted coins	Moedas montadas	name	item	Mounted coins
 Cape hanger	Cabide para capa	name	item	Cape hanger
-Quest list	Lista de missões 	name	item	Quest list
+Quest list	Lista de missões	name	item	Quest list
 Tip jar	Potinho de gorjeta	name	item	Tip jar
 Fairy ring	Anel das fadas	name	item	Fairy ring
 Spirit tree & fairy ring	Árvore espiritual e anel das fadas	name	item	Spirit tree & fairy ring
@@ -6805,7 +6805,7 @@ Rejuvenation potion (3)	Poção de rejuvenescimento (3)	name	item	Rejuvenation p
 Rejuvenation potion (2)	Poção de rejuvenescimento (2)	name	item	Rejuvenation potion (2)
 Rejuvenation potion (1)	Poção de rejuvenescimento (1)	name	item	Rejuvenation potion (1)
 Supply crate	Caixa de suprimentos	name	item	Supply crate
-Pyromancer garb	Poncho de Piromante 	name	item	Pyromancer garb
+Pyromancer garb	Poncho de Piromante	name	item	Pyromancer garb
 Pyromancer robe	Túnica de Piromante	name	item	Pyromancer robe
 Pyromancer hood	Capuz de Piromante	name	item	Pyromancer hood
 Pyromancer boots	Botas de Piromante	name	item	Pyromancer boots
@@ -6902,42 +6902,42 @@ Transdimensional notes	Notas transdimensionais	name	item	Transdimensional notes
 Vanguard judgement	Julgamento da vanguarda	name	item	Vanguard judgement
 Houndmaster's diary	Diário do mestre dos cães	name	item	Houndmaster's diary
 Dark journal	Diário sombrio	name	item	Dark journal
-Grimy noxifer	Noxifer sujo	name	item	Grimy noxifer
-Noxifer	Noxifer	name	item	Noxifer
-Noxifer seed	Semente de noxifer	name	item	Noxifer seed
+Grimy noxifer	Noctífero sujo	name	item	Grimy noxifer
+Noxifer	Noctífero sujo	name	item	Noxifer
+Noxifer seed	Semente de noctífero	name	item	Noxifer seed
 Grimy golpar	Golpar sujo	name	item	Grimy golpar
 Golpar	Golpar	name	item	Golpar
 Golpar seed	Semente de golpar	name	item	Golpar seed
 Grimy buchu leaf	Folha de buchu suja	name	item	Grimy buchu leaf
 Buchu leaf	Folha de buchu	name	item	Buchu leaf
 Buchu seed	Semente de buchu	name	item	Buchu seed
-Stinkhorn mushroom	Cogumelo stinkhorn	name	item	Stinkhorn mushroom
-Endarkened juice	Suco escurecido	name	item	Endarkened juice
-Cicely	Cicely	name	item	Cicely
-Elder (-)(1)	Elder (-)(1)	name	item	Elder (-)(1)
-Elder (-)(2)	Elder (-)(2)	name	item	Elder (-)(2)
-Elder (-)(3)	Elder (-)(3)	name	item	Elder (-)(3)
-Elder (-)(4)	Elder (-)(4)	name	item	Elder (-)(4)
-Elder potion (1)	Poção Elder (1)	name	item	Elder potion (1)
-Elder potion (2)	Poção Elder (2)	name	item	Elder potion (2)
-Elder potion (3)	Poção Elder (3)	name	item	Elder potion (3)
-Elder potion (4)	Poção Elder (4)	name	item	Elder potion (4)
-Elder (+)(1)	Elder (+)(1)	name	item	Elder (+)(1)
-Elder (+)(2)	Elder (+)(2)	name	item	Elder (+)(2)
-Elder (+)(3)	Elder (+)(3)	name	item	Elder (+)(3)
-Elder (+)(4)	Elder (+)(4)	name	item	Elder (+)(4)
-Twisted (-)(1)	Twisted (-)(1)	name	item	Twisted (-)(1)
-Twisted (-)(2)	Twisted (-)(2)	name	item	Twisted (-)(2)
-Twisted (-)(3)	Twisted (-)(3)	name	item	Twisted (-)(3)
-Twisted (-)(4)	Twisted (-)(4)	name	item	Twisted (-)(4)
-Twisted potion (1)	Poção Twisted (1)	name	item	Twisted potion (1)
-Twisted potion (2)	Poção Twisted (2)	name	item	Twisted potion (2)
-Twisted potion (3)	Poção Twisted (3)	name	item	Twisted potion (3)
-Twisted potion (4)	Poção Twisted (4)	name	item	Twisted potion (4)
-Twisted (+)(1)	Twisted (+)(1)	name	item	Twisted (+)(1)
-Twisted (+)(2)	Twisted (+)(2)	name	item	Twisted (+)(2)
-Twisted (+)(3)	Twisted (+)(3)	name	item	Twisted (+)(3)
-Twisted (+)(4)	Twisted (+)(4)	name	item	Twisted (+)(4)
+Stinkhorn mushroom	Cogumelo-fétido	name	item	Stinkhorn mushroom
+Endarkened juice	Suco enegrecido	name	item	Endarkened juice
+Cicely	Cicélia	name	item	Cicely
+Elder (-)(1)	Anciã (-)(1)	name	item	Elder (-)(1)
+Elder (-)(2)	Anciã (-)(2)	name	item	Elder (-)(2)
+Elder (-)(3)	Anciã (-)(3)	name	item	Elder (-)(3)
+Elder (-)(4)	Anciã (-)(4)	name	item	Elder (-)(4)
+Elder potion (1)	Poção Anciã (1)	name	item	Elder potion (1)
+Elder potion (2)	Poção Anciã (2)	name	item	Elder potion (2)
+Elder potion (3)	Poção Anciã (3)	name	item	Elder potion (3)
+Elder potion (4)	Poção Anciã (4)	name	item	Elder potion (4)
+Elder (+)(1)	Anciã (+)(1)	name	item	Elder (+)(1)
+Elder (+)(2)	Anciã (+)(2)	name	item	Elder (+)(2)
+Elder (+)(3)	Anciã (+)(3)	name	item	Elder (+)(3)
+Elder (+)(4)	Anciã (+)(4)	name	item	Elder (+)(4)
+Twisted (-)(1)	Degenerada (-)(1)	name	item	Twisted (-)(1)
+Twisted (-)(2)	Degenerada (-)(2)	name	item	Twisted (-)(2)
+Twisted (-)(3)	Degenerada (-)(3)	name	item	Twisted (-)(3)
+Twisted (-)(4)	Degenerada (-)(4)	name	item	Twisted (-)(4)
+Twisted potion (1)	Poção Degenerada (1)	name	item	Twisted potion (1)
+Twisted potion (2)	Poção Degenerada (2)	name	item	Twisted potion (2)
+Twisted potion (3)	Poção Degenerada (3)	name	item	Twisted potion (3)
+Twisted potion (4)	Poção Degenerada (4)	name	item	Twisted potion (4)
+Twisted (+)(1)	Degenerada (+)(1)	name	item	Twisted (+)(1)
+Twisted (+)(2)	Degenerada (+)(2)	name	item	Twisted (+)(2)
+Twisted (+)(3)	Degenerada (+)(3)	name	item	Twisted (+)(3)
+Twisted (+)(4)	Degenerada (+)(4)	name	item	Twisted (+)(4)
 Kodai (-)(1)	Kodai (-)(1)	name	item	Kodai (-)(1)
 Kodai (-)(2)	Kodai (-)(2)	name	item	Kodai (-)(2)
 Kodai (-)(3)	Kodai (-)(3)	name	item	Kodai (-)(3)
@@ -7124,14 +7124,14 @@ Infernal cape	Capa Infernal	name	item	Infernal cape
 Obsidian helmet	Elmo de obsidiana	name	item	Obsidian helmet
 Obsidian platebody	Cota de placa de obsidiana	name	item	Obsidian platebody
 Obsidian platelegs	Perneiras de obsidiana	name	item	Obsidian platelegs
-Rogue's equipment crate	Caixa com equipamento pária 	name	item	Rogue's equipment crate
+Rogue's equipment crate	Caixa com equipamento pária	name	item	Rogue's equipment crate
 Red rainbow strand	Fio arco-íris vermelho	name	item	Red rainbow strand
 Orange rainbow strand	Fio arco-íris laranja	name	item	Orange rainbow strand
 Yellow rainbow strand	Fio arco-íris amarelo	name	item	Yellow rainbow strand
 Green rainbow strand	Fio arco-íris verde	name	item	Green rainbow strand
 Blue rainbow strand	Fio arco-íris azul	name	item	Blue rainbow strand
 Purple rainbow strand	Fio arco-íris roxo	name	item	Purple rainbow strand
-Rainbow scarf	Cachecol arco-íris 	name	item	Rainbow scarf
+Rainbow scarf	Cachecol arco-íris	name	item	Rainbow scarf
 Amethyst broad bolts	Seta de pontas largas de ametista	name	item	Amethyst broad bolts
 Amethyst javelin	Dardo longo de ametista	name	item	Amethyst javelin
 Amethyst javelin(p)	Dardo longo de ametista(v)	name	item	Amethyst javelin(p)
@@ -7145,11 +7145,11 @@ Amethyst arrow(p+)	Flecha de ametista(v+)	name	item	Amethyst arrow(p+)
 Amethyst arrow(p++)	Flecha de ametista(v++)	name	item	Amethyst arrow(p++)
 Amethyst bolt tips	Pontas de seta de ametista	name	item	Amethyst bolt tips
 Unidentified minerals	Minerais não-identificados	name	item	Unidentified minerals
-Mining gloves	Luvas de mineração 	name	item	Mining gloves
+Mining gloves	Luvas de mineração	name	item	Mining gloves
 Superior mining gloves	Luvas de mineração superior	name	item	Superior mining gloves
 Amethyst	Ametista	name	item	Amethyst
 Amethyst arrowtips	Pontas de flecha de ametista	name	item	Amethyst arrowtips
-Amethyst javelin heads	Ponta de dardo longo 	name	item	Amethyst javelin heads
+Amethyst javelin heads	Ponta de dardo longo	name	item	Amethyst javelin heads
 Hand fan	Leque de mão	name	item	Hand fan
 Minnow	Vairão	name	item	Minnow
 Master scroll book (empty)	Livro de pergaminhos mestre (vazio)	name	item	Master scroll book (empty)
@@ -7157,7 +7157,7 @@ Master scroll book	Livro de pergaminhos mestre	name	item	Master scroll book
 Brutal black dragon	Dragão Negro Brutal	name	item	Brutal black dragon
 Expert mining gloves	Luvas de mineração especialista	name	item	Expert mining gloves
 Karambwanji	Karambwanji	name	item	Karambwanji
-Wilderness cape	Capa da Terra Selvagem 	name	item	Wilderness cape
+Wilderness cape	Capa da Terra Selvagem	name	item	Wilderness cape
 Wilderness champion amulet	Amuleto do campeão da selva	name	item	Wilderness champion amulet
 Champion's cape	Capa do campeão	name	item	Champion's cape
 Teak seedling	Muda de teca	name	item	Teak seedling
@@ -7169,13 +7169,13 @@ Mahogany sapling	Broto de mogno	name	item	Mahogany sapling
 Ultracompost	Ultra-adubo	name	item	Ultracompost
 Teak seed	Semente de teca	name	item	Teak seed
 Mahogany seed	Semente de mogno	name	item	Mahogany seed
-Seaweed spore	Esporo de alga marinha 	name	item	Seaweed spore
+Seaweed spore	Esporo de alga marinha	name	item	Seaweed spore
 Giant seaweed	Alga marinha gigante	name	item	Giant seaweed
 Fossil island wyvern	Dragão alado da Ilha Fóssil	name	item	Fossil island wyvern
 Herbi	Herbi	name	item	Herbi
 Herbiboar	Herbiboar	name	item	Herbiboar
 Bird house	Casinha de pássaro	name	item	Bird house
-Oak bird house	Casinha de pássaro de carvalho 	name	item	Oak bird house
+Oak bird house	Casinha de pássaro de carvalho	name	item	Oak bird house
 Willow bird house	Casinha de pássaro de salgueiro	name	item	Willow bird house
 Teak bird house	Casinha de pássaro de teca	name	item	Teak bird house
 Sawmill proposal	Proposta da serraria	name	item	Sawmill proposal
@@ -7192,12 +7192,12 @@ Runite ore fragment	Fragmento de minério de runita	name	item	Runite ore fragmen
 Heat-proof vessel	Recipiente à prova de calor	name	item	Heat-proof vessel
 Large rock	Grande rocha	name	item	Large rock
 Volcanic mine teleport	Teleporte para Mina Vulcânica	name	item	Volcanic mine teleport
-Calcite	Calcita 	name	item	Calcite
+Calcite	Calcita	name	item	Calcite
 Pyrophosphite	Pirofosfato	name	item	Pyrophosphite
 Small enriched bone	Osso pequeno enriquecido	name	item	Small enriched bone
 Medium enriched bone	Osso médio enriquecido	name	item	Medium enriched bone
-Large enriched bone	Osso grande enriquecido 	name	item	Large enriched bone
-Rare enriched bone	Osso raro enriquecido 	name	item	Rare enriched bone
+Large enriched bone	Osso grande enriquecido	name	item	Large enriched bone
+Rare enriched bone	Osso raro enriquecido	name	item	Rare enriched bone
 Numulite	Numulita	name	item	Numulite
 Unidentified small fossil	Fóssil pequeno não identificado	name	item	Unidentified small fossil
 Unidentified medium fossil	Fóssil médio não identificado	name	item	Unidentified medium fossil
@@ -7231,7 +7231,7 @@ Rare fossilised skull	Crânio fossilizado raro	name	item	Rare fossilised skull
 Rare fossilised tusk	Presa fossilizada rara	name	item	Rare fossilised tusk
 Volcanic ash	Cinza vulcânica	name	item	Volcanic ash
 Hoop snake	Cobra-coroa	name	item	Hoop snake
-Sulliuscep cap	Chapéu sulliuscep	name	item	Sulliuscep cap
+Sulliuscep cap	Chapéu suliuscepe	name	item	Sulliuscep cap
 Archaeologist's diary	Diário do arqueólogo	name	item	Archaeologist's diary
 Ancient diary	Diário antigo	name	item	Ancient diary
 Ancient wyvern shield	Escudo antigo de dragão alado	name	item	Ancient wyvern shield
@@ -7255,7 +7255,7 @@ Old writing	Escrito antigo	name	item	Old writing
 Short note	Nota breve	name	item	Short note
 Uncooked mushroom pie	Torta de cogumelo crua	name	item	Uncooked mushroom pie
 Half a mushroom pie	1/2 Torta de cogumelo	name	item	Half a mushroom pie
-Mushroom pie	Torta de cogumelo 	name	item	Mushroom pie
+Mushroom pie	Torta de cogumelo	name	item	Mushroom pie
 Bowl of fish	Aquário de peixes	name	item	Bowl of fish
 Runefest shield	Escudo do RuneFest	name	item	Runefest shield
 Ash covered tome	Tomo coberto por cinzas	name	item	Ash covered tome
@@ -7272,15 +7272,15 @@ Carved gem	Gema esculpida	name	item	Carved gem
 Time bubble	Bolha temporal	name	item	Time bubble
 Traiborn note	Nota de Trailborn	name	item	Traiborn note
 Jonas mask	Máscara de Jonas	name	item	Jonas mask
-Diving helmet	Capacete de mergulho 	name	item	Diving helmet
-Brittle key	Chave rústica 	name	item	Brittle key
+Diving helmet	Capacete de mergulho	name	item	Diving helmet
+Brittle key	Chave rústica	name	item	Brittle key
 Granite dust	Poeira de granito	name	item	Granite dust
 Granite cannonball	Bala de canhão de granito	name	item	Granite cannonball
 Black tourmaline core	Núcleo de turmalina preto	name	item	Black tourmaline core
-Guardian boots	Botas do guardião 	name	item	Guardian boots
+Guardian boots	Botas do guardião	name	item	Guardian boots
 Granite gloves	Luvas de granito	name	item	Granite gloves
 Granite ring	Anel de granito	name	item	Granite ring
-Granite hammer	Martelo de granito 	name	item	Granite hammer
+Granite hammer	Martelo de granito	name	item	Granite hammer
 Jar of stone	Jarro de pedra	name	item	Jar of stone
 Noon	Grotesquinha	name	item	Noon
 Midnight	Grotescão	name	item	Midnight
@@ -7290,34 +7290,34 @@ Varlamore envoy	Enviado à Varlamore	name	item	Varlamore envoy
 Royal accord of twill	Acordo real de Twill	name	item	Royal accord of twill
 Kharedst's memoirs	Memórias de Kharedst	name	item	Kharedst's memoirs
 Lunch by the lancalliums	Piquenique às flores	name	item	Lunch by the lancalliums
-The fisher's flute	A flauta do pescador 	name	item	The fisher's flute
+The fisher's flute	A flauta do pescador	name	item	The fisher's flute
 History and hearsay	História e rumor	name	item	History and hearsay
 Jewellery of jubilation	Jóias da jubilação	name	item	Jewellery of jubilation
 A dark disposition	Disposição sombria	name	item	A dark disposition
 Secret page	Página secreta	name	item	Secret page
 Imbued saradomin max cape	Capa do máximo saradominista imbuída	name	item	Imbued saradomin max cape
-Imbued saradomin max hood	Capuz do máximo saradominista imbuída 	name	item	Imbued saradomin max hood
-Imbued zamorak max cape	Capa do máximo zamorakiana imbuída 	name	item	Imbued zamorak max cape
+Imbued saradomin max hood	Capuz do máximo saradominista imbuída	name	item	Imbued saradomin max hood
+Imbued zamorak max cape	Capa do máximo zamorakiana imbuída	name	item	Imbued zamorak max cape
 Imbued zamorak max hood	Capuz do máximo zamorakiano imbuído	name	item	Imbued zamorak max hood
 Imbued guthix max cape	Capa do máximo guthixiana imbuída	name	item	Imbued guthix max cape
 Imbued guthix max hood	Capuz do máximo guthixiano imbuído	name	item	Imbued guthix max hood
 Obelisk	Obelisco	name	item	Obelisk
-Imbued saradomin cape	Capa de Saradomin imbuída 	name	item	Imbued saradomin cape
-Imbued guthix cape	Capa de Guthix imbuída 	name	item	Imbued guthix cape
+Imbued saradomin cape	Capa de Saradomin imbuída	name	item	Imbued saradomin cape
+Imbued guthix cape	Capa de Guthix imbuída	name	item	Imbued guthix cape
 Imbued zamorak cape	Capa de Zamorak imbuída	name	item	Imbued zamorak cape
 Justiciar's hand	Mão do Justiciário	name	item	Justiciar's hand
 Ent's roots	Raízes de ente	name	item	Ent's roots
 Demon's heart	Coração de demônio	name	item	Demon's heart
 Enchanted symbol	Símbolo encantado	name	item	Enchanted symbol
 Revenant cave teleport	Teleporte à caverna Revenant	name	item	Revenant cave teleport
-Ancient crystal	Cristal ancião 	name	item	Ancient crystal
+Ancient crystal	Cristal ancião	name	item	Ancient crystal
 Ancient emblem	Emblema antigo	name	item	Ancient emblem
 Ancient totem	Totem antigo	name	item	Ancient totem
 Ancient statuette	Estatueta antiquíssima	name	item	Ancient statuette
 Bracelet of ethereum	Bracelete etéreo	name	item	Bracelet of ethereum
 Bracelet of ethereum (uncharged)	Bracelete etéreo (descarregado)	name	item	Bracelet of ethereum (uncharged)
 Revenant ether	Éter fantasma	name	item	Revenant ether
-Shaman mask	Máscara de xamã 	name	item	Shaman mask
+Shaman mask	Máscara de xamã	name	item	Shaman mask
 Snow imp costume head	Cabeça de fantasia de duende da neve	name	item	Snow imp costume head
 Snow imp costume body	Corpo da fantasia de duende da neve	name	item	Snow imp costume body
 Snow imp costume legs	Pernas da fantasia de duende da neve	name	item	Snow imp costume legs
@@ -7352,7 +7352,7 @@ Dragon bolts	Setas de dragão	name	item	Dragon bolts
 Vorkath's stuffed head	Cabeça empalhada de Vorkath	name	item	Vorkath's stuffed head
 Rune dragon	Dragão de runita	name	item	Rune dragon
 Mythical cape	Capa mítica	name	item	Mythical cape
-Ava's assembler (broken)	Mochila de ava suprema	name	item	Ava's assembler (broken)
+Ava's assembler (broken)	Mochila suprema de Ava (quebrada)	name	item	Ava's assembler (broken)
 Assembler max cape (broken)	Capa do Máximo suprema (quebrada)	name	item	Assembler max cape (broken)
 Dragon limbs	Limbos dragônicos	name	item	Dragon limbs
 Dragon crossbow (u)	Balestra Dragônica (s)	name	item	Dragon crossbow (u)
@@ -7417,7 +7417,7 @@ Dragon metal shard	Fragmento de metal de dragão	name	item	Dragon metal shard
 Dragon metal slice	Fatia de metal de dragão	name	item	Dragon metal slice
 Dragon metal lump	Pedaço de metal de dragão	name	item	Dragon metal lump
 Jar of decay	Jarro da Putrefação	name	item	Jar of decay
-Ava's assembler	Mochila de suprema de Ava	name	item	Ava's assembler
+Ava's assembler	Mochila suprema de Ava	name	item	Ava's assembler
 Dragonbone necklace	Colar de osso de dragão	name	item	Dragonbone necklace
 Superior dragon bonemeal	Farelo de osso de dragão superior	name	item	Superior dragon bonemeal
 Wrath talisman	Talismã da ira	name	item	Wrath talisman
@@ -7455,7 +7455,7 @@ Maple shield	Escudo de bordo	name	item	Maple shield
 Yew shield	Escudo de teixo	name	item	Yew shield
 Magic shield	Escudo mágico	name	item	Magic shield
 Redwood shield	Escudo de Sequoia	name	item	Redwood shield
-Hard leather shield	Escudo de Couro Duro	name	item	Hard leather shield
+Hard leather shield	Escudo de couro duro	name	item	Hard leather shield
 Snakeskin shield	Escudo de couro de cobra	name	item	Snakeskin shield
 Green d'hide shield	Escudo de pele de dragão verde	name	item	Green d'hide shield
 Blue d'hide shield	Escudo de pele de dragão azul	name	item	Blue d'hide shield
@@ -7603,9 +7603,9 @@ Kq head (tattered)	Cabo do sabre averniano	name	item	Kq head (tattered)
 Stuffed kq head (tattered)	Cabeça de kq recheada (esfarrapada)	name	item	Stuffed kq head (tattered)
 Scroll sack	Saco de pergaminhos	name	item	Scroll sack
 Eek	Ahhh	name	item	Eek
-Clown mask	Máscara de palhaço 	name	item	Clown mask
+Clown mask	Máscara de palhaço	name	item	Clown mask
 Clown bow tie	Gravata borboleta de palhaço	name	item	Clown bow tie
-Clown gown	Camisa de palhaço 	name	item	Clown gown
+Clown gown	Camisa de palhaço	name	item	Clown gown
 Clown trousers	Calças de palhaço	name	item	Clown trousers
 Clown shoes	Sapatos de palhaço	name	item	Clown shoes
 Portal nexus	Nexo portal	name	item	Portal nexus
@@ -7695,7 +7695,7 @@ Rada's blessing 3	Honra de Rada 3	name	item	Rada's blessing 3
 Rada's blessing 4	Honra de Rada 4	name	item	Rada's blessing 4
 Battlefront teleport	Teleporte a frente de batalha	name	item	Battlefront teleport
 Boots of brimstone	Botas de enxofre	name	item	Boots of brimstone
-Devout boots	Botas devotas	name	item	Devout boots
+Devout boots	Botas do devoto	name	item	Devout boots
 Drake's claw	Garra de dragonete	name	item	Drake's claw
 Drake's tooth	Dente de dragonete	name	item	Drake's tooth
 Broken dragon hasta	Hasta dragônica quebrada	name	item	Broken dragon hasta
@@ -7895,7 +7895,7 @@ Youngllef	Youngllef	name	item	Youngllef
 Corrupted youngllef	Youngllef corrompido	name	item	Corrupted youngllef
 Smolcano	Smolcano	name	item	Smolcano
 Crystal harpoon	Arpão de cristal	name	item	Crystal harpoon
-Crystal harpoon (inactive)	Arpão de cristal (inativo	name	item	Crystal harpoon (inactive)
+Crystal harpoon (inactive)	Arpão de cristal (inativo)	name	item	Crystal harpoon (inactive)
 Crystal impling jar	Pote de pestinha de cristal	name	item	Crystal impling jar
 Prifddinas teleport	Teleporte a Prifddinas	name	item	Prifddinas teleport
 Scrawled notes	Rabiscos	name	item	Scrawled notes
@@ -8105,7 +8105,7 @@ Victor's cape (100)	Capa Vitoriosa (100)	name	item	Victor's cape (100)
 Victor's cape (500)	Capa Vitoriosa (500)	name	item	Victor's cape (500)
 Guthixian icon	Ícone guthixiano	name	item	Guthixian icon
 Swift blade	Lâmina veloz	name	item	Swift blade
-Ava's assembler (l)	Mochila de ava suprema (l)	name	item	Ava's assembler (l)
+Ava's assembler (l)	Mochila suprema de ava (l)	name	item	Ava's assembler (l)
 Fire cape (l)	Capa do fogo (l)	name	item	Fire cape (l)
 Infernal cape (l)	Capa Infernal (l)	name	item	Infernal cape (l)
 Ornate maul handle	Cabo ornamental de malho	name	item	Ornate maul handle
@@ -8204,7 +8204,7 @@ Inquisitor's great helm	Grande elmo do inquisidor	name	item	Inquisitor's great h
 Inquisitor's hauberk	Cota de malha do inquisidor	name	item	Inquisitor's hauberk
 Inquisitor's plateskirt	Escarcela do inquisidor	name	item	Inquisitor's plateskirt
 Nightmare staff	Cajado do pesadelo	name	item	Nightmare staff
-Harmonised nightmare staff	Cajado harmonizado do pesadelo 	name	item	Harmonised nightmare staff
+Harmonised nightmare staff	Cajado harmonizado do pesadelo	name	item	Harmonised nightmare staff
 Volatile nightmare staff	Cajado volátil do pesadelo	name	item	Volatile nightmare staff
 Eldritch nightmare staff	Cajado sobrenatural do pesadelo	name	item	Eldritch nightmare staff
 Green gingerbread shield	Escudo de gengibre verde	name	item	Green gingerbread shield
@@ -8248,7 +8248,7 @@ Runner hat (broken)	Chapéu de corredor (quebrado)	name	item	Runner hat (broken)
 Runner hat (l)	Chapéu de corredor (l)	name	item	Runner hat (l)
 Magic egg ball	Ovo mágico	name	item	Magic egg ball
 Carrot sword	Espanoura	name	item	Carrot sword
-'24-carat' sword	Espada de “24 quilates”	name	item	'24-carat' sword
+24-carat' sword	Espada de “24 quilates”	name	item	24-carat' sword
 Painted fake magic egg	Ovo mágico falso pintado	name	item	Painted fake magic egg
 Unpainted fake magic egg	Ovo mágico falso sem pintura	name	item	Unpainted fake magic egg
 Conch shell	Concha	name	item	Conch shell
@@ -8535,16 +8535,16 @@ Dragon axe (or)	Machado dragônico (or)	name	item	Dragon axe (or)
 Trailblazer relic hunter (t1) armour set	Conj. de arm. caçador de relíquias Trailblazer (t1)	name	item	Trailblazer relic hunter (t1) armour set
 Trailblazer relic hunter (t2) armour set	Conj. de arm. caçador de relíquias Trailblazer (t2)	name	item	Trailblazer relic hunter (t2) armour set
 Trailblazer relic hunter (t3) armour set	Conj. de arm. caçador de relíquias Trailblazer (t3)	name	item	Trailblazer relic hunter (t3) armour set
-Swampbark body	Cota de casca de pântano	name	item	Swampbark body
-Swampbark gauntlets	Manoplas de casca de pântano	name	item	Swampbark gauntlets
-Swampbark boots	Botas de casca de pântano	name	item	Swampbark boots
-Swampbark helm	Elmo de casca de pântano	name	item	Swampbark helm
-Swampbark legs	Perneiras de casca de pântano	name	item	Swampbark legs
-Bloodbark body	Cota de casca de sangue	name	item	Bloodbark body
-Bloodbark gauntlets	Manoplas de casca de sangue	name	item	Bloodbark gauntlets
-Bloodbark boots	Botas de casca sangrenta	name	item	Bloodbark boots
-Bloodbark helm	Elmo de casca sangrenta	name	item	Bloodbark helm
-Bloodbark legs	Perneiras de casca sangrenta	name	item	Bloodbark legs
+Swampbark body	Cota de tronco de pântano	name	item	Swampbark body
+Swampbark gauntlets	Manoplas de tronco de pântano	name	item	Swampbark gauntlets
+Swampbark boots	Botas de tronco de pântano	name	item	Swampbark boots
+Swampbark helm	Elmo de tronco de pântano	name	item	Swampbark helm
+Swampbark legs	Perneiras de tronco de pântano	name	item	Swampbark legs
+Bloodbark body	Cota de tronco de sangue	name	item	Bloodbark body
+Bloodbark gauntlets	Manoplas de tronco de sangue	name	item	Bloodbark gauntlets
+Bloodbark boots	Botas de tronco sangrenta	name	item	Bloodbark boots
+Bloodbark helm	Elmo de tronco sangrenta	name	item	Bloodbark helm
+Bloodbark legs	Perneiras de tronco sangrenta	name	item	Bloodbark legs
 Urium remains	Restos de urium	name	item	Urium remains
 Bleached bones	Ossos branqueados	name	item	Bleached bones
 Gold key red	Chave dourada vermelha	name	item	Gold key red
@@ -8574,8 +8574,8 @@ Open silver coffin	Caixão de prata aberto	name	item	Open silver coffin
 Open gold coffin	Caixão de ouro aberto	name	item	Open gold coffin
 Tree wizards' journal	Diário dos magos das árvores	name	item	Tree wizards' journal
 Bloody notes	Notas sangrentas	name	item	Bloody notes
-Runescroll of swampbark	Pergaminho rúnico de casca de pântano	name	item	Runescroll of swampbark
-Runescroll of bloodbark	Pergaminho rúnico de casca sangrenta	name	item	Runescroll of bloodbark
+Runescroll of swampbark	Pergaminho rúnico de tronco de pântano	name	item	Runescroll of swampbark
+Runescroll of bloodbark	Pergaminho rúnico de tronco de sangue	name	item	Runescroll of bloodbark
 Soulreaper axe	Machado Ceifador de Almas	name	item	Soulreaper axe
 Ultor ring	Anel de Ultor	name	item	Ultor ring
 Magus ring	Anel de Magus	name	item	Magus ring
@@ -8610,24 +8610,24 @@ Big harpoonfish	Peixe-arpão grande	name	item	Big harpoonfish
 Stuffed big harpoonfish	Peixe-arpão grande empalhado	name	item	Stuffed big harpoonfish
 Mounted harpoonfish	Peixe-arpão montado	name	item	Mounted harpoonfish
 Raw harpoonfish	Peixe-arpão cru	name	item	Raw harpoonfish
-Harpoonfish	Peixe-arpão 	name	item	Harpoonfish
-Crystallised harpoonfish	Peixe-arpão cristalizado 	name	item	Crystallised harpoonfish
+Harpoonfish	Peixe-arpão	name	item	Harpoonfish
+Crystallised harpoonfish	Peixe-arpão cristalizado	name	item	Crystallised harpoonfish
 The desert trout - ship's log	Diário de bordo - A Truta do Deserto	name	item	The desert trout - ship's log
 Spirit anglers research notes	Notas de pesquisa dos pescadores	name	item	Spirit anglers research notes
 Damp egg	Ovo molhado	name	item	Damp egg
-Tome of water	Tomo da Água 	name	item	Tome of water
-Tome of water (empty)	Tomo da Água (sem carga)	name	item	Tome of water (empty)
+Tome of water	Tomo da água	name	item	Tome of water
+Tome of water (empty)	Tomo da água (sem carga)	name	item	Tome of water (empty)
 Soaked page	Página encharcada	name	item	Soaked page
 Tackle box	Caixa de ferramentas para pesca	name	item	Tackle box
 Fish barrel	Barril de peixes	name	item	Fish barrel
-Open fish barrel	Barril de peixes aberto 	name	item	Open fish barrel
+Open fish barrel	Barril de peixes aberto	name	item	Open fish barrel
 Fish sack barrel	Sacorril de peixes	name	item	Fish sack barrel
 Open fish sack barrel	Sacorril de peixes aberto	name	item	Open fish sack barrel
 Spirit flakes	Flocos de marinheiro	name	item	Spirit flakes
-Spirit angler headband	Bandana de pescador marinheiro 	name	item	Spirit angler headband
-Spirit angler top	Camisa de pescador marinheiro 	name	item	Spirit angler top
-Spirit angler waders	Boca-de-sino de pescador marinheiro 	name	item	Spirit angler waders
-Spirit angler boots	Botas de pescador marinheiro 	name	item	Spirit angler boots
+Spirit angler headband	Bandana de pescador marinheiro	name	item	Spirit angler headband
+Spirit angler top	Camisa de pescador marinheiro	name	item	Spirit angler top
+Spirit angler waders	Boca-de-sino de pescador marinheiro	name	item	Spirit angler waders
+Spirit angler boots	Botas de pescador marinheiro	name	item	Spirit angler boots
 Great blue heron	Garça majestosa azul	name	item	Great blue heron
 Tiny tempor	Mini tempor	name	item	Tiny tempor
 Gregg's eastdoor	Porta leste de Gregg	name	item	Gregg's eastdoor
@@ -8651,9 +8651,9 @@ Imcando hammer	Martelo Imcando	name	item	Imcando hammer
 Simple lockbox	Cofre simples	name	item	Simple lockbox
 Elaborate lockbox	Cofre elaborado	name	item	Elaborate lockbox
 Ornate lockbox	Cofre ornamentado	name	item	Ornate lockbox
-Raw guppy	Glub cru	name	item	Raw guppy
-Guppy	Glub 	name	item	Guppy
-Ruined guppy	Glub arruinado	name	item	Ruined guppy
+Raw guppy	Barrigudinho cru	name	item	Raw guppy
+Guppy	Barrigudinho	name	item	Guppy
+Ruined guppy	Barrigudinho arruinado	name	item	Ruined guppy
 Raw cavefish	Peixe-caverna cru	name	item	Raw cavefish
 Cavefish	Peixe-caverna	name	item	Cavefish
 Ruined cavefish	Peixe-caverna arruinado	name	item	Ruined cavefish
@@ -8668,7 +8668,7 @@ Barronite deposit	Depósito de barronita	name	item	Barronite deposit
 Ancient globe	Globo muito antigo	name	item	Ancient globe
 Ancient ledger	Livro muito antigo	name	item	Ancient ledger
 Ancient astroscope	Astroscópio antigo	name	item	Ancient astroscope
-Ancient treatise	Tratado muito antigo 	name	item	Ancient treatise
+Ancient treatise	Tratado muito antigo	name	item	Ancient treatise
 Ancient carcanet	Colar muito antigo	name	item	Ancient carcanet
 Mind core	Núcleo da mente	name	item	Mind core
 Body core	Núcleo corporal	name	item	Body core
@@ -8705,7 +8705,7 @@ Antipoison (+)(1)	Antiveneno (+)(1)	name	item	Antipoison (+)(1)
 Antipoison (+)(2)	Antiveneno (+)(2)	name	item	Antipoison (+)(2)
 Antipoison (+)(3)	Antiveneno (+)(3)	name	item	Antipoison (+)(3)
 Antipoison (+)(4)	Antiveneno (+)(4)	name	item	Antipoison (+)(4)
-Fiendish ashes	Cinzas demoníacas 	name	item	Fiendish ashes
+Fiendish ashes	Cinzas demoníacas	name	item	Fiendish ashes
 Vile ashes	Cinzas desprezíveis	name	item	Vile ashes
 Malicious ashes	Cinzas perversas	name	item	Malicious ashes
 Abyssal ashes	Cinzas abissais	name	item	Abyssal ashes
@@ -8715,7 +8715,7 @@ Bone	Osso	name	item	Bone
 Rose	Rose	name	item	Rose
 Delivery confirmation	Confirmação de entrega	name	item	Delivery confirmation
 Order form	Formulário de pedido	name	item	Order form
-Demonic incantations	Cantos demoníacos 	name	item	Demonic incantations
+Demonic incantations	Cantos demoníacos	name	item	Demonic incantations
 Bloody knife	Faca manchada de sangue	name	item	Bloody knife
 Cultist robe	Túnicas do cultista	name	item	Cultist robe
 Kourend map	Mapa de Kourend	name	item	Kourend map
@@ -8838,7 +8838,7 @@ Group ironman helm	Elmo do Modo Independente em Grupo	name	item	Group ironman he
 Group ironman platebody	Cota do Modo Independente em Grupo	name	item	Group ironman platebody
 Group ironman platelegs	Perneiras do Modo Independente em Grupo	name	item	Group ironman platelegs
 Group ironman bracers	Braceleiras do Modo Independente em Grupo	name	item	Group ironman bracers
-Hardcore group ironman helm	Elmo do Modo Independente Extremo em Grupo 	name	item	Hardcore group ironman helm
+Hardcore group ironman helm	Elmo do Modo Independente Extremo em Grupo	name	item	Hardcore group ironman helm
 Hardcore group ironman platebody	Cota do Modo Independente Extremo em Grupo	name	item	Hardcore group ironman platebody
 Hardcore group ironman platelegs	Perneiras do Modo Independente Extremo em Grupo	name	item	Hardcore group ironman platelegs
 Hardcore group ironman bracers	Braceleiras do Modo Independente Extremo em Grupo	name	item	Hardcore group ironman bracers
@@ -8879,7 +8879,7 @@ Festive mulled wine	Vinho quente festivo	name	item	Festive mulled wine
 Snow	Neve	name	item	Snow
 Secret santa present	Presente do Papai Noel secreto	name	item	Secret santa present
 Chocolate chips	Gotas de chocolate	name	item	Chocolate chips
-A big present	Um presente grande 	name	item	A big present
+A big present	Um presente grande	name	item	A big present
 Festive elf slippers	Chinelos de elfo festivos	name	item	Festive elf slippers
 Festive elf hat	Chapéu de elfo festivo	name	item	Festive elf hat
 Snowman ring	Anel de boneco da neve	name	item	Snowman ring
@@ -8890,7 +8890,7 @@ Secret santa present (black)	Presente do Papai Noel secreto (preto)	name	item	Se
 Secret santa present (gold)	Presente do Papai Noel secreto (dourado)	name	item	Secret santa present (gold)
 Little snowball	Bola de neve minúscula	name	item	Little snowball
 Small snowball	Bola de neve pequena	name	item	Small snowball
-Normal snowball	Bola de neve regular 	name	item	Normal snowball
+Normal snowball	Bola de neve regular	name	item	Normal snowball
 Big snowball	Bola de neve grande	name	item	Big snowball
 Large snowball	Bola de neve muito grande	name	item	Large snowball
 Huge snowball	Bola de neve enorme	name	item	Huge snowball
@@ -8910,7 +8910,7 @@ Important letter	Carta importante	name	item	Important letter
 Nihil dust	Pó de Nihil	name	item	Nihil dust
 Ancient hilt	Cabo de espada antigo	name	item	Ancient hilt
 Nihil horn	Chifre de Nihil	name	item	Nihil horn
-Zaryte crossbow	Balesra de Zaryte	name	item	Zaryte crossbow
+Zaryte crossbow	Balestra de Zaryte	name	item	Zaryte crossbow
 Torva full helm (damaged)	Elmo completo de Torva (danificado)	name	item	Torva full helm (damaged)
 Torva platebody (damaged)	Cota de placa de Torva (danificada)	name	item	Torva platebody (damaged)
 Torva platelegs (damaged)	Perneiras de placa de Torva (danificada)	name	item	Torva platelegs (damaged)
@@ -9448,10 +9448,10 @@ Forgotten brew(1)	Poção esquecida (1)	name	item	Forgotten brew(1)
 Saturated heart	Coração saturado	name	item	Saturated heart
 Charged ice	Gelo carregado	name	item	Charged ice
 Mystic cards	Cartas místicas	name	item	Mystic cards
-Webweaver bow (u)	Arco tecelão (u)	name	item	Webweaver bow (u)
-Webweaver bow	Arco tecelão	name	item	Webweaver bow
-Ursine chainmace (u)	Maça de corrente ursina (u)	name	item	Ursine chainmace (u)
-Ursine chainmace	Maça de corrente ursina	name	item	Ursine chainmace
+Webweaver bow (u)	Arco tece-teias (u)	name	item	Webweaver bow (u)
+Webweaver bow	Arco tece-teias	name	item	Webweaver bow
+Ursine chainmace (u)	Maça ursina (u)	name	item	Ursine chainmace (u)
+Ursine chainmace	Maça ursina	name	item	Ursine chainmace
 Accursed sceptre (u)	Cetro amaldiçoado (u)	name	item	Accursed sceptre (u)
 Accursed sceptre	Cetro amaldiçoado	name	item	Accursed sceptre
 Claws of callisto	Garras de Callisto	name	item	Claws of callisto
@@ -10186,7 +10186,7 @@ Soul talisman	Talismã da alma	name	item	Soul talisman
 Pointed myre snelm	Caraquelmo pontudo de myre	name	item	Pointed myre snelm
 Pointed blood'n'tar snelm	Caraquelmo pontudo sangue e piche	name	item	Pointed blood'n'tar snelm
 Pointed ochre snelm	Caraquelmo pontudo ocre	name	item	Pointed ochre snelm
-Pointed bruise blue snelm	Caraquelmo pontudo roxo 	name	item	Pointed bruise blue snelm
+Pointed bruise blue snelm	Caraquelmo pontudo roxo	name	item	Pointed bruise blue snelm
 Auto-weed (deactivated)	Auto-capina (desativado)	name	item	Auto-weed (deactivated)
 Gricoller's can (refill)	Regador de Gricoller (reencher)	name	item	Gricoller's can (refill)
 Auto-weed (activated)	Auto-capina (ativado)	name	item	Auto-weed (activated)
@@ -10692,7 +10692,7 @@ Demon dung	Estrume demoníaco	name	item	Demon dung
 Oathplate helm	Elmo do Juramento	name	item	Oathplate helm
 Oathplate chest	Cota do Juramento	name	item	Oathplate chest
 Oathplate legs	Perneiras do Juramento	name	item	Oathplate legs
-Soulflame horn	Chifre de chama da alma	name	item	Soulflame horn
+Soulflame horn	Chifre da Chama das Almas	name	item	Soulflame horn
 Forgotten lockbox	Cofre esquecido	name	item	Forgotten lockbox
 Oathplate shards	Fragmentos de placa do juramento	name	item	Oathplate shards
 Aether catalyst	Catalisador de éter	name	item	Aether catalyst
@@ -10732,10 +10732,10 @@ Infernal nugget	Pepita infernal	name	item	Infernal nugget
 Cooled infernal chunk	Pedaço infernal resfriado	name	item	Cooled infernal chunk
 Infernal chunk	Pedaço infernal	name	item	Infernal chunk
 Infernal plate	Placa infernal	name	item	Infernal plate
-Surge potion(4)	Poção de surto (4)	name	item	Surge potion(4)
-Surge potion(3)	Poção de Surto (3)	name	item	Surge potion(3)
-Surge potion(2)	Poção de Surto (2)	name	item	Surge potion(2)
-Surge potion(1)	Poção de Surto (1)	name	item	Surge potion(1)
+Surge potion(4)	Poção do impulso(4)	name	item	Surge potion(4)
+Surge potion(3)	Poção do impulso(3)	name	item	Surge potion(3)
+Surge potion(2)	Poção do impulso(2)	name	item	Surge potion(2)
+Surge potion(1)	Poção do impulso(1)	name	item	Surge potion(1)
 Polycatalytic guardian stone	Pedra Guardiã Policatalítica	name	item	Polycatalytic guardian stone
 Yami	Yami	name	item	Yami
 Rotten turnip	Nabo podre	name	item	Rotten turnip
@@ -10830,7 +10830,7 @@ Eye of ayak (uncharged)	Olho de ayak (sem carga)	name	item	Eye of ayak (uncharge
 Old letter	Carta antiga	name	item	Old letter
 Blueberry muffin	Bolinho de mirtilo	name	item	Blueberry muffin
 Dom	Dom	name	item	Dom
-level	nível	name	level	
+level	nível-	name	level	
 Redemption	Redenção	name	menu	prayerTab
 Protect Item	Proteção de Item	name	menu	prayerTab
 Incredible Reflexes	Megarreflexo	name	menu	prayerTab
@@ -10860,7 +10860,7 @@ Clarity of Thought	Lucidez	name	menu	prayerTab
 Rapid Restore	Recuperação Rápida	name	menu	prayerTab
 Rapid Heal	Cura Rápida	name	menu	prayerTab
 Steel Skin	Pele de Aço	name	menu	prayerTab
-Lumbridge Home Teleport	Telerretorno para Lumbridge 	name	menu	spellBookTab
+Lumbridge Home Teleport	Telerretorno para Lumbridge	name	menu	spellBookTab
 Wind Strike	Aerobala	name	menu	spellBookTab
 Confuse	Confusão	name	menu	spellBookTab
 Crossbow Bolt Enchantments	Encantamentos de Seta de Balestra	name	menu	spellBookTab
@@ -11029,7 +11029,7 @@ Resurrect Greater Ghost	Rescussitar Fantasma Supremo	name	menu	spellBookTab
 Resurrect Greater Skeleton	Rescussitar Esqueleto Supremo	name	menu	spellBookTab
 Resurrect Greater Zombie	Rescussitar Zumbi Supremo	name	menu	spellBookTab
 Resurrect Crops	Rescussitar Plantação	name	menu	spellBookTab
-Undead Grasp	Garra Porfana	name	menu	spellBookTab
+Undead Grasp	Garra Profana	name	menu	spellBookTab
 Death Charge	Carga da Morte	name	menu	spellBookTab
 Dark Demonbane	Demonífugo Sombrio	name	menu	spellBookTab
 Barrows Teleport	Teleporte para Barrows	name	menu	spellBookTab
@@ -11085,11 +11085,11 @@ Wilderness Elite Diary	Diário Elite da Terra Selvagem	name	menu	achievementDiar
 Wilderness Hard Diary	Diário Difícil da Terra Selvagem	name	menu	achievementDiaryTab
 Wilderness Medium Diary	Diário Médio da Terra Selvagem	name	menu	achievementDiaryTab
 Wilderness Easy Diary	Diário Fácil da Terra Selvagem	name	menu	achievementDiaryTab
-Old School Website	Site do Old School 	name	menu	accountManagementTab
-Customer Support	Suporte ao Jogador 	name	menu	accountManagementTab
+Old School Website	Site do Old School	name	menu	accountManagementTab
+Customer Support	Suporte ao Jogador	name	menu	accountManagementTab
 Grand Exchange	Mercado Geral	name	menu	accountManagementTab
-Hiscores	Classificações 	name	menu	accountManagementTab
-Old School Wiki	Old School Wiki 	name	menu	accountManagementTab
+Hiscores	Classificações	name	menu	accountManagementTab
+Old School Wiki	Old School Wiki	name	menu	accountManagementTab
 Merchandise	Nossos produtos	name	menu	accountManagementTab
 <col=ff9040>PvP Arena</col> options	<col=ff9040>PvP Arena</col> opções	name	menu	groupTab
 Music	Música	name	menu	settingsTab
@@ -11097,24 +11097,24 @@ Sound Effects	Efeitos Sonoros	name	menu	settingsTab
 Area Sounds	Sons Ambientes	name	menu	settingsTab
 XP drops	Informe de XP	name	menu	
 Quick-prayers	Orações-Rápidas	name	menu	
-Special Attack	Ataque Especial 	name	menu	
+Special Attack	Ataque Especial	name	menu	
 Instance Map	Mapa instanciado	name	menu	
 Ground Markers	Ground Markers	name	menu	
 Wiki	Wiki	name	menu	
-Attack	Ataque 	name	menu	
+Attack	Ataque	name	menu	
 Hitpoints	Pontos Vitais	name	menu	
-Mining	Mineração 	name	menu	
-Strength	Força 	name	menu	
+Mining	Mineração	name	menu	
+Strength	Força	name	menu	
 Agility	Agilidade	name	menu	
 Smithing	Metalurgia	name	menu	
 Defence	Defesa	name	menu	
-Herblore	Herbologia 	name	menu	
+Herblore	Herbologia	name	menu	
 Fishing	Pesca	name	menu	
-Ranged	Combate à Distância 	name	menu	
+Ranged	Combate à Distância	name	menu	
 Thieving	Roubo	name	menu	
-Cooking	Culinária 	name	menu	
-Prayer	Oração 	name	menu	
-Crafting	Artesanato 	name	menu	
+Cooking	Culinária	name	menu	
+Prayer	Oração	name	menu	
+Crafting	Artesanato	name	menu	
 Firemaking	Arte do Fogo	name	menu	
 Magic	Magia	name	menu	
 Fletching	Arco e Flecha	name	menu	
@@ -11123,7 +11123,7 @@ Runecraft	Criação de Runas	name	menu
 Slayer	Extermínio	name	menu	
 Farming	Agricultura	name	menu	
 Construction	Construção	name	menu	
-Hunter	Caça 	name	menu	
+Hunter	Caça	name	menu	
 Search	Pesquisar	name	menu	
 Tool Leprechaun	Leprechaun da ferramenta	name	npc	Tool Leprechaun
 Molanisk	Molanisco	name	npc	Molanisk
@@ -11218,7 +11218,7 @@ Reacher	Reacher	name	npc	Reacher
 Ayesha	Ayesha	name	npc	Ayesha
 Ironman tutor	Tutor do Modo Ironman	name	npc	Ironman tutor
 Frog	Rã	name	npc	Frog
-Leagues Tutor	Tutor das Ligas 	name	npc	Leagues Tutor
+Leagues Tutor	Tutor das Ligas	name	npc	Leagues Tutor
 Dark core	Núcleo sombrio	name	npc	Dark core
 Corporeal Beast	Fera Corpórea	name	npc	Corporeal Beast
 Dark energy core	Núcleo de energia sombria	name	npc	Dark energy core
@@ -11249,7 +11249,7 @@ Trotters	Garfield	name	npc	Trotters
 Servant	Criada	name	npc	Servant
 Rod Fishing spot	Local de pesca com vara	name	npc	Rod Fishing spot
 Cat	Gato	name	npc	Cat
-Jon	João 	name	npc	Jon
+Jon	João	name	npc	Jon
 Guard	Guarda	name	npc	Guard
 Turael	Turael	name	npc	Turael
 Mazchna	Mazchna	name	npc	Mazchna
@@ -11287,7 +11287,7 @@ Cave kraken	Kraken da Caverna	name	npc	Cave kraken
 Whirlpool	Redemoinho	name	npc	Whirlpool
 Kraken	Kraken	name	npc	Kraken
 Venenatis spiderling	Aranhinha Venenatis	name	npc	Venenatis spiderling
-Callisto cub	Ursinho Calistinho 	name	npc	Callisto cub
+Callisto cub	Ursinho Calistinho	name	npc	Callisto cub
 Smoke devil	Diabo de fumaça	name	npc	Smoke devil
 Thermonuclear smoke devil	Diabo de fumaça termonuclear	name	npc	Thermonuclear smoke devil
 Olivia	Olívia	name	npc	Olivia
@@ -11390,7 +11390,7 @@ Ashild	Ashild	name	npc	Ashild
 Skraeling	Skraeling	name	npc	Skraeling
 Fishmonger	Vendedor de Peixe	name	npc	Fishmonger
 Greengrocer	Verdureiro	name	npc	Greengrocer
-Ethereal Being	Ser Etéreo 	name	npc	Ethereal Being
+Ethereal Being	Ser Etéreo	name	npc	Ethereal Being
 Ethereal Numerator	Numerador etéreo	name	npc	Ethereal Numerator
 Ethereal Expert	Perito etéreo	name	npc	Ethereal Expert
 Ethereal Perceptive	Observador etéreo	name	npc	Ethereal Perceptive
@@ -11448,7 +11448,7 @@ Gargh	Gargh	name	npc	Gargh
 Scarg	Scarg	name	npc	Scarg
 Gruh	Gruh	name	npc	Gruh
 Irwin Feaselbaum	Irwin Feaselbaum	name	npc	Irwin Feaselbaum
-Moss Guardian	Guardião de Líquen 	name	npc	Moss Guardian
+Moss Guardian	Guardião de Líquen	name	npc	Moss Guardian
 Golrie	Golrie	name	npc	Golrie
 Father Reen	Padre Reen	name	npc	Father Reen
 Father Badden	Padre Badden	name	npc	Father Badden
@@ -11670,7 +11670,7 @@ Bernald	Bernald	name	npc	Bernald
 Queen Ellamaria	Rainha Ellamaria	name	npc	Queen Ellamaria
 Trolley	Vagonete	name	npc	Trolley
 Billy, a guard of Falador	Billy, um guarda de Falador	name	npc	Billy, a guard of Falador
-Bob, another guard of Falador	Bob, outro guarda de Falador 	name	npc	Bob, another guard of Falador
+Bob, another guard of Falador	Bob, outro guarda de Falador	name	npc	Bob, another guard of Falador
 Brother Althric	Irmão Althric	name	npc	Brother Althric
 PKMaster0036	PKMaster0036	name	npc	PKMaster0036
 King Roald	Rei Roald	name	npc	King Roald
@@ -11850,7 +11850,7 @@ Blue Monkey	Macaco azul	name	npc	Blue Monkey
 Red Monkey	Macaco vermelho	name	npc	Red Monkey
 Parrot	Papagaio	name	npc	Parrot
 Swan	Cisne	name	npc	Swan
-Black swan	Cisne negro 	name	npc	Black swan
+Black swan	Cisne negro	name	npc	Black swan
 Bandit shopkeeper	Lojista bandoleiro	name	npc	Bandit shopkeeper
 Gorak	Gorak	name	npc	Gorak
 Cosmic Being	Ente cósmico	name	npc	Cosmic Being
@@ -11923,7 +11923,7 @@ Gruva Patrull	Gruva Patrull	name	npc	Gruva Patrull
 Brendt	Brendt	name	npc	Brendt
 Grundt	Grundt	name	npc	Grundt
 Duckling	Patinha	name	npc	Duckling
-Ducklings	Patinhos 	name	npc	Ducklings
+Ducklings	Patinhos	name	npc	Ducklings
 Drake	Drake	name	npc	Drake
 Lesser demon	Demônio inferior	name	npc	Lesser demon
 Greater demon	Demônio superior	name	npc	Greater demon
@@ -11964,7 +11964,7 @@ Aisles	Aisles	name	npc	Aisles
 Lorelai	Lorelai	name	npc	Lorelai
 Rory	Rory	name	npc	Rory
 Sraracha	Sraracha	name	npc	Sraracha
-Undead Druid	Druida morto-vivo 	name	npc	Undead Druid
+Undead Druid	Druida morto-vivo	name	npc	Undead Druid
 Grand Exchange Clerk	Balconista do Mercado Geral	name	npc	Grand Exchange Clerk
 Brugsen Bursen	Brugsen Bursen	name	npc	Brugsen Bursen
 Gunnjorn	Gunnjorn	name	npc	Gunnjorn
@@ -12076,7 +12076,7 @@ Customer	Cliente	name	npc	Customer
 Dromund	Dromund	name	npc	Dromund
 Rind the gardener	Rind o jardineiro	name	npc	Rind the gardener
 Factory Manager	Gerente da fábrica	name	npc	Factory Manager
-Factory Worker	Trabalhador da fábrica 	name	npc	Factory Worker
+Factory Worker	Trabalhador da fábrica	name	npc	Factory Worker
 Inn Keeper	Taverneiro	name	npc	Inn Keeper
 Barmaid	Garçonete	name	npc	Barmaid
 Cart conductor	Condutor do vagonete	name	npc	Cart conductor
@@ -12309,7 +12309,7 @@ Stray dog	Cão de rua	name	npc	Stray dog
 Orange salamander	Salamandra alaranjada	name	npc	Orange salamander
 Red salamander	Salamandra vermelha	name	npc	Red salamander
 Black salamander	Salamandra negra	name	npc	Black salamander
-Swamp lizard	Lagarto do pântano 	name	npc	Swamp lizard
+Swamp lizard	Lagarto do pântano	name	npc	Swamp lizard
 Sabre-toothed kyatt	Kyatt com dentes de sabre	name	npc	Sabre-toothed kyatt
 Spined larupia	Larúpia espinhosa	name	npc	Spined larupia
 Horned graahk	Graahk com chifres	name	npc	Horned graahk
@@ -12352,7 +12352,7 @@ Undead cow	Vaca morta-viva	name	npc	Undead cow
 Undead chicken	Galinha morta-viva	name	npc	Undead chicken
 Giant lobster	Lagosta gigante	name	npc	Giant lobster
 Robin	Robin	name	npc	Robin
-Old crone	Mulher velha 	name	npc	Old crone
+Old crone	Mulher velha	name	npc	Old crone
 Old man	Homem velho	name	npc	Old man
 Ghost villager	Aldeão fantasma	name	npc	Ghost villager
 Tortured soul	Alma torturada	name	npc	Tortured soul
@@ -12374,7 +12374,7 @@ Poison spider	Aranha venenosa	name	npc	Poison spider
 Poison Scorpion	Escorpião venenoso	name	npc	Poison Scorpion
 Pit Scorpion	Escorpião do fosso	name	npc	Pit Scorpion
 King Scorpion	Rei Escorpião	name	npc	King Scorpion
-Barbarian	Bárbaro 	name	npc	Barbarian
+Barbarian	Bárbaro	name	npc	Barbarian
 Hunding	Hunding	name	npc	Hunding
 Phoenix	Fênix	name	npc	Phoenix
 Chief servant	Chefe dos Servos	name	npc	Chief servant
@@ -12410,7 +12410,7 @@ Flight Kilisa	Kilisa da Fuga	name	npc	Flight Kilisa
 Aviansie	Aviansie	name	npc	Aviansie
 Dagannoth spawn	Cria de dagannoth	name	npc	Dagannoth spawn
 Brian O'Richard	Brian O'Richard	name	npc	Brian O'Richard
-Rogue Guard	Guarda Pária 	name	npc	Rogue Guard
+Rogue Guard	Guarda Pária	name	npc	Rogue Guard
 Martin Thwait	Martin Thwait	name	npc	Martin Thwait
 Emerald Benedict	Benedito Esmeralda	name	npc	Emerald Benedict
 Spin Blades	Lâminas giratórias	name	npc	Spin Blades
@@ -12430,7 +12430,7 @@ Harry	Harry	name	npc	Harry
 Cassie	Cassie	name	npc	Cassie
 Frincos	Frincos	name	npc	Frincos
 Melee combat tutor	Tutor de Combate Corpo a Corpo	name	npc	Melee combat tutor
-Ranged combat tutor	Tutor de Combate à Distância 	name	npc	Ranged combat tutor
+Ranged combat tutor	Tutor de Combate à Distância	name	npc	Ranged combat tutor
 Magic combat tutor	Tutor de Combate Mágico	name	npc	Magic combat tutor
 Cooking tutor	Tutor de Culinária	name	npc	Cooking tutor
 Crafting tutor	Tutor de Artesanato	name	npc	Crafting tutor
@@ -12479,7 +12479,7 @@ Gielinor Guide	Tutor de Guilenor	name	npc	Gielinor Guide
 Magic Instructor	Instrutor de Magia	name	npc	Magic Instructor
 Account Guide	Tutor da conta	name	npc	Account Guide
 Mining Instructor	Instrutor de Mineração	name	npc	Mining Instructor
-Quest Guide	Tutor de Missões 	name	npc	Quest Guide
+Quest Guide	Tutor de Missões	name	npc	Quest Guide
 Brother Brace	Irmão Brace	name	npc	Brother Brace
 Larxus	Larxus	name	npc	Larxus
 Mystery figure	Guerreiro misterioso	name	npc	Mystery figure
@@ -12546,7 +12546,7 @@ Dessous	Dessous	name	npc	Dessous
 Ruantun	Ruantun	name	npc	Ruantun
 Cyrisus	Cyrisus	name	npc	Cyrisus
 Fallen Man	Homem caído	name	npc	Fallen Man
-'Bird's-Eye' Jack	Jack 'olho de pássaro' 	name	npc	'Bird's-Eye' Jack
+Bird's-Eye' Jack	Jack 'olho de pássaro'	name	npc	Bird's-Eye' Jack
 The Inadequacy	A Insuficiência	name	npc	The Inadequacy
 The Everlasting	A Eternidade	name	npc	The Everlasting
 The Untouchable	O Intocável	name	npc	The Untouchable
@@ -12622,12 +12622,12 @@ Effigy	Effigy	name	npc	Effigy
 Bonafido	Bonafido	name	npc	Bonafido
 Homunculus	Homúnculo	name	npc	Homunculus
 Cage	Jaula	name	npc	Cage
-'Transmute' The Alchemist	"""Transmutador"", o Alquimista"	name	npc	'Transmute' The Alchemist
-'Currency' The Alchemist	"""Moedeiro"", o Alquimista"	name	npc	'Currency' The Alchemist
-'Black-eye'	"""Olho-roxo"""	name	npc	'Black-eye'
-'No fingers'	"""O Sem-dedos"""	name	npc	'No fingers'
-'Gummy'	"""Gomoso"""	name	npc	'Gummy'
-'The Guns'	"""Músculos"""	name	npc	'The Guns'
+Transmute' The Alchemist	Transmutador, o Alquimista	name	npc	Transmute' The Alchemist
+Currency' The Alchemist	Moedeiro, o Alquimista	name	npc	Currency' The Alchemist
+Black-eye'	Olho-roxo	name	npc	Black-eye'
+No fingers'	O Sem-dedos	name	npc	No fingers'
+Gummy'	Gomoso	name	npc	Gummy'
+The Guns'	Músculos	name	npc	The Guns'
 Frogeel	Sapia	name	npc	Frogeel
 Unicow	Vacórnio	name	npc	Unicow
 Spidine	Sardanha	name	npc	Spidine
@@ -12714,11 +12714,11 @@ Enchanted Bucket	Balde encantado	name	npc	Enchanted Bucket
 Bouquet Mac Hyacinth	Bouquet Mac Hyacinth	name	npc	Bouquet Mac Hyacinth
 Lokar Searunner	Lokar Corremar	name	npc	Lokar Searunner
 Cabin boy	Grumete	name	npc	Cabin boy
-'Beefy' Burns	Burns 'Musculoso'	name	npc	'Beefy' Burns
-'Eagle-eye' Shultz	Shultz 'Olhos de Águia'	name	npc	'Eagle-eye' Shultz
+Beefy' Burns	Burns 'Musculoso'	name	npc	Beefy' Burns
+Eagle-eye' Shultz	Shultz 'Olhos de Águia'	name	npc	Eagle-eye' Shultz
 First mate 'Davey-boy'	Imediato 'Garoto Davey'	name	npc	First mate 'Davey-boy'
-'Birds-Eye' Jack	Jack Olhos de Pássaro	name	npc	'Birds-Eye' Jack
-'Picarron' Pete	Pete 'Picarron'	name	npc	'Picarron' Pete
+Birds-Eye' Jack	Jack Olhos de Pássaro	name	npc	Birds-Eye' Jack
+Picarron' Pete	Pete 'Picarron'	name	npc	Picarron' Pete
 Jake	Jake	name	npc	Jake
 Bedread the bold	Bedread o corajoso	name	npc	Bedread the bold
 Wilson	Wilson	name	npc	Wilson
@@ -12726,11 +12726,11 @@ Tommy 2-times	Tommy 2 vezes	name	npc	Tommy 2-times
 Murky Pat	Pat Sombrio	name	npc	Murky Pat
 Jack Sails	Jack Velas	name	npc	Jack Sails
 Palmer	Marco Palmeira	name	npc	Palmer
-'Betty' B.Boppin	Betty' B.Boppin	name	npc	'Betty' B.Boppin
-'Beedy-eye' Jones	Jones Olhos de Bolita	name	npc	'Beedy-eye' Jones
+Betty' B.Boppin	Betty' B.Boppin	name	npc	Betty' B.Boppin
+Beedy-eye' Jones	Jones Olhos de Bolita	name	npc	Beedy-eye' Jones
 Jenny Blade	Jenny Lâmina	name	npc	Jenny Blade
-'Lecherous' Lee	Lee Lascivo	name	npc	'Lecherous' Lee
-'Sticky' Sanders	'Sticky' Sanders	name	npc	'Sticky' Sanders
+Lecherous' Lee	Lee Lascivo	name	npc	Lecherous' Lee
+Sticky' Sanders	Sticky' Sanders	name	npc	Sticky' Sanders
 Jex	Jex	name	npc	Jex
 Maisa	Maisa	name	npc	Maisa
 Sophanem Guard	Guarda de Sophanem	name	npc	Sophanem Guard
@@ -12937,7 +12937,7 @@ Colonel Radick	Coronel Radick	name	npc	Colonel Radick
 Ava	Ava	name	npc	Ava
 Malcolm	Tédison	name	npc	Malcolm
 Undead tree	Árvore morta-viva	name	npc	Undead tree
- Sneaky undead fowl	Ave sorrateira morta-viva	name	npc	 Sneaky undead fowl
+Sneaky undead fowl	Ave sorrateira morta-viva	name	npc	Sneaky undead fowl
 Cow31337Killer	Cow31337Killer	name	npc	Cow31337Killer
 Jossik	Jossik	name	npc	Jossik
 Larrissa	Larrissa	name	npc	Larrissa
@@ -14939,7 +14939,7 @@ Faisal the Barman	Faisal o barman	name	npc	Faisal the Barman
 Isma'il The Kebab Seller	Isma'il o vendedor de kebab	name	npc	Isma'il The Kebab Seller
 Sami the Camel Man	Sami o vendedor de camelos	name	npc	Sami the Camel Man
 Hakeem the Mayor	Hakeem o prefeito	name	npc	Hakeem the Mayor
-Alisha the Hag	Alisha a Feiticeira 	name	npc	Alisha the Hag
+Alisha the Hag	Alisha a Feiticeira	name	npc	Alisha the Hag
 Badir the Snake Charmer	Badir o encantador de cobras	name	npc	Badir the Snake Charmer
 Jasim the Camel	Jasim o camelo	name	npc	Jasim the Camel
 Ibil the Camel	Ibil o Camelo	name	npc	Ibil the Camel
@@ -14952,7 +14952,7 @@ Spindel	Spindel	name	npc	Spindel
 Venenatis' Spiderling	Araninha Venenatis	name	npc	Venenatis' Spiderling
 Spindel's Spiderling	Araninha Spindel	name	npc	Spindel's Spiderling
 Muphin	Muphim	name	npc	Muphin
-Door Guard	Guarda 	name	npc	Door Guard
+Door Guard	Guarda	name	npc	Door Guard
 Lady Servil	Lady Servil	name	npc	Lady Servil
 Sammy Servil	Sammy Servil	name	npc	Sammy Servil
 Justin Servil	Justin Servil	name	npc	Justin Servil
@@ -15260,8 +15260,8 @@ Fisher	Pescador	name	npc	Fisher
 Nelta of Ralos	Nelta de Ralos	name	npc	Nelta of Ralos
 Nelta of Ranul	Nelta de Ranul	name	npc	Nelta of Ranul
 Curator	Curadora	name	npc	Curator
-Academic	Acadêmica	name	npc	Academic
-Wealthy citizen	Cidadã rica	name	npc	Wealthy citizen
+Academic	Acadêmico	name	npc	Academic
+Wealthy citizen	Cidadão rico	name	npc	Wealthy citizen
 Julia	Julia	name	npc	Julia
 Aurelia	Aurelia	name	npc	Aurelia
 Cassius	Cassius	name	npc	Cassius
@@ -16413,7 +16413,7 @@ Lift	Elevador	name	object	Lift
 Points settings	Configurações dos pontos	name	object	Points settings
 Wooden boards	Tábuas de madeira	name	object	Wooden boards
 Rope bridge	Ponte de cordas	name	object	Rope bridge
-Rare Flowers	Flores exóticas 	name	object	Rare Flowers
+Rare Flowers	Flores exóticas	name	object	Rare Flowers
 Slope	encosta	name	object	Slope
 Crevasse	Fenda	name	object	Crevasse
 Ice covered boulder	Pedra coberta com gelo	name	object	Ice covered boulder
@@ -16452,7 +16452,7 @@ Skeleton	Esqueleto	name	object	Skeleton
 Mast	Mastro	name	object	Mast
 Captain's Table	Mesa do capitão	name	object	Captain's Table
 Broken Door	Porta quebrada	name	object	Broken Door
-Jewellery stall	Barraca de jóias 	name	object	Jewellery stall
+Jewellery stall	Barraca de jóias	name	object	Jewellery stall
 Lectern	Púlpito	name	object	Lectern
 Dock leaf plant	Folha de labaça	name	object	Dock leaf plant
 Hanging tapestry	Tapeçaria pendurada	name	object	Hanging tapestry
@@ -16546,7 +16546,7 @@ Sarcophagus	Sarcófago	name	object	Sarcophagus
 Pitfall	Armadilha	name	object	Pitfall
 Sphinx	Esfinge	name	object	Sphinx
 Pyramid entrance	Entrada da pirâmide	name	object	Pyramid entrance
-Treasure Trail Statistics	Estatísticas Trilhas do Tesouro 	name	object	Treasure Trail Statistics
+Treasure Trail Statistics	Estatísticas Trilhas do Tesouro	name	object	Treasure Trail Statistics
 Suntrap	Armadilha solar	name	object	Suntrap
 Pinboard	Quadro de avisos	name	object	Pinboard
 Wall Crusher	Quebrador de paredes	name	object	Wall Crusher
@@ -16559,7 +16559,7 @@ Weeping wall	Parede que chora	name	object	Weeping wall
 Blue tears	Lágrimas azuis	name	object	Blue tears
 Green tears	Lágrimas verdes	name	object	Green tears
 Absence of tears	Ausência de lágrimas	name	object	Absence of tears
-Magical rocks	Rochas mágicas 	name	object	Magical rocks
+Magical rocks	Rochas mágicas	name	object	Magical rocks
 Gazebo	Gazebo	name	object	Gazebo
 Small fountain	Fonte pequena	name	object	Small fountain
 Large fountain	Fonte grande	name	object	Large fountain
@@ -16758,7 +16758,7 @@ Diseased Bittercap Mushrooms	Cogumelo amargorro doente	name	object	Diseased Bitt
 Dead Bittercap Mushrooms	Cogumelo amargorro morto	name	object	Dead Bittercap Mushrooms
 Spirit Tree Patch	Terreno de árvore espiritual	name	object	Spirit Tree Patch
 Spirit Tree	Árvore espiritual	name	object	Spirit Tree
-Spirit Tree Stump	Toco de árvore espiritual 	name	object	Spirit Tree Stump
+Spirit Tree Stump	Toco de árvore espiritual	name	object	Spirit Tree Stump
 Diseased Spirit Tree	Árvore espiritual doente	name	object	Diseased Spirit Tree
 Dead Spirit Tree	Árvore espiritual morta	name	object	Dead Spirit Tree
 Tree patch	Canteiro de árvores	name	object	Tree patch
@@ -16820,7 +16820,7 @@ Gnome on a rack	Gnomo aprisonado	name	object	Gnome on a rack
 Empty rack	Cavalete vazio	name	object	Empty rack
 Closed Chest	Arca fechada	name	object	Closed Chest
 Open Chest	Arca aberta	name	object	Open Chest
-Apple Press	Tonel de prensa de maçã 	name	object	Apple Press
+Apple Press	Tonel de prensa de maçã	name	object	Apple Press
 Rotten Apple Pile	Pilha de maçãs podres	name	object	Rotten Apple Pile
 Kelda Hops Patch	Canteiro de lúpulos de Kelda	name	object	Kelda Hops Patch
 Kelda Hops	Lúpulo de Kelda	name	object	Kelda Hops
@@ -17398,7 +17398,7 @@ Lander boat	Barco de desembarque	name	object	Lander boat
 Lander hatch	Entrada do convés do barco	name	object	Lander hatch
 Cable	Cabo	name	object	Cable
 Clothes line	Varal	name	object	Clothes line
-Gas bubble	Bolha de gás 	name	object	Gas bubble
+Gas bubble	Bolha de gás	name	object	Gas bubble
 Wilderness Sign	Sinal da Terra Selvagem	name	object	Wilderness Sign
 Creeper	Creeper	name	object	Creeper
 Edge	Borda	name	object	Edge
@@ -17592,7 +17592,7 @@ Wall map	Mapa de parede	name	object	Wall map
 Crate of wands	Cesta de varinhas	name	object	Crate of wands
 Tactical map frame	Wall map	name	object	Tactical map frame
 Large rock	Grande rocha	name	object	Large rock
-Waterfall	Queda d'água	name	object	Waterfall
+Waterfall	Cachoeira	name	object	Waterfall
 Rune temple sign	Sinal do templo da runa	name	object	Rune temple sign
 Tight-gap	Fenda estreita	name	object	Tight-gap
 Coal	Carvão mineral	name	object	Coal
@@ -17695,7 +17695,7 @@ Floor below	Floor below	name	object	Floor below
 Scaffolding	Andaime	name	object	Scaffolding
 Sickle logo	Logotipo de foice	name	object	Sickle logo
 The middle of a fireplace	O meio de uma lareira	name	object	The middle of a fireplace
-Left side of a fireplace	Lado esquerdo de uma lareira 	name	object	Left side of a fireplace
+Left side of a fireplace	Lado esquerdo de uma lareira	name	object	Left side of a fireplace
 Right side of a fireplace	Lado direito de uma lareira	name	object	Right side of a fireplace
 Ornate vase	Vaso adornado	name	object	Ornate vase
 Fence end	Final da cerca	name	object	Fence end
@@ -17908,9 +17908,9 @@ Craft stall	Barraca de artesanato	name	object	Craft stall
 Potter's wheel	Roda de cerâmica	name	object	Potter's wheel
 Cloth covered table	Mesa coberta com panos	name	object	Cloth covered table
 Tin ore vein	Veia com minério de estanho	name	object	Tin ore vein
-Copper ore vein	Veia com minério de cobre 	name	object	Copper ore vein
+Copper ore vein	Veia com minério de cobre	name	object	Copper ore vein
 Clay ore vein	Veia com argila	name	object	Clay ore vein
-Coal ore vein	Veia com carvão mineral 	name	object	Coal ore vein
+Coal ore vein	Veia com carvão mineral	name	object	Coal ore vein
 Adamant ore vein	Veia com minério de adamantio	name	object	Adamant ore vein
 Mithril ore vein	Veia com minério de mithril	name	object	Mithril ore vein
 Iron ore vein	Veia com minério de ferro	name	object	Iron ore vein
@@ -18258,7 +18258,7 @@ Rewards chest	Baú de recompensas	name	object	Rewards chest
 Super ranging potion	Poção de super arqueiro	name	object	Super ranging potion
 Super magic potion	Poção de super magia	name	object	Super magic potion
 Overload potion	Poção do sobrecarregamento	name	object	Overload potion
-Absorption potion	Poção de absorção 	name	object	Absorption potion
+Absorption potion	Poção de absorção	name	object	Absorption potion
 Anti-dragon shield	Escudo antidragão	name	object	Anti-dragon shield
 Magic secateurs	Podadeira mágica	name	object	Magic secateurs
 Chaos rune	Runa do caos	name	object	Chaos rune
@@ -18270,7 +18270,7 @@ Earth rune	Runa da terra	name	object	Earth rune
 Fire rune	Runa do fogo	name	object	Fire rune
 Bear droppings	Fezes de urso	name	object	Bear droppings
 Pet house space	Espaço da casa do mascote	name	object	Pet house space
-Oak house	Casinha de carvalho 	name	object	Oak house
+Oak house	Casinha de carvalho	name	object	Oak house
 Teak house	Casinha de teca	name	object	Teak house
 Mahogany house	Casinha de mogno	name	object	Mahogany house
 Battle tower	Torre de batalha	name	object	Battle tower
@@ -18565,7 +18565,7 @@ Mounted Thieving Cape	Capa do Ladrão Montada	name	object	Mounted Thieving Cape
 Mounted Thieving Cape (t)	Capa do Ladrão (enf) Montada	name	object	Mounted Thieving Cape (t)
 Mounted Woodcutting Cape	Capa do Lenhador Montada	name	object	Mounted Woodcutting Cape
 Mounted Woodcutting Cape (t)	Capa do Lenhador (enf) Montada	name	object	Mounted Woodcutting Cape (t)
-Quest List	Lista de missões 	name	object	Quest List
+Quest List	Lista de missões	name	object	Quest List
 Topiary bush	Arbusto topiário	name	object	Topiary bush
 Kraken Topiary	Topiaria Kraken	name	object	Kraken Topiary
 Zulrah Topiary	Topiaria Zulrah	name	object	Zulrah Topiary
@@ -18721,20 +18721,20 @@ Space	Espaço	name	object	Space
 Birdhouse (empty)	Casinha de pássaro (vazia)	name	object	Birdhouse (empty)
 Birdhouse	Casinha de pássaro	name	object	Birdhouse
 Oak birdhouse (empty)	Casinha de pássaro de carvalho (vazia)	name	object	Oak birdhouse (empty)
-Oak birdhouse	Casinha de pássaro de carvalho 	name	object	Oak birdhouse
+Oak birdhouse	Casinha de pássaro de carvalho	name	object	Oak birdhouse
 Willow birdhouse (empty)	Casinha de pássaro de salgueiro (vazia)	name	object	Willow birdhouse (empty)
 Willow birdhouse	Casinha de pássaro de salgueiro	name	object	Willow birdhouse
 Teak birdhouse (empty)	Casinha de pássaro de teca (vazia)	name	object	Teak birdhouse (empty)
 Teak birdhouse	Casinha de pássaro de teca	name	object	Teak birdhouse
 Barge controls	Controles da barcaça	name	object	Barge controls
-Sulliuscep	Sulliuscep	name	object	Sulliuscep
-Sulliuscep sprout	Brotinho de Sulliuscep	name	object	Sulliuscep sprout
+Sulliuscep	Suliuscepe	name	object	Sulliuscep
+Sulliuscep sprout	Brotinho de Suliuscepe	name	object	Sulliuscep sprout
 Mud pit	Poço de lama	name	object	Mud pit
 Mushy Bed	Cama meio mole	name	object	Mushy Bed
 Rubber cap mushroom	Cogumelo com tampa de borracha	name	object	Rubber cap mushroom
 Thick vine	Videira grossa	name	object	Thick vine
 Thick vines	Videiras grossas	name	object	Thick vines
-Skroom	Skroom	name	object	Skroom
+Skroom	Crumelo	name	object	Skroom
 Grim lilly	Lírio sombrio	name	object	Grim lilly
 Spine mushroom	Cogumelo espinhoso	name	object	Spine mushroom
 Pitcher plant	Planta carnívora	name	object	Pitcher plant
@@ -18807,12 +18807,12 @@ Large Fossil Support	Suporte para fósseis grandes	name	object	Large Fossil Supp
 Large Fossil Display	Expositor para fósseis grandes	name	object	Large Fossil Display
 Plant Fossil Display	Expositor para fósseis vegetais	name	object	Plant Fossil Display
 Petrified Mushtree	Árvemelo petrificado	name	object	Petrified Mushtree
-Petrified Pitcher	Copo petrificado	name	object	Petrified Pitcher
+Petrified Pitcher	Planta carnívora petrificada	name	object	Petrified Pitcher
 Petrified Spine Plant	Planta espinhosa petrificada	name	object	Petrified Spine Plant
 Petrified Large Mushroom	Cogumelo grande petrificado	name	object	Petrified Large Mushroom
 Small Fossil Display	Expositor para fósseis pequenos	name	object	Small Fossil Display
 Merfolk Skeleton	Esqueleto de sereia	name	object	Merfolk Skeleton
-Petrified Pufferfish	Peixe-balão petrificado	name	object	Petrified Pufferfish
+Petrified Pufferfish	Baiacu petrificado	name	object	Petrified Pufferfish
 Hoop Snake	Cobra-coroa	name	object	Hoop Snake
 Wyvern Egg	Ovo de wyvern	name	object	Wyvern Egg
 Crab Shell	Carapaça de caranguejo	name	object	Crab Shell
@@ -18823,7 +18823,7 @@ A Clam Shell	Uma concha de molusco	name	object	A Clam Shell
 A peculiar foot print	Uma pegada peculiar	name	object	A peculiar foot print
 A primitive joke	Uma piada primitiva	name	object	A primitive joke
 Ancient cave painting	Pintura rupestre antiga	name	object	Ancient cave painting
-Biclopse	Biclopse	name	object	Biclopse
+Biclopse	Bicrânio	name	object	Biclopse
 Wyvern skull	Crânio de wyvern	name	object	Wyvern skull
 Medium Fossil Display	Exposição de fósseis médios	name	object	Medium Fossil Display
 Lobstrosity	Lagosidade	name	object	Lobstrosity
@@ -18831,7 +18831,7 @@ Tar Thing	Coisa de Piche	name	object	Tar Thing
 Gobln Merfsh	Duende Merfsh	name	object	Gobln Merfsh
 Twocan	Tucan-dúo	name	object	Twocan
 Terror Snail	Caracol do terror	name	object	Terror Snail
-Mushtoise	Funguruga	name	object	Mushtoise
+Mushtoise	Coguruga	name	object	Mushtoise
 Shark Beast	Tubarão Fera	name	object	Shark Beast
 Mushroo	Cogumel	name	object	Mushroo
 Sabertooth Squirrel	Esquilo dente-de-sabre	name	object	Sabertooth Squirrel
@@ -19279,7 +19279,7 @@ Crystal spire	Aguilhão de cristal	name	object	Crystal spire
 Staff barrel	Barril de cajado	name	object	Staff barrel
 Wand rack	Suporte para varinhas	name	object	Wand rack
 Scroll	Pergaminho	name	object	Scroll
-Rune pouches	Bolsas de runas	name	object	Rune pouches
+Rune pouches	Alforges rúnicos	name	object	Rune pouches
 Table saw	Serra de mesa	name	object	Table saw
 Amlodd Banner	Bandeira de Amlodd	name	object	Amlodd Banner
 Cadarn Banner	Bandeira de Cadarn	name	object	Cadarn Banner
@@ -19511,11 +19511,11 @@ Arceuus Library Portal	Portal da Biblioteca Arceuus	name	object	Arceuus Library 
 S.T.A.S.H chart	Quadro de esconderijos	name	object	S.T.A.S.H chart
 Rewards Chest	Baú de recompensas	name	object	Rewards Chest
 Ruins Entrance	Entrada das ruínas	name	object	Ruins Entrance
-Blocked entry	Entrada bloqueada 	name	object	Blocked entry
-Rock debris	Entulhos sólidos 	name	object	Rock debris
+Blocked entry	Entrada bloqueada	name	object	Blocked entry
+Rock debris	Entulhos sólidos	name	object	Rock debris
 Ruins Exit	Saída das ruínas	name	object	Ruins Exit
 Willow's bag	A bolsa da Willow	name	object	Willow's bag
-Structural pillar	Pilar de suporte 	name	object	Structural pillar
+Structural pillar	Pilar de suporte	name	object	Structural pillar
 Big Door	Porta grande	name	object	Big Door
 Vault Door	Porta da caixa-forte	name	object	Vault Door
 Security Barrier	Barreira de segurança	name	object	Security Barrier
@@ -19535,7 +19535,7 @@ Charm of Luck	Encanto de Sorte	name	object	Charm of Luck
 Golem rubble	Escombros de Golem	name	object	Golem rubble
 Clan Coffer	Cofre do Clã	name	object	Clan Coffer
 Fortified gate	Portão Fortificado	name	object	Fortified gate
-Clan banner	Banner dos clãs 	name	object	Clan banner
+Clan banner	Banner dos clãs	name	object	Clan banner
 Clan hall portal	Portal para o Clan Hall	name	object	Clan hall portal
 Clan recruitment board	Quadro de recrutamento de clãs	name	object	Clan recruitment board
 Iron pickaxe	Picareta de ferro	name	object	Iron pickaxe
@@ -19568,7 +19568,7 @@ Ceremonial Pillar	Pilar cerimonial	name	object	Ceremonial Pillar
 Beam	Viga	name	object	Beam
 Zipline	Tirolesa	name	object	Zipline
 Pine tree	Pinheiro	name	object	Pine tree
-Forest Mushrooms	Cogumelos da floresta 	name	object	Forest Mushrooms
+Forest Mushrooms	Cogumelos da floresta	name	object	Forest Mushrooms
 Toadstool	Cogumelo	name	object	Toadstool
 Toadstools	Cogumelos	name	object	Toadstools
 Strange plant	Planta estranha	name	object	Strange plant
@@ -19868,7 +19868,7 @@ Ancient Tablet	Tabuleta antiga	name	object	Ancient Tablet
 Tendril	Gavinha	name	object	Tendril
 Pan	Pan	name	object	Pan
 Kiln	Forno	name	object	Kiln
-Distillation Kit	Kit de destilação 	name	object	Distillation Kit
+Distillation Kit	Kit de destilação	name	object	Distillation Kit
 Large Vial	Frasco grande	name	object	Large Vial
 Book	Livro	name	object	Book
 Lab Table	Mesa do laboratório	name	object	Lab Table
@@ -19876,7 +19876,7 @@ Mortuary Table	Mesa mortuária	name	object	Mortuary Table
 Weapons Barrel	Barril com armas	name	object	Weapons Barrel
 Plant Pot	Vaso	name	object	Plant Pot
 Church Brazier	Braseiro da Igreja	name	object	Church Brazier
-Ancient banner	Estandarte antigo 	name	object	Ancient banner
+Ancient banner	Estandarte antigo	name	object	Ancient banner
 Iron maiden	Dama de ferro	name	object	Iron maiden
 Puddle	Poça	name	object	Puddle
 Teleporter	Teletransportador	name	object	Teleporter
@@ -20126,9 +20126,9 @@ Unbuilt Landing Site	Local de pouso de quetzal (não construído)	name	object	Un
 Cat bed	Cama de gato	name	object	Cat bed
 Leafy bush	Arbusto folhoso	name	object	Leafy bush
 Rough-looking bush	Arbusto de folhas secas	name	object	Rough-looking bush
-Crypt staircase	Escada da cripta 	name	object	Crypt staircase
+Crypt staircase	Escada da cripta	name	object	Crypt staircase
 Unlit brazier	Braseiro apagado	name	object	Unlit brazier
-Trail of chocolate	Trilha de chocolate 	name	object	Trail of chocolate
+Trail of chocolate	Trilha de chocolate	name	object	Trail of chocolate
 Pile of chocolate	Monte de chocolate	name	object	Pile of chocolate
 Easter egg rock	Pedra do ovo de Páscoa	name	object	Easter egg rock
 Easter mine cart	Carrinho de mina da Páscoa	name	object	Easter mine cart
@@ -20160,10 +20160,10 @@ Magic Pyre	Pira Mágica	name	object	Magic Pyre
 Teak Pyre	Pira de Teca	name	object	Teak Pyre
 Mahogany Pyre	Pira de Mogno	name	object	Mahogany Pyre
 Dye pots	Potes de tintura	name	object	Dye pots
-Oak trapdoor	Alçapão de carvalho 	name	object	Oak trapdoor
-Teak trapdoor	Alçapão de teca 	name	object	Teak trapdoor
+Oak trapdoor	Alçapão de carvalho	name	object	Oak trapdoor
+Teak trapdoor	Alçapão de teca	name	object	Teak trapdoor
 Mahogany trapdoor	Alçapão de mogno	name	object	Mahogany trapdoor
-Arctic Pine Pyre	Pira feita com lenhas de pinheiro do ártico 	name	object	Arctic Pine Pyre
+Arctic Pine Pyre	Pira feita com lenhas de pinheiro do ártico	name	object	Arctic Pine Pyre
 Food pot	Pote de comida	name	object	Food pot
 Redwood Pyre	Pira de Sequóia	name	object	Redwood Pyre
 Bounty supply crate	Caixa com suprimentos Bou	name	object	Bounty supply crate
@@ -20172,7 +20172,7 @@ Burrow hole	Toca de coelho	name	object	Burrow hole
 Empty pot	Pote vazio	name	object	Empty pot
 Pit trap	Armadilha do fosso	name	object	Pit trap
 Baited pit trap	Armadilha do fosso com isca	name	object	Baited pit trap
-Cell gate	Portão da prisão 	name	object	Cell gate
+Cell gate	Portão da prisão	name	object	Cell gate
 Wanted poster	Cartaz de procurado	name	object	Wanted poster
 Statue of Hazelmere	Estátua de Hazelmere	name	object	Statue of Hazelmere
 Statue of Turael	Estátua de Turael	name	object	Statue of Turael
@@ -20398,12 +20398,12 @@ Cocoa basket	Cesta de cacau	name	object	Cocoa basket
 Corn basket	Cesta de milho	name	object	Corn basket
 Hanging pots	Vasos suspensos	name	object	Hanging pots
 Stack of reeds	Pilha de juncos	name	object	Stack of reeds
-Half-made rug	Tapete feito pela metade 	name	object	Half-made rug
+Half-made rug	Tapete feito pela metade	name	object	Half-made rug
 Hoop	Aro	name	object	Hoop
 Orange hibiscus	Hibisco laranja	name	object	Orange hibiscus
 Red hibiscus	Hibisco vermelho	name	object	Red hibiscus
 Overgrown pillar	Pilar coberto de musgo	name	object	Overgrown pillar
 Strange statue	Estátua estranha	name	object	Strange statue
-Picnic	Piquenique 	name	object	Picnic
+Picnic	Piquenique	name	object	Picnic
 Gemstone rock	Pedra preciosa	name	object	Gemstone rock
 Debug Wall	Debug wall	name	object	Debug Wall
