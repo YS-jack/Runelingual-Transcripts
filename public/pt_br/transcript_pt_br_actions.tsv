@@ -41,7 +41,7 @@ Fend	Defender	actions	menu	combatOptionsTab
 Bash	Pancada	actions	menu	combatOptionsTab
 Blaze	Queimar	actions	menu	combatOptionsTab
 Scorch	Chamuscar	actions	menu	combatOptionsTab
-Flare	Incendiar 	actions	menu	combatOptionsTab
+Flare	Incendiar	actions	menu	combatOptionsTab
 Punch	Socar	actions	menu	combatOptionsTab
 Kick	Chutar	actions	menu	combatOptionsTab
 Hide	Ocultar	actions	menu	prayerTab
@@ -72,7 +72,7 @@ Standard	Padrão	actions	menu	spellBookTab
 Reanimate	Reanimar	actions	menu	spellBookTab
 Resurrect	Ressuscitar	actions	menu	spellBookTab
 Adjust Music Volume	Ajustar Volume da Música	actions	menu	settingsTab
-Adjust Area Sound Volume	Ajustar Volume de Som na Área 	actions	menu	settingsTab
+Adjust Area Sound Volume	Ajustar Volume de Som na Área	actions	menu	settingsTab
 Adjust Sound Effect Volume	Ajustar Volume de Efeitos Sonoros	actions	menu	settingsTab
 Toggle unlock message	Ativar/desativar dica de desbloqueio	actions	menu	settingsTab
 Play	Tocar	actions	menu	
@@ -85,7 +85,7 @@ Open Activity Adviser	Abrir o Consultor de Atividades	actions	menu
 Clear history	Limpar histórico	actions	menu	
 Switch tab	Trocar de menu	actions	menu	
 Configure filter	Configurar filtro	actions	menu	
-<colNum0>Game:</col> Clear history	<colNum0>Jogo:</col> Limpar histórico 	actions	menu	
+<colNum0>Game:</col> Clear history	<colNum0>Jogo:</col> Limpar histórico	actions	menu	
 <colNum0>Game:</col> Filter	<colNum0>Jogo:</col> Filtro	actions	menu	
 Setup your autochat	Configurar suas mensagens automatizadas	actions	menu	
 Filter public chat	Filtrar bate-papo público	actions	menu	
@@ -126,12 +126,12 @@ Enable prayer reordering	Habilitar reordenamento de orações	actions	menu
 Disable prayer filtering	Desabilitar reordenamento de orações	actions	menu	
 Prayer	Orações	actions	menu	
 Enable spell reordering	Habilitar reordenamento de feitiços	actions	menu	
-Disable spell filtering	Desabilitar reordenamento de feitiços 	actions	menu	
+Disable spell filtering	Desabilitar reordenamento de feitiços	actions	menu	
 Magic	Magia	actions	menu	
 Friends List	Lista de Amigos	actions	menu	
 Account Management	Gerenciamento da Conta	actions	menu	
 Ironman Group	Ironman em Grupo	actions	menu	
-Settings	Configurações 	actions	menu	
+Settings	Configurações	actions	menu	
 Emotes	Emotes	actions	menu	
 Music Player	Tocador de Música	actions	menu	
 Logout	Sair do Jogo	actions	menu	
@@ -139,8 +139,8 @@ Look West	Virar bússola para Oeste	actions	menu
 Look South	Virar bússola para Sul	actions	menu	
 Look East	Virar bússola para o Leste	actions	menu	
 Look North	Virar bússola para o Norte	actions	menu	
-Setup	Configurar 	actions	menu	
-Hide	Ocultar 	actions	menu	
+Setup	Configurar	actions	menu	
+Hide	Ocultar	actions	menu	
 Show	Mostrar	actions	menu	
 Activate	Ativar	actions	menu	
 Toggle Run	Ativar/desativar corrida	actions	menu	
@@ -190,11 +190,11 @@ Quest List	Lista de Missões	actions	menu	characterSummaryTab
 Character Summary	Sumário do Personagem	actions	menu	achievementDiaryTab
 Achievement Diaries	Diários de Conquistas	actions	menu	achievementDiaryTab
 Quest List	Lista de Missões	actions	menu	achievementDiaryTab
-Character Summary	Sumário do Personagem 	actions	menu	questListTab
-Achievement Diaries	Diários de Conquistas 	actions	menu	questListTab
-Quest List	Lista de Missões 	actions	menu	questListTab
-Character Summary	Sumário do Personagem 	actions	menu	
-Quest List	Lista de Missões 	actions	menu	
+Character Summary	Sumário do Personagem	actions	menu	questListTab
+Achievement Diaries	Diários de Conquistas	actions	menu	questListTab
+Quest List	Lista de Missões	actions	menu	questListTab
+Character Summary	Sumário do Personagem	actions	menu	
+Quest List	Lista de Missões	actions	menu	
 Rewards	Recompensas	actions	menu	characterSummaryTab
 Tasks	Tarefas	actions	menu	characterSummaryTab
 Bosses	Chefes	actions	menu	characterSummaryTab
@@ -235,26 +235,26 @@ Wiki <colNum0>Western Provinces Journal</col>	Wiki <colNum0>Diário das Provínc
 Open <colNum0>Western Provinces Journal</col>	Abrir <colNum0>Diário das Províncias Ocidentais</col>	actions	menu	achievementDiaryTab
 Wiki <colNum0>Wilderness Journal</col>	Wiki <colNum0>Diário da Terra Selvagem</col>	actions	menu	achievementDiaryTab
 Open <colNum0>Wilderness Journal</col>	Abrir <colNum0>Diário da Terra Selvagem</col>	actions	menu	achievementDiaryTab
-View equipment stats	Ver estatísticas dos equipamentos 	actions	menu	wornEquipmentTab
+View equipment stats	Ver estatísticas dos equipamentos	actions	menu	wornEquipmentTab
 View guide prices	Ver guia de preços	actions	menu	wornEquipmentTab
 View items kept on death	Ver objetos mantidos ao morrer	actions	menu	wornEquipmentTab
 Call follower	Chamar pet seguidor	actions	menu	wornEquipmentTab
 Disable prayer reordering	Desabilitar reordenamento de orações	actions	menu	
 Enable prayer filtering	Habilitar filtro de orações	actions	menu	
 Disable spell reordering	Desabilitar reordenamento de feitiços	actions	menu	
-Enable spell filtering	Habilitar filtro de feitiços 	actions	menu	
-Show notifications	Exibir notificações 	actions	menu	
+Enable spell filtering	Habilitar filtro de feitiços	actions	menu	
+Show notifications	Exibir notificações	actions	menu	
 Add Note	Adicionar Nota	actions	menu	
 Hide notifications	Não exibir notificações	actions	menu	
 Delete	Excluir	actions	menu	friendsTab
 Message	Mandar mensagem	actions	menu	friendsTab
 View Ignore List	Ver lista de ignorados	actions	menu	friendsTab
-Add Friend	Adicionar Amigo 	actions	menu	friendsTab
+Add Friend	Adicionar Amigo	actions	menu	friendsTab
 Delete Friend	Excluir Amigo	actions	menu	friendsTab
 Hop-to	Ir para o mesmo mundo	actions	menu	friendsTab
 View Friends List	Ver Lista de Amigos	actions	menu	ignoreTab
 Delete	Excluir	actions	menu	ignoreTab
-Add Name	Adicionar Nome 	actions	menu	ignoreTab
+Add Name	Adicionar Nome	actions	menu	ignoreTab
 Delete Name	Excluir Nome	actions	menu	ignoreTab
 Account	Conta	actions	menu	accountManagementTab
 Community	Comunidade	actions	menu	accountManagementTab
@@ -263,15 +263,15 @@ Open Store	Abrir Loja	actions	menu	accountManagementTab
 Bond Pouch	Porta-Bonds	actions	menu	accountManagementTab
 View Inbox	Ver Inbox	actions	menu	accountManagementTab
 Name Changer	Alterar Nome	actions	menu	accountManagementTab
-View History	Ver Histórico 	actions	menu	accountManagementTab
+View History	Ver Histórico	actions	menu	accountManagementTab
 View Newspost	Ver Notícias	actions	menu	accountManagementTab
 View Archive	Ver Arquivo	actions	menu	accountManagementTab
 Open	Abrir	actions	menu	accountManagementTab
 Settings	Configurações	actions	menu	groupTab
 Refresh	Recarregar	actions	menu	groupTab
-Join	Juntar-se 	actions	menu	groupTab
-Setup	Configurar 	actions	menu	groupTab
-Find	Encontrar 	actions	menu	groupTab
+Join	Juntar-se	actions	menu	groupTab
+Setup	Configurar	actions	menu	groupTab
+Find	Encontrar	actions	menu	groupTab
 Open	Abrir	actions	menu	groupTab
 Add friend	Add amigo	actions	menu	groupTab
 Add ignore	Add ignorado	actions	menu	groupTab
@@ -334,7 +334,7 @@ Off	Off	actions	menu
 Expel Guests	Expulsar Visitantes	actions	menu	
 Call Servant	Chamar o Servo	actions	menu	
 Leave House	Sair de Casa	actions	menu	
-Open subsection	Abrir subseção 	actions	menu	
+Open subsection	Abrir subseção	actions	menu	
 Move	Mover	actions	menu	
 Learn More	Saber Mais	actions	menu	
 Talk-to	Falar com	actions	npc	Tool Leprechaun
@@ -411,7 +411,7 @@ Net	Rede	actions	npc	Fishing spot
 Ammo	Munição	actions	npc	Leon
 Cage	Jaula	actions	npc	Fishing spot
 Harpoon	Arpão	actions	npc	Fishing spot
-Big Net	Rede Grande 	actions	npc	Fishing spot
+Big Net	Rede Grande	actions	npc	Fishing spot
 Use-rod	Usar-vara	actions	npc	Fishing spot
 Escort	Escoltar	actions	npc	Smiddi Ryak (hard)
 Supply	Suprir	actions	npc	Smiddi Ryak (hard)
@@ -469,7 +469,7 @@ Buy-plank	Comprar tábua	actions	npc	Sawmill operator
 Age	Tempo de conta	actions	npc	Hans
 Tackle	Desarmar	actions	npc	Gnome baller
 Pass-to	Passar-para	actions	npc	Gnome winger
-Claim	Receber arco e flechas	actions	npc	Ranged combat tutor
+Claim	Reinvidicar	actions	npc	Ranged combat tutor
 Buy	Comprar	actions	npc	Fadli
 Heal	Curar	actions	npc	A'abla
 Stroke	Acariciar	actions	npc	Gertrude's cat
@@ -483,7 +483,7 @@ Pay-Fare	Pagar-taxa	actions	npc	Customs officer
 Go-inside	Entrar	actions	npc	House
 Pirate's Cove	Covil Pirata	actions	npc	Lokar Searunner
 Deposit-items	Depositar objetos	actions	npc	Peer the Seer
-Miscellania	Miscelânea 	actions	npc	Sailor
+Miscellania	Miscelânea	actions	npc	Sailor
 Prod	Cutucar	actions	npc	Red Sheep
 Return-Home	Voltar-Casa	actions	npc	Bill Teach
 Devices	Dispositivos	actions	npc	Ava
@@ -499,7 +499,7 @@ Make unfinished potion(s)	Fazer poções (incompletas)	actions	npc	Zahur
 Shoot	Atirar	actions	npc	Target
 Shop	Comprar	actions	npc	Ezekial Lovecraft
 Board	Entrar a bordo	actions	npc	Ogre boat
-Potions	Poções 	actions	npc	Apothecary
+Potions	Poções	actions	npc	Apothecary
 Grab-feather	Arrancar-pena	actions	npc	Desert Phoenix
 Take-from	Pegar-de	actions	npc	Jig cart
 Coffer	Cofre	actions	npc	Yohnus
@@ -534,7 +534,7 @@ Claim Sand	Pegar Areia	actions	npc	Drew
 Deposit buckets	Depositar baldes	actions	npc	Drew
 Toggle warnings	Ativar/desativar alertas	actions	npc	Doomsayer
 Remove PvP Protection	Remover proteção de PVP	actions	npc	Doomsayer
-Observe	Observar 	actions	npc	Maze Guardian
+Observe	Observar	actions	npc	Maze Guardian
 New-maze	Novo-labirinto	actions	npc	Maze Guardian
 Maxhit Variant	Versão maxhit	actions	npc	Combat Test
 Kill-count	Contador-abates	actions	npc	Soldier
@@ -688,7 +688,7 @@ Trade-in	Trocar	actions	npc	Oriana
 Last-destination	Último-destino	actions	npc	Renu
 Dyes	Fazer corantes	actions	npc	Aggie
 Challenge	Desafio	actions	npc	Yama
-Setup	Configurações 	actions	npc	Ironman tutor
+Setup	Configurações	actions	npc	Ironman tutor
 Assignment	Tarefa	actions	npc	Vannaka
 Attract	Atrair	actions	npc	Light creature
 Last-tier contract	Contrato mais avançado	actions	npc	Amy
@@ -723,7 +723,7 @@ Pull	Puxar	actions	object	Lever
 Go-through	Atravessar	actions	object	Gate
 Fish	Pescar	actions	object	Fishing spot
 Squeeze-through	Passar espremendo-se	actions	object	Loose Railing
-Check	Verificar 	actions	object	Vine
+Check	Verificar	actions	object	Vine
 Pray-at	Orar-no	actions	object	Chaos altar
 Smash	Quebrar	actions	object	Giant crystal
 Hide-in	Esconder-se	actions	object	Crate
@@ -759,7 +759,7 @@ Take-5	Pegar-5	actions	object	Bandage table
 Take-10	Pegar-10	actions	object	Bandage table
 Commune	Comungar	actions	object	Lever
 Board	Subir a bordo	actions	object	Log raft
-Swim to	Nadar até 	actions	object	Rock
+Swim to	Nadar até	actions	object	Rock
 Take treasure	Pegar tesouro	actions	object	Chalice
 Climb	Subir	actions	object	Dead Tree
 Get in	Entrar	actions	object	Barrel
@@ -838,7 +838,7 @@ Step-over	Pisar-sobre	actions	object	Tripwire
 Pass	Passar	actions	object	Sticks
 Reinforce	Reforçar estrutura	actions	object	Temple wall
 Light	Acender	actions	object	Fire altar
-Summon	Invocar 	actions	object	Strange altar
+Summon	Invocar	actions	object	Strange altar
 Cut-branch	Cortar-raiz	actions	object	Swaying tree
 Put-inside	Colocar-dentro	actions	object	Pipe
 Spin	Moldar	actions	object	Spinning wheel
@@ -863,7 +863,7 @@ Crawl-through	Passar-rastejando	actions	object	Cart tunnel
 Go-down	Ir para baixo	actions	object	Lift
 Go-up	Ir para cima	actions	object	Lift
 Slide	Deslizar	actions	object	Slope
-Squeeze-past	Espremer-se através 	actions	object	Stalagmite
+Squeeze-past	Espremer-se através	actions	object	Stalagmite
 Wind	Dar corda	actions	object	Clock
 Dig	Cavar	actions	object	Grave
 Pick-Lock	Arrombar	actions	object	Trapdoor
@@ -886,7 +886,7 @@ Upgrade	Aprimorar	actions	object	Tools
 Work-at	Trabalhar-em	actions	object	Workbench
 Make-helmet	Fazer-elmo	actions	object	Helmet pluming stand
 Ring	Tocar	actions	object	Bell
-Quick-board	Viagem-rápida 	actions	object	Swamp Boaty
+Quick-board	Viagem-rápida	actions	object	Swamp Boaty
 Ride	Viajar	actions	object	Train cart
 Observe	Observar	actions	object	Telescope
 Leave-area	Sair da área	actions	object	Ladder
@@ -988,7 +988,7 @@ Preen	Embelezar	actions	object	Shaving stand
 Haircut	Corte de cabelo	actions	object	Shaving stand
 Shave	Barba	actions	object	Shaving stand
 Pray	Orar	actions	object	Altar
-Re-light	Acender novamente 	actions	object	Incense burner
+Re-light	Acender novamente	actions	object	Incense burner
 Build-in	Construir	actions	object	Cage
 Force	Forçar	actions	object	Door
 Activate	Ativar	actions	object	Treasure Hunt Fairy House
@@ -1450,7 +1450,7 @@ Barrows	Barrows	actions	object	Portal Nexus
 Ape Atoll Dungeon	Masmorra do Atol dos Macacos	actions	object	Portal Nexus
 Destroy	Destruir	actions	object	Lab table
 Stamp-out	Apagar	actions	object	Magical Fire
-Continue	Continuar 	actions	object	Path
+Continue	Continuar	actions	object	Path
 Climp-up	Subir	actions	object	Stairs
 Check-statistics (Personal)	Ver-estatísticas (Pessoal)	actions	object	Noticeboard
 Check-statistics (Global)	Ver-estatísticas (Global)	actions	object	Noticeboard
@@ -1556,7 +1556,7 @@ Collect-reward	Coletar-recompensa	actions	object	Table
 Look-over	Olhar-através	actions	object	Balcony
 Walk-to	Andar-para	actions	object	Blue tile
 Civitas illa Fortis	Civitas illa Fortis	actions	object	Portal Nexus
-Fortis Colosseum	Fortis Colosseum 	actions	object	Basic Jewellery Box
+Fortis Colosseum	Fortis Colosseum	actions	object	Basic Jewellery Box
 View-stats	Ver-estatísticas	actions	object	Colosseum scoreboard
 View-glory	Ver-glória	actions	object	Colosseum scoreboard
 Sabotage	Sabotar	actions	object	Lily pad
@@ -1582,7 +1582,7 @@ Top-floor	Andar-superior	actions	object	Staircase
 Bottom-floor	Andar-térreo	actions	object	Staircase
 Take-5 concoctions	Pegar 5-misturas	actions	object	Crate
 Take-10 concoctions	Pegar 10-misturas	actions	object	Crate
-Quick-exit	Sair-rápido 	actions	object	Gate
+Quick-exit	Sair-rápido	actions	object	Gate
 Weiss	Weiss	actions	object	Boat
 Emir's Arena	Arena do Emir	actions	object	Basic Jewellery Box
 Fishing Guild	Guilda dos Pescadores	actions	object	Fancy Jewellery Box
@@ -1591,7 +1591,7 @@ Take anglerfish	Pegar tamboril	actions	object	Bounty supply crate
 Big-search	Pescar-recompensa	actions	object	Reward pool
 Solo-start	Começar-sozinho	actions	object	Rope ladder
 Take-chisel	Pegar-cinzel	actions	object	Weak cells
-Cross-over	Pular-por-cima 	actions	object	Broken wall
+Cross-over	Pular-por-cima	actions	object	Broken wall
 Take-many	Pegar-muitos	actions	object	Medical box
 Slide-along	Deslizar	actions	object	Icy ledge
 Take-uniform	Pegar-uniforme	actions	object	Wardrobe
@@ -1615,9 +1615,9 @@ Move-Itzla	Mover-Itzla	actions	object	Northern platform
 Decorate	Decorar	actions	object	Oak totem
 Carve	Entalhar	actions	object	Oak totem
 General-stats	Estatísticas-gerais	actions	object	Scoreboard
-Delve-stats	Estatísticas-Delve 	actions	object	Scoreboard
+Delve-stats	Estatísticas-Delve	actions	object	Scoreboard
 Follow	Seguir	actions	player	
 Trade with	Negociar com	actions	player	
-Lookup		actions	player	
-Equipment		actions	player	
+Lookup	Visualizar	actions	player	
+Equipment	Equipamento	actions	player	
 Report	Denunciar	actions	player	
