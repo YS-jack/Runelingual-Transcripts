@@ -382,8 +382,8 @@ I can use this to claim a reward from the King.	Posso usar isso para reivindicar
 A shadowy Ardougne cloak.	Uma capa sombria de Ardougne.	examine	item	Ardougne cloak
 A limb of the fabled Dramen tree.	Um galho da lendária árvore Dramen.	examine	item	Dramen branch
 Crafted from a Dramen tree branch.	Feito a partir de um galho da árvore Dramen.	examine	item	Dramen staff
-A perfect ruby ring.	Um anel de rubi perfeito.	examine	item	'perfect' ring
-A perfect ruby necklace.	Um colar de rubi perfeito.	examine	item	'perfect' necklace
+A perfect ruby ring.	Um anel de rubi perfeito.	examine	item	perfect' ring
+A perfect ruby necklace.	Um colar de rubi perfeito.	examine	item	perfect' necklace
 These gauntlets empower with a greater ability to cook fish.	Estas luvas conferem uma maior habilidade para cozinhar peixe.	examine	item	Cooking gauntlets
 These gauntlets empower the bearer whilst making gold.	Estas luvas conferem poder ao seu portador enquanto derrete ouro.	examine	item	Goldsmith gauntlets
 These gauntlets empower spell casters.	Estas luvas conferem poder aos magos.	examine	item	Chaos gauntlets
@@ -956,7 +956,7 @@ It's a bar of gold.	É uma barra de ouro.	examine	item	Gold bar
 It's a bar of mithril.	É uma barra de mithril.	examine	item	Mithril bar
 It's a bar of adamantite.	É uma barra de adamantio.	examine	item	Adamantite bar
 It's a bar of runite.	É uma barra de runita.	examine	item	Runite bar
-It's a bar of 'perfect' gold.	É uma barra de ouro “perfeito”.	examine	item	'perfect' gold bar
+It's a bar of 'perfect' gold.	É uma barra de ouro “perfeito”.	examine	item	perfect' gold bar
 The left half of a dragon square shield.	A metade esquerda de um escudo quadrado de dragão.	examine	item	Shield left half
 The right half of a dragon square shield.	A metade direita de um escudo quadrado de dragão.	examine	item	Shield right half
 A set of studs for leather armour.	Um conjunto de tachas para armadura de couro.	examine	item	Steel studs
@@ -1487,7 +1487,7 @@ Just needs the King's signature.	Só precisa da assinatura do Rei.	examine	item	
 For making a giant pen.	Para fazer uma caneta gigante.	examine	item	Giant nib
 The King should be able to use this.	O Rei deve ser capaz de usar isso.	examine	item	Giant pen
 Not as good as a pet frog.	Não é tão bom quanto um sapo de estimação.	examine	item	Iron sickle
-''Managing Thine Kingdom for Noobes'' by A. Ghrim.	“Administrando seu reino para novatos”, de A. Ghrim.	examine	item	Ghrim's book
+'Managing Thine Kingdom for Noobes'' by A. Ghrim.	“Administrando seu reino para novatos”, de A. Ghrim.	examine	item	Ghrim's book
 A mysterious crystal banner.	Uma misteriosa bandeira de cristal.	examine	item	Western banner
 A hardy gout tuber.	Um tubérculo resistente.	examine	item	Hardy gout tuber
 It looks like some kind of control panel.	Parece algum tipo de painel de controle.	examine	item	Spare controls
@@ -2511,9 +2511,9 @@ A fishbowl with a Tiny Greenfish in it.	Um aquário com um pequeno peixe verde d
 A fishbowl with a Tiny Spinefish in it.	Um aquário com um pequeno peixe-espinho dentro.	examine	item	Fishbowl
 An empty fishbowl in a net.	Um aquário vazio em uma rede.	examine	item	Fishbowl and net
 A tiny net for grabbing tiny fish.	Uma pequena rede para pegar peixes pequenos.	examine	item	Tiny net
-'Ingredients; Ground Guam and Ground Seaweed.'	“Ingredientes: Guam moído e algas marinhas moídas.”	examine	item	An empty box
-'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Guam Leaf...	“Ingredientes: Guam moído e algas marinhas moídas.” Bem, eu tenho a folha de Guam...	examine	item	Guam in a box
-'Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Seaweed...	“Ingredientes: Guam moído e algas marinhas moídas.” Bem, eu tenho as algas marinhas...	examine	item	Seaweed in a box
+Ingredients; Ground Guam and Ground Seaweed.'	“Ingredientes: Guam moído e algas marinhas moídas.”	examine	item	An empty box
+Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Guam Leaf...	“Ingredientes: Guam moído e algas marinhas moídas.” Bem, eu tenho a folha de Guam...	examine	item	Guam in a box
+Ingredients; Ground Guam and Ground Seaweed.' Well, I have the Seaweed...	“Ingredientes: Guam moído e algas marinhas moídas.” Bem, eu tenho as algas marinhas...	examine	item	Seaweed in a box
 One of the ingredients for making fish food.	Um dos ingredientes para fazer comida de peixe.	examine	item	Ground guam
 4 doses of Saradomin brew.	4 doses de preparado de Saradomin.	examine	item	Saradomin brew(4)
 3 doses of Saradomin brew.	3 doses de preparado de Saradomin.	examine	item	Saradomin brew(3)
@@ -4071,11 +4071,11 @@ A powerful bow made from magic wood.	Um arco poderoso feito de madeira mágica.	
 A rune helmet with a heraldic design.	Um elmo rúnico com um desenho heráldico.	examine	item	Rune helm (h1)
 An adamant helmet with a heraldic design.	Um elmo de adamantio com um desenho heráldico.	examine	item	Adamant helm (h1)
 A black helmet with a heraldic design.	Um elmo preto com um desenho heráldico.	examine	item	Black helm (h1)
-'Bob says: Never give your password out to anyone.'	“Bob diz: Nunca revele sua senha a ninguém.”	examine	item	Bob's red shirt
-'Bob says: Always check the second trade screen.'	“Bob diz: Sempre verifique a segunda tela de troca.”	examine	item	Bob's blue shirt
-'Bob says: Never trade in the wilderness!'	“Bob diz: Nunca faça trocas na Terra Selvagem!”	examine	item	Bob's green shirt
-'Bob says: A bank pin will keep your items secure.'	“Bob diz: Um PIN bancário manterá seus itens seguros.”	examine	item	Bob's black shirt
-'Bob says: Keep your computer keylogger free and virus scanned.'	“Bob diz: Mantenha seu computador livre de keyloggers e faça varreduras de vírus.”	examine	item	Bob's purple shirt
+Bob says: Never give your password out to anyone.'	“Bob diz: Nunca revele sua senha a ninguém.”	examine	item	Bob's red shirt
+Bob says: Always check the second trade screen.'	“Bob diz: Sempre verifique a segunda tela de troca.”	examine	item	Bob's blue shirt
+Bob says: Never trade in the wilderness!'	“Bob diz: Nunca faça trocas na Terra Selvagem!”	examine	item	Bob's green shirt
+Bob says: A bank pin will keep your items secure.'	“Bob diz: Um PIN bancário manterá seus itens seguros.”	examine	item	Bob's black shirt
+Bob says: Keep your computer keylogger free and virus scanned.'	“Bob diz: Mantenha seu computador livre de keyloggers e faça varreduras de vírus.”	examine	item	Bob's purple shirt
 Fabulously ancient range protection crafted from white dragonhide.	Proteção de alcance fabulosamente antiga feita de couro de dragão branco.	examine	item	3rd age range top
 Fabulously ancient mage protection enchanted in the 3rd Age.	Proteção fabulosamente antiga para magos encantada na 3ª Era.	examine	item	3rd age robe top
 Fabulously ancient armour beaten from magical silver.	Armadura fabulosamente antiga forjada em prata mágica.	examine	item	3rd age platelegs
@@ -4544,8 +4544,8 @@ Two doses of fishy Magic potion.	Duas doses de poção mágica com cheiro de pei
 One dose of fishy Magic potion.	Uma dose de poção mágica com cheiro de peixe.	examine	item	Magic mix(1)
 Two doses of fishy Hunter potion.	Duas doses de poção de caçador com cheiro de peixe.	examine	item	Hunting mix(2)
 One dose of fishy Hunter potion.	Uma dose de poção de caçador com cheiro de peixe.	examine	item	Hunting mix(1)
-Two doses of fishy Zamorak brew.	#REF!	examine	item	Zamorak mix(2)
-One dose of fishy Zamorak brew.	#REF!	examine	item	Zamorak mix(1)
+Two doses of fishy Zamorak brew.		examine	item	Zamorak mix(2)
+One dose of fishy Zamorak brew.		examine	item	Zamorak mix(1)
 Doesn't look very useful.	Não parece muito útil.	examine	item	Feather
 Educate yourself.	Eduque-se.	examine	item	Book of knowledge
 A book that explains the art of crafting items from glass.	Um livro que explica a arte de criar itens de vidro.	examine	item	Glassblowing book
@@ -6067,7 +6067,7 @@ A solid maple shield covered in green dragon leather.	Um escudo sólido de bordo
 A solid yew shield covered in blue dragon leather.	Um escudo sólido de teixo coberto com couro de dragão azul.	examine	item	Blue d'hide shield
 A solid magic wood shield covered in red dragon leather.	Um escudo sólido de madeira mágica coberto com couro de dragão vermelho.	examine	item	Red d'hide shield
 A solid redwood shield covered in black dragon leather.	Um escudo sólido de sequóia coberto com couro de dragão preto.	examine	item	Black d'hide shield
-'Leather Shields - Resource information flyer' by William the Shield Master	“Escudos de couro - Folheto informativo” por William, o Mestre dos Escudos	examine	item	Leather shields flyer
+Leather Shields - Resource information flyer' by William the Shield Master	“Escudos de couro - Folheto informativo” por William, o Mestre dos Escudos	examine	item	Leather shields flyer
 An enhanced weapon from the deep.	Uma arma aprimorada das profundezas.	examine	item	Trident of the seas (e)
 An enhanced toxic weapon from the deep.	Uma arma tóxica aprimorada das profundezas.	examine	item	Trident of the swamp (e)
 A ghastly weapon with evil origins combined with a holy light.	Uma arma medonha com origens malignas combinada com uma luz sagrada.	examine	item	Staff of light
@@ -6708,7 +6708,7 @@ A book about Seren.		examine	item	Harmony
 A broken Penance Runner hat.		examine	item	Runner hat (broken)
 The egg knows all, trademark pending.		examine	item	Magic egg ball
 Helps you see in the dark!		examine	item	Carrot sword
-A carrot sword painted gold!		examine	item	'24-carat' sword
+A carrot sword painted gold!		examine	item	24-carat' sword
 Can give you the answers to any question, as long as you're ready to be unhappy.		examine	item	Painted fake magic egg
 You'll need to slap some paint on this.		examine	item	Unpainted fake magic egg
 Turns into a bit of an echo chamber.		examine	item	Conch shell
@@ -8905,7 +8905,7 @@ A naturalist.		examine	npc	Larry
 A Gentoo penguin.		examine	npc	Penguin
 It's all black and white to them.		examine	npc	Penguin
 It's not easy, not being king.		examine	npc	Pescaling Pax
-'Berg bard.		examine	npc	Ping
+Berg bard.		examine	npc	Ping
 Killer Gentoo Penguin.		examine	npc	KGP Agent
 A Macaroni penguin.		examine	npc	Noodle
 An inhabitant of icy regions.		examine	npc	Penguin
@@ -10004,7 +10004,7 @@ Trained to deal with all sorts of injuries.		examine	npc	A'abla
 Wow! She's made a statement with that hair!		examine	npc	Sabreen
 This nurse really knows her stuff.		examine	npc	Surgeon General Tafani
 Has the messy job of putting players back together again.		examine	npc	Jaraah
-'Battle scarred'.		examine	npc	Zahwa
+Battle scarred'.		examine	npc	Zahwa
 A citizen of Al Kharid.		examine	npc	Ima
 Champion of the goblins.		examine	npc	Goblin Champion
 Champion of the hobgoblins.		examine	npc	Hobgoblin Champion
@@ -10075,7 +10075,7 @@ I hope he's not dead!		examine	npc	Fallen Man
 He's alive... just.		examine	npc	Fallen Man
 He's much better than when I first found him.		examine	npc	Cyrisus
 I'm glad he's finally on his feet.		examine	npc	Cyrisus
-A pirate-banker. You don't see one of those everyday!		examine	npc	'Bird's-Eye' Jack
+A pirate-banker. You don't see one of those everyday!		examine	npc	Bird's-Eye' Jack
 Are you good enough to fight?		examine	npc	The Inadequacy
 Can you endure long enough?		examine	npc	The Everlasting
 Can you bring yourself to hurt another?		examine	npc	The Untouchable
@@ -10148,12 +10148,12 @@ He knows everything has a reason.		examine	npc	Bonafido
 Is it male or female?		examine	npc	Homunculus
 It looks pretty unhappy.		examine	npc	Homunculus
 You could hold anything in that.		examine	npc	Cage
-He wants to create everything from nothing.		examine	npc	'Transmute' The Alchemist
-All he wants is gold.		examine	npc	'Currency' The Alchemist
-Famous for his fights.		examine	npc	'Black-eye'
-Count them pinkies!		examine	npc	'No fingers'
-He wishes he had teeth.		examine	npc	'Gummy'
-He likes to weightlift a little too much.		examine	npc	'The Guns'
+He wants to create everything from nothing.		examine	npc	Transmute' The Alchemist
+All he wants is gold.		examine	npc	Currency' The Alchemist
+Famous for his fights.		examine	npc	Black-eye'
+Count them pinkies!		examine	npc	No fingers'
+He wishes he had teeth.		examine	npc	Gummy'
+He likes to weightlift a little too much.		examine	npc	The Guns'
 Is it a frog, or is it an eel?		examine	npc	Frogeel
 Half unicorn, half cow.		examine	npc	Unicow
 It's a spider. No, a giant sardine...		examine	npc	Spidine
@@ -10244,21 +10244,21 @@ Should I pronounce it 'bucket'?		examine	npc	Bouquet Mac Hyacinth
 It's a parrot.		examine	npc	Parrot
 Either a very fremennikey pirate, or a very piratey fremennik.		examine	npc	Lokar Searunner
 I always wondered what that job description actually meant...		examine	npc	Cabin boy
-A stickler for hygiene in the kitchen.		examine	npc	'Beefy' Burns
-A keen-eyed lookout with a telescope.		examine	npc	'Eagle-eye' Shultz
+A stickler for hygiene in the kitchen.		examine	npc	Beefy' Burns
+A keen-eyed lookout with a telescope.		examine	npc	Eagle-eye' Shultz
 First mate to Captain Bentley.		examine	npc	First mate 'Davey-boy'
-A pirate that can navigate better than a bird.		examine	npc	'Birds-Eye' Jack
-A pirate through and through.		examine	npc	'Picarron' Pete
+A pirate that can navigate better than a bird.		examine	npc	Birds-Eye' Jack
+A pirate through and through.		examine	npc	Picarron' Pete
 A deadly pirate.		examine	npc	Jake
 He got his name from his favourite hobby. Reading about beds.		examine	npc	Bedread the bold
 Nobody really knows why he's called Tommy 2-times...		examine	npc	Tommy 2-times
 Don't look him straight in the eyes. He'll eat you alive!		examine	npc	Murky Pat
 Nice beard.		examine	npc	Jack Sails
-He never stops talking about Betty...		examine	npc	'Betty' B.Boppin
-Is he looking at me?		examine	npc	'Beedy-eye' Jones
+He never stops talking about Betty...		examine	npc	Betty' B.Boppin
+Is he looking at me?		examine	npc	Beedy-eye' Jones
 Yes, it is indeed the infamous Jenny Blade!		examine	npc	Jenny Blade
-A low-down, mean, dirty, cheating pirate with a fondness for kittens.		examine	npc	'Lecherous' Lee
-Apparently his nickname comes from his fondness for jam.		examine	npc	'Sticky' Sanders
+A low-down, mean, dirty, cheating pirate with a fondness for kittens.		examine	npc	Lecherous' Lee
+Apparently his nickname comes from his fondness for jam.		examine	npc	Sticky' Sanders
 Preach, my brother!		examine	npc	Jex
 She doesn't look happy.		examine	npc	Maisa
 A guard of Sophanem.		examine	npc	Sophanem Guard
@@ -10483,7 +10483,7 @@ Funnily enough, he doesn't actually buy or sell ogres.		examine	npc	Ogre trader
 She's watching you.		examine	npc	Ava
 The hat's a dead giveaway.		examine	npc	Witch
 Alice's husband, passed on.		examine	npc	Malcolm
-Probably tastes like chicken.		examine	npc	 Sneaky undead fowl
+Probably tastes like chicken.		examine	npc	Sneaky undead fowl
 He hates cows so much.		examine	npc	Cow31337Killer
 She sells Farming equipment.		examine	npc	Alice
 Apparently he keeps a lighthouse.		examine	npc	Jossik
@@ -13454,7 +13454,7 @@ A simple marker for a forgotten person.		examine	object	Grave marker
 The remains of someone lie inside.		examine	object	Tombstone
 A monument to a special person.		examine	object	Large grave stone
 The inscription is worn away and unreadable.		examine	object	Gravestone
-'Here lies...' is all I can read.		examine	object	Gravestone
+Here lies...' is all I can read.		examine	object	Gravestone
 Whoever bought this must have really cared for the inhabitant.		examine	object	Large grave
 Looks like a stone doorway to me.		examine	object	Henge
 Looks like a stone doorway to my untrained eye.		examine	object	Henge
@@ -13650,7 +13650,7 @@ A posh water bowl.		examine	object	Font
 Disturbingly its eyes look everywhere in the room except at you.		examine	object	Spooky picture
 What has a face and hands but is not a man?		examine	object	Clock face
 It's a time machine....sort of!		examine	object	Clock face
-'Ask about our low, low interest rates!'		examine	object	Bank notice board
+Ask about our low, low interest rates!'		examine	object	Bank notice board
 Some helpful people have placed notes on here, how nice.		examine	object	Noticeboard
 Essentials for a seamstress.		examine	object	Clothes equipment
 It really was this big!		examine	object	Stuffed swordfish
@@ -13852,7 +13852,7 @@ A strange and very large vine.		examine	object	Grapevine
 Everything looks greener on the other side.		examine	object	Glass door
 A kitchen sink.		examine	object	Sink
 I can train on this.		examine	object	Dummy
-'Pay back all your debts by borrowing more money from us!' Clever.		examine	object	Leaflets
+Pay back all your debts by borrowing more money from us!' Clever.		examine	object	Leaflets
 Contains quite a lot of someone else's property.		examine	object	Chest
 These huge stone discs grind grain to make flour.		examine	object	Millstones
 These sails use the wind to drive the windmill.		examine	object	Sails
@@ -13993,7 +13993,7 @@ Horvik's Smithy.		examine	object	Sign
 The Blue Moon Inn.		examine	object	Sign
 Bank of Gielinor.		examine	object	Sign
 Some kind of training facility.		examine	object	Sign
-'Aris, fortune-teller. Guaranteed no waiting.'		examine	object	Sign
+Aris, fortune-teller. Guaranteed no waiting.'		examine	object	Sign
 Cooking Guild.		examine	object	Sign
 A market stall.		examine	object	Market stall
 A coal scuttle for storing coal.		examine	object	Scuttle
@@ -14825,7 +14825,7 @@ A watermill, how charming.		examine	object	Painting
 A sunset.		examine	object	Painting
 A view of mountains.		examine	object	Painting
 A river winding through a valley.		examine	object	Painting
-'A Beginner's Guide to Killing Things', by Ali Morrisane.		examine	object	Combat Scroll
+A Beginner's Guide to Killing Things', by Ali Morrisane.		examine	object	Combat Scroll
 Where there's smoke, there's pollution.		examine	object	Smoking vent
 It's venting.		examine	object	Smoking vent
 Unregulated carbon emissions - how irresponsible!		examine	object	Chimney
@@ -15179,7 +15179,7 @@ Some crude stone steps.		examine	object	Stairs
 An old crude tomb.		examine	object	Ogre Coffin
 It's damaged.		examine	object	Broken Lecturn
 A note says, 'Please ring for attention.'		examine	object	Bell
-'Leave da dead-uns boxes 'lone or else ya goes down da 'ole'		examine	object	Signpost
+Leave da dead-uns boxes 'lone or else ya goes down da 'ole'		examine	object	Signpost
 This coffin is spilt over the floor.		examine	object	Ogre Coffin
 This coffin is open.		examine	object	Ogre Coffin
 A barricade made from skulls and bones.		examine	object	Barricade
@@ -15235,7 +15235,7 @@ A steam powered cart.		examine	object	Train cart
 Lots of seeds here.		examine	object	Seed Stall
 This sign has a notice!		examine	object	Notice
 Filled to the brim with knowledge.		examine	object	Old Bookshelf
-'You are here.'		examine	object	Globe of Gielinor
+You are here.'		examine	object	Globe of Gielinor
 Lots of hard study has been done here.		examine	object	Study Desk
 A telescope pointing southwards...		examine	object	Telescope
 A map of some ancient land.		examine	object	Chart
@@ -15932,7 +15932,7 @@ This is where the brewing ingredients go.		examine	object	Hopper
 An ominously stained barrel.		examine	object	Pressure Barrel
 This gate is closed.		examine	object	Gate
 The blood-chilling flag of the Inebriated.		examine	object	Pirate Sign
-'Please remember te wash yer hook'. Sound advice for the hygienic pirate.		examine	object	Sink
+Please remember te wash yer hook'. Sound advice for the hygienic pirate.		examine	object	Sink
 An unlit torch.		examine	object	Standing Torch
 A lit torch.		examine	object	Standing Torch
 A sturdy iron frame, for climbing up and down.		examine	object	Ladder
@@ -16749,7 +16749,7 @@ Someone certainly believes in having lots of barrels!		examine	object	Rack of ba
 Unusually enough, this barrel smells more strongly of rum than of fish.		examine	object	Large Barrel
 If they store fish in this dirty old barrow, I hope they clean them later!		examine	object	Barrow
 A barrow full of fish.		examine	object	Barrow
-'Can I borrow a shallow barrow?' Now say that faster! FASTER!		examine	object	Barrow
+Can I borrow a shallow barrow?' Now say that faster! FASTER!		examine	object	Barrow
 Apparently there's a lot of paperwork involved in running a Fishing Colony.		examine	object	Herman's desk
 A large net for pulling in fish.		examine	object	Net
 There is seaweed all over this fishing net.		examine	object	Net
@@ -17270,7 +17270,7 @@ A native jungle tree.		examine	object	Jungle tree
 Its leaves are made of burning.		examine	object	Jungle tree
 Precisely one tenth of a tree.		examine	object	Jungle tree
 I'd best pick another if I dont want my axe to burn up.		examine	object	Jungle tree
-'Paul Bunion was here.'		examine	object	Jungle tree
+Paul Bunion was here.'		examine	object	Jungle tree
 If I poke it, I will get burned.		examine	object	Jungle tree
 What's left after the loggers have been.		examine	object	Jungle tree
 Where the bitternut grows.		examine	object	Bitternut Tree
@@ -18614,8 +18614,8 @@ A basic bed.		examine	object	Bed
 Nice banquet table.		examine	object	Table
 A sturdy-looking round table.		examine	object	Table
 Armour of a White Knight. Decorative, but still effective.		examine	object	Suit of Armour
-'Concerned about theft? Set a Bank PIN today!'		examine	object	Notice board
-'Customers are reminded NEVER to tell ANYONE their password.'		examine	object	Notice board
+Concerned about theft? Set a Bank PIN today!'		examine	object	Notice board
+Customers are reminded NEVER to tell ANYONE their password.'		examine	object	Notice board
 This chest contains an impressive amount of Gold!!		examine	object	Chest
 Hope springs eternal.		examine	object	Fountain
 Where drunkards may be found.		examine	object	Bar
@@ -20994,8 +20994,8 @@ A recently filled in grave.		examine	object	Grave
 Maybe a great hero was buried here.		examine	object	Gravestone
 Time has worn away the details. May they rest in peace, whoever they were.		examine	object	Gravestone
 It's a bit wonky.		examine	object	Gravestone
-'Nostalgia is a side effect of dying.' - John the Greenseer		examine	object	Gravestone
-'Hope is the thing with feathers.' ~ E.D		examine	object	Gravestone
+Nostalgia is a side effect of dying.' - John the Greenseer		examine	object	Gravestone
+Hope is the thing with feathers.' ~ E.D		examine	object	Gravestone
 There's a strange lock on it.		examine	object	Mausoleum door
 It's been unlocked.		examine	object	Mausoleum door
 There's a Saradomin symbol on it.		examine	object	Coffin
