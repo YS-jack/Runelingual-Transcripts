@@ -20,7 +20,7 @@ To make this work, we need:
 - Character images: For languages with non-English alphabets, we create emojis for each character to display them in-game.
 - Key input to alphabet: If a language uses character images, we need a file mapping keyboard inputs to these characters. This ensures correct display of the language in-game.
 
-steps  on how the [RuneLingual](https://github.com/IaKee/RuneLingual-Plugin) plugin uses these files will be covered in the readme of its repository.
+steps on how the RuneLingual plugin uses these files will be covered in the readme of its repository.
 
 ## Directory Structure
 
@@ -35,19 +35,16 @@ This project is organized into three main directories:
 
 ## Contributing
 
-We welcome contributions to expand our language support. If you'd like to contribute or request support for another language that isn't listed, please [contact us](#contact-us).
-
-- If you'd like to contribute or request support for another language that isn't listed, please [contact us](#contact-us).
-- Feel free to tweak our language packs to your liking. We aim to support multiple language pack variants to accommodate different preferences.
+We welcome contributions to expand our language support. If you'd like to contribute, please [contact us]([#contact-us](https://discord.gg/ehwKcVdBGS)).
 
 ## Contact Us
 For all inquiries, proposals, or contributions, don't hesitate to get in touch with us.
 
-Should you have any queries, ideas, feedback, or other concerns, we encourage you to join [our Discord server](https://discord.gg/ehwKcVdBGS) and explore the [project's issues tab](https://github.com/IaKee/Runelingual-Transcripts/issues) for any suggestions, questions, or feedback.
+Should you have any queries, ideas, feedback, or other concerns, we encourage you to join [our Discord server](https://discord.gg/ehwKcVdBGS) and explore the project's issues tab for any suggestions, questions, or feedback.
 
 ## Disclaimer
 
-This repository is associated with the [RuneLingual project](https://github.com/IaKee/RuneLingual-Plugin), an independent plugin currently under development. Please be aware that this project is not officially connected with Jagex, the developers of OldSchool RuneScape, or RuneLite.
+This repository is associated with the RuneLingual project, an independent plugin currently under development. Please be aware that this project is not officially connected with Jagex, the developers of OldSchool RuneScape, or RuneLite.
 
 ## License
 
