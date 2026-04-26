@@ -1,0 +1,589 @@
+english	translation	category	sub_category	source
+Destroy	销毁	inventoryActions	item	Dwarf remains
+Drop	丢弃	inventoryActions	item	Steel cannonball
+Read	阅读	inventoryActions	item	Nulodion's notes
+Set-up	设置	inventoryActions	item	Cannon base
+Blow	吹	inventoryActions	item	Magic whistle
+Ring	摇动	inventoryActions	item	Grail bell
+Blow-on	吹凉	inventoryActions	item	Magic gold feather
+Extinguish	熄灭	inventoryActions	item	Lit black candle
+Wield	装备	inventoryActions	item	Excalibur
+Wear	穿戴	inventoryActions	item	Khazard helmet
+Empty	清空	inventoryActions	item	Guam potion (unf)
+Drink	喝	inventoryActions	item	Strength potion(4)
+Clean	清洗	inventoryActions	item	Grimy guam leaf
+Eat	吃	inventoryActions	item	Jangerberries
+Equip	装备	inventoryActions	item	Cattleprod
+Plant	种植	inventoryActions	item	Mithril seeds
+Open	打开	inventoryActions	item	Casket
+Throw	投掷	inventoryActions	item	Bird feed
+Bury	埋葬	inventoryActions	item	Bones
+Inspect	检查	inventoryActions	item	Ghost's skull
+Bail-with	舀水	inventoryActions	item	Bailing bucket
+Activate	激活	inventoryActions	item	Locating crystal
+Search	搜索	inventoryActions	item	Panning tray
+Polish	擦拭	inventoryActions	item	Buttons
+Look-at	查看	inventoryActions	item	Level 1 certificate
+Complete	完成	inventoryActions	item	Radimus notes
+Swing	摆动	inventoryActions	item	Bullroarer
+Look	看	inventoryActions	item	Sketch
+Enchant-Vials	附魔瓶子	inventoryActions	item	Binding book
+Investigate	调查	inventoryActions	item	Dark dagger
+Cast Spell	施放法术	inventoryActions	item	Holy force
+Hold	拿着	inventoryActions	item	Gnomeball
+Dig	挖掘	inventoryActions	item	Spade
+Blackout	熄灭	inventoryActions	item	Disk of returning
+Check	检查	inventoryActions	item	Iban's staff
+Locate	定位	inventoryActions	item	Air talisman
+Rub-together	摩擦	inventoryActions	item	Dry sticks
+Study	研究	inventoryActions	item	Map part
+Rub	摩擦	inventoryActions	item	Amulet of glory
+Edgeville	传送至边陲镇	inventoryActions	item	Amulet of glory(1)
+Karamja	传送至卡拉姆詹岛	inventoryActions	item	Amulet of glory(1)
+Draynor Village	传送至德雷诺村	inventoryActions	item	Amulet of glory(1)
+Al Kharid	传送至阿尔卡里德城	inventoryActions	item	Amulet of glory(1)
+Tan Leather	鞣皮	inventoryActions	item	Leather
+Empty Bowl	倒掉	inventoryActions	item	Burnt stew
+Mix-cocktail	调制鸡尾酒	inventoryActions	item	Cocktail shaker
+Remove-legs	卸下腿甲	inventoryActions	item	Swamp toad
+Prepare	准备	inventoryActions	item	Half baked bowl
+Empty Tray	清空托盘	inventoryActions	item	Burnt crunchies
+Empty Tin	清空罐子	inventoryActions	item	Burnt batta
+Empty Dish	清空菜盘 / 碗	inventoryActions	item	Burnt pie
+Guzzle	大口吞食	inventoryActions	item	Rock cake
+Play-with	玩耍	inventoryActions	item	Brown toy horsey
+Recharge Dragonstone	充能龙石	inventoryActions	item	Dead orb
+Break	损毁	inventoryActions	item	Ring of recoil
+Emir's Arena	传送至埃米尔竞技场	inventoryActions	item	Ring of dueling(8)
+Castle Wars	传送至城堡战争	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	传送至费罗飞地	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	传送至福蒂斯竞技场	inventoryActions	item	Ring of dueling(8)
+Toggle-respawn	切换重生点	inventoryActions	item	Ring of life
+Features	功能设定	inventoryActions	item	Ring of wealth
+Look through	翻找 / 查阅	inventoryActions	item	Sextant
+Check steps	查看进度	inventoryActions	item	Clue scroll (easy)
+Release All	全部释放	inventoryActions	item	Bloated toad
+Release	释放	inventoryActions	item	Bloated toad
+Check kills	查看击杀数	inventoryActions	item	Ogre bow
+Fill	填充 / 装满	inventoryActions	item	Druid pouch
+Cast Bloom	施法催生	inventoryActions	item	Silver sickle (b)
+Bloom	催生	inventoryActions	item	Silver sickle (b)
+Cast	施放	inventoryActions	item	Druidic spell
+Debug	调试	inventoryActions	item	Boss helper tool
+Play	播放 / 玩	inventoryActions	item	Lyre
+Rellekka	传送至雷勒卡城	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	传送至水诞岛	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	传送至奈提兹诺镇	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	传送至加提兹索岛	inventoryActions	item	Enchanted lyre(1)
+Interact	互动	inventoryActions	item	Pet rock
+Shake	摇晃	inventoryActions	item	Vase
+Remove-lid	取下盖子	inventoryActions	item	Sealed vase
+Preach	布道	inventoryActions	item	Holy book
+Burthorpe	传送至伯索普公国	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	传送至野蛮人前哨站	inventoryActions	item	Games necklace(8)
+Corporeal Beast	传送至实体巨兽	inventoryActions	item	Games necklace(8)
+Tears of Guthix	传送至古斯之泪游戏	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	传送至寒冬营地	inventoryActions	item	Games necklace(8)
+View	查看	inventoryActions	item	Spare controls
+Listen	聆听	inventoryActions	item	Monkey dentures
+Poke	戳	inventoryActions	item	Monkey
+Surrender	投降	inventoryActions	item	Saradomin cloak
+Heal	治疗	inventoryActions	item	Bandages
+Loop	播放循环	inventoryActions	item	Yo-yo
+Walk	行走	inventoryActions	item	Yo-yo
+Crazy	发疯	inventoryActions	item	Yo-yo
+Ride	骑乘	inventoryActions	item	Sled
+Partner	结伴	inventoryActions	item	Enchanted gem
+Log	记录	inventoryActions	item	Enchanted gem
+Repair	修理	inventoryActions	item	Model ship
+Follow	跟随	inventoryActions	item	Treasure map
+Count	计数	inventoryActions	item	Petition form
+Check-keys	查看钥匙	inventoryActions	item	Steel key ring
+Fling	抛掷	inventoryActions	item	Easter basket
+Dance	跳舞	inventoryActions	item	Rubber chicken
+Assemble	组装	inventoryActions	item	Base schematics
+Spin	旋转	inventoryActions	item	Spinning plate
+Remove-one	移除一个	inventoryActions	item	Apples(2)
+Build	建造	inventoryActions	item	Rogue kit
+Slice	切片	inventoryActions	item	Rotten potato
+Peel	剥皮	inventoryActions	item	Rotten potato
+Mash	捣碎	inventoryActions	item	Rotten potato
+Lletya	传送至莱蒂亚村	inventoryActions	item	Teleport crystal (4)
+Prifddinas	传送至普里夫迪纳斯城	inventoryActions	item	Teleport crystal (4)
+Toggle	切换传送点	inventoryActions	item	Teleport crystal (4)
+Uncharge	解除充能	inventoryActions	item	Broodoo shield (10)
+Scan	扫描	inventoryActions	item	Commorb
+Contact	联络	inventoryActions	item	Commorb
+Playback	播放纪录	inventoryActions	item	Commorb
+Talk-At	交谈	inventoryActions	item	Fishbowl
+Play-With	玩耍	inventoryActions	item	Fishbowl
+Feed	喂食	inventoryActions	item	Fishbowl
+Untangle	解开	inventoryActions	item	Fishbowl and net
+Check-charge	查看剩余充能	inventoryActions	item	Camulet
+Teleport	传送	inventoryActions	item	Camulet
+Display	展示	inventoryActions	item	Zombie head
+Question	询问	inventoryActions	item	Zombie head
+Chant	吟唱	inventoryActions	item	Demonic sigil
+Feel	触摸 / 感应	inventoryActions	item	Enchanted key
+Remove-rat	取下老鼠	inventoryActions	item	Rat pole
+Geomancy	施放地卜术	inventoryActions	item	Watering can
+Jump	跳跃	inventoryActions	item	Blue marionette
+Bow	鞠躬	inventoryActions	item	Blue marionette
+Talk-to	对话	inventoryActions	item	Progress hat
+Return	归还 / 返回	inventoryActions	item	Prison key
+Smell	闻	inventoryActions	item	Spicy stew
+Release-all	全部释放	inventoryActions	item	Balloon toad
+Wind	上发条	inventoryActions	item	Toy soldier
+Separate	拆分	inventoryActions	item	Kbd heads
+Unstuff	取出填充物	inventoryActions	item	Stuffed crawling hand
+Varrock	传送至维洛克城	inventoryActions	item	Varrock teleport
+Grand Exchange	传送至大交易所	inventoryActions	item	Varrock teleport
+Camelot	传送至卡美洛城堡	inventoryActions	item	Camelot teleport
+Seers' Village	传送至先知村	inventoryActions	item	Camelot teleport
+Watchtower	传送至瞭望塔	inventoryActions	item	Watchtower teleport
+Yanille	传送至亚尼勒城	inventoryActions	item	Watchtower teleport
+Inside	传送至房屋内	inventoryActions	item	Teleport to house
+Outside	传送至房屋外	inventoryActions	item	Teleport to house
+Group	群体传送	inventoryActions	item	Teleport to house
+Info	详情	inventoryActions	item	Enchant sapphire or opal
+Dust-hands	拍灰	inventoryActions	item	Ground ashes
+Talk-To	对话	inventoryActions	item	Monkey
+Invoke	发动传送	inventoryActions	item	Skull sceptre
+Divine	占卜 / 获取启示	inventoryActions	item	Skull sceptre
+Convert	转换	inventoryActions	item	Pharaoh's sceptre
+Launch	发射	inventoryActions	item	Grand seed pod
+Squash	压碎	inventoryActions	item	Grand seed pod
+Pour	倾倒	inventoryActions	item	Mixed blizzard
+Add-ingreds	添加材料	inventoryActions	item	Mixed saturday
+Unpack	打开包装	inventoryActions	item	Proselyte harness m
+Shape-Earth	制作空白的大地符石	inventoryActions	item	Page 1
+Shape-Air	制作空白的风符石	inventoryActions	item	Page 1
+Shape-Fire	制作空白的火焰符石	inventoryActions	item	Page 2
+Shape-Water	制作空白的水符石	inventoryActions	item	Page 2
+Shape-Mind	制作空白的心灵符石	inventoryActions	item	Page 3
+Boost	提升 / 强化	inventoryActions	item	Attack cape
+Warriors' Guild	传送至战士公会	inventoryActions	item	Strength cape
+Toggle Effect	切换效果	inventoryActions	item	Defence cape
+Toggle Respawn	切换重生点	inventoryActions	item	Defence cape
+Commune	交流	inventoryActions	item	Ranging cape
+Spellbook	切换法术书	inventoryActions	item	Magic cape
+Lunar	切换至月之法术书	inventoryActions	item	Magic cape
+Arceuus	切换至阿西乌斯法术书	inventoryActions	item	Magic cape
+Standard	切换至标准法术书	inventoryActions	item	Magic cape
+Ancient	切换至古代法术书	inventoryActions	item	Magic cape
+Stamina Boost	恢复耐力	inventoryActions	item	Agility cape
+Tele to POH	传送至玩家房屋	inventoryActions	item	Construct. cape
+Brimhaven	传送至布尔哈文镇	inventoryActions	item	Construct. cape
+Home	传送至房屋	inventoryActions	item	Construct. cape
+Rimmington	传送至里明顿村	inventoryActions	item	Construct. cape
+Taverley	传送至塔韦利村	inventoryActions	item	Construct. cape
+Pollnivneach	传送至波尼尼镇	inventoryActions	item	Construct. cape
+Hosidius	传送至霍西迪乌斯城	inventoryActions	item	Construct. cape
+Aldarin	传送至阿尔达林岛	inventoryActions	item	Construct. cape
+Fishing Guild	传送至钓鱼公会	inventoryActions	item	Fishing cape
+Otto's Grotto	传送至奥托的洞穴	inventoryActions	item	Fishing cape
+Trim	修剪	inventoryActions	item	Quest point cape
+Load	装填	inventoryActions	item	White destabiliser
+Split	拆分 / 切开	inventoryActions	item	Cap and goggles
+Hunter Guild	传送至猎人公会	inventoryActions	item	Hunter cape
+Carnivorous Chinchompas	传送至食肉炸弹鼠群落	inventoryActions	item	Hunter cape
+Black Chinchompas	传送至黑色炸弹鼠群落	inventoryActions	item	Hunter cape
+Lay	放置	inventoryActions	item	Bird snare
+Check totals	检查总量	inventoryActions	item	Butterfly net
+Check Totals	检查总量	inventoryActions	item	Butterfly net
+Bank	存入银行	inventoryActions	item	Imp-in-a-box(2)
+Translate	翻译	inventoryActions	item	Research notes
+Prance	蹦跳	inventoryActions	item	Reindeer hat
+Write-Role	选取角色	inventoryActions	item	Scroll
+Clear	清除	inventoryActions	item	Scroll
+Tell-red	告知 - 红色	inventoryActions	item	Attacker horn
+Tell-green	告知 - 绿色	inventoryActions	item	Attacker horn
+Tell-blue	告知 - 蓝色	inventoryActions	item	Attacker horn
+Medic	治疗	inventoryActions	item	Attacker horn
+Look-in	查看内部	inventoryActions	item	Collection bag
+Tell-tofu	告知 - 豆腐	inventoryActions	item	Healer horn
+Tell-crackers	告知 - 饼干	inventoryActions	item	Healer horn
+Tell-worms	告知 - 蠕虫	inventoryActions	item	Healer horn
+Tell-meat	告知 - 肉	inventoryActions	item	Defender horn
+Tell-controlled	告知 - 控制	inventoryActions	item	Collector horn
+Tell-accurate	告知 - 准确	inventoryActions	item	Collector horn
+Tell-aggressive	告知 - 攻击	inventoryActions	item	Collector horn
+Tell-defensive	告知 - 防御	inventoryActions	item	Collector horn
+Check tax	查看税收	inventoryActions	item	Empty tax bag
+Check taxes	查看税收	inventoryActions	item	Bulging taxbag
+Pray-over	祈祷	inventoryActions	item	Blessed lamp
+Recite-prayer	吟诵祈祷	inventoryActions	item	Prayer book
+Operate	操作	inventoryActions	item	Beacon ring
+Farming Guild	传送至农业公会	inventoryActions	item	Skills necklace(4)
+Mining Guild	传送至采矿公会	inventoryActions	item	Skills necklace(4)
+Crafting Guild	传送至制作公会	inventoryActions	item	Skills necklace(4)
+Cooking Guild	传送至厨师公会	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	传送至伐木公会	inventoryActions	item	Skills necklace(4)
+Champions' Guild	传送至冠军公会	inventoryActions	item	Combat bracelet(4)
+Monastery	传送至埃奇维尔修道院	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	传送至射手公会	inventoryActions	item	Combat bracelet(4)
+Gem Mine	传送至宝石矿场	inventoryActions	item	Karamja gloves 3
+Fossil Island	传送至化石岛	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	传送至利斯克伦地牢	inventoryActions	item	Digsite pendant (1)
+Digsite	传送至考古挖掘场	inventoryActions	item	Digsite pendant (1)
+Loot	搜刮 / 领取 / 转移战利品	inventoryActions	item	Baby impling jar
+Impling-jar	生成小精灵罐	inventoryActions	item	Jar generator
+Butterfly-jar	生成蝴蝶罐	inventoryActions	item	Jar generator
+Toggle-view	切换视图	inventoryActions	item	Impling scroll
+Copy to log	复制到日志	inventoryActions	item	Ancient page
+Discard	丢弃	inventoryActions	item	Anti-dragon shield (nz)
+Take-one	拿取一个	inventoryActions	item	Herb box
+Bank-all	全部存入	inventoryActions	item	Herb box
+Refund	退回	inventoryActions	item	Scroll of redirection
+Revert	还原	inventoryActions	item	Rimmington teleport
+Dismantle	拆解	inventoryActions	item	Armadyl godsword
+Disassemble	拆解	inventoryActions	item	Slayer helmet
+Fremennik Dungeon	传送至费明尼克地牢	inventoryActions	item	Slayer ring (8)
+Dark Beasts	传送至暗黑兽群落	inventoryActions	item	Slayer ring (8)
+Master	传送至杀戮大师	inventoryActions	item	Slayer ring (8)
+Stronghold	传送至杀戮者要塞地牢	inventoryActions	item	Slayer ring (8)
+Slayer Tower	传送至杀戮者之塔	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	传送至塔恩的巢穴	inventoryActions	item	Slayer ring (8)
+Deposit	存放	inventoryActions	item	Looting bag
+Settings	设置	inventoryActions	item	Looting bag
+Miscellania	传送至米斯凯尼亚国	inventoryActions	item	Ring of wealth (5)
+Falador	传送至法拉多城	inventoryActions	item	Ring of wealth (5)
+Dondakan	传送至东达坎	inventoryActions	item	Ring of wealth (5)
+Boss Log	查看Boss击杀纪录	inventoryActions	item	Ring of wealth (5)
+Coin Collection	切换金币自动拾取状态	inventoryActions	item	Ring of wealth (5)
+Tip	轻触	inventoryActions	item	Fedora
+Spawn Item	生成物品	inventoryActions	item	Holiday tool
+Basic Reanimation	施放基础复活术	inventoryActions	item	Easter
+Dissolve	溶解	inventoryActions	item	Abyssal tentacle
+Check completion	查看完成度	inventoryActions	item	Challenge scroll (elite)
+Check rank	查看排名	inventoryActions	item	Druidic wreath
+Check Rank	查看排名	inventoryActions	item	Druidic wreath
+Configure	配置	inventoryActions	item	Annakarl teleport
+Extract	提取	inventoryActions	item	Nest box (empty)
+Unload	卸载	inventoryActions	item	Toxic blowpipe
+Untrim	拆除饰边	inventoryActions	item	Quest point cape (t)
+Karamja (Shilo)	传送至卡拉姆詹岛的希洛村	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	传送至西部省份	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	传送至卡拉姆詹岛的丛林	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	传送至特威吉‧奥科恩	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	传送至卡拉姆詹岛的特扎尔地下城	inventoryActions	item	Achievement diary cape (t)
+Ardougne	传送至阿多尼城	inventoryActions	item	Achievement diary cape (t)
+Desert	传送至沙漠	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	传送至库兰德王国与凯博斯	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	传送至仑桥镇与德雷诺村	inventoryActions	item	Achievement diary cape (t)
+Fremennik	传送至费明尼克群岛	inventoryActions	item	Achievement diary cape (t)
+Morytania	传送至莫利塔尼亚	inventoryActions	item	Achievement diary cape (t)
+Kandarin	传送至坎达林王国	inventoryActions	item	Achievement diary cape (t)
+Wilderness	传送至荒野	inventoryActions	item	Achievement diary cape (t)
+Slayer Master	传送至杀戮大师	inventoryActions	item	Karamja gloves 4
+Ecto Teleport	传送至灵泉	inventoryActions	item	Morytania legs 1
+Ectofuntus Pit	传送至灵泉坑	inventoryActions	item	Morytania legs 1
+Burgh Teleport	传送至伯格德罗特镇	inventoryActions	item	Morytania legs 3
+Burgh de Rott	传送至伯格德罗特镇	inventoryActions	item	Morytania legs 3
+Activity	切换自动碎骨设定	inventoryActions	item	Bonecrusher
+Recharge-prayer	恢复祈祷值	inventoryActions	item	Falador shield 1
+Recharge Prayer	恢复祈祷值	inventoryActions	item	Falador shield 1
+Monastery Teleport	传送至修道院	inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery	传送至坎达林修道院	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	传送至农场	inventoryActions	item	Ardougne cloak 2
+Ardougne Farm	传送至阿多尼农场	inventoryActions	item	Ardougne cloak 2
+Energy	恢复跑步值	inventoryActions	item	Explorer's ring 1
+Alchemy	施放低级炼金术	inventoryActions	item	Explorer's ring 1
+Functions	功能设定	inventoryActions	item	Explorer's ring 2
+Nardah	传送至那尔达城	inventoryActions	item	Desert amulet 4
+Kalphite cave	传送至卡尔夫特虫洞穴	inventoryActions	item	Desert amulet 4
+Emote	表情动作	inventoryActions	item	Diango's claws
+Redeem	兑换	inventoryActions	item	Old school bond
+Restore	恢复	inventoryActions	item	Tanzanite helm (uncharged)
+Scramble	搅拌 / 爬行	inventoryActions	item	Rotten egg
+Poach	水煮 / 偷猎	inventoryActions	item	Rotten egg
+Fry	煎 / 炸	inventoryActions	item	Rotten egg
+Pickle	腌制	inventoryActions	item	Rotten egg
+Consume	消耗	inventoryActions	item	Saradomin's light
+Teleports	传送	inventoryActions	item	Max cape
+Metamorphosis	变形	inventoryActions	item	Beaver
+Chew	咀嚼	inventoryActions	item	Rotten onion
+POH Portals	传送至玩家房屋	inventoryActions	item	Max cape
+Carnivorous chinchompas	传送至食肉炸弹鼠群落	inventoryActions	item	Max cape
+Ring of Life	切换生命戒指效果	inventoryActions	item	Max cape
+Black chinchompas	传送至黑色炸弹鼠群落	inventoryActions	item	Max cape
+The Pandemonium	传送至潘德莫尼姆岛	inventoryActions	item	Max cape
+Warrior's Guild	传送至战士公会	inventoryActions	item	Max cape
+Teleport Boat (Pandemonium)	传送船只至潘德莫尼姆岛	inventoryActions	item	Max cape
+Rename boat	更改船名	inventoryActions	item	Max cape
+Guild Teleports	传送至公会	inventoryActions	item	Max cape
+Skilling Areas	传送至各项技能训练场地	inventoryActions	item	Max cape
+Xeric's Lookout	传送至泽里克的瞭望台	inventoryActions	item	Xeric's talisman
+Xeric's Glade	传送至泽里克的林地	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	传送至泽里克的地狱	inventoryActions	item	Xeric's talisman
+Xeric's Heart	传送至泽里克的心脏	inventoryActions	item	Xeric's talisman
+Xeric's Honour	传送至泽里克的荣誉	inventoryActions	item	Xeric's talisman
+Take-grubs	拿取幼虫	inventoryActions	item	Bucket of sandworms
+Pack	打包	inventoryActions	item	Shayzien supply crate
+Check charges	查看剩余充能	inventoryActions	item	Chronicle
+Check Charges	查看剩余充能	inventoryActions	item	Chronicle
+Teleport to Target	传送至目标	inventoryActions	item	Dead orb
+Transform	变形	inventoryActions	item	Monkey
+Lap-count	圈数统计	inventoryActions	item	Monkey
+Combine	组合	inventoryActions	item	Torn clue scroll (part 1)
+Recoil settings	反伤设置	inventoryActions	item	Ring of suffering (r)
+Recoil Settings	反伤设置	inventoryActions	item	Ring of suffering (r)
+Pages	管理书页	inventoryActions	item	Tome of fire
+Swap	交换	inventoryActions	item	Bruma torch
+Invigorate	激发 / 鼓舞	inventoryActions	item	Imbued heart
+Look at	查看	inventoryActions	item	Snow globe
+Snow	生成雪堆	inventoryActions	item	Snow globe
+The Outpost	传送至前哨站	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	传送至鹰巢	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	传送至法师塔	inventoryActions	item	Necklace of passage(5)
+Options	选项	inventoryActions	item	Amulet of chemistry
+Bandit Camp	传送至强盗营地	inventoryActions	item	Burning amulet(5)
+Lava Maze	传送至熔岩迷宫	inventoryActions	item	Burning amulet(5)
+Chaos Temple	传送至混沌神殿	inventoryActions	item	Burning amulet(5)
+Change-style	切换风格	inventoryActions	item	Rainbow scarf
+Chill	扇风	inventoryActions	item	Hand fan
+Remove default	移除预设传送点	inventoryActions	item	Master scroll book
+Throw-water	泼水	inventoryActions	item	Heat-proof vessel
+Throw-water direction	选择泼水方向	inventoryActions	item	Heat-proof vessel
+Check-level	查看等级	inventoryActions	item	Heat-proof vessel
+Throw-water north	向北方泼水	inventoryActions	item	Heat-proof vessel
+Throw-water east	向东方泼水	inventoryActions	item	Heat-proof vessel
+Throw-water south	向南方泼水	inventoryActions	item	Heat-proof vessel
+Throw-water west	向西方泼水	inventoryActions	item	Heat-proof vessel
+Roll	掷  / 卷动	inventoryActions	item	Hoop snake
+Recharge	充能	inventoryActions	item	Ancient wyvern shield
+Channel	引导	inventoryActions	item	Merfolk trident
+Puff	吹气	inventoryActions	item	Pufferfish
+Take fish	取鱼	inventoryActions	item	Bowl of fish
+Reminisce	回忆	inventoryActions	item	Kharedst's memoirs
+Lunch by the Lancalliums	传送至霍西迪乌斯城	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	传送至皮斯卡里琉斯城	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	传送至谢兹恩城	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	传送至洛瓦肯吉城	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	传送至阿西乌斯城	inventoryActions	item	Kharedst's memoirs
+Toggle-absorption	切换吸收功能	inventoryActions	item	Bracelet of ethereum
+Toggle absorption	切换吸收功能	inventoryActions	item	Bracelet of ethereum
+Elite	精英	inventoryActions	item	Useful rock
+Assessment	评估	inventoryActions	item	Useful rock
+Slash	挥砍	inventoryActions	item	Prop sword
+Control	控制 / 操纵	inventoryActions	item	Rotten cabbage
+Spectate	旁观	inventoryActions	item	Rotten cabbage
+Charge	充能	inventoryActions	item	Sanguinesti staff
+Scry	占卜	inventoryActions	item	Oculus orb
+Ver Sinhaza	传送至维尔‧辛哈扎城堡	inventoryActions	item	Drakan's medallion
+Darkmeyer	传送至达克迈尔	inventoryActions	item	Drakan's medallion
+Slepe	传送至斯莱普镇	inventoryActions	item	Drakan's medallion
+Tele	传送	inventoryActions	item	Rotten carrot
+Kill Bot	击杀机器人	inventoryActions	item	Rotten carrot
+Kill Area	区域击杀	inventoryActions	item	Rotten carrot
+Change	切换	inventoryActions	item	Sinhaza shroud tier 1
+Auto-afk	自动挂机	inventoryActions	item	Escape crystal
+Open-all	全部打开	inventoryActions	item	Coin pouch
+Close	关闭	inventoryActions	item	Looting bag
+Weiss	传送至魏斯聚落	inventoryActions	item	Icy basalt
+Troll Stronghold	传送至巨魔要塞	inventoryActions	item	Stony basalt
+Troll Stronghold entrance	传送至巨魔要塞入口	inventoryActions	item	Stony basalt
+Troll Stronghold roof	传送至巨魔要塞屋顶	inventoryActions	item	Stony basalt
+Collections overview	查看收藏概览	inventoryActions	item	Collection log
+Collections Overview	查看收藏概览	inventoryActions	item	Collection log
+Collection Log	查看收藏日志	inventoryActions	item	Collection log
+Fletch	制箭	inventoryActions	item	Celastrus bark
+Kourend Woodland	传送至库兰德林地	inventoryActions	item	Rada's blessing 1
+Mount Karuulm	传送至卡鲁尔姆山	inventoryActions	item	Rada's blessing 3
+Check/Uncharge	查看 / 解除充能	inventoryActions	item	Bonecrusher necklace
+Take	拿取	inventoryActions	item	Seed pack
+Take-all	全部拿取	inventoryActions	item	Seed pack
+Easter dance	跳复活节舞	inventoryActions	item	Giant easter egg
+Cut-open	切开	inventoryActions	item	Giant egg sac(full)
+Check-eggs	检查鸡蛋	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	取出鸡蛋	inventoryActions	item	Giant egg sac
+Scrutinise	仔细检查	inventoryActions	item	Guthixian icon
+Trophy Emote	展示奖杯	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	扭曲遗物表情动作	inventoryActions	item	Twisted cane
+Chase	追逐	inventoryActions	item	Cat ears
+Open-All	全部打开	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	开拓者遗物动作	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	开拓者区域动作	inventoryActions	item	Trailblazer cane
+Change-Style	切换风格	inventoryActions	item	Infernal harpoon (or)
+Last-destination	传送至上次目的地	inventoryActions	item	Fairy mushroom
+Fairy-Ring	传送至仙女环	inventoryActions	item	Fairy mushroom
+Spirit-tree	传送至灵魂树	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	传送至工具小妖精	inventoryActions	item	Fairy mushroom
+Teleport-back	传送回去	inventoryActions	item	Crystal of echoes
+Check-memories	检查纪录	inventoryActions	item	Crystal of echoes
+Save-memory	保存纪录	inventoryActions	item	Crystal of echoes
+Withdraw	取出	inventoryActions	item	Extradimensional bag
+Settings/Destroy	设置 / 销毁	inventoryActions	item	Extradimensional bag
+League Debug	联盟调试	inventoryActions	item	League tomato
+Setups	配置	inventoryActions	item	League tomato
+Toggle-colour	切换颜色	inventoryActions	item	Soul cape
+Use	使用	inventoryActions	item	Tackle box
+Scatter	撒播	inventoryActions	item	Fiendish ashes
+Trollheim	传送至巨魔之乡	inventoryActions	item	Ghommal's hilt 1
+Mor Ul Rek	传送至莫尔乌尔雷克	inventoryActions	item	Ghommal's hilt 4
+Unattune	取消共鸣	inventoryActions	item	Sigil of resilience
+Attune	共鸣	inventoryActions	item	Sigil of resilience
+Unlock	解锁	inventoryActions	item	Sigil of deft strikes
+Make scary noise	制造恐怖声音	inventoryActions	item	Jered's empty wine bottle
+Reverse	反转	inventoryActions	item	Ugly halloween jumper (orange)
+Wake-ghost	唤醒幽灵	inventoryActions	item	Haunted wine bottle
+Read-tag	阅读标签	inventoryActions	item	Secret santa present (red)
+Change-colour	切换颜色	inventoryActions	item	Secret santa present (red)
+Dismantle kit	拆解套件	inventoryActions	item	Abyssal whip (or)
+Skill Emote	技能表情动作	inventoryActions	item	Shattered cane
+Boss Emote	Boss表情动作	inventoryActions	item	Shattered cane
+Quest Emote	任务表情动作	inventoryActions	item	Shattered cane
+Fragment Emote	碎片表情动作	inventoryActions	item	Shattered cane
+Change Spellbook	切换法术书	inventoryActions	item	Arcane grimoire
+Previous Spellbook	切换至上一个法术书	inventoryActions	item	Arcane grimoire
+Check Previous	查看上次记录	inventoryActions	item	Arcane grimoire
+Unimbue	取消强化	inventoryActions	item	Wristbands of the arena (i)
+Last Destination	传送至上次目的地	inventoryActions	item	Ring of the elements
+Air Altar	传送至风祭坛	inventoryActions	item	Ring of the elements
+Water Altar	传送至水祭坛	inventoryActions	item	Ring of the elements
+Earth Altar	传送至大地祭坛	inventoryActions	item	Ring of the elements
+Fire Altar	传送至火焰祭坛	inventoryActions	item	Ring of the elements
+Last-Teleport	传送至最后使用的传送点	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	传送至贾尔萨夫拉金字塔	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	传送至贾勒乌斯特罗福斯金字塔	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	传送至贾尔德拉奥赫特金字塔	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	传送至贾尔特瓦斯金字塔	inventoryActions	item	Pharaoh's sceptre
+Attach	装上	inventoryActions	item	Cursed phalanx
+Place	放置	inventoryActions	item	Mirror
+Withdraw 1	取出1个	inventoryActions	item	Supplies
+Withdraw All	取出全部	inventoryActions	item	Supplies
+Resupply	补给	inventoryActions	item	Supplies
+Apply	使用	inventoryActions	item	Silk dressing (2)
+Crack	敲碎	inventoryActions	item	Blessed crystal scarab (2)
+Crush	压碎	inventoryActions	item	Smelling salts (2)
+Take-from	取出	inventoryActions	item	Infinite money bag
+Help	帮助	inventoryActions	item	Fresh start helper
+Accept trick-or-treat	接受不给糖就捣蛋	inventoryActions	item	Treat cauldron
+Sniff	嗅闻	inventoryActions	item	Smelly sock
+Destinations	选择传送点	inventoryActions	item	Ghommal's avernic defender 5
+Forestry kit	开启林业套件选单	inventoryActions	item	Forestry basket
+Log basket	原木篮	inventoryActions	item	Forestry basket
+Empty basket	清空篮子	inventoryActions	item	Forestry basket
+Craft	制作	inventoryActions	item	Secateurs blade
+History	查看历史纪录	inventoryActions	item	Mulch
+Ancient Vault	传送至古代金库	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	传送至格罗洛克地牢	inventoryActions	item	Ring of shadows
+The Scar	传送至深渊之痕	inventoryActions	item	Ring of shadows
+Lassar Undercity	传送至拉萨尔地下城	inventoryActions	item	Ring of shadows
+The Stranglewood	传送至绞杀森林	inventoryActions	item	Ring of shadows
+Recall	召回	inventoryActions	item	Blackstone fragment
+Squeeze	挤压	inventoryActions	item	Detonator
+Set-off	引爆 / 出发	inventoryActions	item	Stink bomb
+Fairy-ring	传送至仙女环	inventoryActions	item	Trinket of fairies
+Summon Lil Zuk	召唤小祖克	inventoryActions	item	Trinket of undead
+Summon Lil Kal	召唤小卡尔	inventoryActions	item	Trinket of undead
+Summon Lil Wisp	召唤小精灵	inventoryActions	item	Trinket of undead
+Nexus	开启传送介面	inventoryActions	item	Globetrotter pendant
+Jewellery	开启首饰功能介面	inventoryActions	item	Globetrotter pendant
+Note-Quantity	记数	inventoryActions	item	Banker's note
+Un-note-Quantity	取消记数	inventoryActions	item	Banker's note
+Summon	召唤	inventoryActions	item	Guardian horn
+Dismiss	解散	inventoryActions	item	Guardian horn
+Toggle-modes	切换模式	inventoryActions	item	Guardian horn
+Change-outfit	切换外观	inventoryActions	item	Guardian horn
+Change Prayerbook	切换祈祷书	inventoryActions	item	Ruinous powers
+Toggle-activity	开启 / 关闭功能	inventoryActions	item	Echo boots
+Signal	呼叫绿咬鹃	inventoryActions	item	Basic quetzal whistle
+Rumour	查看猎人情报任务详请	inventoryActions	item	Basic quetzal whistle
+Break-down	分解	inventoryActions	item	Blessed bone statuette
+Darkfrost	传送至暗霜地牢	inventoryActions	item	Pendant of ates
+Twilight Temple	传送至暮光神殿	inventoryActions	item	Pendant of ates
+Ralos' Rise	传送至拉洛斯高峰	inventoryActions	item	Pendant of ates
+North Aldarin	传送至北阿尔达林岛	inventoryActions	item	Pendant of ates
+Kastori	传送至卡斯托里定居点	inventoryActions	item	Pendant of ates
+Nemus Retreat	传送至内穆斯隐居地	inventoryActions	item	Pendant of ates
+Colour	切换颜色	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	雕刻	inventoryActions	item	Beige pumpkin (disgusted)
+Withdraw-all	全部取出	inventoryActions	item	Forager's pouch
+Withdraw-last	取出最后存入的物品	inventoryActions	item	Forager's pouch
+Current-step	查看当前线索内容	inventoryActions	item	Clue compass
+Collect	收集	inventoryActions	item	Pocket kingdom
+Manage-kingdom	管理王国	inventoryActions	item	Pocket kingdom
+Relic Emote	遗物表情动作	inventoryActions	item	Raging echoes cane
+Area Emote	区域表情动作	inventoryActions	item	Raging echoes cane
+Detach	分离	inventoryActions	item	Echo venator bow
+Detatch	分离	inventoryActions	item	Echo ahrim's robeskirt 75
+Create-book	制作书籍	inventoryActions	item	Bronze staff of collection
+Bryophyta	传送至布赖奥菲塔	inventoryActions	item	Giantsoul amulet
+Obor	传送至奥博尔	inventoryActions	item	Giantsoul amulet
+Branda and Eldric	传送至布兰达和埃尔德里克	inventoryActions	item	Giantsoul amulet
+Radius	调整道具功能半径	inventoryActions	item	Soulflame horn
+Max Players	设定分享经验的最大玩家数	inventoryActions	item	Soulflame horn
+Wipe	清除	inventoryActions	item	Jim's wet cloth
+Gl. Attenuation	发动衰减效果	inventoryActions	item	Contract of glyphic attenuation
+Se. Clouding	发动感官遮蔽效果	inventoryActions	item	Contract of sensory clouding
+Bl. Blows	发动重击效果	inventoryActions	item	Contract of bloodied blows
+Di. Severance	发动断绝效果	inventoryActions	item	Contract of divine severance
+Fo. Breath	发动气绝效果	inventoryActions	item	Contract of forfeit breath
+Chomp	咬	inventoryActions	item	Rotten turnip
+Touch	触摸	inventoryActions	item	Keystone fragment
+Breaches	探测裂隙	inventoryActions	item	Events tool
+Events	事件选单	inventoryActions	item	Events tool
+Rummage	翻找	inventoryActions	item	Vale offerings
+Hasty-rummage	快速翻找	inventoryActions	item	Vale offerings
+Boat Teleport	传送船只至潘德莫尼姆岛	inventoryActions	item	Sailing cape
+Rename Boat	更改船名	inventoryActions	item	Sailing cape
+Fill-in	填写	inventoryActions	item	Form cr-4p
+Consult	咨询	inventoryActions	item	Mayor of catherby
+Crack-open	敲开	inventoryActions	item	Rubium geode
+Look-through	透视	inventoryActions	item	Spyglass
+Track-current	追踪水流	inventoryActions	item	Current duck
+Take-reading	读取读数	inventoryActions	item	Portable weather station
+View-tasks	查看任务	inventoryActions	item	Captain's log
+View-charts	查看图表	inventoryActions	item	Captain's log
+Bottle-boat	将船装瓶	inventoryActions	item	Boat bottle (empty)
+Unbottle-boat	从瓶中取出船	inventoryActions	item	Boat bottle (full)
+Port Roberts	传送至罗伯特港	inventoryActions	item	Sailors' amulet
+Deepfin Point	传送至深鳍岬	inventoryActions	item	Sailors' amulet
+Note/Unnote	记数 / 取消记数	inventoryActions	item	Trinket of avarice
+Value	查看物品价值	inventoryActions	item	Trinket of avarice
+Shop	开启商店	inventoryActions	item	Deadman's skull
+Unlocks	解锁	inventoryActions	item	Deadman's skull
+Breach Check	检查裂隙	inventoryActions	item	Deadman's skull
+Examine	查看	inventoryActions	item	
+Remove	移除	inventoryActions	item	
+Add	添加	inventoryActions	item	
+Add-5	添加5个	inventoryActions	item	
+Add-10	添加10个	inventoryActions	item	
+Add-All	添加全部	inventoryActions	item	
+Add-X	添加 X个	inventoryActions	item	
+Withdraw-1	取出1个	inventoryActions	item	
+Withdraw-X	取出指定数量	inventoryActions	item	
+Withdraw-All-but-1	只留一個	inventoryActions	item	
+Placeholder	占位符	inventoryActions	item	
+Edit-tags	编辑标签	inventoryActions	item	
+Deposit-X	存入指定数量	inventoryActions	item	
+Deposit-All	存入全部	inventoryActions	item	
+Withdraw-5	取出5个	inventoryActions	item	
+Withdraw-10	取出10个	inventoryActions	item	
+Withdraw-100	取出100个	inventoryActions	item	
+Deposit-1	存入1个	inventoryActions	item	
+Deposit-5	存入5个	inventoryActions	item	
+Deposit-10	存入10个	inventoryActions	item	
+Deposit-100	存入100个	inventoryActions	item	
+Remove-5	移除5个	inventoryActions	item	
+Remove-10	移除10个	inventoryActions	item	
+Remove-100	移除100个	inventoryActions	item	
+Remove-All	全部移除	inventoryActions	item	
+Remove-X	移除指定数量	inventoryActions	item	
+Buy-offer	购买-报价	inventoryActions	item	
+View tag tab	查看标签页	inventoryActions	item	
+Enable	启用	inventoryActions	item	
+Contents	内容	inventoryActions	item	
+Select	选择	inventoryActions	item	
+Collect-item	收集物品	inventoryActions	item	
+Offer	报价	inventoryActions	item	
+Smith	锻造	inventoryActions	item	
+Smith set	锻造一套	inventoryActions	item	
+Make	制作	inventoryActions	item	
+Other quantity	其他数量	inventoryActions	item	
+Flash icons	闪烁图标	inventoryActions	item	
+Buy-1	购买1个	inventoryActions	item	
+Buy-5	购买5个	inventoryActions	item	
+Buy-10	购买10个	inventoryActions	item	
+Buy-50	购买50个	inventoryActions	item	

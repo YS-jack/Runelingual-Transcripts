@@ -1,0 +1,1722 @@
+english	translation	category	sub_category	source
+Study	研究	actions	item	Fire
+Remove	移除	actions	item	Oak lectern
+Lay	放置	actions	item	Bird snare
+Activate	激活	actions	item	Magic box
+Crush	压碎	actions	item	Smouldering heart
+Eat-from	进食	actions	item	Smouldering pile of flesh
+Bury	埋葬	actions	item	Giant bones
+Examine	查看	actions	item	
+Take	拿取	actions	item	
+Light	点燃 / 点亮	actions	item	
+(Members)	(会员)	actions	item	
+Walk here	走到这里	actions	manual	
+Cancel	取消	actions	manual	
+Accurate	精准	actions	menu	combatOptionsTab
+Aggressive	激进	actions	menu	combatOptionsTab
+Defensive	防御	actions	menu	combatOptionsTab
+Controlled	均衡	actions	menu	combatOptionsTab
+Chop	砍伐	actions	menu	combatOptionsTab
+Slash	挥砍	actions	menu	combatOptionsTab
+Stab	刺击	actions	menu	combatOptionsTab
+Block	格挡	actions	menu	combatOptionsTab
+Pound	重击	actions	menu	combatOptionsTab
+Pummel	猛击	actions	menu	combatOptionsTab
+Spike	刺击	actions	menu	combatOptionsTab
+Impale	穿刺	actions	menu	combatOptionsTab
+Smash	重砸	actions	menu	combatOptionsTab
+Lunge	突刺	actions	menu	combatOptionsTab
+Swipe	横扫	actions	menu	combatOptionsTab
+Hack	乱劈	actions	menu	combatOptionsTab
+Reap	收割	actions	menu	combatOptionsTab
+Rapid	速射	actions	menu	combatOptionsTab
+Longrange	远射	actions	menu	combatOptionsTab
+Flick	抽击	actions	menu	combatOptionsTab
+Lash	鞭打	actions	menu	combatOptionsTab
+Deflect	偏转	actions	menu	combatOptionsTab
+Fend	抵挡	actions	menu	combatOptionsTab
+Bash	重击	actions	menu	combatOptionsTab
+Blaze	燃烧	actions	menu	combatOptionsTab
+Scorch	横扫	actions	menu	combatOptionsTab
+Flare	闪燃	actions	menu	combatOptionsTab
+Punch	拳击	actions	menu	combatOptionsTab
+Kick	踢击	actions	menu	combatOptionsTab
+Hide	隐藏	actions	menu	prayerTab
+Activate	激活	actions	menu	prayerTab
+Unhide	取消隐藏	actions	menu	prayerTab
+Deactivate	停用	actions	menu	prayerTab
+Animation	动画效果	actions	menu	spellBookTab
+Hide	隐藏	actions	menu	spellBookTab
+Cast	施放	actions	menu	spellBookTab
+Unhide	取消隐藏	actions	menu	spellBookTab
+View	查看	actions	menu	spellBookTab
+Warnings	警告	actions	menu	spellBookTab
+Configure	配置	actions	menu	spellBookTab
+Grand Exchange	传送至大交易所	actions	menu	spellBookTab
+Seers'	传送至先知之村	actions	menu	spellBookTab
+Group: Previous	群体传送至上次目的地	actions	menu	spellBookTab
+Group: Choose	选择群体传送地点	actions	menu	spellBookTab
+Outside	传送至房屋外	actions	menu	spellBookTab
+Yanille	传送至亚尼勒城	actions	menu	spellBookTab
+Enable warning	启用警告	actions	menu	spellBookTab
+Disable warning	关闭警告	actions	menu	spellBookTab
+Turael	传送至图拉尔	actions	menu	spellBookTab
+Target	目标	actions	menu	spellBookTab
+Setup	设置	actions	menu	spellBookTab
+Arceuus	阿西乌斯法术书	actions	menu	spellBookTab
+Ancient	古代法术书	actions	menu	spellBookTab
+Standard	标准法术书	actions	menu	spellBookTab
+Reanimate	复活	actions	menu	spellBookTab
+Resurrect	复活	actions	menu	spellBookTab
+Adjust Music Volume	调整音乐音量	actions	menu	settingsTab
+Adjust Area Sound Volume	调整区域音效音量	actions	menu	settingsTab
+Adjust Sound Effect Volume	调整音效音量	actions	menu	settingsTab
+Toggle unlock message	切换解锁消息设定	actions	menu	settingsTab
+Play	游玩	actions	menu	
+Open Activity Adviser	打开活动顾问	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	<colNum0>设置聊天模式：</col> 组队 (/@g)	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>设置聊天模式：</col> 访客战队 (/@gc)	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>设置聊天模式：</col> 战队 (/@c)	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	<colNum0>设置聊天模式：</col> 频道 (/@f)	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	<colNum0>设置聊天模式：</col> 公共频道 (/@p)	actions	menu	
+Clear history	清除历史记录	actions	menu	
+Switch tab	切换标签页	actions	menu	
+Configure filter	配置过滤器	actions	menu	
+<colNum0>Game:</col> Clear history	<colNum0>游戏：</col> 清除历史记录	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>游戏：</col> 过滤器	actions	menu	
+Setup your autochat	设置自动聊天	actions	menu	
+Filter public chat	过滤公共频道聊天	actions	menu	
+<colNum0>Public:</col> Clear history	<colNum0>公共频道：</col> 清除历史记录	actions	menu	
+<colNum0>Public:</col> Hide	<colNum0>公共频道：</col> 隐藏	actions	menu	
+<colNum0>Public:</col> Show none	<colNum0>公共频道：</col> 不显示	actions	menu	
+<colNum0>Public:</col> Show friends	<colNum0>公共频道：</col> 显示好友	actions	menu	
+<colNum0>Public:</col> Show standard	<colNum0>公共频道：</col> 显示标准讯息	actions	menu	
+<colNum0>Public:</col> Show autochat	<colNum0>公共频道：</col> 显示自动聊天	actions	menu	
+<colNum0>Private:</col> Clear history	<colNum0>私聊：</col> 清除历史记录	actions	menu	
+<colNum0>Private:</col> Show none	<colNum0>私聊：</col> 不显示	actions	menu	
+<colNum0>Private:</col> Show friends	<colNum0>私聊：</col> 显示好友	actions	menu	
+<colNum0>Private:</col> Show all	<colNum0>私聊：</col> 显示全部	actions	menu	
+<colNum0>Channel:</col> Clear history	<colNum0>频道：</col> 清除历史记录	actions	menu	
+<colNum0>Channel:</col> Show none	<colNum0>频道：</col> 不显示	actions	menu	
+<colNum0>Channel:</col> Show friends	<colNum0>频道：</col> 显示好友	actions	menu	
+<colNum0>Channel:</col> Show all	<colNum0>频道：</col> 显示全部	actions	menu	
+<colNum0>Clan:</col> Clear history	<colNum0>战队：</col> 清除历史记录	actions	menu	
+<colNum0>Clan:</col> Show none	<colNum0>战队：</col> 不显示	actions	menu	
+<colNum0>Clan:</col> Show friends	<colNum0>战队：</col> 显示好友	actions	menu	
+<colNum0>Clan:</col> Show all	<colNum0>战队：</col> 显示全部	actions	menu	
+<colNum0>Group:</col> Clear history	<colNum0>组队：</col> 清除历史记录	actions	menu	
+<colNum0>Group:</col> Show none	<colNum0>组队：</col> 不显示	actions	menu	
+<colNum0>Group:</col> Show friends	<colNum0>组队：</col> 显示好友	actions	menu	
+<colNum0>Group:</col> Show all	<colNum0>组队：</col> 显示全部	actions	menu	
+<colNum0>Trade:</col> Clear history	<colNum0>交易：</col> 清除历史记录	actions	menu	
+<colNum0>Trade:</col> Show none	<colNum0>交易：</col> 不显示	actions	menu	
+<colNum0>Trade:</col> Show friends	<colNum0>交易：</col> 显示好友	actions	menu	
+<colNum0>Trade:</col> Show all	<colNum0>交易：</col> 显示全部	actions	menu	
+Report game bug	报告游戏漏洞	actions	menu	
+Report abuse	举报违规行为	actions	menu	
+Combat Options	战斗选项	actions	menu	
+Skills	技能	actions	menu	
+Achievement Diaries	成就日志	actions	menu	
+Inventory	物品栏	actions	menu	
+Worn Equipment	已装备物品	actions	menu	
+Enable prayer reordering	启用自定义祈祷排序	actions	menu	
+Disable prayer filtering	关闭祈祷筛选	actions	menu	
+Prayer	祈祷	actions	menu	
+Enable spell reordering	启用自定义法术排序	actions	menu	
+Disable spell filtering	关闭法术筛选	actions	menu	
+Magic	魔法	actions	menu	
+Friends List	好友列表	actions	menu	
+Account Management	账号管理	actions	menu	
+Ironman Group	铁人组队	actions	menu	
+Settings	设置	actions	menu	
+Emotes	表情	actions	menu	
+Music Player	音乐播放器	actions	menu	
+Logout	登出	actions	menu	
+Look West	向西看	actions	menu	
+Look South	向南看	actions	menu	
+Look East	向东看	actions	menu	
+Look North	向北看	actions	menu	
+Setup	设置	actions	menu	
+Hide	隐藏	actions	menu	
+Show	显示	actions	menu	
+Activate	激活	actions	menu	
+Toggle Run	切换跑步开关	actions	menu	
+Use	使用	actions	menu	
+Bond Pouch	债券袋	actions	menu	
+Open Store	打开商店	actions	menu	
+Clear	清除	actions	menu	
+Import	导入	actions	menu	
+Export	导出	actions	menu	
+Fullscreen <colNum0>World Map</col>	全屏<colNum0>世界地图</col>	actions	menu	
+Floating <colNum0>World Map</col>	浮动<colNum0>世界地图</col>	actions	menu	
+DPS	每秒伤害	actions	menu	
+Search	搜索	actions	menu	
+Lookup	查询	actions	menu	
+Auto retaliate	自动反击	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	使用<colNum0>战技</col>	actions	menu	combatOptionsTab
+Choose spell	选择法术	actions	menu	combatOptionsTab
+Focus	集中	actions	menu	combatOptionsTab
+Wiki	维基	actions	menu	
+Add to canvas	添加到画布	actions	menu	
+View <colNum0>Attack</col> guide	查看<colNum0>攻击</col>指南	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	查看<colNum0>生命值</col>指南	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	查看<colNum0>采矿</col>指南	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	查看<colNum0>力量</col>指南	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	查看<colNum0>敏捷</col>指南	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	查看<colNum0>锻造</col>指南	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	查看<colNum0>防御</col>指南	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	查看<colNum0>草药学</col>指南	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	查看<colNum0>钓鱼</col>指南	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	查看<colNum0>远程</col>指南	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	查看<colNum0>偷窃</col>指南	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	查看<colNum0>烹饪</col>指南	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	查看<colNum0>祈祷</col>指南	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	查看<colNum0>制作</col>指南	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	查看<colNum0>生火</col>指南	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	查看<colNum0>魔法</col>指南	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	查看<colNum0>制箭</col>指南	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	查看<colNum0>伐木</col>指南	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	查看<colNum0>符石制作</col>指南	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	查看<colNum0>杀戮</col>指南	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	查看<colNum0>农业</col>指南	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	查看<colNum0>建筑</col>指南	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	查看<colNum0>狩猎</col>指南	actions	menu	skillsTab
+Character Summary	角色摘要	actions	menu	characterSummaryTab
+Achievement Diaries	成就日志	actions	menu	characterSummaryTab
+Quest List	任务列表	actions	menu	characterSummaryTab
+Character Summary	角色摘要	actions	menu	achievementDiaryTab
+Achievement Diaries	成就日志	actions	menu	achievementDiaryTab
+Quest List	任务列表	actions	menu	achievementDiaryTab
+Character Summary	角色摘要	actions	menu	questListTab
+Achievement Diaries	成就日志	actions	menu	questListTab
+Quest List	任务列表	actions	menu	questListTab
+Character Summary	角色摘要	actions	menu	
+Quest List	任务列表	actions	menu	
+Rewards	领取奖励	actions	menu	characterSummaryTab
+Tasks	任务	actions	menu	characterSummaryTab
+Bosses	Boss	actions	menu	characterSummaryTab
+Overview	概览	actions	menu	characterSummaryTab
+Collection Log	收藏日志	actions	menu	characterSummaryTab
+Collection Overview	收藏概览	actions	menu	characterSummaryTab
+Reveal	显示	actions	menu	characterSummaryTab
+Hide	隐藏	actions	menu	characterSummaryTab
+Open	打开	actions	menu	questListTab
+Close	关闭	actions	menu	questListTab
+Start Quest Helper	启动任务助手	actions	menu	questListTab
+Open wiki quick guide:	打开维基快速指南：	actions	menu	questListTab
+Open wiki guide:	打开维基指南：	actions	menu	questListTab
+Show on map:	在地图上显示：	actions	menu	questListTab
+Read journal:	阅读日志：	actions	menu	questListTab
+Start Helper	启动助手	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	维基<colNum0>阿多尼城日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	打开<colNum0>阿多尼城日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	维基<colNum0>沙漠日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	打开<colNum0>沙漠日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	维基<colNum0>法拉多城日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	打开<colNum0>法拉多城日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	维基<colNum0>费明尼克日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	打开<colNum0>费明尼克日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	维基<colNum0>坎达林王国日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	打开<colNum0>坎达林王国日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	维基<colNum0>卡拉姆詹岛日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	打开<colNum0>卡拉姆詹岛日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	维基<colNum0>库兰德王国与凯博斯日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	打开<colNum0>库兰德王国与凯博斯日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	维基<colNum0>仑桥镇与德雷诺村日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	打开<colNum0>仑桥镇与德雷诺村日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	维基<colNum0>莫利塔尼亚日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	打开<colNum0>莫利塔尼亚日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	维基<colNum0>维洛克城日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	打开<colNum0>维洛克城日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	维基<colNum0>西部省份日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	打开<colNum0>西部省份日志</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	维基<colNum0>荒野日志</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	打开<colNum0>荒野日志</col>	actions	menu	achievementDiaryTab
+View equipment stats	查看装备属性	actions	menu	wornEquipmentTab
+View guide prices	查看指导价格	actions	menu	wornEquipmentTab
+View items kept on death	查看死亡后保留的物品	actions	menu	wornEquipmentTab
+Call follower	召唤追随者	actions	menu	wornEquipmentTab
+Disable prayer reordering	关闭自定义祈祷排序	actions	menu	
+Enable prayer filtering	启用祈祷筛选	actions	menu	
+Disable spell reordering	关闭自定义法术排序	actions	menu	
+Enable spell filtering	启用法术筛选	actions	menu	
+Show notifications	显示通知	actions	menu	
+Add Note	添加笔记	actions	menu	
+Hide notifications	隐藏通知	actions	menu	
+Delete	删除	actions	menu	friendsTab
+Message	消息	actions	menu	friendsTab
+View Ignore List	查看忽略列表	actions	menu	friendsTab
+Add Friend	添加好友	actions	menu	friendsTab
+Delete Friend	删除好友	actions	menu	friendsTab
+Hop-to	切换至	actions	menu	friendsTab
+View Friends List	查看好友列表	actions	menu	ignoreTab
+Delete	删除	actions	menu	ignoreTab
+Add Name	添加名字	actions	menu	ignoreTab
+Delete Name	删除名字	actions	menu	ignoreTab
+Account	账号	actions	menu	accountManagementTab
+Community	社区	actions	menu	accountManagementTab
+Useful Links	常用链接	actions	menu	accountManagementTab
+Open Store	打开商店	actions	menu	accountManagementTab
+Bond Pouch	债券袋	actions	menu	accountManagementTab
+View Inbox	查看收件箱	actions	menu	accountManagementTab
+Name Changer	改名器	actions	menu	accountManagementTab
+View History	查看历史记录	actions	menu	accountManagementTab
+View Newspost	查看公告	actions	menu	accountManagementTab
+View Archive	查看档案	actions	menu	accountManagementTab
+Open	打开	actions	menu	accountManagementTab
+Settings	设置	actions	menu	groupTab
+Refresh	刷新	actions	menu	groupTab
+Join	加入	actions	menu	groupTab
+Setup	设置	actions	menu	groupTab
+Find	查找	actions	menu	groupTab
+Open	打开	actions	menu	groupTab
+Add friend	添加好友	actions	menu	groupTab
+Add ignore	加入忽略列表	actions	menu	groupTab
+Teleport	传送	actions	menu	groupTab
+Select	选择	actions	menu	groupTab
+Join <colNum0><!ANY_TRANSLATED0></col> channel	加入<colNum0><!ANY_TRANSLATED0></col>频道	actions	menu	groupTab
+Leave <colNum0><!ANY_TRANSLATED0></col> channel	离开<colNum0><!ANY_TRANSLATED0></col>频道	actions	menu	groupTab
+Teleport to <colNum0><!ANY_TRANSLATED0></col>	传送至<colNum0><!ANY_TRANSLATED0></col>	actions	menu	groupTab
+Add friend <!PLAYER_NAME0>	添加好友<!PLAYER_NAME0>	actions	menu	groupTab
+Add ignore <!PLAYER_NAME0>	加入忽略列表<!PLAYER_NAME0>	actions	menu	groupTab
+Remove friend <!PLAYER_NAME0>	移除好友<!PLAYER_NAME0>	actions	menu	groupTab
+Remove ignore <!PLAYER_NAME0>	移除忽略<!PLAYER_NAME0>	actions	menu	groupTab
+View Channel	查看频道	actions	menu	groupTab
+Toggle skull prevention	切换骷髅头保护机制	actions	menu	settingsTab
+Toggle Accept Aid	切换接受援助开关	actions	menu	settingsTab
+Toggle Run	切换跑步开关	actions	menu	settingsTab
+View House Options	查看房屋选项	actions	menu	settingsTab
+Open Bond Pouch	打开的债券袋	actions	menu	settingsTab
+All Settings	所有设置	actions	menu	settingsTab
+Controls	控制	actions	menu	settingsTab
+Display	显示	actions	menu	settingsTab
+Audio	音频	actions	menu	settingsTab
+Unmute	取消静音	actions	menu	settingsTab
+Adjust Brightness	调整亮度	actions	menu	settingsTab
+Restore Default Zoom	恢复默认缩放	actions	menu	settingsTab
+Disable	停用	actions	menu	settingsTab
+Select	选择	actions	menu	settingsTab
+Perform	执行	actions	menu	emotesTab
+Perform <colNum0>Relic unlock</col>	执行<colNum0>遗物解锁</col>	actions	menu	emotesTab
+Loop	循环	actions	menu	emotesTab
+Area	区域	actions	menu	musicTab
+Manual	手动	actions	menu	musicTab
+Random	随机	actions	menu	musicTab
+Unlock hint	解锁提示	actions	menu	musicTab
+Play	游玩	actions	menu	musicTab
+Toggle	切换	actions	menu	musicTab
+Open	打开	actions	menu	musicTab
+Thumbs Up	点赞	actions	menu	logoutTab
+Thumbs Down	点踩	actions	menu	logoutTab
+World Switcher	世界切换器	actions	menu	logoutTab
+Logout	登出	actions	menu	logoutTab
+Favourite	收藏	actions	menu	worldSwitcherTab
+Switch	切换	actions	menu	worldSwitcherTab
+Logout	登出	actions	menu	worldSwitcherTab
+Clear	清除	actions	menu	worldSwitcherTab
+Close	关闭	actions	menu	worldSwitcherTab
+Configure	配置	actions	menu	worldSwitcherTab
+Grouping	组队	actions	menu	groupTab
+Ironman Group	铁人组队	actions	menu	groupTab
+Chat-channel	聊天频道	actions	menu	groupTab
+Your Clan	你的战队	actions	menu	groupTab
+View another clan	查看其他战队	actions	menu	groupTab
+Message	消息	actions	menu	groupTab
+Remove friend	移除好友	actions	menu	groupTab
+Switch world	切换世界	actions	menu	groupTab
+View Poll	查看投票	actions	menu	accountManagementTab
+Viewer	查看者	actions	menu	
+On	开启	actions	menu	
+Off	关闭	actions	menu	
+Expel Guests	驱逐访客	actions	menu	
+Call Servant	召唤仆从	actions	menu	
+Leave House	离开房屋	actions	menu	
+Open subsection	打开子部分	actions	menu	
+Move	移动	actions	menu	
+Learn More	了解更多	actions	menu	
+Talk-to	对话	actions	npc	Tool Leprechaun
+Exchange	交换	actions	npc	Tool Leprechaun
+Attack	攻击	actions	npc	Molanisk
+Trade	交易	actions	npc	Hudo
+Travel	旅行	actions	npc	Rug Merchant
+Pet	抚摸	actions	npc	Dog
+Dyes	染色	actions	npc	Aggie
+Challenge	挑战	actions	npc	Yama
+Guess-letter	猜字母	actions	npc	Hangman game
+Banish	放逐	actions	npc	Hangman game
+Reset	重置	actions	npc	Hangman game
+Hit	击打	actions	npc	Combat stone
+Dismiss	解散	actions	npc	Dr Jekyll
+Rewards	领取奖励	actions	npc	Emblem Trader
+Skull	领取骷髅头标记	actions	npc	Emblem Trader
+Pay	支付工钱	actions	npc	Ayesha
+Armour	领取铁人套装	actions	npc	Ironman tutor
+Setup	铁人模式管理	actions	npc	Ironman tutor
+Check-pets	检查宠物领取资格	actions	npc	Leagues Tutor
+Collect-items	回收联赛物品	actions	npc	Leagues Tutor
+Claim-trophies	领取联赛奖杯	actions	npc	Leagues Tutor
+Pick-up	捡起	actions	npc	Dark core
+Metamorphosis	变形	actions	npc	Dark core
+Pick	采摘	actions	npc	Strange plant
+Grab	抓取	actions	npc	Suspect
+Pop	戳破	actions	npc	Balloon Animal
+Kill	击杀	actions	npc	Pheasant
+Disturb	打扰	actions	npc	Phosani's Nightmare
+Gauntlets	查看手套	actions	npc	Avan
+Lure	垂钓	actions	npc	Rod Fishing spot
+Bait	垂钓	actions	npc	Rod Fishing spot
+Pickpocket	扒窃	actions	npc	Guard
+Assignment	领取任务	actions	npc	Vannaka
+Search	搜索	actions	npc	Entomologist
+Confront	对抗	actions	npc	Mi-Gor
+Transport	航行	actions	npc	Brother Tranquility
+Intimidate	威吓	actions	npc	Zombie swab
+Fish	钓鱼	actions	npc	Fishing spot
+Smash-ice	砸碎冰块	actions	npc	Ice block
+Shear	剪毛	actions	npc	Sheep
+Knock-Out	击倒	actions	npc	Bandit
+Bank	使用银行	actions	npc	Banker
+Collect	领取	actions	npc	Banker
+Check-Approval	查看支持率	actions	npc	Arnor
+Tuxedo-time	换礼服	actions	npc	Larry
+Mines	进入矿井	actions	npc	Dartog
+Cellar	进入地窖	actions	npc	Dartog
+Dream	进入梦境挑战	actions	npc	Dominic Onion
+Take-boat	乘船	actions	npc	Monk of Entrana
+Inspect	检查	actions	npc	Lumbridge Guide
+Trade-General-Store	交易 - 杂货店	actions	npc	Razmire Keelgan
+Trade-Builders-Store	交易 - 建材店	actions	npc	Razmire Keelgan
+Haircut	理发	actions	npc	Hairdresser
+Shave	剃须	actions	npc	Hairdresser
+Makeover	改头换面	actions	npc	Makeover Mage
+Talk-To	对话	actions	npc	Tarquin
+Quick-falcon	快速租借猎隼	actions	npc	Matthias
+Retrieve	回收猎隼	actions	npc	Gyr Falcon
+Give-Sword	交出剑	actions	npc	Tindel Marchant
+Mine	采矿	actions	npc	Elemental rock
+Push	推	actions	npc	Trolley
+Pull	拉	actions	npc	Trolley
+Big-push	用力推	actions	npc	Trolley
+Place	放置	actions	npc	Trolley
+Inflate	充气	actions	npc	Swamp toad
+Pluck	拔毛	actions	npc	Chompy bird
+Shout-to	喊话	actions	npc	Nickolaus
+Quick-travel	快速旅行	actions	npc	Desert eagle
+Walk-past	走过	actions	npc	Eagle
+Threaten	威胁	actions	npc	Kebbit
+Small Net	用小渔网捕鱼	actions	npc	Fishing spot
+Net	用渔网捕鱼	actions	npc	Fishing spot
+Ammo	查看弹药	actions	npc	Leon
+Cage	用笼子捕鱼	actions	npc	Fishing spot
+Harpoon	用鱼叉捕鱼	actions	npc	Fishing spot
+Big Net	用大渔网捕鱼	actions	npc	Fishing spot
+Use-rod	用鱼竿捕鱼	actions	npc	Fishing spot
+Get-training	领取训练任务	actions	npc	Chartin' Charles McAtless
+Escort	护送	actions	npc	Smiddi Ryak (hard)
+Supply	补给	actions	npc	Smiddi Ryak (hard)
+Claim-runes	领取符石	actions	npc	Lundail
+Chase	追逐	actions	npc	Cat
+Interact	互动	actions	npc	Cat
+Catch	捕捉	actions	npc	Baby impling
+Get-rewards	获取奖励	actions	npc	Commander Connad
+Tutorial	进入教学	actions	npc	Captain Cain
+Start-minigame	开始小游戏	actions	npc	Guardian mummy
+Teleport	传送	actions	npc	Apprentice
+Join-Crew	加入船员	actions	npc	San Fan
+Join-Team	加入队伍	actions	npc	Honest Jimmy
+Pick-pocket	扒窃	actions	npc	Fairy Godfather
+Craft-goods	制作商品	actions	npc	Thakkrad Sigmundson
+Rellekka	航向雷勒卡城	actions	npc	Maria Gunnars
+Neitiznot	航向奈提兹诺镇	actions	npc	Maria Gunnars
+Jatizso	航向加提兹索岛	actions	npc	Mord Gunnars
+Watch-shouting	监视喊话	actions	npc	Guard
+Kick	踢	actions	npc	Bed
+Claim-Tokens	领取代币	actions	npc	Lorelai
+History	交易历史	actions	npc	Grand Exchange Clerk
+Sets	拆合套装	actions	npc	Grand Exchange Clerk
+Prices	查看价格	actions	npc	Brugsen Bursen
+Exchange fire cape	交换火焰斗篷	actions	npc	TzHaar-Mej-Jal
+Destroy	摧毁	actions	npc	Door-support
+Tickets	购票	actions	npc	Cart conductor
+Listen-to	聆听	actions	npc	Red Axe Director
+Claim-Shield	领取盾牌	actions	npc	Gamfred
+talk	交谈	actions	npc	Gate of War
+Get job (easy)	接取简单工作	actions	npc	Gianne jnr.
+Get job (hard)	接取困难工作	actions	npc	Gianne jnr.
+Repairs	修理	actions	npc	Dark Mage
+Sober-Up	弄醒	actions	npc	Skippy
+Walk here	走到这里	actions	npc	Purepker895
+Follow	跟随	actions	npc	Purepker895
+Pay (north-west)	支付西北种植地工钱	actions	npc	Elstan
+Pay (south-east)	支付种植地工钱	actions	npc	Elstan
+Pay (north)	支付北边种植地工钱	actions	npc	Dantaera
+Pay (south)	支付南边种植地工钱	actions	npc	Dantaera
+Detach	取下装备	actions	npc	Combat dummy
+Upgrade	升级	actions	npc	Combat dummy
+Remove	移除	actions	npc	Combat dummy
+Shoo	赶走	actions	npc	Clockwork cat
+Fur Clothing	购买毛皮服装	actions	npc	Asyff
+Shoo-away	驱赶	actions	npc	Stray dog
+Tease	挑衅	actions	npc	Sabre-toothed kyatt
+Leave	离开	actions	npc	Squire
+Claim-slime	领取史莱姆	actions	npc	Robin
+Use	使用	actions	npc	Portal
+Exit	退出	actions	npc	Portal
+Relocate	搬屋	actions	npc	Estate agent
+Redecorate	重新装饰	actions	npc	Estate agent
+Buy-plank	购买木板	actions	npc	Sawmill operator
+Age	查看帐号年龄	actions	npc	Hans
+Tackle	拦截	actions	npc	Gnome baller
+Pass-to	传球	actions	npc	Gnome winger
+Claim	领取免费弹药	actions	npc	Ranged combat tutor
+Buy	购买	actions	npc	Fadli
+Heal	治疗	actions	npc	A'abla
+Stroke	抚摸	actions	npc	Gertrude's cat
+Climb-over	爬过	actions	npc	Pile of bones
+Melt	融化	actions	npc	Crust of ice
+Clear	清除	actions	npc	Furnace grate
+Take	拿取	actions	npc	Iron pickaxe
+Steal-from	偷窃	actions	npc	Digsite workman
+Go-inside	进入里面	actions	npc	House
+Pirate's Cove	航向海盗湾	actions	npc	Lokar Searunner
+Deposit-items	存放物品	actions	npc	Peer the Seer
+Miscellania	航向米斯凯尼亚国	actions	npc	Sailor
+Prod	戳	actions	npc	Red Sheep
+Return-Home	返回家园	actions	npc	Bill Teach
+Play-fetch	玩接物游戏	actions	npc	Joe
+Devices	远程装置	actions	npc	Ava
+Chop	砍伐	actions	npc	Undead tree
+Roll	滚动	actions	npc	Boulder
+Watch	观察	actions	npc	Mercenary Captain
+Buy-pass	购买通行证	actions	npc	Shantay
+Pass	通过	actions	npc	Shantay Guard
+Fly	飞行	actions	npc	Auguste
+Decant	分装药水	actions	npc	Zahur
+Clean	清洗	actions	npc	Zahur
+Make unfinished potion(s)	制作未完成的药水	actions	npc	Zahur
+Shoot	射击	actions	npc	Target
+Shop	浏览商店	actions	npc	Ezekial Lovecraft
+Board	登船	actions	npc	Ogre boat
+Potions	药水制作	actions	npc	Apothecary
+Grab-feather	拔取羽毛	actions	npc	Desert Phoenix
+Take-from	拿取	actions	npc	Jig cart
+Pay-fare	支付车资	actions	npc	Hajedy
+Coffer	开启保险箱介面	actions	npc	Yohnus
+Attract	吸引	actions	npc	Light creature
+Call-Over	叫过来	actions	npc	Zombie
+Insult	羞辱	actions	npc	Zombie
+Scare	惊吓	actions	npc	Zombie
+Skin	剥皮	actions	npc	Swamp snake
+Burn	燃烧	actions	npc	Barricade
+Extinguish	灭火	actions	npc	Barricade
+Quick-withdraw	快速取出	actions	npc	Elnock Inquisitor
+Check-gates	查看传送门位置	actions	npc	Wandering impling
+Sand	领取沙子	actions	npc	Bert
+Request-supplies	领取物资	actions	npc	Bork Sigmundson
+Sew	缝纫	actions	npc	Patchy
+Check	检查	actions	npc	Probita
+View Laps	查看圈数	actions	npc	Grace
+Toggle Counter	切换计数器	actions	npc	Grace
+Tap	轻轻踢球	actions	npc	Skullball
+Show-Goal	显示目标位置	actions	npc	Skullball
+Give-Stick	交出金字塔顶	actions	npc	Agility Trainer
+Waterbirth Island	水诞岛	actions	npc	Jarvald
+Take-flyer	领取传单	actions	npc	Ali the Leaflet Dropper
+Trade-with	交易	actions	npc	Rewards Guardian
+Trade-Co-op	交易 - 合作社	actions	npc	Gabooty
+Trade-Drinks	交易 - 饮料店	actions	npc	Gabooty
+Send-parcel	寄送包裹	actions	npc	Rionasta
+Peek	偷看	actions	npc	Eye
+Deposit-box	开启寄存箱介面	actions	npc	Financial Seer
+Move	移动	actions	npc	Boulder
+Log-storage	储存原木	actions	npc	Friendly Forester
+Claim Sand	领取沙子	actions	npc	Drew
+Deposit buckets	存放桶子	actions	npc	Drew
+Toggle warnings	切换警告设定	actions	npc	Doomsayer
+Remove PvP Protection	移除 PvP 保护	actions	npc	Doomsayer
+Observe	观察	actions	npc	Maze Guardian
+New-maze	重置迷宫	actions	npc	Maze Guardian
+Maxhit Variant	极限伤害模式	actions	npc	Combat Test
+Kill-count	查看杀敌数	actions	npc	Soldier
+Canyon-count (east)	查看东峡谷杀敌数	actions	npc	Soldier
+Canyon-count (west)	查看西峡谷杀敌数	actions	npc	Soldier
+Pay (north-east)	支付东北种植地工钱	actions	npc	Marisi
+Pay (south-west)	支付西南种植地工钱	actions	npc	Marisi
+Task	领取任务	actions	npc	Captain Khaled
+Help	寻求帮助	actions	npc	Villia
+Spellbook	切换法术书	actions	npc	Tyss
+Climb-on	爬上去	actions	npc	Stunted demonic gorilla
+Glider	搭乘滑翔机	actions	npc	Captain Shoracks
+Watermill	前往水车处	actions	npc	Mistag
+Join	加入游戏	actions	npc	Lisa
+Locking	锁定	actions	npc	Rift guardian
+Check Scores	查看分数	actions	npc	Captain Kalt
+Contract	领取建筑合约	actions	npc	Amy
+Last-tier contract	重复同难度合约	actions	npc	Amy
+Port Sarim	航向沙林港	actions	npc	Captain Magoro
+Port Piscarilius	航向皮斯卡里琉斯港	actions	npc	Captain Magoro
+Feed	喂食	actions	npc	Lux grub
+Douse	熄灭	actions	npc	Fire
+Cut	切割	actions	npc	Meat tree
+Smash	重砸	actions	npc	Jewelled Crab
+Claim-cape	领取斗篷	actions	npc	Captain Rimor
+Set-difficulty	设置难度	actions	npc	Captain Rimor
+Fight	战斗	actions	npc	Abigale
+Bars	前往酒吧	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	切换未知矿物设定	actions	npc	Belona
+Kitten	购买小猫	actions	npc	Gertrude
+Toggle-vials	切换自动碎瓶设定	actions	npc	Barbarian guard
+Redeem-code	兑换代码	actions	npc	Recruiter
+Purchase Amulet	购买护符	actions	npc	Wizard Mizgog
+Staves	修理法杖	actions	npc	Dark Mage
+Disembark	下船	actions	npc	Barge guard
+Toggle Fossils	切换化石掉落设定	actions	npc	Peter
+Poke	戳	actions	npc	Bobbing fossil
+Training	训练	actions	npc	Mairin
+Harvest	采集	actions	npc	Herbiboar
+Stun	击晕	actions	npc	Hoop Snake
+Murder	谋杀	actions	npc	Conrad King
+Embark	登船	actions	npc	Barge guard
+Quick-Travel	快速旅行	actions	npc	Barge guard
+Escape	逃跑	actions	npc	Brundt the Chieftain
+Scry	占卜	actions	npc	Abigaila
+Claim Pet Rock	领取宠物石	actions	npc	Askeladden
+Standard Variant	切换至标准伤害模式	actions	npc	Combat Test (maxhit)
+Get-log	领取收藏日志	actions	npc	The Collector
+Claim-log-rewards	领取日志奖励	actions	npc	The Collector
+Get bird	领取鹈鹕	actions	npc	Alry the Angler
+Pay (Fruit tree)	支付果树种植地工钱	actions	npc	Nikkie
+Pay (tree patch)	支付树木种植地工钱	actions	npc	Rosie
+Pay (Redwood tree)	支付红杉树种植地工钱	actions	npc	Alexandra
+Pay (Spirit tree)	支付灵魂树种植地工钱	actions	npc	Latlink Fastbell
+Swap	交换	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	支付南蛇藤树种植地工钱	actions	npc	Taylor
+Land's End	航向兰兹角村	actions	npc	Veos
+Musa Point	航向穆萨角	actions	npc	Seaman Morris
+Join Castle Wars	加入城堡战争	actions	npc	Saradominist recruiter
+Holiday-items	领取节日物品	actions	npc	Diango
+Tan-hides	鞣皮	actions	npc	Eodan
+Ardougne	航向阿多尼城	actions	npc	Captain Barnaby
+Brimhaven	航向布尔哈文镇	actions	npc	Captain Barnaby
+Rimmington	航向里明顿村	actions	npc	Captain Barnaby
+Enchant	附魔	actions	npc	Eluned
+Quick-escape	快速逃脱	actions	npc	Elena
+Investigate	调查	actions	npc	Elderly Elf
+Fix-exoskeleton	修理外骨骼套装	actions	npc	Elderly Elf
+Chop down	砍伐	actions	npc	Tree
+Sing	唱歌	actions	npc	Reese
+Statistics	统计	actions	npc	Ystwyth
+Repair	修理	actions	npc	Aneirin
+Open Adventure Paths	打开冒险指南导航	actions	npc	Adventurer Jon
+Island of Stone	航向石头岛	actions	npc	Haskell
+Charter	租船	actions	npc	Trader Stan
+Charter-to Brimhaven	租船至布尔哈文镇	actions	npc	Trader Stan
+Charter-to Catherby	租船至凯瑟比镇	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	租船至莫斯勒哈姆斯岛	actions	npc	Trader Stan
+Charter-to Musa Point	租船至穆萨角	actions	npc	Trader Stan
+Charter-to Port Khazard	租船至卡扎德港	actions	npc	Trader Stan
+Charter-to Port Phasmatys	租船至法斯提斯港	actions	npc	Trader Stan
+Charter-to Port Sarim	租船至沙林港	actions	npc	Trader Stan
+Charter-to Shipyard	租船至船坞	actions	npc	Trader Stan
+Charter-to Corsair Cove	租船至海盗湾	actions	npc	Trader Stan
+Charter-to Prifddinas	租船至普里夫迪纳斯城	actions	npc	Trader Stan
+Charter-to Port Tyras	租船至提拉斯港	actions	npc	Trader Stan
+Charge	充能	actions	npc	Totem
+Spectate	观战	actions	npc	The Nightmare
+Convert-shards	兑换碎片	actions	npc	Noranna Tytanin
+Loot	搜刮 / 领取 / 转移战利品	actions	npc	Grave
+Lap-count	圈数统计	actions	npc	Bobawu
+Value	查看物品价值	actions	npc	Skully
+Settings	设定	actions	npc	Skully
+Ungael	航向至恩盖尔	actions	npc	Torfinn
+Glider-to Ta Quir Priw	滑翔至大树家园	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	滑翔至甘迪乌斯	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	滑翔至阿尔卡里德城	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	滑翔至考古挖掘场	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	滑翔至白狼山	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	滑翔至猿猴岛	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	滑翔至费迪普丘陵	actions	npc	Captain Dalbur
+Other-services	其他服务	actions	npc	Thessalia
+Leave-tutorial	离开教程	actions	npc	Nomad
+Fill	填充	actions	npc	Ammunition crate
+Check-ammo	检查弹药	actions	npc	Ammunition crate
+Forfeit	放弃	actions	npc	Captain Pudi
+Locks	锁	actions	npc	Dampe
+Take-net	拿取渔网	actions	npc	Spirit Angler
+Ferry	渡船	actions	npc	Ferryman Sathwood
+Awaken	唤醒	actions	npc	Rubble
+Items	领取物品	actions	npc	Clerk
+Buy-sphere	购买宝珠	actions	npc	Oldak
+Power-up	强化	actions	npc	The Great Guardian
+Buy-crystals	购买水晶	actions	npc	Rick
+Quick-lock	快速锁定	actions	npc	Apprentice Tamara
+Strike	打击	actions	npc	Hill Giant
+Hand-in	上交	actions	npc	Kovac
+Commission	查看委托订单	actions	npc	Kovac
+Talk	交谈	actions	npc	Hannibal
+Proceed	继续	actions	npc	Osmumten
+Begin	开始	actions	npc	Osmumten
+Water	水	actions	npc	Palm of Resourcefulness
+Check-costume	检查服装	actions	npc	Costumed child
+Trick-or-treat	不给糖就捣蛋	actions	npc	Generous Treater
+Scare-away	吓跑	actions	npc	Spooky dog
+Tend-to	照料	actions	npc	Flowering bush (Lilac)
+Emote	表情动作	actions	npc	Wisp
+Deposit	存放	actions	npc	Woodcutting Leprechaun
+Cast	施放	actions	npc	Fishing spot
+Reset-room	重置房间	actions	npc	Cerebral pathfinder
+Take-lure	拿取诱饵	actions	npc	Light leech
+Build	建造	actions	npc	Unfinished Beehive
+Disarm	解除武装	actions	npc	Fox trap
+Prune	修剪	actions	npc	Entling
+Prune-top	修剪树冠	actions	npc	Entling
+Prune-back	修剪背部	actions	npc	Entling
+Prune-sides	修剪两侧	actions	npc	Entling
+Metamorph	形态切换	actions	npc	Bran
+Listen	聆听	actions	npc	Key Master
+Charter-to Port Piscarilius	租船至皮斯卡里琉斯港	actions	npc	Trader Stan
+Charter-to Land's End	租船至兰兹角村	actions	npc	Trader Stan
+Mark	标记	actions	npc	Guard
+Unmark	取消标记	actions	npc	Guard
+Charter-to Civitas illa Fortis	租船至福蒂斯城	actions	npc	Trader Stan
+Charter-to Aldarin	租船至阿尔达林	actions	npc	Trader Stan
+Charter-to Sunset Coast	租船至日落海岸	actions	npc	Trader Stan
+Charter-to Tempestus	租船至坦佩斯图斯城	actions	npc	Trader Stan
+Start-wave	开始波次	actions	npc	Minimus
+Scoreboard	查看记分板	actions	npc	Eyatlalli
+Rumour	接取情报 / 查看当前任务	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	情报设置	actions	npc	Guild Scribe Verity
+Fur-clothing	开启毛皮服装商店	actions	npc	Pellem
+Recharge-whistle	鸟哨充能	actions	npc	Soar Leader Pitri
+Trade-in	以旧换新	actions	npc	Oriana
+Last-destination	前往上次目的地	actions	npc	Renu
+Plant-orb	布置法球	actions	npc	Surok Magis
+Choose	选择	actions	npc	Tenoch
+Check-on	检查	actions	npc	Man
+Stats	属性	actions	npc	Worm Tongue
+Sacrifice	献祭	actions	npc	Branda the Fire Queen
+Take pages	拿取书页	actions	npc	Branda the Fire Queen
+Whack	重击	actions	npc	Forebearer Janus
+Translate	翻译	actions	npc	Prince Itzla Arkan
+Fix	修复	actions	npc	Humphrey Dumphrey
+Tal Teklan	前往塔尔‧特克兰聚落	actions	npc	Achilka
+Gloomthorn Trail	前往幽刺小径	actions	npc	Achilka
+Kastori	前往卡斯托里聚落	actions	npc	Achilka
+Directions	导航	actions	npc	Ru Merald
+Claim-arrows	领取箭矢	actions	npc	Rantz
+Claim-hats	领取帽子	actions	npc	Rantz
+Quick-start	跳过剧情	actions	npc	Verzik Vitur
+Bribe	贿赂	actions	npc	Jail Guard
+Buy-boat	购买船只	actions	npc	Junior Jim
+Customise-boat	自定义船只	actions	npc	Junior Jim
+Recover-boat	回收船只	actions	npc	Junior Jim
+The Pandemonium	航向潘德莫尼姆岛	actions	npc	Captain Tobias
+Free	释放	actions	npc	Parrot
+Pay (east)	缴费(东部闸门)	actions	npc	Chet
+Pay (west)	缴费(西部闸门)	actions	npc	Chet
+Start-trial	开始试炼	actions	npc	Rum-dashed Ralph
+Start-previous-rank	开始上次难度的挑战	actions	npc	Rum-dashed Ralph
+Rescue	救援	actions	npc	Castaway
+Collect-data	收集数据	actions	npc	Meaty Aura Logist
+Dive	潜水	actions	npc	Victoria Kebbit-Monkfish
+Manage-crew	管理船员	actions	npc	Crew Registrar
+Bank-cargo	将货物存入银行	actions	npc	Jobless Jim
+Command	命令	actions	npc	Jobless Jim
+Repair-boat	修理船只	actions	npc	Shipwright Seb
+Rename-boat	更改船名	actions	npc	Sleve McDichael
+Claim-rewards	领取奖励	actions	npc	Port master
+Cancel-task	取消任务	actions	npc	Port master
+Charter-to The Pandemonium	租船至潘德莫尼姆岛	actions	npc	Trader Stan
+Charter-to The Summer Shore	租船至夏日海岸	actions	npc	Trader Stan
+Charter-to Red Rock	租船至红岩岛	actions	npc	Trader Stan
+Charter-to Barracuda HQ	租船至梭鱼总部	actions	npc	Trader Stan
+Charter-to Deepfin Point	租船至深鳍岬	actions	npc	Trader Stan
+Charter-to Port Roberts	租船至罗伯特港	actions	npc	Trader Stan
+Examine	查看	actions	npc	
+Search	搜索	actions	object	Crate
+Enter	进入	actions	object	Cave Entrance
+Open	打开	actions	object	Door
+Inspect	检查	actions	object	Broken multicannon
+Fire	开火	actions	object	Dwarf multicannon
+Pick-up	捡起	actions	object	Dwarf multicannon
+Empty	清空	actions	object	Dwarf multicannon
+Load X	装载 X	actions	object	Dwarf multicannon
+Climb-down	爬下去	actions	object	Ladder
+Climb-up	爬上去	actions	object	Ladder
+Climb-over	攀越	actions	object	Rock pile
+Prod	戳	actions	object	Sacks
+Pull	拉	actions	object	Lever
+Go-through	穿过	actions	object	Gate
+Fish	钓鱼	actions	object	Fishing spot
+Squeeze-through	挤过	actions	object	Loose Railing
+Check	检查	actions	object	Vine
+Pray-at	祈祷	actions	object	Chaos altar
+Smash	重砸	actions	object	Giant crystal
+Hide-in	隐藏	actions	object	Crate
+Take-from	拿取	actions	object	Beehive
+Cross	穿过	actions	object	Gangplank
+Knock-at	敲击	actions	object	Large door
+Search for traps	搜索陷阱	actions	object	Lever
+Shut	关闭	actions	object	Open chest
+Cook	烹饪	actions	object	Cooking range
+Burst	踩破	actions	object	Party Balloon
+Jump-up	跳上去	actions	object	Rocks
+Operate	操作	actions	object	Winch
+Pick	采摘	actions	object	Potato
+Close	关闭	actions	object	Large open cupboard
+Play	播放	actions	object	Church organ
+Use	使用	actions	object	Crevice
+Peek	偷看	actions	object	Crevice
+Private	进入私人副本	actions	object	Crevice
+Jump	跳跃	actions	object	Broken Fence
+Steal-from	偷窃	actions	object	Tea stall
+Take	拿取	actions	object	Small fishing net
+Exit	退出	actions	object	Cave exit
+Suck	吸取	actions	object	Swamp bubbles
+Reset	重置	actions	object	Shaking box
+Slash	挥砍	actions	object	Web
+Weave	编织	actions	object	Loom
+Attack	攻击	actions	object	Dummy
+Read	阅读	actions	object	Plaque
+Chop down	砍伐	actions	object	Tree
+Push	推	actions	object	Wall
+Take-1	拿取 1 个	actions	object	Bandage table
+Take-5	拿取 5 个	actions	object	Bandage table
+Take-10	拿取 10 个	actions	object	Bandage table
+Commune	拉动	actions	object	Lever
+Board	登船	actions	object	Log raft
+Swim to	游泳	actions	object	Rock
+Take treasure	拿取宝藏	actions	object	Chalice
+Climb	攀爬	actions	object	Dead Tree
+Get in	进入	actions	object	Barrel
+Chop	砍伐	actions	object	Achey Tree
+Drink-from	饮用	actions	object	Cauldron
+Smelt	冶炼	actions	object	Furnace
+Smith	锻造	actions	object	Anvil
+Hit	击打	actions	object	Dummy
+Fill	填充	actions	object	Crate
+Look-at	查看	actions	object	Mound of earth
+Investigate	调查	actions	object	Strange looking stone
+Craft	制作	actions	object	Smashed table
+Disembark	下船	actions	object	Crude raft
+Pay-fare	支付车资	actions	object	Travel cart
+Listen-at	倾听	actions	object	Grill
+Pan	淘洗	actions	object	Panning point
+Shoot	射击	actions	object	Gnome goal
+Deposit	存放	actions	object	Chest
+Climb-on	爬上去	actions	object	Barrel
+Kick	踢	actions	object	Loose panel
+Rotate	旋转	actions	object	Crane
+Walk-down	走下去	actions	object	Spooky stairs
+Walk-up	走上去	actions	object	Spooky stairs
+Repair	修理	actions	object	Hole
+Walk-Down	走下去	actions	object	Stairs
+Walk-Up	走上去	actions	object	Stairs
+Mine	采矿	actions	object	Rock slide
+Look at	查看	actions	object	Winch
+Cut	切割	actions	object	Kharidian cactus (Healthy)
+Watch	观看	actions	object	Mine door entrance
+Look-in	查看内部	actions	object	Barrel
+Look in	查看内部	actions	object	Barrel
+Collect	收集	actions	object	Bank chest
+Climb-to	攀爬	actions	object	Rock
+Climb down	爬下去	actions	object	Rock
+Walk through	穿过	actions	object	Mine cave
+Walk-through	穿过	actions	object	Tent door
+Remove	移除	actions	object	Hellhound
+Steal-From	偷窃	actions	object	Counter
+Prospect	勘探	actions	object	Rock of Dalgroth
+Leave	离开	actions	object	Cave exit
+Jump-Over	跳过	actions	object	Gap
+Turn	转动	actions	object	Sewer valve
+Look-under	查看下方	actions	object	Potted plant
+Step-into	踏入	actions	object	Sparkling pool
+Chop-down	砍倒	actions	object	Jungle tree
+Touch	触摸	actions	object	Fire Wall
+Smash-to-bits	砸成碎片	actions	object	Boulder
+Jump-over	跳过	actions	object	Jagged wall
+Look	看	actions	object	Carved rock
+Lift	抬起	actions	object	Totem pole
+Shake	摇晃	actions	object	Leafy Palm Tree
+Cut down	砍倒	actions	object	Arctic pine tree
+Forfeit	放弃	actions	object	Entrance
+Bank	存入银行	actions	object	Open chest
+Buy	购买	actions	object	Crate
+Pass-through	穿过	actions	object	Tunnel
+Descend	下降	actions	object	Cave
+Ascend	上升	actions	object	Cave
+Picklock	撬锁	actions	object	Gate
+Fire-at	开火	actions	object	Guide rope
+Unlock	解锁	actions	object	Locked Ogre chest
+Study	研究	actions	object	Monument
+Take-cutting	剪取插枝	actions	object	Budding branch
+Walk-on	走上去	actions	object	Balancing rope
+Walk-across	走过	actions	object	Balancing ledge
+Swing-across	荡过	actions	object	Monkey bars
+Swing-on	荡上	actions	object	Rope swing
+Jump-on	跳上去	actions	object	Pillar
+Tag	标记	actions	object	Ticket Dispenser
+Climb-across	爬过	actions	object	Hand holds
+Toggle-warning	切换警告提示设定	actions	object	Cave entrance
+Dump	倾倒	actions	object	Compost Bin
+Step-over	跨过	actions	object	Tripwire
+Pass	通过	actions	object	Sticks
+Reinforce	加固	actions	object	Temple wall
+Light	点燃	actions	object	Fire altar
+Build	建造	actions	object	Funeral Pyre
+Summon	召唤	actions	object	Strange altar
+Cut-branch	砍下树枝	actions	object	Swaying tree
+Put-inside	放入内部	actions	object	Pipe
+Spin	旋转	actions	object	Spinning wheel
+Capture	捕捉	actions	object	Standard Stand
+Jump-to	跳至	actions	object	Stepping stone
+Collapse	弄塌	actions	object	Cave wall
+Top-Floor	直达顶层	actions	object	Ladder
+Lock	锁定	actions	object	Door
+View	查看	actions	object	Scoreboard
+View Stats	查看属性	actions	object	Scoreboard
+Remove board advert	移除公告板广告	actions	object	Portal
+Remove-room	移除房间	actions	object	Dungeon entrance
+Jump-across	跳过	actions	object	Basalt rock
+Top-floor	直达顶层	actions	object	Staircase
+Bottom-floor	直达底层	actions	object	Staircase
+View-game	观战	actions	object	Table
+Weed	除草	actions	object	Herbs
+Jump off	跳下去	actions	object	End of bridge
+Talk-to	对话	actions	object	Awowogei
+Pick-lock	撬锁	actions	object	Jail Door
+Steal from	偷窃	actions	object	Crafting Stall
+Crawl-down	爬下去	actions	object	Cart tunnel
+Crawl-through	爬过	actions	object	Cart tunnel
+Go-down	下去	actions	object	Lift
+Go-up	上去	actions	object	Lift
+Slide	滑动	actions	object	Slope
+Squeeze-past	挤过	actions	object	Stalagmite
+Wind	上发条	actions	object	Clock
+Dig	挖掘	actions	object	Grave
+Pick-Lock	撬锁	actions	object	Trapdoor
+Take-axe	拿走斧头	actions	object	Logs
+Ring-bell	按铃	actions	object	Antiques Shop Stall
+Listen-to	聆听	actions	object	Shining pool
+Pick-from	采摘	actions	object	Thorny bushes
+Dig-up	挖开	actions	object	Mud
+Dig-below	从根部挖掘	actions	object	Roots
+Jump-through	跳过	actions	object	Wall of flame
+Take-beer	拿取啤酒	actions	object	Table
+Hide-behind	躲在后面	actions	object	Cactus
+Smoke	吸烟	actions	object	Smokey well
+Look-into	查看内部	actions	object	Mystical mirror
+Step-off	走下	actions	object	Ice ledge
+Climb-through	爬过	actions	object	Hole
+Collect-from	收集	actions	object	Weeping wall
+Sit-on	坐在上面	actions	object	Chair
+Upgrade	升级	actions	object	Tools
+Work-at	工作	actions	object	Workbench
+Make-helmet	制作头盔	actions	object	Helmet pluming stand
+Ring	摇动	actions	object	Bell
+Quick-board	快速登船	actions	object	Swamp Boaty
+Ride	骑乘	actions	object	Train cart
+Observe	观察	actions	object	Telescope
+Leave-area	离开区域	actions	object	Ladder
+Crack	敲碎	actions	object	Wall safe
+Pull-spade	拉动铲子	actions	object	Stone Door
+Guide	引导	actions	object	Belladonna patch
+Rake	耙地	actions	object	Belladonna patch
+Cure	治愈	actions	object	Diseased Belladonna
+Clear	清除	actions	object	Dead Belladonna
+Check-health	检查健康状况	actions	object	Cadavaberry bush
+Prune	修剪	actions	object	Diseased cadavaberry bush
+Pick-spine	拔刺	actions	object	Cactus
+Pick-fruit	采摘果实	actions	object	Calquat tree
+Gear	装备	actions	object	Supplies
+Stats	属性	actions	object	Supplies
+Standard spellbook	切换至标准法术书	actions	object	Altar
+Ancient spellbook	切换至古代法术书	actions	object	Altar
+Lunar spellbook	切换至月之法术书	actions	object	Altar
+Arceuus spellbook	切换至阿西乌斯法术书	actions	object	Altar
+Pick-apple	采摘苹果	actions	object	Apple tree
+Pick-pineapple	采摘菠萝	actions	object	Pineapple plant
+Pick-banana	采摘香蕉	actions	object	Banana tree
+Pick-leaf	采摘叶子	actions	object	Curry tree
+Pick-orange	采摘橙子	actions	object	Orange tree
+Pick-coconut	采摘椰子	actions	object	Palm tree
+Harvest	收获	actions	object	Asgarnian Hops
+Travel	旅行	actions	object	Spirit Tree
+Milk	挤奶	actions	object	Dairy cow
+Steal-cowbell	偷窃牛铃	actions	object	Dairy cow
+Dismantle	拆解	actions	object	Young tree
+Set-trap	放置陷阱	actions	object	Young tree
+Release	释放	actions	object	Gnome on a rack
+Level	设定技能等级	actions	object	Kelda Stout
+Control	控制	actions	object	Dwarven machinery
+Return	返回	actions	object	Train cart
+Chip	凿刻	actions	object	Dense runestone
+Hack	乱劈	actions	object	Light Jungle
+Quick-Pay(100)	快速支付 (100)	actions	object	Hardwood Grove Doors
+Refuel	补充燃料	actions	object	Stove
+Retrieve	取回	actions	object	Bars
+Pedal	踩踏板	actions	object	Pedals
+Put-ore-on	放置矿石	actions	object	Conveyor belt
+Fill-bucket	装满桶	actions	object	Sink
+Take-seed	拿取种子	actions	object	Roses
+Attach	装上	actions	object	Ornate combat dummy
+Swap	交换	actions	object	Ornate combat dummy
+Take-Coffin	取棺材	actions	object	Grave
+Make	制作	actions	object	Bed
+Net	用渔网捕鱼	actions	object	Fishing spot
+Ardougne	阿多尼城	actions	object	Lever
+Edgeville	埃奇维尔镇	actions	object	Lever
+Swap-options	交换选项	actions	object	Lever
+Talk to	对话	actions	object	Tree
+Exchange	交易	actions	object	Grand Exchange booth
+Lure	引诱	actions	object	Ominous Fishing Spot
+Bait	放置诱饵	actions	object	Ominous Fishing Spot
+Fish-in	钓鱼	actions	object	Aquarium
+Count	计数	actions	object	Pressure Barrel
+Swim	游泳	actions	object	River
+Look-up	向上看	actions	object	Trellis
+Spectate	旁观	actions	object	Rat wall
+Deposit-box	开启寄存箱介面	actions	object	Bank booth
+Grab	抓取	actions	object	Bones
+Remove-coal	取出煤炭	actions	object	Coal Truck
+Take-sigil	拿取符印	actions	object	Pedestal
+Empty-Out	清空	actions	object	Cannon
+Fire!	开火！	actions	object	Cannon
+Loot	搜刮 / 领取 / 转移战利品	actions	object	Crate
+Plunder	掠夺	actions	object	Closed chest
+Ransack	洗劫	actions	object	Barrel
+Count-plunder	结算掠夺物	actions	object	Plunder Storage
+Store-plunder	储存掠夺物	actions	object	Plunder Storage
+Take-powder	拿取粉末	actions	object	Powder Barrel
+Waterproof	防水处理	actions	object	Ship hull
+Balance	平衡	actions	object	Narrow wall
+Teeth-grip	用牙咬住滑行	actions	object	Zip line
+Drain	排水	actions	object	Barrel
+Churn	搅拌	actions	object	Dairy churn
+Zanaris	传送至失落之城	actions	object	Fairy ring
+Configure	配置	actions	object	Fairy ring
+Last-destination (AIP)	传送至上次目的地 (AIP)	actions	object	Fairy ring
+Escape	逃跑	actions	object	Cave entrance
+Examine	查看	actions	object	Healing certificate
+Shape-Canoe	切削独木舟	actions	object	Canoe Station
+Float Log	将原木推入水中	actions	object	Canoe Station
+Float Canoe	将独木舟推入水中	actions	object	Canoe Station
+Paddle Log	划动原木	actions	object	Canoe Station
+Paddle Canoe	划动独木舟	actions	object	Canoe Station
+Look-inside	查看内部	actions	object	Mole hill
+Buy-food	购买食物	actions	object	Chest
+Buy-items	购买物品	actions	object	Chest
+Quick-escape	快速逃跑	actions	object	Door
+Pick-Fruit	采摘果实	actions	object	Sq'irk tree
+Stand-on	站在上面	actions	object	Balance beam
+Get-down	下来	actions	object	Balance beam
+Change-clothes	换衣服	actions	object	Shoe box
+Preen	整理仪容	actions	object	Shaving stand
+Haircut	理发	actions	object	Shaving stand
+Shave	剃须	actions	object	Shaving stand
+Pray	祈祷	actions	object	Altar
+Re-light	重新点燃	actions	object	Incense burner
+Build-in	建造	actions	object	Cage
+Force	撞门	actions	object	Door
+Activate	激活	actions	object	Treasure Hunt Fairy House
+Set-up	设置	actions	object	Attack stone
+Hoop	套圈	actions	object	Stick
+Throw-at	投掷	actions	object	Dartboard
+Shoot-at	射击	actions	object	Archery target
+Karamja	传送至卡拉姆詹岛	actions	object	Amulet of Glory
+Draynor Village	传送至德雷诺村	actions	object	Amulet of Glory
+Al Kharid	传送至阿尔卡里德城	actions	object	Amulet of Glory
+Take-kettle	拿取水壶	actions	object	Firepit with hook
+Sleep-in	睡在里面	actions	object	Pet blanket
+Last-destination (AIS)	传送至上次目的地 (AIS)	actions	object	Fairy ring
+Last-destination (AIR)	传送至上次目的地 (AIR)	actions	object	Fairy ring
+Last-destination (AIQ)	传送至上次目的地 (AIQ)	actions	object	Fairy ring
+Direct-portal	定向传送门	actions	object	Scrying pool
+Scry	占卜	actions	object	Scrying pool
+Challenge-mode	开启挑战模式	actions	object	Lever
+Evade-event	规避事件	actions	object	Path
+Continue-trek	继续徒步	actions	object	Path
+Swing-from	荡过	actions	object	Swamp tree branch
+Cut-vine	砍下藤蔓	actions	object	Swamp tree
+Escape-event	逃离事件	actions	object	Boat
+Return-to-Burgh	返回罗特堡	actions	object	Path
+Remove-Pot	移除罐子	actions	object	Pot-boiler
+Remove-Bone	移除骨头	actions	object	Pot-boiler
+Jump-down	跳下去	actions	object	Rocks
+Use-Driftwood	使用浮木	actions	object	Embers
+Climb-through (normal)	爬过 (普通副本)	actions	object	Broken bars
+Climb-through (private)	爬过 (私人副本)	actions	object	Broken bars
+Peek (normal)	偷看 (普通副本)	actions	object	Broken bars
+Eat	吃	actions	object	Food Pile
+Leap	跳跃	actions	object	Gap
+Teleport to Destination	传送至目的地	actions	object	Obelisk
+Set Destination	设置目的地	actions	object	Obelisk
+Hurdle	跨越障碍	actions	object	Ledge
+Jump-off	跳下去	actions	object	Edge
+Vault	跳跃	actions	object	Pole-vault
+Jump-in	跳入	actions	object	Pile of fish
+Take-pickaxe	拿取镐子	actions	object	Rocks
+Use-Lift	使用升降机	actions	object	Platform
+Take-Beam	拿取横梁	actions	object	Crate
+Take-Pulley-Beam	拿取滑轮梁	actions	object	Crate
+Take-Rope	拿取绳子	actions	object	Crate
+Swing Across	荡过	actions	object	Monkeybars
+Home	传送至房屋	actions	object	Portal
+Build mode	开启建造模式	actions	object	Portal
+Friend's house	传送至好友的房屋	actions	object	Portal
+Swing	摇摆	actions	object	Rope
+Sit-On	坐在上面	actions	object	Piano stool
+Pick Nuts	采摘坚果	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	采摘香蕉	actions	object	Strange banana tree
+Throw	投掷	actions	object	Shot
+Unblock	清除阻塞	actions	object	Tunnel
+Take-Rum	拿取朗姆酒	actions	object	Conveyor Belt
+Pump	泵	actions	object	Steam Pump
+Vent	通风	actions	object	Steam Pump
+Take-Log	拿取原木	actions	object	Log Store
+Take-Tool	拿取工具	actions	object	Workbench
+Cut-Down	砍倒	actions	object	Jungle tree
+Pay-toll(2-Ecto)	支付通行费 (2 灵界代币)	actions	object	Energy Barrier
+Jump-To	跳至	actions	object	Rock
+Enter-cloud	进入云层	actions	object	Cloud bank
+Listen	聆听	actions	object	Crevice
+Manoeuvre-past	侧身穿过 / 钻过	actions	object	Tight-gap
+Climb-under	爬至下方	actions	object	Castle wall
+Climb-into	爬入	actions	object	Hole
+Jump-onto	跳上去	actions	object	Stepping stone
+Press	按压	actions	object	Zero
+Step-on	踏上	actions	object	Platform
+Worship	崇拜	actions	object	Ectofuntus
+Status	查看状态	actions	object	Bone grinder
+Talk-To	对话	actions	object	Pirate Captain
+Admire	欣赏	actions	object	Tall mirror
+Roll	滚动	actions	object	Dice
+Grapple	抓钩	actions	object	Rocks
+Take-bowl	拿取碗	actions	object	Table
+Sing-crystal	吟唱水晶歌	actions	object	Singing bowl
+test	测试	actions	object	Argento
+Crawl-under	爬到下方	actions	object	Wall
+Fix	修复	actions	object	Bellows
+Bend	弯曲	actions	object	Cell wall window
+Steal	偷窃	actions	object	Candles
+Deactivate	停用	actions	object	Magic box
+Trap	放置陷阱	actions	object	Pit
+Flush	冲洗	actions	object	Rabbit hole
+Shout-over	喊过	actions	object	Rockslide
+Pull-down	拉下	actions	object	Eagle lever
+Push-up	推上	actions	object	Eagle lever
+Quick-start	快速开始	actions	object	Ladder
+Reset-wave	重置波次	actions	object	Door
+Dunk	浸入	actions	object	Lava crater
+Block	阻挡	actions	object	Penance cave
+Demolish	拆除	actions	object	Penance cave
+Take-Arrows	拿取箭攵	actions	object	Attacker item machine
+Take-Runes	拿取符石	actions	object	Attacker item machine
+Stock-Up	领取补给	actions	object	Defender item machine
+Take-Crackers	拿取拉炮	actions	object	Defender item machine
+Take-Tofu	拿取豆腐	actions	object	Defender item machine
+Take-Worms	拿取蠕虫	actions	object	Defender item machine
+Take-Vial	拿取小瓶	actions	object	Healer item machine
+Take-Meat	拿取肉塊	actions	object	Healer item machine
+Call	呼叫	actions	object	Horn of glory
+Get-Spikes	取刺	actions	object	Petrified mushroom
+Load	装载	actions	object	Egg hopper
+Evade	躲避	actions	object	Trap
+Disable	停用	actions	object	Trap
+Harpoon	用鱼叉捕鱼	actions	object	Fishing spot
+Cage	用笼子捕鱼	actions	object	Fishing spot
+Leave Tomb	离开坟墓	actions	object	Tomb Door
+Quick-leave	快速离开	actions	object	Tomb Door
+Tread-softly	轻步走过	actions	object	Icicles
+Convert	转换	actions	object	Collector Converter
+Check for Snakes	探查毒蛇	actions	object	Urn
+Charm Snake	安抚毒蛇	actions	object	Urn
+Cut-wood	劈柴	actions	object	Woodcutting stump
+Cross-bridge	过桥	actions	object	Rope bridge
+Exit-cave	离开洞穴	actions	object	Exit cavern
+Decapitate	斩首	actions	object	Ice Troll King
+Jump-from	跳下去	actions	object	Stepping stone
+Peer-through	窥视	actions	object	Peephole
+Add-bottom	安装底部结构	actions	object	Crate
+Return-to-Paterdomus	返回帕多姆斯神殿	actions	object	Path
+Excavate	挖掘	actions	object	Statue
+Quick Pass	快速通过	actions	object	Flames
+Tamper	篡改	actions	object	Device
+Untie	解开	actions	object	Zanik
+Walk-along	沿着走	actions	object	Tunnel
+Swing across	荡过	actions	object	Monkeybars
+Animate	活化	actions	object	Magical Animator
+Check Kudos	检查声望值	actions	object	Information booth
+Add finds	添加发现物	actions	object	Storage crate
+Clean	清洗	actions	object	Specimen table
+Talk-into	对话	actions	object	Drain Pipe
+Wind-up	上发条	actions	object	Gramophone
+Turn-Off	关闭	actions	object	Gramophone
+Climb up	爬上去	actions	object	Beard
+Exit-through	离开	actions	object	Fire rift
+Push-through	推过	actions	object	Magical wheat
+Dive in	潜入	actions	object	Whirlpool
+Construct	建造	actions	object	Pyre site
+Rummage	翻找	actions	object	Skeleton
+Burn-down	烧毁	actions	object	Boil
+Take From	拿取	actions	object	Barrel of flour
+Reach	伸手摸索	actions	object	Vent
+Free	释放	actions	object	King Arthur
+Break	打破	actions	object	Smashed window
+Distract	分散注意力	actions	object	Eyes
+Drink	喝	actions	object	Potion
+Store	储存	actions	object	Super ranging potion
+Equip	装备	actions	object	Anti-dragon shield
+Teleport	传送	actions	object	Zamorak altar
+Tie-rope	系绳子	actions	object	Rock
+Move	移动	actions	object	Boulder
+Claim-staves	领取法杖	actions	object	Barrel
+Climb-off	爬下去	actions	object	Ice bridge
+Crawl	爬行	actions	object	Cave
+Join	加入	actions	object	Challenge portal
+Hammer	锤击	actions	object	Broken strut
+Toggle K/D	切换击杀 / 死亡统计开关	actions	object	Wilderness Statistics
+Make-raft	制作木筏	actions	object	Old log
+Toggle XP	切换经验值开关	actions	object	Deadman chest
+Take-X	取 X 个	actions	object	Meat table
+Serve	服务	actions	object	Buffet table
+Water	浇水	actions	object	Golovanova seedling
+Bind	束缚	actions	object	Blood Altar
+Venerate	崇敬	actions	object	Dark Altar
+Take-remains	拿走遗骸	actions	object	Kruk
+Scale	攀爬	actions	object	Rocks
+Walk on	走在上面	actions	object	Vine
+Look-in-all	全面探查	actions	object	Hole
+Disarm	解除武装	actions	object	Floor spikes
+Pass through	穿过	actions	object	Sliced web
+Gaze-into	凝视	actions	object	Burning brazier
+Reset-time	重置时间	actions	object	Burning brazier
+Balance-across	保持平衡走过	actions	object	Steep roof
+Leave Cavern	离开洞穴	actions	object	Inanimate Altar
+Story	叙述冒险事迹	actions	object	Juna
+Climb over	爬过	actions	object	Broken cart
+Claim	领取	actions	object	Reward chest
+Add-House	发布房屋广告	actions	object	House Advertisement
+Visit-Last	访问最近一次进入的房屋	actions	object	House Advertisement
+Cross-to	穿过	actions	object	Rock
+Setup	设置	actions	object	Tip jar
+Jars	展示罐子	actions	object	Boss lair display
+Perks	使用披风功能	actions	object	Mounted Max Cape
+Spellbook	切换法术书	actions	object	Mounted Magic Cape
+Clip	剪辑	actions	object	Topiary bush
+Feed	喂食	actions	object	Burning brazier
+Take-hammer	拿取锤子	actions	object	Crate
+Take-knife	拿取小刀	actions	object	Crate
+Take-tinderbox	拿取火绒盒	actions	object	Crate
+Take-concoction	拿取混合物	actions	object	Crate
+Take-5 concoctions	拿取 5 个混合物	actions	object	Crate
+Take-10 concoctions	拿取 10 个混合物	actions	object	Crate
+Last-destination (ALP)	传送至上次目的地 (ALP)	actions	object	Fairy ring
+Last-destination (ALS)	传送至上次目的地 (ALS)	actions	object	Fairy ring
+Last-destination (ALR)	传送至上次目的地 (ALR)	actions	object	Fairy ring
+Last-destination (ALQ)	传送至上次目的地 (ALQ)	actions	object	Fairy ring
+Last-destination (AKP)	传送至上次目的地 (AKP)	actions	object	Fairy ring
+Last-destination (AKS)	传送至上次目的地 (AKS)	actions	object	Fairy ring
+Last-destination (AKR)	传送至上次目的地 (AKR)	actions	object	Fairy ring
+Last-destination (AKQ)	传送至上次目的地 (AKQ)	actions	object	Fairy ring
+Last-destination (AJP)	传送至上次目的地 (AJP)	actions	object	Fairy ring
+Last-destination (AJS)	传送至上次目的地 (AJS)	actions	object	Fairy ring
+Last-destination (AJR)	传送至上次目的地 (AJR)	actions	object	Fairy ring
+Last-destination (AJQ)	传送至上次目的地 (AJQ)	actions	object	Fairy ring
+Last-destination (DIP)	传送至上次目的地 (DIP)	actions	object	Fairy ring
+Last-destination (DIS)	传送至上次目的地 (DIS)	actions	object	Fairy ring
+Last-destination (DIR)	传送至上次目的地 (DIR)	actions	object	Fairy ring
+Last-destination (DIQ)	传送至上次目的地 (DIQ)	actions	object	Fairy ring
+Last-destination (DLP)	传送至上次目的地 (DLP)	actions	object	Fairy ring
+Last-destination (DLS)	传送至上次目的地 (DLS)	actions	object	Fairy ring
+Last-destination (DLR)	传送至上次目的地 (DLR)	actions	object	Fairy ring
+Last-destination (DLQ)	传送至上次目的地 (DLQ)	actions	object	Fairy ring
+Last-destination (DKP)	传送至上次目的地 (DKP)	actions	object	Fairy ring
+Last-destination (DKS)	传送至上次目的地 (DKS)	actions	object	Fairy ring
+Last-destination (DKR)	传送至上次目的地 (DKR)	actions	object	Fairy ring
+Last-destination (DKQ)	传送至上次目的地 (DKQ)	actions	object	Fairy ring
+Last-destination (DJP)	传送至上次目的地 (DJP)	actions	object	Fairy ring
+Last-destination (DJS)	传送至上次目的地 (DJS)	actions	object	Fairy ring
+Last-destination (DJR)	传送至上次目的地 (DJR)	actions	object	Fairy ring
+Last-destination (DJQ)	传送至上次目的地 (DJQ)	actions	object	Fairy ring
+Last-destination (CIP)	传送至上次目的地 (CIP)	actions	object	Fairy ring
+Last-destination (CIS)	传送至上次目的地 (CIS)	actions	object	Fairy ring
+Last-destination (CIR)	传送至上次目的地 (CIR)	actions	object	Fairy ring
+Last-destination (CIQ)	传送至上次目的地 (CIQ)	actions	object	Fairy ring
+Last-destination (CLP)	传送至上次目的地 (CLP)	actions	object	Fairy ring
+Last-destination (CLS)	传送至上次目的地 (CLS)	actions	object	Fairy ring
+Last-destination (CLR)	传送至上次目的地 (CLR)	actions	object	Fairy ring
+Last-destination (CLQ)	传送至上次目的地 (CLQ)	actions	object	Fairy ring
+Last-destination (CKP)	传送至上次目的地 (CKP)	actions	object	Fairy ring
+Last-destination (CKS)	传送至上次目的地 (CKS)	actions	object	Fairy ring
+Last-destination (CKR)	传送至上次目的地 (CKR)	actions	object	Fairy ring
+Last-destination (CKQ)	传送至上次目的地 (CKQ)	actions	object	Fairy ring
+Last-destination (CJP)	传送至上次目的地 (CJP)	actions	object	Fairy ring
+Last-destination (CJS)	传送至上次目的地 (CJS)	actions	object	Fairy ring
+Last-destination (CJR)	传送至上次目的地 (CJR)	actions	object	Fairy ring
+Last-destination (CJQ)	传送至上次目的地 (CJQ)	actions	object	Fairy ring
+Last-destination (BIP)	传送至上次目的地 (BIP)	actions	object	Fairy ring
+Last-destination (BIS)	传送至上次目的地 (BIS)	actions	object	Fairy ring
+Last-destination (BIR)	传送至上次目的地 (BIR)	actions	object	Fairy ring
+Last-destination (BIQ)	传送至上次目的地 (BIQ)	actions	object	Fairy ring
+Last-destination (BLP)	传送至上次目的地 (BLP)	actions	object	Fairy ring
+Last-destination (BLS)	传送至上次目的地 (BLS)	actions	object	Fairy ring
+Last-destination (BLR)	传送至上次目的地 (BLR)	actions	object	Fairy ring
+Last-destination (BLQ)	传送至上次目的地 (BLQ)	actions	object	Fairy ring
+Last-destination (BKP)	传送至上次目的地 (BKP)	actions	object	Fairy ring
+Last-destination (BKS)	传送至上次目的地 (BKS)	actions	object	Fairy ring
+Last-destination (BKR)	传送至上次目的地 (BKR)	actions	object	Fairy ring
+Last-destination (BKQ)	传送至上次目的地 (BKQ)	actions	object	Fairy ring
+Last-destination (BJP)	传送至上次目的地 (BJP)	actions	object	Fairy ring
+Last-destination (BJS)	传送至上次目的地 (BJS)	actions	object	Fairy ring
+Last-destination (BJR)	传送至上次目的地 (BJR)	actions	object	Fairy ring
+Last-destination (BJQ)	传送至上次目的地 (BJQ)	actions	object	Fairy ring
+Tree	开启传送选单	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	戒指 - 传送至失落之城	actions	object	Spiritual Fairy Tree
+Ring-configure	戒指 - 配置	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	戒指 - 传送至上次目的地 (AIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	戒指 - 传送至上次目的地 (AIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	戒指 - 传送至上次目的地 (AIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	戒指 - 传送至上次目的地 (AIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	戒指 - 传送至上次目的地 (ALP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	戒指 - 传送至上次目的地 (ALS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	戒指 - 传送至上次目的地 (ALR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	戒指 - 传送至上次目的地 (ALQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	戒指 - 传送至上次目的地 (AKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	戒指 - 传送至上次目的地 (AKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	戒指 - 传送至上次目的地 (AKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	戒指 - 传送至上次目的地 (AKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	戒指 - 传送至上次目的地 (AJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	戒指 - 传送至上次目的地 (AJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	戒指 - 传送至上次目的地 (AJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	戒指 - 传送至上次目的地 (AJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	戒指 - 传送至上次目的地 (DIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	戒指 - 传送至上次目的地 (DIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	戒指 - 传送至上次目的地 (DIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	戒指 - 传送至上次目的地 (DIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	戒指 - 传送至上次目的地 (DLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	戒指 - 传送至上次目的地 (DLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	戒指 - 传送至上次目的地 (DLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	戒指 - 传送至上次目的地 (DLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	戒指 - 传送至上次目的地 (DKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	戒指 - 传送至上次目的地 (DKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	戒指 - 传送至上次目的地 (DKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	戒指 - 传送至上次目的地 (DKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	戒指 - 传送至上次目的地 (DJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	戒指 - 传送至上次目的地 (DJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	戒指 - 传送至上次目的地 (DJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	戒指 - 传送至上次目的地 (DJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	戒指 - 传送至上次目的地 (CIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	戒指 - 传送至上次目的地 (CIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	戒指 - 传送至上次目的地 (CIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	戒指 - 传送至上次目的地 (CIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	戒指 - 传送至上次目的地 (CLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	戒指 - 传送至上次目的地 (CLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	戒指 - 传送至上次目的地 (CLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	戒指 - 传送至上次目的地 (CLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	戒指 - 传送至上次目的地 (CKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	戒指 - 传送至上次目的地 (CKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	戒指 - 传送至上次目的地 (CKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	戒指 - 传送至上次目的地 (CKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	戒指 - 传送至上次目的地 (CJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	戒指 - 传送至上次目的地 (CJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	戒指 - 传送至上次目的地 (CJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	戒指 - 传送至上次目的地 (CJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	戒指 - 传送至上次目的地 (BIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	戒指 - 传送至上次目的地 (BIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	戒指 - 传送至上次目的地 (BIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	戒指 - 传送至上次目的地 (BIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	戒指 - 传送至上次目的地 (BLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	戒指 - 传送至上次目的地 (BLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	戒指 - 传送至上次目的地 (BLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	戒指 - 传送至上次目的地 (BLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	戒指 - 传送至上次目的地 (BKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	戒指 - 传送至上次目的地 (BKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	戒指 - 传送至上次目的地 (BKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	戒指 - 传送至上次目的地 (BKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	戒指 - 传送至上次目的地 (BJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	戒指 - 传送至上次目的地 (BJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	戒指 - 传送至上次目的地 (BJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	戒指 - 传送至上次目的地 (BJQ)	actions	object	Spiritual Fairy Tree
+Quick-exit	快速退出	actions	object	Gate
+Craft-rune	制作符石	actions	object	Altar
+Fuel	添加燃料	actions	object	Brazier
+Dispel	驱散	actions	object	Shimmering barrier
+Shared	分享	actions	object	Small storage unit
+Take Rake	拿取耙子	actions	object	Old tools
+Take Spade	拿取铲子	actions	object	Old tools
+Take Seed Dibber	拿取种植锥	actions	object	Old tools
+Pick-lots	批量采摘	actions	object	Gourd tree
+Quick-pass	快速通过	actions	object	Mystical barrier
+Coffer	开启保险箱介面	actions	object	Furnace
+Travel to platform	前往平台	actions	object	Row boat
+Leave platform	离开平台	actions	object	Row boat
+Check count	检查计数	actions	object	Rock
+Toggle warning	切换警告提示设定	actions	object	Rock
+Seeds	放置种子	actions	object	Birdhouse (empty)
+Interact	互动	actions	object	Birdhouse
+Inject	注射	actions	object	Sulliuscep
+Jump on	跳上去	actions	object	Rubber cap mushroom
+Navigate	导航	actions	object	Obstacle
+Climb Down	爬下去	actions	object	Trap Door
+Climb Up	爬上去	actions	object	Rope anchor
+Dive	潜水	actions	object	Rowboat
+Build on	建造	actions	object	Ring of Stones
+Take tools	拿取工具	actions	object	Crate
+Set up	设置	actions	object	Drift net anchors
+Take down	取下	actions	object	Drift net anchors
+Pick up	捡起	actions	object	Pile of Fishbowls
+Pay	支付	actions	object	Volcano Entrance
+Feel	触摸	actions	object	Gas hole
+Add to	添加	actions	object	Large Fossil Support
+Climb through	爬过	actions	object	Hole
+Teleport to destination	传送至目的地	actions	object	Obelisk
+Set destination	设置目的地	actions	object	Obelisk
+Preferences	偏好设置	actions	object	Log storage
+Absorb	吸收	actions	object	Energy Sphere
+Reminisce	回忆	actions	object	Pool of Dreams
+Nets	用渔网捕鱼	actions	object	Annette
+Ancient	切换至古代法术书	actions	object	Altar of the Occult
+Lunar	切换至月之法术书	actions	object	Altar of the Occult
+Arceuus	切换至阿西乌斯法术书	actions	object	Altar of the Occult
+Standard	切换至标准法术书	actions	object	Altar of the Occult
+Recharge-jewellery	充能首饰	actions	object	Totem Pole
+Douse	熄灭	actions	object	Fire
+Heal	治疗	actions	object	Fremennik warrior
+Complete	完成	actions	object	Incomplete map
+Check-Count	检查计数	actions	object	Gate
+Clamber	攀爬	actions	object	Rock Pile
+Look-through	窥视	actions	object	Window
+Charge-at	冲向	actions	object	Vyre well
+Quick-enter	快速进入	actions	object	Door
+Resign	退出	actions	object	Vyre Orator
+Varrock	传送至维洛克城	actions	object	Varrock Portal
+Grand Exchange	传送至大交易所	actions	object	Varrock Portal
+Toggle	切换传送点	actions	object	Varrock Portal
+Camelot	传送至卡美洛城堡	actions	object	Camelot Portal
+Seers' Village	传送至先知之村	actions	object	Camelot Portal
+Watchtower	传送至瞭望塔	actions	object	Yanille Watchtower Portal
+Yanille	传送至亚尼勒城	actions	object	Yanille Watchtower Portal
+Quick-Enter	快速进入	actions	object	Formidable passage
+Iceberg	航向冰山	actions	object	Boat
+Weiss	航向魏斯聚落	actions	object	Boat
+Teleport Menu	传送菜单	actions	object	Portal Nexus
+Configuration	配置	actions	object	Portal Nexus
+Look out	向外看	actions	object	Xeric's Talisman
+Teleport menu	传送菜单	actions	object	Xeric's Talisman
+Glade	传送至泽里克的林地	actions	object	Xeric's Talisman
+Inferno	传送至泽里克的地狱	actions	object	Xeric's Talisman
+Heart	传送至泽里克的心脏	actions	object	Xeric's Talisman
+Honour	传送至泽里克的荣誉	actions	object	Xeric's Talisman
+Digsite	传送至考古挖掘场	actions	object	Digsite Pendant
+Fossil Island	传送至化石岛	actions	object	Digsite Pendant
+Lithkren	传送至利斯克伦岛	actions	object	Digsite Pendant
+Ancients	切换至古代法术书	actions	object	Supplies
+Start	开始	actions	object	Steam Generator
+Align	对齐	actions	object	Power Grid
+Fill-jug	装满壶	actions	object	Coolant Dispenser
+Cleanse	净化	actions	object	Refinery
+Rebalance	重新平衡	actions	object	Energy Pylon
+Pick-dragonfruit	采摘火龙果	actions	object	Dragonfruit tree
+Crawl through	爬过	actions	object	Tunnel
+Quick-open	快速打开	actions	object	Alchemical door
+Take-rock	拿取岩石	actions	object	Rubble
+Quick-Exit	快速退出	actions	object	Ancient Fire
+Check-Faith	检查信仰	actions	object	Sacred Bone Burner
+Enter-crypt	进入墓穴	actions	object	Thick Web
+Follow	跟随	actions	object	Tracks
+Fill-from	装满	actions	object	Water Pump
+Channel	引导	actions	object	Teleport Platform
+Enter-corrupted	进入堕落区域	actions	object	The Gauntlet
+Refine	精炼	actions	object	Furnace
+Imbue	强化	actions	object	Altar
+Emir's Arena	传送至埃米尔竞技场	actions	object	Basic Jewellery Box
+Castle Wars	传送至城堡战争	actions	object	Basic Jewellery Box
+Ferox Enclave	传送至费罗飞地	actions	object	Basic Jewellery Box
+Burthorpe	传送至伯索普公国	actions	object	Basic Jewellery Box
+Barbarian Outpost	传送至野蛮人前哨站	actions	object	Basic Jewellery Box
+Corporeal Beast	传送至实体巨兽	actions	object	Basic Jewellery Box
+Tears of Guthix	传送至古斯之泪	actions	object	Basic Jewellery Box
+Wintertodt Camp	传送至寒冬营地	actions	object	Basic Jewellery Box
+Warriors' Guild	传送至战士公会	actions	object	Fancy Jewellery Box
+Champions' Guild	传送至冠军公会	actions	object	Fancy Jewellery Box
+Monastery	传送至埃奇维尔修道院	actions	object	Fancy Jewellery Box
+Ranging Guild	传送至射手公会	actions	object	Fancy Jewellery Box
+Fishing Guild	传送至钓鱼公会	actions	object	Fancy Jewellery Box
+Mining Guild	传送至采矿公会	actions	object	Fancy Jewellery Box
+Crafting Guild	传送至制作公会	actions	object	Fancy Jewellery Box
+Cooking Guild	传送至厨师公会	actions	object	Fancy Jewellery Box
+Woodcutting Guild	传送至伐木公会	actions	object	Fancy Jewellery Box
+Farming Guild	传送至农业公会	actions	object	Fancy Jewellery Box
+Miscellania	传送至米斯凯尼亚国	actions	object	Ornate Jewellery Box
+Falador Park	传送至法拉多公园	actions	object	Ornate Jewellery Box
+Dondakan's Rock	传送至东达坎之石	actions	object	Ornate Jewellery Box
+Take manta ray	拿取魔鬼鱼	actions	object	Bounty supply crate
+Take anglerfish	拿取鮟鱇鱼	actions	object	Bounty supply crate
+Destroy	销毁	actions	object	Lab table
+Stamp-out	踩灭	actions	object	Magical Fire
+Continue	继续	actions	object	Path
+Climp-up	爬上去	actions	object	Stairs
+Check-statistics (Personal)	检查统计 (个人)	actions	object	Noticeboard
+Check-statistics (Global)	检查统计 (全局)	actions	object	Noticeboard
+Sacrifice	献祭	actions	object	Saradomin Brazier
+Walk-over	走过	actions	object	Bridge
+Conjure	召唤	actions	object	Portal frame
+Search-for-traps	搜索陷阱	actions	object	Coffin
+Pass-Through	穿过	actions	object	Casual
+Cut-foot	切下酸猪脚	actions	object	Dead sourhog
+Take-candy	拿取糖果	actions	object	Magical pumpkin
+Jump-Down	跳下去	actions	object	Crevice
+Channel (Asgarnia)	传送至阿斯加尼亚王国	actions	object	Waystone
+Channel (Misthalin)	传送至米斯特林王国	actions	object	Waystone
+Channel (Kandarin)	传送至坎达林王国	actions	object	Waystone
+Channel (Fremennik)	传送至费明尼克	actions	object	Waystone
+Channel (Kharidian Desert)	传送至卡里迪安沙漠	actions	object	Waystone
+Channel (Morytania)	传送至莫利塔尼亚	actions	object	Waystone
+Channel (Tirannwn)	传送至提拉恩林地	actions	object	Waystone
+Channel (Karamja)	传送至卡拉姆詹岛	actions	object	Waystone
+Channel (Wilderness)	传送至荒野	actions	object	Waystone
+Slayer	前往杀戮任务专属副本	actions	object	Kings' ladder
+Open (normal)	打开普通副本	actions	object	Big door
+Open (private)	打开私人副本	actions	object	Big door
+Climb-down (normal)	爬下去 (普通副本)	actions	object	Tunnel entrance
+Climb-down (private)	爬下去 (私人副本)	actions	object	Tunnel entrance
+Sacrifice-fragments	献祭碎片	actions	object	Soul Obelisk
+Remove-decorations	移除装饰	actions	object	Christmas curtains
+Untether	解开系绳	actions	object	Mast
+Tether	系绳	actions	object	Mast
+Remove-trophy	移除奖杯	actions	object	Trophy pedestal
+View-trophies	查看奖杯	actions	object	Oak trophy case
+Remove-banner	移除旗帜	actions	object	Banner stand
+Remove-outfit	移除服装	actions	object	Oak outfit stand
+Spin-globe	旋转地球仪	actions	object	Trailblazer globe
+League-statistics	联盟统计	actions	object	League Accomplishment Scroll
+League-rankings	联盟排名	actions	object	League Accomplishment Scroll
+League-firsts	联盟首榜	actions	object	League Accomplishment Scroll
+Cook-at	烹饪	actions	object	Shrine
+Big-search	大型搜索	actions	object	Reward pool
+Quick-climb	快速攀爬	actions	object	Rope ladder
+Solo-start	单人开始	actions	object	Rope ladder
+Prepare-fish	准备鱼肉	actions	object	Preparation Table
+Offer-fish	供奉鱼肉	actions	object	Altar
+Entertain	娱乐	actions	object	Piano
+Play-quietly	安静地玩	actions	object	Piano
+Background-music	背景音乐	actions	object	Piano
+Enter-member	进入会员区	actions	object	Clan hall portal
+Enter-guest	进入访客区	actions	object	Clan hall portal
+Pet	抚摸	actions	object	Cat
+Pass (normal)	通过普通副本	actions	object	Ancient Barrier
+Pass (private)	通过私人副本	actions	object	Ancient Barrier
+Adjust	调整	actions	object	Machine
+Say-name	念出名字	actions	object	Grave
+Deposit-runes	存放符石	actions	object	Deposit Pool
+Deposit-items	存放物品	actions	object	Deposit Pool
+Visual-effects	视觉效果	actions	object	Barrier
+Toggle-talisman	切换护符	actions	object	Guardian of Air
+Assemble	组装	actions	object	Essence pile (elemental)
+Take-chisel	拿取凿子	actions	object	Weak cells
+Place-cell	放置单元	actions	object	Inactive cell tile
+Exit-through (Kourend)	穿过离开 (库兰德王国)	actions	object	Blood rift
+Pay-toll(10gp)	支付通行费 (10 金币)	actions	object	Gate
+Pour	倾倒	actions	object	Crucible (full)
+Heat-preform	加热预制品	actions	object	Lava pool
+Dunk-preform	浸入预制品	actions	object	Lava pool
+Cool-preform	冷却预制品	actions	object	Waterfall
+Quench-preform	淬火预制品	actions	object	Waterfall
+Store-preform	储存预制品	actions	object	Preform storage
+Take-preform	拿取预制品	actions	object	Preform storage
+Rank	查看排名	actions	object	Arena recruitment board
+Quick-use	快速使用	actions	object	Staging area steps
+Quick-Pass	快速通过	actions	object	Barrier
+Flip	翻转	actions	object	Pressure plate
+Rotate-clockwise	顺时针旋转	actions	object	Mirror
+Rotate-anticlockwise	逆时针旋转	actions	object	Mirror
+Deposit-pickaxe	存放镐子	actions	object	Statue
+Quick-Use	快速使用	actions	object	Teleport crystal
+Quick-Board	快速登船	actions	object	Sacrificial boat
+Check-permissions	检查权限	actions	object	Chest
+Pickup	捡起	actions	object	Gingerbread
+Check-times	查看统计数据	actions	object	Santa's log
+Push-against	推抵	actions	object	Wall
+Check-Fee	查看所需费用	actions	object	Crevice
+Peer-into	凝视	actions	object	Prifddinas Display
+Release-bees	释放蜜蜂	actions	object	Beehive
+Add-mulch	添加覆盖物	actions	object	Struggling sapling
+Read (Awakened)	阅读 (觉醒)	actions	object	Scoreboard
+Attach-rope	系绳子	actions	object	Rock
+Climb-rope	爬绳	actions	object	Rock
+Build-barricade	建造路障	actions	object	Surface
+Take-supplies	拿取补给品	actions	object	Stone chest
+Lockpick	开锁器	actions	object	Stone chest (locked)
+Burn	燃烧	actions	object	Shipwreck
+Burn`	燃烧	actions	object	Gunpowder
+Withdraw	取出	actions	object	Extract orifice
+Tend-to	照料	actions	object	Forester's Campfire
+Rest	休息	actions	object	Forester's Campfire
+Retrieve-egg	取回雉雞蛋	actions	object	Pheasant Nest
+Revert	还原	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	传送至大库兰德王国	actions	object	Waystone
+Travel-End	旅行结束	actions	object	Portal
+Travel-Start	旅行开始	actions	object	Portal
+Reload	重新装载	actions	object	Steps
+Collect-reward	收集奖励	actions	object	Table
+Look-over	查看	actions	object	Balcony
+Fortis Colosseum	传送至福蒂斯竞技场	actions	object	Basic Jewellery Box
+View-stats	查看属性	actions	object	Colosseum scoreboard
+View-glory	查看荣耀	actions	object	Colosseum scoreboard
+Sabotage	破坏	actions	object	Lily pad
+Plant-evidence	放置伪证	actions	object	Capybara Dung
+Rustle	沙沙作响	actions	object	Bush
+Make-cuppa	泡茶	actions	object	Cooking stove
+Align-net	对齐网	actions	object	Stream
+Take-from Fishing	从钓鱼取	actions	object	Supply crates
+Take-from Hunting	从狩猎取	actions	object	Supply crates
+Take-from Herblore	从草药学取	actions	object	Supply crates
+Take-log	拿取原木	actions	object	Roots
+Bask	晒太阳	actions	object	Shrine of Ralos
+Cimb-down	爬下去	actions	object	Open trapdoor
+Bless	祝福	actions	object	Exposed altar
+Deposit-eggs	存放复活节蛋	actions	object	Easter mine cart
+Redeem	兑换	actions	object	Agility dispenser
+Squeeze-Through	挤过	actions	object	Crevice
+Jump-Across	跳过	actions	object	Dry stone wall
+Cross-over	穿过	actions	object	Broken wall
+Take-many	取多个	actions	object	Medical box
+Slide-along	滑过	actions	object	Icy ledge
+Take-uniform	拿取制服	actions	object	Wardrobe
+Concentrate-potion	浓缩药水	actions	object	Retort
+Homogenise-potion	均质药水	actions	object	Agitator
+Crystalise-potion	结晶药水	actions	object	Alembic
+Fulfil-order	完成订单	actions	object	Conveyor belt
+Fight-privately	私下战斗	actions	object	Meeting flag
+Leave-group	离开组队	actions	object	Meeting flag (private)
+Quick-slide	快速滑动	actions	object	Slope
+Change	切换	actions	object	Scarecrow
+Plant	种植	actions	object	Pumpkin patch
+Carve-pumpkin	雕刻南瓜	actions	object	Pumpkin carving table
+Walk-to	走向	actions	object	Blue tile
+Channel (Varlamore)	传送至瓦拉莫尔)	actions	object	Waystone
+Reinvigorate	恢复活力	actions	object	Book of Eternal Flame
+Trophies	展示奖杯	actions	object	Teak display
+Bottom-Floor	直达底层	actions	object	Ladder
+Quench	淬火	actions	object	Pool of ichor
+Hang-over	攀附边缘	actions	object	Platform edge
+Move-Itzla	移动伊茨拉	actions	object	Northern platform
+Decorate	装饰	actions	object	Oak totem
+Carve	雕刻	actions	object	Oak totem
+General-stats	常规统计	actions	object	Scoreboard
+Delve-stats	详细统计	actions	object	Scoreboard
+Rename Boat	更改船名	actions	object	Mounted Sailing Cape
+Build-trap	设置陷阱	actions	object	Hole
+Launch-toad-at	发射蟾蜍	actions	object	Outcrop
+Deliver-rum	递送朗姆酒	actions	object	Barracuda boat
+Collect-rum	收集朗姆酒	actions	object	Barracuda boat
+Pry-open	撬开	actions	object	Sealed crate
+Chart	绘制海图	actions	object	Treacherous rock
+Check-ammunition	检查弹药	actions	object	Bronze cannon
+Reset-ammunition	重置弹药	actions	object	Bronze cannon
+Modify	修改	actions	object	Bronze cannon
+Charge	充能	actions	object	Runic shield generator
+Uncharge	解除充能	actions	object	Runic shield generator
+Settings	设置	actions	object	Runic shield generator
+Extinguish	熄灭	actions	object	Small brazier
+Unload	卸载	actions	object	Small brazier
+Trim	修剪	actions	object	Sails
+Set	设置	actions	object	Sails
+Un-set	取消设置	actions	object	Sails
+Stop-navigating	停止导航	actions	object	Helm
+Break-crystals	打破水晶	actions	object	Crystallised helm
+Release-mote	释放微粒	actions	object	Wind catcher
+Drop	丢弃	actions	object	Anchor
+Raise	抬起	actions	object	Anchor
+Sort-salvage	分类打捞物	actions	object	Salvaging station
+Rod-fish	竿钓	actions	object	Giant krill shoal
+Lower	降低	actions	object	Rope trawling net
+Quick-locate	快速定位	actions	object	Fathom stone
+Locate-shoal	定位鱼群	actions	object	Fathom stone
+Dock	停靠	actions	object	Buoy
+Board-previous	登上上次船只	actions	object	Gangplank
+Board-friend	登上好友船只	actions	object	Gangplank
+Take-cargo	拿取货物	actions	object	Ledger table
+Take-last-cargo	拿取最后装载的货物	actions	object	Ledger table
+Take-any-cargo	拿取任意货物	actions	object	Ledger table
+Deposit-cargo	存放货物	actions	object	Ledger table
+Deploy	部署	actions	object	Salvaging hook
+Deposit-all	存放全部货物	actions	object	Basic cargo hold
+Deposit-held	存放指定货物	actions	object	Basic cargo hold
+Follow	跟随	actions	player	
+Trade with	交易	actions	player	
+Lookup	查询	actions	player	
+Equipment	装备	actions	player	
+Report	举报	actions	player	
+Adventure Paths	冒险路径	actions	menu	
+Show <colNum0>Paths</col>	显示<colNum0>路径</col>	actions	menu	
+Show <colNum0>Settings</col>	显示<colNum0>设置</col>	actions	menu	
+Zoom out	拉远视角	actions	menu	
+Zoom in	拉近视角	actions	menu	
+Offer	报价	actions	object	
+Buy-offer	购买-报价	actions	item	
+Filter	筛选	actions	menu	
+Contents	内容	actions	menu	
+Select	选择	actions	object	
+Show menu	显示菜单	actions	menu	
+Show tutorial	显示教程	actions	menu	
+Show worn items	显示已装备物品	actions	menu	
+Default quantity: <Num0>	默认数量：<Num0>	actions	menu	
+Default quantity: All	默认数量：全部	actions	menu	
+Enablea	启用	actions	menu	
+Deposit Lock Settings	存款锁定设置	actions	menu	
+Default quantity:	默认数量：	actions	menu	
+Disable inventory locks	禁用物品栏锁定	actions	menu	
+Collect to inventory	收集到物品栏	actions	menu	
+Collect to bank	收集到银行	actions	menu	
+New tab	新建标签页	actions	menu	
+View all items	查看全部物品	actions	menu	
+New tag tab	新建标签分组	actions	menu	
+Scroll up	向上滚动	actions	menu	
+Empty containers	清空容器	actions	menu	
+Deposit inventory	存入物品栏	actions	menu	
+Deposit worn items	存入已装备物品	actions	menu	
+Scroll down	向下滚动	actions	menu	
+Enter quantity	输入数量	actions	menu	
+Guide price	参考价格	actions	menu	
+Enter price	输入价格	actions	menu	
+Customise	自定义	actions	menu	
+Choose item	选择物品	actions	menu	
+Close dropdown	关闭下拉菜单	actions	menu	
+Select	选择	actions	menu	
+Create <colNum0>Buy</col> offer	创建<colNum0>购买</col>报价	actions	menu	
+Create <colNum0>Sell</col> offer	创建<colNum0>出售</col>报价	actions	menu	
+Toggle setting	切换设置	actions	menu	
+Add all	全部添加	actions	menu	
+Search for item	搜索物品	actions	menu	
+Easy Tasks	简单任务	actions	menu	
+Medium Tasks	中等任务	actions	menu	
+Hard Tasks	困难任务	actions	menu	
+Elite Tasks	精英任务	actions	menu	
+Master Tasks	大师任务	actions	menu	
+Grandmaster Tasks	宗师任务	actions	menu	
+Enable	启用	actions	item	
+Mute	静音	actions	menu	
+Show task:	显示任务：	actions	menu	
+Check reward	查看奖励	actions	menu	
+Show voucher items	显示凭证物品	actions	menu	
+Contents	内容	actions	item	
+Check-obtained	查看已获得	actions	menu	
+Bosses collections	Boss 收藏	actions	menu	
+Raids collections	突袭收藏	actions	menu	
+Clues collections	线索收藏	actions	menu	
+Minigames collections	小游戏收藏	actions	menu	
+Other collections	其他收藏	actions	menu	
+Offer	报价	actions	menu	
+Show <colNum0>craftable <colNum1>sets	显示<colNum0>可制作<colNum1>套装	actions	menu	
+Hide worn items	隐藏已装备物品	actions	menu	
+Show last searched:	显示上次搜索：	actions	menu	
+Copy to clipboard	复制到剪贴板	actions	menu	friendsTab
+Store-axe	储存斧头	actions	npc	
+Abort offer	取消报价	actions	menu	
+Modify offer	修改报价	actions	menu	
+Collect	收集	actions	menu	
+Make	制作	actions	item	
+Make	制作	actions	menu	
+Expand	制作	actions	menu	

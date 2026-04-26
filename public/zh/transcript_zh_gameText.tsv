@@ -1,0 +1,2018 @@
+english	translation	category	sub_category	source
+Welcome to Old School RuneScape.	欢迎游玩《Old School RuneScape》。	gameText		
+Did you know? You can change any aspect of your appearance at any makeover provider by using the button in the top left corner of any makeover interface.</col>	你知道吗？你可以在任意的易容师处，通过易容界面左上角的按钮，改变你外观的任意方面。</col>	gameText		
+There are a lot of people on this world. You might want to switch to a quieter one. You can do so by using the world switcher in the logout menu.	这个世界玩家数量众多，您可以通过登出菜单中的世界切换器来切换到一个更清净的世界。	gameText		
+<colNum0>You have battlestaves waiting to be collected from Zaff.	<colNum0>你有战杖可以从扎夫处领取。	gameText		
+<colNum0>Your Kingdom of Miscellania approval is <Num0>%, and your coffer has <Num1>M coins.	<colNum0>你的杂项王国支持度为 <Num0>%，且你的金库拥有 <Num1>M 金币。	gameText		
+To talk in your Ironman Group's channel, start each line of chat with //// or /g.	若要在你的铁人模式小组频道中发言，请在每行聊天内容前输入 //// 或 /g。	gameText		
+Did you know? There is a setting in the Bank settings and on the Bank Deposit interface that lets you lock slots in your inventory so their content doesn't get deposited.</col>	你知道吗？银行设置和银行存入界面中有一个设置，可以让你锁定物品栏中的格子，使其内容不会被存入。</col>	gameText		
+Did you know? By default, the smallest max hitsplat shown is <Num0>, but there is a setting to change that in the Settings menu.</col>	你知道吗？默认情况下，显示的最小最大伤害数字为<Num0>，但你可以在设置菜单中更改此设置。</col>	gameText		
+Did you know? There is a setting in the Settings menu to automatically re-enable running once you have regained enough energy. This will however interrupt any action in progress.</col>	你知道吗？设置菜单中有一个选项，可在你恢复足够跑步值后自动重新启用奔跑功能。但这会中断当前正在进行的任何动作。</col>	gameText		
+Did you know? You can put two halves of a pizza together to make a whole pizza!</col>	你知道吗？你可以将两块披萨拼在一起组成一个完整的披萨！</col>	gameText		
+Did you know? If you find entering buildings tricky because the roof is in the way, you can hide roofs at all time by toggling the Hide roofs setting in the Settings menu.</col>	你知道吗？若因屋顶遮挡导致进入建筑困难，可在设置菜单中开启''隐藏屋顶''选项，随时隐藏屋顶。</col>	gameText		
+Did you know? You can hide the Help button in the Bank interface via the Bank settings.</col>	你知道吗？可在银行设置中隐藏银行界面的帮助按钮。</col>	gameText		
+Did you know? There's a man called Phials in Rimmington that will unnote items for a small fee. Perfect for Ultimate Ironmen.</col>	你知道吗？里明顿村有位名叫菲尔斯的商人，可收取少量费用帮你移除物品注释，对终极铁人玩家尤为实用。</col>	gameText		
+Nothing interesting happens.	无事发生。	gameText		
+You swing your axe at the tree.	你挥动斧头砍向树木。	gameText		
+You get some logs.	你获得了一些原木。	gameText		
+You do not have an axe which you have the woodcutting level to use.	你没有符合伐木等级要求的斧头。	gameText		
+You need to be on a members' world to do that.	你需要在会员世界才能进行此操作。	gameText		
+The door won't open - you need at least <Num0> Quest Points.	门打不开——你需要至少<Num0>任务点数。	gameText		
+There is currently no ore available in this rock.	这块岩石目前不含矿石。	gameText		
+You can't unlock the pillory, you'll let all the criminals out!	你无法打开枷锁，否则会把所有罪犯都放出来！	gameText		
+You search the crates but find nothing of value.	你搜索板条箱，但没有发现任何有价值的东西。	gameText		
+You search the crate, but find nothing of note.	你搜索板条箱，但没有发现值得注意的东西。	gameText		
+You don't have enough coins.	你的金币不足。	gameText		
+I can't reach that!	我碰不到那个！	gameText		
+The drawers are empty.	抽屉是空的。	gameText		
+You search the books...	你搜索书籍……	gameText		
+You find nothing to interest you.	你没有发现任何感兴趣的东西。	gameText		
+You don't find anything that you'd ever want to read.	你没有找到任何你想阅读的东西。	gameText		
+You pull back the cover from over the manhole.	你掀开人孔盖。	gameText		
+You climb down through the manhole.	你从人孔爬下去。	gameText		
+You place the cover back over the manhole.	你将盖子放回人孔上。	gameText		
+You already have full Prayer points.	你的祈祷值已满。	gameText		
+You search the chest but find nothing.	你搜索箱子但没有发现任何东西。	gameText		
+You take the coffin from the grave.	你从坟墓中取出棺材。	gameText		
+You ecxamine the gravestone. It shows...	你检查墓碑。上面显示……	gameText		
+You put the coffin into the grave.	你将棺材放入坟墓中。	gameText		
+You get some oak logs.	你获得了一些橡木原木。	gameText		
+You get some magic logs.	你获得了一些魔法原木。	gameText		
+You get some yew logs.	你获得了一些紫杉原木。	gameText		
+You get some maple logs.	你获得了一些枫木原木。	gameText		
+You get some willow logs.	你获得了一些柳木原木。	gameText		
+You get some achey tree logs.	你获得了一些酸痛树原木。	gameText		
+You get some mathogany logs.	你获得了一些红木原木。	gameText		
+You get some teak logs.	你获得了一些柚木原木。	gameText		
+You get some red logs.	你获得了一些红色原木。	gameText		
+You get some green logs.	你获得了一些绿色原木。	gameText		
+You get some blue logs.	你获得了一些蓝色原木。	gameText		
+You get some white logs.	你获得了一些白色原木。	gameText		
+You get some scrapey tree logs.	你获得了一些刮擦树原木。	gameText		
+You get some purple logs.	你获得了一些紫色原木。	gameText		
+You get some arctic pine logs.	你获得了一些北极松原木。	gameText		
+You get some windswept logs.	你获得了一些风吹树原木。	gameText		
+You get some juniper logs.	你获得了一些杜松原木。	gameText		
+You get some redwood logs.	你获得了一些红杉原木。	gameText		
+You get some blisterwood logs.	你获得了一些水泡木原木。	gameText		
+You get some jatoba logs.	你获得了一些贾托巴原木。	gameText		
+You get some camphor logs.	你获得了一些樟木原木。	gameText		
+You get some ironwood logs.	你获得了一些铁木原木。	gameText		
+You get some rosewood logs.	你获得了一些玫瑰木原木。	gameText		
+A magical force prevents you from banking this item!	一股神秘力量阻止你将此物品存入银行！	gameText		
+You need to be on a members' world to gain experience in Sailing.	你需要在会员世界中才能获得航海经验。	gameText		
+You need to be on a members' world to gain experience in Agility.	你需要在会员世界中才能获得敏捷经验。	gameText		
+You need to be on a members' world to gain experience in Herblore.	你需要在会员世界中才能获得草药学经验。	gameText		
+You need to be on a members' world to gain experience in Thieving.	你需要在会员世界中才能获得偷窃经验。	gameText		
+You need to be on a members' world to gain experience in Slayer.	你需要在会员世界中才能获得杀戮经验。	gameText		
+You need to be on a members' world to gain experience in Farming.	你需要在会员世界中才能获得农业经验。	gameText		
+You need to be on a members' world to gain experience in Fletching.	你需要在会员世界中才能获得制箭经验。	gameText		
+You need to be on a members' world to gain experience in Construction.	你需要在会员世界中才能获得建筑经验。	gameText		
+You need to be on a members' world to gain experience in Hunter.	你需要在会员世界中才能获得狩猎经验。	gameText		
+You need to choose which skill you wish to be advanced.	你需要选择你想要提升的技能。	gameText		
+Swap this note at any bank for the equivalent item	在任何银行兑换此票据以获取相应物品。	gameText		
+You attempt to light the logs.	你尝试点燃原木。	gameText		
+The fire catches and the logs begin to burn.	火焰燃起，原木开始燃烧。	gameText		
+You need a Magic level of <Num0> to cast this spell.	你需要<Num0>级魔法才能施放此法术。	gameText		
+You need to be on a members' world to cast that spell.	你需要在会员世界中才能施放该法术。	gameText		
+You can't trade that item on the Grand Exchange.	你无法在大交易所交易该物品。	gameText		
+Please finish what you are doing before opening the settings menu.	请先完成当前操作，再打开设置菜单。	gameText		
+You can't light a fire here.	此处无法生火。	gameText		
+Login to a members' server to use this object.	需登录会员世界方可使用此物品。	gameText		
+You can only change this setting while playing in the resizable - modern layout.	仅在使用可调整大小 - 现代布局时才能更改此设置。	gameText		
+You do not have a follower.	你没有追随者。	gameText		
+You don't have enough inventory space to withdraw that many.	你的物品栏空间不足，无法取出那么多物品。	gameText		
+This set consists of:	此套装包含：	gameText		
+Some of your items cannot be stored in the bank.	你的部分物品无法存入银行。	gameText		
+Please close the interface you have open before using 'Chat Setup'.	"使用""聊天设置""前，请先关闭当前已打开的界面。"	gameText		
+Only members can use the PvP Arena's group-forming features.	仅会员可使用 PvP 竞技场的组队功能。	gameText		
+You must select an activity from the drop-down list.	请从下拉列表中选择一个活动。	gameText		
+You do not appear to have a house that's open to guests at the moment.	你当前似乎没有对访客开放的房屋。	gameText		
+The layout viewer is only for building mode.	布局查看器仅在建造模式下可用。	gameText		
+You're not in a house. You can't call your servant from here.	你不在房屋内，无法在此召唤仆从。	gameText		
+You're not in a house.	你不在房屋内。	gameText		
+You haven't unlocked that reward.	你尚未解锁该奖励。	gameText		
+You need at least one option selected.	你至少需要选择一个选项。	gameText		
+A new task is in focus for this path: Getting started with Attack.	此路径已专注新任务：攻击入门。	gameText		
+You'd have to be a member to log into that world.	你必须是会员才能登录该世界。	gameText		
+You cannot trade that item.	你无法交易该物品。	gameText		
+You haven't received any messages to which you can reply.	你尚未收到任何可回复的消息。	gameText		
+You can not set this task in focus because you need to complete the task: Getting started with Attack	无法将此任务设为专注，需先完成任务：攻击入门	gameText		
+You can not set this task in focus because you need to complete the task: Getting a grip on it	无法将此任务设为专注，需先完成任务：熟练掌握	gameText		
+You can not set this task in focus because you need to complete the task: Getting started with Strength	无法将此任务设为专注，需先完成任务：力量入门	gameText		
+You can not set this task in focus because you need to complete the task: Building muscle	无法将此任务设为专注，需先完成任务：锤炼肌肉	gameText		
+You can not set this task in focus because you need to complete the task: Getting started with Defence	无法将此任务设为专注，需先完成任务：防御入门	gameText		
+You can not set this task in focus because you need to complete the task: Sticks and stones	无法将此任务设为专注，需先完成任务：初窥门径	gameText		
+You can not set this task in focus because you need to complete the task: Getting started with Ranged	无法将此任务设为专注，需先完成任务：远程入门	gameText		
+You can not set this task in focus because you need to complete the task: Honing my aim	无法将此任务设为专注，需先完成任务：磨练技艺	gameText		
+You can not set this task in focus because you need to complete the task: Getting started with Magic	无法将此任务设为专注，需先完成任务：魔法入门	gameText		
+You can not set this task in focus because you need to complete the task: Striking a pose	无法将此任务设为专注，需先完成任务：摆好架势	gameText		
+A new task is in focus for this path: Getting a grip on it.	此路径已专注新任务：熟练掌握。	gameText		
+A new task is in focus for this path: Weapons master.	此路径已专注新任务：武器大师。	gameText		
+A new task is in focus for this path: Getting started with Strength.	此路径已专注新任务：力量入门。	gameText		
+A new task is in focus for this path: Building muscle.	此路径已专注新任务：锤炼肌肉。	gameText		
+A new task is in focus for this path: Body builder.	此路径已专注新任务：塑形达人。	gameText		
+A new task is in focus for this path: Getting started with Defence.	此路径已专注新任务：防御入门。	gameText		
+A new task is in focus for this path: Sticks and stones.	此路径已专注新任务：初窥门径。	gameText		
+A new task is in focus for this path: Mithril defence.	此路径已专注新任务：秘银防御。	gameText		
+A new task is in focus for this path: Getting started with Ranged.	此路径已专注新任务：远程入门。	gameText		
+A new task is in focus for this path: Honing my aim.	此路径已专注新任务：磨练技艺。	gameText		
+A new task is in focus for this path: Sharpshooter.	此路径已专注新任务：神射手。	gameText		
+A new task is in focus for this path: Getting started with Magic.	此路径已专注新任务：魔法入门。	gameText		
+A new task is in focus for this path: Striking a pose.	此路径已专注新任务：摆好架势。	gameText		
+A new task is in focus for this path: Bringer of chaos.	此路径已专注新任务：混沌使者。	gameText		
+A new task is in focus for this path: Getting started with Fishing.	此路径已专注新任务：钓鱼入门。	gameText		
+A new task is in focus for this path: Getting started with Woodcutting.	此路径已专注新任务：伐木入门。	gameText		
+A new task is in focus for this path: Getting started with Mining.	此路径已专注新任务：采矿入门。	gameText		
+Members: Coins x<Num0>	会员：金币x<Num0>	gameText		
+Non Members: Steel longsword x<Num0>	非会员：钢制长剑x<Num0>	gameText		
+Non Members: Black longsword x<Num0>	非会员：黑铁长剑 x<Num0>	gameText		
+Non Members: Mithril longsword x<Num0>	非会员：秘银长剑 x<Num0>	gameText		
+Non Members: Trout x<Num0>	非会员：鳟鱼 x<Num0>	gameText		
+Non Members: Leather boots x<Num0>	非会员：皮靴 x<Num0>	gameText		
+Non Members: Leather gloves x<Num0>	非会员：皮手套 x<Num0>	gameText		
+Non Members: Strength potion(<Num0>) x<Num1>	非会员：力量药水 (<Num0>) x<Num1>	gameText		
+Non Members: Salmon x<Num0>	非会员：鲑鱼 x<Num0>	gameText		
+Non Members: Steel med helm x<Num0>	非会员：钢制中盔 x<Num0>	gameText		
+Non Members: Steel chainbody x<Num0>	非会员：钢制链甲 x<Num0>	gameText		
+Non Members: Mithril chainbody x<Num0>	非会员：秘银链甲 x<Num0>	gameText		
+Non Members: Leather cowl x<Num0>	非会员：皮帽 x<Num0>	gameText		
+Non Members: Bronze arrow x<Num0>	非会员：青铜箭 x<Num0>	gameText		
+Non Members: Oak shortbow x<Num0>	非会员：橡木短弓 x<Num0>	gameText		
+Non Members: Willow shortbow x<Num0>	非会员：柳木短弓 x<Num0>	gameText		
+Non Members: Iron arrow x<Num0>	非会员：铁箭 x<Num0>	gameText		
+Non Members: Coif x<Num0>	非会员：头巾 x<Num0>	gameText		
+Non Members: Mind rune x<Num0>	非会员：心灵符石 x<Num0>	gameText		
+Non Members: Water rune x<Num0>	非会员：水符石 x<Num0>	gameText		
+Non Members: Staff of air x<Num0>	非会员：风元素法杖 x<Num0>	gameText		
+Non Members: Staff of earth x<Num0>	非会员：土元素法杖 x<Num0>	gameText		
+Non Members: Staff of fire x<Num0>	非会员：火元素法杖 x<Num0>	gameText		
+Non Members: Fishing rod x<Num0>	非会员：鱼竿 x<Num0>	gameText		
+Non Members: Fishing bait x<Num0>	非会员：鱼饵 x<Num0>	gameText		
+Non Members: Iron axe x<Num0>	非会员：铁斧 x<Num0>	gameText		
+Non Members: Logs x<Num0>	非会员：原木 x<Num0>	gameText		
+Non Members: Iron pickaxe x<Num0>	非会员：铁镐 x<Num0>	gameText		
+Non Members: Tin ore x<Num0>	非会员：锡矿石 x<Num0>	gameText		
+Non Members: Copper ore x<Num0>	非会员：铜矿石 x<Num0>	gameText		
+Members: Trout x<Num0>	会员：鳟鱼 x<Num0>	gameText		
+Members: Amulet of strength x<Num0>	会员：力量护符 x<Num0>	gameText		
+Members: Steel kiteshield x<Num0>	会员：钢鸢盾 x<Num0>	gameText		
+Members: Steel platelegs x<Num0>	会员：钢制腿甲 x<Num0>	gameText		
+Members: Mithril full helm x<Num0>	会员：秘银头盔 x<Num0>	gameText		
+Members: Mithril kiteshield x<Num0>	会员：秘银鸢盾 x<Num0>	gameText		
+Members: Mithril platelegs x<Num0>	会员：秘银腿甲 x<Num0>	gameText		
+Members: Leather chaps x<Num0>	会员：皮裤 x<Num0>	gameText		
+Members: Leather body x<Num0>	会员：皮甲 x<Num0>	gameText		
+Members: Studded chaps x<Num0>	会员：铆钉皮裤 x<Num0>	gameText		
+Members: Body rune x<Num0>	会员：躯体符石 x<Num0>	gameText		
+Members: Cosmic rune x<Num0>	会员：宇宙符石 x<Num0>	gameText		
+Members: Chaos rune x<Num0>	会员：混沌符石 x<Num0>	gameText		
+Members: Amulet of magic x<Num0>	会员：魔法护符 x<Num0>	gameText		
+Members:  x<Num0>	会员：x<Num0>	gameText		
+Members:  x<Num0>	会员：x<Num0>	gameText		
+<Num0>x Lamp of the gatherer	<Num0>x 采集者神灯	gameText		
+<Num0>x Coins	<Num0>x 金币	gameText		
+<Num0>x Iron arrow	<Num0>x 铁箭	gameText		
+<Num0>x Mind rune	<Num0>x 心灵符石	gameText		
+<Num0>x Air rune	<Num0>x 风符石	gameText		
+<Num0>x Energy potion(<Num1>)	<Num0>x 精力药水 (<Num1>)	gameText		
+<Num0>x Maple shortbow	<Num0>x 枫木短弓	gameText		
+<Num0>x Chaos rune	<Num0>x 混沌符石	gameText		
+<Num0>x Mithril platebody	<Num0>x 秘银胸甲	gameText		
+<Num0>x Studded body	<Num0>x 铆钉皮甲	gameText		
+<Num0>x Adamant sword	<Num0>x 精金剑	gameText		
+Members: Strength potion(<Num0>) x<Num1>	会员：力量药水 (<Num0>) x<Num1>	gameText		
+Members: Iron arrow x<Num0>	会员：铁箭 x<Num0>	gameText		
+Non Members: Air rune x<Num0>	非会员：风符石 x<Num0>	gameText		
+You rest by the welcoming fire.	你在温暖的篝火旁休息。	gameText		
+You have run out of prayer points, you can recharge at an altar.	你的祈祷值已耗尽，可在祭坛处恢复。	gameText		
+You need to recharge your Prayer at an altar.	你需要在祭坛处恢复祈祷值。	gameText		
+<Num0> x Feather.	<Num0>x 羽毛。	gameText		
+<Num0> x Coins.	<Num0>x 金币。	gameText		
+You haven't selected any quick-prayers.	你尚未选择任何快速祈祷。	gameText		
+You need an axe to chop down this tree.	你需要一把斧头才能砍伐这棵树。	gameText		
+You need an axe to chop down this tree. You do not have an axe which you have the woodcutting level to use.	你需要一把斧头才能砍伐这棵树。你没有符合伐木等级要求的斧头。	gameText		
+You arrive at the Barbarian Village. Your canoe sinks into the water after the hard journey.	你抵达了野蛮人聚落。<br>历经艰辛的旅程后，你的独木舟沉入水中。	gameText		
+You arrive at Edgeville. Your canoe sinks into the water after the hard journey.	你抵达了边陲镇。<br>历经艰辛的旅程后，你的独木舟沉入水中。	gameText		
+You arrive at the Champions' Guild. Your canoe sinks into the water after the hard journey.	你抵达了冠军公会。<br>历经艰辛的旅程后，你的独木舟沉入水中。	gameText		
+You recharge your Prayer points	你恢复了祈祷值	gameText		
+You aren't carrying any containers that can be emptied.	你没有携带任何可以倒空的容器。	gameText		
+Your items cannot be stored in the bank.	你的物品无法存入银行。	gameText		
+You have nothing to deposit.	你没有任何物品可存入。	gameText		
+Sending Abort request...	发送取消请求...	gameText		
+Your reward is: <colNum0><Num0></col> x <colNum1>Lamp</col>.	你的奖励是：<colNum0><Num0></col> x <colNum1>神灯</col>。	gameText		
+There doesn't seem to be any seeds on this rosebush.	这株玫瑰丛上似乎没有任何种子。	gameText		
+You pick a cabbage.	你摘了一颗卷心菜。	gameText		
+You eat the cabbage. Yuck!	你吃掉了卷心菜。真难吃！	gameText		
+You feel a little better.	你感觉好了一些。	gameText		
+You need a prayer level of <Num0> to join the order.	你需要<Num0>级祈祷才能加入该教团。	gameText		
+You need to wait another <Num0> minutes to cast this spell.	你需要再等待<Num0>分钟才能施放此法术。	gameText		
+You are not a high enough level to use this item.	你的等级不足以使用此物品。	gameText		
+You need to have an attack level of <Num0>.	你需要<Num0>级攻击等级。	gameText		
+You need to have a Hitpoints level of <Num0>.	你需要<Num0>级生命值等级。	gameText		
+You need to have a Mining level of <Num0>.	你需要<Num0>级采矿等级。	gameText		
+You need to have a Strength level of <Num0>.	你需要<Num0>级力量等级。	gameText		
+You need to have an Agility level of <Num0>.	你需要<Num0>级敏捷等级。	gameText		
+You need to have a Smithing level of <Num0>.	你需要<Num0>级锻造等级。	gameText		
+You need to have a Defence level of <Num0>.	你需要<Num0>级防御等级。	gameText		
+You need to have a Herblore level of <Num0>.	你需要<Num0>级草药学等级。	gameText		
+You need to have a Fishing level of <Num0>.	你需要<Num0>级钓鱼等级。	gameText		
+You need to have a Ranged level of <Num0>.	你需要<Num0>级远程等级。	gameText		
+You need to have a Thieving level of <Num0>.	你需要<Num0>级偷窃等级。	gameText		
+You need to have a Cooking level of <Num0>.	你需要<Num0>级烹饪等级。	gameText		
+You need to have a Prayer level of <Num0>.	你需要<Num0>级祈祷等级。	gameText		
+You need to have a Crafting level of <Num0>.	你需要<Num0>级制作等级。	gameText		
+You need to have a Firemaking level of <Num0>.	你需要<Num0>级生火等级。	gameText		
+You need to have a Magic level of <Num0>.	你需要<Num0>级魔法等级。	gameText		
+You need to have a Fletching level of <Num0>.	你需要<Num0>级制箭等级。	gameText		
+You need to have a Woodcutting level of <Num0>.	你需要<Num0>级伐木等级。	gameText		
+You need to have a Runecraft level of <Num0>.	你需要<Num0>级符石制作等级。	gameText		
+You need to have a Slayer level of <Num0>.	你需要<Num0>级杀戮等级。	gameText		
+You need to have a Farming level of <Num0>.	你需要<Num0>级农业等级。	gameText		
+You need to have a Construction level of <Num0>.	你需要<Num0>级建筑等级。	gameText		
+You need to have a Hunter level of <Num0>.	你需要<Num0>级狩猎等级。	gameText		
+You need to have a Sailing level of <Num0>.	你需要<Num0>级航海等级。	gameText		
+You do not have enough Mind Runes to cast this spell.	你没有足够的心灵符石来施放此法术。	gameText		
+You do not have enough Air Runes to cast this spell.	你没有足够的风符石来施放此法术。	gameText		
+You do not have enough Water Runes to cast this spell.	你没有足够的水符石来施放此法术。	gameText		
+You do not have enough Earth Runes to cast this spell.	你没有足够的大地符石来施放此法术。	gameText		
+You do not have enough Fire Runes to cast this spell.	你没有足够的火符石来施放此法术。	gameText		
+You do not have enough Body Runes to cast this spell.	你没有足够的躯体符石来施放此法术。	gameText		
+You do not have enough Cosmic Runes to cast this spell.	你没有足够的宇宙符石来施放此法术。	gameText		
+You do not have enough Chaos Runes to cast this spell.	你没有足够的混沌符石来施放此法术。	gameText		
+You do not have enough Nature Runes to cast this spell.	你没有足够的自然符石来施放此法术。	gameText		
+You do not have enough Law Runes to cast this spell.	你没有足够的律法符石来施放此法术。	gameText		
+You do not have enough Death Runes to cast this spell.	你没有足够的死亡符石来施放此法术。	gameText		
+You do not have enough Sunfire Runes to cast this spell.	你没有足够的阳火符石来施放此法术。	gameText		
+You do not have enough Astral Runes to cast this spell.	你没有足够的星界符石来施放此法术。	gameText		
+You do not have enough Blood Runes to cast this spell.	你没有足够的血符石来施放此法术。	gameText		
+You do not have enough Soul Runes to cast this spell.	你没有足够的灵魂符石来施放此法术。	gameText		
+You do not have enough Wrath Runes to cast this spell.	你没有足够的愤怒符石来施放此法术。	gameText		
+You do not have enough Mist Runes to cast this spell.	你没有足够的迷雾符石来施放此法术。	gameText		
+You do not have enough Dust Runes to cast this spell.	你没有足够的灰尘符石来施放此法术。	gameText		
+You do not have enough Smoke Runes to cast this spell.	你没有足够的烟雾符石来施放此法术。	gameText		
+You do not have enough Mud Runes to cast this spell.	你没有足够的泥符石来施放此法术。	gameText		
+You do not have enough Steam Runes to cast this spell.	你没有足够的蒸汽符石来施放此法术。	gameText		
+You do not have enough Lava Runes to cast this spell.	你没有足够的熔岩符石来施放此法术。	gameText		
+You do not have enough Aether Runes to cast this spell.	你没有足够的以太符石来施放此法术。	gameText		
+You can't attack players when you're not in the Wilderness	你不在荒野时无法攻击玩家	gameText		
+You can't attack this npc.	你无法攻击此 NPC。	gameText		
+You can't cast that spell on this.	你无法对此施放该法术。	gameText		
+You need a Firemaking level of <Num0> to burn Oak logs.	你需要<Num0>级生火技能才能点燃橡木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Willow logs.	你需要<Num0>级生火技能才能点燃柳木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Maple logs.	你需要<Num0>级生火技能才能点燃枫木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Yew logs.	你需要<Num0>级生火技能才能点燃紫杉原木。	gameText		
+You need a Firemaking level of <Num0> to burn Magic logs.	你需要<Num0>级生火技能才能点燃魔法原木。	gameText		
+You need a Firemaking level of <Num0> to burn Redwood logs.	你需要<Num0>级生火技能才能点燃红杉原木。	gameText		
+You need a Firemaking level of <Num0> to burn Teak logs.	你需要<Num0>级生火技能才能点燃柚木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Mahogany logs.	你需要<Num0>级生火技能才能点燃红木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Camphor logs.	你需要<Num0>级生火技能才能点燃樟木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Ironwood logs.	你需要<Num0>级生火技能才能点燃铁木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Rosewood logs.	你需要<Num0>级生火技能才能点燃玫瑰木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Achey tree logs.	你需要<Num0>级生火技能才能点燃酸痛树原木。	gameText		
+You need a Firemaking level of <Num0> to burn Jatoba logs.	你需要<Num0>级生火技能才能点燃贾托巴原木。	gameText		
+You need a Firemaking level of <Num0> to burn Arctic pine logs.	你需要<Num0>级生火技能才能点燃北极松原木。	gameText		
+You need a Firemaking level of <Num0> to burn Blisterwood logs.	你需要<Num0>级生火技能才能点燃水泡木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Oak pyre logs.	你需要<Num0>级生火技能才能点燃火葬用橡木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Willow pyre logs.	你需要<Num0>级生火技能才能点燃火葬用柳木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Maple pyre logs.	你需要<Num0>级生火技能才能点燃火葬用枫木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Yew pyre logs.	你需要<Num0>级生火技能才能点燃火葬用紫杉原木。	gameText		
+You need a Firemaking level of <Num0> to burn Magic pyre logs.	你需要<Num0>级生火技能才能点燃火葬用魔法原木。	gameText		
+You need a Firemaking level of <Num0> to burn Redwood pyre logs.	你需要<Num0>级生火技能才能点燃火葬用红杉原木。	gameText		
+You need a Firemaking level of <Num0> to burn Teak pyre logs.	你需要<Num0>级生火技能才能点燃火葬用柚木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Mahogany pyre logs.	你需要<Num0>级生火技能才能点燃火葬用红木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Camphor pyre logs.	你需要<Num0>级生火技能才能点燃火葬用樟木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Ironwood pyre logs.	你需要<Num0>级生火技能才能点燃火葬用铁木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Rosewood pyre logs.	你需要<Num0>级生火技能才能点燃火葬用玫瑰木原木。	gameText		
+You need a Firemaking level of <Num0> to burn Achey tree pyre logs.	你需要<Num0>级生火技能才能点燃火葬用酸痛树原木。	gameText		
+You need a Firemaking level of <Num0> to burn Jatoba pyre logs.	你需要<Num0>级生火技能才能点燃火葬用贾托巴原木。	gameText		
+You need a Firemaking level of <Num0> to burn Arctic pine pyre logs.	你需要<Num0>级生火技能才能点燃火葬用北极松原木。	gameText		
+You need a Firemaking level of <Num0> to burn Blisterwood pyre logs.	你需要<Num0>级生火技能才能点燃火葬用水泡木原木。	gameText		
+You need a Woodcutting level of <Num0> to chop down this tree.	你需要<Num0>级伐木技能才能砍伐这棵树。	gameText		
+You don't have enough energy left to run!	你的跑步值不足以奔跑！	gameText		
+To set a Bank PIN, talk to a banker and <colNum0> ask to check your PIN settings</col>.	要设置银行密码，请与银行职员交谈并<colNum0>询问检查你的密码设置</col>。	gameText		
+You successfully cook some archovies.	你成功烹饪了一些凤尾鱼。	gameText		
+You cook some chickens.	你烹饪了一些鸡肉。	gameText		
+You cook a piece of meat.	你烹饪了一块肉。	gameText		
+You successfully cook a sardines.	你成功烹饪了一些沙丁鱼。	gameText		
+You successfully cook some shrimps.	你成功烹饪了一些虾。	gameText		
+You successfully cook a guanic bats.	你成功烹饪了一些瓜尼克蝙蝠肉。	gameText		
+You successfully cook a poison karambwans.	你成功烹饪了一些毒卡拉姆班鱼。	gameText		
+You successfully cook a psyk fish.	你成功烹饪了一些普西克鱼。	gameText		
+You successfully cook a rabbits.	你成功烹饪了一些兔子肉。	gameText		
+You successfully cook a sinew.	你成功烹饪了一些筋腱。	gameText		
+You successfully cook a ugthanki kebabs.	你成功烹饪了一些乌格坦基骆驼烤肉。	gameText		
+You successfully cook a harpoonfish.	你成功烹饪了一些叉鱼。	gameText		
+You successfully cook a herring.	你成功烹饪了一些鲱鱼。	gameText		
+You successfully cook a spicy sauces.	你成功烹饪了一些辣酱。	gameText		
+You successfully cook a mackerel.	你成功烹饪了一些鲭鱼。	gameText		
+You successfully cook a chilli con carne.	你成功烹饪了一些辣肉酱。	gameText		
+You successfully cook a roasted bird meat.	你成功烹饪了一些烤鸟肉。	gameText		
+You successfully bake some bread.	你成功烘焙了一些面包。	gameText		
+You successfully bake a baked potatoes.	你成功烘焙了一些烤土豆。	gameText		
+You successfully bake a delicious redberry pie.	你成功烘焙了一个美味的红莓派。	gameText		
+You successfully bake a toad crunchies.	你成功烘焙了一些蟾蜍脆饼。	gameText		
+You successfully bake a spicy crunchies.	你成功烘焙了一些香辣脆饼。	gameText		
+You successfully cook a thin snail.	你成功烹饪了一些瘦蜗牛肉。	gameText		
+You successfully cook a scrambled egg.	你成功烹饪了炒鸡蛋。	gameText		
+You successfully cook a trout.	你成功烹饪了一条鳟鱼。	gameText		
+You successfully cook a prael bat.	你成功烹饪了一些普雷尔蝙蝠肉。	gameText		
+You successfully cook a suphi fish.	你成功烹饪了一些苏菲鱼。	gameText		
+You successfully cook a roasted rabbit.	你成功烹饪了烤兔子肉。	gameText		
+You successfully cook a spiders on stick.	你成功烹饪了一些烤蜘蛛串 (木棍)。	gameText		
+You successfully cook a lean snails.	你成功烹饪了一些精瘦蜗牛肉。	gameText		
+You successfully cook a cod.	你成功烹饪了一条鳕鱼。	gameText		
+You successfully cook a pike.	你成功烹饪了一条狗鱼。	gameText		
+You successfully cook a giant crab meat.	你成功烹饪了一些巨蟹肉。	gameText		
+You successfully cook a roasted beast meat.	你成功烹饪了一些烤凯比特兔肉。	gameText		
+You successfully cook a red crab meat.	你成功烹饪了一些红蟹肉。	gameText		
+You successfully cook a fat snails.	你成功烹饪了一些肥蜗牛肉。	gameText		
+You successfully cook a wild kebbit.	你成功烹饪了一些野生凯比特兔肉。	gameText		
+You successfully cook a salmon.	你成功烹饪了一条鲑鱼。	gameText		
+You cook some stew.	你烹饪了一些炖菜。	gameText		
+You successfully cook a toad batta.	你成功烹饪了蟾蜍芭塔。	gameText		
+You successfully cook a sweetcorn.	你成功烹饪了一些甜玉米。	gameText		
+You successfully cook a slimy eel.	你成功烹饪了一些黏液鳗。	gameText		
+You manage to cook a tuna.	你成功烹饪了一条金枪鱼。	gameText		
+You successfully cook a chompies.	你成功烹饪了一些食人鸟肉。	gameText		
+You successfully cook a giral bats.	你成功烹饪了一些吉拉尔蝙蝠肉。	gameText		
+You successfully cook a karambwans.	你成功烹饪了一些卡拉姆班鱼。	gameText		
+You successfully cook a leckish fish.	你成功烹饪了一些莱基什鱼。	gameText		
+You successfully cook a mossy lizards.	你成功烹饪了一些苔藓蜥蜴肉。	gameText		
+You successfully cook a larupias.	你成功烹饪了一些棘刺狮肉。	gameText		
+You successfully cook a fishcakes.	你成功烹饪了一些鱼饼。	gameText		
+You successfully cook a barb-tailed kebbits.	你成功烹饪了一些钩尾凯比特兔肉。	gameText		
+You successfully cook a rainbow fish.	你成功烹饪了一条彩虹鱼。	gameText		
+You successfully cook a cave eels	你成功烹饪了一些洞穴鳗	gameText		
+You roast a lobster.	你烤了一只龙虾。	gameText		
+You successfully cook a jubblie.	你成功烹饪了一些胖食人鸟肉。	gameText		
+You successfully cook a graahk.	你成功烹饪了一些格拉克肉。	gameText		
+You successfully cook a fried onion.	你成功烹饪了炸洋葱。	gameText		
+You successfully cook a bass.	你成功烹饪了一条鲈鱼。	gameText		
+You successfully cook a swordfish.	你成功烹饪了一条剑鱼。	gameText		
+You successfully cook a brawk fish.	你成功烹饪了一些布劳克鱼。	gameText		
+You successfully cook a phluxia bat.	你成功烹饪了一些弗卢克西亚蝙蝠肉。	gameText		
+You successfully cook a fried mushroom.	你成功烹饪了炸蘑菇。	gameText		
+You successfully cook a blue crab meat.	你成功烹饪了一些蓝蟹肉。	gameText		
+You successfully cook a kyatt.	你成功烹饪了一些剑齿虎肉。	gameText		
+You successfully cook a lava eel.	你成功烹饪了一条熔岩鳗。	gameText		
+You successfully cook a chef's delight.	你成功烹饪了厨师的喜悦。	gameText		
+You successfully bake a worm crunchies.	你成功烘焙了一些蠕虫脆饼。	gameText		
+You successfully bake a chocchip crunchies.	你成功烘焙了一些巧克力豆脆饼。	gameText		
+You successfully bake a tasty meat pie.	你成功烘焙了一个美味的肉派。	gameText		
+You successfully bake a fruit batta.	你成功烘焙了水果芭塔。	gameText		
+You successfully bake a worm batta.	你成功烘焙了蠕虫芭塔。	gameText		
+You successfully bake a vegetable batta.	你成功烘焙了蔬菜芭塔。	gameText		
+You successfully bake a cheese and tomato batta.	你成功烘焙了乳酪番茄芭塔。	gameText		
+You successfully bake a tasty mud pie.	你成功烘焙了一个美味的泥派。	gameText		
+You successfully bake a traditional apple pie.	你成功烘焙了一个传统的苹果派。	gameText		
+You successfully bake a worm holes.	你成功烘焙了一些蠕虫洞糕。	gameText		
+You successfully bake a garden pie.	你成功烘焙了一个蔬菜派。	gameText		
+You successfully bake a pizza.	你成功烘焙了一个披萨。	gameText		
+You successfully bake a veg ball.	你成功烘焙了一个蔬菜球。	gameText		
+You successfully bake a potatoes with butter.	你成功烘焙了黄油土豆。	gameText		
+You successfully bake a cakes.	你成功烘焙了一些蛋糕。	gameText		
+You successfully bake a tangled toad's legs.	你成功烘焙了缠腿蟾蜍。	gameText		
+You successfully bake a chilli potatoes.	你成功烘焙了辣椒土豆。	gameText		
+You successfully bake a chocolate bombs.	你成功烘焙了一些巧克力炸弹。	gameText		
+You successfully bake a potatoes with cheese.	你成功烘焙了乳酪土豆。	gameText		
+You successfully bake a tasty fish pie.	你成功烘焙了一个美味的鱼派。	gameText		
+You successfully bake a chocolate cakes.	你成功烘焙了一些巧克力蛋糕。	gameText		
+You successfully bake a egg potatoes.	你成功烘焙了鸡蛋土豆。	gameText		
+You successfully bake a botanical pie.	你成功烘焙了一个植物派。	gameText		
+You successfully bake a pitta bread.	你成功烘焙了一个皮塔饼。	gameText		
+You successfully bake a tasty mushroom pie.	你成功烘焙了一个美味的蘑菇派。	gameText		
+You successfully bake a mushroom potatoes.	你成功烘焙了蘑菇土豆。	gameText		
+You successfully bake a tuna potatoes.	你成功烘焙了金枪鱼土豆。	gameText		
+You successfully bake a tasty admiral pie.	你成功烘焙了一个美味的海军派。	gameText		
+You successfully bake a tasty dragonfruit pie.	你成功烘焙了一个美味的火龙果派。	gameText		
+You successfully bake a tasty wild pie.	你成功烘焙了一个美味的野味派。	gameText		
+You successfully bake a tasty summer pie.	你成功烘焙了一个美味的夏日派。	gameText		
+You successfully cook a pyre fox.	你成功烹饪了一些火葬狐肉。	gameText		
+You successfully cook a curry.	你成功烹饪了咖喱。	gameText		
+You successfully cook a kryket bat.	你成功烹饪了一些克里克特蝙蝠肉。	gameText		
+You successfully cook a mycil fish.	你成功烹饪了一些迈西尔鱼。	gameText		
+You successfully cook a monkfish.	你成功烹饪了一条僧侣鱼。	gameText		
+You successfully cook a tuna and corn.	你成功烹饪了金枪鱼和玉米。	gameText		
+You successfully cook a sunlight antelope.	你成功烹饪了一些日光羚羊肉。	gameText		
+You successfully cook a giant krill.	你成功烹饪了一些巨型磷虾。	gameText		
+You successfully cook a jumbo squid.	你成功烹饪了一些巨型鱿鱼。	gameText		
+You successfully cook a haddock.	你成功烹饪了一条黑线鳕。	gameText		
+You successfully cook a murng bat.	你成功烹饪了一些穆恩格蝙蝠肉。	gameText		
+You successfully cook a roqed fish.	你成功烹饪了一些罗克德鱼。	gameText		
+You successfully cook a rainbow crab meat.	你成功烹饪了一些彩虹蟹肉。	gameText		
+You successfully cook a yellowfin.	你成功烹饪了一条黄鳍金枪鱼。	gameText		
+You successfully cook a shark.	你成功烹饪了一条鲨鱼。	gameText		
+You successfully cook a sea turtle.	你成功烹饪了一只海龟。	gameText		
+You successfully cook a dashing kebbit.	你成功烹饪了一些迅捷凯比特兔肉。	gameText		
+You successfully cook a halibut.	你成功烹饪了一条大比目鱼。	gameText		
+You successfully cook a anglerfish.	你成功烹饪了一条鮟鱇鱼。	gameText		
+You successfully cook a bluefin.	你成功烹饪了一条蓝鳍金枪鱼。	gameText		
+You successfully cook a dark crab.	你成功烹饪了一只黑暗蟹。	gameText		
+You successfully cook a kyren fish.	你成功烹饪了一些凯伦鱼。	gameText		
+You successfully cook a psykk bat.	你成功烹饪了一些普西克蝙蝠肉。	gameText		
+You successfully cook a manta ray.	你成功烹饪了一条魔鬼鱼。	gameText		
+You successfully cook a marlin.	你成功烹饪了一条马林鱼。	gameText		
+You successfully cook a moonlight antelope.	你成功烹饪了一些月光羚羊肉。	gameText		
+Please finish what you're doing first.	请先完成你正在进行的操作。	gameText		
+You add the anchovies to the pizza.	你将凤尾鱼添加到披萨上。	gameText		
+You add the meat to the pizza.	你将肉添加到披萨上。	gameText		
+You add the pineapple ring to the pizza.	你将菠萝圈添加到披萨上。	gameText		
+You cut up the potato and put it into the bowl.	你将土豆切碎并放入碗中。	gameText		
+You cut up the chicken and put it into the stew.	你将鸡肉切碎并放入炖菜中。	gameText		
+You cut up the meat and put it into the stew.	你将肉切碎并放入炖菜中。	gameText		
+You squeeze the grapes into the jug. The wine begins to ferment.	你将葡萄挤入壶中。葡萄酒开始发酵。	gameText		
+You add the tomato to the pizza.	你将番茄添加到披萨上。	gameText		
+You add the cheese to the pizza.	你将乳酪添加到披萨上。	gameText		
+You deliberately burn the nicely cooked chicken.	你故意将煮好的鸡肉烧焦。	gameText		
+You deliberately burn the nicely cooked meat.	你故意将煮好的肉烧焦。	gameText		
+You fill the bucket from the well.	你从井中装满水桶。	gameText		
+You empty the contents of the bucket on the floor.	你将桶中的内容物倒在地上。	gameText		
+You eat the chicken.	你吃了鸡肉。	gameText		
+You eat the sardine.	你吃了沙丁鱼。	gameText		
+You eat the meat.	你吃了肉。	gameText		
+You eat the bread.	你吃了面包。	gameText		
+You eat the herring.	你吃了鲱鱼。	gameText		
+You eat the shrimps.	你吃了虾。	gameText		
+You eat the pike.	你吃了狗鱼。	gameText		
+You eat the tuna.	你吃了金枪鱼。	gameText		
+You eat the lobster.	你吃了龙虾。	gameText		
+You eat the swordfish.	你吃了剑鱼。	gameText		
+You eat the salmon.	你吃了鲑鱼。	gameText		
+You eat the anchovies.	你吃了凤尾鱼。	gameText		
+You eat the trout.	你吃了鳟鱼。	gameText		
+You eat the stew.	你吃了炖菜。	gameText		
+You eat half the redberry pie.	你吃了半个红莓派。	gameText		
+You eat half the meat pie.	你吃了半个肉派。	gameText		
+You eat half the apple pie.	你吃了半个苹果派。	gameText		
+You eat half the fish pie.	你吃了半个鱼派。	gameText		
+You eat half the mushroom pie.	你吃了半个蘑菇派。	gameText		
+You eat half the dragonfruit pie.	你吃了半个火龙果派。	gameText		
+You eat half the wild pie.	你吃了半个野味派。	gameText		
+You eat half the summer pie.	你吃了半个夏日派。	gameText		
+You eat the remaining redberry pie.	你吃了剩下的红莓派。	gameText		
+You eat the remaining meat pie.	你吃了剩下的肉派。	gameText		
+You eat the remaining apple pie.	你吃了剩下的苹果派。	gameText		
+You eat the remaining fish pie.	你吃了剩下的鱼派。	gameText		
+You eat the remaining mushroom pie.	你吃了剩下的蘑菇派。	gameText		
+You eat the remaining dragonfruit pie.	你吃了剩下的火龙果派。	gameText		
+You eat the remaining wild pie.	你吃了剩下的野味派。	gameText		
+You eat the remaining summer pie.	你吃了剩下的夏日派。	gameText		
+You eat half the pizza.	你吃了半个披萨。	gameText		
+You eat half the meat pizza.	你吃了半个肉披萨。	gameText		
+You eat half the anchovy pizza.	你吃了半个凤尾鱼披萨。	gameText		
+You eat half the pineapple pizza.	你吃了半个菠萝披萨。	gameText		
+You eat the remaining pizza.	你吃了剩下的披萨。	gameText		
+You eat the remaining meat pizza.	你吃了剩下的肉披萨。	gameText		
+You eat the remaining anchovy pizza.	你吃了剩下的凤尾鱼披萨。	gameText		
+You eat the remaining pineapple pizza.	你吃了剩下的菠萝披萨。	gameText		
+It makes you feel a bit dizzy.	这让你感到有点头晕。	gameText		
+If I drop my bowl down there I don't think I'm likely to get it back.	如果我把碗掉到那里，我想我不太可能把它拿回来。	gameText		
+You drink the beer. You feel slightly reinvigorated...	你喝了啤酒。你感到稍微恢复了活力…	gameText		
+...and slightly dizzy too.	…也有点头晕。	gameText		
+You eat the tomato.	你吃了番茄。	gameText		
+You eat the cheese.	你吃了乳酪。	gameText		
+You eat the potato. Yuck!	你吃了土豆。真难吃！	gameText		
+You pick some grain.	你采集了一些谷物。	gameText		
+You retrieve a bar of bronze.	你取出了一个青铜锭。	gameText		
+You retrieve a bar of blurite.	你取出了一个蓝铁锭。	gameText		
+You retrieve a bar of iron.	你取出了一个铁锭。	gameText		
+You retrieve a bar of elemental.	你取出了一个元素锭。	gameText		
+You retrieve a bar of silver.	你取出了一个银锭。	gameText		
+You retrieve a bar of lead.	你取出了一个铅锭。	gameText		
+You retrieve a bar of steel.	你取出了一个钢锭。	gameText		
+You retrieve a bar of gold.	你取出了一个金锭。	gameText		
+You retrieve a bar of lovakite.	你取出了一个洛瓦凯特锭。	gameText		
+You retrieve a bar of mithril.	你取出了一个秘银锭。	gameText		
+You retrieve a bar of lunar.	你取出了一个月锭。	gameText		
+You retrieve a bar of adamant.	你取出了一个精金锭。	gameText		
+You retrieve a bar of cupronickel.	你取出了一个白铜锭。	gameText		
+You retrieve a bar of runite.	你取出了一个符文锭。	gameText		
+You smelt the iron in the furnace.	你在熔炉中冶炼了铁矿石。	gameText		
+You smelt the silver in the furnace.	你在熔炉中冶炼了银矿石。	gameText		
+You smelt the gold in the furnace.	你在熔炉中冶炼了金矿石。	gameText		
+You smelt the iron in the furnace along with two heaps of coal.	你在熔炉中用两堆煤冶炼了铁矿石。	gameText		
+You smelt the copper and tin together in the furnace.	你在熔炉中同时冶炼了铜和锡。	gameText		
+You need to be on a members' world to make cannonballs.	你需要在会员世界才能制作炮弹。	gameText		
+This isn't a very safe world for reading signposts!	这个世界不太安全，不适合阅读路标！	gameText		
+You hammer the bronze and make a dagger.	你锤打青铜锭，制作出一把匕首。	gameText		
+You hammer the bronze and make a sword.	你锤打青铜锭，制作出一把剑。	gameText		
+You hammer the bronze and make a scimitar.	你锤打青铜锭，制作出一把弯刀。	gameText		
+You hammer the bronze and make a longsword.	你锤打青铜锭，制作出一把长剑。	gameText		
+You hammer the bronze and make a <Num0>h sword.	你锤打青铜锭，制作出一把双手剑。	gameText		
+You hammer the bronze and make an axe.	你锤打青铜锭，制作出一把斧。	gameText		
+You hammer the bronze and make a mace.	你锤打青铜锭，制作出一把钉锤。	gameText		
+You hammer the bronze and make a warhammer.	你锤打青铜锭，制作出一把战锤。	gameText		
+You hammer the bronze and make a battleaxe.	你锤打青铜锭，制作出一把战斧。	gameText		
+You hammer the bronze and make a chainbody.	你锤打青铜锭，制作出一件链甲。	gameText		
+You hammer the bronze and make some platelegs.	你锤打青铜锭，制作出一条腿甲。	gameText		
+You hammer the bronze and make a plateskirt.	你锤打青铜锭，制作出一条裙甲。	gameText		
+You hammer the bronze and make a platebody.	你锤打青铜锭，制作出一件胸甲。	gameText		
+You hammer the bronze and make fifteen nails.	你锤打青铜锭，制作出十五枚钉。	gameText		
+You hammer the bronze and make a med helm.	你锤打青铜锭，制作出一顶中盔。	gameText		
+You hammer the bronze and make a full helm.	你锤打青铜锭，制作出一顶头盔。	gameText		
+You hammer the bronze and make a square shield.	你锤打青铜锭，制作出一面方盾。	gameText		
+You hammer the bronze and make a kiteshield.	你锤打青铜锭，制作出一面鸢盾。	gameText		
+You hammer the bronze and make ten dart tip.	你锤打青铜锭，制作出十个镖尖。	gameText		
+You hammer the bronze and make fifteen arrowtips.	你锤打青铜锭，制作出十五个箭头。	gameText		
+You hammer the bronze and make some knife.	你锤打青铜锭，制作出一些飞刀。	gameText		
+You hammer the steel and make some studs.	你锤打钢锭，制作出一些铆钉。	gameText		
+You hammer the iron and make a dagger.	你锤打铁锭，制作出一把匕首。	gameText		
+You hammer the iron and make a sword.	你锤打铁锭，制作出一把剑。	gameText		
+You hammer the iron and make a scimitar.	你锤打铁锭，制作出一把弯刀。	gameText		
+You hammer the iron and make a longsword.	你锤打铁锭，制作出一把长剑。	gameText		
+You hammer the iron and make a <Num0>h sword.	你锤打铁锭，制作出一把双手剑。	gameText		
+You hammer the iron and make an axe.	你锤打铁锭，制作出一把斧。	gameText		
+You hammer the iron and make a mace.	你锤打铁锭，制作出一把钉锤。	gameText		
+You hammer the iron and make a warhammer.	你锤打铁锭，制作出一把战锤。	gameText		
+You hammer the iron and make a battleaxe.	你锤打铁锭，制作出一把战斧。	gameText		
+You hammer the iron and make a chainbody.	你锤打铁锭，制作出一件链甲。	gameText		
+You hammer the iron and make some platelegs.	你锤打铁锭，制作出一条腿甲。	gameText		
+You hammer the iron and make a plateskirt.	你锤打铁锭，制作出一条裙甲。	gameText		
+You hammer the iron and make a platebody.	你锤打铁锭，制作出一件胸甲。	gameText		
+You hammer the iron and make fifteen nails.	你锤打铁锭，制作出十五枚钉。	gameText		
+You hammer the iron and make a med helm.	你锤打铁锭，制作出一顶中盔。	gameText		
+You hammer the iron and make a full helm.	你锤打铁锭，制作出一顶头盔。	gameText		
+You hammer the iron and make a square shield.	你锤打铁锭，制作出一面方盾。	gameText		
+You hammer the iron and make a kiteshield.	你锤打铁锭，制作出一面鸢盾。	gameText		
+You hammer the iron and make ten dart tip.	你锤打铁锭，制作出十个镖尖。	gameText		
+You hammer the iron and make fifteen arrowtips.	你锤打铁锭，制作出十五个箭头。	gameText		
+You hammer the iron and make some knife.	你锤打铁锭，制作出一些飞刀。	gameText		
+You hammer the steel and make a dagger.	你锤打钢锭，制作出一把匕首。	gameText		
+You hammer the steel and make a sword.	你锤打钢锭，制作出一把剑。	gameText		
+You hammer the steel and make a scimitar.	你锤打钢锭，制作出一把弯刀。	gameText		
+You hammer the steel and make a longsword.	你锤打钢锭，制作出一把长剑。	gameText		
+You hammer the steel and make a <Num0>h sword.	你锤打钢锭，制作出一把双手剑。	gameText		
+You hammer the steel and make an axe.	你锤打钢锭，制作出一把斧。	gameText		
+You hammer the steel and make a mace.	你锤打钢锭，制作出一把钉锤。	gameText		
+You hammer the steel and make a warhammer.	你锤打钢锭，制作出一把战锤。	gameText		
+You hammer the steel and make a battleaxe.	你锤打钢锭，制作出一把战斧。	gameText		
+You hammer the steel and make a chainbody.	你锤打钢锭，制作出一件链甲。	gameText		
+You hammer the steel and make some platelegs.	你锤打钢锭，制作出一条腿甲。	gameText		
+You hammer the steel and make a plateskirt.	你锤打钢锭，制作出一条裙甲。	gameText		
+You hammer the steel and make a platebody.	你锤打钢锭，制作出一件胸甲。	gameText		
+You hammer the steel and make fifteen nails.	你锤打钢锭，制作出十五枚钉。	gameText		
+You hammer the steel and make a med helm.	你锤打钢锭，制作出一顶中盔。	gameText		
+You hammer the steel and make a full helm.	你锤打钢锭，制作出一顶头盔。	gameText		
+You hammer the steel and make a square shield.	你锤打钢锭，制作出一面方盾。	gameText		
+You hammer the steel and make a kiteshield.	你锤打钢锭，制作出一面鸢盾。	gameText		
+You hammer the steel and make ten dart tip.	你锤打钢锭，制作出十个镖尖。	gameText		
+You hammer the steel and make fifteen arrowtips.	你锤打钢锭，制作出十五个箭头。	gameText		
+You hammer the steel and make some knife.	你锤打钢锭，制作出一些飞刀。	gameText		
+You hammer the mithril and make a dagger.	你锤打秘银锭，制作出一把匕首。	gameText		
+You hammer the mithril and make a sword.	你锤打秘银锭，制作出一把剑。	gameText		
+You hammer the mithril and make a scimitar.	你锤打秘银锭，制作出一把弯刀。	gameText		
+You hammer the mithril and make a longsword.	你锤打秘银锭，制作出一把长剑。	gameText		
+You hammer the mithril and make a <Num0>h sword.	你锤打秘银锭，制作出一把双手剑。	gameText		
+You hammer the mithril and make an axe.	你锤打秘银锭，制作出一把斧。	gameText		
+You hammer the mithril and make a mace.	你锤打秘银锭，制作出一把钉锤。	gameText		
+You hammer the mithril and make a warhammer.	你锤打秘银锭，制作出一把战锤。	gameText		
+You hammer the mithril and make a battleaxe.	你锤打秘银锭，制作出一把战斧。	gameText		
+You hammer the mithril and make a chainbody.	你锤打秘银锭，制作出一件链甲。	gameText		
+You hammer the mithril and make some platelegs.	你锤打秘银锭，制作出一条腿甲。	gameText		
+You hammer the mithril and make a plateskirt.	你锤打秘银锭，制作出一条裙甲。	gameText		
+You hammer the mithril and make a platebody.	你锤打秘银锭，制作出一件胸甲。	gameText		
+You hammer the mithril and make fifteen nails.	你锤打秘银锭，制作出十五枚钉。	gameText		
+You hammer the mithril and make a med helm.	你锤打秘银锭，制作出一顶中盔。	gameText		
+You hammer the mithril and make a full helm.	你锤打秘银锭，制作出一顶头盔。	gameText		
+You hammer the mithril and make a square shield.	你锤打秘银锭，制作出一面方盾。	gameText		
+You hammer the mithril and make a kiteshield.	你锤打秘银锭，制作出一面鸢盾。	gameText		
+You hammer the mithril and make ten dart tip.	你锤打秘银锭，制作出十个镖尖。	gameText		
+You hammer the mithril and make fifteen arrowtips.	你锤打秘银锭，制作出十五个箭头。	gameText		
+You hammer the mithril and make some knife.	你锤打秘银锭，制作出一些飞刀。	gameText		
+You hammer the adamant and make a dagger.	你锤打精金锭，制作出一把匕首。	gameText		
+You hammer the adamant and make a sword.	你锤打精金锭，制作出一把剑。	gameText		
+You hammer the adamant and make a scimitar.	你锤打精金锭，制作出一把弯刀。	gameText		
+You hammer the adamant and make a longsword.	你锤打精金锭，制作出一把长剑。	gameText		
+You hammer the adamant and make a <Num0>h sword.	你锤打精金锭，制作出一把双手剑。	gameText		
+You hammer the adamant and make an axe.	你锤打精金锭，制作出一把斧。	gameText		
+You hammer the adamant and make a mace.	你锤打精金锭，制作出一把钉锤。	gameText		
+You hammer the adamant and make a warhammer.	你锤打精金锭，制作出一把战锤。	gameText		
+You hammer the adamant and make a battleaxe.	你锤打精金锭，制作出一把战斧。	gameText		
+You hammer the adamant and make a chainbody.	你锤打精金锭，制作出一件链甲。	gameText		
+You hammer the adamant and make some platelegs.	你锤打精金锭，制作出一条腿甲。	gameText		
+You hammer the adamant and make a plateskirt.	你锤打精金锭，制作出一条裙甲。	gameText		
+You hammer the adamant and make a platebody.	你锤打精金锭，制作出一件胸甲。	gameText		
+You hammer the adamant and make fifteen nails.	你锤打精金锭，制作出十五枚钉。	gameText		
+You hammer the adamant and make a med helm.	你锤打精金锭，制作出一顶中盔。	gameText		
+You hammer the adamant and make a full helm.	你锤打精金锭，制作出一顶头盔。	gameText		
+You hammer the adamant and make a square shield.	你锤打精金锭，制作出一面方盾。	gameText		
+You hammer the adamant and make a kiteshield.	你锤打精金锭，制作出一面鸢盾。	gameText		
+You hammer the adamant and make ten dart tip.	你锤打精金锭，制作出十个镖尖。	gameText		
+You hammer the adamant and make fifteen arrowtips.	你锤打精金锭，制作出十五个箭头。	gameText		
+You hammer the adamant and make some knife.	你锤打精金锭，制作出一些飞刀。	gameText		
+You hammer the runite and make a dagger.	你锤打符文锭，制作出一把匕首。	gameText		
+You hammer the runite and make a sword.	你锤打符文锭，制作出一把剑。	gameText		
+You hammer the runite and make a scimitar.	你锤打符文锭，制作出一把弯刀。	gameText		
+You hammer the runite and make a longsword.	你锤打符文锭，制作出一把长剑。	gameText		
+You hammer the runite and make a <Num0>h sword.	你锤打符文锭，制作出一把双手剑。	gameText		
+You hammer the runite and make an axe.	你锤打符文锭，制作出一把斧。	gameText		
+You hammer the runite and make a mace.	你锤打符文锭，制作出一把钉锤。	gameText		
+You hammer the runite and make a warhammer.	你锤打符文锭，制作出一把战锤。	gameText		
+You hammer the runite and make a battleaxe.	你锤打符文锭，制作出一把战斧。	gameText		
+You hammer the runite and make a chainbody.	你锤打符文锭，制作出一件链甲。	gameText		
+You hammer the runite and make some platelegs.	你锤打符文锭，制作出一条腿甲。	gameText		
+You hammer the runite and make a plateskirt.	你锤打符文锭，制作出一条裙甲。	gameText		
+You hammer the runite and make a platebody.	你锤打符文锭，制作出一件胸甲。	gameText		
+You hammer the runite and make fifteen nails.	你锤打符文锭，制作出十五枚钉。	gameText		
+You hammer the runite and make a med helm.	你锤打符文锭，制作出一顶中盔。	gameText		
+You hammer the runite and make a full helm.	你锤打符文锭，制作出一顶头盔。	gameText		
+You hammer the runite and make a square shield.	你锤打符文锭，制作出一面方盾。	gameText		
+You hammer the runite and make a kiteshield.	你锤打符文锭，制作出一面鸢盾。	gameText		
+You hammer the runite and make ten dart tip.	你锤打符文锭，制作出十个镖尖。	gameText		
+You hammer the runite and make fifteen arrowtips.	你锤打符文锭，制作出十五个箭头。	gameText		
+You hammer the runite and make some knife.	你锤打符文锭，制作出一些飞刀。	gameText		
+Congratulations, you've just advanced your Attack level. You are now level <Num0>.	恭喜，你的攻击等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Hitpoints level. You are now level <Num0>.	恭喜，你的生命值等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Mining level. You are now level <Num0>.	恭喜，你的采矿等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Strength level. You are now level <Num0>.	恭喜，你的力量等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Agility level. You are now level <Num0>.	恭喜，你的敏捷等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Smithing level. You are now level <Num0>.	恭喜，你的锻造等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Defence level. You are now level <Num0>.	恭喜，你的防御等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Herblore level. You are now level <Num0>.	恭喜，你的草药学等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Fishing level. You are now level <Num0>.	恭喜，你的钓鱼等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Ranged level. You are now level <Num0>.	恭喜，你的远程等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Thieving level. You are now level <Num0>.	恭喜，你的偷窃等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Cooking level. You are now level <Num0>.	恭喜，你的烹饪等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Prayer level. You are now level <Num0>.	恭喜，你的祈祷等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Crafting level. You are now level <Num0>.	恭喜，你的制作等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Firemaking level. You are now level <Num0>.	恭喜，你的生火等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Maigc level. You are now level <Num0>.	恭喜，你的魔法等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Fletching level. You are now level <Num0>.	恭喜，你的制箭等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Woodcutting level. You are now level <Num0>.	恭喜，你的伐木等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Runecraft level. You are now level <Num0>.	恭喜，你的符石制作等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Slayer level. You are now level <Num0>.	恭喜，你的杀戮等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Farming level. You are now level <Num0>.	恭喜，你的农业等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Construction level. You are now level <Num0>.	恭喜，你的建筑等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Hunter level. You are now level <Num0>.	恭喜，你的狩猎等级提升了！你现在有<Num0>级。	gameText		
+Congratulations, you've just advanced your Sailing level. You are now level <Num0>.	恭喜，你的航海等级提升了！你现在有<Num0>级。	gameText		
+You can't set up a Buy offer at the moment.	你目前无法设置购买报价。	gameText		
+You can't set up a Sell offer at the moment.	你目前无法设置出售报价。	gameText		
+You need to fill the jug with water first.	你需要先用水壶装水。	gameText		
+The door is locked.	门被锁上了。	gameText		
+You attempt to catch a fish.	你尝试钓鱼。	gameText		
+You catch a raw sardine	你钓到一条沙丁鱼	gameText		
+You catch a raw karambwanji	你钓到一条卡拉姆班小鱼	gameText		
+You catch a raw herring	你钓到一条鲱鱼	gameText		
+You catch a raw mackerel	你钓到一条鲭鱼	gameText		
+You catch a raw trout	你钓到一条鳟鱼	gameText		
+You catch a raw cavefish	你钓到一条洞穴鱼	gameText		
+You catch a raw bream	你钓到一条鲷鱼	gameText		
+You catch a raw cod	你钓到一条鳕鱼	gameText		
+You catch a raw pike	你钓到一条狗鱼	gameText		
+You catch a raw slimy eel	你钓到一条黏液鳗	gameText		
+You catch a raw salmon	你钓到一条鲑鱼	gameText		
+You catch a raw tetra	你钓到一条四角鱼	gameText		
+You catch a raw tuna	你钓到一条金枪鱼	gameText		
+You catch a raw rainbow fish	你钓到一条彩虹鱼	gameText		
+You catch a raw cave eel	你钓到一条洞穴鳗	gameText		
+You catch a raw lobster	你钓到一只龙虾	gameText		
+You catch a raw bass	你钓到一条鲈鱼	gameText		
+You catch a raw catfish	你钓到一条鲶鱼	gameText		
+You catch a raw leaping trout	你钓到一条跃起鳟鱼	gameText		
+You catch a raw swordfish	你钓到一条剑鱼	gameText		
+You catch a raw swordtip squid	你钓到一条剑尖鱿鱼	gameText		
+You catch a raw lava eel	你钓到一条熔岩鳗	gameText		
+You catch a raw leaping salmon	你钓到一条跃起鲑鱼	gameText		
+You catch a raw monkfish	你钓到一条僧侣鱼	gameText		
+You catch a raw karambwan	你钓到一条卡拉姆班鱼	gameText		
+You catch a raw giant krill	你钓到一条巨型磷虾	gameText		
+You catch a raw jumbo squid	你钓到一条巨型鱿鱼	gameText		
+You catch a raw leaping sturgeon	你钓到一条跃起鲟鱼	gameText		
+You catch a raw haddock	你钓到一条黑线鳕	gameText		
+You catch a raw shark	你钓到一条鲨鱼	gameText		
+You catch a raw sea turtle	你钓到一只海龟	gameText		
+You catch a raw yellowfin	你钓到一条黄鳍金枪鱼	gameText		
+You catch a raw infernal eel	你钓到一条地狱鳗	gameText		
+You catch a raw manta ray	你钓到一条魔鬼鱼	gameText		
+You catch a raw anglerfish	你钓到一条鮟鱇鱼	gameText		
+You catch a raw halibut	你钓到一条大比目鱼	gameText		
+You catch a raw dark crab	你钓到一只黑暗蟹	gameText		
+You catch a raw bluefin	你钓到一条蓝鳍金枪鱼	gameText		
+You catch a raw scared eel	你钓到一条惊鳗	gameText		
+You catch a raw marlin	你钓到一条马林鱼	gameText		
+You catch some raw shrimps	你钓到一些虾	gameText		
+You catch some raw guppies	你钓到一些孔雀鱼	gameText		
+You catch some raw anchovies	你钓到一些凤尾鱼	gameText		
+You cast out your line...	你抛出钓线…	gameText		
+You climb up the ladder to the surface.	你爬上梯子到达地面。	gameText		
+You have unlocked a new music track: <colNum0>Dogs of War	你已解锁新音乐曲目：<colNum0>战争之犬	gameText		
+You have not unlcoked this track yet.	你尚未解锁此曲目。	gameText		
+You fill the bowl from the sink.	你用水槽装满碗。	gameText		
+You fill the jug from the sink.	你用水槽装满水壶。	gameText		
+You fill the bucket from the sink.	你用水槽装满桶。	gameText		
+You fill the vial from the sink.	你用水槽装满小瓶。	gameText		
+You fill the waterskin from the sink.	你用水槽装满水袋。	gameText		
+You fill the empty cup from the sink.	你用水槽装满空杯子。	gameText		
+You fill the watering can from the sink.	你用水槽装满浇水壶。	gameText		
+You fill the gricoller's can from the sink.	你用水槽装满格里科勒的罐。	gameText		
+You fill the empty fishbowl from the sink.	你用水槽装满空鱼缸。	gameText		
+You empty the contents of the waterskin on the floor.	你将水袋中的内容物倒在地上。	gameText		
+You empty the contents of the bowl on the floor.	你将碗中的内容物倒在地上。	gameText		
+You empty the contents of the jug on the floor.	你将水壶中的内容物倒在地上。	gameText		
+You empty the contents of the vial on the floor.	你将小瓶中的内容物倒在地上。	gameText		
+You empty the contents of the cup on the floor.	你将杯子中的内容物倒在地上。	gameText		
+You empty the contents of the watering can on the floor.	你将浇水壶中的内容物倒在地上。	gameText		
+You empty the contents of the empty cup on the floor.	你将空杯子中的内容物倒在地上。	gameText		
+You empty the contents of the gricoller's can on the floor.	你将格里科勒的罐中的内容物倒在地上。	gameText		
+You empty the contents of the empty fishbowl on the floor.	你将空鱼缸中的内容物倒在地上。	gameText		
+You empty the contents of the pot on the floor.	你将罐中的内容物倒在地上。	gameText		
+You empty the contents of the tea flask on the floor.	你将茶壶中的内容物倒在地上。	gameText		
+You empty the contents of the teapot on the floor.	你将茶壶中的内容物倒在地上。	gameText		
+You empty the contents of the barrel on the floor.	你将桶中的内容物倒在地上。	gameText		
+You eat the chocolate bar.	你吃掉了巧克力棒。	gameText		
+You operate the empty hopper. Nothing interesting happens.	你操作空漏斗。没什么有趣的事情发生。	gameText		
+You drink the wine.	你喝了葡萄酒。	gameText		
+You put the grain in the hopper. You should now pull the lever nearby to operate the hopper.	你将谷物放入漏斗。你现在应该拉动附近的拉杆来操作漏斗。	gameText		
+There is already grain in the hopper.	漏斗中已经有谷物了。	gameText		
+You operate the hopper. The grain slides down the chute.	你操作漏斗。谷物滑下槽道。	gameText		
+You need an empty pot to hold the flour in.	你需要一个空罐来装面粉。	gameText		
+You fill a pot with flour from the bin.	你从箱子里用面粉装满一个罐。	gameText		
+You have unlocked a new music track: <colNum0>Dogs of War	你已解锁新音乐曲目：<colNum0>战争之犬	gameText		
+You have unlocked a new music track: <colNum0><Num0>th Realm	你已解锁新音乐曲目：<colNum0>第7领域	gameText		
+You have unlocked a new music track: <colNum0>Adventure	你已解锁新音乐曲目：<colNum0>冒险	gameText		
+You have unlocked a new music track: <colNum0>Al Kharid	你已解锁新音乐曲目：<colNum0>阿尔卡里德城	gameText		
+You have unlocked a new music track: <colNum0>Alchemical Attack!	你已解锁新音乐曲目：<colNum0>炼金术攻击！	gameText		
+You have unlocked a new music track: <colNum0>All Aboard	你已解锁新音乐曲目：<colNum0>全员登船	gameText		
+You have unlocked a new music track: <colNum0>All the Trimmings	你已解锁新音乐曲目：<colNum0>一应俱全	gameText		
+You have unlocked a new music track: <colNum0>All's Fairy in Love & War	你已解锁新音乐曲目：<colNum0>童话中的爱情与战争	gameText		
+You have unlocked a new music track: <colNum0>Alone	你已解锁新音乐曲目：<colNum0>孤独	gameText		
+You have unlocked a new music track: <colNum0>Altar Ego	你已解锁新音乐曲目：<colNum0>另一个自我	gameText		
+You have unlocked a new music track: <colNum0>Alternative Root	你已解锁新音乐曲目：<colNum0>另类根源	gameText		
+You have unlocked a new music track: <colNum0>Amascut's Promise	你已解锁新音乐曲目：<colNum0>阿玛斯库特的承诺	gameText		
+You have unlocked a new music track: <colNum0>Ambient Jungle	你已解锁新音乐曲目：<colNum0>丛林氛围	gameText		
+You have unlocked a new music track: <colNum0>The Ancient Prison	你已解锁新音乐曲目：<colNum0>古代监狱	gameText		
+You have unlocked a new music track: <colNum0>The Angel's Fury	你已解锁新音乐曲目：<colNum0>天使的愤怒	gameText		
+You have unlocked a new music track: <colNum0>Anywhere	你已解锁新音乐曲目：<colNum0>任何地方	gameText		
+You have unlocked a new music track: <colNum0>Ape-ex Predator	你已解锁新音乐曲目：<colNum0>猿猴顶级掠食者	gameText		
+You have unlocked a new music track: <colNum0>Arabian	你已解锁新音乐曲目：<colNum0>阿拉伯	gameText		
+You have unlocked a new music track: <colNum0>Arabian <Num0>	你已解锁新音乐曲目：<colNum0>阿拉伯<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Arabique	你已解锁新音乐曲目：<colNum0>阿拉伯风格	gameText		
+You have unlocked a new music track: <colNum0>Arachnids of Vampyrium	你已解锁新音乐曲目：<colNum0>凡皮里姆的蛛形纲	gameText		
+You have unlocked a new music track: <colNum0>Arboretum	你已解锁新音乐曲目：<colNum0>植物园	gameText		
+You have unlocked a new music track: <colNum0>Arcane	你已解锁新音乐曲目：<colNum0>奥术	gameText		
+You have unlocked a new music track: <colNum0>Architects of Prifddinas	你已解锁新音乐曲目：<colNum0>普里夫迪纳斯城的建筑师	gameText		
+You have unlocked a new music track: <colNum0>Are You Not Entertained?	你已解锁新音乐曲目：<colNum0>你不觉得有趣吗？	gameText		
+You have unlocked a new music track: <colNum0>Armadyl Alliance	你已解锁新音乐曲目：<colNum0>阿玛杜尔联盟	gameText		
+You have unlocked a new music track: <colNum0>Armageddon	你已解锁新音乐曲目：<colNum0>末日审判	gameText		
+You have unlocked a new music track: <colNum0>Army of Darkness	你已解锁新音乐曲目：<colNum0>黑暗军团	gameText		
+You have unlocked a new music track: <colNum0>Arrival	你已解锁新音乐曲目：<colNum0>抵达	gameText		
+You have unlocked a new music track: <colNum0>Artistry	你已解锁新音乐曲目：<colNum0>艺术	gameText		
+You have unlocked a new music track: <colNum0>Ascent	你已解锁新音乐曲目：<colNum0>上升	gameText		
+You have unlocked a new music track: <colNum0>Assault and Battery	你已解锁新音乐曲目：<colNum0>殴打	gameText		
+You have unlocked a new music track: <colNum0>Attack <Num0>	你已解锁新音乐曲目：<colNum0>攻击<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Attention	你已解锁新音乐曲目：<colNum0>注意	gameText		
+You have unlocked a new music track: <colNum0>Autumn Voyage	你已解锁新音乐曲目：<colNum0>秋日航行	gameText		
+You have unlocked a new music track: <colNum0>Awful Anthem	你已解锁新音乐曲目：<colNum0>糟糕的国歌	gameText		
+You have unlocked a new music track: <colNum0>Aye Car Rum Ba	你已解锁新音乐曲目：<colNum0>哎哟，朗姆酒	gameText		
+You have unlocked a new music track: <colNum0>Aztec	你已解锁新音乐曲目：<colNum0>阿兹特克	gameText		
+You have unlocked a new music track: <colNum0>Back to Life	你已解锁新音乐曲目：<colNum0>起死回生	gameText		
+You have unlocked a new music track: <colNum0>Background	你已解锁新音乐曲目：<colNum0>背景	gameText		
+You have unlocked a new music track: <colNum0>Bait	你已解锁新音乐曲目：<colNum0>诱饵	gameText		
+You have unlocked a new music track: <colNum0>Ballad of Enchantment	你已解锁新音乐曲目：<colNum0>魔法歌谣	gameText		
+You have unlocked a new music track: <colNum0>Ballad of the Basilisk	你已解锁新音乐曲目：<colNum0>石化蜥蜴歌谣	gameText		
+You have unlocked a new music track: <colNum0>Bandit Camp	你已解锁新音乐曲目：<colNum0>强盗营地	gameText		
+You have unlocked a new music track: <colNum0>Bandos Battalion	你已解锁新音乐曲目：<colNum0>班多斯营地	gameText		
+You have unlocked a new music track: <colNum0>Bane	你已解锁新音乐曲目：<colNum0>灾祸	gameText		
+You have unlocked a new music track: <colNum0>The Bane of Ashihama	你已解锁新音乐曲目：<colNum0>阿什哈马的灾祸	gameText		
+You have unlocked a new music track: <colNum0>Barb Wire	你已解锁新音乐曲目：<colNum0>铁丝网	gameText		
+You have unlocked a new music track: <colNum0>Barbarian Workout	你已解锁新音乐曲目：<colNum0>野蛮人训练	gameText		
+You have unlocked a new music track: <colNum0>Barbarianism	你已解锁新音乐曲目：<colNum0>野蛮主义	gameText		
+You have unlocked a new music track: <colNum0>Barking Mad	你已解锁新音乐曲目：<colNum0>狂吠	gameText		
+You have unlocked a new music track: <colNum0>Baroque	你已解锁新音乐曲目：<colNum0>巴洛克	gameText		
+You have unlocked a new music track: <colNum0>Barren Land	你已解锁新音乐曲目：<colNum0>荒芜之地	gameText		
+You have unlocked a new music track: <colNum0>Beetle Juice	你已解锁新音乐曲目：<colNum0>甲虫汁	gameText		
+You have unlocked a new music track: <colNum0>Below the Conch	你已解锁新音乐曲目：<colNum0>海螺之下	gameText		
+You have unlocked a new music track: <colNum0>Beneath Cursed Sands	你已解锁新音乐曲目：<colNum0>诅咒沙地之下	gameText		
+You have unlocked a new music track: <colNum0>Beneath the Kingdom	你已解锁新音乐曲目：<colNum0>王国之下	gameText		
+You have unlocked a new music track: <colNum0>Beneath the Stronghold	你已解锁新音乐曲目：<colNum0>要塞之下	gameText		
+You have unlocked a new music track: <colNum0>Beyond	你已解锁新音乐曲目：<colNum0>超越	gameText		
+You have unlocked a new music track: <colNum0>Beyond the Meadow	你已解锁新音乐曲目：<colNum0>草地之外	gameText		
+You have unlocked a new music track: <colNum0>Big Chords	你已解锁新音乐曲目：<colNum0>大和弦	gameText		
+You have unlocked a new music track: <colNum0>Black of Knight	你已解锁新音乐曲目：<colNum0>骑士之黑	gameText		
+You have unlocked a new music track: <colNum0>Blistering Barnacles	你已解锁新音乐曲目：<colNum0>灼热藤壶	gameText		
+You have unlocked a new music track: <colNum0>Blood Rush	你已解锁新音乐曲目：<colNum0>血之突袭	gameText		
+You have unlocked a new music track: <colNum0>Bloodbath	你已解锁新音乐曲目：<colNum0>血浴	gameText		
+You have unlocked a new music track: <colNum0>Bob's on Holiday	你已解锁新音乐曲目：<colNum0>鲍勃在度假	gameText		
+You have unlocked a new music track: <colNum0>Body Parts	你已解锁新音乐曲目：<colNum0>身体部位	gameText		
+You have unlocked a new music track: <colNum0>Bolrie's Diary	你已解锁新音乐曲目：<colNum0>博尔利的日记	gameText		
+You have unlocked a new music track: <colNum0>Bone Dance	你已解锁新音乐曲目：<colNum0>骨舞	gameText		
+You have unlocked a new music track: <colNum0>Bone Dry	你已解锁新音乐曲目：<colNum0>骨枯	gameText		
+You have unlocked a new music track: <colNum0>Book of Spells	你已解锁新音乐曲目：<colNum0>法术书	gameText		
+You have unlocked a new music track: <colNum0>Borderland	你已解锁新音乐曲目：<colNum0>边境	gameText		
+You have unlocked a new music track: <colNum0>Boss Moosic	你已解锁新音乐曲目：<colNum0>Boss音乐	gameText		
+You have unlocked a new music track: <colNum0>Box of Delights	你已解锁新音乐曲目：<colNum0>欢乐宝盒	gameText		
+You have unlocked a new music track: <colNum0>Brain Battle	你已解锁新音乐曲目：<colNum0>大脑之战	gameText		
+You have unlocked a new music track: <colNum0>Breeze	你已解锁新音乐曲目：<colNum0>微风	gameText		
+You have unlocked a new music track: <colNum0>Brew Hoo Hoo!	你已解锁新音乐曲目：<colNum0>呜呜呜！	gameText		
+You have unlocked a new music track: <colNum0>Brimstail's Scales	你已解锁新音乐曲目：<colNum0>布里姆斯泰尔的鳞片	gameText		
+You have unlocked a new music track: <colNum0>Bubble and Squeak	你已解锁新音乐曲目：<colNum0>泡泡与吱吱	gameText		
+You have unlocked a new music track: <colNum0>Bunny's Sugar Rush	你已解锁新音乐曲目：<colNum0>兔子的糖瘾	gameText		
+You have unlocked a new music track: <colNum0>Burning Desire	你已解锁新音乐曲目：<colNum0>燃烧的欲望	gameText		
+You have unlocked a new music track: <colNum0>The Burning Sun	你已解锁新音乐曲目：<colNum0>燃烧之日	gameText		
+You have unlocked a new music track: <colNum0>Cabin Fever	你已解锁新音乐曲目：<colNum0>幽闭恐惧	gameText		
+You have unlocked a new music track: <colNum0>Cain's Tutorial	你已解锁新音乐曲目：<colNum0>凯恩的教程	gameText		
+You have unlocked a new music track: <colNum0>Call of the Tlati	你已解锁新音乐曲目：<colNum0>特拉提的召唤	gameText		
+You have unlocked a new music track: <colNum0>Camelot	你已解锁新音乐曲目：<colNum0>卡美洛城堡	gameText		
+You have unlocked a new music track: <colNum0>Castle Wars	你已解锁新音乐曲目：<colNum0>城堡战争	gameText		
+You have unlocked a new music track: <colNum0>Catacombs and Tombs	你已解锁新音乐曲目：<colNum0>地下墓穴与坟墓	gameText		
+You have unlocked a new music track: <colNum0>Catch Me If You Can	你已解锁新音乐曲目：<colNum0>来抓我呀	gameText		
+You have unlocked a new music track: <colNum0>Cave Background	你已解锁新音乐曲目：<colNum0>洞穴背景	gameText		
+You have unlocked a new music track: <colNum0>Cave of Beasts	你已解锁新音乐曲目：<colNum0>野兽洞穴	gameText		
+You have unlocked a new music track: <colNum0>Cave of the Goblins	你已解锁新音乐曲目：<colNum0>哥布林洞穴	gameText		
+You have unlocked a new music track: <colNum0>Cavern	你已解锁新音乐曲目：<colNum0>洞穴	gameText		
+You have unlocked a new music track: <colNum0>The Cellar Dwellers	你已解锁新音乐曲目：<colNum0>地窖居民	gameText		
+You have unlocked a new music track: <colNum0>Cellar Song	你已解锁新音乐曲目：<colNum0>地窖之歌	gameText		
+You have unlocked a new music track: <colNum0>Chain of Command	你已解锁新音乐曲目：<colNum0>指挥链	gameText		
+You have unlocked a new music track: <colNum0>Chamber	你已解锁新音乐曲目：<colNum0>密室	gameText		
+You have unlocked a new music track: <colNum0>Chef Surprise	你已解锁新音乐曲目：<colNum0>厨师惊喜	gameText		
+You have unlocked a new music track: <colNum0>Chickened Out	你已解锁新音乐曲目：<colNum0>临阵退缩	gameText		
+You have unlocked a new music track: <colNum0>Children of the Sun	你已解锁新音乐曲目：<colNum0>太阳之子	gameText		
+You have unlocked a new music track: <colNum0>Chompy Hunt	你已解锁新音乐曲目：<colNum0>食人鸟狩猎	gameText		
+You have unlocked a new music track: <colNum0>The Chosen	你已解锁新音乐曲目：<colNum0>被选中的	gameText		
+You have unlocked a new music track: <colNum0>The City of Sun	你已解锁新音乐曲目：<colNum0>太阳之城	gameText		
+You have unlocked a new music track: <colNum0>City of the Dead	你已解锁新音乐曲目：<colNum0>死亡之城	gameText		
+You have unlocked a new music track: <colNum0>Clan Wars	你已解锁新音乐曲目：<colNum0>部落战争	gameText		
+You have unlocked a new music track: <colNum0>Clanliness	你已解锁新音乐曲目：<colNum0>氏族精神	gameText		
+You have unlocked a new music track: <colNum0>Claustrophobia	你已解锁新音乐曲目：<colNum0>幽闭恐惧症	gameText		
+You have unlocked a new music track: <colNum0>Close Quarters	你已解锁新音乐曲目：<colNum0>近距离	gameText		
+You have unlocked a new music track: <colNum0>Coil	你已解锁新音乐曲目：<colNum0>盘绕	gameText		
+You have unlocked a new music track: <colNum0>Colossus of the Deep	你已解锁新音乐曲目：<colNum0>深海巨像	gameText		
+You have unlocked a new music track: <colNum0>Competition	你已解锁新音乐曲目：<colNum0>竞赛	gameText		
+You have unlocked a new music track: <colNum0>Complication	你已解锁新音乐曲目：<colNum0>复杂	gameText		
+You have unlocked a new music track: <colNum0>Confrontation	你已解锁新音乐曲目：<colNum0>对抗	gameText		
+You have unlocked a new music track: <colNum0>The Consortium	你已解锁新音乐曲目：<colNum0>财团	gameText		
+You have unlocked a new music track: <colNum0>Conspiracy	你已解锁新音乐曲目：<colNum0>阴谋	gameText		
+You have unlocked a new music track: <colNum0>Contest	你已解锁新音乐曲目：<colNum0>比赛	gameText		
+You have unlocked a new music track: <colNum0>Corporal Punishment	你已解锁新音乐曲目：<colNum0>体罚	gameText		
+You have unlocked a new music track: <colNum0>Corridors of Power	你已解锁新音乐曲目：<colNum0>权力走廊	gameText		
+You have unlocked a new music track: <colNum0>Country Jig	你已解锁新音乐曲目：<colNum0>乡村吉格舞	gameText		
+You have unlocked a new music track: <colNum0>Courage	你已解锁新音乐曲目：<colNum0>勇气	gameText		
+You have unlocked a new music track: <colNum0>Crashing Waves	你已解锁新音乐曲目：<colNum0>拍岸浪花	gameText		
+You have unlocked a new music track: <colNum0>Creature Cruelty	你已解锁新音乐曲目：<colNum0>虐待动物	gameText		
+You have unlocked a new music track: <colNum0>Creatures of Varlamore	你已解锁新音乐曲目：<colNum0>瓦拉莫尔的生物	gameText		
+You have unlocked a new music track: <colNum0>Creeping Vines	你已解锁新音乐曲目：<colNum0>爬藤	gameText		
+You have unlocked a new music track: <colNum0>Crest of a Wave	你已解锁新音乐曲目：<colNum0>浪峰	gameText		
+You have unlocked a new music track: <colNum0>Crystal Castle	你已解锁新音乐曲目：<colNum0>水晶城堡	gameText		
+You have unlocked a new music track: <colNum0>Crystal Cave	你已解锁新音乐曲目：<colNum0>水晶洞穴	gameText		
+You have unlocked a new music track: <colNum0>Crystal Sword	你已解锁新音乐曲目：<colNum0>水晶剑	gameText		
+You have unlocked a new music track: <colNum0>Cursed	你已解锁新音乐曲目：<colNum0>诅咒	gameText		
+You have unlocked a new music track: <colNum0>The Curtain Closes	你已解锁新音乐曲目：<colNum0>幕布落下	gameText		
+You have unlocked a new music track: <colNum0>Dagannoth Dawn	你已解锁新音乐曲目：<colNum0>深潜者的黎明	gameText		
+You have unlocked a new music track: <colNum0>Dance of Death	你已解锁新音乐曲目：<colNum0>死亡之舞	gameText		
+You have unlocked a new music track: <colNum0>Dance of the Meilyr	你已解锁新音乐曲目：<colNum0>梅利尔之舞	gameText		
+You have unlocked a new music track: <colNum0>Dance of the Nylocas	你已解锁新音乐曲目：<colNum0>尼洛卡斯之舞	gameText		
+You have unlocked a new music track: <colNum0>Dance of the Undead	你已解锁新音乐曲目：<colNum0>亡灵之舞	gameText		
+You have unlocked a new music track: <colNum0>Dangerous	你已解锁新音乐曲目：<colNum0>危险	gameText		
+You have unlocked a new music track: <colNum0>A Dangerous Game	你已解锁新音乐曲目：<colNum0>危险游戏	gameText		
+You have unlocked a new music track: <colNum0>Dangerous Logic	你已解锁新音乐曲目：<colNum0>危险的逻辑	gameText		
+You have unlocked a new music track: <colNum0>Dangerous Road	你已解锁新音乐曲目：<colNum0>危险之路	gameText		
+You have unlocked a new music track: <colNum0>Dangerous Way	你已解锁新音乐曲目：<colNum0>危险之路	gameText		
+You have unlocked a new music track: <colNum0>Dark	你已解锁新音乐曲目：<colNum0>黑暗	gameText		
+You have unlocked a new music track: <colNum0>The Dark Beast Sotetseg	你已解锁新音乐曲目：<colNum0>暗黑野兽索特塞格	gameText		
+You have unlocked a new music track: <colNum0>Darkly Altared	你已解锁新音乐曲目：<colNum0>黑暗祭坛	gameText		
+You have unlocked a new music track: <colNum0>Darkmeyer	你已解锁新音乐曲目：<colNum0>达克迈尔	gameText		
+You have unlocked a new music track: <colNum0>Darkness in the Depths	你已解锁新音乐曲目：<colNum0>深渊黑暗	gameText		
+You have unlocked a new music track: <colNum0>Davy Jones' Locker	你已解锁新音乐曲目：<colNum0>戴维·琼斯的储物柜	gameText		
+You have unlocked a new music track: <colNum0>Dead Can Dance	你已解锁新音乐曲目：<colNum0>亡者能舞	gameText		
+You have unlocked a new music track: <colNum0>Dead Quiet	你已解锁新音乐曲目：<colNum0>死寂	gameText		
+You have unlocked a new music track: <colNum0>Deadlands	你已解锁新音乐曲目：<colNum0>死亡之地	gameText		
+You have unlocked a new music track: <colNum0>Deep Down	你已解锁新音乐曲目：<colNum0>深处	gameText		
+You have unlocked a new music track: <colNum0>Deep Wildy	你已解锁新音乐曲目：<colNum0>深邃荒野	gameText		
+You have unlocked a new music track: <colNum0>Delrith	你已解锁新音乐曲目：<colNum0>德尔里斯	gameText		
+You have unlocked a new music track: <colNum0>The Depths	你已解锁新音乐曲目：<colNum0>深渊	gameText		
+You have unlocked a new music track: <colNum0>Desert Heat	你已解锁新音乐曲目：<colNum0>沙漠热浪	gameText		
+You have unlocked a new music track: <colNum0>Desert Voyage	你已解锁新音乐曲目：<colNum0>沙漠航行	gameText		
+You have unlocked a new music track: <colNum0>The Desert	你已解锁新音乐曲目：<colNum0>沙漠	gameText		
+You have unlocked a new music track: <colNum0>The Desolate Isle	你已解锁新音乐曲目：<colNum0>荒凉之岛	gameText		
+You have unlocked a new music track: <colNum0>The Desolate Mage	你已解锁新音乐曲目：<colNum0>荒凉法师	gameText		
+You have unlocked a new music track: <colNum0>A Desolate Past	你已解锁新音乐曲目：<colNum0>荒凉的往昔	gameText		
+You have unlocked a new music track: <colNum0>Devils May Care	你已解锁新音乐曲目：<colNum0>魔鬼不在乎	gameText		
+You have unlocked a new music track: <colNum0>Diango's Little Helpers	你已解锁新音乐曲目：<colNum0>迪亚戈的小帮手	gameText		
+You have unlocked a new music track: <colNum0>Dies Irae	你已解锁新音乐曲目：<colNum0>愤怒之日	gameText		
+You have unlocked a new music track: <colNum0>Dimension X	你已解锁新音乐曲目：<colNum0>X维度	gameText		
+You have unlocked a new music track: <colNum0>Distant Land	你已解锁新音乐曲目：<colNum0>远方	gameText		
+You have unlocked a new music track: <colNum0>Distillery Hilarity	你已解锁新音乐曲目：<colNum0>酿酒厂狂欢	gameText		
+You have unlocked a new music track: <colNum0>Dogfight	你已解锁新音乐曲目：<colNum0>空战	gameText		
+You have unlocked a new music track: <colNum0>Dogs of War	你已解锁新音乐曲目：<colNum0>战争之犬	gameText		
+You have unlocked a new music track: <colNum0>Domain of the Vampyres	你已解锁新音乐曲目：<colNum0>吸血鬼领地	gameText		
+You have unlocked a new music track: <colNum0>Don't Panic Zanik	你已解锁新音乐曲目：<colNum0>别慌，扎尼克	gameText		
+You have unlocked a new music track: <colNum0>The Doom	你已解锁新音乐曲目：<colNum0>末日	gameText		
+You have unlocked a new music track: <colNum0>The Doors of Dinh	你已解锁新音乐曲目：<colNum0>丁之门	gameText		
+You have unlocked a new music track: <colNum0>Doorways	你已解锁新音乐曲目：<colNum0>门口	gameText		
+You have unlocked a new music track: <colNum0>Dorgeshuun City	你已解锁新音乐曲目：<colNum0>多格舒恩城	gameText		
+You have unlocked a new music track: <colNum0>Dorgeshuun Deep	你已解锁新音乐曲目：<colNum0>多格舒恩深处	gameText		
+You have unlocked a new music track: <colNum0>Dorgeshuun Treaty	你已解锁新音乐曲目：<colNum0>多格舒恩条约	gameText		
+You have unlocked a new music track: <colNum0>Dot's Yuletide	你已解锁新音乐曲目：<colNum0>多特的圣诞节	gameText		
+You have unlocked a new music track: <colNum0>Down and Out	你已解锁新音乐曲目：<colNum0>落魄	gameText		
+You have unlocked a new music track: <colNum0>Down Below	你已解锁新音乐曲目：<colNum0>下方	gameText		
+You have unlocked a new music track: <colNum0>Down by the Docks	你已解锁新音乐曲目：<colNum0>码头	gameText		
+You have unlocked a new music track: <colNum0>Down to Earth	你已解锁新音乐曲目：<colNum0>脚踏实地	gameText		
+You have unlocked a new music track: <colNum0>The Dragon Slayer	你已解锁新音乐曲目：<colNum0>屠龙者	gameText		
+You have unlocked a new music track: <colNum0>Dragontooth Island	你已解锁新音乐曲目：<colNum0>龙牙岛	gameText		
+You have unlocked a new music track: <colNum0>Dream	你已解锁新音乐曲目：<colNum0>梦境	gameText		
+You have unlocked a new music track: <colNum0>The Dream Theatre	你已解锁新音乐曲目：<colNum0>梦之剧场	gameText		
+You have unlocked a new music track: <colNum0>Dreamstate	你已解锁新音乐曲目：<colNum0>梦境状态	gameText		
+You have unlocked a new music track: <colNum0>Dunes of Eternity	你已解锁新音乐曲目：<colNum0>永恒沙丘	gameText		
+You have unlocked a new music track: <colNum0>Dunjun	你已解锁新音乐曲目：<colNum0>地牢	gameText		
+You have unlocked a new music track: <colNum0>Dusk in Yu'biusk	你已解锁新音乐曲目：<colNum0>尤比乌斯克的黄昏	gameText		
+You have unlocked a new music track: <colNum0>Dwarf Theme	你已解锁新音乐曲目：<colNum0>矮人主题	gameText		
+You have unlocked a new music track: <colNum0>Dwarven Domain	你已解锁新音乐曲目：<colNum0>矮人领地	gameText		
+You have unlocked a new music track: <colNum0>Dynasty	你已解锁新音乐曲目：<colNum0>王朝	gameText		
+You have unlocked a new music track: <colNum0>Eagles' Peak	你已解锁新音乐曲目：<colNum0>鹰峰	gameText		
+You have unlocked a new music track: <colNum0>Easter Jig	你已解锁新音乐曲目：<colNum0>复活节吉格舞	gameText		
+You have unlocked a new music track: <colNum0>Echoes of the North	你已解锁新音乐曲目：<colNum0>北境回响	gameText		
+You have unlocked a new music track: <colNum0>Egypt	你已解锁新音乐曲目：<colNum0>埃及	gameText		
+You have unlocked a new music track: <colNum0>Elder Wisdom	你已解锁新音乐曲目：<colNum0>长者智慧	gameText		
+You have unlocked a new music track: <colNum0>Elven Guardians	你已解锁新音乐曲目：<colNum0>精灵守护者	gameText		
+You have unlocked a new music track: <colNum0>Elven Mist	你已解锁新音乐曲目：<colNum0>精灵之雾	gameText		
+You have unlocked a new music track: <colNum0>Elven Seed	你已解锁新音乐曲目：<colNum0>精灵之种	gameText		
+You have unlocked a new music track: <colNum0>The Emir's Arena	你已解锁新音乐曲目：<colNum0>埃米尔竞技场	gameText		
+You have unlocked a new music track: <colNum0>Emissaries of Twilight	你已解锁新音乐曲目：<colNum0>暮光使者	gameText		
+You have unlocked a new music track: <colNum0>Emotion	你已解锁新音乐曲目：<colNum0>情感	gameText		
+You have unlocked a new music track: <colNum0>Emperor	你已解锁新音乐曲目：<colNum0>皇帝	gameText		
+You have unlocked a new music track: <colNum0>The Enchanter	你已解锁新音乐曲目：<colNum0>附魔师	gameText		
+You have unlocked a new music track: <colNum0>The Enclave	你已解锁新音乐曲目：<colNum0>飞地	gameText		
+You have unlocked a new music track: <colNum0>Escape	你已解锁新音乐曲目：<colNum0>逃脱	gameText		
+You have unlocked a new music track: <colNum0>Espionage	你已解锁新音乐曲目：<colNum0>间谍活动	gameText		
+You have unlocked a new music track: <colNum0>Etceteria	你已解锁新音乐曲目：<colNum0>埃西特利亚岛	gameText		
+You have unlocked a new music track: <colNum0>The Eternal Waves	你已解锁新音乐曲目：<colNum0>永恒之浪	gameText		
+You have unlocked a new music track: <colNum0>Eve's Epinette	你已解锁新音乐曲目：<colNum0>夏娃的斯皮内特琴	gameText		
+You have unlocked a new music track: <colNum0>Everlasting	你已解锁新音乐曲目：<colNum0>永恒	gameText		
+You have unlocked a new music track: <colNum0>Everlasting Fire	你已解锁新音乐曲目：<colNum0>永恒之火	gameText		
+You have unlocked a new music track: <colNum0>The Everlasting Slumber	你已解锁新音乐曲目：<colNum0>永恒的沉睡	gameText		
+You have unlocked a new music track: <colNum0>Everywhere	你已解锁新音乐曲目：<colNum0>无处不在	gameText		
+You have unlocked a new music track: <colNum0>Evil Bob's Island	你已解锁新音乐曲目：<colNum0>邪恶鲍勃之岛	gameText		
+You have unlocked a new music track: <colNum0>The Evil Within	你已解锁新音乐曲目：<colNum0>内心的邪恶	gameText		
+You have unlocked a new music track: <colNum0>Expanse	你已解锁新音乐曲目：<colNum0>广阔	gameText		
+You have unlocked a new music track: <colNum0>Expecting	你已解锁新音乐曲目：<colNum0>期待	gameText		
+You have unlocked a new music track: <colNum0>Expedition	你已解锁新音乐曲目：<colNum0>远征	gameText		
+You have unlocked a new music track: <colNum0>Exposed	你已解锁新音乐曲目：<colNum0>暴露	gameText		
+You have unlocked a new music track: <colNum0>Eye of the Storm	你已解锁新音乐曲目：<colNum0>风暴之眼	gameText		
+You have unlocked a new music track: <colNum0>Eye See You	你已解锁新音乐曲目：<colNum0>看见你了	gameText		
+You have unlocked a new music track: <colNum0>Faerie	你已解锁新音乐曲目：<colNum0>仙境	gameText		
+You have unlocked a new music track: <colNum0>The Fairy Dragon	你已解锁新音乐曲目：<colNum0>仙龙	gameText		
+You have unlocked a new music track: <colNum0>Faith of the Hefin	你已解锁新音乐曲目：<colNum0>赫芬信仰	gameText		
+You have unlocked a new music track: <colNum0>Faithless	你已解锁新音乐曲目：<colNum0>无信仰者	gameText		
+You have unlocked a new music track: <colNum0>The Fallen Empire	你已解锁新音乐曲目：<colNum0>陨落的帝国	gameText		
+You have unlocked a new music track: <colNum0>Fanfare	你已解锁新音乐曲目：<colNum0>号角	gameText		
+You have unlocked a new music track: <colNum0>Fanfare <Num0>	你已解锁新音乐曲目：<colNum0>号角<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Fanfare <Num0>	你已解锁新音乐曲目：<colNum0>号角<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Fangs for the Memory	你已解锁新音乐曲目：<colNum0>记忆之牙	gameText		
+You have unlocked a new music track: <colNum0>Far Away	你已解锁新音乐曲目：<colNum0>远方	gameText		
+You have unlocked a new music track: <colNum0>The Far Side	你已解锁新音乐曲目：<colNum0>远方	gameText		
+You have unlocked a new music track: <colNum0>A Farmer's Grind	你已解锁新音乐曲目：<colNum0>农耕劳作	gameText		
+You have unlocked a new music track: <colNum0>The Fat Lady Sings	你已解锁新音乐曲目：<colNum0>胖女士歌唱	gameText		
+You have unlocked a new music track: <colNum0>Fe Fi Fo Fum	你已解锁新音乐曲目：<colNum0>费菲福芬	gameText		
+You have unlocked a new music track: <colNum0>Fear and Loathing	你已解锁新音乐曲目：<colNum0>恐惧与厌恶	gameText		
+You have unlocked a new music track: <colNum0>The Feathered Serpent	你已解锁新音乐曲目：<colNum0>羽蛇	gameText		
+You have unlocked a new music track: <colNum0>Fenkenstrain's Refrain	你已解锁新音乐曲目：<colNum0>芬肯斯特恩的副歌	gameText		
+You have unlocked a new music track: <colNum0>A Festive Party	你已解锁新音乐曲目：<colNum0>节日派对	gameText		
+You have unlocked a new music track: <colNum0>Fight of the Basilisk	你已解锁新音乐曲目：<colNum0>石化蜥蜴之战	gameText		
+You have unlocked a new music track: <colNum0>Fight or Flight	你已解锁新音乐曲目：<colNum0>战斗或逃跑	gameText		
+You have unlocked a new music track: <colNum0>Find My Way	你已解锁新音乐曲目：<colNum0>找到我的路	gameText		
+You have unlocked a new music track: <colNum0>Fire and Brimstone	你已解锁新音乐曲目：<colNum0>火与硫磺	gameText		
+You have unlocked a new music track: <colNum0>Fire in the Deep	你已解锁新音乐曲目：<colNum0>深渊之火	gameText		
+You have unlocked a new music track: <colNum0>The Fires of Lletya	你已解锁新音乐曲目：<colNum0>莱蒂亚之火	gameText		
+You have unlocked a new music track: <colNum0>Fishing	你已解锁新音乐曲目：<colNum0>钓鱼	gameText		
+You have unlocked a new music track: <colNum0>Floating Free	你已解锁新音乐曲目：<colNum0>自由漂浮	gameText		
+You have unlocked a new music track: <colNum0>Flute Salad	你已解锁新音乐曲目：<colNum0>长笛沙拉	gameText		
+You have unlocked a new music track: <colNum0>Food for Thought	你已解锁新音乐曲目：<colNum0>精神食粮	gameText		
+You have unlocked a new music track: <colNum0>Forbidden	你已解锁新音乐曲目：<colNum0>禁止	gameText		
+You have unlocked a new music track: <colNum0>Forest	你已解锁新音乐曲目：<colNum0>森林	gameText		
+You have unlocked a new music track: <colNum0>The Forests of Shayzien	你已解锁新音乐曲目：<colNum0>谢兹恩森林	gameText		
+You have unlocked a new music track: <colNum0>Forever	你已解锁新音乐曲目：<colNum0>永远	gameText		
+You have unlocked a new music track: <colNum0>Forgettable Melody	你已解锁新音乐曲目：<colNum0>易忘的旋律	gameText		
+You have unlocked a new music track: <colNum0>Forgotten	你已解锁新音乐曲目：<colNum0>遗忘	gameText		
+You have unlocked a new music track: <colNum0>A Forgotten Religion	你已解锁新音乐曲目：<colNum0>被遗忘的宗教	gameText		
+You have unlocked a new music track: <colNum0>The Forgotten Tomb	你已解锁新音乐曲目：<colNum0>被遗忘的坟墓	gameText		
+You have unlocked a new music track: <colNum0>The Forlorn Homestead	你已解锁新音乐曲目：<colNum0>孤寂家园	gameText		
+You have unlocked a new music track: <colNum0>The Forsaken Tower	你已解锁新音乐曲目：<colNum0>被遗弃之塔	gameText		
+You have unlocked a new music track: <colNum0>The Forsaken	你已解锁新音乐曲目：<colNum0>被遗弃者	gameText		
+You have unlocked a new music track: <colNum0>Fossilised	你已解锁新音乐曲目：<colNum0>化石	gameText		
+You have unlocked a new music track: <colNum0>The Foundry	你已解锁新音乐曲目：<colNum0>铸造厂	gameText		
+You have unlocked a new music track: <colNum0>The Fragment	你已解锁新音乐曲目：<colNum0>碎片	gameText		
+You have unlocked a new music track: <colNum0>The Fremennik Kings	你已解锁新音乐曲目：<colNum0>费明尼克国王	gameText		
+You have unlocked a new music track: <colNum0>Frogland	你已解锁新音乐曲目：<colNum0>青蛙之地	gameText		
+You have unlocked a new music track: <colNum0>Frostbite	你已解锁新音乐曲目：<colNum0>冻伤	gameText		
+You have unlocked a new music track: <colNum0>Fruits de Mer	你已解锁新音乐曲目：<colNum0>海鲜	gameText		
+You have unlocked a new music track: <colNum0>Ful to the Brim	你已解锁新音乐曲目：<colNum0>满溢	gameText		
+You have unlocked a new music track: <colNum0>Funny Bunnies	你已解锁新音乐曲目：<colNum0>有趣的兔子	gameText		
+You have unlocked a new music track: <colNum0>The Galleon	你已解锁新音乐曲目：<colNum0>大帆船	gameText		
+You have unlocked a new music track: <colNum0>Gaol	你已解锁新音乐曲目：<colNum0>监狱	gameText		
+You have unlocked a new music track: <colNum0>Garden	你已解锁新音乐曲目：<colNum0>花园	gameText		
+You have unlocked a new music track: <colNum0>Garden of Autumn	你已解锁新音乐曲目：<colNum0>秋日花园	gameText		
+You have unlocked a new music track: <colNum0>Garden of Spring	你已解锁新音乐曲目：<colNum0>春日花园	gameText		
+You have unlocked a new music track: <colNum0>Garden of Summer	你已解锁新音乐曲目：<colNum0>夏日花园	gameText		
+You have unlocked a new music track: <colNum0>Garden of Winter	你已解锁新音乐曲目：<colNum0>冬日花园	gameText		
+You have unlocked a new music track: <colNum0>The Gates of Menaphos	你已解锁新音乐曲目：<colNum0>梅纳菲斯之门	gameText		
+You have unlocked a new music track: <colNum0>The Gauntlet	你已解锁新音乐曲目：<colNum0>手套	gameText		
+You have unlocked a new music track: <colNum0>The Genie	你已解锁新音乐曲目：<colNum0>精灵	gameText		
+You have unlocked a new music track: <colNum0>Getting Down to Business	你已解锁新音乐曲目：<colNum0>开始正事	gameText		
+You have unlocked a new music track: <colNum0>Gill Bill	你已解锁新音乐曲目：<colNum0>吉尔账单	gameText		
+You have unlocked a new music track: <colNum0>Gnome King	你已解锁新音乐曲目：<colNum0>地精国王	gameText		
+You have unlocked a new music track: <colNum0>Gnome Village	你已解锁新音乐曲目：<colNum0>地精村庄	gameText		
+You have unlocked a new music track: <colNum0>Gnome Village <Num0>	你已解锁新音乐曲目：<colNum0>地精村庄<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Gnome Village Party	你已解锁新音乐曲目：<colNum0>地精村庄派对	gameText		
+You have unlocked a new music track: <colNum0>Gnomeball	你已解锁新音乐曲目：<colNum0>地精球	gameText		
+You have unlocked a new music track: <colNum0>Goblin Game	你已解锁新音乐曲目：<colNum0>哥布林游戏	gameText		
+You have unlocked a new music track: <colNum0>Goblin Village	你已解锁新音乐曲目：<colNum0>哥布林村庄	gameText		
+You have unlocked a new music track: <colNum0>Golden Touch	你已解锁新音乐曲目：<colNum0>点石成金	gameText		
+You have unlocked a new music track: <colNum0>The Golem	你已解锁新音乐曲目：<colNum0>魔像	gameText		
+You have unlocked a new music track: <colNum0>The Great North	你已解锁新音乐曲目：<colNum0>伟大北方	gameText		
+You have unlocked a new music track: <colNum0>Greatness	你已解锁新音乐曲目：<colNum0>伟大	gameText		
+You have unlocked a new music track: <colNum0>Grimly Fiendish	你已解锁新音乐曲目：<colNum0>阴森邪恶	gameText		
+You have unlocked a new music track: <colNum0>Grip of the Talon	你已解锁新音乐曲目：<colNum0>利爪之握	gameText		
+You have unlocked a new music track: <colNum0>Grotto	你已解锁新音乐曲目：<colNum0>洞穴	gameText		
+You have unlocked a new music track: <colNum0>Grow Grow Grow	你已解锁新音乐曲目：<colNum0>生长，生长，生长	gameText		
+You have unlocked a new music track: <colNum0>Grumpy	你已解锁新音乐曲目：<colNum0>暴躁	gameText		
+You have unlocked a new music track: <colNum0>The Guardian of Tapoyauik	你已解锁新音乐曲目：<colNum0>塔波约伊克的守护者	gameText		
+You have unlocked a new music track: <colNum0>Guardians of the Rift	你已解锁新音乐曲目：<colNum0>裂隙守护者	gameText		
+You have unlocked a new music track: <colNum0>The Guardians Prepare	你已解锁新音乐曲目：<colNum0>守护者已准备	gameText		
+You have unlocked a new music track: <colNum0>The Guidance of Ralos	你已解锁新音乐曲目：<colNum0>拉洛斯的指引	gameText		
+You have unlocked a new music track: <colNum0>H.A.M. and Seek	你已解锁新音乐曲目：<colNum0>反怪物人联 - 捉迷藏	gameText		
+You have unlocked a new music track: <colNum0>H.A.M. Attack	你已解锁新音乐曲目：<colNum0>反怪物人联 - 攻击	gameText		
+You have unlocked a new music track: <colNum0>H.A.M. Fisted	你已解锁新音乐曲目：<colNum0>反怪物人联 - 拳头	gameText		
+You have unlocked a new music track: <colNum0>Harmony	你已解锁新音乐曲目：<colNum0>和谐	gameText		
+You have unlocked a new music track: <colNum0>Harmony <Num0>	你已解锁新音乐曲目：<colNum0>和谐<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Haunted Mine	你已解锁新音乐曲目：<colNum0>闹鬼矿场	gameText		
+You have unlocked a new music track: <colNum0>Have a Blast	你已解锁新音乐曲目：<colNum0>尽情狂欢	gameText		
+You have unlocked a new music track: <colNum0>Have an Ice Day	你已解锁新音乐曲目：<colNum0>冰爽一天	gameText		
+You have unlocked a new music track: <colNum0>Head to Head	你已解锁新音乐曲目：<colNum0>针锋相对	gameText		
+You have unlocked a new music track: <colNum0>Healin' Feelin'	你已解锁新音乐曲目：<colNum0>治愈之感	gameText		
+You have unlocked a new music track: <colNum0>Heart and Mind	你已解锁新音乐曲目：<colNum0>心与智	gameText		
+You have unlocked a new music track: <colNum0>Heavy Security	你已解锁新音乐曲目：<colNum0>严密安保	gameText		
+You have unlocked a new music track: <colNum0>The Heist	你已解锁新音乐曲目：<colNum0>抢劫	gameText		
+You have unlocked a new music track: <colNum0>Hells Bells	你已解锁新音乐曲目：<colNum0>地狱之铃	gameText		
+You have unlocked a new music track: <colNum0>Hermit	你已解锁新音乐曲目：<colNum0>隐士	gameText		
+You have unlocked a new music track: <colNum0>High Seas	你已解锁新音乐曲目：<colNum0>公海	gameText		
+You have unlocked a new music track: <colNum0>High Spirits	你已解锁新音乐曲目：<colNum0>兴高采烈	gameText		
+You have unlocked a new music track: <colNum0>His Faithful Servants	你已解锁新音乐曲目：<colNum0>他忠诚的仆从	gameText		
+You have unlocked a new music track: <colNum0>Hoe Down	你已解锁新音乐曲目：<colNum0>锄地舞	gameText		
+You have unlocked a new music track: <colNum0>Home Sweet Home	你已解锁新音乐曲目：<colNum0>甜蜜的家	gameText		
+You have unlocked a new music track: <colNum0>Honkytonky Sea Shanty <Num0>	你已解锁新音乐曲目：<colNum0>乡村海歌<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Horizon	你已解锁新音乐曲目：<colNum0>地平线	gameText		
+You have unlocked a new music track: <colNum0>The Houses of Kourend	你已解锁新音乐曲目：<colNum0>库兰德家族	gameText		
+You have unlocked a new music track: <colNum0>Hypnotised	你已解锁新音乐曲目：<colNum0>被催眠	gameText		
+You have unlocked a new music track: <colNum0>Iban	你已解锁新音乐曲目：<colNum0>伊班	gameText		
+You have unlocked a new music track: <colNum0>Ice and Fire	你已解锁新音乐曲目：<colNum0>冰与火	gameText		
+You have unlocked a new music track: <colNum0>Ice Melody	你已解锁新音乐曲目：<colNum0>冰之旋律	gameText		
+You have unlocked a new music track: <colNum0>Illusive	你已解锁新音乐曲目：<colNum0>虚幻	gameText		
+You have unlocked a new music track: <colNum0>Impetuous	你已解锁新音乐曲目：<colNum0>冲动	gameText		
+You have unlocked a new music track: <colNum0>Impulses	你已解锁新音乐曲目：<colNum0>冲动	gameText		
+You have unlocked a new music track: <colNum0>In Between	你已解锁新音乐曲目：<colNum0>之间	gameText		
+You have unlocked a new music track: <colNum0>In the Brine	你已解锁新音乐曲目：<colNum0>盐水	gameText		
+You have unlocked a new music track: <colNum0>In the Clink	你已解锁新音乐曲目：<colNum0>监狱	gameText		
+You have unlocked a new music track: <colNum0>In the Manor	你已解锁新音乐曲目：<colNum0>庄园	gameText		
+You have unlocked a new music track: <colNum0>In the Pits	你已解锁新音乐曲目：<colNum0>在坑中	gameText		
+You have unlocked a new music track: <colNum0>In the Shadows	你已解锁新音乐曲目：<colNum0>暗影之中	gameText		
+You have unlocked a new music track: <colNum0>Inadequacy	你已解锁新音乐曲目：<colNum0>不足	gameText		
+You have unlocked a new music track: <colNum0>Incantation	你已解锁新音乐曲目：<colNum0>咒语	gameText		
+You have unlocked a new music track: <colNum0>Incarceration	你已解锁新音乐曲目：<colNum0>监禁	gameText		
+You have unlocked a new music track: <colNum0>Inferno	你已解锁新音乐曲目：<colNum0>地狱	gameText		
+You have unlocked a new music track: <colNum0>Insect Queen	你已解锁新音乐曲目：<colNum0>昆虫女王	gameText		
+You have unlocked a new music track: <colNum0>Inspiration	你已解锁新音乐曲目：<colNum0>灵感	gameText		
+You have unlocked a new music track: <colNum0>Into the Abyss	你已解锁新音乐曲目：<colNum0>步入深渊	gameText		
+You have unlocked a new music track: <colNum0>Into the Blue	你已解锁新音乐曲目：<colNum0>深入蔚蓝	gameText		
+You have unlocked a new music track: <colNum0>Into the Tombs	你已解锁新音乐曲目：<colNum0>进入墓穴	gameText		
+You have unlocked a new music track: <colNum0>Intrepid	你已解锁新音乐曲目：<colNum0>无畏	gameText		
+You have unlocked a new music track: <colNum0>Invader	你已解锁新音乐曲目：<colNum0>入侵者	gameText		
+You have unlocked a new music track: <colNum0>Iorwerth's Lament	你已解锁新音乐曲目：<colNum0>伊尔沃斯的哀歌	gameText		
+You have unlocked a new music track: <colNum0>Island Life	你已解锁新音乐曲目：<colNum0>岛屿生活	gameText		
+You have unlocked a new music track: <colNum0>Island of the Trolls	你已解锁新音乐曲目：<colNum0>巨魔之岛	gameText		
+You have unlocked a new music track: <colNum0>Isle of Everywhere	你已解锁新音乐曲目：<colNum0>万物之岛	gameText		
+You have unlocked a new music track: <colNum0>Isle of Serenity	你已解锁新音乐曲目：<colNum0>宁静之岛	gameText		
+You have unlocked a new music track: <colNum0>It's not over 'til...	你已解锁新音乐曲目：<colNum0>直到…才结束	gameText		
+You have unlocked a new music track: <colNum0>Itsy Bitsy...	你已解锁新音乐曲目：<colNum0>小不点…	gameText		
+You have unlocked a new music track: <colNum0>Jaws of Gluttony	你已解锁新音乐曲目：<colNum0>贪婪之颚	gameText		
+You have unlocked a new music track: <colNum0>Jaws of the Basilisk	你已解锁新音乐曲目：<colNum0>石化蜥蜴之颚	gameText		
+You have unlocked a new music track: <colNum0>Jester Minute	你已解锁新音乐曲目：<colNum0>小丑时刻	gameText		
+You have unlocked a new music track: <colNum0>Jolly R	你已解锁新音乐曲目：<colNum0>欢乐R	gameText		
+You have unlocked a new music track: <colNum0>Joy of the Hunt	你已解锁新音乐曲目：<colNum0>狩猎之乐	gameText		
+You have unlocked a new music track: <colNum0>Judgement of the Depths	你已解锁新音乐曲目：<colNum0>深渊的审判	gameText		
+You have unlocked a new music track: <colNum0>Jungle Bells	你已解锁新音乐曲目：<colNum0>丛林铃铛	gameText		
+You have unlocked a new music track: <colNum0>Jungle Hunt	你已解锁新音乐曲目：<colNum0>丛林狩猎	gameText		
+You have unlocked a new music track: <colNum0>Jungle Island	你已解锁新音乐曲目：<colNum0>丛林岛	gameText		
+You have unlocked a new music track: <colNum0>Jungle Island Xmas	你已解锁新音乐曲目：<colNum0>丛林岛圣诞	gameText		
+You have unlocked a new music track: <colNum0>Jungle Troubles	你已解锁新音乐曲目：<colNum0>丛林麻烦	gameText		
+You have unlocked a new music track: <colNum0>Jungly <Num0>	你已解锁新音乐曲目：<colNum0>丛林<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Kanon of Kahlith	你已解锁新音乐曲目：<colNum0>卡利斯之歌	gameText		
+You have unlocked a new music track: <colNum0>Karamja Jam	你已解锁新音乐曲目：<colNum0>卡拉姆詹果酱	gameText		
+You have unlocked a new music track: <colNum0>The Kin	你已解锁新音乐曲目：<colNum0>亲属	gameText		
+You have unlocked a new music track: <colNum0>King of the Trolls	你已解锁新音乐曲目：<colNum0>巨魔之王	gameText		
+You have unlocked a new music track: <colNum0>Kingdom	你已解锁新音乐曲目：<colNum0>王国	gameText		
+You have unlocked a new music track: <colNum0>Knightly	你已解锁新音乐曲目：<colNum0>骑士风范	gameText		
+You have unlocked a new music track: <colNum0>Knightmare	你已解锁新音乐曲目：<colNum0>骑士梦魇	gameText		
+You have unlocked a new music track: <colNum0>Kourend the Magnificent	你已解锁新音乐曲目：<colNum0>宏伟的库兰德王国	gameText		
+You have unlocked a new music track: <colNum0>La Mort	你已解锁新音乐曲目：<colNum0>死亡	gameText		
+You have unlocked a new music track: <colNum0>Labyrinth	你已解锁新音乐曲目：<colNum0>迷宫	gameText		
+You have unlocked a new music track: <colNum0>Lagoon	你已解锁新音乐曲目：<colNum0>泻湖	gameText		
+You have unlocked a new music track: <colNum0>Laid to Rest	你已解锁新音乐曲目：<colNum0>安息	gameText		
+You have unlocked a new music track: <colNum0>Lair	你已解锁新音乐曲目：<colNum0>巢穴	gameText		
+You have unlocked a new music track: <colNum0>Lair of the Basilisk	你已解锁新音乐曲目：<colNum0>石化蜥蜴巢穴	gameText		
+You have unlocked a new music track: <colNum0>Lament	你已解锁新音乐曲目：<colNum0>哀歌	gameText		
+You have unlocked a new music track: <colNum0>Lament for the Hallowed	你已解锁新音乐曲目：<colNum0>神圣挽歌	gameText		
+You have unlocked a new music track: <colNum0>Lament of Meiyerditch	你已解锁新音乐曲目：<colNum0>迈尔迪奇的哀歌	gameText		
+You have unlocked a new music track: <colNum0>Lamistard's Labyrinth	你已解锁新音乐曲目：<colNum0>拉米斯塔德的迷宫	gameText		
+You have unlocked a new music track: <colNum0>Land Down Under	你已解锁新音乐曲目：<colNum0>地下之地	gameText		
+You have unlocked a new music track: <colNum0>Land of Snow	你已解锁新音乐曲目：<colNum0>雪之地	gameText		
+You have unlocked a new music track: <colNum0>Land of the Dwarves	你已解锁新音乐曲目：<colNum0>矮人之地	gameText		
+You have unlocked a new music track: <colNum0>Landlubber	你已解锁新音乐曲目：<colNum0>旱鸭子	gameText		
+You have unlocked a new music track: <colNum0>Last King of the Yarasa	你已解锁新音乐曲目：<colNum0>亚拉沙的最后之王	gameText		
+You have unlocked a new music track: <colNum0>Last Man Standing	你已解锁新音乐曲目：<colNum0>最后幸存者	gameText		
+You have unlocked a new music track: <colNum0>The Last Shanty	你已解锁新音乐曲目：<colNum0>最后的海歌	gameText		
+You have unlocked a new music track: <colNum0>Last Stand	你已解锁新音乐曲目：<colNum0>最后阵地	gameText		
+You have unlocked a new music track: <colNum0>Lasting	你已解锁新音乐曲目：<colNum0>持久	gameText		
+You have unlocked a new music track: <colNum0>Lava is Mine	你已解锁新音乐曲目：<colNum0>熔岩是我的	gameText		
+You have unlocked a new music track: <colNum0>Legend	你已解锁新音乐曲目：<colNum0>传说	gameText		
+You have unlocked a new music track: <colNum0>Legion	你已解锁新音乐曲目：<colNum0>军团	gameText		
+You have unlocked a new music track: <colNum0>Life at Sea	你已解锁新音乐曲目：<colNum0>海上生活	gameText		
+You have unlocked a new music track: <colNum0>Life's a Beach!	你已解锁新音乐曲目：<colNum0>生活就是海滩！	gameText		
+You have unlocked a new music track: <colNum0>Lighthouse	你已解锁新音乐曲目：<colNum0>灯塔	gameText		
+You have unlocked a new music track: <colNum0>Lightness	你已解锁新音乐曲目：<colNum0>轻盈	gameText		
+You have unlocked a new music track: <colNum0>Lightwalk	你已解锁新音乐曲目：<colNum0>光之行	gameText		
+You have unlocked a new music track: <colNum0>Little Cave of Horrors	你已解锁新音乐曲目：<colNum0>恐怖小洞穴	gameText		
+You have unlocked a new music track: <colNum0>Lonesome	你已解锁新音乐曲目：<colNum0>孤独	gameText		
+You have unlocked a new music track: <colNum0>Long Ago	你已解锁新音乐曲目：<colNum0>很久以前	gameText		
+You have unlocked a new music track: <colNum0>Long Way Home	你已解锁新音乐曲目：<colNum0>归途漫漫	gameText		
+You have unlocked a new music track: <colNum0>The Longramble Scramble	你已解锁新音乐曲目：<colNum0>朗拉姆布尔的争夺	gameText		
+You have unlocked a new music track: <colNum0>Look to the Stars	你已解锁新音乐曲目：<colNum0>仰望星空	gameText		
+You have unlocked a new music track: <colNum0>Looking Back	你已解锁新音乐曲目：<colNum0>回首	gameText		
+You have unlocked a new music track: <colNum0>Lore and Order	你已解锁新音乐曲目：<colNum0>传说与秩序	gameText		
+You have unlocked a new music track: <colNum0>The Lost Melody	你已解锁新音乐曲目：<colNum0>失落的旋律	gameText		
+You have unlocked a new music track: <colNum0>Lost Soul	你已解锁新音乐曲目：<colNum0>迷失的灵魂	gameText		
+You have unlocked a new music track: <colNum0>Lost to Time	你已解锁新音乐曲目：<colNum0>湮没于时光之中	gameText		
+You have unlocked a new music track: <colNum0>The Lost Tribe	你已解锁新音乐曲目：<colNum0>失落的部落	gameText		
+You have unlocked a new music track: <colNum0>Lower Depths	你已解锁新音乐曲目：<colNum0>深层	gameText		
+You have unlocked a new music track: <colNum0>Lucid Dream	你已解锁新音乐曲目：<colNum0>清明梦	gameText		
+You have unlocked a new music track: <colNum0>Lucid Nightmare	你已解锁新音乐曲目：<colNum0>清醒噩梦	gameText		
+You have unlocked a new music track: <colNum0>Lullaby	你已解锁新音乐曲目：<colNum0>摇篮曲	gameText		
+You have unlocked a new music track: <colNum0>Lumbering	你已解锁新音乐曲目：<colNum0>伐木	gameText		
+You have unlocked a new music track: <colNum0>The Lunar Isle	你已解锁新音乐曲目：<colNum0>月亮岛	gameText		
+You have unlocked a new music track: <colNum0>Lurking Threats	你已解锁新音乐曲目：<colNum0>潜伏的威胁	gameText		
+You have unlocked a new music track: <colNum0>Mad Eadgar	你已解锁新音乐曲目：<colNum0>疯狂的埃德加	gameText		
+You have unlocked a new music track: <colNum0>The Mad Mole	你已解锁新音乐曲目：<colNum0>疯狂的鼹鼠	gameText		
+You have unlocked a new music track: <colNum0>Mage Arena	你已解锁新音乐曲目：<colNum0>魔法师竞技场	gameText		
+You have unlocked a new music track: <colNum0>Magic Dance	你已解锁新音乐曲目：<colNum0>魔法之舞	gameText		
+You have unlocked a new music track: <colNum0>Magic Magic Magic	你已解锁新音乐曲目：<colNum0>魔法，魔法，魔法	gameText		
+You have unlocked a new music track: <colNum0>Magical Journey	你已解锁新音乐曲目：<colNum0>魔法之旅	gameText		
+You have unlocked a new music track: <colNum0>The Maiden's Anger	你已解锁新音乐曲目：<colNum0>少女的愤怒	gameText		
+You have unlocked a new music track: <colNum0>The Maiden's Sorrow	你已解锁新音乐曲目：<colNum0>少女的悲伤	gameText		
+You have unlocked a new music track: <colNum0>Major Miner	你已解锁新音乐曲目：<colNum0>主要矿工	gameText		
+You have unlocked a new music track: <colNum0>Making Waves	你已解锁新音乐曲目：<colNum0>掀起波澜	gameText		
+You have unlocked a new music track: <colNum0>Malady	你已解锁新音乐曲目：<colNum0>疾病	gameText		
+You have unlocked a new music track: <colNum0>March	你已解锁新音乐曲目：<colNum0>行进	gameText		
+You have unlocked a new music track: <colNum0>March of the Shayzien	你已解锁新音乐曲目：<colNum0>谢兹恩进行曲	gameText		
+You have unlocked a new music track: <colNum0>Marooned	你已解锁新音乐曲目：<colNum0>被困	gameText		
+You have unlocked a new music track: <colNum0>Marzipan	你已解锁新音乐曲目：<colNum0>杏仁糖	gameText		
+You have unlocked a new music track: <colNum0>Masquerade	你已解锁新音乐曲目：<colNum0>假面舞会	gameText		
+You have unlocked a new music track: <colNum0>Master of Puppets	你已解锁新音乐曲目：<colNum0>傀儡大师	gameText		
+You have unlocked a new music track: <colNum0>Mastermindless	你已解锁新音乐曲目：<colNum0>毫无主见	gameText		
+You have unlocked a new music track: <colNum0>A Matter of Intrigue	你已解锁新音乐曲目：<colNum0>阴谋之事	gameText		
+You have unlocked a new music track: <colNum0>Mausoleum	你已解锁新音乐曲目：<colNum0>陵墓	gameText		
+You have unlocked a new music track: <colNum0>Maws Jaws & Claws	你已解锁新音乐曲目：<colNum0>嘴、颚与爪	gameText		
+You have unlocked a new music track: <colNum0>The Maze	你已解锁新音乐曲目：<colNum0>迷宫	gameText		
+You have unlocked a new music track: <colNum0>Meddling Kids	你已解锁新音乐曲目：<colNum0>多管闲事的孩子们	gameText		
+You have unlocked a new music track: <colNum0>Medieval	你已解锁新音乐曲目：<colNum0>中世纪	gameText		
+You have unlocked a new music track: <colNum0>Mellow	你已解锁新音乐曲目：<colNum0>柔和	gameText		
+You have unlocked a new music track: <colNum0>Melodrama	你已解锁新音乐曲目：<colNum0>情节剧	gameText		
+You have unlocked a new music track: <colNum0>Meridian	你已解锁新音乐曲目：<colNum0>子午线	gameText		
+You have unlocked a new music track: <colNum0>Method of Madness	你已解锁新音乐曲目：<colNum0>疯狂之法	gameText		
+You have unlocked a new music track: <colNum0>Miles Away	你已解锁新音乐曲目：<colNum0>千里之外	gameText		
+You have unlocked a new music track: <colNum0>Military Life	你已解锁新音乐曲目：<colNum0>军旅生活	gameText		
+You have unlocked a new music track: <colNum0>The Militia	你已解锁新音乐曲目：<colNum0>民兵	gameText		
+You have unlocked a new music track: <colNum0>Mind over Matter	你已解锁新音乐曲目：<colNum0>意志胜于物质	gameText		
+You have unlocked a new music track: <colNum0>Miracle Dance	你已解锁新音乐曲目：<colNum0>奇迹之舞	gameText		
+You have unlocked a new music track: <colNum0>Mirage	你已解锁新音乐曲目：<colNum0>海市蜃楼	gameText		
+You have unlocked a new music track: <colNum0>Miscellania	你已解锁新音乐曲目：<colNum0>米斯凯尼亚	gameText		
+You have unlocked a new music track: <colNum0>Mistrock	你已解锁新音乐曲目：<colNum0>米斯特洛克	gameText		
+You have unlocked a new music track: <colNum0>The Mollusc Menace	你已解锁新音乐曲目：<colNum0>软体动物的威胁	gameText		
+You have unlocked a new music track: <colNum0>Monarch Waltz	你已解锁新音乐曲目：<colNum0>君主华尔兹	gameText		
+You have unlocked a new music track: <colNum0>Monkey Badness	你已解锁新音乐曲目：<colNum0>猴子的恶行	gameText		
+You have unlocked a new music track: <colNum0>Monkey Business	你已解锁新音乐曲目：<colNum0>猴子的把戏	gameText		
+You have unlocked a new music track: <colNum0>Monkey Madness	你已解锁新音乐曲目：<colNum0>疯狂的猴子	gameText		
+You have unlocked a new music track: <colNum0>Monkey Sadness	你已解锁新音乐曲目：<colNum0>猴子的悲伤	gameText		
+You have unlocked a new music track: <colNum0>Monkey Trouble	你已解锁新音乐曲目：<colNum0>猴子的麻烦	gameText		
+You have unlocked a new music track: <colNum0>Monster Melee	你已解锁新音乐曲目：<colNum0>怪物近战	gameText		
+You have unlocked a new music track: <colNum0>The Monsters Below	你已解锁新音乐曲目：<colNum0>下方的怪物	gameText		
+You have unlocked a new music track: <colNum0>Moody	你已解锁新音乐曲目：<colNum0>喜怒无常	gameText		
+You have unlocked a new music track: <colNum0>The Moons of Ruin	你已解锁新音乐曲目：<colNum0>毁灭之月	gameText		
+You have unlocked a new music track: <colNum0>Mor Ul Rek	你已解锁新音乐曲目：<colNum0>莫尔乌尔雷克	gameText		
+You have unlocked a new music track: <colNum0>More Than Meets the Eye	你已解锁新音乐曲目：<colNum0>不止所见	gameText		
+You have unlocked a new music track: <colNum0>Morytania	你已解锁新音乐曲目：<colNum0>莫利塔尼亚	gameText		
+You have unlocked a new music track: <colNum0>Morytanian Mystery	你已解锁新音乐曲目：<colNum0>莫利塔尼亚之谜	gameText		
+You have unlocked a new music track: <colNum0>Mother Ruckus	你已解锁新音乐曲目：<colNum0>母亲骚动	gameText		
+You have unlocked a new music track: <colNum0>A Mother's Curse	你已解锁新音乐曲目：<colNum0>母亲的诅咒	gameText		
+You have unlocked a new music track: <colNum0>Mouse Trap	你已解锁新音乐曲目：<colNum0>老鼠陷阱	gameText		
+You have unlocked a new music track: <colNum0>Mudskipper Melody	你已解锁新音乐曲目：<colNum0>弹涂鱼旋律	gameText		
+You have unlocked a new music track: <colNum0>Museum Medley	你已解锁新音乐曲目：<colNum0>博物馆杂集	gameText		
+You have unlocked a new music track: <colNum0>Mutant Medley	你已解锁新音乐曲目：<colNum0>变异杂集	gameText		
+You have unlocked a new music track: <colNum0>My Arm's Journey	你已解锁新音乐曲目：<colNum0>我的手臂'之旅	gameText		
+You have unlocked a new music track: <colNum0>Mysterious Lands	你已解锁新音乐曲目：<colNum0>神秘之地	gameText		
+You have unlocked a new music track: <colNum0>Mystics of Nature	你已解锁新音乐曲目：<colNum0>自然之谜	gameText		
+You have unlocked a new music track: <colNum0>Mythical	你已解锁新音乐曲目：<colNum0>神话	gameText		
+You have unlocked a new music track: <colNum0>Narnode's Theme	你已解锁新音乐曲目：<colNum0>纳罗德的主题	gameText		
+You have unlocked a new music track: <colNum0>Natural	你已解锁新音乐曲目：<colNum0>自然	gameText		
+You have unlocked a new music track: <colNum0>The Navigator	你已解锁新音乐曲目：<colNum0>航海家	gameText		
+You have unlocked a new music track: <colNum0>Nether Realm	你已解锁新音乐曲目：<colNum0>幽冥领域	gameText		
+You have unlocked a new music track: <colNum0>Neverland	你已解锁新音乐曲目：<colNum0>梦幻岛	gameText		
+You have unlocked a new music track: <colNum0>Newbie Farming	你已解锁新音乐曲目：<colNum0>新手农业	gameText		
+You have unlocked a new music track: <colNum0>Newbie Melody	你已解锁新音乐曲目：<colNum0>新手旋律	gameText		
+You have unlocked a new music track: <colNum0>Night of the Vampyre	你已解锁新音乐曲目：<colNum0>吸血鬼之夜	gameText		
+You have unlocked a new music track: <colNum0>Nightfall	你已解锁新音乐曲目：<colNum0>黄昏	gameText		
+You have unlocked a new music track: <colNum0>The Nightmare Continues	你已解锁新音乐曲目：<colNum0>噩梦仍在继续	gameText		
+You have unlocked a new music track: <colNum0>No Pasaran	你已解锁新音乐曲目：<colNum0>不可通行	gameText		
+You have unlocked a new music track: <colNum0>No Way Out	你已解锁新音乐曲目：<colNum0>无路可逃	gameText		
+You have unlocked a new music track: <colNum0>The Noble Rodent	你已解锁新音乐曲目：<colNum0>高贵的啮齿动物	gameText		
+You have unlocked a new music track: <colNum0>Nomad	你已解锁新音乐曲目：<colNum0>游牧民	gameText		
+You have unlocked a new music track: <colNum0>Norse Code	你已解锁新音乐曲目：<colNum0>北欧法典	gameText		
+You have unlocked a new music track: <colNum0>The North	你已解锁新音乐曲目：<colNum0>北方	gameText		
+You have unlocked a new music track: <colNum0>Not a Moment of Relief	你已解锁新音乐曲目：<colNum0>不得安宁	gameText		
+You have unlocked a new music track: <colNum0>Nox Irae	你已解锁新音乐曲目：<colNum0>愤怒之夜	gameText		
+You have unlocked a new music track: <colNum0>Noxious Awakening	你已解锁新音乐曲目：<colNum0>有毒的觉醒	gameText		
+You have unlocked a new music track: <colNum0>Null and Void	你已解锁新音乐曲目：<colNum0>无效	gameText		
+You have unlocked a new music track: <colNum0>Ogre the Top	你已解锁新音乐曲目：<colNum0>食人魔之巅	gameText		
+You have unlocked a new music track: <colNum0>Oh Rats!	你已解锁新音乐曲目：<colNum0>哦，老鼠！	gameText		
+You have unlocked a new music track: <colNum0>The Old Ones	你已解锁新音乐曲目：<colNum0>古老者	gameText		
+You have unlocked a new music track: <colNum0>On the Frontline	你已解锁新音乐曲目：<colNum0>前线	gameText		
+You have unlocked a new music track: <colNum0>On the Shore	你已解锁新音乐曲目：<colNum0>在岸边	gameText		
+You have unlocked a new music track: <colNum0>On the Up	你已解锁新音乐曲目：<colNum0>蒸蒸日上	gameText		
+You have unlocked a new music track: <colNum0>On the Wing	你已解锁新音乐曲目：<colNum0>展翅飞翔	gameText		
+You have unlocked a new music track: <colNum0>On Thin Ice	你已解锁新音乐曲目：<colNum0>如履薄冰	gameText		
+You have unlocked a new music track: <colNum0>Oncoming Foe	你已解锁新音乐曲目：<colNum0>来犯之敌	gameText		
+You have unlocked a new music track: <colNum0>Organ Music <Num0>	你已解锁新音乐曲目：<colNum0>风琴音乐<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Oriental	你已解锁新音乐曲目：<colNum0>东方	gameText		
+You have unlocked a new music track: <colNum0>The Other Side	你已解锁新音乐曲目：<colNum0>另一边	gameText		
+You have unlocked a new music track: <colNum0>Out at the Mines	你已解锁新音乐曲目：<colNum0>在矿场	gameText		
+You have unlocked a new music track: <colNum0>Out of the Deep	你已解锁新音乐曲目：<colNum0>出自深渊	gameText		
+You have unlocked a new music track: <colNum0>Over the Horizon	你已解锁新音乐曲目：<colNum0>地平线之外	gameText		
+You have unlocked a new music track: <colNum0>Over the Mountains	你已解锁新音乐曲目：<colNum0>翻山越岭	gameText		
+You have unlocked a new music track: <colNum0>Over to Nardah	你已解锁新音乐曲目：<colNum0>前往那尔达城	gameText		
+You have unlocked a new music track: <colNum0>Overpass	你已解锁新音乐曲目：<colNum0>天桥	gameText		
+You have unlocked a new music track: <colNum0>Overture	你已解锁新音乐曲目：<colNum0>序曲	gameText		
+You have unlocked a new music track: <colNum0>Parade	你已解锁新音乐曲目：<colNum0>游行	gameText		
+You have unlocked a new music track: <colNum0>The Part Where You Die	你已解锁新音乐曲目：<colNum0>死亡之章	gameText		
+You have unlocked a new music track: <colNum0>Path of Peril	你已解锁新音乐曲目：<colNum0>危险之路	gameText		
+You have unlocked a new music track: <colNum0>Pathways	你已解锁新音乐曲目：<colNum0>路径	gameText		
+You have unlocked a new music track: <colNum0>Peace and Prosperity	你已解锁新音乐曲目：<colNum0>和平与繁荣	gameText		
+You have unlocked a new music track: <colNum0>The Penguin Bards	你已解锁新音乐曲目：<colNum0>吟游诗鹅	gameText		
+You have unlocked a new music track: <colNum0>Penguin Plots	你已解锁新音乐曲目：<colNum0>企鹅的阴谋	gameText		
+You have unlocked a new music track: <colNum0>Pest Control	你已解锁新音乐曲目：<colNum0>虫害治理	gameText		
+You have unlocked a new music track: <colNum0>The Pharaoh	你已解锁新音乐曲目：<colNum0>法老	gameText		
+You have unlocked a new music track: <colNum0>Pharaoh's Tomb	你已解锁新音乐曲目：<colNum0>法老之墓	gameText		
+You have unlocked a new music track: <colNum0>Phasmatys	你已解锁新音乐曲目：<colNum0>法斯提斯	gameText		
+You have unlocked a new music track: <colNum0>Pheasant Peasant	你已解锁新音乐曲目：<colNum0>雉鸡农民	gameText		
+You have unlocked a new music track: <colNum0>Pick & Shovel	你已解锁新音乐曲目：<colNum0>镐与铲	gameText		
+You have unlocked a new music track: <colNum0>Pinball Wizard	你已解锁新音乐曲目：<colNum0>弹球法师	gameText		
+You have unlocked a new music track: <colNum0>Pirates of Penance	你已解锁新音乐曲目：<colNum0>忏悔海盗	gameText		
+You have unlocked a new music track: <colNum0>Pirates of Peril	你已解锁新音乐曲目：<colNum0>危险海盗	gameText		
+You have unlocked a new music track: <colNum0>Plots and Plans	你已解锁新音乐曲目：<colNum0>阴谋与计划	gameText		
+You have unlocked a new music track: <colNum0>The Plundered Tomb	你已解锁新音乐曲目：<colNum0>被掠夺的坟墓	gameText		
+You have unlocked a new music track: <colNum0>Poles Apart	你已解锁新音乐曲目：<colNum0>截然不同	gameText		
+You have unlocked a new music track: <colNum0>The Power of Tears	你已解锁新音乐曲目：<colNum0>眼泪的力量	gameText		
+You have unlocked a new music track: <colNum0>Power of the Shadow Realm	你已解锁新音乐曲目：<colNum0>阴影领域的力量	gameText		
+You have unlocked a new music track: <colNum0>Predator Xarpus	你已解锁新音乐曲目：<colNum0>掠食者扎普斯	gameText		
+You have unlocked a new music track: <colNum0>Preservation	你已解锁新音乐曲目：<colNum0>保存	gameText		
+You have unlocked a new music track: <colNum0>Preserved	你已解锁新音乐曲目：<colNum0>保存完好	gameText		
+You have unlocked a new music track: <colNum0>Prime Time	你已解锁新音乐曲目：<colNum0>黄金时段	gameText		
+You have unlocked a new music track: <colNum0>Principality	你已解锁新音乐曲目：<colNum0>公国	gameText		
+You have unlocked a new music track: <colNum0>Prison Break	你已解锁新音乐曲目：<colNum0>越狱	gameText		
+You have unlocked a new music track: <colNum0>Prospering Fortune	你已解锁新音乐曲目：<colNum0>繁荣的财富	gameText		
+You have unlocked a new music track: <colNum0>Quest	你已解锁新音乐曲目：<colNum0>任务	gameText		
+You have unlocked a new music track: <colNum0>The Quizmaster	你已解锁新音乐曲目：<colNum0>问答大师	gameText		
+You have unlocked a new music track: <colNum0>Race Against the Clock	你已解锁新音乐曲目：<colNum0>与时间赛跑	gameText		
+You have unlocked a new music track: <colNum0>Rat a Tat Tat	你已解锁新音乐曲目：<colNum0>咚咚咚	gameText		
+You have unlocked a new music track: <colNum0>Rat Hunt	你已解锁新音乐曲目：<colNum0>捕鼠	gameText		
+You have unlocked a new music track: <colNum0>Ready for Battle	你已解锁新音乐曲目：<colNum0>准备战斗	gameText		
+You have unlocked a new music track: <colNum0>Ready for the Hunt	你已解锁新音乐曲目：<colNum0>准备狩猎	gameText		
+You have unlocked a new music track: <colNum0>Regal	你已解锁新音乐曲目：<colNum0>皇家	gameText		
+You have unlocked a new music track: <colNum0>Regal Pomp	你已解锁新音乐曲目：<colNum0>皇家盛况	gameText		
+You have unlocked a new music track: <colNum0>Reggae	你已解锁新音乐曲目：<colNum0>雷鬼	gameText		
+You have unlocked a new music track: <colNum0>Reggae <Num0>	你已解锁新音乐曲目：<colNum0>雷鬼<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Reign of the Basilisk	你已解锁新音乐曲目：<colNum0>石化蜥蜴统治	gameText		
+You have unlocked a new music track: <colNum0>Relics	你已解锁新音乐曲目：<colNum0>遗物	gameText		
+You have unlocked a new music track: <colNum0>Rellekka	你已解锁新音乐曲目：<colNum0>雷勒卡	gameText		
+You have unlocked a new music track: <colNum0>Remote Waters	你已解锁新音乐曲目：<colNum0>偏远水域	gameText		
+You have unlocked a new music track: <colNum0>Rest in Peace	你已解锁新音乐曲目：<colNum0>安息	gameText		
+You have unlocked a new music track: <colNum0>Revenants	你已解锁新音乐曲目：<colNum0>亡灵	gameText		
+You have unlocked a new music track: <colNum0>Rhapsody	你已解锁新音乐曲目：<colNum0>狂想曲	gameText		
+You have unlocked a new music track: <colNum0>Right on Track	你已解锁新音乐曲目：<colNum0>正轨	gameText		
+You have unlocked a new music track: <colNum0>Righteousness	你已解锁新音乐曲目：<colNum0>正义	gameText		
+You have unlocked a new music track: <colNum0>Rising Damp	你已解锁新音乐曲目：<colNum0>返潮	gameText		
+You have unlocked a new music track: <colNum0>The Rising Sun	你已解锁新音乐曲目：<colNum0>旭日东升	gameText		
+You have unlocked a new music track: <colNum0>Riverside	你已解锁新音乐曲目：<colNum0>河畔	gameText		
+You have unlocked a new music track: <colNum0>Roc and Roll	你已解锁新音乐曲目：<colNum0>摇滚	gameText		
+You have unlocked a new music track: <colNum0>The Rogues' Den	你已解锁新音乐曲目：<colNum0>盗贼巢穴	gameText		
+You have unlocked a new music track: <colNum0>Roll the Bones	你已解锁新音乐曲目：<colNum0>掷骨	gameText		
+You have unlocked a new music track: <colNum0>Romancing the Crone	你已解锁新音乐曲目：<colNum0>爱上老巫婆	gameText		
+You have unlocked a new music track: <colNum0>Romper Chomper	你已解锁新音乐曲目：<colNum0>破坏咀嚼者	gameText		
+You have unlocked a new music track: <colNum0>Roots and Flutes	你已解锁新音乐曲目：<colNum0>根与笛	gameText		
+You have unlocked a new music track: <colNum0>Rose	你已解锁新音乐曲目：<colNum0>玫瑰	gameText		
+You have unlocked a new music track: <colNum0>The Route of All Evil	你已解锁新音乐曲目：<colNum0>万恶之源	gameText		
+You have unlocked a new music track: <colNum0>The Route of the Problem	你已解锁新音乐曲目：<colNum0>问题之路	gameText		
+You have unlocked a new music track: <colNum0>Royale	你已解锁新音乐曲目：<colNum0>皇家	gameText		
+You have unlocked a new music track: <colNum0>Rugged Terrain	你已解锁新音乐曲目：<colNum0>崎岖地形	gameText		
+You have unlocked a new music track: <colNum0>The Ruins of Camdozaal	你已解锁新音乐曲目：<colNum0>坎多扎尔废墟	gameText		
+You have unlocked a new music track: <colNum0>Ruins of Isolation	你已解锁新音乐曲目：<colNum0>孤立废墟	gameText		
+You have unlocked a new music track: <colNum0>Rune Essence	你已解锁新音乐曲目：<colNum0>符文精华	gameText		
+You have unlocked a new music track: <colNum0>Sad Meadow	你已解锁新音乐曲目：<colNum0>悲伤草地	gameText		
+You have unlocked a new music track: <colNum0>Safety in Numbers	你已解锁新音乐曲目：<colNum0>人多安全	gameText		
+You have unlocked a new music track: <colNum0>Saga	你已解锁新音乐曲目：<colNum0>传奇	gameText		
+You have unlocked a new music track: <colNum0>A Sailor's Dream	你已解锁新音乐曲目：<colNum0>水手之梦	gameText		
+You have unlocked a new music track: <colNum0>Sands of Time	你已解锁新音乐曲目：<colNum0>时间之沙	gameText		
+You have unlocked a new music track: <colNum0>Sarachnis	你已解锁新音乐曲目：<colNum0>萨拉奇尼斯	gameText		
+You have unlocked a new music track: <colNum0>Sarcophagus	你已解锁新音乐曲目：<colNum0>石棺	gameText		
+You have unlocked a new music track: <colNum0>Sarim's Vermin	你已解锁新音乐曲目：<colNum0>沙林的害虫	gameText		
+You have unlocked a new music track: <colNum0>Scape Ape	你已解锁新音乐曲目：<colNum0>OSRS - 猿猴	gameText		
+You have unlocked a new music track: <colNum0>Scape Cave	你已解锁新音乐曲目：<colNum0>OSRS - 洞穴	gameText		
+You have unlocked a new music track: <colNum0>Scape Crystal	你已解锁新音乐曲目：<colNum0>OSRS - 水晶	gameText		
+You have unlocked a new music track: <colNum0>Scape Five	你已解锁新音乐曲目：<colNum0>OSRS - 五周年	gameText		
+You have unlocked a new music track: <colNum0>Scape Ground	你已解锁新音乐曲目：<colNum0>OSRS - 景观地面	gameText		
+You have unlocked a new music track: <colNum0>Scape Home	你已解锁新音乐曲目：<colNum0>OSRS - 景观家园	gameText		
+You have unlocked a new music track: <colNum0>Scape Hunter	你已解锁新音乐曲目：<colNum0>OSRS - 猎人	gameText		
+You have unlocked a new music track: <colNum0>Scape Main	你已解锁新音乐曲目：<colNum0>OSRS - 主题	gameText		
+You have unlocked a new music track: <colNum0>Scape Original	你已解锁新音乐曲目：<colNum0>OSRS - 原创	gameText		
+You have unlocked a new music track: <colNum0>Scape Sad	你已解锁新音乐曲目：<colNum0>OSRS - 悲伤	gameText		
+You have unlocked a new music track: <colNum0>Scape Sail	你已解锁新音乐曲目：<colNum0>OSRS - 航行	gameText		
+You have unlocked a new music track: <colNum0>Scape Santa	你已解锁新音乐曲目：<colNum0>OSRS - 圣诞节	gameText		
+You have unlocked a new music track: <colNum0>Scape Scared	你已解锁新音乐曲目：<colNum0>OSRS - 惊恐	gameText		
+You have unlocked a new music track: <colNum0>Scape Soft	你已解锁新音乐曲目：<colNum0>OSRS - 柔和	gameText		
+You have unlocked a new music track: <colNum0>Scape Wild	你已解锁新音乐曲目：<colNum0>OSRS - 荒野	gameText		
+You have unlocked a new music track: <colNum0>Scar Tissue	你已解锁新音乐曲目：<colNum0>疤痕组织	gameText		
+You have unlocked a new music track: <colNum0>Scarab	你已解锁新音乐曲目：<colNum0>圣甲虫	gameText		
+You have unlocked a new music track: <colNum0>School's Out	你已解锁新音乐曲目：<colNum0>放学了	gameText		
+You have unlocked a new music track: <colNum0>Scorching Horizon	你已解锁新音乐曲目：<colNum0>灼热地平线	gameText		
+You have unlocked a new music track: <colNum0>Scorpia Dances	你已解锁新音乐曲目：<colNum0>天蝎之舞	gameText		
+You have unlocked a new music track: <colNum0>Scrubfoot's Descent	你已解锁新音乐曲目：<colNum0>斯克鲁布福特的下降	gameText		
+You have unlocked a new music track: <colNum0>Sea Minor Shanty	你已解锁新音乐曲目：<colNum0>海小歌	gameText		
+You have unlocked a new music track: <colNum0>Sea Shanty	你已解锁新音乐曲目：<colNum0>海歌	gameText		
+You have unlocked a new music track: <colNum0>Sea Shanty <Num0>	你已解锁新音乐曲目：<colNum0>海歌<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Sea Shanty Xmas	你已解锁新音乐曲目：<colNum0>圣诞海歌	gameText		
+You have unlocked a new music track: <colNum0>Secrets of the North	你已解锁新音乐曲目：<colNum0>北方的秘密	gameText		
+You have unlocked a new music track: <colNum0>The Seed of Crwys	你已解锁新音乐曲目：<colNum0>克鲁维斯之种	gameText		
+You have unlocked a new music track: <colNum0>Serenade	你已解锁新音乐曲目：<colNum0>小夜曲	gameText		
+You have unlocked a new music track: <colNum0>Serene	你已解锁新音乐曲目：<colNum0>宁静	gameText		
+You have unlocked a new music track: <colNum0>Servants of Strife	你已解锁新音乐曲目：<colNum0>纷争的仆从	gameText		
+You have unlocked a new music track: <colNum0>Set Sail	你已解锁新音乐曲目：<colNum0>扬帆起航	gameText		
+You have unlocked a new music track: <colNum0>The Setting Sun	你已解锁新音乐曲目：<colNum0>落日余晖	gameText		
+You have unlocked a new music track: <colNum0>Settlement	你已解锁新音乐曲目：<colNum0>定居点	gameText		
+You have unlocked a new music track: <colNum0>Shadow of the Ocean	你已解锁新音乐曲目：<colNum0>海洋之影	gameText		
+You have unlocked a new music track: <colNum0>The Shadow	你已解锁新音乐曲目：<colNum0>阴影	gameText		
+You have unlocked a new music track: <colNum0>Shadowland	你已解锁新音乐曲目：<colNum0>阴影之地	gameText		
+You have unlocked a new music track: <colNum0>Sharp End of the Crystal	你已解锁新音乐曲目：<colNum0>水晶的锋芒	gameText		
+You have unlocked a new music track: <colNum0>Shattered Relics	你已解锁新音乐曲目：<colNum0>破碎遗物	gameText		
+You have unlocked a new music track: <colNum0>Shine	你已解锁新音乐曲目：<colNum0>闪耀	gameText		
+You have unlocked a new music track: <colNum0>Shining	你已解锁新音乐曲目：<colNum0>发光	gameText		
+You have unlocked a new music track: <colNum0>Shining Spirit	你已解锁新音乐曲目：<colNum0>闪耀的灵魂	gameText		
+You have unlocked a new music track: <colNum0>Shipwrecked	你已解锁新音乐曲目：<colNum0>遇难	gameText		
+You have unlocked a new music track: <colNum0>Showdown	你已解锁新音乐曲目：<colNum0>对决	gameText		
+You have unlocked a new music track: <colNum0>Sigmund's Showdown	你已解锁新音乐曲目：<colNum0>西格蒙德的对决	gameText		
+You have unlocked a new music track: <colNum0>Sign Here	你已解锁新音乐曲目：<colNum0>在此签名	gameText		
+You have unlocked a new music track: <colNum0>The Sinclairs	你已解锁新音乐曲目：<colNum0>辛克莱尔家族	gameText		
+You have unlocked a new music track: <colNum0>The Slayer	你已解锁新音乐曲目：<colNum0>杀戮	gameText		
+You have unlocked a new music track: <colNum0>Slice of Silent Movie	你已解锁新音乐曲目：<colNum0>无声电影片段	gameText		
+You have unlocked a new music track: <colNum0>Slice of Station	你已解锁新音乐曲目：<colNum0>车站片段	gameText		
+You have unlocked a new music track: <colNum0>Slither and Thither	你已解锁新音乐曲目：<colNum0>滑来滑去	gameText		
+You have unlocked a new music track: <colNum0>Slug a Bug Ball	你已解锁新音乐曲目：<colNum0>蛞蝓虫球	gameText		
+You have unlocked a new music track: <colNum0>Snowflake & My Arm	你已解锁新音乐曲目：<colNum0>雪花与我的手臂	gameText		
+You have unlocked a new music track: <colNum0>Sojourn	你已解锁新音乐曲目：<colNum0>逗留	gameText		
+You have unlocked a new music track: <colNum0>Song of the Elves	你已解锁新音乐曲目：<colNum0>精灵之歌	gameText		
+You have unlocked a new music track: <colNum0>Song of the Silent Choir	你已解锁新音乐曲目：<colNum0>静默合唱团之歌	gameText		
+You have unlocked a new music track: <colNum0>Sorceress's Garden	你已解锁新音乐曲目：<colNum0>女巫的花园	gameText		
+You have unlocked a new music track: <colNum0>Soul Fall	你已解锁新音乐曲目：<colNum0>灵魂陨落	gameText		
+You have unlocked a new music track: <colNum0>Soul Wars	你已解锁新音乐曲目：<colNum0>灵魂战争	gameText		
+You have unlocked a new music track: <colNum0>The Sound of Guthix	你已解锁新音乐曲目：<colNum0>古斯之声	gameText		
+You have unlocked a new music track: <colNum0>Soundscape	你已解锁新音乐曲目：<colNum0>音景	gameText		
+You have unlocked a new music track: <colNum0>Sphinx	你已解锁新音乐曲目：<colNum0>狮身人面像	gameText		
+You have unlocked a new music track: <colNum0>Spirit	你已解锁新音乐曲目：<colNum0>灵魂	gameText		
+You have unlocked a new music track: <colNum0>Spirit of the Forest	你已解锁新音乐曲目：<colNum0>森林之灵	gameText		
+You have unlocked a new music track: <colNum0>Spiritbloom	你已解锁新音乐曲目：<colNum0>灵花绽放	gameText		
+You have unlocked a new music track: <colNum0>Spirits of the Elid	你已解锁新音乐曲目：<colNum0>埃利德之灵	gameText		
+You have unlocked a new music track: <colNum0>Splendour	你已解锁新音乐曲目：<colNum0>辉煌	gameText		
+You have unlocked a new music track: <colNum0>Spooky	你已解锁新音乐曲目：<colNum0>诡异	gameText		
+You have unlocked a new music track: <colNum0>Spooky <Num0>	你已解锁新音乐曲目：<colNum0>诡异<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Spooky Jungle	你已解锁新音乐曲目：<colNum0>诡异丛林	gameText		
+You have unlocked a new music track: <colNum0>The Spurned Demon	你已解锁新音乐曲目：<colNum0>被抛弃的恶魔	gameText		
+You have unlocked a new music track: <colNum0>The Spymaster	你已解锁新音乐曲目：<colNum0>间谍大师	gameText		
+You have unlocked a new music track: <colNum0>Stagnant	你已解锁新音乐曲目：<colNum0>停滞	gameText		
+You have unlocked a new music track: <colNum0>Stalkers	你已解锁新音乐曲目：<colNum0>潜伏者	gameText		
+You have unlocked a new music track: <colNum0>Stand Up and Be Counted	你已解锁新音乐曲目：<colNum0>站起来被计数	gameText		
+You have unlocked a new music track: <colNum0>Starlight	你已解锁新音乐曲目：<colNum0>星光	gameText		
+You have unlocked a new music track: <colNum0>Start	你已解锁新音乐曲目：<colNum0>开始	gameText		
+You have unlocked a new music track: <colNum0>Still Night	你已解锁新音乐曲目：<colNum0>静夜	gameText		
+You have unlocked a new music track: <colNum0>Stillness	你已解锁新音乐曲目：<colNum0>静止	gameText		
+You have unlocked a new music track: <colNum0>Stones of Old	你已解锁新音乐曲目：<colNum0>古老之石	gameText		
+You have unlocked a new music track: <colNum0>Storeroom Shuffle	你已解锁新音乐曲目：<colNum0>储藏室舞步	gameText		
+You have unlocked a new music track: <colNum0>Storm Brew	你已解锁新音乐曲目：<colNum0>酝酿风暴	gameText		
+You have unlocked a new music track: <colNum0>Stranded	你已解锁新音乐曲目：<colNum0>被困	gameText		
+You have unlocked a new music track: <colNum0>Strange Place	你已解锁新音乐曲目：<colNum0>奇异之地	gameText		
+You have unlocked a new music track: <colNum0>Strangled	你已解锁新音乐曲目：<colNum0>绞杀	gameText		
+You have unlocked a new music track: <colNum0>Stratosphere	你已解锁新音乐曲目：<colNum0>平流层	gameText		
+You have unlocked a new music track: <colNum0>Strength of Saradomin	你已解锁新音乐曲目：<colNum0>萨拉多明之力	gameText		
+You have unlocked a new music track: <colNum0>Stuck in the Mire	你已解锁新音乐曲目：<colNum0>陷入泥潭	gameText		
+You have unlocked a new music track: <colNum0>Subterranea	你已解锁新音乐曲目：<colNum0>地下	gameText		
+You have unlocked a new music track: <colNum0>Sunburn	你已解锁新音乐曲目：<colNum0>晒伤	gameText		
+You have unlocked a new music track: <colNum0>Sunny Side Up	你已解锁新音乐曲目：<colNum0>阳光明媚	gameText		
+You have unlocked a new music track: <colNum0>Superstition	你已解锁新音乐曲目：<colNum0>迷信	gameText		
+You have unlocked a new music track: <colNum0>Surok's Theme	你已解锁新音乐曲目：<colNum0>苏洛克的主题	gameText		
+You have unlocked a new music track: <colNum0>Suspicious	你已解锁新音乐曲目：<colNum0>可疑	gameText		
+You have unlocked a new music track: <colNum0>Tale of Keldagrim	你已解锁新音乐曲目：<colNum0>凯尔达格林的故事	gameText		
+You have unlocked a new music track: <colNum0>The Talkasti People	你已解锁新音乐曲目：<colNum0>塔拉斯蒂族人	gameText		
+You have unlocked a new music track: <colNum0>Talking Forest	你已解锁新音乐曲目：<colNum0>会说话的森林	gameText		
+You have unlocked a new music track: <colNum0>Tarn Razorlor	你已解锁新音乐曲目：<colNum0>塔恩‧雷泽洛尔	gameText		
+You have unlocked a new music track: <colNum0>A Taste of Hope	你已解锁新音乐曲目：<colNum0>希望的味道	gameText		
+You have unlocked a new music track: <colNum0>Tears of Guthix	你已解锁新音乐曲目：<colNum0>古斯之泪	gameText		
+You have unlocked a new music track: <colNum0>Technology	你已解锁新音乐曲目：<colNum0>科技	gameText		
+You have unlocked a new music track: <colNum0>Teklan	你已解锁新音乐曲目：<colNum0>特克兰	gameText		
+You have unlocked a new music track: <colNum0>Tempest	你已解锁新音乐曲目：<colNum0>暴风雨	gameText		
+You have unlocked a new music track: <colNum0>Temple	你已解锁新音乐曲目：<colNum0>神殿	gameText		
+You have unlocked a new music track: <colNum0>Temple Desecrated	你已解锁新音乐曲目：<colNum0>亵渎的神殿	gameText		
+You have unlocked a new music track: <colNum0>Temple of Light	你已解锁新音乐曲目：<colNum0>光明神殿	gameText		
+You have unlocked a new music track: <colNum0>Temple of the Eye	你已解锁新音乐曲目：<colNum0>眼之神殿	gameText		
+You have unlocked a new music track: <colNum0>Temple of Tribes	你已解锁新音乐曲目：<colNum0>部落神殿	gameText		
+You have unlocked a new music track: <colNum0>Tempor of the Storm	你已解锁新音乐曲目：<colNum0>风暴海灵	gameText		
+You have unlocked a new music track: <colNum0>The Terrible Caverns	你已解锁新音乐曲目：<colNum0>恐怖洞穴	gameText		
+You have unlocked a new music track: <colNum0>The Terrible Tower	你已解锁新音乐曲目：<colNum0>可怕的塔	gameText		
+You have unlocked a new music track: <colNum0>The Terrible Tunnels	你已解锁新音乐曲目：<colNum0>恐怖隧道	gameText		
+You have unlocked a new music track: <colNum0>Terrorbird Tussle	你已解锁新音乐曲目：<colNum0>骇鸟之战	gameText		
+You have unlocked a new music track: <colNum0>Test of Companionship	你已解锁新音乐曲目：<colNum0>同伴考验	gameText		
+You have unlocked a new music track: <colNum0>Test of Isolation	你已解锁新音乐曲目：<colNum0>孤立考验	gameText		
+You have unlocked a new music track: <colNum0>Test of Resourcefulness	你已解锁新音乐曲目：<colNum0>机智考验	gameText		
+You have unlocked a new music track: <colNum0>Test of Strength	你已解锁新音乐曲目：<colNum0>力量考验	gameText		
+You have unlocked a new music track: <colNum0>Test Your Sails	你已解锁新音乐曲目：<colNum0>试炼风帆	gameText		
+You have unlocked a new music track: <colNum0>That Sullen Hall	你已解锁新音乐曲目：<colNum0>阴沉大厅	gameText		
+You have unlocked a new music track: <colNum0>Theme	你已解锁新音乐曲目：<colNum0>主题	gameText		
+You have unlocked a new music track: <colNum0>A Thorn in My Side	你已解锁新音乐曲目：<colNum0>眼中钉	gameText		
+You have unlocked a new music track: <colNum0>Thrall of the Devourer	你已解锁新音乐曲目：<colNum0>吞噬者的奴仆	gameText		
+You have unlocked a new music track: <colNum0>Thrall of the Serpent	你已解锁新音乐曲目：<colNum0>蛇的奴仆	gameText		
+You have unlocked a new music track: <colNum0>Throne of the Demon	你已解锁新音乐曲目：<colNum0>恶魔王座	gameText		
+You have unlocked a new music track: <colNum0>Tick Tock	你已解锁新音乐曲目：<colNum0>滴答	gameText		
+You have unlocked a new music track: <colNum0>Time Out	你已解锁新音乐曲目：<colNum0>暂停	gameText		
+You have unlocked a new music track: <colNum0>Time to Mine	你已解锁新音乐曲目：<colNum0>采矿时间	gameText		
+You have unlocked a new music track: <colNum0>Tiptoe	你已解锁新音乐曲目：<colNum0>踮脚	gameText		
+You have unlocked a new music track: <colNum0>Title Fight	你已解锁新音乐曲目：<colNum0>冠军争夺战	gameText		
+You have unlocked a new music track: <colNum0>Tomb Raider	你已解锁新音乐曲目：<colNum0>盗墓者	gameText		
+You have unlocked a new music track: <colNum0>Tomorrow	你已解锁新音乐曲目：<colNum0>明天	gameText		
+You have unlocked a new music track: <colNum0>Too Many Cooks...	你已解锁新音乐曲目：<colNum0>厨师太多…	gameText		
+You have unlocked a new music track: <colNum0>The Tortugan Way	你已解锁新音乐曲目：<colNum0>海龟人之道	gameText		
+You have unlocked a new music track: <colNum0>The Tower of Voices	你已解锁新音乐曲目：<colNum0>声音之塔	gameText		
+You have unlocked a new music track: <colNum0>The Tower	你已解锁新音乐曲目：<colNum0>塔	gameText		
+You have unlocked a new music track: <colNum0>The Trade Parade	你已解锁新音乐曲目：<colNum0>贸易游行	gameText		
+You have unlocked a new music track: <colNum0>Trahaearn Toil	你已解锁新音乐曲目：<colNum0>特拉哈恩的辛劳	gameText		
+You have unlocked a new music track: <colNum0>Tranquillity	你已解锁新音乐曲目：<colNum0>宁静	gameText		
+You have unlocked a new music track: <colNum0>Trawler	你已解锁新音乐曲目：<colNum0>拖网渔船	gameText		
+You have unlocked a new music track: <colNum0>Trawler Minor	你已解锁新音乐曲目：<colNum0>小型拖网渔船	gameText		
+You have unlocked a new music track: <colNum0>Tree Spirits	你已解锁新音乐曲目：<colNum0>树精	gameText		
+You have unlocked a new music track: <colNum0>Tremble	你已解锁新音乐曲目：<colNum0>颤抖	gameText		
+You have unlocked a new music track: <colNum0>Tribal	你已解锁新音乐曲目：<colNum0>部落	gameText		
+You have unlocked a new music track: <colNum0>Tribal <Num0>	你已解锁新音乐曲目：<colNum0>部落<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Tribal Background	你已解锁新音乐曲目：<colNum0>部落背景	gameText		
+You have unlocked a new music track: <colNum0>Trinity	你已解锁新音乐曲目：<colNum0>三位一体	gameText		
+You have unlocked a new music track: <colNum0>Troll Shuffle	你已解锁新音乐曲目：<colNum0>巨魔舞曲	gameText		
+You have unlocked a new music track: <colNum0>Trouble Brewing	你已解锁新音乐曲目：<colNum0>酿酒大战	gameText		
+You have unlocked a new music track: <colNum0>Troubled	你已解锁新音乐曲目：<colNum0>困扰	gameText		
+You have unlocked a new music track: <colNum0>Troubled Waters	你已解锁新音乐曲目：<colNum0>动荡水域	gameText		
+You have unlocked a new music track: <colNum0>Truth	你已解锁新音乐曲目：<colNum0>真相	gameText		
+You have unlocked a new music track: <colNum0>Twilight	你已解锁新音乐曲目：<colNum0>暮光	gameText		
+You have unlocked a new music track: <colNum0>TzHaar!	你已解锁新音乐曲目：<colNum0>特扎尔！	gameText		
+You have unlocked a new music track: <colNum0>Undead Army	你已解锁新音乐曲目：<colNum0>亡灵大军	gameText		
+You have unlocked a new music track: <colNum0>Undead Dungeon	你已解锁新音乐曲目：<colNum0>亡灵地牢	gameText		
+You have unlocked a new music track: <colNum0>Under the Mountain	你已解锁新音乐曲目：<colNum0>山之下	gameText		
+You have unlocked a new music track: <colNum0>Undercurrent	你已解锁新音乐曲目：<colNum0>暗流	gameText		
+You have unlocked a new music track: <colNum0>Underground	你已解锁新音乐曲目：<colNum0>地下	gameText		
+You have unlocked a new music track: <colNum0>Underground Pass	你已解锁新音乐曲目：<colNum0>地下通道	gameText		
+You have unlocked a new music track: <colNum0>Understanding	你已解锁新音乐曲目：<colNum0>理解	gameText		
+You have unlocked a new music track: <colNum0>The Undying Light	你已解锁新音乐曲目：<colNum0>不灭之光	gameText		
+You have unlocked a new music track: <colNum0>Unknown Land	你已解锁新音乐曲目：<colNum0>未知之地	gameText		
+You have unlocked a new music track: <colNum0>Untouchable	你已解锁新音乐曲目：<colNum0>不可触及	gameText		
+You have unlocked a new music track: <colNum0>Unturned Stones	你已解锁新音乐曲目：<colNum0>不留遗憾	gameText		
+You have unlocked a new music track: <colNum0>Upcoming	你已解锁新音乐曲目：<colNum0>即将到来	gameText		
+You have unlocked a new music track: <colNum0>Upir Likhyi	你已解锁新音乐曲目：<colNum0>乌皮尔‧利克伊	gameText		
+You have unlocked a new music track: <colNum0>Upper Depths	你已解锁新音乐曲目：<colNum0>上层深渊	gameText		
+You have unlocked a new music track: <colNum0>Vampyre Assault	你已解锁新音乐曲目：<colNum0>吸血鬼突袭	gameText		
+You have unlocked a new music track: <colNum0>Vanescula	你已解锁新音乐曲目：<colNum0>范尼斯库拉	gameText		
+You have unlocked a new music track: <colNum0>Varlamore's Sunset	你已解锁新音乐曲目：<colNum0>瓦拉莫尔的日落	gameText		
+You have unlocked a new music track: <colNum0>The Vault	你已解锁新音乐曲目：<colNum0>金库	gameText		
+You have unlocked a new music track: <colNum0>Venomous	你已解锁新音乐曲目：<colNum0>剧毒	gameText		
+You have unlocked a new music track: <colNum0>Venture	你已解锁新音乐曲目：<colNum0>冒险	gameText		
+You have unlocked a new music track: <colNum0>Venture <Num0>	你已解锁新音乐曲目：<colNum0>冒险<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Victory is Mine	你已解锁新音乐曲目：<colNum0>胜利属于我	gameText		
+You have unlocked a new music track: <colNum0>Village	你已解锁新音乐曲目：<colNum0>村庄	gameText		
+You have unlocked a new music track: <colNum0>Vision	你已解锁新音乐曲目：<colNum0>幻象	gameText		
+You have unlocked a new music track: <colNum0>Volcanic Vikings	你已解锁新音乐曲目：<colNum0>火山维京人	gameText		
+You have unlocked a new music track: <colNum0>Voodoo Cult	你已解锁新音乐曲目：<colNum0>巫毒教	gameText		
+You have unlocked a new music track: <colNum0>Voyage	你已解锁新音乐曲目：<colNum0>航行	gameText		
+You have unlocked a new music track: <colNum0>The Waiting Game	你已解锁新音乐曲目：<colNum0>等待游戏	gameText		
+You have unlocked a new music track: <colNum0>Waking Dream	你已解锁新音乐曲目：<colNum0>白日梦	gameText		
+You have unlocked a new music track: <colNum0>A Walk in the Woods	你已解锁新音乐曲目：<colNum0>林中漫步	gameText		
+You have unlocked a new music track: <colNum0>The Walking Dead	你已解锁新音乐曲目：<colNum0>行尸走肉	gameText		
+You have unlocked a new music track: <colNum0>Wally the Hero	你已解锁新音乐曲目：<colNum0>英雄沃利	gameText		
+You have unlocked a new music track: <colNum0>Wander	你已解锁新音乐曲目：<colNum0>漫游	gameText		
+You have unlocked a new music track: <colNum0>Warpath	你已解锁新音乐曲目：<colNum0>战争之路	gameText		
+You have unlocked a new music track: <colNum0>Warrior	你已解锁新音乐曲目：<colNum0>战士	gameText		
+You have unlocked a new music track: <colNum0>Warriors' Guild	你已解锁新音乐曲目：<colNum0>战士公会	gameText		
+You have unlocked a new music track: <colNum0>Waste Defaced	你已解锁新音乐曲目：<colNum0>被玷污的废墟	gameText		
+You have unlocked a new music track: <colNum0>Watch Your Step	你已解锁新音乐曲目：<colNum0>小心脚下	gameText		
+You have unlocked a new music track: <colNum0>Waterfall	你已解锁新音乐曲目：<colNum0>瀑布	gameText		
+You have unlocked a new music track: <colNum0>Waterlogged	你已解锁新音乐曲目：<colNum0>水浸	gameText		
+You have unlocked a new music track: <colNum0>Way of the Enchanter	你已解锁新音乐曲目：<colNum0>附魔师之路	gameText		
+You have unlocked a new music track: <colNum0>Way of the Wyrm	你已解锁新音乐曲目：<colNum0>蛇龙之路	gameText		
+You have unlocked a new music track: <colNum0>Wayward	你已解锁新音乐曲目：<colNum0>任性	gameText		
+You have unlocked a new music track: <colNum0>We are the Fairies	你已解锁新音乐曲目：<colNum0>我们是仙子	gameText		
+You have unlocked a new music track: <colNum0>Welcome to my Nightmare	你已解锁新音乐曲目：<colNum0>欢迎来到我的噩梦	gameText		
+You have unlocked a new music track: <colNum0>Welcome to the Theatre	你已解锁新音乐曲目：<colNum0>欢迎来到剧场	gameText		
+You have unlocked a new music track: <colNum0>Well Hallowed Air	你已解锁新音乐曲目：<colNum0>神圣空气	gameText		
+You have unlocked a new music track: <colNum0>Well of Voyage	你已解锁新音乐曲目：<colNum0>航行之井	gameText		
+You have unlocked a new music track: <colNum0>The Western Seas	你已解锁新音乐曲目：<colNum0>西方海域	gameText		
+You have unlocked a new music track: <colNum0>What Happens Below...	你已解锁新音乐曲目：<colNum0>下方发生的事…	gameText		
+You have unlocked a new music track: <colNum0>What the Shell!	你已解锁新音乐曲目：<colNum0>什么贝壳！	gameText		
+You have unlocked a new music track: <colNum0>Where Eagles Lair	你已解锁新音乐曲目：<colNum0>鹰巢所在	gameText		
+You have unlocked a new music track: <colNum0>Whispering Wind	你已解锁新音乐曲目：<colNum0>低语之风	gameText		
+You have unlocked a new music track: <colNum0>Wild Isle	你已解锁新音乐曲目：<colNum0>荒野之岛	gameText		
+You have unlocked a new music track: <colNum0>Wild Side	你已解锁新音乐曲目：<colNum0>狂野一面	gameText		
+You have unlocked a new music track: <colNum0>Wilderness	你已解锁新音乐曲目：<colNum0>荒野	gameText		
+You have unlocked a new music track: <colNum0>Wilderness <Num0>	你已解锁新音乐曲目：<colNum0>荒野<Num0>	gameText		
+You have unlocked a new music track: <colNum0>Wildwood	你已解锁新音乐曲目：<colNum0>荒野森林	gameText		
+You have unlocked a new music track: <colNum0>Winter Funfair	你已解锁新音乐曲目：<colNum0>冬季游园会	gameText		
+You have unlocked a new music track: <colNum0>Witching	你已解锁新音乐曲目：<colNum0>巫术	gameText		
+You have unlocked a new music track: <colNum0>Woe of the Wyvern	你已解锁新音乐曲目：<colNum0>飞龙之祸	gameText		
+You have unlocked a new music track: <colNum0>Wonder	你已解锁新音乐曲目：<colNum0>惊奇	gameText		
+You have unlocked a new music track: <colNum0>Wonderous	你已解锁新音乐曲目：<colNum0>奇妙	gameText		
+You have unlocked a new music track: <colNum0>Woodland	你已解锁新音乐曲目：<colNum0>林地	gameText		
+You have unlocked a new music track: <colNum0>Work Work Work	你已解锁新音乐曲目：<colNum0>工作 工作 工作	gameText		
+You have unlocked a new music track: <colNum0>Workshop	你已解锁新音乐曲目：<colNum0>工作室	gameText		
+You have unlocked a new music track: <colNum0>A Worthy Foe	你已解锁新音乐曲目：<colNum0>值得尊敬的对手	gameText		
+You have unlocked a new music track: <colNum0>Wrath and Ruin	你已解锁新音乐曲目：<colNum0>愤怒与毁灭	gameText		
+You have unlocked a new music track: <colNum0>Xenophobe	你已解锁新音乐曲目：<colNum0>仇外者	gameText		
+You have unlocked a new music track: <colNum0>Yesteryear	你已解锁新音乐曲目：<colNum0>往昔	gameText		
+You have unlocked a new music track: <colNum0>Yo Ho Ho!	你已解锁新音乐曲目：<colNum0>哟吼吼！	gameText		
+You have unlocked a new music track: <colNum0>You Have My Attention	你已解锁新音乐曲目：<colNum0>你引起了我的注意	gameText		
+You have unlocked a new music track: <colNum0>Zamorak Zoo	你已解锁新音乐曲目：<colNum0>扎莫拉克动物园	gameText		
+You have unlocked a new music track: <colNum0>Zanik's Theme	你已解锁新音乐曲目：<colNum0>扎尼克主题曲	gameText		
+You have unlocked a new music track: <colNum0>Zaros Zeitgeist	你已解锁新音乐曲目：<colNum0>扎罗斯时代精神	gameText		
+You have unlocked a new music track: <colNum0>Zealot	你已解锁新音乐曲目：<colNum0>狂热者	gameText		
+You have unlocked a new music track: <colNum0>Zogre Dance	你已解锁新音乐曲目：<colNum0>佐格雷食人魔舞	gameText		
+You have unlocked a new music track: <colNum0>Zombie Invasion	你已解锁新音乐曲目：<colNum0>僵尸入侵	gameText		
+You have unlocked a new music track: <colNum0>Zombiism	你已解锁新音乐曲目：<colNum0>僵尸主义	gameText		
+You cut up the meat and put it into the bowl.	你将肉切碎并放入碗中。	gameText		
+You cut up the potato and put it into the stew.	你将土豆切碎并放入炖菜中。	gameText		
+You are now using the single music mode.	你现在使用的是单曲音乐模式。	gameText		
+You are now using the area music mode.	你现在使用的是区域音乐模式。	gameText		
+You are now using the shuffle music mode.	你现在使用的是随机音乐模式。	gameText		
+You cut the sapphire.	你切割了蓝宝石。	gameText		
+You cut the emerald.	你切割了祖母绿。	gameText		
+You cut the ruby.	你切割了红宝石。	gameText		
+You cut the diamond.	你切割了钻石。	gameText		
+You cut the dragonstone.	你切割了龙石。	gameText		
+You cut the onyx.	你切割了玛瑙。	gameText		
+You cut the zenyte.	你切割了泽尼特。	gameText		
+You cut the opal.	你切割了蛋白石。	gameText		
+You cut the jade.	你切割了翡翠。	gameText		
+You cut the topaz.	你切割了托帕石。	gameText		
+Your inventory is too full to hold any more logs.	你的物品栏已满，无法再容纳更多原木。	gameText		
+You feel a powerful force take hold of you...	你感受到一股强大的力量笼罩着你…	gameText		
+You step through the portal...	你穿过传送门…	gameText		
+You swing your pick at the rock.	你用镐敲击岩石。	gameText		
+You manage to mine some tin.	你成功开采到一些锡。	gameText		
+You manage to mine some rune essence.	你成功开采到一些符文精华。	gameText		
+You manage to mine some copper.	你成功开采到一些铜。	gameText		
+You manage to mine some blurite.	你成功开采到一些蓝铁。	gameText		
+You manage to mine some iron.	你成功开采到一些铁。	gameText		
+You manage to mine some daeyalt.	你成功开采到一些戴亚尔特。	gameText		
+You manage to mine some silver.	你成功开采到一些银。	gameText		
+You manage to mine some lead.	你成功开采到一些铅。	gameText		
+You manage to mine some coal.	你成功开采到一些煤。	gameText		
+You manage to mine some pure essence.	你成功开采到一些纯净精华。	gameText		
+You manage to mine some gold.	你成功开采到一些金。	gameText		
+You manage to mine some mithril.	你成功开采到一些秘银。	gameText		
+You manage to mine some adamantile.	你成功开采到一些精金。	gameText		
+You manage to mine some lunar.	你成功开采到一些月矿。	gameText		
+You manage to mine some lovakite.	你成功开采到一些洛瓦凯特。	gameText		
+You manage to mine some runite.	你成功开采到一些符文。	gameText		
+You can't sell this item to this shop.	你无法将此物品出售给这家商店。	gameText		
+You search the crate but find nothing.	你搜索了板条箱，但什么也没找到。	gameText		
+You mix the milk, flour and egg together to make a raw cake mix.	你将牛奶、面粉和鸡蛋混合在一起，制成生蛋糕糊。	gameText		
+You successfully bake a cake.	你成功烤制了一个蛋糕。	gameText		
+You eat part of the cake.	你吃了一口蛋糕。	gameText		
+You eat some more of the cake.	你又吃了一些蛋糕。	gameText		
+You eat the slice of cake.	你吃掉了那片蛋糕。	gameText		
+Amulet of magic: currently costs <Num0> coins.	魔法护符：当前价格为<Num0>金币。	gameText		
+Amulet of defence: currently costs <Num0> coins.	防御护符：当前价格为<Num0>金币。	gameText		
+Amulet of strength: currently costs <Num0> coins.	力量护符：当前价格为<Num0>金币。	gameText		
+Amulet of power: currently costs <Num0> coins.	力量护符：当前价格为<Num0>金币。	gameText		
+Bronze javelin: currently costs <Num0> coins.	青铜标枪：当前价格为<Num0>金币。	gameText		
+Iron javelin: currently costs <Num0> coins.	铁制标枪：当前价格为<Num0>金币。	gameText		
+Steel javelin: currently costs <Num0> coins.	钢制标枪：当前价格为<Num0>金币。	gameText		
+Mithril javelin: currently costs <Num0> coins.	秘银标枪：当前价格为<Num0>金币。	gameText		
+Adamant javelin: currently costs <Num0> coins.	精金标枪：当前价格为<Num0>金币。	gameText		
+Rune javelin: currently costs <Num0> coins.	符文标枪：当前价格为<Num0>金币。	gameText		
+Bronze arrowtips: currently costs <Num0> coins.	青铜箭头：当前价格为<Num0>金币。	gameText		
+Iron arrowtips: currently costs <Num0> coins.	铁箭头：当前价格为<Num0>金币。	gameText		
+Steel arrowtips: currently costs <Num0> coins.	钢箭头：当前价格为<Num0>金币。	gameText		
+Mithril arrowtips: currently costs <Num0> coins.	秘银箭头：当前价格为<Num0>金币。	gameText		
+Adamant arrowtips: currently costs <Num0> coins.	精金箭头：当前价格为<Num0>金币。	gameText		
+Rune arrowtips: currently costs <Num0> coins.	符文箭头：当前价格为<Num0>金币。	gameText		
+Bronze arrow: currently costs <Num0> coins.	青铜箭：当前价格为<Num0>金币。	gameText		
+Iron arrow: currently costs <Num0> coins.	铁箭：当前价格为<Num0>金币。	gameText		
+Steel arrow: currently costs <Num0> coins.	钢箭：当前价格为<Num0>金币。	gameText		
+Mithril arrow: currently costs <Num0> coins.	秘银箭：当前价格为<Num0>金币。	gameText		
+Adamant arrow: currently costs <Num0> coins.	精金箭：当前价格为<Num0>金币。	gameText		
+Bronze bolts: currently costs <Num0> coins.	青铜弩箭：当前价格为<Num0>金币。	gameText		
+Shortbow: currently costs <Num0> coins.	短弓：当前价格为<Num0>金币。	gameText		
+Longbow: currently costs <Num0> coins.	长弓：当前价格为<Num0>金币。	gameText		
+Oak shortbow: currently costs <Num0> coins.	橡木短弓：当前价格为<Num0>金币。	gameText		
+Oak longbow: currently costs <Num0> coins.	橡木长弓：当前价格为<Num0>金币。	gameText		
+Willow shortbow: currently costs <Num0> coins.	柳木短弓：当前价格为<Num0>金币。	gameText		
+Willow longbow: currently costs <Num0> coins.	柳木长弓：当前价格为<Num0>金币。	gameText		
+Maple shortbow: currently costs <Num0> coins.	枫木短弓：当前价格为<Num0>金币。	gameText		
+Maple longbow: currently costs <Num0> coins.	枫木长弓：当前价格为<Num0>金币。	gameText		
+Crossbow: currently costs <Num0> coins.	弩：当前价格为<Num0>金币。	gameText		
+Bronze brutal: currently costs <Num0> coins.	青铜残暴箭：当前价格为<Num0>金币。	gameText		
+Iron brutal: currently costs <Num0> coins.	铁制残暴箭：当前价格为<Num0>金币。	gameText		
+Steel brutal: currently costs <Num0> coins.	钢制残暴箭：当前价格为<Num0>金币。	gameText		
+Black brutal: currently costs <Num0> coins.	黑铁残暴箭：当前价格为<Num0>金币。	gameText		
+Mithril brutal: currently costs <Num0> coins.	秘银残暴箭：当前价格为<Num0>金币。	gameText		
+Adamant brutal: currently costs <Num0> coins.	精金残暴箭：当前价格为<Num0>金币。	gameText		
+Rune brutal: currently costs <Num0> coins.	符文残暴箭：当前价格为<Num0>金币。	gameText		
+Bronze axe: currently costs <Num0> coins.	青铜斧：当前价格为<Num0>金币。	gameText		
+Iron axe: currently costs <Num0> coins.	铁斧：当前价格为<Num0>金币。	gameText		
+Steel axe: currently costs <Num0> coins.	钢斧：当前价格为<Num0>金币。	gameText		
+Iron battleaxe: currently costs <Num0> coins.	铁制战斧：当前价格为<Num0>金币。	gameText		
+Steel battleaxe: currently costs <Num0> coins.	钢制战斧：当前价格为<Num0>金币。	gameText		
+Mithril battleaxe: currently costs <Num0> coins.	秘银战斧：当前价格为<Num0>金币。	gameText		
+Beer: currently costs <Num0> coins.	啤酒：当前价格为<Num0>金币。	gameText		
+Cider: currently costs <Num0> coins.	苹果酒：当前价格为<Num0>金币。	gameText		
+Sunbeam ale: currently costs <Num0> coins.	阳光麦酒：当前价格为<Num0>金币。	gameText		
+Vodka: currently costs <Num0> coins.	伏特加：当前价格为<Num0>金币。	gameText		
+Rum: currently costs <Num0> coins.	朗姆酒：当前价格为<Num0>金币。	gameText		
+Whisky: currently costs <Num0> coins.	威士忌：当前价格为<Num0>金币。	gameText		
+Gin: currently costs <Num0> coins.	金酒：当前价格为<Num0>金币。	gameText		
+Moon-lite: currently costs <Num0> coins.	月光酒：当前价格为<Num0>金币。	gameText		
+Jug of wine: currently costs <Num0> coins.	葡萄酒：当前价格为<Num0>金币。	gameText		
+Metztonalli white: currently costs <Num0> coins.	梅茨托纳利白葡萄酒：当前价格为<Num0>金币。	gameText		
+Blackbird red: currently costs <Num0> coins.	黑鸟红葡萄酒：当前价格为<Num0>金币。	gameText		
+Eclipse red: currently costs <Num0> coins.	月蚀红葡萄酒：当前价格为<Num0>金币。	gameText		
+Cup of tea: currently costs <Num0> coins.	一杯茶：当前价格为<Num0>金币。	gameText		
+Stew: currently costs <Num0> coins.	炖菜：当前价格为<Num0>金币。	gameText		
+Meat pie: currently costs <Num0> coins.	肉派：当前价格为<Num0>金币。	gameText		
+Candle: currently costs <Num0> coins.	蜡烛：当前价格为<Num0>金币。	gameText		
+Unlit torch: currently costs <Num0> coins.	未点燃的火把：当前价格为<Num0>金币。	gameText		
+Empty oil lamp: currently costs <Num0> coins.	空油灯：当前价格为<Num0>金币。	gameText		
+Empty oil lantern: currently costs <Num0> coins.	空油灯笼：当前价格为<Num0>金币。	gameText		
+Bullseye lantern (empty): currently costs <Num0> coins.	聚光灯笼 (空)：当前价格为<Num0>金币。	gameText		
+Bronze chainbody: currently costs <Num0> coins.	青铜链甲：当前价格为<Num0>金币。	gameText		
+Iron chainbody: currently costs <Num0> coins.	铁制链甲：当前价格为<Num0>金币。	gameText		
+Steel chainbody: currently costs <Num0> coins.	钢制链甲：当前价格为<Num0>金币。	gameText		
+Black chainbody: currently costs <Num0> coins.	黑铁链甲：当前价格为<Num0>金币。	gameText		
+Mithril chainbody: currently costs <Num0> coins.	秘银链甲：当前价格为<Num0>金币。	gameText		
+Adamant chainbody: currently costs <Num0> coins.	精金链甲：当前价格为<Num0>金币。	gameText		
+White apron: currently costs <Num0> coins.	白色围裙：当前价格为<Num0>金币。	gameText		
+Leather body: currently costs <Num0> coins.	皮甲：当前价格为<Num0>金币。	gameText		
+Leather gloves: currently costs <Num0> coins.	皮手套：当前价格为<Num0>金币。	gameText		
+Leather boots: currently costs <Num0> coins.	皮靴：当前价格为<Num0>金币。	gameText		
+Brown apron: currently costs <Num0> coins.	棕色围裙：当前价格为<Num0>金币。	gameText		
+Pink skirt: currently costs <Num0> coins.	粉色长裙：当前价格为<Num0>金币。	gameText		
+Black skirt: currently costs <Num0> coins.	黑色长裙：当前价格为<Num0>金币。	gameText		
+Blue skirt: currently costs <Num0> coins.	蓝色长裙：当前价格为<Num0>金币。	gameText		
+Red cape: currently costs <Num0> coins.	红斗篷：当前价格为<Num0>金币。	gameText		
+Silk: currently costs <Num0> coins.	丝绸：当前价格为<Num0>金币。	gameText		
+Priest gown (bottom): currently costs <Num0> coins.	祭司长袍 (下装)：当前价格为<Num0>金币。	gameText		
+Priest gown (top): currently costs <Num0> coins.	祭司长袍 (上衣)：当前价格为<Num0>金币。	gameText		
+Brandy: currently costs <Num0> coins.	白兰地：当前价格为<Num0>金币。	gameText		
+Gin: currently costs <Num0> coins.	金酒：当前价格为<Num0>金币。	gameText		
+Vodka: currently costs <Num0> coins.	伏特加：当前价格为<Num0>金币。	gameText		
+Whisky: currently costs <Num0> coins.	威士忌：当前价格为<Num0>金币。	gameText		
+Pineapple: currently costs <Num0> coins.	菠萝：当前价格为<Num0>金币。	gameText		
+Equa leaves: currently costs <Num0> coins.	伊库瓦叶：当前价格为<Num0>金币。	gameText		
+Orange: currently costs <Num0> coins.	橙子：当前价格为<Num0>金币。	gameText		
+Lemon: currently costs <Num0> coins.	柠檬：当前价格为<Num0>金币。	gameText		
+Lime: currently costs <Num0> coins.	青柠：当前价格为<Num0>金币。	gameText		
+Dwellberries: currently costs <Num0> coins.	德维尔莓：当前价格为<Num0>金币。	gameText		
+Cocktail shaker: currently costs <Num0> coins.	鸡尾酒摇壶：当前价格为<Num0>金币。	gameText		
+Chocolate bar: currently costs <Num0> coins.	巧克力棒：当前价格为<Num0>金币。	gameText		
+Chocolate dust: currently costs <Num0> coins.	巧克力粉：当前价格为<Num0>金币。	gameText		
+Pot of cream: currently costs <Num0> coins.	一罐奶油：当前价格为<Num0>金币。	gameText		
+Bucket of milk: currently costs <Num0> coins.	一桶牛奶：当前价格为<Num0>金币。	gameText		
+Knife: currently costs <Num0> coins.	刀：当前价格为<Num0>金币。	gameText		
+Cocktail glass: currently costs <Num0> coins.	鸡尾酒杯：当前价格为<Num0>金币。	gameText		
+Pie dish: currently costs <Num0> coins.	派烤盘：当前价格为<Num0>金币。	gameText		
+Cooking apple: currently costs <Num0> coins.	烹饪用苹果：当前价格为<Num0>金币。	gameText		
+Cake tin: currently costs <Num0> coins.	蛋糕模具：当前价格为<Num0>金币。	gameText		
+Bowl: currently costs <Num0> coins.	碗：当前价格为<Num0>金币。	gameText		
+Potato: currently costs <Num0> coins.	土豆：当前价格为<Num0>金币。	gameText		
+Tinderbox: currently costs <Num0> coins.	火绒盒：当前价格为<Num0>金币。	gameText		
+Jug: currently costs <Num0> coins.	壶：当前价格为<Num0>金币。	gameText		
+Empty jug pack: currently costs <Num0> coins.	一组空壶：当前价格为<Num0>金币。	gameText		
+Pot: currently costs <Num0> coins.	罐：当前价格为<Num0>金币。	gameText		
+Chocolate bar: currently costs <Num0> coins.	巧克力棒：当前价格为<Num0>金币。	gameText		
+Pot of flour: currently costs <Num0> coins.	一罐面粉：当前价格为<Num0>金币。	gameText		
+Empty cup: currently costs <Num0> coins.	空杯：当前价格为<Num0>金币。	gameText		
+Chisel: currently costs <Num0> coins.	凿子：当前价格为<Num0>金币。	gameText		
+Hammer: currently costs <Num0> coins.	锤子：当前价格为<Num0>金币。	gameText		
+Needle: currently costs <Num0> coins.	针：当前价格为<Num0>金币。	gameText		
+Thread: currently costs <Num0> coins.	线：当前价格为<Num0>金币。	gameText		
+Glassblowing pipe: currently costs <Num0> coins.	玻璃吹管：当前价格为<Num0>金币。	gameText		
+Ring mould: currently costs <Num0> coins.	戒指模具：当前价格为<Num0>金币。	gameText		
+Necklace mould: currently costs <Num0> coins.	项链模具：当前价格为<Num0>金币。	gameText		
+Amulet mould: currently costs <Num0> coins.	护符模具：当前价格为<Num0>金币。	gameText		
+Bracelet mould: currently costs <Num0> coins.	手镯模具：当前价格为<Num0>金币。	gameText		
+Sapphire: currently costs <Num0> coins.	蓝宝石：当前价格为<Num0>金币。	gameText		
+Emerald: currently costs <Num0> coins.	祖母绿：当前价格为<Num0>金币。	gameText		
+Ruby: currently costs <Num0> coins.	红宝石：当前价格为<Num0>金币。	gameText		
+Diamond: currently costs <Num0> coins.	钻石：当前价格为<Num0>金币。	gameText		
+Wooden stock: currently costs <Num0> coins.	木制弩托：当前价格为<Num0>金币。	gameText		
+Oak stock: currently costs <Num0> coins.	橡木弩托：当前价格为<Num0>金币。	gameText		
+Willow stock: currently costs <Num0> coins.	柳木弩托：当前价格为<Num0>金币。	gameText		
+Teak stock: currently costs <Num0> coins.	柚木弩托：当前价格为<Num0>金币。	gameText		
+Maple stock: currently costs <Num0> coins.	枫木弩托：当前价格为<Num0>金币。	gameText		
+Mahogany stock: currently costs <Num0> coins.	红木弩托：当前价格为<Num0>金币。	gameText		
+Yew stock: currently costs <Num0> coins.	紫杉弩托：当前价格为<Num0>金币。	gameText		
+Bronze limbs: currently costs <Num0> coins.	青铜弩臂：当前价格为<Num0>金币。	gameText		
+Iron limbs: currently costs <Num0> coins.	铁制弩臂：当前价格为<Num0>金币。	gameText		
+Steel limbs: currently costs <Num0> coins.	钢制弩臂：当前价格为<Num0>金币。	gameText		
+Mithril limbs: currently costs <Num0> coins.	秘银弩臂：当前价格为<Num0>金币。	gameText		
+Adamantite limbs: currently costs <Num0> coins.	精金弩臂：当前价格为<Num0>金币。	gameText		
+Runite limbs: currently costs <Num0> coins.	符文弩臂：当前价格为<Num0>金币。	gameText		
+Bronze crossbow: currently costs <Num0> coins.	青铜弩：当前价格为<Num0>金币。	gameText		
+Iron crossbow: currently costs <Num0> coins.	铁弩：当前价格为<Num0>金币。	gameText		
+Steel crossbow: currently costs <Num0> coins.	钢弩：当前价格为<Num0>金币。	gameText		
+Mithril crossbow: currently costs <Num0> coins.	秘银弩：当前价格为<Num0>金币。	gameText		
+Adamant crossbow: currently costs <Num0> coins.	精金弩：当前价格为<Num0>金币。	gameText		
+Rune crossbow: currently costs <Num0> coins.	符文弩：当前价格为<Num0>金币。	gameText		
+Red dye: currently costs <Num0> coins.	红色染料：当前价格为<Num0>金币。	gameText		
+Yellow dye: currently costs <Num0> coins.	黄色染料：当前价格为<Num0>金币。	gameText		
+Blue dye: currently costs <Num0> coins.	蓝色染料：当前价格为<Num0>金币。	gameText		
+Orange dye: currently costs <Num0> coins.	橙色染料：当前价格为<Num0>金币。	gameText		
+Green dye: currently costs <Num0> coins.	绿色染料：当前价格为<Num0>金币。	gameText		
+Purple dye: currently costs <Num0> coins.	紫色染料：当前价格为<Num0>金币。	gameText		
+Rake: currently costs <Num0> coins.	耙子：当前价格为<Num0>金币。	gameText		
+Seed dibber: currently costs <Num0> coins.	种植锥：当前价格为<Num0>金币。	gameText		
+Secateurs: currently costs <Num0> coins.	修枝剪：当前价格为<Num0>金币。	gameText		
+Spade: currently costs <Num0> coins.	铲子：当前价格为<Num0>金币。	gameText		
+Gardening trowel: currently costs <Num0> coins.	园艺铲：当前价格为<Num0>金币。	gameText		
+Watering can: currently costs <Num0> coins.	浇水壶：当前价格为<Num0>金币。	gameText		
+Filled plant pot: currently costs <Num0> coins.	填土花盆：当前价格为<Num0>金币。	gameText		
+Plant pot pack: currently costs <Num0> coins.	一组花盆：当前价格为<Num0>金币。	gameText		
+Compost: currently costs <Num0> coins.	堆肥：当前价格为<Num0>金币。	gameText		
+Compost pack: currently costs <Num0> coins.	一组堆肥：当前价格为<Num0>金币。	gameText		
+Empty sack: currently costs <Num0> coins.	空袋子：当前价格为<Num0>金币。	gameText		
+Sack pack: currently costs <Num0> coins.	一组麻袋：当前价格为<Num0>金币。	gameText		
+Basket: currently costs <Num0> coins.	篮子：当前价格为<Num0>金币。	gameText		
+Basket pack: currently costs <Num0> coins.	一组篮子：当前价格为<Num0>金币。	gameText		
+Bucket: currently costs <Num0> coins.	桶：当前价格为<Num0>金币。	gameText		
+Empty bucket pack: currently costs <Num0> coins.	一组空桶：当前价格为<Num0>金币。	gameText		
+Potato: currently costs <Num0> coins.	土豆：当前价格为<Num0>金币。	gameText		
+Onion: currently costs <Num0> coins.	洋葱：当前价格为<Num0>金币。	gameText		
+Cabbage: currently costs <Num0> coins.	卷心菜：当前价格为<Num0>金币。	gameText		
+Tomato: currently costs <Num0> coins.	番茄：当前价格为<Num0>金币。	gameText		
+Sweetcorn: currently costs <Num0> coins.	甜玉米：当前价格为<Num0>金币。	gameText		
+Strawberry: currently costs <Num0> coins.	草莓：当前价格为<Num0>金币。	gameText		
+Watermelon: currently costs <Num0> coins.	西瓜：当前价格为<Num0>金币。	gameText		
+Hammerstone hops: currently costs <Num0> coins.	汉默石啤酒花：当前价格为<Num0>金币。	gameText		
+Asgarnian hops: currently costs <Num0> coins.	阿斯加尼亚啤酒花：当前价格为<Num0>金币。	gameText		
+Yanillian hops: currently costs <Num0> coins.	雅尼利安啤酒花：当前价格为<Num0>金币。	gameText		
+Krandorian hops: currently costs <Num0> coins.	克兰多尔啤酒花：当前价格为<Num0>金币。	gameText		
+Wildblood hops: currently costs <Num0> coins.	野血啤酒花：当前价格为<Num0>金币。	gameText		
+Jute fibre: currently costs <Num0> coins.	黄麻纤维：当前价格为<Num0>金币。	gameText		
+Barley: currently costs <Num0> coins.	大麦：当前价格为<Num0>金币。	gameText		
+Plant cure: currently costs <Num0> coins.	植物治疗药水：当前价格为<Num0>金币。	gameText		
+Small fishing net: currently costs <Num0> coins.	小渔网：当前价格为<Num0>金币。	gameText		
+Fishing rod: currently costs <Num0> coins.	鱼竿：当前价格为<Num0>金币。	gameText		
+Fly fishing rod: currently costs <Num0> coins.	飞钓竿：当前价格为<Num0>金币。	gameText		
+Harpoon: currently costs <Num0> coins.	鱼叉：当前价格为<Num0>金币。	gameText		
+Lobster pot: currently costs <Num0> coins.	龙虾笼：当前价格为<Num0>金币。	gameText		
+Fishing bait: currently costs <Num0> coins.	鱼饵：当前价格为<Num0>金币。	gameText		
+Bait pack: currently costs <Num0> coins.	一组鱼饵：当前价格为<Num0>金币。	gameText		
+Feather: currently costs <Num0> coins.	羽毛：当前价格为<Num0>金币。	gameText		
+Feather pack: currently costs <Num0> coins.	一组羽毛：当前价格为<Num0>金币。	gameText		
+Big fishing net: currently costs <Num0> coins.	大渔网：当前价格为<Num0>金币。	gameText		
+Raw shrimps: currently costs <Num0> coins.	生虾：当前价格为<Num0>金币。	gameText		
+Raw sardine: currently costs <Num0> coins.	生沙丁鱼：当前价格为<Num0>金币。	gameText		
+Raw herring: currently costs <Num0> coins.	生鲱鱼：当前价格为<Num0>金币。	gameText		
+Raw mackerel: currently costs <Num0> coins.	生鲭鱼：当前价格为<Num0>金币。	gameText		
+Raw cod: currently costs <Num0> coins.	生鳕鱼：当前价格为<Num0>金币。	gameText		
+Raw anchovies: currently costs <Num0> coins.	生凤尾鱼：当前价格为<Num0>金币。	gameText		
+Raw trout: currently costs <Num0> coins.	生鳟鱼：当前价格为<Num0>金币。	gameText		
+Raw pike: currently costs <Num0> coins.	生狗鱼：当前价格为<Num0>金币。	gameText		
+Raw salmon: currently costs <Num0> coins.	生鲑鱼：当前价格为<Num0>金币。	gameText		
+Raw tuna: currently costs <Num0> coins.	生金枪鱼：当前价格为<Num0>金币。	gameText		
+Raw lobster: currently costs <Num0> coins.	生龙虾：当前价格为<Num0>金币。	gameText		
+Raw bass: currently costs <Num0> coins.	生鲈鱼：当前价格为<Num0>金币。	gameText		
+Raw swordfish: currently costs <Num0> coins.	生剑鱼：当前价格为<Num0>金币。	gameText		
+Raw shark: currently costs <Num0> coins.	生鲨鱼：当前价格为<Num0>金币。	gameText		
+Pot of flour: currently costs <Num0> coins.	一罐面粉：当前价格为<Num0>金币。	gameText		
+Raw beef: currently costs <Num0> coins.	生牛肉：当前价格为<Num0>金币。	gameText		
+Raw chicken: currently costs <Num0> coins.	生鸡肉：当前价格为<Num0>金币。	gameText		
+Cabbage: currently costs <Num0> coins.	卷心菜：当前价格为<Num0>金币。	gameText		
+Banana: currently costs <Num0> coins.	香蕉：当前价格为<Num0>金币。	gameText		
+Redberries: currently costs <Num0> coins.	红莓：当前价格为<Num0>金币。	gameText		
+Bread: currently costs <Num0> coins.	面包：当前价格为<Num0>金币。	gameText		
+Chocolate bar: currently costs <Num0> coins.	巧克力棒：当前价格为<Num0>金币。	gameText		
+Cheese: currently costs <Num0> coins.	乳酪：当前价格为<Num0>金币。	gameText		
+Tomato: currently costs <Num0> coins.	番茄：当前价格为<Num0>金币。	gameText		
+Potato: currently costs <Num0> coins.	土豆：当前价格为<Num0>金币。	gameText		
+Bear fur: currently costs <Num0> coins.	熊皮：当前价格为<Num0>金币。	gameText		
+Grey wolf fur: currently costs <Num0> coins.	灰狼皮：当前价格为<Num0>金币。	gameText		
+Polar kebbit fur: currently costs <Num0> coins.	极地凯比特兔皮：当前价格为<Num0>金币。	gameText		
+Common kebbit fur: currently costs <Num0> coins.	普通凯比特兔皮：当前价格为<Num0>金币。	gameText		
+Feldip weasel fur: currently costs <Num0> coins.	费迪普鼬皮：当前价格为<Num0>金币。	gameText		
+Desert devil fur: currently costs <Num0> coins.	沙漠恶魔皮：当前价格为<Num0>金币。	gameText		
+Tatty larupia fur: currently costs <Num0> coins.	破损的棘刺狮皮：当前价格为<Num0>金币。	gameText		
+Larupia fur: currently costs <Num0> coins.	棘刺狮皮：当前价格为<Num0>金币。	gameText		
+Tatty graahk fur: currently costs <Num0> coins.	破损的格拉克皮：当前价格为<Num0>金币。	gameText		
+Graahk fur: currently costs <Num0> coins.	格拉克皮：当前价格为<Num0>金币。	gameText		
+Tatty kyatt fur: currently costs <Num0> coins.	破损的剑齿虎皮：当前价格为<Num0>金币。	gameText		
+Kyatt fur: currently costs <Num0> coins.	剑齿虎皮：当前价格为<Num0>金币。	gameText		
+Uncut sapphire: currently costs <Num0> coins.	未切割的蓝宝石：当前价格为<Num0>金币。	gameText		
+Uncut emerald: currently costs <Num0> coins.	未切割的祖母绿：当前价格为<Num0>金币。	gameText		
+Uncut ruby: currently costs <Num0> coins.	未切割的红宝石：当前价格为<Num0>金币。	gameText		
+Uncut diamond: currently costs <Num0> coins.	未切割的钻石：当前价格为<Num0>金币。	gameText		
+Bronze med helm: currently costs <Num0> coins.	青铜中盔：当前价格为<Num0>金币。	gameText		
+Iron med helm: currently costs <Num0> coins.	铁制中盔：当前价格为<Num0>金币。	gameText		
+Steel med helm: currently costs <Num0> coins.	钢制中盔：当前价格为<Num0>金币。	gameText		
+Mithril med helm: currently costs <Num0> coins.	秘银中盔：当前价格为<Num0>金币。	gameText		
+Adamant med helm: currently costs <Num0> coins.	精金中盔：当前价格为<Num0>金币。	gameText		
+Bronze full helm: currently costs <Num0> coins.	青铜头盔：当前价格为<Num0>金币。	gameText		
+Iron full helm: currently costs <Num0> coins.	铁制头盔：当前价格为<Num0>金币。	gameText		
+Steel full helm: currently costs <Num0> coins.	钢制头盔：当前价格为<Num0>金币。	gameText		
+Mithril full helm: currently costs <Num0> coins.	秘银头盔：当前价格为<Num0>金币。	gameText		
+Adamant full helm: currently costs <Num0> coins.	精金头盔：当前价格为<Num0>金币。	gameText		
+Chisel: currently costs <Num0> coins.	凿子：当前价格为<Num0>金币。	gameText		
+Spade: currently costs <Num0> coins.	铲子：当前价格为<Num0>金币。	gameText		
+Hammer: currently costs <Num0> coins.	锤子：当前价格为<Num0>金币。	gameText		
+Knife: currently costs <Num0> coins.	刀：当前价格为<Num0>金币。	gameText		
+Tinderbox: currently costs <Num0> coins.	火绒盒：当前价格为<Num0>金币。	gameText		
+Pestle and mortar: currently costs <Num0> coins.	研钵和杵：当前价格为<Num0>金币。	gameText		
+Needle: currently costs <Num0> coins.	针：当前价格为<Num0>金币。	gameText		
+Thread: currently costs <Num0> coins.	线：当前价格为<Num0>金币。	gameText		
+Rope: currently costs <Num0> coins.	绳子：当前价格为<Num0>金币。	gameText		
+Pot: currently costs <Num0> coins.	罐：当前价格为<Num0>金币。	gameText		
+Jug: currently costs <Num0> coins.	壶：当前价格为<Num0>金币。	gameText		
+Bucket: currently costs <Num0> coins.	桶：当前价格为<Num0>金币。	gameText		
+Bowl: currently costs <Num0> coins.	碗：当前价格为<Num0>金币。	gameText		
+Cake tin: currently costs <Num0> coins.	蛋糕模具：当前价格为<Num0>金币。	gameText		
+Vial: currently costs <Num0> coins.	小瓶：当前价格为<Num0>金币。	gameText		
+Empty jug pack: currently costs <Num0> coins.	一组空壶：当前价格为<Num0>金币。	gameText		
+Empty bucket pack: currently costs <Num0> coins.	一组空桶：当前价格为<Num0>金币。	gameText		
+Empty vial pack: currently costs <Num0> coins.	一组空瓶：当前价格为<Num0>金币。	gameText		
+Vial: currently costs <Num0> coins.	小瓶：当前价格为<Num0>金币。	gameText		
+Empty vial pack: currently costs <Num0> coins.	一组空瓶：当前价格为<Num0>金币。	gameText		
+Vial of water: currently costs <Num0> coins.	水瓶：当前价格为<Num0>金币。	gameText		
+Water-filled vial pack: currently costs <Num0> coins.	一组水瓶：当前价格为<Num0>金币。	gameText		
+Pestle and mortar: currently costs <Num0> coins.	研钵和杵：当前价格为<Num0>金币。	gameText		
+Eye of newt: currently costs <Num0> coins.	蝾螈眼：当前价格为<Num0>金币。	gameText		
+Eye of newt pack: currently costs <Num0> coins.	一组蝾螈眼：当前价格为<Num0>金币。	gameText		
+Butterfly net: currently costs <Num0> coins.	捕虫网：当前价格为<Num0>金币。	gameText		
+Butterfly jar: currently costs <Num0> coins.	蝴蝶罐：当前价格为<Num0>金币。	gameText		
+Magic box: currently costs <Num0> coins.	魔法盒：当前价格为<Num0>金币。	gameText		
+Noose wand: currently costs <Num0> coins.	套索棒：当前价格为<Num0>金币。	gameText		
+Bird snare: currently costs <Num0> coins.	捕鸟陷阱：当前价格为<Num0>金币。	gameText		
+Box trap: currently costs <Num0> coins.	箱式陷阱：当前价格为<Num0>金币。	gameText		
+Teasing stick: currently costs <Num0> coins.	逗弄棒：当前价格为<Num0>金币。	gameText		
+Unlit torch: currently costs <Num0> coins.	未点燃的火把：当前价格为<Num0>金币。	gameText		
+Rabbit snare: currently costs <Num0> coins.	捕兔陷阱：当前价格为<Num0>金币。	gameText		
+Bird snare pack: currently costs <Num0> coins.	一组捕鸟陷阱：当前价格为<Num0>金币。	gameText		
+Box trap pack: currently costs <Num0> coins.	一组箱式陷阱：当前价格为<Num0>金币。	gameText		
+Magic imp box pack: currently costs <Num0> coins.	一组魔法盒：当前价格为<Num0>金币。	gameText		
+Gold ring: currently costs <Num0> coins.	金戒指：当前价格为<Num0>金币。	gameText		
+Sapphire ring: currently costs <Num0> coins.	蓝宝石戒指：当前价格为<Num0>金币。	gameText		
+Emerald ring: currently costs <Num0> coins.	祖母绿戒指：当前价格为<Num0>金币。	gameText		
+Ruby ring: currently costs <Num0> coins.	红宝石戒指：当前价格为<Num0>金币。	gameText		
+Diamond ring: currently costs <Num0> coins.	钻石戒指：当前价格为<Num0>金币。	gameText		
+Gold necklace: currently costs <Num0> coins.	金项链：当前价格为<Num0>金币。	gameText		
+Sapphire necklace: currently costs <Num0> coins.	蓝宝石项链：当前价格为<Num0>金币。	gameText		
+Emerald necklace: currently costs <Num0> coins.	祖母绿项链：当前价格为<Num0>金币。	gameText		
+Ruby necklace: currently costs <Num0> coins.	红宝石项链：当前价格为<Num0>金币。	gameText		
+Diamond necklace: currently costs <Num0> coins.	钻石项链：当前价格为<Num0>金币。	gameText		
+Gold amulet: currently costs <Num0> coins.	金护符：当前价格为<Num0>金币。	gameText		
+Sapphire amulet: currently costs <Num0> coins.	蓝宝石护符：当前价格为<Num0>金币。	gameText		
+Emerald amulet: currently costs <Num0> coins.	祖母绿护符：当前价格为<Num0>金币。	gameText		
+Ruby amulet: currently costs <Num0> coins.	红宝石护符：当前价格为<Num0>金币。	gameText		
+Diamond amulet: currently costs <Num0> coins.	钻石护符：当前价格为<Num0>金币。	gameText		
+Kebab: currently costs <Num0> coins.	烤肉：当前价格为<Num0>金币。	gameText		
+Super kebab: currently costs <Num0> coins.	超级烤肉：当前价格为<Num0>金币。	gameText		
+Bronze mace: currently costs <Num0> coins.	青铜钉锤：当前价格为<Num0>金币。	gameText		
+Iron mace: currently costs <Num0> coins.	铁制钉锤：当前价格为<Num0>金币。	gameText		
+Steel mace: currently costs <Num0> coins.	钢制钉锤：当前价格为<Num0>金币。	gameText		
+Mithril mace: currently costs <Num0> coins.	秘银钉锤：当前价格为<Num0>金币。	gameText		
+Adamant mace: currently costs <Num0> coins.	精金钉锤：当前价格为<Num0>金币。	gameText		
+Rune mace: currently costs <Num0> coins.	符文钉锤：当前价格为<Num0>金币。	gameText		
+Air rune: currently costs <Num0> coins.	风符石：当前价格为<Num0>金币。	gameText		
+Water rune: currently costs <Num0> coins.	水符石：当前价格为<Num0>金币。	gameText		
+Earth rune: currently costs <Num0> coins.	大地符石：当前价格为<Num0>金币。	gameText		
+Fire rune: currently costs <Num0> coins.	火符石：当前价格为<Num0>金币。	gameText		
+Mind rune: currently costs <Num0> coins.	心灵符石：当前价格为<Num0>金币。	gameText		
+Body rune: currently costs <Num0> coins.	躯体符石：当前价格为<Num0>金币。	gameText		
+Chaos rune: currently costs <Num0> coins.	混沌符石：当前价格为<Num0>金币。	gameText		
+Nature rune: currently costs <Num0> coins.	自然符石：当前价格为<Num0>金币。	gameText		
+Death rune: currently costs <Num0> coins.	死亡符石：当前价格为<Num0>金币。	gameText		
+Law rune: currently costs <Num0> coins.	律法符石：当前价格为<Num0>金币。	gameText		
+Blood rune: currently costs <Num0> coins.	血符石：当前价格为<Num0>金币。	gameText		
+Soul rune: currently costs <Num0> coins.	灵魂符石：当前价格为<Num0>金币。	gameText		
+Astral rune: currently costs <Num0> coins.	星界符石：当前价格为<Num0>金币。	gameText		
+Fire rune pack: currently costs <Num0> coins.	一组火符石：当前价格为<Num0>金币。	gameText		
+Water rune pack: currently costs <Num0> coins.	一组水符石：当前价格为<Num0>金币。	gameText		
+Air rune pack: currently costs <Num0> coins.	一组风符石：当前价格为<Num0>金币。	gameText		
+Earth rune pack: currently costs <Num0> coins.	一组大地符石：当前价格为<Num0>金币。	gameText		
+Mind rune pack: currently costs <Num0> coins.	一组心灵符石：当前价格为<Num0>金币。	gameText		
+Chaos rune pack: currently costs <Num0> coins.	一组混沌符石：当前价格为<Num0>金币。	gameText		
+Battlestaff: currently costs <Num0> coins.	战杖：当前价格为<Num0>金币。	gameText		
+Staff of fire: currently costs <Num0> coins.	火元素法杖：当前价格为<Num0>金币。	gameText		
+Staff of water: currently costs <Num0> coins.	水元素法杖：当前价格为<Num0>金币。	gameText		
+Staff of air: currently costs <Num0> coins.	风元素法杖：当前价格为<Num0>金币。	gameText		
+Staff of earth: currently costs <Num0> coins.	土元素法杖：当前价格为<Num0>金币。	gameText		
+Lunar signet: currently costs <Num0> coins.	月之印章：当前价格为<Num0>金币。	gameText		
+Moonclan manual: currently costs <Num0> coins.	月氏族手册：当前价格为<Num0>金币。	gameText		
+Copper ore: currently costs <Num0> coins.	铜矿石：当前价格为<Num0>金币。	gameText		
+Tin ore: currently costs <Num0> coins.	锡矿石：当前价格为<Num0>金币。	gameText		
+Iron ore: currently costs <Num0> coins.	铁矿石：当前价格为<Num0>金币。	gameText		
+Silver ore: currently costs <Num0> coins.	银矿石：当前价格为<Num0>金币。	gameText		
+Lead ore: currently costs <Num0> coins.	铅矿石：当前价格为<Num0>金币。	gameText		
+Gold ore: currently costs <Num0> coins.	金矿石：当前价格为<Num0>金币。	gameText		
+Mithril ore: currently costs <Num0> coins.	秘银矿石：当前价格为<Num0>金币。	gameText		
+Adamantite ore: currently costs <Num0> coins.	精金矿石：当前价格为<Num0>金币。	gameText		
+Nickel ore: currently costs <Num0> coins.	镍矿石：当前价格为<Num0>金币。	gameText		
+Runite ore: currently costs <Num0> coins.	符文矿石：当前价格为<Num0>金币。	gameText		
+Coal: currently costs <Num0> coins.	煤：当前价格为<Num0>金币。	gameText		
+Bronze platebody: currently costs <Num0> coins.	青铜胸甲：当前价格为<Num0>金币。	gameText		
+Iron platebody: currently costs <Num0> coins.	铁制胸甲：当前价格为<Num0>金币。	gameText		
+Steel platebody: currently costs <Num0> coins.	钢制胸甲：当前价格为<Num0>金币。	gameText		
+Black platebody: currently costs <Num0> coins.	黑铁胸甲：当前价格为<Num0>金币。	gameText		
+Mithril platebody: currently costs <Num0> coins.	秘银胸甲：当前价格为<Num0>金币。	gameText		
+Adamant platebody: currently costs <Num0> coins.	精金胸甲：当前价格为<Num0>金币。	gameText		
+Bronze platelegs: currently costs <Num0> coins.	青铜腿甲：当前价格为<Num0>金币。	gameText		
+Iron platelegs: currently costs <Num0> coins.	铁制腿甲：当前价格为<Num0>金币。	gameText		
+Steel platelegs: currently costs <Num0> coins.	钢制腿甲：当前价格为<Num0>金币。	gameText		
+Black platelegs: currently costs <Num0> coins.	黑铁腿甲：当前价格为<Num0>金币。	gameText		
+Mithril platelegs: currently costs <Num0> coins.	秘银腿甲：当前价格为<Num0>金币。	gameText		
+Adamant platelegs: currently costs <Num0> coins.	精金腿甲：当前价格为<Num0>金币。	gameText		
+Bronze plateskirt: currently costs <Num0> coins.	青铜裙甲：当前价格为<Num0>金币。	gameText		
+Iron plateskirt: currently costs <Num0> coins.	铁制裙甲：当前价格为<Num0>金币。	gameText		
+Steel plateskirt: currently costs <Num0> coins.	钢制裙甲：当前价格为<Num0>金币。	gameText		
+Black plateskirt: currently costs <Num0> coins.	黑铁裙甲：当前价格为<Num0>金币。	gameText		
+Mithril plateskirt: currently costs <Num0> coins.	秘银裙甲：当前价格为<Num0>金币。	gameText		
+Adamant plateskirt: currently costs <Num0> coins.	精金裙甲：当前价格为<Num0>金币。	gameText		
+Bronze scimitar: currently costs <Num0> coins.	青铜弯刀：当前价格为<Num0>金币。	gameText		
+Iron scimitar: currently costs <Num0> coins.	铁制弯刀：当前价格为<Num0>金币。	gameText		
+Steel scimitar: currently costs <Num0> coins.	钢制弯刀：当前价格为<Num0>金币。	gameText		
+Mithril scimitar: currently costs <Num0> coins.	秘银弯刀：当前价格为<Num0>金币。	gameText		
+Dragon scimitar: currently costs <Num0> coins.	龙弯刀：当前价格为<Num0>金币。	gameText		
+Bronze sq shield: currently costs <Num0> coins.	青铜方盾：当前价格为<Num0>金币。	gameText		
+Bronze kiteshield: currently costs <Num0> coins.	青铜鸢盾：当前价格为<Num0>金币。	gameText		
+Iron sq shield: currently costs <Num0> coins.	铁制方盾：当前价格为<Num0>金币。	gameText		
+Iron kiteshield: currently costs <Num0> coins.	铁鸢盾：当前价格为<Num0>金币。	gameText		
+Steel sq shield: currently costs <Num0> coins.	钢制方盾：当前价格为<Num0>金币。	gameText		
+Steel kiteshield: currently costs <Num0> coins.	钢鸢盾：当前价格为<Num0>金币。	gameText		
+Mithril sq shield: currently costs <Num0> coins.	秘银方盾：当前价格为<Num0>金币。	gameText		
+Mithril kiteshield: currently costs <Num0> coins.	秘银鸢盾：当前价格为<Num0>金币。	gameText		
+Adamant sq shield: currently costs <Num0> coins.	精金方盾：当前价格为<Num0>金币。	gameText		
+Adamant kiteshield: currently costs <Num0> coins.	精金鸢盾：当前价格为<Num0>金币。	gameText		
+Silk: currently costs <Num0> coins.	丝绸：当前价格为<Num0>金币。	gameText		
+Silver ore: currently costs <Num0> coins.	银矿石：当前价格为<Num0>金币。	gameText		
+Silver bar: currently costs <Num0> coins.	银锭：当前价格为<Num0>金币。	gameText		
+Unstrung symbol: currently costs <Num0> coins.	未穿线的神圣护符：当前价格为<Num0>金币。	gameText		
+Spice: currently costs <Num0> coins.	香料：当前价格为<Num0>金币。	gameText		
+Knife: currently costs <Num0> coins.	刀：当前价格为<Num0>金币。	gameText		
+Garlic: currently costs <Num0> coins.	大蒜：当前价格为<Num0>金币。	gameText		
+Magic staff: currently costs <Num0> coins.	魔法杖：当前价格为<Num0>金币。	gameText		
+Staff: currently costs <Num0> coins.	法杖：当前价格为<Num0>金币。	gameText		
+Bronze sword: currently costs <Num0> coins.	青铜剑：当前价格为<Num0>金币。	gameText		
+Iron sword: currently costs <Num0> coins.	铁剑：当前价格为<Num0>金币。	gameText		
+Steel sword: currently costs <Num0> coins.	钢剑：当前价格为<Num0>金币。	gameText		
+Black sword: currently costs <Num0> coins.	黑铁剑：当前价格为<Num0>金币。	gameText		
+Mithril sword: currently costs <Num0> coins.	秘银剑：当前价格为<Num0>金币。	gameText		
+Adamant sword: currently costs <Num0> coins.	精金剑：当前价格为<Num0>金币。	gameText		
+Bronze longsword: currently costs <Num0> coins.	青铜长剑：当前价格为<Num0>金币。	gameText		
+Iron longsword: currently costs <Num0> coins.	铁制长剑：当前价格为<Num0>金币。	gameText		
+Steel longsword: currently costs <Num0> coins.	钢制长剑：当前价格为<Num0>金币。	gameText		
+Black longsword: currently costs <Num0> coins.	黑铁长剑：当前价格为<Num0>金币。	gameText		
+Mithril longsword: currently costs <Num0> coins.	秘银长剑：当前价格为<Num0>金币。	gameText		
+Adamant longsword: currently costs <Num0> coins.	精金长剑：当前价格为<Num0>金币。	gameText		
+Bronze dagger: currently costs <Num0> coins.	青铜匕首：当前价格为<Num0>金币。	gameText		
+Iron dagger: currently costs <Num0> coins.	铁制匕首：当前价格为<Num0>金币。	gameText		
+Steel dagger: currently costs <Num0> coins.	钢制匕首：当前价格为<Num0>金币。	gameText		
+Black dagger: currently costs <Num0> coins.	黑铁匕首：当前价格为<Num0>金币。	gameText		
+Mithril dagger: currently costs <Num0> coins.	秘银匕首：当前价格为<Num0>金币。	gameText		
+Adamant dagger: currently costs <Num0> coins.	精金匕首：当前价格为<Num0>金币。	gameText		
+Cabbage: currently costs <Num0> coins.	卷心菜：当前价格为<Num0>金币。	gameText		
+Potato: currently costs <Num0> coins.	土豆：当前价格为<Num0>金币。	gameText		
+Onion: currently costs <Num0> coins.	洋葱：当前价格为<Num0>金币。	gameText		
+Tomato: currently costs <Num0> coins.	番茄：当前价格为<Num0>金币。	gameText		
+Garlic: currently costs <Num0> coins.	大蒜：当前价格为<Num0>金币。	gameText		
+Jug of wine: currently costs <Num0> coins.	葡萄酒：当前价格为<Num0>金币。	gameText		
+Jug: currently costs <Num0> coins.	壶：当前价格为<Num0>金币。	gameText		
+Empty jug pack: currently costs <Num0> coins.	一组空壶：当前价格为<Num0>金币。	gameText		
+Bottle of wine: currently costs <Num0> coins.	一瓶葡萄酒：当前价格为<Num0>金币。	gameText		
+Jug of vinegar: currently costs <Num0> coins.	一壶醋：当前价格为<Num0>金币。	gameText		
+You have nothing to collect.	你没有什么可收集的。	gameText		
+You can't use this on players; it only works on monsters!	你不能对玩家使用这个；它只对怪物有效！	gameText		
+You haven't got the required items.	你没有所需的物品。	gameText		
+You fill the bowl from the fountain.	你用喷泉装满了碗。	gameText		
+You fill the jug from the fountain.	你用喷泉装满了壶。	gameText		
+You fill the bucket from the fountain.	你用喷泉装满了桶。	gameText		
+You fill the vial from the fountain.	你用喷泉装满了小瓶。	gameText		
+You fill the waterskin from the fountain.	你用喷泉装满了水袋。	gameText		
+You fill the empty cup from the fountain.	你用喷泉装满了空杯。	gameText		
+You fill the watering can from the fountain.	你用喷泉装满了浇水壶。	gameText		
+You fill the gricoller's can from the fountain.	你用喷泉装满了格里科勒的罐。	gameText		
+You fill the empty fishbowl from the fountain.	你用喷泉装满了空鱼缸。	gameText		
