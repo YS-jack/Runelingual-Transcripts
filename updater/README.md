@@ -1,4 +1,4 @@
-# RuneLingual Transcript Updater
+﻿# RuneLingual Transcript Updater
 
 Welcome to the updater directory of the RuneLingual Transcript Sources. This directory contains scripts and utilities to update and maintain the transcripts used by the RuneLingual plugin.
 
@@ -76,27 +76,29 @@ After you've made progress with translation and want to update the plugin, you c
 7. Check the output folder. The output will be found under [the draft folder](../draft/)/(language_code)/char foler.
 <br> You are likely to find that some letters don't fit in the canvas, and some have too much room.
     - Change the vairables you have set in Step 5. Probably the font_size_lang and canvas_size_lang would change, and the latter 2 not.
-    - Optimize width of each characters by adding a function to `setGoodFontSize()` like
+    - Optimize width of each characters by adding a new language branch to `setGoodParam()` like:
     ```python
-    def setGoodCharWidth(char, lang): # setting width for a specific character. add more languages as needed
+    def setGoodParam(char, lang): # setting width for a specific character. add more languages as needed
         if lang == 'ja':
             return setJaFontSize(char)
         elif lang == 'ru':
             return setRuFontSize(char)
+        elif lang == '(TargetLang)':
+            return set(TargetLang)FontSize(char)
         else:
-            return CANV_WIDTH
+            return CANV_WIDTH, CANV_HEIGHT, TEXTPAD
 
-    def setJaFontSize(char):
+    def set(TargetLang)FontSize(char):
         width = CANV_WIDTH
-        if char in ('M', 'W'): # these characters wider than normal, so set their width to be wider
-            width = math.ceil(CANV_WIDTH*1.02)
-        elif char in ('%', '@', 'm', '#'):
-            width = CANV_WIDTH
-        ...
-        return width
+        height = CANV_HEIGHT
+        new_text_pad = TEXTPAD
+        if char in ('O'):
+            width = math.ceil(CANV_WIDTH*0.82)
+        elif char in ('?', '?', '?', '?', '(', '?', ')', '+', '-', '.', '*', ':', '!', '`', '|', ';', 'l'):
+            width = math.ceil(CANV_WIDTH*0.42)
+        return width, height, new_text_pad
     ```
-    Here you can set width for each individual characters.
-<br>This is necessary because some characters such as `W` and `M` can be wide, while `i`, `l`, `.` are much narrower.
+    Here you can set width for each individual characters. The function must return three values: `(width, height, text_padding)`.<br>This is necessary because some characters such as `W` and `M` can be wide, while `i`, `l`, `.` are much narrower.
 8. Repeat Step 6 and 7 to get a natural looking set of characters.
 9. Delete the unzipped `char_??` file, as the plugin only downloads the `char_??.zip` to aquire the character images.
 10. Add, commit, push, and make a PR for one of the devs to accept.
@@ -112,3 +114,5 @@ Need a hand or have a question? Join us on our [Discord server](https://discord.
 ## License
 
 This project is licensed under the [MIT License](../LICENSE).
+
+
