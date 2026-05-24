@@ -174,13 +174,9 @@ def create_images(chars_list, font_path, output_dir, colors, lang):
 
             draw = ImageDraw.Draw(image)
             #draw shade of character for yellow only, because overhead texts look strange without it
-            temp_img = Image.new('L', (new_width, new_height), 0)
-            temp_draw = ImageDraw.Draw(temp_img)
-            temp_draw.text((new_text_padding[0], new_text_padding[1]), char, font=font, fill=255)
-            mask_img = temp_img.point(lambda x: 255 if x > 128 else 0, mode='1')
             if colorName == 'yellow':
-                draw.bitmap((new_text_padding[0] + BGTXTPAD[0], new_text_padding[1]+BGTXTPAD[1]), mask_img, fill=BGTEXTCOLOR[i])
-            draw.bitmap((new_text_padding[0], new_text_padding[1]), mask_img, fill=color)
+                draw.text((new_text_padding[0] + BGTXTPAD[0], new_text_padding[1]+BGTXTPAD[1]), char, font=font, fill=BGTEXTCOLOR[i])
+            draw.text((new_text_padding[0], new_text_padding[1]), char, font=font, fill=color)  # Draw the character
             image_file_name = f'{charName}.png'
             image.save(os.path.join(output_dir, image_file_name))  # Save the image
 
