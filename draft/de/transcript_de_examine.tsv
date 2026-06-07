@@ -12272,8 +12272,8 @@ Mine mine mine mine HIS!	Mein mein mein mein SEINS!	examine	npc	Miner
 He could have been a great ballet dancer if they'd let him try.	Er hätte ein großartiger Balletttänzer werden können, hätte man ihn es versuchen lassen.	examine	npc	Miner
 Secretly, he'd like to rescue princesses and eat mushrooms.	Insgeheim würde er gern Prinzessinnen retten und Pilze essen.	examine	npc	Miner
 He's supporting 3 small children. Very small children.	Er versorgt 3 kleine Kinder. Sehr kleine Kinder.	examine	npc	Miner
-Keeps order in Seers bank.	Hält die Ordnung in der Bank von Seers' Village aufrecht.	examine	npc	Guard
-Keeps order in Seers and Catherby bank.	Hält die Ordnung in der Bank von Seers' Village und Catherby aufrecht.	examine	npc	Guard
+Keeps order in Seers bank.	Hält die Ordnung in der Bank vom Dorf der Seher aufrecht.	examine	npc	Guard
+Keeps order in Seers and Catherby bank.	Hält die Ordnung in der Bank vom Dorf der Seher und Catherby aufrecht.	examine	npc	Guard
 Master of all clues.	Meister aller Hinweise.	examine	npc	Sherlock
 A follower of Bandos.	Ein Anhänger von Bandos.	examine	npc	Bandosian guard
 The good doctor.	Der gute Doktor.	examine	npc	Dr Ford
@@ -20197,8 +20197,8 @@ Don't fancy your chances.	Ich gebe dir keine großen Chancen.	examine	object	Cou
 The gate is locked.	Das Tor ist verschlossen.	examine	object	Locked gate
 Stairs leading to the courtroom.	Eine Treppe, die zum Gerichtssaal führt.	examine	object	Stairs
 The gate to exit the courtroom.	Das Tor, um den Gerichtssaal zu verlassen.	examine	object	Gate
-A citizen of Seers' Village.	Ein Bürger von Seers' Village.	examine	object	Citizen
-A citizen of the Seers village.	Ein Bürger von Seers' Village.	examine	object	Citizen
+A citizen of Seers' Village.	Ein Bürger vom Dorf der Seher.	examine	object	Citizen
+A citizen of the Seers village.	Ein Bürger vom Dorf der Seher.	examine	object	Citizen
 A statue of a Knight of Camelot.	Eine Statue eines Ritters von Camelot.	examine	object	Statue
 It looks like a spiders' nest to me.	Mir kommt das wie ein Spinnennest vor.	examine	object	Spiders' nest
 Looks like the killer smashed this to leave the mansion.	Sieht aus, als hätte der Mörder dies zerschlagen, um das Herrenhaus zu verlassen.	examine	object	Smashed window
@@ -21535,7 +21535,7 @@ He was always there to ask and answer one simple question.	Er war immer da, um e
 A gateway to Varrock.	Ein Tor nach Varrock.	examine	object	Varrock Portal
 A gateway to the Grand Exchange.	Ein Tor zur Grand Exchange.	examine	object	Grand Exchange Portal
 A gateway to Camelot.	Ein Tor nach Camelot.	examine	object	Camelot Portal
-A gateway to Seers' Village.	Ein Tor nach Seers' Village.	examine	object	Seers' Village Portal
+A gateway to Seers' Village.	Ein Tor zum Dorf der Seher.	examine	object	Seers' Village Portal
 A gateway to the Yanille Watchtower.	Ein Tor zum Yanille Watchtower.	examine	object	Yanille Watchtower Portal
 A gateway to Yanille.	Ein Tor nach Yanille.	examine	object	Yanille Portal
 A gateway to the Yanille watchtower.	Ein Tor zum Yanille Watchtower.	examine	object	Yanille Portal

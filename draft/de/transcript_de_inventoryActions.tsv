@@ -2,10 +2,10 @@ english	translation	category	sub_category	source
 Destroy	Zerstören	inventoryActions	item	Dwarf remains
 Drop	Fallen lassen	inventoryActions	item	Steel cannonball
 Read	Lesen	inventoryActions	item	Nulodion's notes
-Set-up	Aufstellen	inventoryActions	item	Cannon base
+Set-up	Stell-Auf	inventoryActions	item	Cannon base
 Blow	Blasen	inventoryActions	item	Magic whistle
 Ring	Läuten	inventoryActions	item	Grail bell
-Blow-on	Anpusten	inventoryActions	item	Magic gold feather
+Blow-on	Puste-An	inventoryActions	item	Magic gold feather
 Extinguish	Löschen	inventoryActions	item	Lit black candle
 Wield	Anlegen	inventoryActions	item	Excalibur
 Wear	Anlegen	inventoryActions	item	Khazard helmet
@@ -19,15 +19,15 @@ Open	Öffnen	inventoryActions	item	Casket
 Throw	Werfen	inventoryActions	item	Bird feed
 Bury	Begraben	inventoryActions	item	Bones
 Inspect	Begutachten	inventoryActions	item	Ghost's skull
-Bail-with	Ausschöpfen mit	inventoryActions	item	Bailing bucket
+Bail-with	Schöpfe-Mit	inventoryActions	item	Bailing bucket
 Activate	Aktivieren	inventoryActions	item	Locating crystal
 Search	Durchsuchen	inventoryActions	item	Panning tray
 Polish	Polieren	inventoryActions	item	Buttons
-Look-at	Ansehen	inventoryActions	item	Level 1 certificate
+Look-at	Schau-An	inventoryActions	item	Level 1 certificate
 Complete	Abschließen	inventoryActions	item	Radimus notes
 Swing	Schwingen	inventoryActions	item	Bullroarer
 Look	Schauen	inventoryActions	item	Sketch
-Enchant-Vials	Phiolen verzaubern	inventoryActions	item	Binding book
+Enchant-Vials	Verzaubere-Phiolen	inventoryActions	item	Binding book
 Investigate	Untersuchen	inventoryActions	item	Dark dagger
 Cast Spell	Zauber wirken	inventoryActions	item	Holy force
 Hold	Halten	inventoryActions	item	Gnomeball
@@ -35,7 +35,7 @@ Dig	Graben	inventoryActions	item	Spade
 Blackout	Verdunkeln	inventoryActions	item	Disk of returning
 Check	Prüfen	inventoryActions	item	Iban's staff
 Locate	Orten	inventoryActions	item	Air talisman
-Rub-together	Aneinanderreiben	inventoryActions	item	Dry sticks
+Rub-together	Reibe-Zusammen	inventoryActions	item	Dry sticks
 Study	Studieren	inventoryActions	item	Map part
 Rub	Reiben	inventoryActions	item	Amulet of glory
 Edgeville	Edgeville	inventoryActions	item	Amulet of glory(1)
@@ -44,21 +44,21 @@ Draynor Village	Draynor Village	inventoryActions	item	Amulet of glory(1)
 Al Kharid	Al Kharid	inventoryActions	item	Amulet of glory(1)
 Tan Leather	Leder gerben	inventoryActions	item	Leather
 Empty Bowl	Schüssel leeren	inventoryActions	item	Burnt stew
-Mix-cocktail	Cocktail mixen	inventoryActions	item	Cocktail shaker
-Remove-legs	Beinschutz ablegen	inventoryActions	item	Swamp toad
+Mix-cocktail	Misch-Cocktail	inventoryActions	item	Cocktail shaker
+Remove-legs	Entferne-Beinschutz	inventoryActions	item	Swamp toad
 Prepare	Vorbereiten	inventoryActions	item	Half baked bowl
 Empty Tray	Tablett leeren	inventoryActions	item	Burnt crunchies
 Empty Tin	Dose leeren	inventoryActions	item	Burnt batta
 Empty Dish	Schale leeren	inventoryActions	item	Burnt pie
 Guzzle	Verschlingen	inventoryActions	item	Rock cake
-Play-with	Spielen mit	inventoryActions	item	Brown toy horsey
+Play-with	Spiel-Mit	inventoryActions	item	Brown toy horsey
 Recharge Dragonstone	Drachenstein aufladen	inventoryActions	item	Dead orb
 Break	Zerbrechen	inventoryActions	item	Ring of recoil
 Emir's Arena	Emir's Arena	inventoryActions	item	Ring of dueling(8)
 Castle Wars	Schlosskriege	inventoryActions	item	Ring of dueling(8)
 Ferox Enclave	Ferox Enclave	inventoryActions	item	Ring of dueling(8)
 Fortis Colosseum	Fortis Colosseum	inventoryActions	item	Ring of dueling(8)
-Toggle-respawn	Wiederbelebung umschalten	inventoryActions	item	Ring of life
+Toggle-respawn	Schalte-Wiederbelebung	inventoryActions	item	Ring of life
 Features	Funktionen	inventoryActions	item	Ring of wealth
 Look through	Durchschauen	inventoryActions	item	Sextant
 Check steps	Schritte prüfen	inventoryActions	item	Clue scroll (easy)
@@ -77,7 +77,7 @@ Neitiznot	Neitiznot	inventoryActions	item	Enchanted lyre(1)
 Jatiszo	Jatiszo	inventoryActions	item	Enchanted lyre(1)
 Interact	Interagieren	inventoryActions	item	Pet rock
 Shake	Schütteln	inventoryActions	item	Vase
-Remove-lid	Deckel abnehmen	inventoryActions	item	Sealed vase
+Remove-lid	Entferne-Deckel	inventoryActions	item	Sealed vase
 Preach	Predigen	inventoryActions	item	Holy book
 Burthorpe	Burthorpe	inventoryActions	item	Games necklace(8)
 Barbarian Outpost	Barbarian Outpost	inventoryActions	item	Games necklace(8)
@@ -98,12 +98,12 @@ Log	Protokoll	inventoryActions	item	Enchanted gem
 Repair	Reparieren	inventoryActions	item	Model ship
 Follow	Folgen	inventoryActions	item	Treasure map
 Count	Zählen	inventoryActions	item	Petition form
-Check-keys	Schlüssel prüfen	inventoryActions	item	Steel key ring
+Check-keys	Prüfe-Schlüssel	inventoryActions	item	Steel key ring
 Fling	Schleudern	inventoryActions	item	Easter basket
 Dance	Tanzen	inventoryActions	item	Rubber chicken
 Assemble	Zusammenbauen	inventoryActions	item	Base schematics
 Spin	Drehen	inventoryActions	item	Spinning plate
-Remove-one	Einen entnehmen	inventoryActions	item	Apples(2)
+Remove-one	Entferne-Einen	inventoryActions	item	Apples(2)
 Build	Bauen	inventoryActions	item	Rogue kit
 Slice	Schneiden	inventoryActions	item	Rotten potato
 Peel	Schälen	inventoryActions	item	Rotten potato
@@ -115,52 +115,52 @@ Uncharge	Entladen	inventoryActions	item	Broodoo shield (10)
 Scan	Scannen	inventoryActions	item	Commorb
 Contact	Kontaktieren	inventoryActions	item	Commorb
 Playback	Wiedergabe	inventoryActions	item	Commorb
-Talk-At	Ansprechen	inventoryActions	item	Fishbowl
-Play-With	Spielen mit	inventoryActions	item	Fishbowl
+Talk-At	Sprich-An	inventoryActions	item	Fishbowl
+Play-With	Spiel-Mit	inventoryActions	item	Fishbowl
 Feed	Füttern	inventoryActions	item	Fishbowl
 Untangle	Entwirren	inventoryActions	item	Fishbowl and net
-Check-charge	Ladung prüfen	inventoryActions	item	Camulet
+Check-charge	Prüfe-Ladung	inventoryActions	item	Camulet
 Teleport	Teleportieren	inventoryActions	item	Camulet
 Display	Anzeigen	inventoryActions	item	Zombie head
 Question	Befragen	inventoryActions	item	Zombie head
 Chant	Singen	inventoryActions	item	Demonic sigil
 Feel	Fühlen	inventoryActions	item	Enchanted key
-Remove-rat	Ratte entfernen	inventoryActions	item	Rat pole
+Remove-rat	Entferne-Ratte	inventoryActions	item	Rat pole
 Geomancy	Geomantie	inventoryActions	item	Watering can
 Jump	Springen	inventoryActions	item	Blue marionette
 Bow	Verbeugen	inventoryActions	item	Blue marionette
-Talk-to	Ansprechen	inventoryActions	item	Progress hat
+Talk-to	Sprich-Mit	inventoryActions	item	Progress hat
 Return	Zurückgeben	inventoryActions	item	Prison key
 Smell	Riechen	inventoryActions	item	Spicy stew
-Release-all	Alle freilassen	inventoryActions	item	Balloon toad
+Release-all	Lass-Alle-Frei	inventoryActions	item	Balloon toad
 Wind	Aufziehen	inventoryActions	item	Toy soldier
 Separate	Trennen	inventoryActions	item	Kbd heads
 Unstuff	Füllung entnehmen	inventoryActions	item	Stuffed crawling hand
 Varrock	Varrock	inventoryActions	item	Varrock teleport
 Grand Exchange	Grand Exchange	inventoryActions	item	Varrock teleport
 Camelot	Camelot	inventoryActions	item	Camelot teleport
-Seers' Village	Seers' Village	inventoryActions	item	Camelot teleport
+Seers' Village	Dorf der Seher	inventoryActions	item	Camelot teleport
 Watchtower	Wachturm	inventoryActions	item	Watchtower teleport
 Yanille	Yanille	inventoryActions	item	Watchtower teleport
 Inside	Innen	inventoryActions	item	Teleport to house
 Outside	Außen	inventoryActions	item	Teleport to house
 Group	Gruppe	inventoryActions	item	Teleport to house
 Info	Info	inventoryActions	item	Enchant sapphire or opal
-Dust-hands	Hände abklopfen	inventoryActions	item	Ground ashes
-Talk-To	Ansprechen	inventoryActions	item	Monkey
+Dust-hands	Klopfe-Hände-Ab	inventoryActions	item	Ground ashes
+Talk-To	Sprich-Mit	inventoryActions	item	Monkey
 Invoke	Beschwören	inventoryActions	item	Skull sceptre
 Divine	Erspüren	inventoryActions	item	Skull sceptre
 Convert	Umwandeln	inventoryActions	item	Pharaoh's sceptre
 Launch	Abfeuern	inventoryActions	item	Grand seed pod
 Squash	Zerquetschen	inventoryActions	item	Grand seed pod
 Pour	Gießen	inventoryActions	item	Mixed blizzard
-Add-ingreds	Zutaten hinzufügen	inventoryActions	item	Mixed saturday
+Add-ingreds	Füge-Zutaten-Hinzu	inventoryActions	item	Mixed saturday
 Unpack	Auspacken	inventoryActions	item	Proselyte harness m
-Shape-Earth	Erde formen	inventoryActions	item	Page 1
-Shape-Air	Luft formen	inventoryActions	item	Page 1
-Shape-Fire	Feuer formen	inventoryActions	item	Page 2
-Shape-Water	Wasser formen	inventoryActions	item	Page 2
-Shape-Mind	Geist formen	inventoryActions	item	Page 3
+Shape-Earth	Forme-Erde	inventoryActions	item	Page 1
+Shape-Air	Forme-Luft	inventoryActions	item	Page 1
+Shape-Fire	Forme-Feuer	inventoryActions	item	Page 2
+Shape-Water	Forme-Wasser	inventoryActions	item	Page 2
+Shape-Mind	Forme-Geist	inventoryActions	item	Page 3
 Boost	Verstärken	inventoryActions	item	Attack cape
 Warriors' Guild	Warriors' Guild	inventoryActions	item	Strength cape
 Toggle Effect	Effekt umschalten	inventoryActions	item	Defence cape
@@ -172,7 +172,7 @@ Arceuus	Arceuus	inventoryActions	item	Magic cape
 Standard	Standard	inventoryActions	item	Magic cape
 Ancient	Uralt	inventoryActions	item	Magic cape
 Stamina Boost	Ausdauerschub	inventoryActions	item	Agility cape
-Tele to POH	Zum Spielerhaus teleportieren	inventoryActions	item	Construct. cape
+Tele to POH	Zum Spielerhaus	inventoryActions	item	Construct. cape
 Brimhaven	Brimhaven	inventoryActions	item	Construct. cape
 Home	Heim	inventoryActions	item	Construct. cape
 Rimmington	Rimmington	inventoryActions	item	Construct. cape
@@ -194,25 +194,25 @@ Check Totals	Gesamtwerte prüfen	inventoryActions	item	Butterfly net
 Bank	Einlagern	inventoryActions	item	Imp-in-a-box(2)
 Translate	Übersetzen	inventoryActions	item	Research notes
 Prance	Stolzieren	inventoryActions	item	Reindeer hat
-Write-Role	Rolle wählen	inventoryActions	item	Scroll
+Write-Role	Wähle-Rolle	inventoryActions	item	Scroll
 Clear	Leeren	inventoryActions	item	Scroll
-Tell-red	Sagen - Rot	inventoryActions	item	Attacker horn
-Tell-green	Sagen - Grün	inventoryActions	item	Attacker horn
-Tell-blue	Sagen - Blau	inventoryActions	item	Attacker horn
+Tell-red	Sag-Rot	inventoryActions	item	Attacker horn
+Tell-green	Sag-Grün	inventoryActions	item	Attacker horn
+Tell-blue	Sag-Blau	inventoryActions	item	Attacker horn
 Medic	Sanitäter	inventoryActions	item	Attacker horn
-Look-in	Hineinsehen	inventoryActions	item	Collection bag
-Tell-tofu	Sagen - Tofu	inventoryActions	item	Healer horn
-Tell-crackers	Sagen - Kräcker	inventoryActions	item	Healer horn
-Tell-worms	Sagen - Würmer	inventoryActions	item	Healer horn
-Tell-meat	Sagen - Fleisch	inventoryActions	item	Defender horn
-Tell-controlled	Sagen - Kontrolliert	inventoryActions	item	Collector horn
-Tell-accurate	Sagen - Genau	inventoryActions	item	Collector horn
-Tell-aggressive	Sagen - Aggressiv	inventoryActions	item	Collector horn
-Tell-defensive	Sagen - Defensiv	inventoryActions	item	Collector horn
+Look-in	Schau-Rein	inventoryActions	item	Collection bag
+Tell-tofu	Sag-Tofu	inventoryActions	item	Healer horn
+Tell-crackers	Sag-Kräcker	inventoryActions	item	Healer horn
+Tell-worms	Sag-Würmer	inventoryActions	item	Healer horn
+Tell-meat	Sag-Fleisch	inventoryActions	item	Defender horn
+Tell-controlled	Sag-Kontrolliert	inventoryActions	item	Collector horn
+Tell-accurate	Sag-Genau	inventoryActions	item	Collector horn
+Tell-aggressive	Sag-Aggressiv	inventoryActions	item	Collector horn
+Tell-defensive	Sag-Defensiv	inventoryActions	item	Collector horn
 Check tax	Steuer prüfen	inventoryActions	item	Empty tax bag
 Check taxes	Steuern prüfen	inventoryActions	item	Bulging taxbag
-Pray-over	Beten über	inventoryActions	item	Blessed lamp
-Recite-prayer	Gebet aufsagen	inventoryActions	item	Prayer book
+Pray-over	Bete-Über	inventoryActions	item	Blessed lamp
+Recite-prayer	Sag-Gebet-Auf	inventoryActions	item	Prayer book
 Operate	Bedienen	inventoryActions	item	Beacon ring
 Farming Guild	Farming Guild	inventoryActions	item	Skills necklace(4)
 Mining Guild	Mining Guild	inventoryActions	item	Skills necklace(4)
@@ -228,12 +228,12 @@ Lithkren Dungeon	Lithkren Dungeon	inventoryActions	item	Digsite pendant (1)
 Digsite	Digsite	inventoryActions	item	Digsite pendant (1)
 Loot	Plündern	inventoryActions	item	Baby impling jar
 Impling-jar	Impling-Glas	inventoryActions	item	Jar generator
-Butterfly-jar	Schmetterlingsglas	inventoryActions	item	Jar generator
-Toggle-view	Ansicht umschalten	inventoryActions	item	Impling scroll
+Butterfly-jar	Schmetterlings-Glas	inventoryActions	item	Jar generator
+Toggle-view	Schalte-Ansicht	inventoryActions	item	Impling scroll
 Copy to log	Ins Protokoll kopieren	inventoryActions	item	Ancient page
 Discard	Verwerfen	inventoryActions	item	Anti-dragon shield (nz)
-Take-one	Einen nehmen	inventoryActions	item	Herb box
-Bank-all	Alle einlagern	inventoryActions	item	Herb box
+Take-one	Nimm-Einen	inventoryActions	item	Herb box
+Bank-all	Lagere-Alle	inventoryActions	item	Herb box
 Refund	Erstatten	inventoryActions	item	Scroll of redirection
 Revert	Zurücksetzen	inventoryActions	item	Rimmington teleport
 Dismantle	Zerlegen	inventoryActions	item	Armadyl godsword
@@ -242,7 +242,7 @@ Fremennik Dungeon	Fremennik Dungeon	inventoryActions	item	Slayer ring (8)
 Dark Beasts	Dark Beasts	inventoryActions	item	Slayer ring (8)
 Master	Meister	inventoryActions	item	Slayer ring (8)
 Stronghold	Stronghold	inventoryActions	item	Slayer ring (8)
-Slayer Tower	Schlächter Tower	inventoryActions	item	Slayer ring (8)
+Slayer Tower	Schlächterturm	inventoryActions	item	Slayer ring (8)
 Tarn's Lair	Tarn's Lair	inventoryActions	item	Slayer ring (8)
 Deposit	Einzahlen	inventoryActions	item	Looting bag
 Settings	Einstellungen	inventoryActions	item	Looting bag
@@ -281,7 +281,7 @@ Ectofuntus Pit	Ectofuntus-Grube	inventoryActions	item	Morytania legs 1
 Burgh Teleport	Burgh-Teleport	inventoryActions	item	Morytania legs 3
 Burgh de Rott	Burgh de Rott	inventoryActions	item	Morytania legs 3
 Activity	Aktivität	inventoryActions	item	Bonecrusher
-Recharge-prayer	Gebet aufladen	inventoryActions	item	Falador shield 1
+Recharge-prayer	Lade-Gebet-Auf	inventoryActions	item	Falador shield 1
 Recharge Prayer	Gebet aufladen	inventoryActions	item	Falador shield 1
 Monastery Teleport	Kloster-Teleport	inventoryActions	item	Ardougne cloak 1
 Kandarin Monastery	Kandarin-Kloster	inventoryActions	item	Ardougne cloak 1
@@ -295,7 +295,7 @@ Kalphite cave	Kalphiten-Höhle	inventoryActions	item	Desert amulet 4
 Emote	Emote	inventoryActions	item	Diango's claws
 Redeem	Einlösen	inventoryActions	item	Old school bond
 Restore	Wiederherstellen	inventoryActions	item	Tanzanite helm (uncharged)
-Scramble	Rührbraten	inventoryActions	item	Rotten egg
+Scramble	Verrühren	inventoryActions	item	Rotten egg
 Poach	Pochieren	inventoryActions	item	Rotten egg
 Fry	Braten	inventoryActions	item	Rotten egg
 Pickle	Einlegen	inventoryActions	item	Rotten egg
@@ -318,7 +318,7 @@ Xeric's Glade	Xeric's Glade	inventoryActions	item	Xeric's talisman
 Xeric's Inferno	Xeric's Inferno	inventoryActions	item	Xeric's talisman
 Xeric's Heart	Xeric's Heart	inventoryActions	item	Xeric's talisman
 Xeric's Honour	Xeric's Honour	inventoryActions	item	Xeric's talisman
-Take-grubs	Maden nehmen	inventoryActions	item	Bucket of sandworms
+Take-grubs	Nimm-Maden	inventoryActions	item	Bucket of sandworms
 Pack	Packen	inventoryActions	item	Shayzien supply crate
 Check charges	Ladungen prüfen	inventoryActions	item	Chronicle
 Check Charges	Ladungen prüfen	inventoryActions	item	Chronicle
@@ -340,16 +340,16 @@ Options	Optionen	inventoryActions	item	Amulet of chemistry
 Bandit Camp	Bandit Camp	inventoryActions	item	Burning amulet(5)
 Lava Maze	Lava Maze	inventoryActions	item	Burning amulet(5)
 Chaos Temple	Chaos Temple	inventoryActions	item	Burning amulet(5)
-Change-style	Stil ändern	inventoryActions	item	Rainbow scarf
+Change-style	Ändere-Stil	inventoryActions	item	Rainbow scarf
 Chill	Fächeln	inventoryActions	item	Hand fan
 Remove default	Standard entfernen	inventoryActions	item	Master scroll book
-Throw-water	Wasser werfen	inventoryActions	item	Heat-proof vessel
-Throw-water direction	Wasserwurf-Richtung	inventoryActions	item	Heat-proof vessel
-Check-level	Stufe prüfen	inventoryActions	item	Heat-proof vessel
-Throw-water north	Wasser nach Norden werfen	inventoryActions	item	Heat-proof vessel
-Throw-water east	Wasser nach Osten werfen	inventoryActions	item	Heat-proof vessel
-Throw-water south	Wasser nach Süden werfen	inventoryActions	item	Heat-proof vessel
-Throw-water west	Wasser nach Westen werfen	inventoryActions	item	Heat-proof vessel
+Throw-water	Wirf-Wasser	inventoryActions	item	Heat-proof vessel
+Throw-water direction	Wirf-Wasser Richtung	inventoryActions	item	Heat-proof vessel
+Check-level	Prüfe-Stufe	inventoryActions	item	Heat-proof vessel
+Throw-water north	Wirf-Wasser Norden	inventoryActions	item	Heat-proof vessel
+Throw-water east	Wirf-Wasser Osten	inventoryActions	item	Heat-proof vessel
+Throw-water south	Wirf-Wasser Süden	inventoryActions	item	Heat-proof vessel
+Throw-water west	Wirf-Wasser Westen	inventoryActions	item	Heat-proof vessel
 Roll	Rollen	inventoryActions	item	Hoop snake
 Recharge	Aufladen	inventoryActions	item	Ancient wyvern shield
 Channel	Kanalisieren	inventoryActions	item	Merfolk trident
@@ -361,7 +361,7 @@ The Fisher's Flute	Die Flöte des Fischers	inventoryActions	item	Kharedst's memo
 History and Hearsay	Geschichte und Gerüchte	inventoryActions	item	Kharedst's memoirs
 Jewellery of Jubilation	Schmuck des Jubels	inventoryActions	item	Kharedst's memoirs
 A Dark Disposition	Eine düstere Gemütslage	inventoryActions	item	Kharedst's memoirs
-Toggle-absorption	Absorption umschalten	inventoryActions	item	Bracelet of ethereum
+Toggle-absorption	Schalte-Absorption	inventoryActions	item	Bracelet of ethereum
 Toggle absorption	Absorption umschalten	inventoryActions	item	Bracelet of ethereum
 Elite	Elite	inventoryActions	item	Useful rock
 Assessment	Bewertung	inventoryActions	item	Useful rock
@@ -378,12 +378,12 @@ Kill Bot	Bot töten	inventoryActions	item	Rotten carrot
 Kill Area	Gebiet töten	inventoryActions	item	Rotten carrot
 Change	Ändern	inventoryActions	item	Sinhaza shroud tier 1
 Auto-afk	Auto-AFK	inventoryActions	item	Escape crystal
-Open-all	Alle öffnen	inventoryActions	item	Coin pouch
+Open-all	Öffne-Alle	inventoryActions	item	Coin pouch
 Close	Schließen	inventoryActions	item	Looting bag
 Weiss	Weiss	inventoryActions	item	Icy basalt
 Troll Stronghold	Troll-Festung	inventoryActions	item	Stony basalt
-Troll Stronghold entrance	Troll-Stronghold-Eingang	inventoryActions	item	Stony basalt
-Troll Stronghold roof	Troll-Stronghold-Dach	inventoryActions	item	Stony basalt
+Troll Stronghold entrance	Troll-Festung-Eingang	inventoryActions	item	Stony basalt
+Troll Stronghold roof	Troll-Festung-Dach	inventoryActions	item	Stony basalt
 Collections overview	Sammlungsübersicht	inventoryActions	item	Collection log
 Collections Overview	Sammlungsübersicht	inventoryActions	item	Collection log
 Collection Log	Sammlungsprotokoll	inventoryActions	item	Collection log
@@ -392,31 +392,31 @@ Kourend Woodland	Kourend Woodland	inventoryActions	item	Rada's blessing 1
 Mount Karuulm	Mount Karuulm	inventoryActions	item	Rada's blessing 3
 Check/Uncharge	Prüfen/Entladen	inventoryActions	item	Bonecrusher necklace
 Take	Nehmen	inventoryActions	item	Seed pack
-Take-all	Alle nehmen	inventoryActions	item	Seed pack
+Take-all	Nimm-Alle	inventoryActions	item	Seed pack
 Easter dance	Oster-Tanz	inventoryActions	item	Giant easter egg
-Cut-open	Aufschneiden	inventoryActions	item	Giant egg sac(full)
-Check-eggs	Eier prüfen	inventoryActions	item	Giant egg sac(full)
-Remove-eggs	Eier entnehmen	inventoryActions	item	Giant egg sac
+Cut-open	Schneide-Auf	inventoryActions	item	Giant egg sac(full)
+Check-eggs	Prüfe-Eier	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	Entferne-Eier	inventoryActions	item	Giant egg sac
 Scrutinise	Genau prüfen	inventoryActions	item	Guthixian icon
 Trophy Emote	Trophäen-Emote	inventoryActions	item	Twisted dragon trophy
 Twisted Relic Emote	Twisted-Relikt-Emote	inventoryActions	item	Twisted cane
 Chase	Verfolgen	inventoryActions	item	Cat ears
-Open-All	Alle öffnen	inventoryActions	item	Supply crate
+Open-All	Öffne-Alle	inventoryActions	item	Supply crate
 Trailblazer Relic Emote	Trailblazer-Relikt-Emote	inventoryActions	item	Trailblazer cane
 Trailblazer Area Emote	Trailblazer-Gebiets-Emote	inventoryActions	item	Trailblazer cane
-Change-Style	Stil ändern	inventoryActions	item	Infernal harpoon (or)
-Last-destination	Letztes Ziel	inventoryActions	item	Fairy mushroom
-Fairy-Ring	Feenring	inventoryActions	item	Fairy mushroom
-Spirit-tree	Geisterbaum	inventoryActions	item	Fairy mushroom
+Change-Style	Ändere-Stil	inventoryActions	item	Infernal harpoon (or)
+Last-destination	Letztes-Ziel	inventoryActions	item	Fairy mushroom
+Fairy-Ring	Feen-Ring	inventoryActions	item	Fairy mushroom
+Spirit-tree	Geister-Baum	inventoryActions	item	Fairy mushroom
 Tool-leprechauns	Werkzeug-Kobolde	inventoryActions	item	Fairy mushroom
-Teleport-back	Zurückteleportieren	inventoryActions	item	Crystal of echoes
-Check-memories	Erinnerungen prüfen	inventoryActions	item	Crystal of echoes
-Save-memory	Erinnerung speichern	inventoryActions	item	Crystal of echoes
+Teleport-back	Teleportiere-Zurück	inventoryActions	item	Crystal of echoes
+Check-memories	Prüfe-Erinnerungen	inventoryActions	item	Crystal of echoes
+Save-memory	Speichere-Erinnerung	inventoryActions	item	Crystal of echoes
 Withdraw	Abheben	inventoryActions	item	Extradimensional bag
 Settings/Destroy	Einstellungen/Zerstören	inventoryActions	item	Extradimensional bag
 League Debug	Liga-Debug	inventoryActions	item	League tomato
 Setups	Konfigurationen	inventoryActions	item	League tomato
-Toggle-colour	Farbe umschalten	inventoryActions	item	Soul cape
+Toggle-colour	Schalte-Farbe	inventoryActions	item	Soul cape
 Use	Benutzen	inventoryActions	item	Tackle box
 Scatter	Verstreuen	inventoryActions	item	Fiendish ashes
 Trollheim	Trollheim	inventoryActions	item	Ghommal's hilt 1
@@ -426,9 +426,9 @@ Attune	Abstimmen	inventoryActions	item	Sigil of resilience
 Unlock	Freischalten	inventoryActions	item	Sigil of deft strikes
 Make scary noise	Gruseliges Geräusch machen	inventoryActions	item	Jered's empty wine bottle
 Reverse	Umkehren	inventoryActions	item	Ugly halloween jumper (orange)
-Wake-ghost	Geist wecken	inventoryActions	item	Haunted wine bottle
-Read-tag	Etikett lesen	inventoryActions	item	Secret santa present (red)
-Change-colour	Farbe ändern	inventoryActions	item	Secret santa present (red)
+Wake-ghost	Weck-Geist	inventoryActions	item	Haunted wine bottle
+Read-tag	Lies-Etikett	inventoryActions	item	Secret santa present (red)
+Change-colour	Ändere-Farbe	inventoryActions	item	Secret santa present (red)
 Dismantle kit	Bausatz zerlegen	inventoryActions	item	Abyssal whip (or)
 Skill Emote	Fertigkeits-Emote	inventoryActions	item	Shattered cane
 Boss Emote	Boss-Emote	inventoryActions	item	Shattered cane
@@ -443,7 +443,7 @@ Air Altar	Luftaltar	inventoryActions	item	Ring of the elements
 Water Altar	Wasseraltar	inventoryActions	item	Ring of the elements
 Earth Altar	Erdaltar	inventoryActions	item	Ring of the elements
 Fire Altar	Feueraltar	inventoryActions	item	Ring of the elements
-Last-Teleport	Letzte Teleportation	inventoryActions	item	Pharaoh's sceptre
+Last-Teleport	Letzter-Teleport	inventoryActions	item	Pharaoh's sceptre
 Jalsavrah	Jalsavrah	inventoryActions	item	Pharaoh's sceptre
 Jaleustrophos	Jaleustrophos	inventoryActions	item	Pharaoh's sceptre
 Jaldraocht	Jaldraocht	inventoryActions	item	Pharaoh's sceptre
@@ -456,7 +456,7 @@ Resupply	Nachschub	inventoryActions	item	Supplies
 Apply	Anwenden	inventoryActions	item	Silk dressing (2)
 Crack	Aufbrechen	inventoryActions	item	Blessed crystal scarab (2)
 Crush	Zerstoßen	inventoryActions	item	Smelling salts (2)
-Take-from	Entnehmen	inventoryActions	item	Infinite money bag
+Take-from	Nimm-Von	inventoryActions	item	Infinite money bag
 Help	Helfen	inventoryActions	item	Fresh start helper
 Accept trick-or-treat	Süßes oder Saures annehmen	inventoryActions	item	Treat cauldron
 Sniff	Schnüffeln	inventoryActions	item	Smelly sock
@@ -473,24 +473,24 @@ Lassar Undercity	Lassar-Unterstadt	inventoryActions	item	Ring of shadows
 The Stranglewood	Der Würgewald	inventoryActions	item	Ring of shadows
 Recall	Zurückrufen	inventoryActions	item	Blackstone fragment
 Squeeze	Zusammendrücken	inventoryActions	item	Detonator
-Set-off	Auslösen	inventoryActions	item	Stink bomb
-Fairy-ring	Feenring	inventoryActions	item	Trinket of fairies
+Set-off	Lös-Aus	inventoryActions	item	Stink bomb
+Fairy-ring	Feen-Ring	inventoryActions	item	Trinket of fairies
 Summon Lil Zuk	Lil Zuk beschwören	inventoryActions	item	Trinket of undead
 Summon Lil Kal	Lil Kal beschwören	inventoryActions	item	Trinket of undead
 Summon Lil Wisp	Lil Wisp beschwören	inventoryActions	item	Trinket of undead
 Nexus	Nexus	inventoryActions	item	Globetrotter pendant
 Jewellery	Schmuck	inventoryActions	item	Globetrotter pendant
-Note-Quantity	Menge notieren	inventoryActions	item	Banker's note
-Un-note-Quantity	Menge entnotieren	inventoryActions	item	Banker's note
+Note-Quantity	Notiere-Menge	inventoryActions	item	Banker's note
+Un-note-Quantity	Entnotiere-Menge	inventoryActions	item	Banker's note
 Summon	Beschwören	inventoryActions	item	Guardian horn
 Dismiss	Entlassen	inventoryActions	item	Guardian horn
-Toggle-modes	Modi umschalten	inventoryActions	item	Guardian horn
-Change-outfit	Outfit wechseln	inventoryActions	item	Guardian horn
+Toggle-modes	Schalte-Modi	inventoryActions	item	Guardian horn
+Change-outfit	Wechsle-Outfit	inventoryActions	item	Guardian horn
 Change Prayerbook	Gebetsbuch wechseln	inventoryActions	item	Ruinous powers
-Toggle-activity	Aktivität umschalten	inventoryActions	item	Echo boots
+Toggle-activity	Schalte-Aktivität	inventoryActions	item	Echo boots
 Signal	Signal geben	inventoryActions	item	Basic quetzal whistle
 Rumour	Gerücht	inventoryActions	item	Basic quetzal whistle
-Break-down	Zerlegen	inventoryActions	item	Blessed bone statuette
+Break-down	Zerleg-Es	inventoryActions	item	Blessed bone statuette
 Darkfrost	Darkfrost	inventoryActions	item	Pendant of ates
 Twilight Temple	Zwielichttempel	inventoryActions	item	Pendant of ates
 Ralos' Rise	Ralos' Aufstieg	inventoryActions	item	Pendant of ates
@@ -499,16 +499,16 @@ Kastori	Kastori	inventoryActions	item	Pendant of ates
 Nemus Retreat	Nemus-Zuflucht	inventoryActions	item	Pendant of ates
 Colour	Farbe	inventoryActions	item	Beige pumpkin (disgusted)
 Carve	Schnitzen	inventoryActions	item	Beige pumpkin (disgusted)
-Withdraw-all	Alle abheben	inventoryActions	item	Forager's pouch
-Withdraw-last	Letztes abheben	inventoryActions	item	Forager's pouch
-Current-step	Aktueller Schritt	inventoryActions	item	Clue compass
+Withdraw-all	Heb-Alle-Ab	inventoryActions	item	Forager's pouch
+Withdraw-last	Heb-Letztes-Ab	inventoryActions	item	Forager's pouch
+Current-step	Aktueller-Schritt	inventoryActions	item	Clue compass
 Collect	Einsammeln	inventoryActions	item	Pocket kingdom
-Manage-kingdom	Königreich verwalten	inventoryActions	item	Pocket kingdom
+Manage-kingdom	Verwalte-Königreich	inventoryActions	item	Pocket kingdom
 Relic Emote	Relikt-Emote	inventoryActions	item	Raging echoes cane
 Area Emote	Gebiets-Emote	inventoryActions	item	Raging echoes cane
 Detach	Abnehmen	inventoryActions	item	Echo venator bow
 Detatch	Abnehmen	inventoryActions	item	Echo ahrim's robeskirt 75
-Create-book	Buch erstellen	inventoryActions	item	Bronze staff of collection
+Create-book	Erstelle-Buch	inventoryActions	item	Bronze staff of collection
 Bryophyta	Bryophyta	inventoryActions	item	Giantsoul amulet
 Obor	Obor	inventoryActions	item	Giantsoul amulet
 Branda and Eldric	Branda und Eldric	inventoryActions	item	Giantsoul amulet
@@ -525,19 +525,19 @@ Touch	Berühren	inventoryActions	item	Keystone fragment
 Breaches	Risse	inventoryActions	item	Events tool
 Events	Ereignisse	inventoryActions	item	Events tool
 Rummage	Durchwühlen	inventoryActions	item	Vale offerings
-Hasty-rummage	Schnell durchwühlen	inventoryActions	item	Vale offerings
+Hasty-rummage	Schnell-Durchwühlen	inventoryActions	item	Vale offerings
 Boat Teleport	Boot-Teleportation	inventoryActions	item	Sailing cape
 Rename Boat	Boot umbenennen	inventoryActions	item	Sailing cape
-Fill-in	Ausfüllen	inventoryActions	item	Form cr-4p
+Fill-in	Füll-Aus	inventoryActions	item	Form cr-4p
 Consult	Befragen	inventoryActions	item	Mayor of catherby
-Crack-open	Aufbrechen	inventoryActions	item	Rubium geode
-Look-through	Hindurchsehen	inventoryActions	item	Spyglass
-Track-current	Strömung verfolgen	inventoryActions	item	Current duck
-Take-reading	Messwert ablesen	inventoryActions	item	Portable weather station
-View-tasks	Aufgaben ansehen	inventoryActions	item	Captain's log
-View-charts	Diagramme ansehen	inventoryActions	item	Captain's log
-Bottle-boat	Boot in Flasche füllen	inventoryActions	item	Boat bottle (empty)
-Unbottle-boat	Boot aus Flasche holen	inventoryActions	item	Boat bottle (full)
+Crack-open	Brich-Auf	inventoryActions	item	Rubium geode
+Look-through	Schau-Durch	inventoryActions	item	Spyglass
+Track-current	Verfolge-Strömung	inventoryActions	item	Current duck
+Take-reading	Lies-Messwert-Ab	inventoryActions	item	Portable weather station
+View-tasks	Sieh-Aufgaben-An	inventoryActions	item	Captain's log
+View-charts	Sieh-Diagramme-An	inventoryActions	item	Captain's log
+Bottle-boat	Füll-Boot-In-Flasche	inventoryActions	item	Boat bottle (empty)
+Unbottle-boat	Hol-Boot-Aus-Flasche	inventoryActions	item	Boat bottle (full)
 Port Roberts	Port Roberts	inventoryActions	item	Sailors' amulet
 Deepfin Point	Deepfin Point	inventoryActions	item	Sailors' amulet
 Note/Unnote	Notieren/Entnotieren	inventoryActions	item	Trinket of avarice
@@ -550,15 +550,15 @@ Remove	Ablegen	inventoryActions	item
 Add	Hinzufügen	inventoryActions	item	
 Add-5	5 hinzufügen	inventoryActions	item	
 Add-10	10 hinzufügen	inventoryActions	item	
-Add-All	Alle hinzufügen	inventoryActions	item	
-Add-X	X hinzufügen	inventoryActions	item	
+Add-All	Füge-Alle-Hinzu	inventoryActions	item	
+Add-X	Füge-X-Hinzu	inventoryActions	item	
 Withdraw-1	1 abheben	inventoryActions	item	
-Withdraw-X	X abheben	inventoryActions	item	
-Withdraw-All-but-1	Alle bis auf 1 abheben	inventoryActions	item	
+Withdraw-X	Heb-X-Ab	inventoryActions	item	
+Withdraw-All-but-1	Hebe-Alle-Außer-1	inventoryActions	item	
 Placeholder	Platzhalter	inventoryActions	item	
-Edit-tags	Etiketten bearbeiten	inventoryActions	item	
-Deposit-X	X einlagern	inventoryActions	item	
-Deposit-All	Alle einlagern	inventoryActions	item	
+Edit-tags	Bearbeite-Etiketten	inventoryActions	item	
+Deposit-X	Lagere-X-Ein	inventoryActions	item	
+Deposit-All	Lagere-Alles	inventoryActions	item	
 Withdraw-5	5 abheben	inventoryActions	item	
 Withdraw-10	10 abheben	inventoryActions	item	
 Withdraw-100	100 abheben	inventoryActions	item	
@@ -569,20 +569,20 @@ Deposit-100	100 einlagern	inventoryActions	item
 Remove-5	5 entfernen	inventoryActions	item	
 Remove-10	10 entfernen	inventoryActions	item	
 Remove-100	100 entfernen	inventoryActions	item	
-Remove-All	Alle entfernen	inventoryActions	item	
-Remove-X	X entfernen	inventoryActions	item	
-Buy-offer	Kaufangebot	inventoryActions	item	
+Remove-All	Entferne-Alle	inventoryActions	item	
+Remove-X	Entferne-X	inventoryActions	item	
+Buy-offer	Kauf-Angebot	inventoryActions	item	
 View tag tab	Etiketten-Tab ansehen	inventoryActions	item	
 Enable	Aktivieren	inventoryActions	item	
 Contents	Inhalt	inventoryActions	item	
 Select	Auswählen	inventoryActions	item	
-Collect-item	Gegenstand einsammeln	inventoryActions	item	
+Collect-item	Sammle-Gegenstand	inventoryActions	item	
 Offer	Angebot	inventoryActions	item	
 Smith	Schmieden	inventoryActions	item	
 Smith set	Satz schmieden	inventoryActions	item	
 Make	Herstellen	inventoryActions	item	
 Other quantity	Andere Menge	inventoryActions	item	
-Flash icons	Symbole blinken lassen	inventoryActions	item	
+Flash icons	Symbole blinken	inventoryActions	item	
 Buy-1	1 kaufen	inventoryActions	item	
 Buy-5	5 kaufen	inventoryActions	item	
 Buy-10	10 kaufen	inventoryActions	item	

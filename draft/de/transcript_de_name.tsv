@@ -17540,7 +17540,7 @@ Church pew	Kirchenbank	name	object	Church pew
 Crack	Riss	name	object	Crack
 Sculpture	Skulptur	name	object	Sculpture
 Weathervane	Wetterfahne	name	object	Weathervane
-Seers weathervane	Seers-Wetterfahne	name	object	Seers weathervane
+Seers weathervane	Wetterfahne der Seher	name	object	Seers weathervane
 Gnome landing light	Gnomen-Landelicht	name	object	Gnome landing light
 Flashing landing light	Blinkendes Landelicht	name	object	Flashing landing light
 Swordshop Sign	Schwertladenschild	name	object	Swordshop Sign
@@ -20073,7 +20073,7 @@ Strategy table	Strategietisch	name	object	Strategy table
 Varrock Portal	Varrock-Portal	name	object	Varrock Portal
 Grand Exchange Portal	Grand-Exchange-Portal	name	object	Grand Exchange Portal
 Camelot Portal	Camelot-Portal	name	object	Camelot Portal
-Seers' Village Portal	Seers'-Village-Portal	name	object	Seers' Village Portal
+Seers' Village Portal	Portal zum Dorf der Seher	name	object	Seers' Village Portal
 Yanille Watchtower Portal	Yanille-Wachturm-Portal	name	object	Yanille Watchtower Portal
 Yanille Portal	Yanille-Portal	name	object	Yanille Portal
 Formidable passage	Gewaltiger Durchgang	name	object	Formidable passage
