@@ -1,0 +1,516 @@
+english	translation	category	sub_category	source
+Destroy	파괴	inventoryActions	item	Dwarf remains
+Drop	버리기	inventoryActions	item	Cannonball
+Read	읽기	inventoryActions	item	Nulodion's notes
+Set-up	설치	inventoryActions	item	Cannon base
+Blow	불기	inventoryActions	item	Magic whistle
+Ring	울리기	inventoryActions	item	Grail bell
+Blow-on	불어 보기	inventoryActions	item	Magic gold feather
+Extinguish	끄기	inventoryActions	item	Lit black candle
+Wield	장착	inventoryActions	item	Excalibur
+Wear	착용	inventoryActions	item	Khazard helmet
+Empty	비우기	inventoryActions	item	Guam potion (unf)
+Drink	마시기	inventoryActions	item	Strength potion(4)
+Clean	손질하기	inventoryActions	item	Grimy guam leaf
+Eat	먹기	inventoryActions	item	Jangerberries
+Equip	장비하기	inventoryActions	item	Cattleprod
+Plant	심기	inventoryActions	item	Mithril seeds
+Open	열기	inventoryActions	item	Casket
+Throw	던지기	inventoryActions	item	Bird feed
+Bury	묻기	inventoryActions	item	Bones
+Inspect	자세히 보기	inventoryActions	item	Ghost's skull
+Bail-with	물 퍼내기	inventoryActions	item	Bailing bucket
+Activate	활성화	inventoryActions	item	Locating crystal
+Search	뒤지기	inventoryActions	item	Panning tray
+Polish	닦기	inventoryActions	item	Buttons
+Look-at	보기	inventoryActions	item	Level 1 certificate
+Complete	완성하기	inventoryActions	item	Radimus notes
+Swing	휘두르기	inventoryActions	item	Bullroarer
+Look	보기	inventoryActions	item	Sketch
+Enchant-Vials	유리병 마법 부여	inventoryActions	item	Binding book
+Investigate	조사하기	inventoryActions	item	Dark dagger
+Cast Spell	주문 시전	inventoryActions	item	Holy force
+Hold	들기	inventoryActions	item	Gnomeball
+Dig	파기	inventoryActions	item	Spade
+Blackout	암전	inventoryActions	item	Disk of returning
+Check	확인	inventoryActions	item	Iban's staff
+Locate	위치 찾기	inventoryActions	item	Air talisman
+Rub-together	비비기	inventoryActions	item	Dry sticks
+Study	연구하기	inventoryActions	item	Map part
+Rub	문지르기	inventoryActions	item	Amulet of glory
+Edgeville	에지빌	inventoryActions	item	Amulet of glory(1)
+Karamja	카람자	inventoryActions	item	Amulet of glory(1)
+Draynor Village	드레이너 마을	inventoryActions	item	Amulet of glory(1)
+Al Kharid	알 카리드	inventoryActions	item	Amulet of glory(1)
+Tan Leather	탠 레더	inventoryActions	item	Leather
+Empty Bowl	그릇 비우기	inventoryActions	item	Burnt stew
+Mix-cocktail	칵테일 섞기	inventoryActions	item	Cocktail shaker
+Remove-legs	다리 떼기	inventoryActions	item	Swamp toad
+Prepare	준비하기	inventoryActions	item	Half baked bowl
+Empty Tray	쟁반 비우기	inventoryActions	item	Burnt crunchies
+Empty Tin	틀 비우기	inventoryActions	item	Burnt batta
+Empty Dish	접시 비우기	inventoryActions	item	Burnt pie
+Guzzle	꿀꺽 먹기	inventoryActions	item	Rock cake
+Play-with	가지고 놀기	inventoryActions	item	Brown toy horsey
+Recharge Dragonstone	리차지 드래곤스톤	inventoryActions	item	Dead orb
+Break	부수기	inventoryActions	item	Ring of recoil
+Emir's Arena	에미르의 경기장	inventoryActions	item	Ring of dueling(8)
+Castle Wars	캐슬 워즈	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	페록스 거주지	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	포르티스 콜로세움	inventoryActions	item	Ring of dueling(8)
+Toggle-respawn	부활 지점 전환	inventoryActions	item	Ring of life
+Features	기능	inventoryActions	item	Ring of wealth
+Look through	들여다보기	inventoryActions	item	Sextant
+Check steps	단계 확인	inventoryActions	item	Clue scroll (easy)
+Release All	모두 풀어주기	inventoryActions	item	Bloated toad
+Release	풀어주기	inventoryActions	item	Bloated toad
+Check kills	처치 수 확인	inventoryActions	item	Ogre bow
+Fill	채우기	inventoryActions	item	Druid pouch
+Cast Bloom	블룸 시전	inventoryActions	item	Silver sickle (b)
+Bloom	블룸	inventoryActions	item	Silver sickle (b)
+Cast	시전	inventoryActions	item	Druidic spell
+Debug	디버그	inventoryActions	item	Boss helper tool
+Play	연주하기	inventoryActions	item	Lyre
+Rellekka	렐레카	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	워터버스 섬	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	네이티즈놋	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	야티조	inventoryActions	item	Enchanted lyre(1)
+Interact	상호작용	inventoryActions	item	Pet rock
+Shake	흔들기	inventoryActions	item	Vase
+Remove-lid	뚜껑 열기	inventoryActions	item	Sealed vase
+Preach	설교하기	inventoryActions	item	Holy book
+Burthorpe	버소프	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	야만인 전초기지	inventoryActions	item	Games necklace(8)
+Corporeal Beast	코퍼리얼 비스트	inventoryActions	item	Games necklace(8)
+Tears of Guthix	구식스의 눈물	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	윈터토트 야영지	inventoryActions	item	Games necklace(8)
+View	보기	inventoryActions	item	Spare controls
+Listen	듣기	inventoryActions	item	Monkey dentures
+Poke	찌르기	inventoryActions	item	Monkey
+Surrender	항복	inventoryActions	item	Saradomin cloak
+Heal	치료	inventoryActions	item	Bandages
+Loop	한 바퀴 돌리기	inventoryActions	item	Yo-yo
+Walk	산책시키기	inventoryActions	item	Yo-yo
+Crazy	미친 묘기	inventoryActions	item	Yo-yo
+Ride	타기	inventoryActions	item	Sled
+Partner	파트너	inventoryActions	item	Enchanted gem
+Log	기록	inventoryActions	item	Enchanted gem
+Repair	수리	inventoryActions	item	Model ship
+Follow	따라가기	inventoryActions	item	Treasure map
+Count	세기	inventoryActions	item	Petition form
+Check-keys	열쇠 확인	inventoryActions	item	Steel key ring
+Fling	내던지기	inventoryActions	item	Easter basket
+Dance	춤추기	inventoryActions	item	Rubber chicken
+Assemble	조립	inventoryActions	item	Base schematics
+Spin	돌리기	inventoryActions	item	Spinning plate
+Remove-one	하나 꺼내기	inventoryActions	item	Apples(2)
+Build	만들기	inventoryActions	item	Rogue kit
+Slice	썰기	inventoryActions	item	Rotten potato
+Peel	껍질 벗기기	inventoryActions	item	Rotten potato
+Mash	으깨기	inventoryActions	item	Rotten potato
+Lletya	레티아	inventoryActions	item	Teleport crystal (4)
+Prifddinas	프리프디나스	inventoryActions	item	Teleport crystal (4)
+Toggle	전환	inventoryActions	item	Teleport crystal (4)
+Uncharge	충전 해제	inventoryActions	item	Broodoo shield (10)
+Scan	탐색	inventoryActions	item	Commorb
+Contact	연락	inventoryActions	item	Commorb
+Playback	재생	inventoryActions	item	Commorb
+Talk-At	말 걸기	inventoryActions	item	Fishbowl
+Play-With	가지고 놀기	inventoryActions	item	Fishbowl
+Feed	먹이 주기	inventoryActions	item	Fishbowl
+Untangle	엉킨 것 풀기	inventoryActions	item	Fishbowl and net
+Check-charge	충전량 확인	inventoryActions	item	Camulet
+Teleport	순간이동	inventoryActions	item	Camulet
+Display	보여 주기	inventoryActions	item	Zombie head
+Question	질문하기	inventoryActions	item	Zombie head
+Chant	주문 외기	inventoryActions	item	Demonic sigil
+Feel	만져 보기	inventoryActions	item	Enchanted key
+Remove-rat	쥐 떼기	inventoryActions	item	Rat pole
+Geomancy	지오맨시	inventoryActions	item	Watering can
+Jump	점프	inventoryActions	item	Blue marionette
+Bow	절하기	inventoryActions	item	Blue marionette
+Talk-to	대화하기	inventoryActions	item	Progress hat
+Return	돌려주기	inventoryActions	item	Prison key
+Smell	냄새 맡기	inventoryActions	item	Spicy stew
+Release-all	모두 풀어주기	inventoryActions	item	Balloon toad
+Wind	태엽 감기	inventoryActions	item	Toy soldier
+Separate	분리하기	inventoryActions	item	Kbd heads
+Unstuff	박제 풀기	inventoryActions	item	Stuffed crawling hand
+Varrock	바록	inventoryActions	item	Varrock teleport
+Grand Exchange	그랜드 익스체인지	inventoryActions	item	Varrock teleport
+Camelot	카멜롯	inventoryActions	item	Camelot teleport
+Seers' Village	시어스 마을	inventoryActions	item	Camelot teleport
+Watchtower	감시탑	inventoryActions	item	Watchtower teleport
+Yanille	야닐	inventoryActions	item	Watchtower teleport
+Inside	집 안으로	inventoryActions	item	Teleport to house
+Outside	집 밖으로	inventoryActions	item	Teleport to house
+Group	그룹	inventoryActions	item	Teleport to house
+Info	정보	inventoryActions	item	Enchant sapphire or opal
+Dust-hands	손 털기	inventoryActions	item	Ground ashes
+Talk-To	대화하기	inventoryActions	item	Monkey
+Invoke	기원하기	inventoryActions	item	Skull sceptre
+Divine	점치기	inventoryActions	item	Skull sceptre
+Convert	변환	inventoryActions	item	Pharaoh's sceptre
+Launch	발사	inventoryActions	item	Grand seed pod
+Squash	으깨기	inventoryActions	item	Grand seed pod
+Pour	붓기	inventoryActions	item	Mixed blizzard
+Add-ingreds	재료 넣기	inventoryActions	item	Mixed saturday
+Unpack	풀기	inventoryActions	item	Proselyte harness m
+Shape-Earth	대지 형상화	inventoryActions	item	Page 1
+Shape-Air	바람 형상화	inventoryActions	item	Page 1
+Shape-Fire	불 형상화	inventoryActions	item	Page 2
+Shape-Water	물 형상화	inventoryActions	item	Page 2
+Shape-Mind	정신 형상화	inventoryActions	item	Page 3
+Boost	강화	inventoryActions	item	Attack cape
+Warriors' Guild	전사 길드	inventoryActions	item	Strength cape
+Toggle Effect	효과 전환	inventoryActions	item	Defence cape
+Toggle Respawn	부활 지점 전환	inventoryActions	item	Defence cape
+Commune	교감하기	inventoryActions	item	Ranging cape
+Spellbook	마법서	inventoryActions	item	Magic cape
+Lunar	루나	inventoryActions	item	Magic cape
+Arceuus	아르세우스	inventoryActions	item	Magic cape
+Standard	일반	inventoryActions	item	Magic cape
+Ancient	고대	inventoryActions	item	Magic cape
+Stamina Boost	기력 강화	inventoryActions	item	Agility cape
+Tele to POH	집으로 순간이동	inventoryActions	item	Construct. cape
+Brimhaven	브림헤이븐	inventoryActions	item	Construct. cape
+Home	집	inventoryActions	item	Construct. cape
+Rimmington	림밍턴	inventoryActions	item	Construct. cape
+Taverley	태벌리	inventoryActions	item	Construct. cape
+Pollnivneach	폴니브니치	inventoryActions	item	Construct. cape
+Hosidius	호시디우스	inventoryActions	item	Construct. cape
+Aldarin	알다린	inventoryActions	item	Construct. cape
+Fishing Guild	낚시 길드	inventoryActions	item	Fishing cape
+Otto's Grotto	오토의 작은 동굴	inventoryActions	item	Fishing cape
+Trim	장식 달기	inventoryActions	item	Quest point cape
+Load	장전	inventoryActions	item	White destabiliser
+Split	분리	inventoryActions	item	Cap and goggles
+Hunter Guild	사냥 길드	inventoryActions	item	Hunter cape
+Carnivorous Chinchompas	육식 친촘파	inventoryActions	item	Hunter cape
+Black Chinchompas	검은 친촘파	inventoryActions	item	Hunter cape
+Lay	설치	inventoryActions	item	Bird snare
+Check totals	합계 확인	inventoryActions	item	Butterfly net
+Check Totals	합계 확인	inventoryActions	item	Butterfly net
+Bank	은행	inventoryActions	item	Imp-in-a-box(2)
+Translate	번역	inventoryActions	item	Research notes
+Prance	껑충거리기	inventoryActions	item	Reindeer hat
+Write-Role	역할 쓰기	inventoryActions	item	Scroll
+Clear	지우기	inventoryActions	item	Scroll
+Tell-red	빨강 지시	inventoryActions	item	Attacker horn
+Tell-green	초록 지시	inventoryActions	item	Attacker horn
+Tell-blue	파랑 지시	inventoryActions	item	Attacker horn
+Medic	치료 요청	inventoryActions	item	Attacker horn
+Look-in	들여다보기	inventoryActions	item	Collection bag
+Tell-tofu	두부 지시	inventoryActions	item	Healer horn
+Tell-crackers	크래커 지시	inventoryActions	item	Healer horn
+Tell-worms	벌레 지시	inventoryActions	item	Healer horn
+Tell-meat	고기 지시	inventoryActions	item	Defender horn
+Tell-controlled	제어형 지시	inventoryActions	item	Collector horn
+Tell-accurate	정확형 지시	inventoryActions	item	Collector horn
+Tell-aggressive	공격형 지시	inventoryActions	item	Collector horn
+Tell-defensive	방어형 지시	inventoryActions	item	Collector horn
+Check tax	세금 확인	inventoryActions	item	Empty tax bag
+Check taxes	세금 확인	inventoryActions	item	Bulging taxbag
+Pray-over	기도하기	inventoryActions	item	Blessed lamp
+Recite-prayer	기도문 낭송	inventoryActions	item	Prayer book
+Operate	작동	inventoryActions	item	Beacon ring
+Farming Guild	농사 길드	inventoryActions	item	Skills necklace(4)
+Mining Guild	채광 길드	inventoryActions	item	Skills necklace(4)
+Crafting Guild	공예 길드	inventoryActions	item	Skills necklace(4)
+Cooking Guild	요리 길드	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	벌목 길드	inventoryActions	item	Skills necklace(4)
+Champions' Guild	챔피언 길드	inventoryActions	item	Combat bracelet(4)
+Monastery	수도원	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	원거리 길드	inventoryActions	item	Combat bracelet(4)
+Gem Mine	보석 광산	inventoryActions	item	Karamja gloves 3
+Fossil Island	화석 섬	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	리스크렌 던전	inventoryActions	item	Digsite pendant (1)
+Digsite	발굴지	inventoryActions	item	Digsite pendant (1)
+Loot	전리품 꺼내기	inventoryActions	item	Baby impling jar
+Impling-jar	임플링 병	inventoryActions	item	Jar generator
+Butterfly-jar	나비 병	inventoryActions	item	Jar generator
+Toggle-view	보기 전환	inventoryActions	item	Impling scroll
+Copy to log	기록에 복사	inventoryActions	item	Ancient page
+Discard	버리기	inventoryActions	item	Anti-dragon shield (nz)
+Take-one	하나 꺼내기	inventoryActions	item	Herb box
+Bank-all	모두 은행에 맡기기	inventoryActions	item	Herb box
+Refund	환불	inventoryActions	item	Scroll of redirection
+Revert	되돌리기	inventoryActions	item	Rimmington teleport
+Dismantle	분해	inventoryActions	item	Armadyl godsword
+Disassemble	분해	inventoryActions	item	Slayer helmet
+Fremennik Dungeon	프레메닉 던전	inventoryActions	item	Slayer ring (8)
+Dark Beasts	다크 비스트	inventoryActions	item	Slayer ring (8)
+Master	마스터	inventoryActions	item	Slayer ring (8)
+Stronghold	요새	inventoryActions	item	Slayer ring (8)
+Slayer Tower	슬레이어 탑	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	탄의 은신처	inventoryActions	item	Slayer ring (8)
+Deposit	맡기기	inventoryActions	item	Looting bag
+Settings	설정	inventoryActions	item	Looting bag
+Miscellania	미셀라니아	inventoryActions	item	Ring of wealth (5)
+Falador	팔라도르	inventoryActions	item	Ring of wealth (5)
+Dondakan	돈다칸	inventoryActions	item	Ring of wealth (5)
+Boss Log	보스 기록	inventoryActions	item	Ring of wealth (5)
+Coin Collection	코인 수집	inventoryActions	item	Ring of wealth (5)
+Tip	모자 인사	inventoryActions	item	Fedora
+Spawn Item	아이템 생성	inventoryActions	item	Holiday tool
+Basic Reanimation	베이직 리애니메이션	inventoryActions	item	Easter
+Dissolve	녹이기	inventoryActions	item	Abyssal tentacle
+Check completion	완료 확인	inventoryActions	item	Challenge scroll (elite)
+Check rank	등급 확인	inventoryActions	item	Druidic wreath
+Check Rank	등급 확인	inventoryActions	item	Druidic wreath
+Configure	설정	inventoryActions	item	Annakarl teleport
+Extract	꺼내기	inventoryActions	item	Nest box (empty)
+Unload	탄 빼기	inventoryActions	item	Toxic blowpipe
+Untrim	장식 떼기	inventoryActions	item	Quest point cape (t)
+Karamja (Shilo)	카람자 (실로)	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	서부 지방	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	카람자 (정글)	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	트위기 오콘	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	카람자 (모르 울 렉)	inventoryActions	item	Achievement diary cape (t)
+Ardougne	아르둔	inventoryActions	item	Achievement diary cape (t)
+Desert	사막	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	쿠렌드 & 케보스	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	럼브리지 & 드레이너	inventoryActions	item	Achievement diary cape (t)
+Fremennik	프레메닉	inventoryActions	item	Achievement diary cape (t)
+Morytania	모리타니아	inventoryActions	item	Achievement diary cape (t)
+Kandarin	칸다린	inventoryActions	item	Achievement diary cape (t)
+Wilderness	황야	inventoryActions	item	Achievement diary cape (t)
+Slayer Master	슬레이어 마스터	inventoryActions	item	Karamja gloves 4
+Ecto Teleport	엑토 순간이동	inventoryActions	item	Morytania legs 1
+Ectofuntus Pit	엑토펀투스 구덩이	inventoryActions	item	Morytania legs 1
+Burgh Teleport	버그 순간이동	inventoryActions	item	Morytania legs 3
+Burgh de Rott	버그 드 로트	inventoryActions	item	Morytania legs 3
+Activity	작동 전환	inventoryActions	item	Bonecrusher
+Recharge-prayer	기도 재충전	inventoryActions	item	Falador shield 1
+Recharge Prayer	기도 재충전	inventoryActions	item	Falador shield 1
+Monastery Teleport	수도원 순간이동	inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery	칸다린 수도원	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	농장 순간이동	inventoryActions	item	Ardougne cloak 2
+Ardougne Farm	아르둔 농장	inventoryActions	item	Ardougne cloak 2
+Energy	기력	inventoryActions	item	Explorer's ring 1
+Alchemy	연금술	inventoryActions	item	Explorer's ring 1
+Functions	기능	inventoryActions	item	Explorer's ring 2
+Nardah	나르다	inventoryActions	item	Desert amulet 4
+Kalphite cave	칼파이트 동굴	inventoryActions	item	Desert amulet 4
+Emote	감정 표현	inventoryActions	item	Diango's claws
+Redeem	교환	inventoryActions	item	Old school bond
+Restore	복구	inventoryActions	item	Tanzanite helm (uncharged)
+Scramble	스크램블	inventoryActions	item	Rotten egg
+Poach	수란 만들기	inventoryActions	item	Rotten egg
+Fry	부치기	inventoryActions	item	Rotten egg
+Pickle	절이기	inventoryActions	item	Rotten egg
+Consume	섭취	inventoryActions	item	Saradomin's light
+Teleports	순간이동	inventoryActions	item	Max cape
+Metamorphosis	변신	inventoryActions	item	Beaver
+Chew	씹기	inventoryActions	item	Rotten onion
+POH Portals	집 포털	inventoryActions	item	Max cape
+Carnivorous chinchompas	육식 친촘파	inventoryActions	item	Max cape
+Ring of Life	생명의 반지	inventoryActions	item	Max cape
+Black chinchompas	검은 친촘파	inventoryActions	item	Max cape
+Warrior's Guild	전사 길드	inventoryActions	item	Max cape
+Guild Teleports	길드 순간이동	inventoryActions	item	Max cape
+Skilling Areas	스킬 지역	inventoryActions	item	Max cape
+Xeric's Lookout	제릭의 전망대	inventoryActions	item	Xeric's talisman
+Xeric's Glade	제릭의 숲속 빈터	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	제릭의 지옥불	inventoryActions	item	Xeric's talisman
+Xeric's Heart	제릭의 심장	inventoryActions	item	Xeric's talisman
+Xeric's Honour	제릭의 영예	inventoryActions	item	Xeric's talisman
+Take-grubs	벌레 꺼내기	inventoryActions	item	Bucket of sandworms
+Pack	포장하기	inventoryActions	item	Shayzien supply crate
+Check charges	충전량 확인	inventoryActions	item	Chronicle
+Check Charges	충전량 확인	inventoryActions	item	Chronicle
+Teleport to Target	텔레포트 투 타깃	inventoryActions	item	Dead orb
+Transform	변신	inventoryActions	item	Monkey
+Lap-count	바퀴 수 확인	inventoryActions	item	Monkey
+Combine	합치기	inventoryActions	item	Torn clue scroll (part 1)
+Recoil settings	반동 설정	inventoryActions	item	Ring of suffering (r)
+Recoil Settings	반동 설정	inventoryActions	item	Ring of suffering (r)
+Pages	페이지	inventoryActions	item	Tome of fire
+Swap	바꾸기	inventoryActions	item	Bruma torch
+Invigorate	활력 불어넣기	inventoryActions	item	Imbued heart
+Look at	보기	inventoryActions	item	Snow globe
+Snow	눈	inventoryActions	item	Snow globe
+The Outpost	전초기지	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	독수리 둥지	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	마법사의 탑	inventoryActions	item	Necklace of passage(5)
+Options	옵션	inventoryActions	item	Amulet of chemistry
+Bandit Camp	산적 야영지	inventoryActions	item	Burning amulet(5)
+Lava Maze	용암 미로	inventoryActions	item	Burning amulet(5)
+Chaos Temple	혼돈의 사원	inventoryActions	item	Burning amulet(5)
+Change-style	스타일 변경	inventoryActions	item	Rainbow scarf
+Chill	부채질	inventoryActions	item	Hand fan
+Remove default	기본값 해제	inventoryActions	item	Master scroll book
+Throw-water	물 뿌리기	inventoryActions	item	Heat-proof vessel
+Throw-water direction	물 뿌릴 방향	inventoryActions	item	Heat-proof vessel
+Check-level	수위 확인	inventoryActions	item	Heat-proof vessel
+Throw-water north	북쪽으로 물 뿌리기	inventoryActions	item	Heat-proof vessel
+Throw-water east	동쪽으로 물 뿌리기	inventoryActions	item	Heat-proof vessel
+Throw-water south	남쪽으로 물 뿌리기	inventoryActions	item	Heat-proof vessel
+Throw-water west	서쪽으로 물 뿌리기	inventoryActions	item	Heat-proof vessel
+Roll	굴리기	inventoryActions	item	Hoop snake
+Recharge	재충전	inventoryActions	item	Ancient wyvern shield
+Channel	기운 모으기	inventoryActions	item	Merfolk trident
+Puff	부풀리기	inventoryActions	item	Pufferfish
+Take fish	물고기 꺼내기	inventoryActions	item	Bowl of fish
+Reminisce	회상하기	inventoryActions	item	Kharedst's memoirs
+Lunch by the Lancalliums	란칼리움 곁에서의 점심	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	어부의 피리	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	역사와 풍문	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	환희의 장신구	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	어두운 기질	inventoryActions	item	Kharedst's memoirs
+Toggle-absorption	흡수 전환	inventoryActions	item	Bracelet of ethereum
+Toggle absorption	흡수 전환	inventoryActions	item	Bracelet of ethereum
+Elite	엘리트	inventoryActions	item	Useful rock
+Assessment	평가	inventoryActions	item	Useful rock
+Slash	베기	inventoryActions	item	Prop sword
+Control	조종	inventoryActions	item	Rotten cabbage
+Spectate	관전	inventoryActions	item	Rotten cabbage
+Charge	충전	inventoryActions	item	Sanguinesti staff
+Scry	투시	inventoryActions	item	Oculus orb
+Ver Sinhaza	베르 신하자	inventoryActions	item	Drakan's medallion
+Darkmeyer	다크마이어	inventoryActions	item	Drakan's medallion
+Slepe	슬렙	inventoryActions	item	Drakan's medallion
+Tele	순간이동	inventoryActions	item	Rotten carrot
+Kill Bot	봇 처치	inventoryActions	item	Rotten carrot
+Kill Area	지역 처치	inventoryActions	item	Rotten carrot
+Change	바꾸기	inventoryActions	item	Sinhaza shroud tier 1
+Auto-afk	자동 자리 비움	inventoryActions	item	Escape crystal
+Open-all	모두 열기	inventoryActions	item	Coin pouch
+Close	닫기	inventoryActions	item	Looting bag
+Weiss	바이스	inventoryActions	item	Icy basalt
+Troll Stronghold	트롤 요새	inventoryActions	item	Stony basalt
+Collections overview	수집 개요	inventoryActions	item	Collection log
+Collections Overview	수집 개요	inventoryActions	item	Collection log
+Collection Log	수집 기록	inventoryActions	item	Collection log
+Fletch	깎기	inventoryActions	item	Celastrus bark
+Kourend Woodland	쿠렌드 삼림	inventoryActions	item	Rada's blessing 1
+Mount Karuulm	카룰름 산	inventoryActions	item	Rada's blessing 3
+Check/Uncharge	확인/충전 해제	inventoryActions	item	Bonecrusher necklace
+Take	꺼내기	inventoryActions	item	Seed pack
+Take-all	모두 꺼내기	inventoryActions	item	Seed pack
+Fill/Check	채우기/확인	inventoryActions	item	Bottomless compost bucket
+Easter dance	부활절 춤	inventoryActions	item	Giant easter egg
+Cut-open	갈라 열기	inventoryActions	item	Giant egg sac(full)
+Check-eggs	알 확인	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	알 꺼내기	inventoryActions	item	Giant egg sac
+Scrutinise	자세히 살피기	inventoryActions	item	Guthixian icon
+Trophy Emote	트로피 감정 표현	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	뒤틀린 유물 감정 표현	inventoryActions	item	Twisted cane
+Chase	쫓기	inventoryActions	item	Cat ears
+Use	사용	inventoryActions	item	Plank sack
+Open-All	모두 열기	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	트레일블레이저 유물 감정 표현	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	트레일블레이저 지역 감정 표현	inventoryActions	item	Trailblazer cane
+Change-Style	스타일 변경	inventoryActions	item	Infernal harpoon (or)
+Last-destination	마지막 목적지	inventoryActions	item	Fairy mushroom
+Fairy-Ring	요정의 고리	inventoryActions	item	Fairy mushroom
+Spirit-tree	정령 나무	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	도구 레프리콘	inventoryActions	item	Fairy mushroom
+Teleport-back	되돌아가기	inventoryActions	item	Crystal of echoes
+Check-memories	기억 확인	inventoryActions	item	Crystal of echoes
+Save-memory	기억 저장	inventoryActions	item	Crystal of echoes
+Withdraw	꺼내기	inventoryActions	item	Extradimensional bag
+Settings/Destroy	설정/파괴	inventoryActions	item	Extradimensional bag
+League Debug	리그 디버그	inventoryActions	item	League tomato
+Setups	세팅	inventoryActions	item	League tomato
+Toggle-colour	색상 전환	inventoryActions	item	Soul cape
+Scatter	뿌리기	inventoryActions	item	Fiendish ashes
+Trollheim	트롤하임	inventoryActions	item	Ghommal's hilt 1
+Mor Ul Rek	모르 울 렉	inventoryActions	item	Ghommal's hilt 4
+Unattune	조율 해제	inventoryActions	item	Sigil of resilience
+Attune	조율	inventoryActions	item	Sigil of resilience
+Make scary noise	무서운 소리 내기	inventoryActions	item	Jered's empty wine bottle
+Reverse	뒤집기	inventoryActions	item	Ugly halloween jumper (orange)
+Wake-ghost	유령 깨우기	inventoryActions	item	Haunted wine bottle
+Read-tag	꼬리표 읽기	inventoryActions	item	Secret santa present (red)
+Change-colour	색상 변경	inventoryActions	item	Secret santa present (red)
+Dismantle kit	키트 분리	inventoryActions	item	Abyssal whip (or)
+Skill Emote	스킬 감정 표현	inventoryActions	item	Shattered cane
+Boss Emote	보스 감정 표현	inventoryActions	item	Shattered cane
+Quest Emote	퀘스트 감정 표현	inventoryActions	item	Shattered cane
+Fragment Emote	파편 감정 표현	inventoryActions	item	Shattered cane
+Change Spellbook	마법서 변경	inventoryActions	item	Arcane grimoire
+Previous Spellbook	이전 마법서	inventoryActions	item	Arcane grimoire
+Check Previous	이전 확인	inventoryActions	item	Arcane grimoire
+Unimbue	주입 해제	inventoryActions	item	Wristbands of the arena (i)
+Last Destination	마지막 목적지	inventoryActions	item	Ring of the elements
+Air Altar	바람의 제단	inventoryActions	item	Ring of the elements
+Water Altar	물의 제단	inventoryActions	item	Ring of the elements
+Earth Altar	대지의 제단	inventoryActions	item	Ring of the elements
+Fire Altar	불의 제단	inventoryActions	item	Ring of the elements
+Last-Teleport	마지막 순간이동	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	잘사브라	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	잘레우스트로포스	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	잘드라오크트	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	잘테바스	inventoryActions	item	Pharaoh's sceptre
+Attach	부착	inventoryActions	item	Cursed phalanx
+Place	놓기	inventoryActions	item	Mirror
+Withdraw 1	1개 꺼내기	inventoryActions	item	Supplies
+Withdraw All	모두 꺼내기	inventoryActions	item	Supplies
+Resupply	보급	inventoryActions	item	Supplies
+Apply	바르기	inventoryActions	item	Silk dressing (2)
+Crack	깨기	inventoryActions	item	Blessed crystal scarab (2)
+Crush	으깨기	inventoryActions	item	Smelling salts (2)
+Take-from	꺼내기	inventoryActions	item	Infinite money bag
+Help	도움말	inventoryActions	item	Fresh start helper
+Accept trick-or-treat	트릭 오어 트릿 수락	inventoryActions	item	Treat cauldron
+Sniff	킁킁대기	inventoryActions	item	Smelly sock
+Destinations	목적지	inventoryActions	item	Ghommal's avernic defender 5
+Craft	제작	inventoryActions	item	Secateurs blade
+History	이력	inventoryActions	item	Mulch
+Ancient Vault	고대 금고	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	고록 던전	inventoryActions	item	Ring of shadows
+The Scar	흉터	inventoryActions	item	Ring of shadows
+Lassar Undercity	라사르 지하 도시	inventoryActions	item	Ring of shadows
+The Stranglewood	스트랭글우드	inventoryActions	item	Ring of shadows
+Recall	귀환	inventoryActions	item	Blackstone fragment
+Squeeze	꽉 쥐기	inventoryActions	item	Detonator
+Set-off	터뜨리기	inventoryActions	item	Stink bomb
+Fairy-ring	요정의 고리	inventoryActions	item	Trinket of fairies
+Summon	소환	inventoryActions	item	Trinket of undead
+Nexus	넥서스	inventoryActions	item	Globetrotter pendant
+Jewellery	장신구	inventoryActions	item	Globetrotter pendant
+Note-Quantity	노트 변환 수량	inventoryActions	item	Banker's note
+Un-note-Quantity	노트 해제 수량	inventoryActions	item	Banker's note
+Dismiss	돌려보내기	inventoryActions	item	Guardian horn
+Toggle-modes	모드 전환	inventoryActions	item	Guardian horn
+Change-outfit	의상 변경	inventoryActions	item	Guardian horn
+Change Prayerbook	기도서 변경	inventoryActions	item	Ruinous powers
+Toggle-activity	작동 전환	inventoryActions	item	Echo boots
+Signal	신호	inventoryActions	item	Basic quetzal whistle
+Rumour	소문	inventoryActions	item	Basic quetzal whistle
+Break-down	분해	inventoryActions	item	Blessed bone statuette
+The Darkfrost	다크프로스트	inventoryActions	item	Pendant of ates
+Twilight Temple	황혼의 사원	inventoryActions	item	Pendant of ates
+Ralos' Rise	랄로스의 언덕	inventoryActions	item	Pendant of ates
+North Aldarin	북부 알다린	inventoryActions	item	Pendant of ates
+Colour	색칠	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	조각하기	inventoryActions	item	Beige pumpkin (disgusted)
+Withdraw-all	모두 꺼내기	inventoryActions	item	Forager's pouch
+Withdraw-last	마지막 수량 꺼내기	inventoryActions	item	Forager's pouch
+Current-step	현재 단계	inventoryActions	item	Clue compass
+Collect	수령	inventoryActions	item	Pocket kingdom
+Manage-kingdom	왕국 관리	inventoryActions	item	Pocket kingdom
+Relic Emote	유물 감정 표현	inventoryActions	item	Raging echoes cane
+Area Emote	지역 감정 표현	inventoryActions	item	Raging echoes cane
+Detach	떼어내기	inventoryActions	item	Echo venator bow
+Detatch	떼어내기	inventoryActions	item	Echo ahrim's robeskirt 75
+Create-book	책 만들기	inventoryActions	item	Bronze staff of collection
+Bryophyta	브리오피타	inventoryActions	item	Giantsoul amulet
+Obor	오보르	inventoryActions	item	Giantsoul amulet
+Branda and Eldric	브란다와 엘드릭	inventoryActions	item	Giantsoul amulet
+Radius	반경	inventoryActions	item	Soulflame horn
+Max Players	최대 인원	inventoryActions	item	Soulflame horn
+Wipe	닦기	inventoryActions	item	Jim's wet cloth
+Gl. Attenuation	문양 감쇠	inventoryActions	item	Contract of glyphic attenuation
+Se. Clouding	감각 흐림	inventoryActions	item	Contract of sensory clouding
+Bl. Blows	피투성이 타격	inventoryActions	item	Contract of bloodied blows
+Di. Severance	신성 단절	inventoryActions	item	Contract of divine severance
+Fo. Breath	박탈된 숨	inventoryActions	item	Contract of forfeit breath
+Examine	살펴보기	inventoryActions	item	
+Remove	빼기	inventoryActions	item	
+Add	넣기	inventoryActions	item	
+Add-5	5개 넣기	inventoryActions	item	
+Add-10	10개 넣기	inventoryActions	item	
+Add-All	모두 넣기	inventoryActions	item	
+Add-X	X개 넣기	inventoryActions	item	

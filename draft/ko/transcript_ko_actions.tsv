@@ -1,0 +1,1570 @@
+english	translation	category	sub_category	source
+Study	연구하기	actions	item	Fire
+Remove	제거하기	actions	item	Oak lectern
+Lay	설치하기	actions	item	Bird snare
+Activate	활성화	actions	item	Magic box
+Crush	으깨기	actions	item	Smouldering heart
+Eat-from	떼어 먹기	actions	item	Smouldering pile of flesh
+Examine	살펴보기	actions	item	
+Take	줍기	actions	item	
+Light	불 붙이기	actions	item	
+(Members)	(멤버)	actions	item	
+Walk here	여기로 걷기	actions	manual	
+Cancel	취소	actions	manual	
+Accurate	정확	actions	menu	combatOptionsTab
+Aggressive	공격적	actions	menu	combatOptionsTab
+Defensive	방어적	actions	menu	combatOptionsTab
+Controlled	균형	actions	menu	combatOptionsTab
+Chop	내려찍기	actions	menu	combatOptionsTab
+Slash	베기	actions	menu	combatOptionsTab
+Stab	찌르기	actions	menu	combatOptionsTab
+Block	막기	actions	menu	combatOptionsTab
+Pound	내리치기	actions	menu	combatOptionsTab
+Pummel	두들기기	actions	menu	combatOptionsTab
+Spike	가시 찍기	actions	menu	combatOptionsTab
+Impale	꿰뚫기	actions	menu	combatOptionsTab
+Smash	강타	actions	menu	combatOptionsTab
+Lunge	돌진 찌르기	actions	menu	combatOptionsTab
+Swipe	휘두르기	actions	menu	combatOptionsTab
+Hack	난도질	actions	menu	combatOptionsTab
+Reap	거두기	actions	menu	combatOptionsTab
+Rapid	속사	actions	menu	combatOptionsTab
+Longrange	장거리	actions	menu	combatOptionsTab
+Flick	튕기기	actions	menu	combatOptionsTab
+Lash	채찍질	actions	menu	combatOptionsTab
+Deflect	쳐내기	actions	menu	combatOptionsTab
+Fend	막아내기	actions	menu	combatOptionsTab
+Bash	후려치기	actions	menu	combatOptionsTab
+Blaze	불꽃	actions	menu	combatOptionsTab
+Scorch	그을리기	actions	menu	combatOptionsTab
+Flare	섬광	actions	menu	combatOptionsTab
+Punch	주먹질	actions	menu	combatOptionsTab
+Kick	발차기	actions	menu	combatOptionsTab
+Hide	숨기기	actions	menu	prayerTab
+Activate	활성화	actions	menu	prayerTab
+Unhide	숨김 해제	actions	menu	prayerTab
+Deactivate	비활성화	actions	menu	prayerTab
+Animation	애니메이션	actions	menu	spellBookTab
+Hide	숨기기	actions	menu	spellBookTab
+Cast	시전	actions	menu	spellBookTab
+Unhide	숨김 해제	actions	menu	spellBookTab
+View	보기	actions	menu	spellBookTab
+Warnings	경고	actions	menu	spellBookTab
+Configure	설정	actions	menu	spellBookTab
+Grand Exchange	그랜드 익스체인지	actions	menu	spellBookTab
+Seers'	시어스	actions	menu	spellBookTab
+Group: Previous	그룹: 이전	actions	menu	spellBookTab
+Group: Choose	그룹: 선택	actions	menu	spellBookTab
+Outside	바깥	actions	menu	spellBookTab
+Yanille	야닐	actions	menu	spellBookTab
+Enable warning	경고 켜기	actions	menu	spellBookTab
+Disable warning	경고 끄기	actions	menu	spellBookTab
+Turael	투라엘	actions	menu	spellBookTab
+Target	대상	actions	menu	spellBookTab
+Setup	설정	actions	menu	spellBookTab
+Arceuus	아르세우스	actions	menu	spellBookTab
+Ancient	고대	actions	menu	spellBookTab
+Standard	일반	actions	menu	spellBookTab
+Reanimate	되살리기	actions	menu	spellBookTab
+Resurrect	부활	actions	menu	spellBookTab
+Adjust Music Volume	음악 음량 조절	actions	menu	settingsTab
+Adjust Area Sound Volume	주변 소리 음량 조절	actions	menu	settingsTab
+Adjust Sound Effect Volume	효과음 음량 조절	actions	menu	settingsTab
+Toggle unlock message	해금 메시지 전환	actions	menu	settingsTab
+Play	재생	actions	menu	
+Open Activity Adviser	활동 도우미 열기	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	<colNum0>채팅 모드 설정:</col> 그룹 (/@g)	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>채팅 모드 설정:</col> 손님 클랜 (/@gc)	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>채팅 모드 설정:</col> 클랜 (/@c)	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	<colNum0>채팅 모드 설정:</col> 채널 (/@f)	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	<colNum0>채팅 모드 설정:</col> 공개 (/@p)	actions	menu	
+Clear history	기록 지우기	actions	menu	
+Switch tab	탭 전환	actions	menu	
+Configure filter	필터 설정	actions	menu	
+<colNum0>Game:</col> Clear history	<colNum0>게임:</col> 기록 지우기	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>게임:</col> 필터	actions	menu	
+Setup your autochat	자동 채팅 설정	actions	menu	
+Filter public chat	공개 채팅 필터	actions	menu	
+<colNum0>Public:</col> Clear history	<colNum0>공개:</col> 기록 지우기	actions	menu	
+<colNum0>Public:</col> Hide	<colNum0>공개:</col> 숨기기	actions	menu	
+<colNum0>Public:</col> Show none	<colNum0>공개:</col> 표시 안 함	actions	menu	
+<colNum0>Public:</col> Show friends	<colNum0>공개:</col> 친구만 표시	actions	menu	
+<colNum0>Public:</col> Show standard	<colNum0>공개:</col> 기본 표시	actions	menu	
+<colNum0>Public:</col> Show autochat	<colNum0>공개:</col> 자동 채팅 표시	actions	menu	
+<colNum0>Private:</col> Clear history	<colNum0>개인:</col> 기록 지우기	actions	menu	
+<colNum0>Private:</col> Show none	<colNum0>개인:</col> 표시 안 함	actions	menu	
+<colNum0>Private:</col> Show friends	<colNum0>개인:</col> 친구만 표시	actions	menu	
+<colNum0>Private:</col> Show all	<colNum0>개인:</col> 모두 표시	actions	menu	
+<colNum0>Channel:</col> Clear history	<colNum0>채널:</col> 기록 지우기	actions	menu	
+<colNum0>Channel:</col> Show none	<colNum0>채널:</col> 표시 안 함	actions	menu	
+<colNum0>Channel:</col> Show friends	<colNum0>채널:</col> 친구만 표시	actions	menu	
+<colNum0>Channel:</col> Show all	<colNum0>채널:</col> 모두 표시	actions	menu	
+<colNum0>Clan:</col> Clear history	<colNum0>클랜:</col> 기록 지우기	actions	menu	
+<colNum0>Clan:</col> Show none	<colNum0>클랜:</col> 표시 안 함	actions	menu	
+<colNum0>Clan:</col> Show friends	<colNum0>클랜:</col> 친구만 표시	actions	menu	
+<colNum0>Clan:</col> Show all	<colNum0>클랜:</col> 모두 표시	actions	menu	
+<colNum0>Group:</col> Clear history	<colNum0>그룹:</col> 기록 지우기	actions	menu	
+<colNum0>Group:</col> Show none	<colNum0>그룹:</col> 표시 안 함	actions	menu	
+<colNum0>Group:</col> Show friends	<colNum0>그룹:</col> 친구만 표시	actions	menu	
+<colNum0>Group:</col> Show all	<colNum0>그룹:</col> 모두 표시	actions	menu	
+<colNum0>Trade:</col> Clear history	<colNum0>거래:</col> 기록 지우기	actions	menu	
+<colNum0>Trade:</col> Show none	<colNum0>거래:</col> 표시 안 함	actions	menu	
+<colNum0>Trade:</col> Show friends	<colNum0>거래:</col> 친구만 표시	actions	menu	
+<colNum0>Trade:</col> Show all	<colNum0>거래:</col> 모두 표시	actions	menu	
+Report game bug	게임 버그 신고	actions	menu	
+Report abuse	부정행위 신고	actions	menu	
+Combat Options	전투 옵션	actions	menu	
+Skills	스킬	actions	menu	
+Achievement Diaries	업적 일지	actions	menu	
+Inventory	소지품	actions	menu	
+Worn Equipment	착용 장비	actions	menu	
+Enable prayer reordering	기도 순서 변경 켜기	actions	menu	
+Disable prayer filtering	기도 필터 끄기	actions	menu	
+Prayer	기도	actions	menu	
+Enable spell reordering	주문 순서 변경 켜기	actions	menu	
+Disable spell filtering	주문 필터 끄기	actions	menu	
+Magic	마법	actions	menu	
+Friends List	친구 목록	actions	menu	
+Account Management	계정 관리	actions	menu	
+Ironman Group	아이언맨 그룹	actions	menu	
+Settings	설정	actions	menu	
+Emotes	감정 표현	actions	menu	
+Music Player	음악 플레이어	actions	menu	
+Logout	로그아웃	actions	menu	
+Look West	서쪽 보기	actions	menu	
+Look South	남쪽 보기	actions	menu	
+Look East	동쪽 보기	actions	menu	
+Look North	북쪽 보기	actions	menu	
+Setup	설정	actions	menu	
+Hide	숨기기	actions	menu	
+Show	표시	actions	menu	
+Activate	활성화	actions	menu	
+Toggle Run	달리기 전환	actions	menu	
+Use	사용	actions	menu	
+Bond Pouch	본드 주머니	actions	menu	
+Open Store	상점 열기	actions	menu	
+Clear	지우기	actions	menu	
+Import	가져오기	actions	menu	
+Export	내보내기	actions	menu	
+Fullscreen <colNum0>World Map</col>	<colNum0>세계 지도</col> 전체 화면	actions	menu	
+Floating <colNum0>World Map</col>	<colNum0>세계 지도</col> 창 띄우기	actions	menu	
+DPS	DPS	actions	menu	
+Search	검색	actions	menu	
+Lookup	조회	actions	menu	
+Auto retaliate	자동 반격	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	<colNum0>특수 공격</col> 사용	actions	menu	combatOptionsTab
+Choose spell	주문 선택	actions	menu	combatOptionsTab
+Focus	집중	actions	menu	combatOptionsTab
+Wiki	위키	actions	menu	
+Add to canvas	캔버스에 추가	actions	menu	
+View <colNum0>Attack</col> guide	<colNum0>공격</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	<colNum0>체력</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	<colNum0>채광</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	<colNum0>힘</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	<colNum0>민첩</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	<colNum0>대장일</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	<colNum0>방어</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	<colNum0>약초학</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	<colNum0>낚시</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	<colNum0>원거리</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	<colNum0>도둑질</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	<colNum0>요리</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	<colNum0>기도</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	<colNum0>공예</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	<colNum0>불 피우기</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	<colNum0>마법</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	<colNum0>활 제작</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	<colNum0>벌목</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	<colNum0>룬 제작</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	<colNum0>슬레이어</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	<colNum0>농사</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	<colNum0>건설</col> 가이드 보기	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	<colNum0>사냥</col> 가이드 보기	actions	menu	skillsTab
+Character Summary	캐릭터 요약	actions	menu	characterSummaryTab
+Achievement Diaries	업적 일지	actions	menu	characterSummaryTab
+Quest List	퀘스트 목록	actions	menu	characterSummaryTab
+Character Summary	캐릭터 요약	actions	menu	achievementDiaryTab
+Achievement Diaries	업적 일지	actions	menu	achievementDiaryTab
+Quest List	퀘스트 목록	actions	menu	achievementDiaryTab
+Character Summary	캐릭터 요약	actions	menu	questListTab
+Achievement Diaries	업적 일지	actions	menu	questListTab
+Quest List	퀘스트 목록	actions	menu	questListTab
+Character Summary	캐릭터 요약	actions	menu	
+Quest List	퀘스트 목록	actions	menu	
+Rewards	보상	actions	menu	characterSummaryTab
+Tasks	과제	actions	menu	characterSummaryTab
+Bosses	보스	actions	menu	characterSummaryTab
+Overview	개요	actions	menu	characterSummaryTab
+Collection Log	수집 기록	actions	menu	characterSummaryTab
+Collection Overview	수집 개요	actions	menu	characterSummaryTab
+Reveal	공개	actions	menu	characterSummaryTab
+Hide	숨기기	actions	menu	characterSummaryTab
+Open	열기	actions	menu	questListTab
+Close	닫기	actions	menu	questListTab
+Start Quest Helper	퀘스트 도우미 시작	actions	menu	questListTab
+Open wiki quick guide:	위키 빠른 가이드 열기:	actions	menu	questListTab
+Open wiki guide:	위키 가이드 열기:	actions	menu	questListTab
+Show on map:	지도에 표시:	actions	menu	questListTab
+Read journal:	일지 읽기:	actions	menu	questListTab
+Start Helper	도우미 시작	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	<colNum0>아르둔 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	<colNum0>아르둔 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	<colNum0>사막 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	<colNum0>사막 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	<colNum0>팔라도르 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	<colNum0>팔라도르 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	<colNum0>프레메닉 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	<colNum0>프레메닉 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	<colNum0>칸다린 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	<colNum0>칸다린 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	<colNum0>카람자 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	<colNum0>카람자 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	<colNum0>쿠렌드 & 케보스 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	<colNum0>쿠렌드 & 케보스 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>럼브리지 & 드레이너 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	<colNum0>럼브리지 & 드레이너 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	<colNum0>모리타니아 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	<colNum0>모리타니아 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	<colNum0>바록 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	<colNum0>바록 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	<colNum0>서부 지방 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	<colNum0>서부 지방 일지</col> 열기	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	<colNum0>황야 일지</col> 위키	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	<colNum0>황야 일지</col> 열기	actions	menu	achievementDiaryTab
+View equipment stats	장비 능력치 보기	actions	menu	wornEquipmentTab
+View guide prices	기준 가격 보기	actions	menu	wornEquipmentTab
+View items kept on death	사망 시 유지 아이템 보기	actions	menu	wornEquipmentTab
+Call follower	동료 부르기	actions	menu	wornEquipmentTab
+Disable prayer reordering	기도 순서 변경 끄기	actions	menu	
+Enable prayer filtering	기도 필터 켜기	actions	menu	
+Disable spell reordering	주문 순서 변경 끄기	actions	menu	
+Enable spell filtering	주문 필터 켜기	actions	menu	
+Show notifications	알림 표시	actions	menu	
+Add Note	메모 추가	actions	menu	
+Hide notifications	알림 숨기기	actions	menu	
+Delete	삭제	actions	menu	friendsTab
+Message	메시지	actions	menu	friendsTab
+View Ignore List	차단 목록 보기	actions	menu	friendsTab
+Add Friend	친구 추가	actions	menu	friendsTab
+Delete Friend	친구 삭제	actions	menu	friendsTab
+Hop-to	월드 이동	actions	menu	friendsTab
+View Friends List	친구 목록 보기	actions	menu	ignoreTab
+Delete	삭제	actions	menu	ignoreTab
+Add Name	이름 추가	actions	menu	ignoreTab
+Delete Name	이름 삭제	actions	menu	ignoreTab
+Account	계정	actions	menu	accountManagementTab
+Community	커뮤니티	actions	menu	accountManagementTab
+Useful Links	유용한 링크	actions	menu	accountManagementTab
+Open Store	상점 열기	actions	menu	accountManagementTab
+Bond Pouch	본드 주머니	actions	menu	accountManagementTab
+View Inbox	받은 편지함 보기	actions	menu	accountManagementTab
+Name Changer	이름 변경	actions	menu	accountManagementTab
+View History	기록 보기	actions	menu	accountManagementTab
+View Newspost	소식 보기	actions	menu	accountManagementTab
+View Archive	보관함 보기	actions	menu	accountManagementTab
+Open	열기	actions	menu	accountManagementTab
+Settings	설정	actions	menu	groupTab
+Refresh	새로고침	actions	menu	groupTab
+Join	참가	actions	menu	groupTab
+Setup	설정	actions	menu	groupTab
+Find	찾기	actions	menu	groupTab
+Open	열기	actions	menu	groupTab
+Add friend	친구 추가	actions	menu	groupTab
+Add ignore	차단 추가	actions	menu	groupTab
+Teleport	순간이동	actions	menu	groupTab
+Select	선택	actions	menu	groupTab
+Join <colNum0><!ANY_TRANSLATED0></col> channel	<colNum0><!ANY_TRANSLATED0></col> 채널 참가	actions	menu	groupTab
+Leave <colNum0><!ANY_TRANSLATED0></col> channel	<colNum0><!ANY_TRANSLATED0></col> 채널 나가기	actions	menu	groupTab
+Teleport to <colNum0><!ANY_TRANSLATED0></col>	<colNum0><!ANY_TRANSLATED0></col>(으)로 순간이동	actions	menu	groupTab
+Add friend <!PLAYER_NAME0>	<!PLAYER_NAME0> 친구 추가	actions	menu	groupTab
+Add ignore <!PLAYER_NAME0>	<!PLAYER_NAME0> 차단 추가	actions	menu	groupTab
+Remove friend <!PLAYER_NAME0>	<!PLAYER_NAME0> 친구 삭제	actions	menu	groupTab
+Remove ignore <!PLAYER_NAME0>	<!PLAYER_NAME0> 차단 해제	actions	menu	groupTab
+View Channel	채널 보기	actions	menu	groupTab
+Toggle skull prevention	해골 방지 전환	actions	menu	settingsTab
+Toggle Accept Aid	도움 수락 전환	actions	menu	settingsTab
+Toggle Run	달리기 전환	actions	menu	settingsTab
+View House Options	집 옵션 보기	actions	menu	settingsTab
+Open Bond Pouch	본드 주머니 열기	actions	menu	settingsTab
+All Settings	모든 설정	actions	menu	settingsTab
+Controls	조작	actions	menu	settingsTab
+Display	화면	actions	menu	settingsTab
+Audio	소리	actions	menu	settingsTab
+Unmute	음소거 해제	actions	menu	settingsTab
+Adjust Brightness	밝기 조절	actions	menu	settingsTab
+Restore Default Zoom	기본 확대 복원	actions	menu	settingsTab
+Disable	끄기	actions	menu	settingsTab
+Select	선택	actions	menu	settingsTab
+Perform	실행	actions	menu	emotesTab
+Perform <colNum0>Relic unlock</col>	<colNum0>유물 해금</col> 실행	actions	menu	emotesTab
+Loop	반복	actions	menu	emotesTab
+Area	지역	actions	menu	musicTab
+Manual	수동	actions	menu	musicTab
+Random	무작위	actions	menu	musicTab
+Unlock hint	해금 힌트	actions	menu	musicTab
+Play	재생	actions	menu	musicTab
+Toggle	전환	actions	menu	musicTab
+Open	열기	actions	menu	musicTab
+Thumbs Up	좋아요	actions	menu	logoutTab
+Thumbs Down	싫어요	actions	menu	logoutTab
+World Switcher	월드 전환기	actions	menu	logoutTab
+Logout	로그아웃	actions	menu	logoutTab
+Favourite	즐겨찾기	actions	menu	worldSwitcherTab
+Switch	전환	actions	menu	worldSwitcherTab
+Logout	로그아웃	actions	menu	worldSwitcherTab
+Clear	지우기	actions	menu	worldSwitcherTab
+Close	닫기	actions	menu	worldSwitcherTab
+Configure	설정	actions	menu	worldSwitcherTab
+Grouping	그룹 활동	actions	menu	groupTab
+Ironman Group	아이언맨 그룹	actions	menu	groupTab
+Chat-channel	채팅 채널	actions	menu	groupTab
+Your Clan	내 클랜	actions	menu	groupTab
+View another clan	다른 클랜 보기	actions	menu	groupTab
+Message	메시지	actions	menu	groupTab
+Remove friend	친구 삭제	actions	menu	groupTab
+Switch world	월드 전환	actions	menu	groupTab
+View Poll	투표 보기	actions	menu	accountManagementTab
+Viewer	관람	actions	menu	
+On	켜기	actions	menu	
+Off	끄기	actions	menu	
+Expel Guests	손님 내보내기	actions	menu	
+Call Servant	하인 부르기	actions	menu	
+Leave House	집 떠나기	actions	menu	
+Open subsection	하위 항목 열기	actions	menu	
+Move	이동	actions	menu	
+Learn More	자세히 알아보기	actions	menu	
+Talk-to	대화하기	actions	npc	Tool Leprechaun
+Exchange	교환하기	actions	npc	Tool Leprechaun
+Attack	공격하기	actions	npc	Molanisk
+Trade	거래하기	actions	npc	Hudo
+Travel	여행하기	actions	npc	Rug Merchant
+Pet	쓰다듬기	actions	npc	Dog
+Dyes	염료	actions	npc	Aggie
+Challenge	도전하기	actions	npc	Yama
+Guess-letter	글자 맞히기	actions	npc	Hangman game
+Banish	추방하기	actions	npc	Hangman game
+Reset	초기화	actions	npc	Hangman game
+Hit	치기	actions	npc	Combat stone
+Dismiss	돌려보내기	actions	npc	Dr Jekyll
+Rewards	보상	actions	npc	Emblem Trader
+Skull	해골	actions	npc	Emblem Trader
+Pay	지불하기	actions	npc	Ayesha
+Armour	갑옷	actions	npc	Ironman tutor
+Setup	설정	actions	npc	Ironman tutor
+Check-pets	펫 확인하기	actions	npc	Leagues Tutor
+Collect-items	아이템 수령하기	actions	npc	Leagues Tutor
+Claim-trophies	트로피 받기	actions	npc	Leagues Tutor
+Pick-up	집어 들기	actions	npc	Dark core
+Metamorphosis	변신	actions	npc	Dark core
+Pick	따기	actions	npc	Strange plant
+Grab	붙잡기	actions	npc	Suspect
+Pop	터뜨리기	actions	npc	Balloon Animal
+Kill	죽이기	actions	npc	Pheasant
+Disturb	깨우기	actions	npc	Phosani's Nightmare
+Gauntlets	건틀릿	actions	npc	Avan
+Lure	루어 낚시	actions	npc	Rod Fishing spot
+Bait	미끼 낚시	actions	npc	Rod Fishing spot
+Pickpocket	소매치기	actions	npc	Guard
+Assignment	임무	actions	npc	Vannaka
+Search	수색하기	actions	npc	Entomologist
+Confront	맞서기	actions	npc	Mi-Gor
+Transport	이동하기	actions	npc	Brother Tranquility
+Intimidate	위협하기	actions	npc	Zombie swab
+Fish	낚시하기	actions	npc	Fishing spot
+Smash-ice	얼음 깨기	actions	npc	Ice block
+Shear	털 깎기	actions	npc	Sheep
+Knock-Out	기절시키기	actions	npc	Bandit
+Bank	은행	actions	npc	Banker
+Collect	수령하기	actions	npc	Banker
+Check-Approval	지지도 확인	actions	npc	Arnor
+Tuxedo-time	턱시도 타임	actions	npc	Larry
+Mines	광산	actions	npc	Dartog
+Cellar	지하실	actions	npc	Dartog
+Dream	꿈	actions	npc	Dominic Onion
+Take-boat	배 타기	actions	npc	Monk of Entrana
+Inspect	조사하기	actions	npc	Lumbridge Guide
+Trade-General-Store	잡화점 거래	actions	npc	Razmire Keelgan
+Trade-Builders-Store	건축 상점 거래	actions	npc	Razmire Keelgan
+Haircut	이발	actions	npc	Hairdresser
+Shave	면도	actions	npc	Hairdresser
+Makeover	외모 변경	actions	npc	Makeover Mage
+Talk-To	대화하기	actions	npc	Tarquin
+Quick-falcon	빠른 매사냥	actions	npc	Matthias
+Retrieve	회수하기	actions	npc	Gyr Falcon
+Give-Sword	검 주기	actions	npc	Tindel Marchant
+Mine	채굴하기	actions	npc	Elemental rock
+Push	밀기	actions	npc	Trolley
+Pull	당기기	actions	npc	Trolley
+Big-push	세게 밀기	actions	npc	Trolley
+Place	놓기	actions	npc	Trolley
+Claim-arrows	화살 받기	actions	npc	Rantz
+Inflate	부풀리기	actions	npc	Swamp toad
+Pluck	깃털 뽑기	actions	npc	Chompy bird
+Shout-to	외쳐 부르기	actions	npc	Nickolaus
+Quick-travel	빠른 이동	actions	npc	Desert eagle
+Walk-past	지나가기	actions	npc	Eagle
+Threaten	위협하기	actions	npc	Kebbit
+Small Net	작은 그물	actions	npc	Fishing spot
+Net	그물	actions	npc	Fishing spot
+Ammo	탄약	actions	npc	Leon
+Cage	통발	actions	npc	Fishing spot
+Harpoon	작살	actions	npc	Fishing spot
+Big Net	큰 그물	actions	npc	Fishing spot
+Use-rod	낚싯대 사용	actions	npc	Fishing spot
+Escort	호위하기	actions	npc	Smiddi Ryak (hard)
+Supply	보급하기	actions	npc	Smiddi Ryak (hard)
+Claim-runes	룬 받기	actions	npc	Lundail
+Chase	쫓기	actions	npc	Cat
+Interact	상호작용	actions	npc	Cat
+Catch	잡기	actions	npc	Baby impling
+Get-rewards	보상 받기	actions	npc	Commander Connad
+Tutorial	튜토리얼	actions	npc	Captain Cain
+Start-minigame	미니게임 시작	actions	npc	Guardian mummy
+Teleport	순간이동	actions	npc	Apprentice
+Join-Crew	선원 합류	actions	npc	San Fan
+Join-Team	팀 합류	actions	npc	Honest Jimmy
+Pick-pocket	소매치기	actions	npc	Fairy Godfather
+Craft-goods	물건 제작	actions	npc	Thakkrad Sigmundson
+Rellekka	렐레카	actions	npc	Maria Gunnars
+Neitiznot	네이티즈놋	actions	npc	Maria Gunnars
+Jatizso	자티조	actions	npc	Mord Gunnars
+Watch-shouting	고함 구경하기	actions	npc	Guard
+Kick	차기	actions	npc	Bed
+Claim-Tokens	토큰 받기	actions	npc	Lorelai
+History	거래 기록	actions	npc	Grand Exchange Clerk
+Sets	세트	actions	npc	Grand Exchange Clerk
+Prices	가격	actions	npc	Brugsen Bursen
+Exchange fire cape	화염 망토 교환	actions	npc	TzHaar-Mej-Jal
+Destroy	파괴하기	actions	npc	Door-support
+Tickets	티켓	actions	npc	Cart conductor
+Listen-to	듣기	actions	npc	Red Axe Director
+Claim-Shield	방패 받기	actions	npc	Gamfred
+talk	대화하기	actions	npc	Gate of War
+Get job (easy)	일 받기 (쉬움)	actions	npc	Gianne jnr.
+Get job (hard)	일 받기 (어려움)	actions	npc	Gianne jnr.
+Repairs	수리	actions	npc	Dark Mage
+Sober-Up	술 깨기	actions	npc	Skippy
+Walk here	여기로 걷기	actions	npc	Purepker895
+Follow	따라가기	actions	npc	Purepker895
+Pay (north-west)	지불 (북서쪽)	actions	npc	Elstan
+Pay (south-east)	지불 (남동쪽)	actions	npc	Elstan
+Pay (north)	지불 (북쪽)	actions	npc	Dantaera
+Pay (south)	지불 (남쪽)	actions	npc	Dantaera
+Detach	떼어내기	actions	npc	Combat dummy
+Upgrade	업그레이드	actions	npc	Combat dummy
+Remove	제거하기	actions	npc	Combat dummy
+Shoo	훠이	actions	npc	Clockwork cat
+Fur Clothing	모피 옷	actions	npc	Asyff
+Shoo-away	쫓아내기	actions	npc	Stray dog
+Tease	놀리기	actions	npc	Sabre-toothed kyatt
+Leave	떠나기	actions	npc	Squire
+Claim-slime	점액 받기	actions	npc	Robin
+Use	사용하기	actions	npc	Portal
+Exit	나가기	actions	npc	Portal
+Relocate	옮기기	actions	npc	Estate agent
+Redecorate	새로 꾸미기	actions	npc	Estate agent
+Buy-plank	판자 구매	actions	npc	Sawmill operator
+Age	나이	actions	npc	Hans
+Tackle	태클	actions	npc	Gnome baller
+Pass-to	패스하기	actions	npc	Gnome winger
+Claim	받기	actions	npc	Ranged combat tutor
+Buy	구매하기	actions	npc	Fadli
+Heal	치료하기	actions	npc	A'abla
+Stroke	쓰다듬기	actions	npc	Gertrude's cat
+Climb-over	넘어가기	actions	npc	Pile of bones
+Melt	녹이기	actions	npc	Crust of ice
+Clear	치우기	actions	npc	Furnace grate
+Take	가져가기	actions	npc	Iron pickaxe
+Steal-from	훔치기	actions	npc	Digsite workman
+Pay-fare	요금 내기	actions	npc	Captain Tobias
+Pay-Fare	요금 내기	actions	npc	Customs officer
+Go-inside	안으로 들어가기	actions	npc	House
+Pirate's Cove	해적의 만	actions	npc	Lokar Searunner
+Deposit-items	아이템 맡기기	actions	npc	Peer the Seer
+Miscellania	미셀라니아	actions	npc	Sailor
+Prod	찌르기	actions	npc	Red Sheep
+Return-Home	집으로 돌아가기	actions	npc	Bill Teach
+Devices	장치	actions	npc	Ava
+Chop	베기	actions	npc	Undead tree
+Roll	굴리기	actions	npc	Boulder
+Watch	지켜보기	actions	npc	Mercenary Captain
+Buy-pass	통행증 구매	actions	npc	Shantay
+Pass	통과하기	actions	npc	Shantay Guard
+Fly	날아가기	actions	npc	Auguste
+Decant	옮겨 담기	actions	npc	Zahur
+Clean	세척하기	actions	npc	Zahur
+Make unfinished potion(s)	미완성 물약 만들기	actions	npc	Zahur
+Shoot	쏘기	actions	npc	Target
+Shop	상점	actions	npc	Ezekial Lovecraft
+Board	탑승하기	actions	npc	Ogre boat
+Potions	물약	actions	npc	Apothecary
+Grab-feather	깃털 잡기	actions	npc	Desert Phoenix
+Take-from	꺼내기	actions	npc	Jig cart
+Coffer	금고	actions	npc	Yohnus
+Attract	유인하기	actions	npc	Light creature
+Call-Over	불러오기	actions	npc	Zombie
+Insult	모욕하기	actions	npc	Zombie
+Scare	겁주기	actions	npc	Zombie
+Skin	가죽 벗기기	actions	npc	Swamp snake
+Burn	태우기	actions	npc	Barricade
+Extinguish	불 끄기	actions	npc	Barricade
+Quick-withdraw	빠른 인출	actions	npc	Elnock Inquisitor
+Check-gates	문 확인	actions	npc	Wandering impling
+Sand	모래	actions	npc	Bert
+Request-supplies	보급 요청	actions	npc	Bork Sigmundson
+Sew	바느질하기	actions	npc	Patchy
+Check	확인하기	actions	npc	Probita
+View Laps	바퀴 수 보기	actions	npc	Grace
+Toggle Counter	계수기 전환	actions	npc	Grace
+Tap	두드리기	actions	npc	Skullball
+Show-Goal	목표 보기	actions	npc	Skullball
+Give-Stick	막대기 주기	actions	npc	Agility Trainer
+Waterbirth Island	워터버스 섬	actions	npc	Jarvald
+Take-flyer	전단지 받기	actions	npc	Ali the Leaflet Dropper
+Trade-with	거래하기	actions	npc	Rewards Guardian
+Trade-Co-op	협동조합 거래	actions	npc	Gabooty
+Trade-Drinks	음료 거래	actions	npc	Gabooty
+Send-parcel	소포 보내기	actions	npc	Rionasta
+Peek	엿보기	actions	npc	Eye
+Deposit-box	보관함	actions	npc	Financial Seer
+Move	옮기기	actions	npc	Boulder
+Log-storage	통나무 보관	actions	npc	Friendly Forester
+Claim Sand	모래 받기	actions	npc	Drew
+Deposit buckets	양동이 맡기기	actions	npc	Drew
+Toggle warnings	경고 전환	actions	npc	Doomsayer
+Remove PvP Protection	PvP 보호 해제	actions	npc	Doomsayer
+Observe	관찰하기	actions	npc	Maze Guardian
+New-maze	새 미로	actions	npc	Maze Guardian
+Maxhit Variant	최대 피해 변형	actions	npc	Combat Test
+Kill-count	처치 수	actions	npc	Soldier
+Canyon-count (east)	협곡 처치 수 (동쪽)	actions	npc	Soldier
+Canyon-count (west)	협곡 처치 수 (서쪽)	actions	npc	Soldier
+Pay (north-east)	지불 (북동쪽)	actions	npc	Marisi
+Pay (south-west)	지불 (남서쪽)	actions	npc	Marisi
+Task	과제	actions	npc	Captain Khaled
+Help	도움말	actions	npc	Villia
+Spellbook	주문서	actions	npc	Tyss
+Climb-on	올라타기	actions	npc	Stunted demonic gorilla
+Glider	글라이더	actions	npc	Captain Shoracks
+Watermill	물레방아	actions	npc	Mistag
+Join	참가하기	actions	npc	Lisa
+Locking	잠금	actions	npc	Rift guardian
+Check Scores	점수 확인	actions	npc	Captain Kalt
+Contract	계약	actions	npc	Amy
+Last-tier contract	마지막 등급 계약	actions	npc	Amy
+Port Sarim	포트 사림	actions	npc	Captain Magoro
+Port Piscarilius	포트 피스카릴리우스	actions	npc	Captain Magoro
+Feed	먹이 주기	actions	npc	Lux grub
+Douse	물 끼얹기	actions	npc	Fire
+Cut	자르기	actions	npc	Meat tree
+Smash	부수기	actions	npc	Jewelled Crab
+Claim-cape	망토 받기	actions	npc	Captain Rimor
+Set-difficulty	난이도 설정	actions	npc	Captain Rimor
+Fight	싸우기	actions	npc	Abigale
+Bars	주괴	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	광물 전환	actions	npc	Belona
+Kitten	새끼 고양이	actions	npc	Gertrude
+Toggle-vials	유리병 전환	actions	npc	Barbarian guard
+Redeem-code	코드 사용	actions	npc	Recruiter
+Purchase Amulet	아뮬렛 구매	actions	npc	Wizard Mizgog
+Staves	지팡이	actions	npc	Dark Mage
+Deboard	하선하기	actions	npc	Barge guard
+Toggle Fossils	화석 전환	actions	npc	Peter
+Poke	쿡 찌르기	actions	npc	Bobbing fossil
+Training	훈련	actions	npc	Mairin
+Harvest	수확하기	actions	npc	Herbiboar
+Stun	기절시키기	actions	npc	Hoop Snake
+Murder	살해하기	actions	npc	Conrad King
+Quick-Travel	빠른 이동	actions	npc	Barge guard
+Escape	탈출하기	actions	npc	Brundt the Chieftain
+Scry	점치기	actions	npc	Abigaila
+Claim Pet Rock	애완 돌 받기	actions	npc	Askeladden
+Standard Variant	기본 변형	actions	npc	Combat Test (maxhit)
+Get-log	기록 받기	actions	npc	The Collector
+Claim-log-rewards	기록 보상 받기	actions	npc	The Collector
+Get bird	새 받기	actions	npc	Alry the Angler
+Pay (Fruit tree)	지불 (과일나무)	actions	npc	Nikkie
+Pay (tree patch)	지불 (나무 밭)	actions	npc	Rosie
+Pay (Redwood tree)	지불 (레드우드 나무)	actions	npc	Alexandra
+Pay (Spirit tree)	지불 (정령 나무)	actions	npc	Latlink Fastbell
+Swap	교체하기	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	지불 (셀라스트루스 나무)	actions	npc	Taylor
+Land's End	랜즈 엔드	actions	npc	Veos
+Join Castle Wars	캐슬 워즈 참가	actions	npc	Saradominist recruiter
+Holiday-items	기념 아이템	actions	npc	Diango
+Tan-hides	가죽 무두질	actions	npc	Eodan
+Ardougne	아르둔	actions	npc	Captain Barnaby
+Brimhaven	브림헤이븐	actions	npc	Captain Barnaby
+Rimmington	림밍턴	actions	npc	Captain Barnaby
+Enchant	마법 부여	actions	npc	Eluned
+Quick-escape	빠른 탈출	actions	npc	Elena
+Investigate	조사하기	actions	npc	Elderly Elf
+Fix-exoskeleton	외골격 고치기	actions	npc	Elderly Elf
+Chop down	베어 넘기기	actions	npc	Tree
+Sing	노래하기	actions	npc	Reese
+Statistics	통계	actions	npc	Ystwyth
+Repair	수리하기	actions	npc	Aneirin
+Open Adventure Paths	모험 경로 열기	actions	npc	Adventurer Jon
+Island of Stone	돌의 섬	actions	npc	Haskell
+Charter	전세선	actions	npc	Trader Stan
+Charter-to Brimhaven	브림헤이븐행 전세선	actions	npc	Trader Stan
+Charter-to Catherby	캐서비행 전세선	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	모스 르하믈레스행 전세선	actions	npc	Trader Stan
+Charter-to Musa Point	무사 포인트행 전세선	actions	npc	Trader Stan
+Charter-to Port Khazard	포트 카자드행 전세선	actions	npc	Trader Stan
+Charter-to Port Phasmatys	포트 파스마티스행 전세선	actions	npc	Trader Stan
+Charter-to Port Sarim	포트 사림행 전세선	actions	npc	Trader Stan
+Charter-to Shipyard	조선소행 전세선	actions	npc	Trader Stan
+Charter-to Corsair Cove	코르세어 만행 전세선	actions	npc	Trader Stan
+Charter-to Prifddinas	프리프디나스행 전세선	actions	npc	Trader Stan
+Charter-to Port Tyras	포트 티라스행 전세선	actions	npc	Trader Stan
+Charge	충전하기	actions	npc	Totem
+Spectate	관전하기	actions	npc	The Nightmare
+Convert-shards	조각 변환	actions	npc	Noranna Tytanin
+Loot	약탈하기	actions	npc	Grave
+Lap-count	바퀴 수	actions	npc	Bobawu
+Value	가치	actions	npc	Skully
+Settings	설정	actions	npc	Skully
+Ungael	운가엘	actions	npc	Torfinn
+Glider-to Ta Quir Priw	타 퀴르 프리우행 글라이더	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	간디우스행 글라이더	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	카르헤오행 글라이더	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	레만토 안드라행 글라이더	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	신다르포스행 글라이더	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	우쿠콜리 운드리행 글라이더	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	레만톨리 운드리행 글라이더	actions	npc	Captain Dalbur
+Other-services	기타 서비스	actions	npc	Thessalia
+Leave-tutorial	튜토리얼 나가기	actions	npc	Nomad
+Fill	채우기	actions	npc	Ammunition crate
+Check-ammo	탄약 확인	actions	npc	Ammunition crate
+Forfeit	기권하기	actions	npc	Captain Pudi
+Locks	자물쇠	actions	npc	Dampe
+Take-net	그물 받기	actions	npc	Spirit Angler
+Ferry	나룻배	actions	npc	Ferryman Sathwood
+Awaken	깨우기	actions	npc	Rubble
+Items	아이템	actions	npc	Clerk
+Buy-sphere	구체 구매	actions	npc	Oldak
+Power-up	강화하기	actions	npc	The Great Guardian
+Buy-crystals	크리스탈 구매	actions	npc	Rick
+Quick-lock	빠른 잠금	actions	npc	Apprentice Tamara
+Strike	타격하기	actions	npc	Hill Giant
+Hand-in	제출하기	actions	npc	Kovac
+Commission	의뢰	actions	npc	Kovac
+Talk	대화하기	actions	npc	Hannibal
+Proceed	진행하기	actions	npc	Osmumten
+Begin	시작하기	actions	npc	Osmumten
+Water	물 주기	actions	npc	Palm of Resourcefulness
+Check-costume	의상 확인	actions	npc	Costumed child
+Trick-or-treat	트릭 오어 트릿	actions	npc	Generous Treater
+Scare-away	겁줘서 쫓기	actions	npc	Spooky dog
+Tend-to	돌보기	actions	npc	Flowering bush (Lilac)
+Emote	감정 표현	actions	npc	Wisp
+Deposit	맡기기	actions	npc	Woodcutting Leprechaun
+Cast	시전하기	actions	npc	Fishing spot
+Reset-room	방 초기화	actions	npc	Cerebral pathfinder
+Take-lure	미끼 받기	actions	npc	Light leech
+Build	짓기	actions	npc	Unfinished Beehive
+Disarm	해제하기	actions	npc	Fox trap
+Prune	가지치기	actions	npc	Entling
+Prune-top	윗가지 치기	actions	npc	Entling
+Prune-back	뒷가지 치기	actions	npc	Entling
+Prune-sides	옆가지 치기	actions	npc	Entling
+Metamorph	변신	actions	npc	Bran
+Listen	듣기	actions	npc	Key Master
+Charter-to Port Piscarilius	포트 피스카릴리우스행 전세선	actions	npc	Trader Stan
+Charter-to Land's End	랜즈 엔드행 전세선	actions	npc	Trader Stan
+Mark	표시하기	actions	npc	Guard
+Unmark	표시 해제	actions	npc	Guard
+Charter-to Civitas illa Fortis	시비타스 일라 포르티스행 전세선	actions	npc	Trader Stan
+Charter-to Aldarin	알다린행 전세선	actions	npc	Trader Stan
+Charter-to Sunset Coast	선셋 해안행 전세선	actions	npc	Trader Stan
+Charter-to Tempestus	템페스투스행 전세선	actions	npc	Trader Stan
+Start-wave	웨이브 시작	actions	npc	Minimus
+Scoreboard	점수판	actions	npc	Eyatlalli
+Rumour	소문	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	소문 설정	actions	npc	Guild Scribe Verity
+Fur-clothing	모피 옷	actions	npc	Pellem
+Recharge-whistle	호루라기 충전	actions	npc	Soar Leader Pitri
+Trade-in	반납 교환	actions	npc	Oriana
+Last-destination	마지막 목적지	actions	npc	Renu
+Plant-orb	오브 심기	actions	npc	Surok Magis
+Choose	선택하기	actions	npc	Tenoch
+Check-on	상태 확인	actions	npc	Man
+Stats	능력치	actions	npc	Worm Tongue
+Sacrifice	제물 바치기	actions	npc	Branda the Fire Queen
+Take pages	페이지 받기	actions	npc	Branda the Fire Queen
+Examine	살펴보기	actions	npc	
+Search	수색하기	actions	object	Crate
+Enter	들어가기	actions	object	Cave Entrance
+Open	열기	actions	object	Door
+Inspect	조사하기	actions	object	Broken multicannon
+Fire	발사하기	actions	object	Dwarf multicannon
+Pick-up	집어 들기	actions	object	Dwarf multicannon
+Empty	비우기	actions	object	Dwarf multicannon
+Climb-down	내려가기	actions	object	Ladder
+Climb-up	올라가기	actions	object	Ladder
+Climb-over	넘어가기	actions	object	Rock pile
+Prod	찌르기	actions	object	Sacks
+Pull	당기기	actions	object	Lever
+Go-through	지나가기	actions	object	Gate
+Fish	낚시하기	actions	object	Fishing spot
+Squeeze-through	비집고 지나가기	actions	object	Loose Railing
+Check	확인하기	actions	object	Vine
+Pray-at	기도하기	actions	object	Chaos altar
+Smash	부수기	actions	object	Giant crystal
+Hide-in	숨기	actions	object	Crate
+Take-from	꺼내기	actions	object	Beehive
+Cross	건너기	actions	object	Gangplank
+Knock-at	두드리기	actions	object	Large door
+Search for traps	함정 찾기	actions	object	Lever
+Shut	닫기	actions	object	Open chest
+Cook	요리하기	actions	object	Cooking range
+Burst	터뜨리기	actions	object	Party Balloon
+Jump-up	뛰어오르기	actions	object	Rocks
+Operate	작동하기	actions	object	Winch
+Pick	따기	actions	object	Potato
+Close	닫기	actions	object	Large open cupboard
+Play	플레이	actions	object	Church organ
+Use	사용하기	actions	object	Crevice
+Peek	엿보기	actions	object	Crevice
+Private	개인	actions	object	Crevice
+Jump	점프하기	actions	object	Broken Fence
+Steal-from	훔치기	actions	object	Tea stall
+Take	줍기	actions	object	Small fishing net
+Exit	나가기	actions	object	Cave exit
+Suck	빨아들이기	actions	object	Swamp bubbles
+Reset	초기화	actions	object	Shaking box
+Slash	베기	actions	object	Web
+Weave	엮기	actions	object	Loom
+Attack	공격하기	actions	object	Dummy
+Read	읽기	actions	object	Plaque
+Chop down	베어 넘기기	actions	object	Tree
+Push	밀기	actions	object	Wall
+Take-1	1개 가져가기	actions	object	Bandage table
+Take-5	5개 가져가기	actions	object	Bandage table
+Take-10	10개 가져가기	actions	object	Bandage table
+Commune	교감하기	actions	object	Lever
+Board	탑승하기	actions	object	Log raft
+Swim to	헤엄쳐 가기	actions	object	Rock
+Take treasure	보물 가져가기	actions	object	Chalice
+Climb	오르기	actions	object	Dead Tree
+Get in	타기	actions	object	Barrel
+Chop	베기	actions	object	Achey Tree
+Drink-from	마시기	actions	object	Cauldron
+Smelt	제련하기	actions	object	Furnace
+Smith	단조하기	actions	object	Anvil
+Hit	치기	actions	object	Dummy
+Fill	채우기	actions	object	Crate
+Look-at	보기	actions	object	Mound of earth
+Investigate	조사하기	actions	object	Strange looking stone
+Craft	제작하기	actions	object	Smashed table
+Disembark	내리기	actions	object	Crude raft
+Pay-fare	요금 내기	actions	object	Travel cart
+Listen-at	엿듣기	actions	object	Grill
+Pan	사금 채취	actions	object	Panning point
+Shoot	쏘기	actions	object	Gnome goal
+Deposit	맡기기	actions	object	Chest
+Climb-on	올라타기	actions	object	Barrel
+Kick	차기	actions	object	Loose panel
+Rotate	회전하기	actions	object	Crane
+Walk-down	걸어 내려가기	actions	object	Spooky stairs
+Walk-up	걸어 올라가기	actions	object	Spooky stairs
+Repair	수리하기	actions	object	Hole
+Walk-Down	걸어 내려가기	actions	object	Stairs
+Walk-Up	걸어 올라가기	actions	object	Stairs
+Mine	채굴하기	actions	object	Rock slide
+Look at	보기	actions	object	Winch
+Cut	자르기	actions	object	Kharidian cactus (Healthy)
+Watch	지켜보기	actions	object	Mine door entrance
+Look-in	들여다보기	actions	object	Barrel
+Look in	들여다보기	actions	object	Barrel
+Collect	수령하기	actions	object	Bank chest
+Climb-to	타고 오르기	actions	object	Rock
+Climb down	내려가기	actions	object	Rock
+Walk through	걸어 지나가기	actions	object	Mine cave
+Walk-through	걸어 지나가기	actions	object	Tent door
+Remove	제거하기	actions	object	Hellhound
+Steal-From	훔치기	actions	object	Counter
+Prospect	탐사하기	actions	object	Rock of Dalgroth
+Leave	떠나기	actions	object	Cave exit
+Jump-Over	뛰어넘기	actions	object	Gap
+Turn	돌리기	actions	object	Sewer valve
+Look-under	밑을 보기	actions	object	Potted plant
+Step-into	들어서기	actions	object	Sparkling pool
+Chop-down	베어 넘기기	actions	object	Jungle tree
+Touch	만지기	actions	object	Fire Wall
+search	수색하기	actions	object	Desk
+Smash-to-bits	산산조각 내기	actions	object	Boulder
+Jump-over	뛰어넘기	actions	object	Jagged wall
+Look	보기	actions	object	Carved rock
+Lift	들어 올리기	actions	object	Totem pole
+Shake	흔들기	actions	object	Leafy Palm Tree
+Cut down	베어 넘기기	actions	object	Arctic pine tree
+Forfeit	기권하기	actions	object	Entrance
+Bank	은행	actions	object	Open chest
+Buy	구매하기	actions	object	Crate
+Pass-through	통과하기	actions	object	Tunnel
+Descend	내려가기	actions	object	Cave
+Ascend	올라가기	actions	object	Cave
+Picklock	자물쇠 따기	actions	object	Gate
+Fire-at	겨냥해 쏘기	actions	object	Guide rope
+Unlock	잠금 해제	actions	object	Locked Ogre chest
+Study	연구하기	actions	object	Monument
+Take-cutting	꺾꽂이 가지 얻기	actions	object	Budding branch
+Walk-on	걸어가기	actions	object	Balancing rope
+Walk-across	걸어서 건너기	actions	object	Balancing ledge
+Swing-across	매달려 건너기	actions	object	Monkey bars
+Swing-on	매달리기	actions	object	Rope swing
+Jump-on	뛰어오르기	actions	object	Pillar
+Tag	태그하기	actions	object	Ticket Dispenser
+Climb-across	기어서 건너기	actions	object	Hand holds
+Toggle-warning	경고 전환	actions	object	Cave entrance
+Dump	쏟기	actions	object	Compost Bin
+Step-over	넘어가기	actions	object	Tripwire
+Pass	통과하기	actions	object	Sticks
+Reinforce	보강하기	actions	object	Temple wall
+Light	불 붙이기	actions	object	Fire altar
+Build	짓기	actions	object	Funeral Pyre
+Summon	소환하기	actions	object	Strange altar
+Cut-branch	가지 자르기	actions	object	Swaying tree
+Put-inside	안에 넣기	actions	object	Pipe
+Spin	잣기	actions	object	Spinning wheel
+Capture	점령하기	actions	object	Standard Stand
+Jump-to	건너뛰기	actions	object	Stepping stone
+Collapse	무너뜨리기	actions	object	Cave wall
+Top-Floor	꼭대기 층	actions	object	Ladder
+Lock	잠그기	actions	object	Door
+View	보기	actions	object	Scoreboard
+View Stats	능력치 보기	actions	object	Scoreboard
+Remove board advert	게시판 광고 제거	actions	object	Portal
+Remove-room	방 제거	actions	object	Dungeon entrance
+Jump-across	뛰어 건너기	actions	object	Basalt rock
+Top-floor	꼭대기 층	actions	object	Staircase
+Bottom-floor	맨 아래층	actions	object	Staircase
+View-game	게임 보기	actions	object	Table
+Weed	잡초 뽑기	actions	object	Herbs
+Jump off	뛰어내리기	actions	object	End of bridge
+Talk-to	대화하기	actions	object	Awowogei
+Pick-lock	자물쇠 따기	actions	object	Jail Door
+Steal from	훔치기	actions	object	Crafting Stall
+Crawl-down	기어 내려가기	actions	object	Cart tunnel
+Crawl-through	기어서 통과하기	actions	object	Cart tunnel
+Go-down	내려가기	actions	object	Lift
+Go-up	올라가기	actions	object	Lift
+Slide	미끄러지기	actions	object	Slope
+Squeeze-past	비집고 지나가기	actions	object	Stalagmite
+Wind	감기	actions	object	Clock
+Dig	파기	actions	object	Grave
+Pick-Lock	자물쇠 따기	actions	object	Trapdoor
+Take-axe	도끼 가져가기	actions	object	Logs
+Ring-bell	종 울리기	actions	object	Antiques Shop Stall
+Listen-to	듣기	actions	object	Shining pool
+Pick-from	따기	actions	object	Thorny bushes
+Dig-up	파내기	actions	object	Mud
+Dig-below	아래 파기	actions	object	Roots
+Jump-through	뛰어 통과하기	actions	object	Wall of flame
+Take-beer	맥주 가져가기	actions	object	Table
+Hide-behind	뒤에 숨기	actions	object	Cactus
+Smoke	연기 피우기	actions	object	Smokey well
+Look-into	들여다보기	actions	object	Mystical mirror
+Step-off	내려서기	actions	object	Ice ledge
+Climb-through	통과하기	actions	object	Hole
+Collect-from	수거하기	actions	object	Weeping wall
+Sit-on	앉기	actions	object	Chair
+Upgrade	업그레이드	actions	object	Tools
+Work-at	작업하기	actions	object	Workbench
+Make-helmet	투구 만들기	actions	object	Helmet pluming stand
+Ring	울리기	actions	object	Bell
+Quick-board	빠른 탑승	actions	object	Swamp Boaty
+Ride	타기	actions	object	Train cart
+Observe	관찰하기	actions	object	Telescope
+Leave-area	구역 떠나기	actions	object	Ladder
+Crack	깨뜨리기	actions	object	Wall safe
+Pull-spade	삽 뽑기	actions	object	Stone Door
+Guide	안내	actions	object	Belladonna patch
+Rake	갈퀴질	actions	object	Belladonna patch
+Cure	치료하기	actions	object	Diseased Belladonna
+Clear	치우기	actions	object	Dead Belladonna
+Check-health	상태 확인	actions	object	Cadavaberry bush
+Prune	가지치기	actions	object	Diseased cadavaberry bush
+Pick-spine	가시 따기	actions	object	Cactus
+Pick-fruit	열매 따기	actions	object	Calquat tree
+Gear	장비	actions	object	Supplies
+Stats	능력치	actions	object	Supplies
+Standard spellbook	일반 주문서	actions	object	Altar
+Ancient spellbook	고대 주문서	actions	object	Altar
+Lunar spellbook	루나 주문서	actions	object	Altar
+Arceuus spellbook	아르세우스 주문서	actions	object	Altar
+Pick-apple	사과 따기	actions	object	Apple tree
+Pick-pineapple	파인애플 따기	actions	object	Pineapple plant
+Pick-banana	바나나 따기	actions	object	Banana tree
+Pick-leaf	잎 따기	actions	object	Curry tree
+Pick-orange	오렌지 따기	actions	object	Orange tree
+Pick-coconut	코코넛 따기	actions	object	Palm tree
+Harvest	수확하기	actions	object	Asgarnian Hops
+Travel	여행하기	actions	object	Spirit Tree
+Milk	젖 짜기	actions	object	Dairy cow
+Steal-cowbell	소방울 훔치기	actions	object	Dairy cow
+Dismantle	분해하기	actions	object	Young tree
+Set-trap	덫 놓기	actions	object	Young tree
+Release	풀어 주기	actions	object	Gnome on a rack
+Level	층	actions	object	Kelda Stout
+Control	조종하기	actions	object	Dwarven machinery
+Return	돌아가기	actions	object	Train cart
+Chip	깎아 내기	actions	object	Dense runestone
+Hack	난도질하기	actions	object	Light Jungle
+Quick-Pay(100)	빠른 지불(100)	actions	object	Hardwood Grove Doors
+Refuel	연료 보충	actions	object	Stove
+Retrieve	회수하기	actions	object	Bars
+Pedal	페달 밟기	actions	object	Pedals
+Put-ore-on	광석 올리기	actions	object	Conveyor belt
+Fill-bucket	양동이 채우기	actions	object	Sink
+Take-seed	씨앗 가져가기	actions	object	Roses
+Attach	붙이기	actions	object	Ornate combat dummy
+Swap	교체하기	actions	object	Ornate combat dummy
+Take-Coffin	관 가져가기	actions	object	Grave
+Make	만들기	actions	object	Bed
+Net	그물	actions	object	Fishing spot
+Ardougne	아르둔	actions	object	Lever
+Edgeville	에지빌	actions	object	Lever
+Swap-options	옵션 교체	actions	object	Lever
+Talk to	대화하기	actions	object	Tree
+Exchange	교환하기	actions	object	Grand Exchange booth
+Lure	루어 낚시	actions	object	Ominous Fishing Spot
+Bait	미끼 낚시	actions	object	Ominous Fishing Spot
+Fish-In	낚시하기	actions	object	Aquarium
+Count	세기	actions	object	Pressure Barrel
+Swim	헤엄치기	actions	object	River
+Look-up	올려다보기	actions	object	Trellis
+Spectate	관전하기	actions	object	Rat wall
+Deposit-box	보관함	actions	object	Bank booth
+Grab	붙잡기	actions	object	Bones
+Remove-coal	석탄 빼기	actions	object	Coal Truck
+Take-sigil	인장 가져가기	actions	object	Pedestal
+Empty-Out	비우기	actions	object	Cannon
+Fire!	발사!	actions	object	Cannon
+Loot	약탈하기	actions	object	Crate
+Plunder	털기	actions	object	Closed chest
+Ransack	뒤지기	actions	object	Barrel
+Count-plunder	약탈품 세기	actions	object	Plunder Storage
+Store-plunder	약탈품 보관	actions	object	Plunder Storage
+Take-powder	화약 가져가기	actions	object	Powder Barrel
+Waterproof	방수 처리	actions	object	Ship hull
+Balance	균형 잡기	actions	object	Narrow wall
+Teeth-grip	이로 물기	actions	object	Zip line
+Drain	물 빼기	actions	object	Barrel
+Churn	휘젓기	actions	object	Dairy churn
+Zanaris	자나리스	actions	object	Fairy ring
+Configure	설정	actions	object	Fairy ring
+Last-destination (AIP)	마지막 목적지 (AIP)	actions	object	Fairy ring
+Escape	탈출하기	actions	object	Cave entrance
+Examine	살펴보기	actions	object	Healing certificate
+Shape-Canoe	카누 다듬기	actions	object	Canoe Station
+Float Log	통나무 띄우기	actions	object	Canoe Station
+Float Canoe	카누 띄우기	actions	object	Canoe Station
+Paddle Log	통나무 노 젓기	actions	object	Canoe Station
+Paddle Canoe	카누 노 젓기	actions	object	Canoe Station
+Look-inside	안을 보기	actions	object	Mole hill
+Buy-food	음식 구매	actions	object	Chest
+Buy-items	아이템 구매	actions	object	Chest
+Quick-escape	빠른 탈출	actions	object	Door
+Pick-Fruit	열매 따기	actions	object	Sq'irk tree
+Stand-on	올라서기	actions	object	Balance beam
+Get-down	내려오기	actions	object	Balance beam
+Change-clothes	옷 갈아입기	actions	object	Shoe box
+Preen	몸단장	actions	object	Shaving stand
+Haircut	이발	actions	object	Shaving stand
+Shave	면도	actions	object	Shaving stand
+Pray	기도하기	actions	object	Altar
+Re-light	다시 불 붙이기	actions	object	Incense burner
+Build-in	안에 짓기	actions	object	Cage
+Force	강제로 열기	actions	object	Door
+Activate	활성화	actions	object	Treasure Hunt Fairy House
+Set-up	설치하기	actions	object	Attack stone
+Hoop	고리 던지기	actions	object	Stick
+Throw-at	던지기	actions	object	Dartboard
+Shoot-at	쏘기	actions	object	Archery target
+Karamja	카람자	actions	object	Amulet of Glory
+Draynor Village	드레이너 마을	actions	object	Amulet of Glory
+Al Kharid	알 카리드	actions	object	Amulet of Glory
+Take-kettle	주전자 가져가기	actions	object	Firepit with hook
+Sleep-in	자기	actions	object	Pet blanket
+Last-destination (AIS)	마지막 목적지 (AIS)	actions	object	Fairy ring
+Last-destination (AIR)	마지막 목적지 (AIR)	actions	object	Fairy ring
+Last-destination (AIQ)	마지막 목적지 (AIQ)	actions	object	Fairy ring
+Direct-portal	포털 연결	actions	object	Scrying pool
+Scry	점치기	actions	object	Scrying pool
+Challenge-mode	도전 모드	actions	object	Lever
+Evade-event	이벤트 회피	actions	object	Path
+Continue-trek	여정 계속하기	actions	object	Path
+Swing-from	매달려 넘어가기	actions	object	Swamp tree branch
+Cut-vine	덩굴 자르기	actions	object	Swamp tree
+Escape-event	이벤트 탈출	actions	object	Boat
+Return-to-Burgh	버그 드 로트로 귀환	actions	object	Path
+Remove-Pot	단지 빼기	actions	object	Pot-boiler
+Remove-Bone	뼈 빼기	actions	object	Pot-boiler
+Jump-down	뛰어내리기	actions	object	Rocks
+Use-Driftwood	유목 사용	actions	object	Embers
+Climb-through (normal)	통과하기 (일반)	actions	object	Broken bars
+Climb-through (private)	통과하기 (개인)	actions	object	Broken bars
+Peek (normal)	엿보기 (일반)	actions	object	Broken bars
+Eat	먹기	actions	object	Food Pile
+Leap	도약하기	actions	object	Gap
+Teleport to Destination	목적지로 순간이동	actions	object	Obelisk
+Set Destination	목적지 설정	actions	object	Obelisk
+Hurdle	허들 넘기	actions	object	Ledge
+Jump-off	뛰어내리기	actions	object	Edge
+Vault	뛰어넘기	actions	object	Pole-vault
+Jump-in	뛰어들기	actions	object	Pile of fish
+Take-pickaxe	곡괭이 가져가기	actions	object	Rocks
+Use-Lift	승강기 사용	actions	object	Platform
+Take-Beam	들보 가져가기	actions	object	Crate
+Take-Pulley-Beam	도르래 들보 가져가기	actions	object	Crate
+Take-Rope	밧줄 가져가기	actions	object	Crate
+Swing Across	매달려 건너기	actions	object	Monkeybars
+Home	집	actions	object	Portal
+Build mode	건축 모드	actions	object	Portal
+Friend's house	친구 집	actions	object	Portal
+Swing	매달리기	actions	object	Rope
+Sit-On	앉기	actions	object	Piano stool
+Pick Nuts	견과 따기	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	바나나 따기	actions	object	Strange banana tree
+Throw	던지기	actions	object	Shot
+Unblock	막힌 곳 뚫기	actions	object	Tunnel
+Take-Rum	럼주 가져가기	actions	object	Conveyor Belt
+Pump	펌프질	actions	object	Steam Pump
+Vent	배출하기	actions	object	Steam Pump
+Take-Log	통나무 가져가기	actions	object	Log Store
+Take-Tool	도구 가져가기	actions	object	Workbench
+Cut-Down	베어 넘기기	actions	object	Jungle tree
+Pay-toll(2-Ecto)	통행료 지불(엑토 토큰 2개)	actions	object	Energy Barrier
+Jump-To	건너뛰기	actions	object	Rock
+Enter-cloud	구름 속으로 들어가기	actions	object	Cloud bank
+Listen	듣기	actions	object	Crevice
+Manoeuvre-past	피해 지나가기	actions	object	Tight-gap
+Climb-under	밑으로 기어가기	actions	object	Castle wall
+Climb-into	기어 들어가기	actions	object	Hole
+Jump-onto	뛰어오르기	actions	object	Stepping stone
+Press	누르기	actions	object	Zero
+Step-on	밟기	actions	object	Platform
+Worship	숭배하기	actions	object	Ectofuntus
+Status	상태	actions	object	Bone grinder
+Talk-To	대화하기	actions	object	Pirate Captain
+Admire	감상하기	actions	object	Tall mirror
+Roll	굴리기	actions	object	Dice
+Grapple	그래플	actions	object	Rocks
+Take-bowl	그릇 가져가기	actions	object	Table
+Sing-crystal	크리스탈 노래 부르기	actions	object	Singing bowl
+test	테스트	actions	object	Argento
+Crawl-under	밑으로 기어가기	actions	object	Wall
+Fix	고치기	actions	object	Bellows
+Bend	구부리기	actions	object	Cell wall window
+Steal	훔치기	actions	object	Candles
+Deactivate	비활성화	actions	object	Magic box
+Trap	덫 놓기	actions	object	Pit
+Flush	물 내리기	actions	object	Rabbit hole
+Shout-over	너머로 외치기	actions	object	Rockslide
+Pull-down	끌어내리기	actions	object	Eagle lever
+Push-up	밀어 올리기	actions	object	Eagle lever
+Quick-start	빠른 시작	actions	object	Ladder
+Reset-wave	웨이브 초기화	actions	object	Door
+Dunk	담그기	actions	object	Lava crater
+Block	막기	actions	object	Penance cave
+Demolish	철거하기	actions	object	Penance cave
+Take-Arrows	화살 가져가기	actions	object	Attacker item machine
+Take-Runes	룬 가져가기	actions	object	Attacker item machine
+Stock-Up	비축하기	actions	object	Defender item machine
+Take-Crackers	크래커 가져가기	actions	object	Defender item machine
+Take-Tofu	두부 가져가기	actions	object	Defender item machine
+Take-Worms	지렁이 가져가기	actions	object	Defender item machine
+Take-Vial	유리병 가져가기	actions	object	Healer item machine
+Take-Meat	고기 가져가기	actions	object	Healer item machine
+Call	부르기	actions	object	Horn of glory
+Get-Spikes	가시 얻기	actions	object	Petrified mushroom
+Load	장전하기	actions	object	Egg hopper
+Evade	피하기	actions	object	Trap
+Disable	무력화하기	actions	object	Trap
+Harpoon	작살	actions	object	Fishing spot
+Cage	통발	actions	object	Fishing spot
+Leave Tomb	무덤 떠나기	actions	object	Tomb Door
+Quick-leave	빠른 퇴장	actions	object	Tomb Door
+Tread-softly	살금살금 걷기	actions	object	Icicles
+Convert	변환하기	actions	object	Collector Converter
+Check for Snakes	뱀 확인	actions	object	Urn
+Charm Snake	뱀 홀리기	actions	object	Urn
+Cut-wood	나무 베기	actions	object	Woodcutting stump
+Cross-bridge	다리 건너기	actions	object	Rope bridge
+Exit-cave	동굴 나가기	actions	object	Exit cavern
+Decapitate	목 베기	actions	object	Ice Troll King
+Jump-from	뛰어내리기	actions	object	Stepping stone
+Peer-through	틈으로 보기	actions	object	Peephole
+Add-bottom	바닥 붙이기	actions	object	Crate
+Return-to-Paterdomus	파테르도무스로 귀환	actions	object	Path
+Excavate	발굴하기	actions	object	Statue
+Quick Pass	빠른 통과	actions	object	Flames
+Tamper	손대기	actions	object	Device
+Untie	풀기	actions	object	Zanik
+Walk-along	따라 걷기	actions	object	Tunnel
+Swing across	매달려 건너기	actions	object	Monkeybars
+Animate	생명 불어넣기	actions	object	Magical Animator
+Check Kudos	쿠도스 확인	actions	object	Information booth
+Add finds	발굴품 추가	actions	object	Storage crate
+Clean	세척하기	actions	object	Specimen table
+Talk-into	대고 말하기	actions	object	Drain Pipe
+Wind-up	태엽 감기	actions	object	Gramophone
+Turn-Off	끄기	actions	object	Gramophone
+Climb up	올라가기	actions	object	Beard
+Exit-through	통해 나가기	actions	object	Fire rift
+Push-through	밀고 지나가기	actions	object	Magical wheat
+Dive in	뛰어들기	actions	object	Whirlpool
+Construct	건설하기	actions	object	Pyre site
+Rummage	뒤적이기	actions	object	Skeleton
+Burn-down	불태우기	actions	object	Boil
+Take From	꺼내기	actions	object	Barrel of flour
+Reach	손 뻗기	actions	object	Vent
+Free	풀어 주기	actions	object	King Arthur
+Break	깨뜨리기	actions	object	Smashed window
+Distract	주의 끌기	actions	object	Eyes
+Drink	마시기	actions	object	Potion
+Store	보관하기	actions	object	Super ranging potion
+Equip	장착	actions	object	Anti-dragon shield
+Teleport	순간이동	actions	object	Zamorak altar
+Tie-rope	밧줄 묶기	actions	object	Rock
+Move	옮기기	actions	object	Boulder
+Claim-staves	지팡이 받기	actions	object	Barrel
+Climb-off	내려오기	actions	object	Ice bridge
+Crawl	기어가기	actions	object	Cave
+Join	참가하기	actions	object	Challenge portal
+Hammer	망치질	actions	object	Broken strut
+Toggle K/D	킬/데스 전환	actions	object	Wilderness Statistics
+Make-raft	뗏목 만들기	actions	object	Old log
+Toggle XP	경험치 전환	actions	object	Deadman chest
+Take-X	X개 가져가기	actions	object	Meat table
+Serve	대접하기	actions	object	Buffet table
+Water	물 주기	actions	object	Golovanova seedling
+Bind	묶기	actions	object	Blood Altar
+Venerate	경배하기	actions	object	Dark Altar
+Take-remains	유해 가져가기	actions	object	Kruk
+Scale	기어오르기	actions	object	Rocks
+Walk on	걸어가기	actions	object	Vine
+Look-in-all	모두 들여다보기	actions	object	Hole
+Disarm	해제하기	actions	object	Floor spikes
+Pass through	통과하기	actions	object	Sliced web
+Gaze-into	응시하기	actions	object	Burning brazier
+Reset-time	시간 초기화	actions	object	Burning brazier
+Balance-across	균형 잡고 건너기	actions	object	Steep roof
+Leave Cavern	동굴 떠나기	actions	object	Inanimate Altar
+Story	이야기	actions	object	Juna
+Climb over	넘어가기	actions	object	Broken cart
+Claim	받기	actions	object	Reward chest
+Add-House	집 추가	actions	object	House Advertisement
+Visit-Last	마지막 방문지	actions	object	House Advertisement
+Cross-to	건너가기	actions	object	Rock
+Setup	설정	actions	object	Tip jar
+Jars	단지	actions	object	Boss lair display
+Perks	특전	actions	object	Mounted Max Cape
+Spellbook	주문서	actions	object	Mounted Magic Cape
+Clip	깎기	actions	object	Topiary bush
+Feed	먹이 주기	actions	object	Burning brazier
+Take-hammer	망치 가져가기	actions	object	Crate
+Take-knife	칼 가져가기	actions	object	Crate
+Take-tinderbox	부싯깃 통 가져가기	actions	object	Crate
+Take-concoction	혼합물 가져가기	actions	object	Crate
+Take-5 concoctions	혼합물 5개 가져가기	actions	object	Crate
+Take-10 concoctions	혼합물 10개 가져가기	actions	object	Crate
+Last-destination (ALP)	마지막 목적지 (ALP)	actions	object	Fairy ring
+Last-destination (ALS)	마지막 목적지 (ALS)	actions	object	Fairy ring
+Last-destination (ALR)	마지막 목적지 (ALR)	actions	object	Fairy ring
+Last-destination (ALQ)	마지막 목적지 (ALQ)	actions	object	Fairy ring
+Last-destination (AKP)	마지막 목적지 (AKP)	actions	object	Fairy ring
+Last-destination (AKS)	마지막 목적지 (AKS)	actions	object	Fairy ring
+Last-destination (AKR)	마지막 목적지 (AKR)	actions	object	Fairy ring
+Last-destination (AKQ)	마지막 목적지 (AKQ)	actions	object	Fairy ring
+Last-destination (AJP)	마지막 목적지 (AJP)	actions	object	Fairy ring
+Last-destination (AJS)	마지막 목적지 (AJS)	actions	object	Fairy ring
+Last-destination (AJR)	마지막 목적지 (AJR)	actions	object	Fairy ring
+Last-destination (AJQ)	마지막 목적지 (AJQ)	actions	object	Fairy ring
+Last-destination (DIP)	마지막 목적지 (DIP)	actions	object	Fairy ring
+Last-destination (DIS)	마지막 목적지 (DIS)	actions	object	Fairy ring
+Last-destination (DIR)	마지막 목적지 (DIR)	actions	object	Fairy ring
+Last-destination (DIQ)	마지막 목적지 (DIQ)	actions	object	Fairy ring
+Last-destination (DLP)	마지막 목적지 (DLP)	actions	object	Fairy ring
+Last-destination (DLS)	마지막 목적지 (DLS)	actions	object	Fairy ring
+Last-destination (DLR)	마지막 목적지 (DLR)	actions	object	Fairy ring
+Last-destination (DLQ)	마지막 목적지 (DLQ)	actions	object	Fairy ring
+Last-destination (DKP)	마지막 목적지 (DKP)	actions	object	Fairy ring
+Last-destination (DKS)	마지막 목적지 (DKS)	actions	object	Fairy ring
+Last-destination (DKR)	마지막 목적지 (DKR)	actions	object	Fairy ring
+Last-destination (DKQ)	마지막 목적지 (DKQ)	actions	object	Fairy ring
+Last-destination (DJP)	마지막 목적지 (DJP)	actions	object	Fairy ring
+Last-destination (DJS)	마지막 목적지 (DJS)	actions	object	Fairy ring
+Last-destination (DJR)	마지막 목적지 (DJR)	actions	object	Fairy ring
+Last-destination (DJQ)	마지막 목적지 (DJQ)	actions	object	Fairy ring
+Last-destination (CIP)	마지막 목적지 (CIP)	actions	object	Fairy ring
+Last-destination (CIS)	마지막 목적지 (CIS)	actions	object	Fairy ring
+Last-destination (CIR)	마지막 목적지 (CIR)	actions	object	Fairy ring
+Last-destination (CIQ)	마지막 목적지 (CIQ)	actions	object	Fairy ring
+Last-destination (CLP)	마지막 목적지 (CLP)	actions	object	Fairy ring
+Last-destination (CLS)	마지막 목적지 (CLS)	actions	object	Fairy ring
+Last-destination (CLR)	마지막 목적지 (CLR)	actions	object	Fairy ring
+Last-destination (CLQ)	마지막 목적지 (CLQ)	actions	object	Fairy ring
+Last-destination (CKP)	마지막 목적지 (CKP)	actions	object	Fairy ring
+Last-destination (CKS)	마지막 목적지 (CKS)	actions	object	Fairy ring
+Last-destination (CKR)	마지막 목적지 (CKR)	actions	object	Fairy ring
+Last-destination (CKQ)	마지막 목적지 (CKQ)	actions	object	Fairy ring
+Last-destination (CJP)	마지막 목적지 (CJP)	actions	object	Fairy ring
+Last-destination (CJS)	마지막 목적지 (CJS)	actions	object	Fairy ring
+Last-destination (CJR)	마지막 목적지 (CJR)	actions	object	Fairy ring
+Last-destination (CJQ)	마지막 목적지 (CJQ)	actions	object	Fairy ring
+Last-destination (BIP)	마지막 목적지 (BIP)	actions	object	Fairy ring
+Last-destination (BIS)	마지막 목적지 (BIS)	actions	object	Fairy ring
+Last-destination (BIR)	마지막 목적지 (BIR)	actions	object	Fairy ring
+Last-destination (BIQ)	마지막 목적지 (BIQ)	actions	object	Fairy ring
+Last-destination (BLP)	마지막 목적지 (BLP)	actions	object	Fairy ring
+Last-destination (BLS)	마지막 목적지 (BLS)	actions	object	Fairy ring
+Last-destination (BLR)	마지막 목적지 (BLR)	actions	object	Fairy ring
+Last-destination (BLQ)	마지막 목적지 (BLQ)	actions	object	Fairy ring
+Last-destination (BKP)	마지막 목적지 (BKP)	actions	object	Fairy ring
+Last-destination (BKS)	마지막 목적지 (BKS)	actions	object	Fairy ring
+Last-destination (BKR)	마지막 목적지 (BKR)	actions	object	Fairy ring
+Last-destination (BKQ)	마지막 목적지 (BKQ)	actions	object	Fairy ring
+Last-destination (BJP)	마지막 목적지 (BJP)	actions	object	Fairy ring
+Last-destination (BJS)	마지막 목적지 (BJS)	actions	object	Fairy ring
+Last-destination (BJR)	마지막 목적지 (BJR)	actions	object	Fairy ring
+Last-destination (BJQ)	마지막 목적지 (BJQ)	actions	object	Fairy ring
+Tree	나무	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	고리: 자나리스	actions	object	Spiritual Fairy Tree
+Ring-configure	고리: 설정	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	고리: 마지막 목적지 (AIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	고리: 마지막 목적지 (AIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	고리: 마지막 목적지 (AIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	고리: 마지막 목적지 (AIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	고리: 마지막 목적지 (ALP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	고리: 마지막 목적지 (ALS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	고리: 마지막 목적지 (ALR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	고리: 마지막 목적지 (ALQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	고리: 마지막 목적지 (AKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	고리: 마지막 목적지 (AKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	고리: 마지막 목적지 (AKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	고리: 마지막 목적지 (AKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	고리: 마지막 목적지 (AJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	고리: 마지막 목적지 (AJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	고리: 마지막 목적지 (AJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	고리: 마지막 목적지 (AJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	고리: 마지막 목적지 (DIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	고리: 마지막 목적지 (DIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	고리: 마지막 목적지 (DIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	고리: 마지막 목적지 (DIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	고리: 마지막 목적지 (DLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	고리: 마지막 목적지 (DLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	고리: 마지막 목적지 (DLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	고리: 마지막 목적지 (DLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	고리: 마지막 목적지 (DKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	고리: 마지막 목적지 (DKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	고리: 마지막 목적지 (DKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	고리: 마지막 목적지 (DKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	고리: 마지막 목적지 (DJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	고리: 마지막 목적지 (DJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	고리: 마지막 목적지 (DJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	고리: 마지막 목적지 (DJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	고리: 마지막 목적지 (CIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	고리: 마지막 목적지 (CIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	고리: 마지막 목적지 (CIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	고리: 마지막 목적지 (CIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	고리: 마지막 목적지 (CLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	고리: 마지막 목적지 (CLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	고리: 마지막 목적지 (CLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	고리: 마지막 목적지 (CLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	고리: 마지막 목적지 (CKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	고리: 마지막 목적지 (CKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	고리: 마지막 목적지 (CKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	고리: 마지막 목적지 (CKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	고리: 마지막 목적지 (CJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	고리: 마지막 목적지 (CJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	고리: 마지막 목적지 (CJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	고리: 마지막 목적지 (CJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	고리: 마지막 목적지 (BIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	고리: 마지막 목적지 (BIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	고리: 마지막 목적지 (BIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	고리: 마지막 목적지 (BIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	고리: 마지막 목적지 (BLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	고리: 마지막 목적지 (BLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	고리: 마지막 목적지 (BLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	고리: 마지막 목적지 (BLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	고리: 마지막 목적지 (BKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	고리: 마지막 목적지 (BKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	고리: 마지막 목적지 (BKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	고리: 마지막 목적지 (BKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	고리: 마지막 목적지 (BJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	고리: 마지막 목적지 (BJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	고리: 마지막 목적지 (BJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	고리: 마지막 목적지 (BJQ)	actions	object	Spiritual Fairy Tree
+Craft-rune	룬 제작하기	actions	object	Altar
+Fuel	연료 넣기	actions	object	Brazier
+Dispel	떨쳐내기	actions	object	Shimmering barrier
+Shared	공유	actions	object	Small storage unit
+Take Rake	갈퀴 가져가기	actions	object	Old tools
+Take Spade	삽 가져가기	actions	object	Old tools
+Take Seed Dibber	씨앗 구멍 막대 가져가기	actions	object	Old tools
+Pick-lots	많이 따기	actions	object	Gourd tree
+Quick-pass	빠른 통과	actions	object	Mystical barrier
+Coffer	금고	actions	object	Furnace
+Quick-exit	빠른 퇴장	actions	object	Cave exit
+Travel to platform	발판으로 이동	actions	object	Row boat
+Leave platform	발판 떠나기	actions	object	Row boat
+Check count	수 확인	actions	object	Rock
+Toggle warning	경고 전환	actions	object	Rock
+Seeds	씨앗	actions	object	Birdhouse (empty)
+Interact	상호작용	actions	object	Birdhouse
+Inject	주입하기	actions	object	Sulliuscep
+Jump on	뛰어오르기	actions	object	Rubber cap mushroom
+Navigate	항해하기	actions	object	Obstacle
+Climb Down	내려가기	actions	object	Trap Door
+Climb Up	올라가기	actions	object	Rope anchor
+Dive	잠수하기	actions	object	Rowboat
+Build on	위에 짓기	actions	object	Ring of Stones
+Take tools	도구 가져가기	actions	object	Crate
+Set up	설치하기	actions	object	Drift net anchors
+Take down	철거하기	actions	object	Drift net anchors
+Pick up	집어 들기	actions	object	Pile of Fishbowls
+Pay	지불하기	actions	object	Volcano Entrance
+Feel	더듬기	actions	object	Gas hole
+Add to	추가하기	actions	object	Large Fossil Support
+Climb through	통과하기	actions	object	Hole
+Teleport to destination	목적지로 순간이동	actions	object	Obelisk
+Set destination	목적지 설정	actions	object	Obelisk
+Jump to	건너뛰기	actions	object	Pillar
+Preferences	환경 설정	actions	object	Log storage
+Absorb	흡수하기	actions	object	Energy Sphere
+Reminisce	회상하기	actions	object	Pool of Dreams
+Nets	그물	actions	object	Annette
+Ancient	고대	actions	object	Altar of the Occult
+Lunar	루나	actions	object	Altar of the Occult
+Arceuus	아르세우스	actions	object	Altar of the Occult
+Standard	일반	actions	object	Altar of the Occult
+Recharge-jewellery	장신구 충전	actions	object	Totem Pole
+Douse	물 끼얹기	actions	object	Fire
+Heal	치료하기	actions	object	Fremennik warrior
+Complete	완료하기	actions	object	Incomplete map
+Check-Count	수 확인	actions	object	Gate
+Clamber	기어오르기	actions	object	Rock Pile
+Look-through	통해 보기	actions	object	Window
+Charge-at	돌격하기	actions	object	Vyre well
+Quick-enter	빠른 입장	actions	object	Door
+Resign	포기하기	actions	object	Vyre Orator
+Varrock	바록	actions	object	Varrock Portal
+Grand Exchange	그랜드 익스체인지	actions	object	Varrock Portal
+Toggle	전환	actions	object	Varrock Portal
+Camelot	카멜롯	actions	object	Camelot Portal
+Seers' Village	시어스 마을	actions	object	Camelot Portal
+Watchtower	감시탑	actions	object	Yanille Watchtower Portal
+Yanille	야닐	actions	object	Yanille Watchtower Portal
+Quick-Enter	빠른 입장	actions	object	Formidable passage
+Iceberg	빙산	actions	object	Boat
+Weiss	바이스	actions	object	Boat
+Teleport Menu	순간이동 메뉴	actions	object	Portal Nexus
+Configuration	설정	actions	object	Portal Nexus
+Look out	내다보기	actions	object	Xeric's Talisman
+Teleport menu	순간이동 메뉴	actions	object	Xeric's Talisman
+Glade	숲속 빈터	actions	object	Xeric's Talisman
+Inferno	인페르노	actions	object	Xeric's Talisman
+Heart	심장	actions	object	Xeric's Talisman
+Honour	명예	actions	object	Xeric's Talisman
+Digsite	발굴지	actions	object	Digsite Pendant
+Fossil Island	화석 섬	actions	object	Digsite Pendant
+Lithkren	리스크렌	actions	object	Digsite Pendant
+Ancients	고대인	actions	object	Supplies
+Start	시작	actions	object	Steam Generator
+Align	정렬하기	actions	object	Power Grid
+Fill-jug	주전자 채우기	actions	object	Coolant Dispenser
+Cleanse	정화하기	actions	object	Refinery
+Rebalance	재조정	actions	object	Energy Pylon
+Pick-dragonfruit	용과 따기	actions	object	Dragonfruit tree
+Crawl through	기어서 통과하기	actions	object	Tunnel
+Quick-open	빠른 열기	actions	object	Alchemical door
+Take-rock	돌 가져가기	actions	object	Rubble
+Quick-Exit	빠른 퇴장	actions	object	Ancient Fire
+Check-Faith	신앙 확인	actions	object	Sacred Bone Burner
+Enter-crypt	지하 묘지 들어가기	actions	object	Thick Web
+Follow	따라가기	actions	object	Tracks
+Fill-from	채우기	actions	object	Water Pump
+Channel	기운 모으기	actions	object	Teleport Platform
+Enter-corrupted	타락 모드 입장	actions	object	The Gauntlet
+Refine	정제하기	actions	object	Furnace
+Imbue	주입하기	actions	object	Altar
+Emir's Arena	에미르의 경기장	actions	object	Basic Jewellery Box
+Castle Wars	캐슬 워즈	actions	object	Basic Jewellery Box
+Ferox Enclave	페록스 거주지	actions	object	Basic Jewellery Box
+Burthorpe	버소프	actions	object	Basic Jewellery Box
+Barbarian Outpost	야만인 전초기지	actions	object	Basic Jewellery Box
+Corporeal Beast	코퍼리얼 비스트	actions	object	Basic Jewellery Box
+Tears of Guthix	구식스의 눈물	actions	object	Basic Jewellery Box
+Wintertodt Camp	윈터토트 야영지	actions	object	Basic Jewellery Box
+Warriors' Guild	전사 길드	actions	object	Fancy Jewellery Box
+Champions' Guild	챔피언 길드	actions	object	Fancy Jewellery Box
+Monastery	수도원	actions	object	Fancy Jewellery Box
+Ranging Guild	궁수 길드	actions	object	Fancy Jewellery Box
+Fishing Guild	낚시 길드	actions	object	Fancy Jewellery Box
+Mining Guild	채광 길드	actions	object	Fancy Jewellery Box
+Crafting Guild	공예 길드	actions	object	Fancy Jewellery Box
+Cooking Guild	요리 길드	actions	object	Fancy Jewellery Box
+Woodcutting Guild	벌목 길드	actions	object	Fancy Jewellery Box
+Farming Guild	농사 길드	actions	object	Fancy Jewellery Box
+Miscellania	미셀라니아	actions	object	Ornate Jewellery Box
+Falador Park	팔라도르 공원	actions	object	Ornate Jewellery Box
+Dondakan's Rock	돈다칸의 바위	actions	object	Ornate Jewellery Box
+Take manta ray	쥐가오리 가져가기	actions	object	Bounty supply crate
+Take anglerfish	아귀 가져가기	actions	object	Bounty supply crate
+Destroy	파괴하기	actions	object	Lab table
+Stamp-out	밟아 끄기	actions	object	Magical Fire
+Continue	계속하기	actions	object	Path
+Climp-up	올라가기	actions	object	Stairs
+Check-statistics (Personal)	통계 확인 (개인)	actions	object	Noticeboard
+Check-statistics (Global)	통계 확인 (전체)	actions	object	Noticeboard
+Sacrifice	제물 바치기	actions	object	Saradomin Brazier
+Walk-over	걸어서 넘어가기	actions	object	Bridge
+Conjure	불러내기	actions	object	Portal frame
+Search-for-traps	함정 찾기	actions	object	Coffin
+Pass-Through	통과하기	actions	object	Casual
+Cut-foot	발 자르기	actions	object	Dead sourhog
+Take-candy	사탕 가져가기	actions	object	Magical pumpkin
+Jump-Down	뛰어내리기	actions	object	Crevice
+Channel (Asgarnia)	기운 모으기 (아스가르니아)	actions	object	Waystone
+Channel (Misthalin)	기운 모으기 (미스탈린)	actions	object	Waystone
+Channel (Kandarin)	기운 모으기 (칸다린)	actions	object	Waystone
+Channel (Fremennik)	기운 모으기 (프레메닉)	actions	object	Waystone
+Channel (Kharidian Desert)	기운 모으기 (카리디안 사막)	actions	object	Waystone
+Channel (Morytania)	기운 모으기 (모리타니아)	actions	object	Waystone
+Channel (Tirannwn)	기운 모으기 (티란윈)	actions	object	Waystone
+Channel (Karamja)	기운 모으기 (카람자)	actions	object	Waystone
+Channel (Wilderness)	기운 모으기 (황야)	actions	object	Waystone
+Slayer	슬레이어	actions	object	Kings' ladder
+Open (normal)	열기 (일반)	actions	object	Big door
+Open (private)	열기 (개인)	actions	object	Big door
+Climb-down (normal)	내려가기 (일반)	actions	object	Tunnel entrance
+Climb-down (private)	내려가기 (개인)	actions	object	Tunnel entrance
+Sacrifice-fragments	조각 바치기	actions	object	Soul Obelisk
+Remove-decorations	장식 제거	actions	object	Christmas curtains
+Untether	묶은 줄 풀기	actions	object	Mast
+Tether	묶기	actions	object	Mast
+Remove-trophy	트로피 제거	actions	object	Trophy pedestal
+View-trophies	트로피 보기	actions	object	Oak trophy case
+Remove-banner	깃발 제거	actions	object	Banner stand
+Remove-outfit	의상 제거	actions	object	Oak outfit stand
+Spin-globe	지구본 돌리기	actions	object	Trailblazer globe
+League-statistics	리그 통계	actions	object	League Accomplishment Scroll
+League-rankings	리그 순위	actions	object	League Accomplishment Scroll
+League-firsts	리그 최초 달성	actions	object	League Accomplishment Scroll
+Cook-at	요리하기	actions	object	Shrine
+Big-search	샅샅이 수색하기	actions	object	Reward pool
+Quick-climb	빠른 오르기	actions	object	Rope ladder
+Solo-start	혼자 시작	actions	object	Rope ladder
+Prepare-fish	생선 손질	actions	object	Preparation Table
+Offer-fish	생선 바치기	actions	object	Altar
+Entertain	즐겁게 하기	actions	object	Piano
+Play-quietly	조용히 연주하기	actions	object	Piano
+Background-music	배경 음악	actions	object	Piano
+Enter-member	회원 입장	actions	object	Clan hall portal
+Enter-guest	손님 입장	actions	object	Clan hall portal
+Pet	쓰다듬기	actions	object	Cat
+Pass (normal)	통과하기 (일반)	actions	object	Ancient Barrier
+Pass (private)	통과하기 (개인)	actions	object	Ancient Barrier
+Adjust	조절하기	actions	object	Machine
+Say-name	이름 말하기	actions	object	Grave
+Deposit-runes	룬 맡기기	actions	object	Deposit Pool
+Deposit-items	아이템 맡기기	actions	object	Deposit Pool
+Visual-effects	시각 효과	actions	object	Barrier
+Toggle-talisman	부적 전환	actions	object	Guardian of Air
+Assemble	조립하기	actions	object	Essence pile (elemental)
+Take-chisel	끌 가져가기	actions	object	Weak cells
+Place-cell	전지 놓기	actions	object	Inactive cell tile
+Exit-through (Kourend)	통해 나가기 (쿠렌드)	actions	object	Blood rift
+Pay-toll(10gp)	통행료 지불(10gp)	actions	object	Gate
+Pour	붓기	actions	object	Crucible (full)
+Heat-preform	반제품 가열	actions	object	Lava pool
+Dunk-preform	반제품 담그기	actions	object	Lava pool
+Cool-preform	반제품 식히기	actions	object	Waterfall
+Quench-preform	반제품 담금질	actions	object	Waterfall
+Store-preform	반제품 보관	actions	object	Preform storage
+Take-preform	반제품 가져가기	actions	object	Preform storage
+Rank	순위	actions	object	Arena recruitment board
+Quick-use	빠른 사용	actions	object	Staging area steps
+Quick-Pass	빠른 통과	actions	object	Barrier
+Flip	뒤집기	actions	object	Pressure plate
+Rotate-clockwise	시계 방향 회전	actions	object	Mirror
+Rotate-anticlockwise	반시계 방향 회전	actions	object	Mirror
+Deposit-pickaxe	곡괭이 맡기기	actions	object	Statue
+Quick-Use	빠른 사용	actions	object	Teleport crystal
+Quick-Board	빠른 탑승	actions	object	Sacrificial boat
+Check-permissions	권한 확인	actions	object	Chest
+Pickup	집어 들기	actions	object	Gingerbread
+Check-times	시간 확인	actions	object	Santa's log
+Push-against	밀어붙이기	actions	object	Wall
+Check-Fee	요금 확인	actions	object	Crevice
+Peer-into	들여다보기	actions	object	Prifddinas Display
+Release-bees	벌 풀어 주기	actions	object	Beehive
+Add-mulch	거름 주기	actions	object	Struggling sapling
+Read (Awakened)	읽기 (각성)	actions	object	Scoreboard
+Attach-rope	밧줄 걸기	actions	object	Rock
+Climb-rope	밧줄 타기	actions	object	Rock
+Build-barricade	바리케이드 짓기	actions	object	Surface
+Take-supplies	보급품 가져가기	actions	object	Stone chest
+Lockpick	자물쇠 따기	actions	object	Stone chest (locked)
+Burn	태우기	actions	object	Shipwreck
+Burn`	태우기	actions	object	Gunpowder
+Withdraw	꺼내기	actions	object	Extract orifice
+Tend-to	돌보기	actions	object	Forester's Campfire
+Rest	쉬기	actions	object	Forester's Campfire
+Retrieve-egg	알 회수	actions	object	Pheasant Nest
+Revert	되돌리기	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	기운 모으기 (그레이트 쿠렌드)	actions	object	Waystone
+Travel-End	끝으로 이동	actions	object	Portal
+Travel-Start	시작점으로 이동	actions	object	Portal
+Reload	재장전	actions	object	Steps
+Collect-reward	보상 수령	actions	object	Table
+Look-over	훑어보기	actions	object	Balcony
+Fortis Colosseum	포르티스 콜로세움	actions	object	Basic Jewellery Box
+View-stats	능력치 보기	actions	object	Colosseum scoreboard
+View-glory	영광 보기	actions	object	Colosseum scoreboard
+Sabotage	방해 공작	actions	object	Lily pad
+Plant-evidence	증거 심기	actions	object	Capybara Dung
+Rustle	바스락거리기	actions	object	Bush
+Make-cuppa	차 끓이기	actions	object	Cooking stove
+Align-net	그물 맞추기	actions	object	Stream
+Take-from Fishing	꺼내기 (낚시)	actions	object	Supply crates
+Take-from Hunting	꺼내기 (사냥)	actions	object	Supply crates
+Take-from Herblore	꺼내기 (약초학)	actions	object	Supply crates
+Take-log	통나무 가져가기	actions	object	Roots
+Bask	햇볕 쬐기	actions	object	Shrine of Ralos
+Cimb-down	내려가기	actions	object	Open trapdoor
+Bless	축복하기	actions	object	Exposed altar
+Deposit-eggs	알 맡기기	actions	object	Easter mine cart
+Redeem	교환하기	actions	object	Agility dispenser
+Squeeze-Through	비집고 지나가기	actions	object	Crevice
+Jump-Across	뛰어 건너기	actions	object	Dry stone wall
+Cross-over	건너가기	actions	object	Broken wall
+Take-many	여러 개 가져가기	actions	object	Medical box
+Slide-along	미끄러져 가기	actions	object	Icy ledge
+Take-uniform	제복 가져가기	actions	object	Wardrobe
+Concentrate-potion	물약 농축	actions	object	Retort
+Homogenise-potion	물약 균질화	actions	object	Agitator
+Crystalise-potion	물약 결정화	actions	object	Alembic
+Fulfil-order	주문 처리	actions	object	Conveyor belt
+Fight-privately	따로 싸우기	actions	object	Meeting flag
+Leave-group	그룹 떠나기	actions	object	Meeting flag (private)
+Quick-slide	빠른 미끄럼	actions	object	Slope
+Change	바꾸기	actions	object	Scarecrow
+Plant	심기	actions	object	Pumpkin patch
+Carve-pumpkin	호박 조각하기	actions	object	Pumpkin carving table
+Walk-to	걸어가기	actions	object	Blue tile
+Channel (Varlamore)	기운 모으기 (바를라모어)	actions	object	Waystone
+Reinvigorate	활력 되찾기	actions	object	Book of Eternal Flame
+Trophies	트로피	actions	object	Teak display
+Bottom-Floor	맨 아래층	actions	object	Ladder
+Quench	담금질	actions	object	Pool of ichor
+Hang-over	걸치기	actions	object	Platform edge
+Follow	따라가기	actions	player	
+Trade with	거래하기	actions	player	
+Lookup	조회	actions	player	
+Equipment	장비	actions	player	
+Report	신고	actions	player	

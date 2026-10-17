@@ -8,10 +8,10 @@ import zipfile
 from common_func import LANG
 import update_hash
 
-font_size_lang = {'ja':12, 'ru':12, 'zh':12} # max 12
-canvas_size_lang = {'ja':(12,12), 'ru':(12,12), 'zh':(12,12)} # canvas size in order of width, height.
-text_pad_lang = {'ja':(0,0), 'ru':(0,-1), 'zh':(0,0)} # pixels to shift the text, in order of left padding and top padding
-bg_text_pad_lang = {'ja':(1,1), 'ru':(1,1), 'zh':(1,1)} # pixels to shift the 'shadow text', in order of left padding and top padding
+font_size_lang = {'ja':12, 'ru':12, 'zh':12, 'ko':12} # max 12
+canvas_size_lang = {'ja':(12,12), 'ru':(12,12), 'zh':(12,12), 'ko':(12,12)} # canvas size in order of width, height.
+text_pad_lang = {'ja':(0,0), 'ru':(0,-1), 'zh':(0,0), 'ko':(0,0)} # pixels to shift the text, in order of left padding and top padding
+bg_text_pad_lang = {'ja':(1,1), 'ru':(1,1), 'zh':(1,1), 'ko':(1,1)} # pixels to shift the 'shadow text', in order of left padding and top padding
 # add more languages as needed
 
 # some values below will change on execution
@@ -21,6 +21,7 @@ COLORORDER = ('black', 'yellow', 'red', 'orange', 'white','lightblue', 'green', 
 FONT_SIZE = 12 # changes on execution
 CANV_WIDTH = 12 # changes on execution
 CANV_HEIGHT = 12 # changes on execution
+CURRENT_FONT = None # changes on execution
 BGCOLOR = [(130,130,130, 255),(156,148,0,255) ,(176,23,23,255) ,(140,99,24,255), (100,100,100,255), (41,135,135,255), (10,130,10,255), (115,120,245,255)] # blue bgcolor was (115,120,245,255)
 BGTEXTCOLOR = [(255,255,255,0), (0,0,0,255),(0,0,0,0), # order = (1'black', 2'yellow', 3'red',
            (0,0,0,0), (0,0,0,0), (0,0,0,0), (0,10,0,0),(255, 255, 255, 0)]#4'orange', 5'white', 6'lightblue', 7'green', 8'blue')
@@ -70,6 +71,8 @@ def setGoodParam(char, lang): # setting width for a specific character. add more
         return setJaFontSize(char)
     elif lang == 'ru':
         return setRuFontSize(char)
+    elif lang == 'ko':
+        return setKoFontSize(char)
     else:
         return CANV_WIDTH, CANV_HEIGHT, TEXTPAD
 
@@ -145,8 +148,17 @@ def setJaFontSize(char):
     return width, height, new_text_pad
 
 
+def setKoFontSize(char):
+    # the Korean font is a pixel font made for this size, so its advance width is already pixel exact
+    width = max(1, math.ceil(CURRENT_FONT.getlength(char))) if CURRENT_FONT else CANV_WIDTH
+    height = max(CANV_HEIGHT, CURRENT_FONT.getbbox(char)[3]) if CURRENT_FONT else CANV_HEIGHT # make the canvas taller for characters going below it, such as , g y
+    return width, height, TEXTPAD
+
+
 def create_images(chars_list, font_path, output_dir, colors, lang):
     font = ImageFont.truetype(font_path, FONT_SIZE)  # Load the font, size FONTSIZE
+    global CURRENT_FONT
+    CURRENT_FONT = font
 
     for i, color in enumerate(colors):
 
